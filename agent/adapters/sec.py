@@ -30,7 +30,7 @@ EXTRACT_VERSION = 1               # 收入构成提取规则的版本；改了�
 TICKERS_URL = "https://www.sec.gov/files/company_tickers.json"
 SEG_FILE = "sec_segments.json"
 LLY = {"id": "lly", "cik": "0000059478", "ticker": "LLY"}
-FOREIGN_FORMS = ("20-F", "40-F")
+FOREIGN_FORMS = ("20-F", "40-F", "6-K")      # 6-K 只有外国发行人申报
 AREAS = ["Oncology", "Immunology", "Neuroscience", "Cardiometabolic Health", "Cardiovascular", "Infectious Disease", "Vaccines",
          "Hematology", "Rare Disease", "Ophthalmology", "Respiratory", "Women's Health", "Animal Health", "Aesthetics",
          "Established Products", "Other"]
