@@ -156,6 +156,7 @@ HOME = """<!doctype html>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>医药行业财务看板</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 16 16%27%3E%3Crect x=%271%27 y=%279%27 width=%273%27 height=%276%27 fill=%27%232a78d6%27/%3E%3Crect x=%276.5%27 y=%275%27 width=%273%27 height=%2710%27 fill=%27%231baf7a%27/%3E%3Crect x=%2712%27 y=%271%27 width=%273%27 height=%2714%27 fill=%27%23eb6834%27/%3E%3C/svg%3E">
 <meta name="description" content="医药行业上市公司财务看板：头部药企、RNA、细胞与基因疗法、中国创新药、医疗器械、供应链与 AI，数据来自 SEC、港交所和巨潮资讯的官方文件，每天自动更新。">
 <style>
 {{css}}

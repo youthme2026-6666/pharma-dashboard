@@ -106,6 +106,7 @@ TEMPLATE = """<!doctype html>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>礼来财务看板 · Eli Lilly</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 16 16%27%3E%3Crect x=%271%27 y=%279%27 width=%273%27 height=%276%27 fill=%27%232a78d6%27/%3E%3Crect x=%276.5%27 y=%275%27 width=%273%27 height=%2710%27 fill=%27%231baf7a%27/%3E%3Crect x=%2712%27 y=%271%27 width=%273%27 height=%2714%27 fill=%27%23eb6834%27/%3E%3C/svg%3E">
 <meta name="description" content="礼来（Eli Lilly）季度财务数据看板：营收、利润、产品、价格与销量、资产负债表和重大事件，每天自动检查更新。">
 <style>
 {{css}}
