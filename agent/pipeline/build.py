@@ -127,6 +127,7 @@ def _carve(res, prods, selected, known_areas, classify, combined_names, tol):
             continue
         plan.setdefault(area, []).append((name, vals[0]))
     rows = []
+    base_terms = 2 if res.quarter.endswith("Q4") else 1   # 第四季度的数是全年−前三季度
     for (area, product), v in prods.items():
         if (area, product) == buckets.get(area) and area in plan:
             carved = sum(t for _, t in plan[area])
@@ -137,12 +138,13 @@ def _carve(res, prods, selected, known_areas, classify, combined_names, tol):
                 continue
             rows.append((area, combined_names.get(area, product), None, None, round(rest, 1)))
             # 余数 = “其他”（第四季度是全年−前三季度，两个数）− 每个拆出的产品：每个公布数都各自四舍五入到百万
-            res.terms[combined_names.get(area, product)] = (2 if res.quarter.endswith("Q4") else 1) + len(plan[area])
+            res.terms[combined_names.get(area, product)] = base_terms + len(plan[area])
             for name, t in plan[area]:
                 rows.append((area, name, None, None, t))
             res.notes.append("%s：从“其他”中拆出 %s（只有合计，没有美国/国际拆分）。" % (area, "、".join(n for n, _ in plan[area])))
         elif _bucket_key(area, product):
             rows.append((area, combined_names.get(area, product), v[0], v[1], v[2]))
+            res.terms[combined_names.get(area, product)] = base_terms
         else:
             rows.append((area, product, v[0], v[1], v[2]))
     return rows

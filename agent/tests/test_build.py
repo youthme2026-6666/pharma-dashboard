@@ -82,13 +82,14 @@ class TestBuild2026Q3(unittest.TestCase):
         for p in want:
             self.assertAlmostEqual(got[p], want[p], places=1, msg=p)
         self.assertEqual(rows["Other (combined)"]["us"], 57)  # 没有拆出产品的领域保留美国/国际拆分
-        # 舍入项数：拆了产品的“(combined)”= 1 个“其他”数 + 每个拆出的产品；没拆的领域不记
+        # 舍入项数：每个“(combined)”= 1 个“其他”数 + 每个从中拆出的产品
         carved = {}
         for r in self.res.rows["product_revenue"]:
             if r["us"] is None and not r["product"].endswith("(combined)"):
                 carved[r["area"]] = carved.get(r["area"], 0) + 1
-        want_terms = {CFG["combined_bucket_names"][a]: 1 + n for a, n in carved.items()}
+        want_terms = {r["product"]: 1 + carved.get(r["area"], 0) for r in self.res.rows["product_revenue"] if r["product"].endswith("(combined)")}
         self.assertEqual(self.res.terms, want_terms)
+        self.assertEqual(self.res.terms["Other (combined)"], 1)
 
     def test_price_volume(self):
         rows = {r["region"]: r for r in self.res.rows["price_volume"]}
