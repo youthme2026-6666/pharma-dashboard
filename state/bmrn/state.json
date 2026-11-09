@@ -1,6 +1,6 @@
 {
   "cik": "0001048477",
-  "code_hash": "c3eb527647b9",
+  "code_hash": "a3ea769cc45e",
   "fiscal_year_end": "1231",
   "form_type": "10-K",
   "identity_checked": "2026-11-09",
@@ -8,8 +8,18 @@
   "name": "BIOMARIN PHARMACEUTICAL INC",
   "periods": 28,
   "product_groups": {
+    "ALDURAZYME": "Rare Disease",
+    "BRINEURA": "Rare Disease",
+    "GALAFOLD": "Rare Disease",
+    "KUVAN": "Rare Disease",
+    "NAGLAZYME": "Rare Disease",
+    "PALYNZIQ": "Rare Disease",
+    "POMBILITIOPFOLDA": "Rare Disease",
     "Product": "Rare Disease",
-    "RoyaltyAndOther": "Other"
+    "ROCTAVIAN": "Hematology",
+    "RoyaltyAndOther": "Other",
+    "VIMIZIM": "Rare Disease",
+    "VOXZOGO": "Rare Disease"
   },
   "segment_exclude": {},
   "sic": "Pharmaceutical Preparations",

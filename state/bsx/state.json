@@ -1,13 +1,17 @@
 {
   "cik": "0000885725",
-  "code_hash": "c3eb527647b9",
+  "code_hash": "a3ea769cc45e",
   "fiscal_year_end": "1231",
   "form_type": "10-K",
   "identity_checked": "2026-11-09",
   "last_check": "2026-11-09",
   "name": "BOSTON SCIENTIFIC CORP",
   "periods": 28,
-  "segment_exclude": {},
+  "segment_exclude": {
+    "geography": [
+      "bsx:EmergingMarketsMember"
+    ]
+  },
   "sic": "Surgical & Medical Instruments & Apparatus",
   "ticker": "BSX"
 }

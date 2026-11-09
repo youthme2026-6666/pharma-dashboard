@@ -14,12 +14,6 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2021,Q2,2021-06-30,3,geography,JP,Japan,,,2.914,USD,millions,reported,SEC 10-Q 0001564590-21-043687
 2021,Q2,2021-06-30,3,geography,NonUs,Rest of World,,,2.948,USD,millions,reported,SEC 10-Q 0001564590-21-043687
 2021,Q2,2021-06-30,3,geography,US,United States,,,19.676,USD,millions,reported,SEC 10-Q 0001564590-21-043687
-2021,Q2,2021-06-30,3,product,Contribution,Contribution,,,1,USD,millions,reported,SEC 10-Q 0001564590-21-043687
-2021,Q2,2021-06-30,3,product,DrugDiscovery,Drug Discovery,,,5.732,USD,millions,reported,SEC 10-Q 0001564590-21-043687
-2021,Q2,2021-06-30,3,product,HostedSoftware,Hosted Software,,,2.704,USD,millions,reported,SEC 10-Q 0001564590-21-043687
-2021,Q2,2021-06-30,3,product,Maintenance,Software Maintenance,,,4.176,USD,millions,reported,SEC 10-Q 0001564590-21-043687
-2021,Q2,2021-06-30,3,product,OnPremiseSoftware,On Premise Software,,,14.452,USD,millions,reported,SEC 10-Q 0001564590-21-043687
-2021,Q2,2021-06-30,3,product,ProfessionalServices,Professional Services,,,1.72,USD,millions,reported,SEC 10-Q 0001564590-21-043687
 2021,Q2,2021-06-30,3,segment,DrugDiscoverySegment,Drug Discovery Segment,,,5.732,USD,millions,reported,SEC 10-Q 0001564590-21-043687
 2021,Q2,2021-06-30,3,segment,SoftwareSegment,Software Segment,,,24.052,USD,millions,reported,SEC 10-Q 0001564590-21-043687
 2021,Q3,2021-09-30,3,geography,Europe,Europe,,,3.566,USD,millions,reported,SEC 10-Q 0001564590-21-056203
@@ -43,12 +37,6 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2021,FY,2021-12-31,12,geography,JP,Japan,,,8.565,USD,millions,reported,SEC 10-K 0001564590-22-006713
 2021,FY,2021-12-31,12,geography,NonUs,Rest of World,,,11.158,USD,millions,reported,SEC 10-K 0001564590-22-006713
 2021,FY,2021-12-31,12,geography,US,United States,,,90.398,USD,millions,reported,SEC 10-K 0001564590-22-006713
-2021,FY,2021-12-31,12,product,DrugDiscovery,Drug Discovery,,,24.695,USD,millions,reported,SEC 10-K 0001564590-22-006713
-2021,FY,2021-12-31,12,product,HostedSoftware,Hosted Software,,,11.076,USD,millions,reported,SEC 10-K 0001564590-22-006713
-2021,FY,2021-12-31,12,product,Maintenance,Software Maintenance,,,17.294,USD,millions,reported,SEC 10-K 0001564590-22-006713
-2021,FY,2021-12-31,12,product,OnPremiseSoftware,On Premise Software,,,74.598,USD,millions,reported,SEC 10-K 0001564590-22-006713
-2021,FY,2021-12-31,12,product,ProfessionalServices,Professional Services,,,9.268,USD,millions,reported,SEC 10-K 0001564590-22-006713
-2021,FY,2021-12-31,12,product,SoftwareContribution,Software Contribution,,,1,USD,millions,reported,SEC 10-K 0001564590-22-006713
 2021,FY,2021-12-31,12,segment,DrugDiscoverySegment,Drug Discovery Segment,,,24.695,USD,millions,reported,SEC 10-K 0001564590-22-006713
 2021,FY,2021-12-31,12,segment,SoftwareSegment,Software Segment,,,113.236,USD,millions,reported,SEC 10-K 0001564590-22-006713
 2022,Q1,2022-03-31,3,geography,Europe,Europe,,,12.645,USD,millions,reported,SEC 10-Q 0001490978-23-000048
@@ -66,19 +54,12 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2022,Q2,2022-06-30,3,geography,EMEA,EMEA,,,5.106,USD,millions,reported,SEC 10-Q 0001490978-23-000090
 2022,Q2,2022-06-30,3,geography,NonUs,Rest of World,,,3.293,USD,millions,reported,SEC 10-Q 0001490978-23-000090
 2022,Q2,2022-06-30,3,geography,US,United States,,,27.104,USD,millions,reported,SEC 10-Q 0001490978-23-000090
-2022,Q2,2022-06-30,3,product,Contribution,Software contribution,,,1,USD,millions,reported,SEC 10-Q 0001490978-23-000090
-2022,Q2,2022-06-30,3,product,DrugDiscovery,Drug discovery,,,8.458,USD,millions,reported,SEC 10-Q 0001490978-23-000090
-2022,Q2,2022-06-30,3,product,HostedSoftware,Hosted software,,,3.596,USD,millions,reported,SEC 10-Q 0001490978-23-000090
-2022,Q2,2022-06-30,3,product,Maintenance,Software maintenance,,,4.952,USD,millions,reported,SEC 10-Q 0001490978-23-000090
-2022,Q2,2022-06-30,3,product,OnPremiseSoftware,On-premise software,,,16.595,USD,millions,reported,SEC 10-Q 0001490978-23-000090
-2022,Q2,2022-06-30,3,product,ProfessionalServices,Professional services,,,3.868,USD,millions,reported,SEC 10-Q 0001490978-23-000090
 2022,Q2,2022-06-30,3,segment,DrugDiscoverySegment,Drug discovery,,,8.458,USD,millions,reported,SEC 10-Q 0001490978-23-000090
 2022,Q2,2022-06-30,3,segment,SoftwareSegment,Software,,,30.011,USD,millions,reported,SEC 10-Q 0001490978-23-000090
 2022,Q3,2022-09-30,3,geography,APAC,APAC,,,4.893,USD,millions,reported,SEC 10-Q 0001490978-23-000109
 2022,Q3,2022-09-30,3,geography,EMEA,EMEA,,,4.424,USD,millions,reported,SEC 10-Q 0001490978-23-000109
 2022,Q3,2022-09-30,3,geography,NonUs,Rest of World,,,0.193,USD,millions,reported,SEC 10-Q 0001490978-23-000109
 2022,Q3,2022-09-30,3,geography,US,United States,,,27.47,USD,millions,reported,SEC 10-Q 0001490978-23-000109
-2022,Q3,2022-09-30,3,product,Contribution,Software contribution,,,0,USD,millions,reported,SEC 10-Q 0001490978-23-000109
 2022,Q3,2022-09-30,3,product,DrugDiscovery,Drug discovery,,,12.313,USD,millions,reported,SEC 10-Q 0001490978-23-000109
 2022,Q3,2022-09-30,3,product,HostedSoftware,Hosted software,,,3.914,USD,millions,reported,SEC 10-Q 0001490978-23-000109
 2022,Q3,2022-09-30,3,product,Maintenance,Software maintenance,,,5.063,USD,millions,reported,SEC 10-Q 0001490978-23-000109
@@ -96,12 +77,6 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2022,FY,2022-12-31,12,geography,EMEA,EMEA,,,34.451,USD,millions,reported,SEC 10-K 0001490978-24-000018
 2022,FY,2022-12-31,12,geography,NonUs,Rest of World,,,1.268,USD,millions,reported,SEC 10-K 0001490978-24-000018
 2022,FY,2022-12-31,12,geography,US,United States,,,123.556,USD,millions,reported,SEC 10-K 0001490978-24-000018
-2022,FY,2022-12-31,12,product,DrugDiscovery,Drug discovery,,,45.377,USD,millions,reported,SEC 10-K 0001490978-24-000018
-2022,FY,2022-12-31,12,product,HostedSoftware,Hosted software,,,14.89,USD,millions,reported,SEC 10-K 0001490978-24-000018
-2022,FY,2022-12-31,12,product,Maintenance,Software maintenance,,,19.996,USD,millions,reported,SEC 10-K 0001490978-24-000018
-2022,FY,2022-12-31,12,product,OnPremiseSoftware,On-premise software,,,84.487,USD,millions,reported,SEC 10-K 0001490978-24-000018
-2022,FY,2022-12-31,12,product,ProfessionalServices,Professional services,,,15.205,USD,millions,reported,SEC 10-K 0001490978-24-000018
-2022,FY,2022-12-31,12,product,SoftwareContribution,Software contribution,,,1,USD,millions,reported,SEC 10-K 0001490978-24-000018
 2022,FY,2022-12-31,12,segment,DrugDiscoverySegment,Drug discovery,,,45.377,USD,millions,reported,SEC 10-K 0001490978-24-000018
 2022,FY,2022-12-31,12,segment,SoftwareSegment,Software,,,135.578,USD,millions,reported,SEC 10-K 0001490978-24-000018
 2023,Q1,2023-03-31,3,geography,Europe,Europe,,,6.647,USD,millions,reported,SEC 10-Q 0001490978-23-000048
@@ -119,7 +94,6 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2023,Q2,2023-06-30,3,geography,EMEA,EMEA,,,4.832,USD,millions,reported,SEC 10-Q 0001490978-23-000090
 2023,Q2,2023-06-30,3,geography,NonUs,Rest of World,,,0.156,USD,millions,reported,SEC 10-Q 0001490978-23-000090
 2023,Q2,2023-06-30,3,geography,US,United States,,,23.964,USD,millions,reported,SEC 10-Q 0001490978-23-000090
-2023,Q2,2023-06-30,3,product,Contribution,Software contribution,,,0,USD,millions,reported,SEC 10-Q 0001490978-23-000090
 2023,Q2,2023-06-30,3,product,DrugDiscovery,Drug discovery,,,5.837,USD,millions,reported,SEC 10-Q 0001490978-23-000090
 2023,Q2,2023-06-30,3,product,HostedSoftware,Hosted software,,,4.451,USD,millions,reported,SEC 10-Q 0001490978-23-000090
 2023,Q2,2023-06-30,3,product,Maintenance,Software maintenance,,,5.877,USD,millions,reported,SEC 10-Q 0001490978-23-000090
@@ -131,12 +105,6 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2023,Q3,2023-09-30,3,geography,EMEA,EMEA,,,3.758,USD,millions,reported,SEC 10-Q 0001490978-23-000109
 2023,Q3,2023-09-30,3,geography,NonUs,Rest of World,,,0.117,USD,millions,reported,SEC 10-Q 0001490978-23-000109
 2023,Q3,2023-09-30,3,geography,US,United States,,,33.127,USD,millions,reported,SEC 10-Q 0001490978-23-000109
-2023,Q3,2023-09-30,3,product,Contribution,Software contribution,,,1.8,USD,millions,reported,SEC 10-Q 0001490978-23-000109
-2023,Q3,2023-09-30,3,product,DrugDiscovery,Drug discovery,,,13.665,USD,millions,reported,SEC 10-Q 0001490978-23-000109
-2023,Q3,2023-09-30,3,product,HostedSoftware,Hosted software,,,5.463,USD,millions,reported,SEC 10-Q 0001490978-23-000109
-2023,Q3,2023-09-30,3,product,Maintenance,Software maintenance,,,5.752,USD,millions,reported,SEC 10-Q 0001490978-23-000109
-2023,Q3,2023-09-30,3,product,OnPremiseSoftware,On-premise software,,,13.806,USD,millions,reported,SEC 10-Q 0001490978-23-000109
-2023,Q3,2023-09-30,3,product,ProfessionalServices,Professional services,,,2.083,USD,millions,reported,SEC 10-Q 0001490978-23-000109
 2023,Q3,2023-09-30,3,segment,DrugDiscoverySegment,Drug discovery,,,13.665,USD,millions,reported,SEC 10-Q 0001490978-23-000109
 2023,Q3,2023-09-30,3,segment,SoftwareSegment,Software,,,28.904,USD,millions,reported,SEC 10-Q 0001490978-23-000109
 2023,Q4,2023-12-31,3,geography,APAC,APAC,,,5.692,USD,millions,derived,SEC 10-K 0001490978-24-000018 − 10-Q 0001490978-23-000109
@@ -149,19 +117,12 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2023,FY,2023-12-31,12,geography,EMEA,EMEA,,,29.135,USD,millions,reported,SEC 10-K 0001490978-24-000018
 2023,FY,2023-12-31,12,geography,NonUs,Rest of World,,,1.001,USD,millions,reported,SEC 10-K 0001490978-24-000018
 2023,FY,2023-12-31,12,geography,US,United States,,,161.961,USD,millions,reported,SEC 10-K 0001490978-24-000018
-2023,FY,2023-12-31,12,product,DrugDiscovery,Drug discovery,,,57.542,USD,millions,reported,SEC 10-K 0001490978-24-000018
-2023,FY,2023-12-31,12,product,HostedSoftware,Hosted software,,,20.381,USD,millions,reported,SEC 10-K 0001490978-24-000018
-2023,FY,2023-12-31,12,product,Maintenance,Software maintenance,,,23.066,USD,millions,reported,SEC 10-K 0001490978-24-000018
-2023,FY,2023-12-31,12,product,OnPremiseSoftware,On-premise software,,,104.511,USD,millions,reported,SEC 10-K 0001490978-24-000018
-2023,FY,2023-12-31,12,product,ProfessionalServices,Professional services,,,9.366,USD,millions,reported,SEC 10-K 0001490978-24-000018
-2023,FY,2023-12-31,12,product,SoftwareContribution,Software contribution,,,1.8,USD,millions,reported,SEC 10-K 0001490978-24-000018
 2023,FY,2023-12-31,12,segment,DrugDiscoverySegment,Drug discovery,,,57.542,USD,millions,reported,SEC 10-K 0001490978-24-000018
 2023,FY,2023-12-31,12,segment,SoftwareSegment,Software,,,159.124,USD,millions,reported,SEC 10-K 0001490978-24-000018
 2024,Q1,2024-03-31,3,geography,APAC,APAC,,,5.501,USD,millions,reported,SEC 10-Q 0001490978-24-000046
 2024,Q1,2024-03-31,3,geography,EMEA,EMEA,,,7.196,USD,millions,reported,SEC 10-Q 0001490978-24-000046
 2024,Q1,2024-03-31,3,geography,NonUs,Rest of World,,,0.604,USD,millions,reported,SEC 10-Q 0001490978-24-000046
 2024,Q1,2024-03-31,3,geography,US,United States,,,23.297,USD,millions,reported,SEC 10-Q 0001490978-24-000046
-2024,Q1,2024-03-31,3,product,Contribution,Software contribution,,,0,USD,millions,reported,SEC 10-Q 0001490978-24-000046
 2024,Q1,2024-03-31,3,product,DrugDiscovery,Drug discovery,,,3.183,USD,millions,reported,SEC 10-Q 0001490978-24-000046
 2024,Q1,2024-03-31,3,product,HostedSoftware,Hosted software,,,7.176,USD,millions,reported,SEC 10-Q 0001490978-24-000046
 2024,Q1,2024-03-31,3,product,Maintenance,Software maintenance,,,5.895,USD,millions,reported,SEC 10-Q 0001490978-24-000046
@@ -173,7 +134,6 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2024,Q2,2024-06-30,3,geography,EMEA,EMEA,,,7.805,USD,millions,reported,SEC 10-Q 0001490978-24-000072
 2024,Q2,2024-06-30,3,geography,NonUs,Rest of World,,,0.121,USD,millions,reported,SEC 10-Q 0001490978-24-000072
 2024,Q2,2024-06-30,3,geography,US,United States,,,30.699,USD,millions,reported,SEC 10-Q 0001490978-24-000072
-2024,Q2,2024-06-30,3,product,Contribution,Software contribution,,,0,USD,millions,reported,SEC 10-Q 0001490978-24-000072
 2024,Q2,2024-06-30,3,product,DrugDiscovery,Drug discovery,,,11.93,USD,millions,reported,SEC 10-Q 0001490978-24-000072
 2024,Q2,2024-06-30,3,product,HostedSoftware,Hosted software,,,8.087,USD,millions,reported,SEC 10-Q 0001490978-24-000072
 2024,Q2,2024-06-30,3,product,Maintenance,Software maintenance,,,5.84,USD,millions,reported,SEC 10-Q 0001490978-24-000072
@@ -185,12 +145,6 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2024,Q3,2024-09-30,3,geography,EMEA,EMEA,,,5.145,USD,millions,reported,SEC 10-Q 0001490978-24-000089
 2024,Q3,2024-09-30,3,geography,NonUs,Rest of World,,,0.243,USD,millions,reported,SEC 10-Q 0001490978-24-000089
 2024,Q3,2024-09-30,3,geography,US,United States,,,24.622,USD,millions,reported,SEC 10-Q 0001490978-24-000089
-2024,Q3,2024-09-30,3,product,Contribution,Software contribution,,,3.124,USD,millions,reported,SEC 10-Q 0001490978-24-000089
-2024,Q3,2024-09-30,3,product,DrugDiscovery,Drug discovery,,,3.406,USD,millions,reported,SEC 10-Q 0001490978-24-000089
-2024,Q3,2024-09-30,3,product,HostedSoftware,Hosted software,,,8.814,USD,millions,reported,SEC 10-Q 0001490978-24-000089
-2024,Q3,2024-09-30,3,product,Maintenance,Software maintenance,,,5.658,USD,millions,reported,SEC 10-Q 0001490978-24-000089
-2024,Q3,2024-09-30,3,product,OnPremiseSoftware,On-premise software,,,12.25,USD,millions,reported,SEC 10-Q 0001490978-24-000089
-2024,Q3,2024-09-30,3,product,ProfessionalServices,Professional services,,,2.038,USD,millions,reported,SEC 10-Q 0001490978-24-000089
 2024,Q3,2024-09-30,3,segment,DrugDiscoverySegment,Drug discovery,,,3.406,USD,millions,reported,SEC 10-Q 0001490978-24-000089
 2024,Q3,2024-09-30,3,segment,SoftwareSegment,Software,,,31.884,USD,millions,reported,SEC 10-Q 0001490978-24-000089
 2024,Q4,2024-12-31,3,geography,APAC,APAC,,,6.312,USD,millions,derived,SEC 10-K 0001490978-25-000014 − 10-Q 0001490978-24-000089
@@ -203,48 +157,54 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2024,FY,2024-12-31,12,geography,EMEA,EMEA,,,65.65,USD,millions,reported,SEC 10-K 0001490978-25-000014
 2024,FY,2024-12-31,12,geography,NonUs,Rest of World,,,1.218,USD,millions,reported,SEC 10-K 0001490978-25-000014
 2024,FY,2024-12-31,12,geography,US,United States,,,114.869,USD,millions,reported,SEC 10-K 0001490978-25-000014
-2024,FY,2024-12-31,12,product,DrugDiscovery,Drug discovery,,,27.174,USD,millions,reported,SEC 10-K 0001490978-25-000014
-2024,FY,2024-12-31,12,product,SoftwareProductsAndServices,Software products and services,,,180.365,USD,millions,reported,SEC 10-K 0001490978-25-000014
 2024,FY,2024-12-31,12,segment,DrugDiscoverySegment,Drug discovery,,,27.174,USD,millions,reported,SEC 10-K 0001490978-25-000014
 2024,FY,2024-12-31,12,segment,SoftwareSegment,Software,,,180.365,USD,millions,reported,SEC 10-K 0001490978-25-000014
 2025,Q1,2025-03-31,3,geography,APAC,APAC,,,6.074,USD,millions,reported,SEC 10-Q 0001490978-25-000059
 2025,Q1,2025-03-31,3,geography,EMEA,EMEA,,,23.083,USD,millions,reported,SEC 10-Q 0001490978-25-000059
 2025,Q1,2025-03-31,3,geography,NonUs,Rest of World,,,0.731,USD,millions,reported,SEC 10-Q 0001490978-25-000059
 2025,Q1,2025-03-31,3,geography,US,United States,,,29.663,USD,millions,reported,SEC 10-Q 0001490978-25-000059
-2025,Q1,2025-03-31,3,product,DrugDiscovery,Drug discovery,,,10.735,USD,millions,reported,SEC 10-Q 0001490978-25-000059
-2025,Q1,2025-03-31,3,product,SoftwareProductsAndServices,Software products and services,,,48.816,USD,millions,reported,SEC 10-Q 0001490978-25-000059
+2025,Q1,2025-03-31,3,product,DrugDiscovery,Drug discovery,,,10.236,USD,millions,reported,SEC 10-Q 0001490978-26-000037
+2025,Q1,2025-03-31,3,product,HostedSoftware,Hosted software,,,10.872,USD,millions,reported,SEC 10-Q 0001490978-26-000037
+2025,Q1,2025-03-31,3,product,Maintenance,Software maintenance,,,6.796,USD,millions,reported,SEC 10-Q 0001490978-26-000037
+2025,Q1,2025-03-31,3,product,OnPremiseSoftware,On-premise software,,,25.423,USD,millions,reported,SEC 10-Q 0001490978-26-000037
+2025,Q1,2025-03-31,3,product,OtherNotItemized,Other (not itemized),,,4.343,USD,millions,derived,SEC 10-Q 0001490978-26-000037
+2025,Q1,2025-03-31,3,product,ProfessionalServices,Professional services,,,1.881,USD,millions,reported,SEC 10-Q 0001490978-26-000037
 2025,Q1,2025-03-31,3,segment,DrugDiscoverySegment,Drug discovery,,,10.735,USD,millions,reported,SEC 10-Q 0001490978-25-000059
 2025,Q1,2025-03-31,3,segment,SoftwareSegment,Software,,,48.816,USD,millions,reported,SEC 10-Q 0001490978-25-000059
 2025,Q2,2025-06-30,3,geography,APAC,APAC,,,6.971,USD,millions,reported,SEC 10-Q 0001490978-25-000100
 2025,Q2,2025-06-30,3,geography,EMEA,EMEA,,,13.563,USD,millions,reported,SEC 10-Q 0001490978-25-000100
 2025,Q2,2025-06-30,3,geography,NonUs,Rest of World,,,0.175,USD,millions,reported,SEC 10-Q 0001490978-25-000100
 2025,Q2,2025-06-30,3,geography,US,United States,,,34.05,USD,millions,reported,SEC 10-Q 0001490978-25-000100
-2025,Q2,2025-06-30,3,product,DrugDiscovery,Drug discovery,,,14.215,USD,millions,reported,SEC 10-Q 0001490978-25-000100
-2025,Q2,2025-06-30,3,product,SoftwareProductsAndServices,Software products and services,,,40.544,USD,millions,reported,SEC 10-Q 0001490978-25-000100
+2025,Q2,2025-06-30,3,product,DrugDiscovery,Drug discovery,,,13.94,USD,millions,reported,SEC 10-Q 0001490978-26-000068
+2025,Q2,2025-06-30,3,product,HostedSoftware,Hosted software,,,11.128,USD,millions,reported,SEC 10-Q 0001490978-26-000068
+2025,Q2,2025-06-30,3,product,Maintenance,Software maintenance,,,6.778,USD,millions,reported,SEC 10-Q 0001490978-26-000068
+2025,Q2,2025-06-30,3,product,OnPremiseSoftware,On-premise software,,,15.743,USD,millions,reported,SEC 10-Q 0001490978-26-000068
+2025,Q2,2025-06-30,3,product,OtherNotItemized,Other (not itemized),,,4.788,USD,millions,derived,SEC 10-Q 0001490978-26-000068
+2025,Q2,2025-06-30,3,product,ProfessionalServices,Professional services,,,2.382,USD,millions,reported,SEC 10-Q 0001490978-26-000068
 2025,Q2,2025-06-30,3,segment,DrugDiscoverySegment,Drug discovery,,,14.215,USD,millions,reported,SEC 10-Q 0001490978-25-000100
 2025,Q2,2025-06-30,3,segment,SoftwareSegment,Software,,,40.544,USD,millions,reported,SEC 10-Q 0001490978-25-000100
 2025,Q3,2025-09-30,3,geography,APAC,APAC,,,6.755,USD,millions,reported,SEC 10-Q 0001490978-25-000117
 2025,Q3,2025-09-30,3,geography,EMEA,EMEA,,,15.723,USD,millions,reported,SEC 10-Q 0001490978-25-000117
 2025,Q3,2025-09-30,3,geography,NonUs,Rest of World,,,0.515,USD,millions,reported,SEC 10-Q 0001490978-25-000117
 2025,Q3,2025-09-30,3,geography,US,United States,,,31.331,USD,millions,reported,SEC 10-Q 0001490978-25-000117
-2025,Q3,2025-09-30,3,product,DrugDiscovery,Drug discovery,,,13.466,USD,millions,reported,SEC 10-Q 0001490978-25-000117
-2025,Q3,2025-09-30,3,product,SoftwareProductsAndServices,Software products and services,,,40.858,USD,millions,reported,SEC 10-Q 0001490978-25-000117
+2025,Q3,2025-09-30,3,product,DrugDiscovery,Drug discovery,,,13.008,USD,millions,reported,SEC 10-Q 0001490978-26-000076
+2025,Q3,2025-09-30,3,product,HostedSoftware,Hosted software,,,11.585,USD,millions,reported,SEC 10-Q 0001490978-26-000076
+2025,Q3,2025-09-30,3,product,Maintenance,Software maintenance,,,6.826,USD,millions,reported,SEC 10-Q 0001490978-26-000076
+2025,Q3,2025-09-30,3,product,OnPremiseSoftware,On-premise software,,,15.928,USD,millions,reported,SEC 10-Q 0001490978-26-000076
+2025,Q3,2025-09-30,3,product,OtherNotItemized,Other (not itemized),,,5.388,USD,millions,derived,SEC 10-Q 0001490978-26-000076
+2025,Q3,2025-09-30,3,product,ProfessionalServices,Professional services,,,1.589,USD,millions,reported,SEC 10-Q 0001490978-26-000076
 2025,Q3,2025-09-30,3,segment,DrugDiscoverySegment,Drug discovery,,,13.466,USD,millions,reported,SEC 10-Q 0001490978-25-000117
 2025,Q3,2025-09-30,3,segment,SoftwareSegment,Software,,,40.858,USD,millions,reported,SEC 10-Q 0001490978-25-000117
 2025,Q4,2025-12-31,3,geography,APAC,APAC,,,6.381,USD,millions,derived,SEC 10-K 0001490978-26-000010 − 10-Q 0001490978-25-000117
 2025,Q4,2025-12-31,3,geography,EMEA,EMEA,,,22.795,USD,millions,derived,SEC 10-K 0001490978-26-000010 − 10-Q 0001490978-25-000117
 2025,Q4,2025-12-31,3,geography,NonUs,Rest of World,,,0.141,USD,millions,derived,SEC 10-K 0001490978-26-000010 − 10-Q 0001490978-25-000117
 2025,Q4,2025-12-31,3,geography,US,United States,,,57.918,USD,millions,derived,SEC 10-K 0001490978-26-000010 − 10-Q 0001490978-25-000117
-2025,Q4,2025-12-31,3,product,DrugDiscovery,Drug discovery,,,17.953,USD,millions,derived,SEC 10-K 0001490978-26-000010 − 10-Q 0001490978-25-000117
-2025,Q4,2025-12-31,3,product,SoftwareProductsAndServices,Software products and services,,,69.282,USD,millions,derived,SEC 10-K 0001490978-26-000010 − 10-Q 0001490978-25-000117
 2025,Q4,2025-12-31,3,segment,DrugDiscoverySegment,Drug discovery,,,17.953,USD,millions,derived,SEC 10-K 0001490978-26-000010 − 10-Q 0001490978-25-000117
 2025,Q4,2025-12-31,3,segment,SoftwareSegment,Software,,,69.282,USD,millions,derived,SEC 10-K 0001490978-26-000010 − 10-Q 0001490978-25-000117
 2025,FY,2025-12-31,12,geography,APAC,APAC,,,26.181,USD,millions,reported,SEC 10-K 0001490978-26-000010
 2025,FY,2025-12-31,12,geography,EMEA,EMEA,,,75.164,USD,millions,reported,SEC 10-K 0001490978-26-000010
 2025,FY,2025-12-31,12,geography,NonUs,Rest of World,,,1.561,USD,millions,reported,SEC 10-K 0001490978-26-000010
 2025,FY,2025-12-31,12,geography,US,United States,,,152.963,USD,millions,reported,SEC 10-K 0001490978-26-000010
-2025,FY,2025-12-31,12,product,DrugDiscovery,Drug discovery,,,56.369,USD,millions,reported,SEC 10-K 0001490978-26-000010
-2025,FY,2025-12-31,12,product,SoftwareProductsAndServices,Software products and services,,,199.5,USD,millions,reported,SEC 10-K 0001490978-26-000010
 2025,FY,2025-12-31,12,segment,DrugDiscoverySegment,Drug discovery,,,56.369,USD,millions,reported,SEC 10-K 0001490978-26-000010
 2025,FY,2025-12-31,12,segment,SoftwareSegment,Software,,,199.5,USD,millions,reported,SEC 10-K 0001490978-26-000010
 2026,Q1,2026-03-31,3,geography,APAC,EMEA,,,6.673,USD,millions,reported,SEC 10-Q 0001490978-26-000037
@@ -264,12 +224,11 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2026,Q2,2026-06-30,3,geography,NonUs,Rest of World,,,0.285,USD,millions,reported,SEC 10-Q 0001490978-26-000068
 2026,Q2,2026-06-30,3,geography,US,United States,,,37.526,USD,millions,reported,SEC 10-Q 0001490978-26-000068
 2026,Q2,2026-06-30,3,product,DrugDiscovery,Drug discovery,,,22.986,USD,millions,reported,SEC 10-Q 0001490978-26-000068
-2026,Q2,2026-06-30,3,product,DrugDiscoveryContribution,Drug discovery contribution,,,0.438,USD,millions,reported,SEC 10-Q 0001490978-26-000068
 2026,Q2,2026-06-30,3,product,HostedSoftware,Hosted software,,,15.15,USD,millions,reported,SEC 10-Q 0001490978-26-000068
 2026,Q2,2026-06-30,3,product,Maintenance,Software maintenance,,,4.878,USD,millions,reported,SEC 10-Q 0001490978-26-000068
 2026,Q2,2026-06-30,3,product,OnPremiseSoftware,On-premise software,,,9.297,USD,millions,reported,SEC 10-Q 0001490978-26-000068
+2026,Q2,2026-06-30,3,product,OtherNotItemized,Other (not itemized),,,3.359,USD,millions,derived,SEC 10-Q 0001490978-26-000068
 2026,Q2,2026-06-30,3,product,ProfessionalServices,Professional services,,,3.219,USD,millions,reported,SEC 10-Q 0001490978-26-000068
-2026,Q2,2026-06-30,3,product,SoftwareContribution,Software contribution,,,2.921,USD,millions,reported,SEC 10-Q 0001490978-26-000068
 2026,Q2,2026-06-30,3,segment,DrugDiscoverySegment,Drug Discovery,,,23.424,USD,millions,reported,SEC 10-Q 0001490978-26-000068
 2026,Q2,2026-06-30,3,segment,SoftwareSegment,Software,,,35.465,USD,millions,reported,SEC 10-Q 0001490978-26-000068
 2026,Q3,2026-09-30,3,geography,APAC,APAC,,,6.417,USD,millions,reported,SEC 10-Q 0001490978-26-000076
@@ -277,11 +236,10 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2026,Q3,2026-09-30,3,geography,NonUs,Rest of World,,,0.284,USD,millions,reported,SEC 10-Q 0001490978-26-000076
 2026,Q3,2026-09-30,3,geography,US,United States,,,43.067,USD,millions,reported,SEC 10-Q 0001490978-26-000076
 2026,Q3,2026-09-30,3,product,DrugDiscovery,Drug discovery,,,24.187,USD,millions,reported,SEC 10-Q 0001490978-26-000076
-2026,Q3,2026-09-30,3,product,DrugDiscoveryContribution,Drug discovery contribution,,,0.063,USD,millions,reported,SEC 10-Q 0001490978-26-000076
 2026,Q3,2026-09-30,3,product,HostedSoftware,Hosted software,,,17.239,USD,millions,reported,SEC 10-Q 0001490978-26-000076
 2026,Q3,2026-09-30,3,product,Maintenance,Software maintenance,,,4.57,USD,millions,reported,SEC 10-Q 0001490978-26-000076
 2026,Q3,2026-09-30,3,product,OnPremiseSoftware,On-premise software,,,13.371,USD,millions,reported,SEC 10-Q 0001490978-26-000076
+2026,Q3,2026-09-30,3,product,OtherNotItemized,Other (not itemized),,,2.151,USD,millions,derived,SEC 10-Q 0001490978-26-000076
 2026,Q3,2026-09-30,3,product,ProfessionalServices,Professional services,,,2.973,USD,millions,reported,SEC 10-Q 0001490978-26-000076
-2026,Q3,2026-09-30,3,product,SoftwareContribution,Software contribution,,,2.088,USD,millions,reported,SEC 10-Q 0001490978-26-000076
 2026,Q3,2026-09-30,3,segment,DrugDiscoverySegment,Drug discovery,,,24.25,USD,millions,reported,SEC 10-Q 0001490978-26-000076
 2026,Q3,2026-09-30,3,segment,SoftwareSegment,Software,,,40.241,USD,millions,reported,SEC 10-Q 0001490978-26-000076

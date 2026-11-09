@@ -126,6 +126,16 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2023,Q4,2023-12-31,3,geography,Europe,Europe,,,4962,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-24-000096
 2023,Q4,2023-12-31,3,geography,US,United States,,,12009,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-24-000096
 2023,Q4,2023-12-31,3,geography,WesternHemisphereExcludingUS,Western Hemisphere excluding U.S.,,,1166,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-24-000096
+2023,Q4,2023-12-31,3,product,OtherNotItemized,Other (not itemized),,,1668,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-23-000102
+2023,Q4,2023-12-31,3,product,CardiovascularMetabolismOther,Cardiovascular/Metabolism/Other,,Innovative Medicine,837,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-23-000102
+2023,Q4,2023-12-31,3,product,Immunology,Immunology,,Innovative Medicine,4595,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-23-000102
+2023,Q4,2023-12-31,3,product,InfectiousDiseases,Infectious Diseases,,Innovative Medicine,852,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-23-000102
+2023,Q4,2023-12-31,3,product,Neuroscience,Neuroscience,,Innovative Medicine,1801,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-23-000102
+2023,Q4,2023-12-31,3,product,Oncology,Oncology,,Innovative Medicine,4618,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-23-000102
+2023,Q4,2023-12-31,3,product,PulmonaryHypertension,Pulmonary Hypertension,,Innovative Medicine,1017,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-23-000102
+2023,Q4,2023-12-31,3,product,Orthopaedics,Orthopaedics,,MedTech,2268,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-23-000102
+2023,Q4,2023-12-31,3,product,Surgery,Surgery,,MedTech,2530,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-23-000102
+2023,Q4,2023-12-31,3,product,Vision,Vision,,MedTech,1208,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-23-000102
 2023,Q4,2023-12-31,3,segment,InnovativeMedicine,Innovative Medicine,,,13722,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-24-000096
 2023,Q4,2023-12-31,3,segment,MedTech,MedTech,,,7673,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-24-000096
 2023,FY,2023-12-31,12,geography,AsiaPacificAfrica,"Asia-Pacific, Africa",,,13756,USD,millions,reported,SEC 10-K 0000200406-25-000038
@@ -192,6 +202,16 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2024,Q4,2024-12-29,3,geography,Europe,Europe,,,4921,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-24-000096
 2024,Q4,2024-12-29,3,geography,US,United States,,,13204,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-24-000096
 2024,Q4,2024-12-29,3,geography,WesternHemisphereExcludingUS,Western Hemisphere excluding U.S.,,,1135,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-24-000096
+2024,Q4,2024-12-29,3,product,OtherNotItemized,Other (not itemized),,,2062,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-24-000096
+2024,Q4,2024-12-29,3,product,CardiovascularMetabolismOther,Cardiovascular/Metabolism/Other,,Innovative Medicine,957,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-24-000096
+2024,Q4,2024-12-29,3,product,Immunology,Immunology,,Innovative Medicine,4238,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-24-000096
+2024,Q4,2024-12-29,3,product,InfectiousDiseases,Infectious Diseases,,Innovative Medicine,774,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-24-000096
+2024,Q4,2024-12-29,3,product,Neuroscience,Neuroscience,,Innovative Medicine,1775,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-24-000096
+2024,Q4,2024-12-29,3,product,Oncology,Oncology,,Innovative Medicine,5497,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-24-000096
+2024,Q4,2024-12-29,3,product,PulmonaryHypertension,Pulmonary Hypertension,,Innovative Medicine,1092,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-24-000096
+2024,Q4,2024-12-29,3,product,Orthopaedics,Orthopaedics,,MedTech,2315,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-24-000096
+2024,Q4,2024-12-29,3,product,Surgery,Surgery,,MedTech,2507,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-24-000096
+2024,Q4,2024-12-29,3,product,Vision,Vision,,MedTech,1303,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-24-000096
 2024,Q4,2024-12-29,3,segment,InnovativeMedicine,Innovative Medicine,,,14332,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-24-000096
 2024,Q4,2024-12-29,3,segment,MedTech,MedTech,,,8188,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-24-000096
 2024,FY,2024-12-29,12,geography,AsiaPacificAfrica,"Asia-Pacific, Africa",,,13593,USD,millions,reported,SEC 10-K 0000200406-25-000038
@@ -271,6 +291,16 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2025,Q4,2025-12-28,3,geography,Europe,Europe,,,5598,USD,millions,derived,SEC 10-K 0000200406-26-000016 − 10-Q 0000200406-25-000209
 2025,Q4,2025-12-28,3,geography,US,United States,,,14195,USD,millions,derived,SEC 10-K 0000200406-26-000016 − 10-Q 0000200406-25-000209
 2025,Q4,2025-12-28,3,geography,WesternHemisphereExcludingUS,Western Hemisphere excluding U.S.,,,1271,USD,millions,derived,SEC 10-K 0000200406-26-000016 − 10-Q 0000200406-25-000209
+2025,Q4,2025-12-28,3,product,OtherNotItemized,Other (not itemized),,,2298,USD,millions,derived,SEC 10-K 0000200406-26-000016 − 10-Q 0000200406-25-000209
+2025,Q4,2025-12-28,3,product,CardiovascularMetabolismOther,Cardiovascular/Metabolism/Other,,Innovative Medicine,936,USD,millions,derived,SEC 10-K 0000200406-26-000016 − 10-Q 0000200406-25-000209
+2025,Q4,2025-12-28,3,product,Immunology,Immunology,,Innovative Medicine,3860,USD,millions,derived,SEC 10-K 0000200406-26-000016 − 10-Q 0000200406-25-000209
+2025,Q4,2025-12-28,3,product,InfectiousDiseases,Infectious Diseases,,Innovative Medicine,807,USD,millions,derived,SEC 10-K 0000200406-26-000016 − 10-Q 0000200406-25-000209
+2025,Q4,2025-12-28,3,product,Neuroscience,Neuroscience,,Innovative Medicine,2115,USD,millions,derived,SEC 10-K 0000200406-26-000016 − 10-Q 0000200406-25-000209
+2025,Q4,2025-12-28,3,product,Oncology,Oncology,,Innovative Medicine,6861,USD,millions,derived,SEC 10-K 0000200406-26-000016 − 10-Q 0000200406-25-000209
+2025,Q4,2025-12-28,3,product,PulmonaryHypertension,Pulmonary Hypertension,,Innovative Medicine,1184,USD,millions,derived,SEC 10-K 0000200406-26-000016 − 10-Q 0000200406-25-000209
+2025,Q4,2025-12-28,3,product,Orthopaedics,Orthopaedics,,MedTech,2438,USD,millions,derived,SEC 10-K 0000200406-26-000016 − 10-Q 0000200406-25-000209
+2025,Q4,2025-12-28,3,product,Surgery,Surgery,,MedTech,2644,USD,millions,derived,SEC 10-K 0000200406-26-000016 − 10-Q 0000200406-25-000209
+2025,Q4,2025-12-28,3,product,Vision,Vision,,MedTech,1420,USD,millions,derived,SEC 10-K 0000200406-26-000016 − 10-Q 0000200406-25-000209
 2025,Q4,2025-12-28,3,segment,InnovativeMedicine,Innovative Medicine,,,15763,USD,millions,derived,SEC 10-K 0000200406-26-000016 − 10-Q 0000200406-25-000209
 2025,Q4,2025-12-28,3,segment,MedTech,MedTech,,,8801,USD,millions,derived,SEC 10-K 0000200406-26-000016 − 10-Q 0000200406-25-000209
 2025,FY,2025-12-28,12,geography,AsiaPacificAfrica,"Asia-Pacific, Africa",,,14031,USD,millions,reported,SEC 10-K 0000200406-26-000016

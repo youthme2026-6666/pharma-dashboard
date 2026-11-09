@@ -1,6 +1,6 @@
 {
   "cik": "0000014272",
-  "code_hash": "c3eb527647b9",
+  "code_hash": "a3ea769cc45e",
   "fiscal_year_end": "1231",
   "form_type": "10-K",
   "identity_checked": "2026-11-09",
@@ -28,7 +28,17 @@
     "Yervoy": "Oncology",
     "Zeposia": "Immunology"
   },
-  "segment_exclude": {},
+  "segment_exclude": {
+    "product": [
+      "bmy:AllianceAndOtherRevenuesMember",
+      "bmy:AllianceRevenuesMember",
+      "bmy:GrowthBrandsMember",
+      "bmy:LegacyBrandsMember",
+      "bmy:NetProductSalesMember",
+      "bmy:OtherRevenuesMember",
+      "bmy:SalesRevenueGrossMember"
+    ]
+  },
   "sic": "Pharmaceutical Preparations",
   "ticker": "BMY"
 }

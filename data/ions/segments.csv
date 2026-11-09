@@ -1,28 +1,34 @@
 fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,value,currency,unit,basis,source
-2021,Q1,2021-03-31,3,product,LicensingAndOtherRoyalties,Licensing and Other Royalties,,Commercial Revenue,4.624,USD,millions,reported,SEC 10-Q 0000874015-21-000074
-2021,Q1,2021-03-31,3,product,Product,"TEGSEDI and WAYLIVRA Revenue, Net",,Commercial Revenue,19.838,USD,millions,reported,SEC 10-Q 0000874015-21-000074
-2021,Q1,2021-03-31,3,product,SpinrazaRoyalties,SPINRAZA Royalties,,Commercial Revenue,59.986,USD,millions,reported,SEC 10-Q 0000874015-21-000074
-2021,Q1,2021-03-31,3,product,ResearchAndDevelopmentRevenueUnderCollaborativeAgreements,R&D Revenue,,Other,27.159,USD,millions,reported,SEC 10-Q 0000874015-21-000074
-2021,Q2,2021-06-30,3,product,LicensingAndOtherRoyalties,Licensing and Other Royalties,,Commercial Revenue,2.149,USD,millions,reported,SEC 10-Q 0000874015-21-000144
-2021,Q2,2021-06-30,3,product,Product,"TEGSEDI and WAYLIVRA Revenue, Net",,Commercial Revenue,11.544,USD,millions,reported,SEC 10-Q 0000874015-21-000144
-2021,Q2,2021-06-30,3,product,SpinrazaRoyalties,SPINRAZA Royalties,,Commercial Revenue,72.168,USD,millions,reported,SEC 10-Q 0000874015-21-000144
-2021,Q2,2021-06-30,3,product,ResearchAndDevelopmentRevenueUnderCollaborativeAgreements,R&D Revenue,,Other,39.889,USD,millions,reported,SEC 10-Q 0000874015-21-000144
-2021,Q3,2021-09-30,3,product,LicensingAndOtherRoyalties,Licensing and Other Royalties,,Commercial Revenue,2.729,USD,millions,reported,SEC 10-Q 0000874015-21-000166
-2021,Q3,2021-09-30,3,product,Product,"TEGSEDI and WAYLIVRA Revenue, Net",,Commercial Revenue,15.519,USD,millions,reported,SEC 10-Q 0000874015-21-000166
-2021,Q3,2021-09-30,3,product,SpinrazaRoyalties,SPINRAZA Royalties,,Commercial Revenue,66.572,USD,millions,reported,SEC 10-Q 0000874015-21-000166
-2021,Q3,2021-09-30,3,product,ResearchAndDevelopmentRevenueUnderCollaborativeAgreements,R&D Revenue,,Other,48.273,USD,millions,reported,SEC 10-Q 0000874015-21-000166
-2021,Q4,2021-12-31,3,product,LicensingAndOtherRoyalties,Licensing and Other Royalties,,Commercial Revenue,9.617,USD,millions,derived,SEC 10-K 0000874015-22-000079 − 10-Q 0000874015-21-000166
-2021,Q4,2021-12-31,3,product,Product,"TEGSEDI and WAYLIVRA Revenue, Net",,Commercial Revenue,8.599,USD,millions,derived,SEC 10-K 0000874015-22-000079 − 10-Q 0000874015-21-000166
-2021,Q4,2021-12-31,3,product,SpinrazaRoyalties,SPINRAZA Royalties,,Commercial Revenue,69.05,USD,millions,derived,SEC 10-K 0000874015-22-000079 − 10-Q 0000874015-21-000166
-2021,Q4,2021-12-31,3,product,ResearchAndDevelopmentRevenueUnderCollaborativeAgreements,R&D Revenue,,Other,352.74,USD,millions,derived,SEC 10-K 0000874015-22-000079 − 10-Q 0000874015-21-000166
-2021,FY,2021-12-31,12,product,LicensingAndOtherRoyalties,Licensing and Other Royalties,,Commercial Revenue,19.119,USD,millions,reported,SEC 10-K 0000874015-22-000079
-2021,FY,2021-12-31,12,product,Product,"TEGSEDI and WAYLIVRA Revenue, Net",,Commercial Revenue,55.5,USD,millions,reported,SEC 10-K 0000874015-22-000079
-2021,FY,2021-12-31,12,product,SpinrazaRoyalties,SPINRAZA Royalties,,Commercial Revenue,267.776,USD,millions,reported,SEC 10-K 0000874015-22-000079
-2021,FY,2021-12-31,12,product,ResearchAndDevelopmentRevenueUnderCollaborativeAgreements,R&D Revenue,,Other,468.061,USD,millions,reported,SEC 10-K 0000874015-22-000079
-2022,Q1,2022-03-31,3,product,Ion859,ION859,,Cardiometabolic Health,10,USD,millions,reported,SEC 10-Q 0000874015-22-000104
-2022,Q1,2022-03-31,3,product,LicensingAndOtherRoyalties,Licensing and Other Royalties,,Commercial Revenue,12.307,USD,millions,reported,SEC 10-Q 0000874015-22-000104
-2022,Q1,2022-03-31,3,product,CollaborativeAgreementRevenue,Collaborative Agreement Revenue,,Other,49.784,USD,millions,reported,SEC 10-Q 0000874015-22-000104
-2022,Q1,2022-03-31,3,product,ResearchAndDevelopmentRevenue,R&D Revenue,,Other,69.634,USD,millions,reported,SEC 10-Q 0000874015-22-000104
+2021,Q1,2021-03-31,3,product,LicensingAndOtherRoyalties,Licensing and Other Royalties,,Commercial Revenue,4.624,USD,millions,reported,SEC 10-Q 0000874015-22-000104
+2021,Q1,2021-03-31,3,product,Product,"TEGSEDI and WAYLIVRA Revenue, Net",,Commercial Revenue,19.838,USD,millions,reported,SEC 10-Q 0000874015-22-000104
+2021,Q1,2021-03-31,3,product,SpinrazaRoyalties,SPINRAZA Royalties,,Commercial Revenue,59.986,USD,millions,reported,SEC 10-Q 0000874015-22-000104
+2021,Q1,2021-03-31,3,product,CollaborativeAgreementRevenue,Collaborative Agreement Revenue,,R&D Revenue,27.159,USD,millions,reported,SEC 10-Q 0000874015-22-000104
+2021,Q1,2021-03-31,3,product,EplontersenJointDevelopmentRevenue,Eplontersen Joint Development Revenue,,R&D Revenue,0,USD,millions,reported,SEC 10-Q 0000874015-22-000104
+2021,Q2,2021-06-30,3,product,LicensingAndOtherRoyalties,Licensing and Other Royalties,,Commercial Revenue,2.149,USD,millions,reported,SEC 10-Q 0000874015-22-000148
+2021,Q2,2021-06-30,3,product,Product,"TEGSEDI and WAYLIVRA Revenue, Net",,Commercial Revenue,11.544,USD,millions,reported,SEC 10-Q 0000874015-22-000148
+2021,Q2,2021-06-30,3,product,SpinrazaRoyalties,SPINRAZA Royalties,,Commercial Revenue,72.168,USD,millions,reported,SEC 10-Q 0000874015-22-000148
+2021,Q2,2021-06-30,3,product,CollaborativeAgreementRevenue,Collaborative Agreement Revenue,,R&D Revenue,39.889,USD,millions,reported,SEC 10-Q 0000874015-22-000148
+2021,Q2,2021-06-30,3,product,EplontersenJointDevelopmentRevenue,Eplontersen Joint Development Revenue,,R&D Revenue,0,USD,millions,reported,SEC 10-Q 0000874015-22-000148
+2021,Q3,2021-09-30,3,product,LicensingAndOtherRoyalties,Licensing and Other Royalties,,Commercial Revenue,2.729,USD,millions,reported,SEC 10-Q 0000874015-22-000168
+2021,Q3,2021-09-30,3,product,Product,"TEGSEDI and WAYLIVRA Revenue, Net",,Commercial Revenue,15.519,USD,millions,reported,SEC 10-Q 0000874015-22-000168
+2021,Q3,2021-09-30,3,product,SpinrazaRoyalties,SPINRAZA Royalties,,Commercial Revenue,66.572,USD,millions,reported,SEC 10-Q 0000874015-22-000168
+2021,Q3,2021-09-30,3,product,CollaborativeAgreementRevenue,Collaborative Agreement Revenue,,R&D Revenue,48.273,USD,millions,reported,SEC 10-Q 0000874015-22-000168
+2021,Q3,2021-09-30,3,product,EplontersenJointDevelopmentRevenue,Eplontersen Joint Development Revenue,,R&D Revenue,0,USD,millions,reported,SEC 10-Q 0000874015-22-000168
+2021,Q4,2021-12-31,3,product,LicensingAndOtherRoyalties,Licensing and Other Royalties,,Commercial Revenue,9.617,USD,millions,derived,SEC 10-K 0000874015-23-000105 − 10-Q 0000874015-22-000168
+2021,Q4,2021-12-31,3,product,Product,"TEGSEDI and WAYLIVRA Revenue, Net",,Commercial Revenue,8.599,USD,millions,derived,SEC 10-K 0000874015-23-000105 − 10-Q 0000874015-22-000168
+2021,Q4,2021-12-31,3,product,SpinrazaRoyalties,SPINRAZA Royalties,,Commercial Revenue,69.05,USD,millions,derived,SEC 10-K 0000874015-23-000105 − 10-Q 0000874015-22-000168
+2021,Q4,2021-12-31,3,product,CollaborativeAgreementRevenue,Collaborative Agreement Revenue,,R&D Revenue,352.74,USD,millions,derived,SEC 10-K 0000874015-23-000105 − 10-Q 0000874015-22-000168
+2021,Q4,2021-12-31,3,product,EplontersenJointDevelopmentRevenue,Eplontersen Joint Development Revenue,,R&D Revenue,0,USD,millions,derived,SEC 10-K 0000874015-23-000105 − 10-Q 0000874015-22-000168
+2021,FY,2021-12-31,12,product,LicensingAndOtherRoyalties,Licensing and Other Royalties,,Commercial Revenue,19.119,USD,millions,reported,SEC 10-K 0000874015-23-000105
+2021,FY,2021-12-31,12,product,Product,"TEGSEDI and WAYLIVRA Revenue, Net",,Commercial Revenue,55.5,USD,millions,reported,SEC 10-K 0000874015-23-000105
+2021,FY,2021-12-31,12,product,SpinrazaRoyalties,SPINRAZA Royalties,,Commercial Revenue,267.776,USD,millions,reported,SEC 10-K 0000874015-23-000105
+2021,FY,2021-12-31,12,product,CollaborativeAgreementRevenue,Collaborative Agreement Revenue,,R&D Revenue,468.061,USD,millions,reported,SEC 10-K 0000874015-23-000105
+2021,FY,2021-12-31,12,product,EplontersenJointDevelopmentRevenue,Eplontersen Joint Development Revenue,,R&D Revenue,0,USD,millions,reported,SEC 10-K 0000874015-23-000105
+2022,Q1,2022-03-31,3,product,LicensingAndOtherRoyalties,Licensing and Other Royalties,,Commercial Revenue,12.307,USD,millions,reported,SEC 10-Q 0000874015-23-000136
+2022,Q1,2022-03-31,3,product,Product,"TEGSEDI and WAYLIVRA Revenue, Net",,Commercial Revenue,6.16,USD,millions,reported,SEC 10-Q 0000874015-23-000136
+2022,Q1,2022-03-31,3,product,SpinrazaRoyalties,SPINRAZA Royalties,,Commercial Revenue,53.818,USD,millions,reported,SEC 10-Q 0000874015-23-000136
+2022,Q1,2022-03-31,3,product,CollaborativeAgreementRevenue,Collaborative Agreement Revenue,,R&D Revenue,49.784,USD,millions,reported,SEC 10-Q 0000874015-23-000136
+2022,Q1,2022-03-31,3,product,EplontersenJointDevelopmentRevenue,Eplontersen Joint Development Revenue,,R&D Revenue,19.85,USD,millions,reported,SEC 10-Q 0000874015-23-000136
 2022,Q2,2022-06-30,3,product,LicensingAndOtherRoyalties,Licensing and Other Royalties,,Commercial Revenue,8.171,USD,millions,reported,SEC 10-Q 0000874015-22-000148
 2022,Q2,2022-06-30,3,product,Product,"TEGSEDI and WAYLIVRA Revenue, Net",,Commercial Revenue,10.386,USD,millions,reported,SEC 10-Q 0000874015-22-000148
 2022,Q2,2022-06-30,3,product,SpinrazaRoyalties,SPINRAZA Royalties,,Commercial Revenue,59.627,USD,millions,reported,SEC 10-Q 0000874015-22-000148
@@ -43,50 +49,71 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2022,FY,2022-12-31,12,product,SpinrazaRoyalties,SPINRAZA Royalties,,Commercial Revenue,242.314,USD,millions,reported,SEC 10-K 0000874015-23-000105
 2022,FY,2022-12-31,12,product,CollaborativeAgreementRevenue,Collaborative Agreement Revenue,,R&D Revenue,207.222,USD,millions,reported,SEC 10-K 0000874015-23-000105
 2022,FY,2022-12-31,12,product,EplontersenJointDevelopmentRevenue,Eplontersen Joint Development Revenue,,R&D Revenue,76.787,USD,millions,reported,SEC 10-K 0000874015-23-000105
-2023,Q1,2023-03-31,3,product,LicensingAndOtherRoyalties,Licensing and Other Royalties,,Commercial Revenue,11.043,USD,millions,reported,SEC 10-Q 0000874015-23-000136
-2023,Q1,2023-03-31,3,product,Product,"TEGSEDI and WAYLIVRA Revenue, Net",,Commercial Revenue,6.478,USD,millions,reported,SEC 10-Q 0000874015-23-000136
-2023,Q1,2023-03-31,3,product,SpinrazaRoyalties,SPINRAZA Royalties,,Commercial Revenue,50.247,USD,millions,reported,SEC 10-Q 0000874015-23-000136
-2023,Q1,2023-03-31,3,product,CollaborativeAgreementRevenue,Collaborative Agreement Revenue,,R&D Revenue,38.334,USD,millions,reported,SEC 10-Q 0000874015-23-000136
-2023,Q1,2023-03-31,3,product,EplontersenJointDevelopmentRevenue,Eplontersen Joint Development Revenue,,R&D Revenue,24.422,USD,millions,reported,SEC 10-Q 0000874015-23-000136
-2023,Q2,2023-06-30,3,product,SpinrazaRoyalties,SPINRAZA Royalties,,Commercial Revenue,61.012,USD,millions,reported,SEC 10-Q 0000874015-23-000186
-2023,Q2,2023-06-30,3,product,LicensingAndOtherRoyalties,Licensing and Other Royalties,,Other Commercial Revenue,6.23,USD,millions,reported,SEC 10-Q 0000874015-23-000186
-2023,Q2,2023-06-30,3,product,Product,"TEGSEDI and WAYLIVRA Revenue, Net",,Other Commercial Revenue,10.655,USD,millions,reported,SEC 10-Q 0000874015-23-000186
-2023,Q2,2023-06-30,3,product,CollaborativeAgreementRevenue,Collaborative Agreement Revenue,,Research and Development Revenue,91.013,USD,millions,reported,SEC 10-Q 0000874015-23-000186
-2023,Q2,2023-06-30,3,product,EplontersenJointDevelopmentRevenue,Eplontersen Joint Development Revenue,,Research and Development Revenue,19.501,USD,millions,reported,SEC 10-Q 0000874015-23-000186
-2023,Q3,2023-09-30,3,product,SpinrazaRoyalties,SPINRAZA Royalties,,Commercial Revenue,67.253,USD,millions,reported,SEC 10-Q 0000874015-23-000209
-2023,Q3,2023-09-30,3,product,LicensingAndOtherRoyalties,Licensing and Other Royalties,,Other Commercial Revenue,8.542,USD,millions,reported,SEC 10-Q 0000874015-23-000209
-2023,Q3,2023-09-30,3,product,Product,"TEGSEDI and WAYLIVRA Revenue, Net",,Other Commercial Revenue,8.286,USD,millions,reported,SEC 10-Q 0000874015-23-000209
-2023,Q3,2023-09-30,3,product,CollaborativeAgreementRevenue,Collaborative Agreement Revenue,,R&D Revenue,44.167,USD,millions,reported,SEC 10-Q 0000874015-23-000209
-2023,Q3,2023-09-30,3,product,EplontersenJointDevelopmentRevenue,Eplontersen Joint Development Revenue,,R&D Revenue,15.959,USD,millions,reported,SEC 10-Q 0000874015-23-000209
+2023,Q1,2023-03-31,3,product,SpinrazaRoyalties,SPINRAZA Royalties,,Commercial Revenue,50.247,USD,millions,reported,SEC 10-Q 0000874015-24-000142
+2023,Q1,2023-03-31,3,product,WainusRoyalties,WAINUA Royalties,,Commercial Revenue,0,USD,millions,reported,SEC 10-Q 0000874015-24-000142
+2023,Q1,2023-03-31,3,product,LicensingAndOtherRoyalties,Licensing and Other Royalties,,Other Commercial Revenue,11.043,USD,millions,reported,SEC 10-Q 0000874015-24-000142
+2023,Q1,2023-03-31,3,product,Product,"TEGSEDI and WAYLIVRA Revenue, Net",,Other Commercial Revenue,6.478,USD,millions,reported,SEC 10-Q 0000874015-24-000142
+2023,Q1,2023-03-31,3,product,CollaborativeAgreementRevenue,Collaborative Agreement Revenue,,Research and Development Revenue,38.334,USD,millions,reported,SEC 10-Q 0000874015-24-000142
+2023,Q1,2023-03-31,3,product,WainuaJointDevelopmentRevenue,WAINUA Joint Development Revenue,,Research and Development Revenue,24.422,USD,millions,reported,SEC 10-Q 0000874015-24-000142
+2023,Q2,2023-06-30,3,product,SpinrazaRoyalties,SPINRAZA Royalties,,Commercial Revenue,61.012,USD,millions,reported,SEC 10-Q 0000874015-24-000187
+2023,Q2,2023-06-30,3,product,WainusRoyalties,WAINUA Royalties,,Commercial Revenue,0,USD,millions,reported,SEC 10-Q 0000874015-24-000187
+2023,Q2,2023-06-30,3,product,LicensingAndOtherRoyalties,Licensing and Other Royalties,,Other Commercial Revenue,6.23,USD,millions,reported,SEC 10-Q 0000874015-24-000187
+2023,Q2,2023-06-30,3,product,Product,"TEGSEDI and WAYLIVRA Revenue, Net",,Other Commercial Revenue,10.655,USD,millions,reported,SEC 10-Q 0000874015-24-000187
+2023,Q2,2023-06-30,3,product,CollaborativeAgreementRevenue,Collaborative Agreement Revenue,,Research and Development Revenue,91.013,USD,millions,reported,SEC 10-Q 0000874015-24-000187
+2023,Q2,2023-06-30,3,product,WainuaJointDevelopmentRevenue,WAINUA Joint Development Revenue,,Research and Development Revenue,19.501,USD,millions,reported,SEC 10-Q 0000874015-24-000187
+2023,Q3,2023-09-30,3,product,SpinrazaRoyalties,SPINRAZA Royalties,,Commercial Revenue,67.253,USD,millions,reported,SEC 10-Q 0000874015-24-000232
+2023,Q3,2023-09-30,3,product,WainusRoyalties,WAINUA Royalties,,Commercial Revenue,0,USD,millions,reported,SEC 10-Q 0000874015-24-000232
+2023,Q3,2023-09-30,3,product,LicensingAndOtherRoyalties,Licensing and Other Royalties,,Other Commercial Revenue,8.542,USD,millions,reported,SEC 10-Q 0000874015-24-000232
+2023,Q3,2023-09-30,3,product,Product,"TEGSEDI and WAYLIVRA Revenue, Net",,Other Commercial Revenue,8.286,USD,millions,reported,SEC 10-Q 0000874015-24-000232
+2023,Q3,2023-09-30,3,product,CollaborativeAgreementRevenue,Collaborative Agreement Revenue,,Research and Development Revenue,44.167,USD,millions,reported,SEC 10-Q 0000874015-24-000232
+2023,Q3,2023-09-30,3,product,WainuaJointDevelopmentRevenue,WAINUA Joint Development Revenue,,Research and Development Revenue,15.959,USD,millions,reported,SEC 10-Q 0000874015-24-000232
+2023,Q4,2023-12-31,3,product,OtherNotItemized,Other (not itemized),,,0,USD,millions,derived,SEC 10-K 0000874015-24-000116 − 10-Q 0000874015-24-000232
+2023,Q4,2023-12-31,3,product,SpinrazaRoyalties,SPINRAZA Royalties,,Commercial Revenue,61.868,USD,millions,derived,SEC 10-K 0000874015-24-000116 − 10-Q 0000874015-24-000232
+2023,Q4,2023-12-31,3,product,LicensingAndOtherRoyalties,Licensing and Other Royalties,,Other Commercial Revenue,7.484,USD,millions,derived,SEC 10-K 0000874015-24-000116 − 10-Q 0000874015-24-000232
+2023,Q4,2023-12-31,3,product,Product,"TEGSEDI and WAYLIVRA Revenue, Net",,Other Commercial Revenue,9.493,USD,millions,derived,SEC 10-K 0000874015-24-000116 − 10-Q 0000874015-24-000232
+2023,Q4,2023-12-31,3,product,CollaborativeAgreementRevenue,Collaborative Agreement Revenue,,R&D Revenue,179.144,USD,millions,derived,SEC 10-K 0000874015-24-000116 − 10-Q 0000874015-24-000232
+2023,Q4,2023-12-31,3,product,WainuaJointDevelopmentRevenue,WAINUA Joint Development Revenue,,R&D Revenue,66.516,USD,millions,derived,SEC 10-K 0000874015-24-000116 − 10-Q 0000874015-24-000232
 2023,FY,2023-12-31,12,product,SpinrazaRoyalties,SPINRAZA Royalties,,Commercial Revenue,240.379,USD,millions,reported,SEC 10-K 0000874015-24-000116
 2023,FY,2023-12-31,12,product,LicensingAndOtherRoyalties,Licensing and Other Royalties,,Other Commercial Revenue,33.299,USD,millions,reported,SEC 10-K 0000874015-24-000116
 2023,FY,2023-12-31,12,product,Product,"TEGSEDI and WAYLIVRA Revenue, Net",,Other Commercial Revenue,34.913,USD,millions,reported,SEC 10-K 0000874015-24-000116
 2023,FY,2023-12-31,12,product,CollaborativeAgreementRevenue,Collaborative Agreement Revenue,,R&D Revenue,352.657,USD,millions,reported,SEC 10-K 0000874015-24-000116
 2023,FY,2023-12-31,12,product,WainuaJointDevelopmentRevenue,WAINUA Joint Development Revenue,,R&D Revenue,126.399,USD,millions,reported,SEC 10-K 0000874015-24-000116
-2024,Q1,2024-03-31,3,product,SpinrazaRoyalties,SPINRAZA Royalties,,Commercial Revenue,38.455,USD,millions,reported,SEC 10-Q 0000874015-24-000142
-2024,Q1,2024-03-31,3,product,WainusRoyalties,WAINUA Royalties,,Commercial Revenue,1.125,USD,millions,reported,SEC 10-Q 0000874015-24-000142
-2024,Q1,2024-03-31,3,product,LicensingAndOtherRoyalties,Licensing and Other Royalties,,Other Commercial Revenue,11.385,USD,millions,reported,SEC 10-Q 0000874015-24-000142
-2024,Q1,2024-03-31,3,product,Product,"TEGSEDI and WAYLIVRA Revenue, Net",,Other Commercial Revenue,8.628,USD,millions,reported,SEC 10-Q 0000874015-24-000142
-2024,Q1,2024-03-31,3,product,CollaborativeAgreementRevenue,Collaborative Agreement Revenue,,Research and Development Revenue,49.345,USD,millions,reported,SEC 10-Q 0000874015-24-000142
-2024,Q1,2024-03-31,3,product,WainuaJointDevelopmentRevenue,WAINUA Joint Development Revenue,,Research and Development Revenue,10.559,USD,millions,reported,SEC 10-Q 0000874015-24-000142
+2024,Q1,2024-03-31,3,product,Other,Other Revenue,,Other Commercial Revenue,1.58,USD,millions,reported,SEC 10-Q 0000874015-25-000123
+2024,Q1,2024-03-31,3,product,TegsediAndWaylivra,"TEGSEDI and WAYLIVRA Revenue, Net",,Other Commercial Revenue,8.628,USD,millions,reported,SEC 10-Q 0000874015-25-000123
+2024,Q1,2024-03-31,3,product,Tryngolza,TRYNGOLZA,,"Product Sales, Net",0,USD,millions,reported,SEC 10-Q 0000874015-25-000123
+2024,Q1,2024-03-31,3,product,CollaborativeAgreementRevenue,Collaborative Agreement Revenue,,Research and Development Revenue,49.345,USD,millions,reported,SEC 10-Q 0000874015-25-000123
+2024,Q1,2024-03-31,3,product,WainuaJointDevelopmentRevenue,WAINUA Joint Development Revenue,,Research and Development Revenue,10.559,USD,millions,reported,SEC 10-Q 0000874015-25-000123
+2024,Q1,2024-03-31,3,product,OtherRoyalties,Other Royalties,,Royalty Revenue,9.805,USD,millions,reported,SEC 10-Q 0000874015-25-000123
+2024,Q1,2024-03-31,3,product,SpinrazaRoyalties,SPINRAZA Royalties,,Royalty Revenue,38.455,USD,millions,reported,SEC 10-Q 0000874015-25-000123
+2024,Q1,2024-03-31,3,product,WainusRoyalties,WAINUA Royalties,,Royalty Revenue,1.125,USD,millions,reported,SEC 10-Q 0000874015-25-000123
 2024,Q2,2024-06-30,3,product,SpinrazaRoyalties,SPINRAZA Royalties,,Commercial Revenue,56.743,USD,millions,reported,SEC 10-Q 0000874015-24-000187
 2024,Q2,2024-06-30,3,product,WainusRoyalties,WAINUA Royalties,,Commercial Revenue,3.781,USD,millions,reported,SEC 10-Q 0000874015-24-000187
 2024,Q2,2024-06-30,3,product,LicensingAndOtherRoyalties,Licensing and Other Royalties,,Other Commercial Revenue,3.32,USD,millions,reported,SEC 10-Q 0000874015-24-000187
 2024,Q2,2024-06-30,3,product,Product,"TEGSEDI and WAYLIVRA Revenue, Net",,Other Commercial Revenue,8.192,USD,millions,reported,SEC 10-Q 0000874015-24-000187
 2024,Q2,2024-06-30,3,product,CollaborativeAgreementRevenue,Collaborative Agreement Revenue,,Research and Development Revenue,141.524,USD,millions,reported,SEC 10-Q 0000874015-24-000187
 2024,Q2,2024-06-30,3,product,WainuaJointDevelopmentRevenue,WAINUA Joint Development Revenue,,Research and Development Revenue,11.69,USD,millions,reported,SEC 10-Q 0000874015-24-000187
-2024,Q3,2024-09-30,3,product,SpinrazaRoyalties,SPINRAZA Royalties,,Commercial Revenue,57.208,USD,millions,reported,SEC 10-Q 0000874015-24-000232
-2024,Q3,2024-09-30,3,product,WainusRoyalties,WAINUA Royalties,,Commercial Revenue,5.371,USD,millions,reported,SEC 10-Q 0000874015-24-000232
-2024,Q3,2024-09-30,3,product,LicensingAndOtherRoyalties,Licensing and Other Royalties,,Other Commercial Revenue,4.228,USD,millions,reported,SEC 10-Q 0000874015-24-000232
-2024,Q3,2024-09-30,3,product,Product,"TEGSEDI and WAYLIVRA Revenue, Net",,Other Commercial Revenue,8.924,USD,millions,reported,SEC 10-Q 0000874015-24-000232
-2024,Q3,2024-09-30,3,product,CollaborativeAgreementRevenue,Collaborative Agreement Revenue,,Research and Development Revenue,44.883,USD,millions,reported,SEC 10-Q 0000874015-24-000232
-2024,Q3,2024-09-30,3,product,WainuaJointDevelopmentRevenue,WAINUA Joint Development Revenue,,Research and Development Revenue,13.2,USD,millions,reported,SEC 10-Q 0000874015-24-000232
-2024,FY,2024-12-31,12,product,SpinrazaRoyalties,SPINRAZA Royalties,,Commercial Revenue,216.09,USD,millions,reported,SEC 10-K 0000874015-25-000089
-2024,FY,2024-12-31,12,product,WainusRoyalties,WAINUA Royalties,,Commercial Revenue,20.207,USD,millions,reported,SEC 10-K 0000874015-25-000089
-2024,FY,2024-12-31,12,product,Other,Other Revenue,,Other Commercial Revenue,22.59,USD,millions,reported,SEC 10-K 0000874015-25-000089
-2024,FY,2024-12-31,12,product,Product,"TEGSEDI and WAYLIVRA Revenue, Net",,Other Commercial Revenue,34.189,USD,millions,reported,SEC 10-K 0000874015-25-000089
-2024,FY,2024-12-31,12,product,CollaborativeAgreementRevenue,Collaborative Agreement Revenue,,Research and Development Revenue,332.647,USD,millions,reported,SEC 10-K 0000874015-25-000089
-2024,FY,2024-12-31,12,product,WainuaJointDevelopmentRevenue,WAINUA Joint Development Revenue,,Research and Development Revenue,79.415,USD,millions,reported,SEC 10-K 0000874015-25-000089
+2024,Q3,2024-09-30,3,product,OtherCommercial,Other Commercial Revenue,,,8.924,USD,millions,reported,SEC 10-Q 0000874015-25-000266
+2024,Q3,2024-09-30,3,product,OtherRoyalties,Other Royalties,,,4.228,USD,millions,reported,SEC 10-Q 0000874015-25-000266
+2024,Q3,2024-09-30,3,product,Tryngolza,"TRYNGOLZA Sales, Net",,Cardiometabolic Health,0,USD,millions,reported,SEC 10-Q 0000874015-25-000266
+2024,Q3,2024-09-30,3,product,CollaborativeAgreementRevenue,Collaborative Agreement Revenue,,Other,44.883,USD,millions,reported,SEC 10-Q 0000874015-25-000266
+2024,Q3,2024-09-30,3,product,SpinrazaRoyalties,SPINRAZA Royalties,,Rare Disease,57.208,USD,millions,reported,SEC 10-Q 0000874015-25-000266
+2024,Q3,2024-09-30,3,product,WainuaJointDevelopmentRevenue,WAINUA Joint Development Revenue,,Rare Disease,13.2,USD,millions,reported,SEC 10-Q 0000874015-25-000266
+2024,Q3,2024-09-30,3,product,WainusRoyalties,WAINUA Royalties,,Rare Disease,5.371,USD,millions,reported,SEC 10-Q 0000874015-25-000266
+2024,Q4,2024-12-31,3,product,OtherCommercial,Other Commercial Revenue,,,8.445,USD,millions,derived,SEC 10-K 0000874015-26-000115 − 10-Q 0000874015-25-000266
+2024,Q4,2024-12-31,3,product,OtherNotItemized,Other (not itemized),,,0,USD,millions,derived,SEC 10-K 0000874015-26-000115 − 10-Q 0000874015-25-000266
+2024,Q4,2024-12-31,3,product,OtherRoyalties,Other Royalties,,,3.658,USD,millions,derived,SEC 10-K 0000874015-26-000115 − 10-Q 0000874015-25-000266
+2024,Q4,2024-12-31,3,product,CollaborativeAgreementRevenue,Collaborative Agreement Revenue,,Other,96.894,USD,millions,derived,SEC 10-K 0000874015-26-000115 − 10-Q 0000874015-25-000266
+2024,Q4,2024-12-31,3,product,SpinrazaRoyalties,SPINRAZA Royalties,,Rare Disease,63.684,USD,millions,derived,SEC 10-K 0000874015-26-000115 − 10-Q 0000874015-25-000266
+2024,Q4,2024-12-31,3,product,WainuaJointDevelopmentRevenue,WAINUA Joint Development Revenue,,Rare Disease,43.966,USD,millions,derived,SEC 10-K 0000874015-26-000115 − 10-Q 0000874015-25-000266
+2024,Q4,2024-12-31,3,product,WainusRoyalties,WAINUA Royalties,,Rare Disease,9.929,USD,millions,derived,SEC 10-K 0000874015-26-000115 − 10-Q 0000874015-25-000266
+2024,FY,2024-12-31,12,product,OtherCommercial,Other Commercial Revenue,,,35.769,USD,millions,reported,SEC 10-K 0000874015-26-000115
+2024,FY,2024-12-31,12,product,OtherRoyalties,Other Royalties,,,21.01,USD,millions,reported,SEC 10-K 0000874015-26-000115
+2024,FY,2024-12-31,12,product,DawnzeraSales,DAWNZERA Sales,,Cardiometabolic Health,0,USD,millions,reported,SEC 10-K 0000874015-26-000115
+2024,FY,2024-12-31,12,product,TryngolzaSales,TRYNGOLZA Sales,,Cardiometabolic Health,0,USD,millions,reported,SEC 10-K 0000874015-26-000115
+2024,FY,2024-12-31,12,product,CollaborativeAgreementRevenue,Collaborative Agreement Revenue,,Other,332.647,USD,millions,reported,SEC 10-K 0000874015-26-000115
+2024,FY,2024-12-31,12,product,SpinrazaRoyalties,SPINRAZA Royalties,,Rare Disease,216.09,USD,millions,reported,SEC 10-K 0000874015-26-000115
+2024,FY,2024-12-31,12,product,WainuaJointDevelopmentRevenue,WAINUA Joint Development Revenue,,Rare Disease,79.415,USD,millions,reported,SEC 10-K 0000874015-26-000115
+2024,FY,2024-12-31,12,product,WainusRoyalties,WAINUA Royalties,,Rare Disease,20.207,USD,millions,reported,SEC 10-K 0000874015-26-000115
 2025,Q1,2025-03-31,3,product,Other,Other Revenue,,Other Commercial Revenue,0,USD,millions,reported,SEC 10-Q 0000874015-25-000123
 2025,Q1,2025-03-31,3,product,TegsediAndWaylivra,"TEGSEDI and WAYLIVRA Revenue, Net",,Other Commercial Revenue,5.715,USD,millions,reported,SEC 10-Q 0000874015-25-000123
 2025,Q1,2025-03-31,3,product,Tryngolza,TRYNGOLZA,,"Product Sales, Net",6.287,USD,millions,reported,SEC 10-Q 0000874015-25-000123
@@ -103,13 +130,22 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2025,Q2,2025-06-30,3,product,SpinrazaRoyalties,SPINRAZA Royalties,,Rare Disease,54.337,USD,millions,reported,SEC 10-Q 0000874015-26-000251
 2025,Q2,2025-06-30,3,product,WainuaJointDevelopmentRevenue,WAINUA Joint Development Revenue,,Rare Disease,12.372,USD,millions,reported,SEC 10-Q 0000874015-26-000251
 2025,Q2,2025-06-30,3,product,WainusRoyalties,WAINUA Royalties,,Rare Disease,10.415,USD,millions,reported,SEC 10-Q 0000874015-26-000251
-2025,Q3,2025-09-30,3,product,OtherCommercial,Other Commercial Revenue,,,8.112,USD,millions,reported,SEC 10-Q 0000874015-25-000266
-2025,Q3,2025-09-30,3,product,OtherRoyalties,Other Royalties,,,6.478,USD,millions,reported,SEC 10-Q 0000874015-25-000266
-2025,Q3,2025-09-30,3,product,Tryngolza,"TRYNGOLZA Sales, Net",,Cardiometabolic Health,31.792,USD,millions,reported,SEC 10-Q 0000874015-25-000266
-2025,Q3,2025-09-30,3,product,CollaborativeAgreementRevenue,Collaborative Agreement Revenue,,Other,31.436,USD,millions,reported,SEC 10-Q 0000874015-25-000266
-2025,Q3,2025-09-30,3,product,SpinrazaRoyalties,SPINRAZA Royalties,,Rare Disease,55.896,USD,millions,reported,SEC 10-Q 0000874015-25-000266
-2025,Q3,2025-09-30,3,product,WainuaJointDevelopmentRevenue,WAINUA Joint Development Revenue,,Rare Disease,9.685,USD,millions,reported,SEC 10-Q 0000874015-25-000266
-2025,Q3,2025-09-30,3,product,WainusRoyalties,WAINUA Royalties,,Rare Disease,13.32,USD,millions,reported,SEC 10-Q 0000874015-25-000266
+2025,Q3,2025-09-30,3,product,OtherCommercialRevenue,Other Commercial Revenue,,Commercial Revenue,7.374,USD,millions,reported,SEC 10-Q 0000874015-26-000271
+2025,Q3,2025-09-30,3,product,DawnzeraSalesNet,"DAWNZERA Sales, Net",,"Product Sales, Net",0.738,USD,millions,reported,SEC 10-Q 0000874015-26-000271
+2025,Q3,2025-09-30,3,product,TryngolzaSalesNet,"TRYNGOLZA Sales, Net",,"Product Sales, Net",31.792,USD,millions,reported,SEC 10-Q 0000874015-26-000271
+2025,Q3,2025-09-30,3,product,ZanvastroSalesNet,"ZANVASTRO Sales, Net",,"Product Sales, Net",0,USD,millions,reported,SEC 10-Q 0000874015-26-000271
+2025,Q3,2025-09-30,3,product,CollaborativeAgreementRevenue,Collaborative Agreement Revenue,,Research and Development Revenue,31.436,USD,millions,reported,SEC 10-Q 0000874015-26-000271
+2025,Q3,2025-09-30,3,product,WainuaJointDevelopmentRevenue,WAINUA Joint Development Revenue,,Research and Development Revenue,9.685,USD,millions,reported,SEC 10-Q 0000874015-26-000271
+2025,Q3,2025-09-30,3,product,OtherRoyalties,Other Royalties,,Royalty Revenue,6.478,USD,millions,reported,SEC 10-Q 0000874015-26-000271
+2025,Q3,2025-09-30,3,product,SpinrazaRoyalties,SPINRAZA Royalties,,Royalty Revenue,55.896,USD,millions,reported,SEC 10-Q 0000874015-26-000271
+2025,Q3,2025-09-30,3,product,WainuaRoyalties,WAINUA Royalties,,Royalty Revenue,13.32,USD,millions,reported,SEC 10-Q 0000874015-26-000271
+2025,Q4,2025-12-31,3,product,OtherCommercial,Other Commercial Revenue,,,7.645,USD,millions,derived,SEC 10-K 0000874015-26-000115 − 10-Q 0000874015-25-000266
+2025,Q4,2025-12-31,3,product,OtherNotItemized,Other (not itemized),,,57.962,USD,millions,derived,SEC 10-K 0000874015-26-000115 − 10-Q 0000874015-25-000266
+2025,Q4,2025-12-31,3,product,OtherRoyalties,Other Royalties,,,5.698,USD,millions,derived,SEC 10-K 0000874015-26-000115 − 10-Q 0000874015-25-000266
+2025,Q4,2025-12-31,3,product,CollaborativeAgreementRevenue,Collaborative Agreement Revenue,,Other,52.398,USD,millions,derived,SEC 10-K 0000874015-26-000115 − 10-Q 0000874015-25-000266
+2025,Q4,2025-12-31,3,product,SpinrazaRoyalties,SPINRAZA Royalties,,Rare Disease,54.037,USD,millions,derived,SEC 10-K 0000874015-26-000115 − 10-Q 0000874015-25-000266
+2025,Q4,2025-12-31,3,product,WainuaJointDevelopmentRevenue,WAINUA Joint Development Revenue,,Rare Disease,9.607,USD,millions,derived,SEC 10-K 0000874015-26-000115 − 10-Q 0000874015-25-000266
+2025,Q4,2025-12-31,3,product,WainusRoyalties,WAINUA Royalties,,Rare Disease,15.983,USD,millions,derived,SEC 10-K 0000874015-26-000115 − 10-Q 0000874015-25-000266
 2025,FY,2025-12-31,12,product,OtherCommercial,Other Commercial Revenue,,,35.004,USD,millions,reported,SEC 10-K 0000874015-26-000115
 2025,FY,2025-12-31,12,product,OtherRoyalties,Other Royalties,,,24.159,USD,millions,reported,SEC 10-K 0000874015-26-000115
 2025,FY,2025-12-31,12,product,DawnzeraSales,DAWNZERA Sales,,Cardiometabolic Health,7.789,USD,millions,reported,SEC 10-K 0000874015-26-000115

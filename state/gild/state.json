@@ -1,6 +1,6 @@
 {
   "cik": "0000882095",
-  "code_hash": "c3eb527647b9",
+  "code_hash": "a3ea769cc45e",
   "fiscal_year_end": "1231",
   "form_type": "10-K",
   "identity_checked": "2026-11-09",
@@ -8,7 +8,9 @@
   "name": "GILEAD SCIENCES, INC.",
   "periods": 28,
   "product_groups": {
-    "RoyaltyContractAndOther": "Other"
+    "RoyaltyContractAndOther": "Other",
+    "Trodelvy": "Oncology",
+    "Veklury": "Infectious Disease"
   },
   "segment_exclude": {},
   "sic": "Biological Products, (No Diagnostic Substances)",

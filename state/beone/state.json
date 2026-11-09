@@ -1,6 +1,6 @@
 {
   "cik": "0001651308",
-  "code_hash": "c3eb527647b9",
+  "code_hash": "a3ea769cc45e",
   "fiscal_year_end": "1231",
   "form_type": "10-K",
   "identity_checked": "2026-11-09",
@@ -8,11 +8,13 @@
   "name": "BeOne Medicines Ltd.",
   "periods": 28,
   "product_groups": {
+    "ABRAXANE": "Oncology",
     "Abraxane": "Oncology",
     "BLINCYTO": "Oncology",
     "BRUKINSA": "Oncology",
     "Brukinsa": "Oncology",
     "Collaboration": "Other",
+    "CollaborationReimbursementOfResearchAndDevelopmentCosts": "Other",
     "CollaborationResearchAndDevelopmentService": "Other",
     "KYPROLIS": "Oncology",
     "License": "Other",

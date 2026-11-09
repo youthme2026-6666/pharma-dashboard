@@ -1,111 +1,118 @@
 fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,value,currency,unit,basis,source
-2021,FY,2021-12-31,12,product,Amvuttra,AMVUTTRA,,Net product revenues,0,USD,millions,reported,SEC 10-K 0001178670-24-000008
-2021,FY,2021-12-31,12,product,GIVLAARI,GIVLAARI,,Net product revenues,127.815,USD,millions,reported,SEC 10-K 0001178670-24-000008
-2021,FY,2021-12-31,12,product,ONPATTRO,ONPATTRO,,Net product revenues,474.737,USD,millions,reported,SEC 10-K 0001178670-24-000008
-2021,FY,2021-12-31,12,product,OXLUMO,OXLUMO,,Net product revenues,59.586,USD,millions,reported,SEC 10-K 0001178670-24-000008
 2021,FY,2021-12-31,12,product,Collaborations,Net revenues from collaborations,,Other,180.953,USD,millions,reported,SEC 10-K 0001178670-24-000008
 2021,FY,2021-12-31,12,product,Royalty,Royalty revenue,,Other,1.196,USD,millions,reported,SEC 10-K 0001178670-24-000008
-2022,Q1,2022-03-31,3,product,Amvuttra,AMVUTTRA,,Net product revenues,0,USD,millions,reported,SEC 10-Q 0001178670-23-000011
-2022,Q1,2022-03-31,3,product,GIVLAARI,GIVLAARI,,Net product revenues,35.277,USD,millions,reported,SEC 10-Q 0001178670-23-000011
-2022,Q1,2022-03-31,3,product,ONPATTRO,ONPATTRO,,Net product revenues,137.009,USD,millions,reported,SEC 10-Q 0001178670-23-000011
-2022,Q1,2022-03-31,3,product,OXLUMO,OXLUMO,,Net product revenues,14.586,USD,millions,reported,SEC 10-Q 0001178670-23-000011
+2021,FY,2021-12-31,12,product,Amvuttra,AMVUTTRA,,Rare Disease,0,USD,millions,reported,SEC 10-K 0001178670-24-000008
+2021,FY,2021-12-31,12,product,GIVLAARI,GIVLAARI,,Rare Disease,127.815,USD,millions,reported,SEC 10-K 0001178670-24-000008
+2021,FY,2021-12-31,12,product,ONPATTRO,ONPATTRO,,Rare Disease,474.737,USD,millions,reported,SEC 10-K 0001178670-24-000008
+2021,FY,2021-12-31,12,product,OXLUMO,OXLUMO,,Rare Disease,59.586,USD,millions,reported,SEC 10-K 0001178670-24-000008
 2022,Q1,2022-03-31,3,product,Collaborations,Net revenues from collaborations,,Other,25.945,USD,millions,reported,SEC 10-Q 0001178670-23-000011
 2022,Q1,2022-03-31,3,product,Royalty,Royalty revenue,,Other,0.442,USD,millions,reported,SEC 10-Q 0001178670-23-000011
-2022,Q2,2022-06-30,3,product,OtherNotItemized,Other (not itemized),,,9.025,USD,millions,derived,SEC 10-Q 0001178670-22-000020
-2022,Q2,2022-06-30,3,product,GIVLAARI,GIVLAARI,,Net product revenues,45.15,USD,millions,reported,SEC 10-Q 0001178670-22-000020
-2022,Q2,2022-06-30,3,product,ONPATTRO,ONPATTRO,,Net product revenues,153.428,USD,millions,reported,SEC 10-Q 0001178670-22-000020
-2022,Q2,2022-06-30,3,product,OXLUMO,OXLUMO,,Net product revenues,14.937,USD,millions,reported,SEC 10-Q 0001178670-22-000020
-2022,Q2,2022-06-30,3,product,Royalty,Royalty revenue,,Other,2.278,USD,millions,reported,SEC 10-Q 0001178670-22-000020
-2022,Q3,2022-09-30,3,product,Amvuttra,AMVUTTRA,,Net product revenues,25.229,USD,millions,reported,SEC 10-Q 0001178670-23-000023
-2022,Q3,2022-09-30,3,product,GIVLAARI,GIVLAARI,,Net product revenues,45.659,USD,millions,reported,SEC 10-Q 0001178670-23-000023
-2022,Q3,2022-09-30,3,product,ONPATTRO,ONPATTRO,,Net product revenues,144.95,USD,millions,reported,SEC 10-Q 0001178670-23-000023
-2022,Q3,2022-09-30,3,product,OXLUMO,OXLUMO,,Net product revenues,16.429,USD,millions,reported,SEC 10-Q 0001178670-23-000023
+2022,Q1,2022-03-31,3,product,Amvuttra,AMVUTTRA,,Rare Disease,0,USD,millions,reported,SEC 10-Q 0001178670-23-000011
+2022,Q1,2022-03-31,3,product,GIVLAARI,GIVLAARI,,Rare Disease,35.277,USD,millions,reported,SEC 10-Q 0001178670-23-000011
+2022,Q1,2022-03-31,3,product,ONPATTRO,ONPATTRO,,Rare Disease,137.009,USD,millions,reported,SEC 10-Q 0001178670-23-000011
+2022,Q1,2022-03-31,3,product,OXLUMO,OXLUMO,,Rare Disease,14.586,USD,millions,reported,SEC 10-Q 0001178670-23-000011
+2022,Q2,2022-06-30,3,product,Collaborations,Net revenues from collaborations,,Other,9.025,USD,millions,reported,SEC 10-Q 0001178670-23-000015
+2022,Q2,2022-06-30,3,product,Royalty,Royalty revenue,,Other,2.278,USD,millions,reported,SEC 10-Q 0001178670-23-000015
+2022,Q2,2022-06-30,3,product,Amvuttra,AMVUTTRA,,Rare Disease,0,USD,millions,reported,SEC 10-Q 0001178670-23-000015
+2022,Q2,2022-06-30,3,product,GIVLAARI,GIVLAARI,,Rare Disease,45.15,USD,millions,reported,SEC 10-Q 0001178670-23-000015
+2022,Q2,2022-06-30,3,product,ONPATTRO,ONPATTRO,,Rare Disease,153.428,USD,millions,reported,SEC 10-Q 0001178670-23-000015
+2022,Q2,2022-06-30,3,product,OXLUMO,OXLUMO,,Rare Disease,14.937,USD,millions,reported,SEC 10-Q 0001178670-23-000015
 2022,Q3,2022-09-30,3,product,Collaborations,Net revenues from collaborations,,Other,29.297,USD,millions,reported,SEC 10-Q 0001178670-23-000023
 2022,Q3,2022-09-30,3,product,Royalty,Royalty revenue,,Other,2.742,USD,millions,reported,SEC 10-Q 0001178670-23-000023
-2022,FY,2022-12-31,12,product,Amvuttra,AMVUTTRA,,Net product revenues,93.795,USD,millions,reported,SEC 10-K 0001178670-25-000026
-2022,FY,2022-12-31,12,product,GIVLAARI,GIVLAARI,,Net product revenues,173.144,USD,millions,reported,SEC 10-K 0001178670-25-000026
-2022,FY,2022-12-31,12,product,ONPATTRO,ONPATTRO,,Net product revenues,557.608,USD,millions,reported,SEC 10-K 0001178670-25-000026
-2022,FY,2022-12-31,12,product,OXLUMO,OXLUMO,,Net product revenues,69.782,USD,millions,reported,SEC 10-K 0001178670-25-000026
+2022,Q3,2022-09-30,3,product,Amvuttra,AMVUTTRA,,Rare Disease,25.229,USD,millions,reported,SEC 10-Q 0001178670-23-000023
+2022,Q3,2022-09-30,3,product,GIVLAARI,GIVLAARI,,Rare Disease,45.659,USD,millions,reported,SEC 10-Q 0001178670-23-000023
+2022,Q3,2022-09-30,3,product,ONPATTRO,ONPATTRO,,Rare Disease,144.95,USD,millions,reported,SEC 10-Q 0001178670-23-000023
+2022,Q3,2022-09-30,3,product,OXLUMO,OXLUMO,,Rare Disease,16.429,USD,millions,reported,SEC 10-Q 0001178670-23-000023
+2022,Q4,2022-12-31,3,product,Collaborations,Net revenues from collaborations,,Other,70.645,USD,millions,derived,SEC 10-K 0001178670-25-000026 − 10-Q 0001178670-23-000023
+2022,Q4,2022-12-31,3,product,Royalty,Royalty revenue,,Other,2.715,USD,millions,derived,SEC 10-K 0001178670-25-000026 − 10-Q 0001178670-23-000023
+2022,Q4,2022-12-31,3,product,Amvuttra,AMVUTTRA,,Rare Disease,68.566,USD,millions,derived,SEC 10-K 0001178670-25-000026 − 10-Q 0001178670-23-000023
+2022,Q4,2022-12-31,3,product,GIVLAARI,GIVLAARI,,Rare Disease,47.058,USD,millions,derived,SEC 10-K 0001178670-25-000026 − 10-Q 0001178670-23-000023
+2022,Q4,2022-12-31,3,product,ONPATTRO,ONPATTRO,,Rare Disease,122.221,USD,millions,derived,SEC 10-K 0001178670-25-000026 − 10-Q 0001178670-23-000023
+2022,Q4,2022-12-31,3,product,OXLUMO,OXLUMO,,Rare Disease,23.83,USD,millions,derived,SEC 10-K 0001178670-25-000026 − 10-Q 0001178670-23-000023
 2022,FY,2022-12-31,12,product,Collaborations,Net revenues from collaborations,,Other,134.912,USD,millions,reported,SEC 10-K 0001178670-25-000026
 2022,FY,2022-12-31,12,product,Royalty,Royalty revenue,,Other,8.177,USD,millions,reported,SEC 10-K 0001178670-25-000026
-2023,Q1,2023-03-31,3,product,Amvuttra,AMVUTTRA,,Net product revenues,101.768,USD,millions,reported,SEC 10-Q 0001178670-23-000011
-2023,Q1,2023-03-31,3,product,GIVLAARI,GIVLAARI,,Net product revenues,47.906,USD,millions,reported,SEC 10-Q 0001178670-23-000011
-2023,Q1,2023-03-31,3,product,ONPATTRO,ONPATTRO,,Net product revenues,102.493,USD,millions,reported,SEC 10-Q 0001178670-23-000011
-2023,Q1,2023-03-31,3,product,OXLUMO,OXLUMO,,Net product revenues,24.161,USD,millions,reported,SEC 10-Q 0001178670-23-000011
+2022,FY,2022-12-31,12,product,Amvuttra,AMVUTTRA,,Rare Disease,93.795,USD,millions,reported,SEC 10-K 0001178670-25-000026
+2022,FY,2022-12-31,12,product,GIVLAARI,GIVLAARI,,Rare Disease,173.144,USD,millions,reported,SEC 10-K 0001178670-25-000026
+2022,FY,2022-12-31,12,product,ONPATTRO,ONPATTRO,,Rare Disease,557.608,USD,millions,reported,SEC 10-K 0001178670-25-000026
+2022,FY,2022-12-31,12,product,OXLUMO,OXLUMO,,Rare Disease,69.782,USD,millions,reported,SEC 10-K 0001178670-25-000026
 2023,Q1,2023-03-31,3,product,Collaborations,Net revenues from collaborations,,Other,36.462,USD,millions,reported,SEC 10-Q 0001178670-23-000011
 2023,Q1,2023-03-31,3,product,Royalty,Royalty revenue,,Other,6.5,USD,millions,reported,SEC 10-Q 0001178670-23-000011
-2023,Q2,2023-06-30,3,product,Amvuttra,AMVUTTRA,,Net product revenues,132.136,USD,millions,reported,SEC 10-Q 0001178670-23-000015
-2023,Q2,2023-06-30,3,product,GIVLAARI,GIVLAARI,,Net product revenues,57.899,USD,millions,reported,SEC 10-Q 0001178670-23-000015
-2023,Q2,2023-06-30,3,product,ONPATTRO,ONPATTRO,,Net product revenues,91.458,USD,millions,reported,SEC 10-Q 0001178670-23-000015
-2023,Q2,2023-06-30,3,product,OXLUMO,OXLUMO,,Net product revenues,24.212,USD,millions,reported,SEC 10-Q 0001178670-23-000015
+2023,Q1,2023-03-31,3,product,Amvuttra,AMVUTTRA,,Rare Disease,101.768,USD,millions,reported,SEC 10-Q 0001178670-23-000011
+2023,Q1,2023-03-31,3,product,GIVLAARI,GIVLAARI,,Rare Disease,47.906,USD,millions,reported,SEC 10-Q 0001178670-23-000011
+2023,Q1,2023-03-31,3,product,ONPATTRO,ONPATTRO,,Rare Disease,102.493,USD,millions,reported,SEC 10-Q 0001178670-23-000011
+2023,Q1,2023-03-31,3,product,OXLUMO,OXLUMO,,Rare Disease,24.161,USD,millions,reported,SEC 10-Q 0001178670-23-000011
 2023,Q2,2023-06-30,3,product,Collaborations,Net revenues from collaborations,,Other,5.844,USD,millions,reported,SEC 10-Q 0001178670-23-000015
 2023,Q2,2023-06-30,3,product,Royalty,Royalty revenue,,Other,7.205,USD,millions,reported,SEC 10-Q 0001178670-23-000015
-2023,Q3,2023-09-30,3,product,Amvuttra,AMVUTTRA,,Net product revenues,148.68,USD,millions,reported,SEC 10-Q 0001178670-23-000023
-2023,Q3,2023-09-30,3,product,GIVLAARI,GIVLAARI,,Net product revenues,54.148,USD,millions,reported,SEC 10-Q 0001178670-23-000023
-2023,Q3,2023-09-30,3,product,ONPATTRO,ONPATTRO,,Net product revenues,81.589,USD,millions,reported,SEC 10-Q 0001178670-23-000023
-2023,Q3,2023-09-30,3,product,OXLUMO,OXLUMO,,Net product revenues,28.736,USD,millions,reported,SEC 10-Q 0001178670-23-000023
+2023,Q2,2023-06-30,3,product,Amvuttra,AMVUTTRA,,Rare Disease,132.136,USD,millions,reported,SEC 10-Q 0001178670-23-000015
+2023,Q2,2023-06-30,3,product,GIVLAARI,GIVLAARI,,Rare Disease,57.899,USD,millions,reported,SEC 10-Q 0001178670-23-000015
+2023,Q2,2023-06-30,3,product,ONPATTRO,ONPATTRO,,Rare Disease,91.458,USD,millions,reported,SEC 10-Q 0001178670-23-000015
+2023,Q2,2023-06-30,3,product,OXLUMO,OXLUMO,,Rare Disease,24.212,USD,millions,reported,SEC 10-Q 0001178670-23-000015
 2023,Q3,2023-09-30,3,product,Collaborations,Net revenues from collaborations,,Other,427.472,USD,millions,reported,SEC 10-Q 0001178670-23-000023
 2023,Q3,2023-09-30,3,product,Royalty,Royalty revenue,,Other,9.905,USD,millions,reported,SEC 10-Q 0001178670-23-000023
-2023,Q4,2023-12-31,3,product,Amvuttra,AMVUTTRA,,Net product revenues,175.254,USD,millions,derived,SEC 10-K 0001178670-24-000008 − 10-Q 0001178670-23-000023
-2023,Q4,2023-12-31,3,product,GIVLAARI,GIVLAARI,,Net product revenues,59.298,USD,millions,derived,SEC 10-K 0001178670-24-000008 − 10-Q 0001178670-23-000023
-2023,Q4,2023-12-31,3,product,ONPATTRO,ONPATTRO,,Net product revenues,79.006,USD,millions,derived,SEC 10-K 0001178670-24-000008 − 10-Q 0001178670-23-000023
-2023,Q4,2023-12-31,3,product,OXLUMO,OXLUMO,,Net product revenues,32.73,USD,millions,derived,SEC 10-K 0001178670-24-000008 − 10-Q 0001178670-23-000023
+2023,Q3,2023-09-30,3,product,Amvuttra,AMVUTTRA,,Rare Disease,148.68,USD,millions,reported,SEC 10-Q 0001178670-23-000023
+2023,Q3,2023-09-30,3,product,GIVLAARI,GIVLAARI,,Rare Disease,54.148,USD,millions,reported,SEC 10-Q 0001178670-23-000023
+2023,Q3,2023-09-30,3,product,ONPATTRO,ONPATTRO,,Rare Disease,81.589,USD,millions,reported,SEC 10-Q 0001178670-23-000023
+2023,Q3,2023-09-30,3,product,OXLUMO,OXLUMO,,Rare Disease,28.736,USD,millions,reported,SEC 10-Q 0001178670-23-000023
 2023,Q4,2023-12-31,3,product,Collaborations,Net revenues from collaborations,,Other,76.407,USD,millions,derived,SEC 10-K 0001178670-24-000008 − 10-Q 0001178670-23-000023
 2023,Q4,2023-12-31,3,product,Royalty,Royalty revenue,,Other,17.023,USD,millions,derived,SEC 10-K 0001178670-24-000008 − 10-Q 0001178670-23-000023
-2023,FY,2023-12-31,12,product,Amvuttra,AMVUTTRA,,Net product revenues,557.838,USD,millions,reported,SEC 10-K 0001178670-24-000008
-2023,FY,2023-12-31,12,product,GIVLAARI,GIVLAARI,,Net product revenues,219.251,USD,millions,reported,SEC 10-K 0001178670-24-000008
-2023,FY,2023-12-31,12,product,ONPATTRO,ONPATTRO,,Net product revenues,354.546,USD,millions,reported,SEC 10-K 0001178670-24-000008
-2023,FY,2023-12-31,12,product,OXLUMO,OXLUMO,,Net product revenues,109.839,USD,millions,reported,SEC 10-K 0001178670-24-000008
+2023,Q4,2023-12-31,3,product,Amvuttra,AMVUTTRA,,Rare Disease,175.254,USD,millions,derived,SEC 10-K 0001178670-24-000008 − 10-Q 0001178670-23-000023
+2023,Q4,2023-12-31,3,product,GIVLAARI,GIVLAARI,,Rare Disease,59.298,USD,millions,derived,SEC 10-K 0001178670-24-000008 − 10-Q 0001178670-23-000023
+2023,Q4,2023-12-31,3,product,ONPATTRO,ONPATTRO,,Rare Disease,79.006,USD,millions,derived,SEC 10-K 0001178670-24-000008 − 10-Q 0001178670-23-000023
+2023,Q4,2023-12-31,3,product,OXLUMO,OXLUMO,,Rare Disease,32.73,USD,millions,derived,SEC 10-K 0001178670-24-000008 − 10-Q 0001178670-23-000023
 2023,FY,2023-12-31,12,product,Collaborations,Net revenues from collaborations,,Other,546.185,USD,millions,reported,SEC 10-K 0001178670-24-000008
 2023,FY,2023-12-31,12,product,Royalty,Royalty revenue,,Other,40.633,USD,millions,reported,SEC 10-K 0001178670-24-000008
-2024,Q1,2024-03-31,3,product,Amvuttra,AMVUTTRA,,Net product revenues,195.241,USD,millions,reported,SEC 10-Q 0001178670-24-000023
-2024,Q1,2024-03-31,3,product,GIVLAARI,GIVLAARI,,Net product revenues,58.056,USD,millions,reported,SEC 10-Q 0001178670-24-000023
-2024,Q1,2024-03-31,3,product,ONPATTRO,ONPATTRO,,Net product revenues,69.217,USD,millions,reported,SEC 10-Q 0001178670-24-000023
-2024,Q1,2024-03-31,3,product,OXLUMO,OXLUMO,,Net product revenues,42.649,USD,millions,reported,SEC 10-Q 0001178670-24-000023
+2023,FY,2023-12-31,12,product,Amvuttra,AMVUTTRA,,Rare Disease,557.838,USD,millions,reported,SEC 10-K 0001178670-24-000008
+2023,FY,2023-12-31,12,product,GIVLAARI,GIVLAARI,,Rare Disease,219.251,USD,millions,reported,SEC 10-K 0001178670-24-000008
+2023,FY,2023-12-31,12,product,ONPATTRO,ONPATTRO,,Rare Disease,354.546,USD,millions,reported,SEC 10-K 0001178670-24-000008
+2023,FY,2023-12-31,12,product,OXLUMO,OXLUMO,,Rare Disease,109.839,USD,millions,reported,SEC 10-K 0001178670-24-000008
 2024,Q1,2024-03-31,3,product,Collaborations,Net revenues from collaborations,,Other,118.548,USD,millions,reported,SEC 10-Q 0001178670-24-000023
 2024,Q1,2024-03-31,3,product,Royalty,Royalty revenue,,Other,10.622,USD,millions,reported,SEC 10-Q 0001178670-24-000023
-2024,Q2,2024-06-30,3,product,Amvuttra,AMVUTTRA,,Net product revenues,230.109,USD,millions,reported,SEC 10-Q 0001178670-24-000041
-2024,Q2,2024-06-30,3,product,GIVLAARI,GIVLAARI,,Net product revenues,62.127,USD,millions,reported,SEC 10-Q 0001178670-24-000041
-2024,Q2,2024-06-30,3,product,ONPATTRO,ONPATTRO,,Net product revenues,77.244,USD,millions,reported,SEC 10-Q 0001178670-24-000041
-2024,Q2,2024-06-30,3,product,OXLUMO,OXLUMO,,Net product revenues,40.608,USD,millions,reported,SEC 10-Q 0001178670-24-000041
+2024,Q1,2024-03-31,3,product,Amvuttra,AMVUTTRA,,Rare Disease,195.241,USD,millions,reported,SEC 10-Q 0001178670-24-000023
+2024,Q1,2024-03-31,3,product,GIVLAARI,GIVLAARI,,Rare Disease,58.056,USD,millions,reported,SEC 10-Q 0001178670-24-000023
+2024,Q1,2024-03-31,3,product,ONPATTRO,ONPATTRO,,Rare Disease,69.217,USD,millions,reported,SEC 10-Q 0001178670-24-000023
+2024,Q1,2024-03-31,3,product,OXLUMO,OXLUMO,,Rare Disease,42.649,USD,millions,reported,SEC 10-Q 0001178670-24-000023
 2024,Q2,2024-06-30,3,product,Collaborations,Net revenues from collaborations,,Other,227.338,USD,millions,reported,SEC 10-Q 0001178670-24-000041
 2024,Q2,2024-06-30,3,product,Royalty,Royalty revenue,,Other,22.399,USD,millions,reported,SEC 10-Q 0001178670-24-000041
-2024,Q3,2024-09-30,3,product,Amvuttra,AMVUTTRA,,Net product revenues,258.59,USD,millions,reported,SEC 10-Q 0001178670-24-000053
-2024,Q3,2024-09-30,3,product,GIVLAARI,GIVLAARI,,Net product revenues,71.043,USD,millions,reported,SEC 10-Q 0001178670-24-000053
-2024,Q3,2024-09-30,3,product,ONPATTRO,ONPATTRO,,Net product revenues,50.293,USD,millions,reported,SEC 10-Q 0001178670-24-000053
-2024,Q3,2024-09-30,3,product,OXLUMO,OXLUMO,,Net product revenues,40.22,USD,millions,reported,SEC 10-Q 0001178670-24-000053
+2024,Q2,2024-06-30,3,product,Amvuttra,AMVUTTRA,,Rare Disease,230.109,USD,millions,reported,SEC 10-Q 0001178670-24-000041
+2024,Q2,2024-06-30,3,product,GIVLAARI,GIVLAARI,,Rare Disease,62.127,USD,millions,reported,SEC 10-Q 0001178670-24-000041
+2024,Q2,2024-06-30,3,product,ONPATTRO,ONPATTRO,,Rare Disease,77.244,USD,millions,reported,SEC 10-Q 0001178670-24-000041
+2024,Q2,2024-06-30,3,product,OXLUMO,OXLUMO,,Rare Disease,40.608,USD,millions,reported,SEC 10-Q 0001178670-24-000041
 2024,Q3,2024-09-30,3,product,Collaborations,Net revenues from collaborations,,Other,57.387,USD,millions,reported,SEC 10-Q 0001178670-24-000053
 2024,Q3,2024-09-30,3,product,Royalty,Royalty revenue,,Other,23.386,USD,millions,reported,SEC 10-Q 0001178670-24-000053
-2024,Q4,2024-12-31,3,product,Amvuttra,AMVUTTRA,,Net product revenues,286.51,USD,millions,derived,SEC 10-K 0001178670-25-000026 − 10-Q 0001178670-24-000053
-2024,Q4,2024-12-31,3,product,GIVLAARI,GIVLAARI,,Net product revenues,64.645,USD,millions,derived,SEC 10-K 0001178670-25-000026 − 10-Q 0001178670-24-000053
-2024,Q4,2024-12-31,3,product,ONPATTRO,ONPATTRO,,Net product revenues,56.103,USD,millions,derived,SEC 10-K 0001178670-25-000026 − 10-Q 0001178670-24-000053
-2024,Q4,2024-12-31,3,product,OXLUMO,OXLUMO,,Net product revenues,43.573,USD,millions,derived,SEC 10-K 0001178670-25-000026 − 10-Q 0001178670-24-000053
+2024,Q3,2024-09-30,3,product,Amvuttra,AMVUTTRA,,Rare Disease,258.59,USD,millions,reported,SEC 10-Q 0001178670-24-000053
+2024,Q3,2024-09-30,3,product,GIVLAARI,GIVLAARI,,Rare Disease,71.043,USD,millions,reported,SEC 10-Q 0001178670-24-000053
+2024,Q3,2024-09-30,3,product,ONPATTRO,ONPATTRO,,Rare Disease,50.293,USD,millions,reported,SEC 10-Q 0001178670-24-000053
+2024,Q3,2024-09-30,3,product,OXLUMO,OXLUMO,,Rare Disease,40.22,USD,millions,reported,SEC 10-Q 0001178670-24-000053
 2024,Q4,2024-12-31,3,product,Collaborations,Net revenues from collaborations,,Other,106.948,USD,millions,derived,SEC 10-K 0001178670-25-000026 − 10-Q 0001178670-24-000053
 2024,Q4,2024-12-31,3,product,Royalty,Royalty revenue,,Other,35.387,USD,millions,derived,SEC 10-K 0001178670-25-000026 − 10-Q 0001178670-24-000053
-2024,FY,2024-12-31,12,product,Amvuttra,AMVUTTRA,,Net product revenues,970.45,USD,millions,reported,SEC 10-K 0001178670-25-000026
-2024,FY,2024-12-31,12,product,GIVLAARI,GIVLAARI,,Net product revenues,255.871,USD,millions,reported,SEC 10-K 0001178670-25-000026
-2024,FY,2024-12-31,12,product,ONPATTRO,ONPATTRO,,Net product revenues,252.857,USD,millions,reported,SEC 10-K 0001178670-25-000026
-2024,FY,2024-12-31,12,product,OXLUMO,OXLUMO,,Net product revenues,167.05,USD,millions,reported,SEC 10-K 0001178670-25-000026
+2024,Q4,2024-12-31,3,product,Amvuttra,AMVUTTRA,,Rare Disease,286.51,USD,millions,derived,SEC 10-K 0001178670-25-000026 − 10-Q 0001178670-24-000053
+2024,Q4,2024-12-31,3,product,GIVLAARI,GIVLAARI,,Rare Disease,64.645,USD,millions,derived,SEC 10-K 0001178670-25-000026 − 10-Q 0001178670-24-000053
+2024,Q4,2024-12-31,3,product,ONPATTRO,ONPATTRO,,Rare Disease,56.103,USD,millions,derived,SEC 10-K 0001178670-25-000026 − 10-Q 0001178670-24-000053
+2024,Q4,2024-12-31,3,product,OXLUMO,OXLUMO,,Rare Disease,43.573,USD,millions,derived,SEC 10-K 0001178670-25-000026 − 10-Q 0001178670-24-000053
 2024,FY,2024-12-31,12,product,Collaborations,Net revenues from collaborations,,Other,510.221,USD,millions,reported,SEC 10-K 0001178670-25-000026
 2024,FY,2024-12-31,12,product,Royalty,Royalty revenue,,Other,91.794,USD,millions,reported,SEC 10-K 0001178670-25-000026
-2025,Q1,2025-03-31,3,product,Amvuttra,AMVUTTRA,,Net product revenues,309.992,USD,millions,reported,SEC 10-Q 0001628280-26-028605
-2025,Q1,2025-03-31,3,product,GIVLAARI,GIVLAARI,,Net product revenues,66.968,USD,millions,reported,SEC 10-Q 0001628280-26-028605
-2025,Q1,2025-03-31,3,product,ONPATTRO,ONPATTRO,,Net product revenues,49.489,USD,millions,reported,SEC 10-Q 0001628280-26-028605
-2025,Q1,2025-03-31,3,product,OXLUMO,OXLUMO,,Net product revenues,42.089,USD,millions,reported,SEC 10-Q 0001628280-26-028605
+2024,FY,2024-12-31,12,product,Amvuttra,AMVUTTRA,,Rare Disease,970.45,USD,millions,reported,SEC 10-K 0001178670-25-000026
+2024,FY,2024-12-31,12,product,GIVLAARI,GIVLAARI,,Rare Disease,255.871,USD,millions,reported,SEC 10-K 0001178670-25-000026
+2024,FY,2024-12-31,12,product,ONPATTRO,ONPATTRO,,Rare Disease,252.857,USD,millions,reported,SEC 10-K 0001178670-25-000026
+2024,FY,2024-12-31,12,product,OXLUMO,OXLUMO,,Rare Disease,167.05,USD,millions,reported,SEC 10-K 0001178670-25-000026
 2025,Q1,2025-03-31,3,product,Collaborations,Net revenues from collaborations,,Other,99.185,USD,millions,reported,SEC 10-Q 0001628280-26-028605
 2025,Q1,2025-03-31,3,product,Royalty,Royalty revenue,,Other,26.466,USD,millions,reported,SEC 10-Q 0001628280-26-028605
-2025,Q2,2025-06-30,3,product,Amvuttra,AMVUTTRA,,Net product revenues,491.953,USD,millions,reported,SEC 10-Q 0001178670-26-000062
-2025,Q2,2025-06-30,3,product,GIVLAARI,GIVLAARI,,Net product revenues,80.849,USD,millions,reported,SEC 10-Q 0001178670-26-000062
-2025,Q2,2025-06-30,3,product,ONPATTRO,ONPATTRO,,Net product revenues,52.538,USD,millions,reported,SEC 10-Q 0001178670-26-000062
-2025,Q2,2025-06-30,3,product,OXLUMO,OXLUMO,,Net product revenues,46.872,USD,millions,reported,SEC 10-Q 0001178670-26-000062
+2025,Q1,2025-03-31,3,product,GIVLAARI,GIVLAARI,,Rare,66.968,USD,millions,reported,SEC 10-Q 0001628280-26-028605
+2025,Q1,2025-03-31,3,product,OXLUMO,OXLUMO,,Rare,42.089,USD,millions,reported,SEC 10-Q 0001628280-26-028605
+2025,Q1,2025-03-31,3,product,Amvuttra,AMVUTTRA,,TTR,309.992,USD,millions,reported,SEC 10-Q 0001628280-26-028605
+2025,Q1,2025-03-31,3,product,ONPATTRO,ONPATTRO,,TTR,49.489,USD,millions,reported,SEC 10-Q 0001628280-26-028605
 2025,Q2,2025-06-30,3,product,Collaborations,Net revenues from collaborations,,Other,61.496,USD,millions,reported,SEC 10-Q 0001178670-26-000062
 2025,Q2,2025-06-30,3,product,Royalty,Royalty revenue,,Other,39.981,USD,millions,reported,SEC 10-Q 0001178670-26-000062
-2025,Q3,2025-09-30,3,product,Amvuttra,AMVUTTRA,,Net product revenues,685.303,USD,millions,reported,SEC 10-Q 0001178670-26-000076
-2025,Q3,2025-09-30,3,product,GIVLAARI,GIVLAARI,,Net product revenues,73.874,USD,millions,reported,SEC 10-Q 0001178670-26-000076
-2025,Q3,2025-09-30,3,product,ONPATTRO,ONPATTRO,,Net product revenues,39.075,USD,millions,reported,SEC 10-Q 0001178670-26-000076
-2025,Q3,2025-09-30,3,product,OXLUMO,OXLUMO,,Net product revenues,52.83,USD,millions,reported,SEC 10-Q 0001178670-26-000076
+2025,Q2,2025-06-30,3,product,GIVLAARI,GIVLAARI,,Rare,80.849,USD,millions,reported,SEC 10-Q 0001178670-26-000062
+2025,Q2,2025-06-30,3,product,OXLUMO,OXLUMO,,Rare,46.872,USD,millions,reported,SEC 10-Q 0001178670-26-000062
+2025,Q2,2025-06-30,3,product,Amvuttra,AMVUTTRA,,TTR,491.953,USD,millions,reported,SEC 10-Q 0001178670-26-000062
+2025,Q2,2025-06-30,3,product,ONPATTRO,ONPATTRO,,TTR,52.538,USD,millions,reported,SEC 10-Q 0001178670-26-000062
 2025,Q3,2025-09-30,3,product,Collaborations,Net revenues from collaborations,,Other,351.742,USD,millions,reported,SEC 10-Q 0001178670-26-000076
 2025,Q3,2025-09-30,3,product,Royalty,Royalty revenue,,Other,46.202,USD,millions,reported,SEC 10-Q 0001178670-26-000076
+2025,Q3,2025-09-30,3,product,GIVLAARI,GIVLAARI,,Rare,73.874,USD,millions,reported,SEC 10-Q 0001178670-26-000076
+2025,Q3,2025-09-30,3,product,OXLUMO,OXLUMO,,Rare,52.83,USD,millions,reported,SEC 10-Q 0001178670-26-000076
+2025,Q3,2025-09-30,3,product,Amvuttra,AMVUTTRA,,TTR,685.303,USD,millions,reported,SEC 10-Q 0001178670-26-000076
+2025,Q3,2025-09-30,3,product,ONPATTRO,ONPATTRO,,TTR,39.075,USD,millions,reported,SEC 10-Q 0001178670-26-000076
 2025,Q4,2025-12-31,3,product,Collaborations,Net revenues from collaborations,,Other,40.943,USD,millions,derived,SEC 10-K 0001628280-26-007497 − 10-Q 0001178670-26-000076
 2025,Q4,2025-12-31,3,product,Royalty,Royalty revenue,,Other,61.373,USD,millions,derived,SEC 10-K 0001628280-26-007497 − 10-Q 0001178670-26-000076
 2025,Q4,2025-12-31,3,product,Amvuttra,AMVUTTRA,,Rare Disease,826.588,USD,millions,derived,SEC 10-K 0001628280-26-007497 − 10-Q 0001178670-26-000076
@@ -118,21 +125,21 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2025,FY,2025-12-31,12,product,GIVLAARI,GIVLAARI,,Rare Disease,308.487,USD,millions,reported,SEC 10-K 0001628280-26-007497
 2025,FY,2025-12-31,12,product,ONPATTRO,ONPATTRO,,Rare Disease,172.789,USD,millions,reported,SEC 10-K 0001628280-26-007497
 2025,FY,2025-12-31,12,product,OXLUMO,OXLUMO,,Rare Disease,191.437,USD,millions,reported,SEC 10-K 0001628280-26-007497
-2026,Q1,2026-03-31,3,product,Amvuttra,AMVUTTRA,,Net product revenues,889.931,USD,millions,reported,SEC 10-Q 0001628280-26-028605
-2026,Q1,2026-03-31,3,product,GIVLAARI,GIVLAARI,,Net product revenues,74.394,USD,millions,reported,SEC 10-Q 0001628280-26-028605
-2026,Q1,2026-03-31,3,product,ONPATTRO,ONPATTRO,,Net product revenues,20.481,USD,millions,reported,SEC 10-Q 0001628280-26-028605
-2026,Q1,2026-03-31,3,product,OXLUMO,OXLUMO,,Net product revenues,51.321,USD,millions,reported,SEC 10-Q 0001628280-26-028605
 2026,Q1,2026-03-31,3,product,Collaborations,Net revenues from collaborations,,Other,82.075,USD,millions,reported,SEC 10-Q 0001628280-26-028605
 2026,Q1,2026-03-31,3,product,Royalty,Royalty revenue,,Other,48.973,USD,millions,reported,SEC 10-Q 0001628280-26-028605
-2026,Q2,2026-06-30,3,product,Amvuttra,AMVUTTRA,,Net product revenues,1011.762,USD,millions,reported,SEC 10-Q 0001178670-26-000062
-2026,Q2,2026-06-30,3,product,GIVLAARI,GIVLAARI,,Net product revenues,89.764,USD,millions,reported,SEC 10-Q 0001178670-26-000062
-2026,Q2,2026-06-30,3,product,ONPATTRO,ONPATTRO,,Net product revenues,18.461,USD,millions,reported,SEC 10-Q 0001178670-26-000062
-2026,Q2,2026-06-30,3,product,OXLUMO,OXLUMO,,Net product revenues,52.122,USD,millions,reported,SEC 10-Q 0001178670-26-000062
+2026,Q1,2026-03-31,3,product,GIVLAARI,GIVLAARI,,Rare,74.394,USD,millions,reported,SEC 10-Q 0001628280-26-028605
+2026,Q1,2026-03-31,3,product,OXLUMO,OXLUMO,,Rare,51.321,USD,millions,reported,SEC 10-Q 0001628280-26-028605
+2026,Q1,2026-03-31,3,product,Amvuttra,AMVUTTRA,,TTR,889.931,USD,millions,reported,SEC 10-Q 0001628280-26-028605
+2026,Q1,2026-03-31,3,product,ONPATTRO,ONPATTRO,,TTR,20.481,USD,millions,reported,SEC 10-Q 0001628280-26-028605
 2026,Q2,2026-06-30,3,product,Collaborations,Net revenues from collaborations,,Other,47.165,USD,millions,reported,SEC 10-Q 0001178670-26-000062
 2026,Q2,2026-06-30,3,product,Royalty,Royalty revenue,,Other,71.674,USD,millions,reported,SEC 10-Q 0001178670-26-000062
-2026,Q3,2026-09-30,3,product,Amvuttra,AMVUTTRA,,Net product revenues,1130.363,USD,millions,reported,SEC 10-Q 0001178670-26-000076
-2026,Q3,2026-09-30,3,product,GIVLAARI,GIVLAARI,,Net product revenues,89.487,USD,millions,reported,SEC 10-Q 0001178670-26-000076
-2026,Q3,2026-09-30,3,product,ONPATTRO,ONPATTRO,,Net product revenues,19.596,USD,millions,reported,SEC 10-Q 0001178670-26-000076
-2026,Q3,2026-09-30,3,product,OXLUMO,OXLUMO,,Net product revenues,52.5,USD,millions,reported,SEC 10-Q 0001178670-26-000076
+2026,Q2,2026-06-30,3,product,GIVLAARI,GIVLAARI,,Rare,89.764,USD,millions,reported,SEC 10-Q 0001178670-26-000062
+2026,Q2,2026-06-30,3,product,OXLUMO,OXLUMO,,Rare,52.122,USD,millions,reported,SEC 10-Q 0001178670-26-000062
+2026,Q2,2026-06-30,3,product,Amvuttra,AMVUTTRA,,TTR,1011.762,USD,millions,reported,SEC 10-Q 0001178670-26-000062
+2026,Q2,2026-06-30,3,product,ONPATTRO,ONPATTRO,,TTR,18.461,USD,millions,reported,SEC 10-Q 0001178670-26-000062
 2026,Q3,2026-09-30,3,product,Collaborations,Net revenues from collaborations,,Other,71.476,USD,millions,reported,SEC 10-Q 0001178670-26-000076
 2026,Q3,2026-09-30,3,product,Royalty,Royalty revenue,,Other,94.664,USD,millions,reported,SEC 10-Q 0001178670-26-000076
+2026,Q3,2026-09-30,3,product,GIVLAARI,GIVLAARI,,Rare,89.487,USD,millions,reported,SEC 10-Q 0001178670-26-000076
+2026,Q3,2026-09-30,3,product,OXLUMO,OXLUMO,,Rare,52.5,USD,millions,reported,SEC 10-Q 0001178670-26-000076
+2026,Q3,2026-09-30,3,product,Amvuttra,AMVUTTRA,,TTR,1130.363,USD,millions,reported,SEC 10-Q 0001178670-26-000076
+2026,Q3,2026-09-30,3,product,ONPATTRO,ONPATTRO,,TTR,19.596,USD,millions,reported,SEC 10-Q 0001178670-26-000076

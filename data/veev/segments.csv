@@ -23,6 +23,10 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2021,Q3,2020-10-31,3,product,ProfessionalServicesVeevaVault,Veeva Vault,,,45.466,USD,millions,reported,SEC 10-Q 0001628280-20-017286
 2021,Q3,2020-10-31,3,product,SubscriptionServicesVeevaCommercialCloud,Veeva Commercial Cloud,,,152.466,USD,millions,reported,SEC 10-Q 0001628280-20-017286
 2021,Q3,2020-10-31,3,product,SubscriptionServicesVeevaVault,Veeva Vault,,,150.472,USD,millions,reported,SEC 10-Q 0001628280-20-017286
+2021,Q4,2021-01-31,3,geography,AsiaPacific,Asia Pacific,,,50.809,USD,millions,derived,SEC 10-K 0001393052-21-000015 − 10-Q 0001393052-21-000040
+2021,Q4,2021-01-31,3,geography,Europe,Europe,,,110.533,USD,millions,derived,SEC 10-K 0001393052-21-000015 − 10-Q 0001393052-21-000040
+2021,Q4,2021-01-31,3,geography,MiddleEastAfricaAndLatinAmerica,"Middle East, Africa, and Latin America",,,11.328,USD,millions,derived,SEC 10-K 0001393052-21-000015 − 10-Q 0001393052-21-000040
+2021,Q4,2021-01-31,3,geography,NorthAmerica,North America,,,224.091,USD,millions,derived,SEC 10-K 0001393052-21-000015 − 10-Q 0001393052-21-000040
 2021,Q4,2021-01-31,3,product,ProfessionalServicesVeevaCommercialCloud,Veeva Commercial Cloud,,,30.389,USD,millions,derived,SEC 10-K 0001393052-21-000015 − 10-Q 0001628280-20-017286
 2021,Q4,2021-01-31,3,product,ProfessionalServicesVeevaVault,Veeva Vault,,,43.561,USD,millions,derived,SEC 10-K 0001393052-21-000015 − 10-Q 0001628280-20-017286
 2021,Q4,2021-01-31,3,product,SubscriptionServicesVeevaCommercialCloud,Veeva Commercial Cloud,,,159.376,USD,millions,derived,SEC 10-K 0001393052-21-000015 − 10-Q 0001628280-20-017286
@@ -63,14 +67,18 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2022,Q4,2022-01-31,3,geography,Europe,Europe,,,132.242,USD,millions,derived,SEC 10-K 0001393052-22-000017 − 10-Q 0001393052-21-000040
 2022,Q4,2022-01-31,3,geography,MiddleEastAfricaAndLatinAmerica,"Middle East, Africa, and Latin America",,,13.428,USD,millions,derived,SEC 10-K 0001393052-22-000017 − 10-Q 0001393052-21-000040
 2022,Q4,2022-01-31,3,geography,NorthAmerica,North America,,,281.18,USD,millions,derived,SEC 10-K 0001393052-22-000017 − 10-Q 0001393052-21-000040
+2022,Q4,2022-01-31,3,product,ProfessionalServicesVeevaCommercialCloud,Commercial Solutions,,Professional services and other,40.845,USD,millions,derived,SEC 10-K 0001393052-24-000013 − 10-Q 0001393052-21-000040
+2022,Q4,2022-01-31,3,product,ProfessionalServicesVeevaResearchAndDevelopment,R&D Solutions,,Professional services and other,48.971,USD,millions,derived,SEC 10-K 0001393052-24-000013 − 10-Q 0001393052-21-000040
+2022,Q4,2022-01-31,3,product,SubscriptionServicesVeevaCommercialCloud,Commercial Solutions,,Subscription services,227.302,USD,millions,derived,SEC 10-K 0001393052-24-000013 − 10-Q 0001393052-21-000040
+2022,Q4,2022-01-31,3,product,SubscriptionServicesVeevaResearchAndDevelopment,R&D Solutions,,Subscription services,168.381,USD,millions,derived,SEC 10-K 0001393052-24-000013 − 10-Q 0001393052-21-000040
 2022,FY,2022-01-31,12,geography,AsiaPacific,Asia Pacific,,,225.968,USD,millions,reported,SEC 10-K 0001393052-22-000017
 2022,FY,2022-01-31,12,geography,Europe,Europe,,,509.127,USD,millions,reported,SEC 10-K 0001393052-22-000017
 2022,FY,2022-01-31,12,geography,MiddleEastAfricaAndLatinAmerica,"Middle East, Africa, and Latin America",,,51.912,USD,millions,reported,SEC 10-K 0001393052-22-000017
 2022,FY,2022-01-31,12,geography,NorthAmerica,North America,,,1063.77,USD,millions,reported,SEC 10-K 0001393052-22-000017
-2022,FY,2022-01-31,12,product,ProfessionalServicesCommercialSolutions,Commercial Solutions,,Professional services and other,165.086,USD,millions,reported,SEC 10-K 0001393052-22-000017
-2022,FY,2022-01-31,12,product,ProfessionalServicesRDSolutions,R&D Solutions,,Professional services and other,201.715,USD,millions,reported,SEC 10-K 0001393052-22-000017
-2022,FY,2022-01-31,12,product,SubscriptionServicesCommercialSolutions,Commercial Solutions,,Subscription services,876.458,USD,millions,reported,SEC 10-K 0001393052-22-000017
-2022,FY,2022-01-31,12,product,SubscriptionServicesRDSolutions,R&D Solutions,,Subscription services,607.518,USD,millions,reported,SEC 10-K 0001393052-22-000017
+2022,FY,2022-01-31,12,product,ProfessionalServicesVeevaCommercialCloud,Commercial Solutions,,Professional services and other,165.086,USD,millions,reported,SEC 10-K 0001393052-24-000013
+2022,FY,2022-01-31,12,product,ProfessionalServicesVeevaResearchAndDevelopment,R&D Solutions,,Professional services and other,201.715,USD,millions,reported,SEC 10-K 0001393052-24-000013
+2022,FY,2022-01-31,12,product,SubscriptionServicesVeevaCommercialCloud,Commercial Solutions,,Subscription services,876.458,USD,millions,reported,SEC 10-K 0001393052-24-000013
+2022,FY,2022-01-31,12,product,SubscriptionServicesVeevaResearchAndDevelopment,R&D Solutions,,Subscription services,607.518,USD,millions,reported,SEC 10-K 0001393052-24-000013
 2023,Q1,2022-04-30,3,geography,AsiaPacific,Asia Pacific,,,57.713,USD,millions,reported,SEC 10-Q 0001393052-22-000025
 2023,Q1,2022-04-30,3,geography,Europe,Europe,,,138.962,USD,millions,reported,SEC 10-Q 0001393052-22-000025
 2023,Q1,2022-04-30,3,geography,MiddleEastAfricaAndLatinAmerica,"Middle East, Africa, and Latin America",,,13.656,USD,millions,reported,SEC 10-Q 0001393052-22-000025
@@ -99,14 +107,18 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2023,Q4,2023-01-31,3,geography,Europe,Europe,,,157.109,USD,millions,derived,SEC 10-K 0001393052-23-000025 − 10-Q 0001393052-22-000048
 2023,Q4,2023-01-31,3,geography,MiddleEastAfricaAndLatinAmerica,"Middle East, Africa, and Latin America",,,14.74,USD,millions,derived,SEC 10-K 0001393052-23-000025 − 10-Q 0001393052-22-000048
 2023,Q4,2023-01-31,3,geography,NorthAmerica,North America,,,328.171,USD,millions,derived,SEC 10-K 0001393052-23-000025 − 10-Q 0001393052-22-000048
+2023,Q4,2023-01-31,3,product,ProfessionalServicesVeevaCommercialCloud,Commercial Solutions,,Professional services and other,44.161,USD,millions,derived,SEC 10-K 0001393052-25-000022 − 10-Q 0001393052-22-000048
+2023,Q4,2023-01-31,3,product,ProfessionalServicesVeevaResearchAndDevelopment,R&D Solutions,,Professional services and other,59.076,USD,millions,derived,SEC 10-K 0001393052-25-000022 − 10-Q 0001393052-22-000048
+2023,Q4,2023-01-31,3,product,SubscriptionServicesVeevaCommercialCloud,Commercial Solutions,,Subscription services,242.896,USD,millions,derived,SEC 10-K 0001393052-25-000022 − 10-Q 0001393052-22-000048
+2023,Q4,2023-01-31,3,product,SubscriptionServicesVeevaResearchAndDevelopment,R&D Solutions,,Subscription services,217.256,USD,millions,derived,SEC 10-K 0001393052-25-000022 − 10-Q 0001393052-22-000048
 2023,FY,2023-01-31,12,geography,AsiaPacific,Asia Pacific,,,244.655,USD,millions,reported,SEC 10-K 0001393052-23-000025
 2023,FY,2023-01-31,12,geography,Europe,Europe,,,598.828,USD,millions,reported,SEC 10-K 0001393052-23-000025
 2023,FY,2023-01-31,12,geography,MiddleEastAfricaAndLatinAmerica,"Middle East, Africa, and Latin America",,,57.817,USD,millions,reported,SEC 10-K 0001393052-23-000025
 2023,FY,2023-01-31,12,geography,NorthAmerica,North America,,,1253.76,USD,millions,reported,SEC 10-K 0001393052-23-000025
-2023,FY,2023-01-31,12,product,ProfessionalServicesCommercialSolutions,Commercial Solutions,,Professional services and other,177.188,USD,millions,reported,SEC 10-K 0001393052-23-000025
-2023,FY,2023-01-31,12,product,ProfessionalServicesRDSolutions,R&D Solutions,,Professional services and other,244.87,USD,millions,reported,SEC 10-K 0001393052-23-000025
-2023,FY,2023-01-31,12,product,SubscriptionServicesCommercialSolutions,Commercial Solutions,,Subscription services,946.252,USD,millions,reported,SEC 10-K 0001393052-23-000025
-2023,FY,2023-01-31,12,product,SubscriptionServicesRDSolutions,R&D Solutions,,Subscription services,786.75,USD,millions,reported,SEC 10-K 0001393052-23-000025
+2023,FY,2023-01-31,12,product,ProfessionalServicesVeevaCommercialCloud,Commercial Solutions,,Professional services and other,177.188,USD,millions,reported,SEC 10-K 0001393052-25-000022
+2023,FY,2023-01-31,12,product,ProfessionalServicesVeevaResearchAndDevelopment,R&D Solutions,,Professional services and other,244.87,USD,millions,reported,SEC 10-K 0001393052-25-000022
+2023,FY,2023-01-31,12,product,SubscriptionServicesVeevaCommercialCloud,Commercial Solutions,,Subscription services,946.252,USD,millions,reported,SEC 10-K 0001393052-25-000022
+2023,FY,2023-01-31,12,product,SubscriptionServicesVeevaResearchAndDevelopment,R&D Solutions,,Subscription services,786.75,USD,millions,reported,SEC 10-K 0001393052-25-000022
 2024,Q1,2023-04-30,3,geography,AsiaPacific,Asia Pacific,,,55.577,USD,millions,reported,SEC 10-Q 0001393052-23-000034
 2024,Q1,2023-04-30,3,geography,Europe,Europe,,,142.423,USD,millions,reported,SEC 10-Q 0001393052-23-000034
 2024,Q1,2023-04-30,3,geography,MiddleEastAfricaAndLatinAmerica,"Middle East, Africa, and Latin America",,,14.35,USD,millions,reported,SEC 10-Q 0001393052-23-000034
@@ -211,6 +223,10 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2026,Q3,2025-10-31,3,product,ProfessionalServicesVeevaResearchAndDevelopment,R&D Solutions,,Professional services and other,81.281,USD,millions,reported,SEC 10-Q 0001393052-25-000078
 2026,Q3,2025-10-31,3,product,SubscriptionServicesVeevaCommercialCloud,Commercial Solutions,,Subscription services,317.65,USD,millions,reported,SEC 10-Q 0001393052-25-000078
 2026,Q3,2025-10-31,3,product,SubscriptionServicesVeevaResearchAndDevelopment,R&D Solutions,,Subscription services,364.848,USD,millions,reported,SEC 10-Q 0001393052-25-000078
+2026,Q4,2026-01-31,3,geography,AsiaPacific,Asia Pacific,,,73.524,USD,millions,derived,SEC 10-K 0001393052-26-000014 − 10-Q 0001393052-25-000078
+2026,Q4,2026-01-31,3,geography,Europe,Europe,,,251.527,USD,millions,derived,SEC 10-K 0001393052-26-000014 − 10-Q 0001393052-25-000078
+2026,Q4,2026-01-31,3,geography,NorthAmerica,North America,,,492.325,USD,millions,derived,SEC 10-K 0001393052-26-000014 − 10-Q 0001393052-25-000078
+2026,Q4,2026-01-31,3,geography,OtherNotItemized,Other (not itemized),,,18.575,USD,millions,derived,SEC 10-K 0001393052-26-000014 − 10-Q 0001393052-25-000078
 2026,FY,2026-01-31,12,geography,AsiaPacific,Asia Pacific,,,280.162,USD,millions,reported,SEC 10-K 0001393052-26-000014
 2026,FY,2026-01-31,12,geography,Europe,Europe,,,939.63,USD,millions,reported,SEC 10-K 0001393052-26-000014
 2026,FY,2026-01-31,12,geography,NorthAmerica,North America,,,1903.342,USD,millions,reported,SEC 10-K 0001393052-26-000014
