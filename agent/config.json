@@ -24,12 +24,14 @@
     "types": ["获批", "并购", "业绩说明", "定价与可及", "临床", "产能"],
     "allowed_domains": ["lilly.com", "sec.gov"],
     "max_new_per_run": 6,
-    "refresh_every_days": 3,
-    "lookback_days": 45
+    "refresh_every_days": 14,
+    "lookback_days": 60
   },
   "gpt": {
     "model_preference": ["gpt-5.1", "gpt-5.5", "gpt-5"],
     "timeout_seconds": 240,
+    "monthly_budget_usd": 15,
+    "price_usd": {"input_per_million": 1.25, "output_per_million": 10.0, "per_web_search": 0.01},
     "max_output_tokens": 6000
   },
   "checks": {

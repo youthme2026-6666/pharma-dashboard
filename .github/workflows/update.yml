@@ -1,19 +1,23 @@
-# 礼来看板：每天自动检查 SEC 新申报、补新季度、用 GPT 更新重大事件，然后发布到 GitHub Pages。
+# 医药行业财务看板：每天逐家公司检查官方新申报（SEC、港交所、巨潮）、补新季度、用 GPT 更新重大事件，核对通过后发布到 GitHub Pages。
 # 需要在仓库 Settings 里设置：
 #   Secrets：SEC_USER_AGENT（例如 "Lilly Dashboard you@example.com"）、OPENAI_API_KEY
 #   Variables（可选）：OPENAI_MODEL（不设置时自动从可用模型里挑）
 #   Pages：Source 选 "GitHub Actions"
-name: 礼来看板自动更新
+name: 医药行业财务看板自动更新
 
 on:
   schedule:
-    - cron: "23 13 * * *"   # 每天 13:23 UTC（美东早上 8~9 点；礼来通常在美东早上发布业绩）
+    - cron: "23 13 * * *"   # 每天 13:23 UTC（北京时间 21:23；美股公司多在美东早上发布业绩）
   workflow_dispatch:
     inputs:
       mode:
         description: "运行模式"
         type: choice
         options: [auto, events, backtest, check, selftest, site]
+      company:
+        description: "只处理这些公司（公司清单里的 id，空格分隔；留空为全部）"
+        type: string
+        default: ""
         default: auto
 
 permissions:
@@ -23,7 +27,7 @@ permissions:
   id-token: write
 
 concurrency:
-  group: lilly-dashboard
+  group: pharma-dashboard
   cancel-in-progress: false
 
 jobs:
@@ -57,15 +61,20 @@ jobs:
           SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
-        run: python -m agent.pipeline.run ${{ inputs.mode || 'auto' }}
+          MODE: ${{ inputs.mode || 'auto' }}
+          COMPANIES: ${{ inputs.company }}
+        run: |
+          args="$MODE"
+          if [ "$MODE" = "events" ]; then args="auto --events"; fi
+          for c in $COMPANIES; do args="$args --company $c"; done
+          python -m agent.core.run $args
 
       - name: 提交数据变化
         if: always() && steps.run.outcome != 'skipped'
         run: |
-          git config user.name "lilly-dashboard-bot"
+          git config user.name "pharma-dashboard-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data
-          git add agent/state.json agent/learned.json 2>/dev/null || true
+          git add data state companies
           if git diff --cached --quiet; then
             echo "数据没有变化"
           else

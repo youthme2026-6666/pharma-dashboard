@@ -80,3 +80,7 @@ select:focus-visible { outline: 2px solid var(--color-fg); outline-offset: 1px; 
 .site-foot p { margin: 0 0 4px; }
 .site-foot a { color: inherit; text-decoration: underline; text-decoration-color: var(--color-border-line); text-underline-offset: 2px; }
 .site-foot a:hover { text-decoration-color: var(--color-fg); }
+.site-nav { max-width: 84rem; margin: 0 auto; padding: 14px 16px 0; font-size: var(--cds-font-size-caption); }
+.site-nav a { color: var(--cds-text-secondary); text-decoration: none; }
+.site-nav a:hover { color: var(--color-fg); }
+.site-en { color: var(--color-fg-muted); font-weight: 400; }

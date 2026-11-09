@@ -1,0 +1,841 @@
+fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,value,currency,unit,basis,source
+2021,Q1,2021-03-31,3,geography,China,China,,,362.2,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q1,2021-03-31,3,geography,Europe,Europe,,,1321.2,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q1,2021-03-31,3,geography,Japan,Japan,,,571.8,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q1,2021-03-31,3,geography,ROW,ROW,,,609.1,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q1,2021-03-31,3,geography,U.S.,U.S.,,,3941.3,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q1,2021-03-31,3,product,Baqsimi,Baqsimi,,Cardiometabolic Health,24.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q1,2021-03-31,3,product,Basaglar,Basaglar,,Cardiometabolic Health,246.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q1,2021-03-31,3,product,Glucagon,Glucagon,,Cardiometabolic Health,21.8,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q1,2021-03-31,3,product,Humalog,Humalog,,Cardiometabolic Health,617,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q1,2021-03-31,3,product,Humulin,Humulin,,Cardiometabolic Health,321.7,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q1,2021-03-31,3,product,Jardiance,Jardiance,,Cardiometabolic Health,312,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q1,2021-03-31,3,product,Other Cardiometabolic Health,Other Cardiometabolic Health,,Cardiometabolic Health,20.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q1,2021-03-31,3,product,Trajenta,Trajenta,,Cardiometabolic Health,94.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q1,2021-03-31,3,product,Trulicity,Trulicity,,Cardiometabolic Health,1452.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q1,2021-03-31,3,product,Olumiant,Olumiant,,Immunology,193.8,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q1,2021-03-31,3,product,Other Immunology,Other Immunology,,Immunology,6.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q1,2021-03-31,3,product,Qbrexza,Qbrexza,,Immunology,10.5,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q1,2021-03-31,3,product,Taltz,Taltz,,Immunology,403.2,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q1,2021-03-31,3,product,Cymbalta,Cymbalta,,Neuroscience,176.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q1,2021-03-31,3,product,Emgality,Emgality,,Neuroscience,119.5,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q1,2021-03-31,3,product,Other Neuroscience,Other Neuroscience,,Neuroscience,32.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q1,2021-03-31,3,product,Reyvow,Reyvow,,Neuroscience,2.5,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q1,2021-03-31,3,product,Strattera,Strattera,,Neuroscience,38.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q1,2021-03-31,3,product,Zyprexa,Zyprexa,,Neuroscience,95.8,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q1,2021-03-31,3,product,Alimta,Alimta,,Oncology,559,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q1,2021-03-31,3,product,Cyramza,Cyramza,,Oncology,240.5,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q1,2021-03-31,3,product,Erbitux,Erbitux,,Oncology,122.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q1,2021-03-31,3,product,Other Oncology,Other Oncology,,Oncology,54.8,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q1,2021-03-31,3,product,Retevmo,Retevmo,,Oncology,16.8,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q1,2021-03-31,3,product,Tyvyt,Tyvyt,,Oncology,109.7,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q1,2021-03-31,3,product,Verzenio,Verzenio,,Oncology,269,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q1,2021-03-31,3,product,COVID-19 Antibodies,COVID-19 Antibodies,,Other,810.1,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q1,2021-03-31,3,product,Cialis,Cialis,,Other,126.8,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q1,2021-03-31,3,product,Forteo,Forteo,,Other,198.5,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q1,2021-03-31,3,product,Humatrope,Humatrope,,Other,64.9,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q1,2021-03-31,3,product,Other,Other,,Other,42.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q2,2021-06-30,3,geography,China,China,,,522.5,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q2,2021-06-30,3,geography,Europe,Europe,,,1209.8,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q2,2021-06-30,3,geography,Japan,Japan,,,665.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q2,2021-06-30,3,geography,ROW,ROW,,,638.1,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q2,2021-06-30,3,geography,U.S.,U.S.,,,3704.2,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q2,2021-06-30,3,product,Baqsimi,Baqsimi,,Cardiometabolic Health,25.9,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q2,2021-06-30,3,product,Basaglar,Basaglar,,Cardiometabolic Health,210.7,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q2,2021-06-30,3,product,Glucagon,Glucagon,,Cardiometabolic Health,9.3,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q2,2021-06-30,3,product,Humalog,Humalog,,Cardiometabolic Health,607.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q2,2021-06-30,3,product,Humulin,Humulin,,Cardiometabolic Health,315.3,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q2,2021-06-30,3,product,Jardiance,Jardiance,,Cardiometabolic Health,356.5,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q2,2021-06-30,3,product,Other Cardiometabolic Health,Other Cardiometabolic Health,,Cardiometabolic Health,25.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q2,2021-06-30,3,product,Trajenta,Trajenta,,Cardiometabolic Health,89.2,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q2,2021-06-30,3,product,Trulicity,Trulicity,,Cardiometabolic Health,1535.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q2,2021-06-30,3,product,Olumiant,Olumiant,,Immunology,208.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q2,2021-06-30,3,product,Other Immunology,Other Immunology,,Immunology,3.2,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q2,2021-06-30,3,product,Qbrexza,Qbrexza,,Immunology,4.7,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q2,2021-06-30,3,product,Taltz,Taltz,,Immunology,569.1,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q2,2021-06-30,3,product,Cymbalta,Cymbalta,,Neuroscience,175.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q2,2021-06-30,3,product,Emgality,Emgality,,Neuroscience,156.3,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q2,2021-06-30,3,product,Other Neuroscience,Other Neuroscience,,Neuroscience,35,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q2,2021-06-30,3,product,Reyvow,Reyvow,,Neuroscience,9.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q2,2021-06-30,3,product,Strattera,Strattera,,Neuroscience,40.5,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q2,2021-06-30,3,product,Zyprexa,Zyprexa,,Neuroscience,95.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q2,2021-06-30,3,product,Alimta,Alimta,,Oncology,610.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q2,2021-06-30,3,product,Cyramza,Cyramza,,Oncology,268.7,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q2,2021-06-30,3,product,Erbitux,Erbitux,,Oncology,147,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q2,2021-06-30,3,product,Other Oncology,Other Oncology,,Oncology,55.7,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q2,2021-06-30,3,product,Retevmo,Retevmo,,Oncology,25.7,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q2,2021-06-30,3,product,Tyvyt,Tyvyt,,Oncology,105,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q2,2021-06-30,3,product,Verzenio,Verzenio,,Oncology,341.3,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q2,2021-06-30,3,product,COVID-19 Antibodies,COVID-19 Antibodies,,Other,148.9,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q2,2021-06-30,3,product,Cialis,Cialis,,Other,281,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q2,2021-06-30,3,product,Forteo,Forteo,,Other,218.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q2,2021-06-30,3,product,Humatrope,Humatrope,,Other,22.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q2,2021-06-30,3,product,Other,Other,,Other,42.2,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q3,2021-09-30,3,geography,China,China,,,400.3,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q3,2021-09-30,3,geography,Europe,Europe,,,1098.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q3,2021-09-30,3,geography,Japan,Japan,,,595,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q3,2021-09-30,3,geography,ROW,ROW,,,689.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q3,2021-09-30,3,geography,U.S.,U.S.,,,3989.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q3,2021-09-30,3,product,Baqsimi,Baqsimi,,Cardiometabolic Health,31.9,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q3,2021-09-30,3,product,Basaglar,Basaglar,,Cardiometabolic Health,192.8,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q3,2021-09-30,3,product,Glucagon,Glucagon,,Cardiometabolic Health,10.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q3,2021-09-30,3,product,Humalog,Humalog,,Cardiometabolic Health,626.7,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q3,2021-09-30,3,product,Humulin,Humulin,,Cardiometabolic Health,286.7,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q3,2021-09-30,3,product,Jardiance,Jardiance,,Cardiometabolic Health,390.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q3,2021-09-30,3,product,Other Cardiometabolic Health,Other Cardiometabolic Health,,Cardiometabolic Health,39,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q3,2021-09-30,3,product,Trajenta,Trajenta,,Cardiometabolic Health,96.1,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q3,2021-09-30,3,product,Trulicity,Trulicity,,Cardiometabolic Health,1600.1,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q3,2021-09-30,3,product,Olumiant,Olumiant,,Immunology,406.9,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q3,2021-09-30,3,product,Other Immunology,Other Immunology,,Immunology,4.9,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q3,2021-09-30,3,product,Qbrexza,Qbrexza,,Immunology,0,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q3,2021-09-30,3,product,Taltz,Taltz,,Immunology,593.1,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q3,2021-09-30,3,product,Cymbalta,Cymbalta,,Neuroscience,132,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q3,2021-09-30,3,product,Emgality,Emgality,,Neuroscience,140,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q3,2021-09-30,3,product,Other Neuroscience,Other Neuroscience,,Neuroscience,36,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q3,2021-09-30,3,product,Reyvow,Reyvow,,Neuroscience,5.3,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q3,2021-09-30,3,product,Strattera,Strattera,,Neuroscience,35.2,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q3,2021-09-30,3,product,Zyprexa,Zyprexa,,Neuroscience,101.7,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q3,2021-09-30,3,product,Alimta,Alimta,,Oncology,457,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q3,2021-09-30,3,product,Cyramza,Cyramza,,Oncology,253.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q3,2021-09-30,3,product,Erbitux,Erbitux,,Oncology,134.3,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q3,2021-09-30,3,product,Other Oncology,Other Oncology,,Oncology,66.7,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q3,2021-09-30,3,product,Retevmo,Retevmo,,Oncology,33.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q3,2021-09-30,3,product,Tyvyt,Tyvyt,,Oncology,125.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q3,2021-09-30,3,product,Verzenio,Verzenio,,Oncology,335.5,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q3,2021-09-30,3,product,COVID-19 Antibodies,COVID-19 Antibodies,,Other,217.1,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q3,2021-09-30,3,product,Cialis,Cialis,,Other,130.9,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q3,2021-09-30,3,product,Forteo,Forteo,,Other,200.9,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q3,2021-09-30,3,product,Humatrope,Humatrope,,Other,50.2,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q3,2021-09-30,3,product,Other,Other,,Other,38.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q4,2021-12-31,3,geography,China,China,,,376.5,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q4,2021-12-31,3,geography,Europe,Europe,,,1147.3,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q4,2021-12-31,3,geography,Japan,Japan,,,534.8,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q4,2021-12-31,3,geography,ROW,ROW,,,765.5,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q4,2021-12-31,3,geography,U.S.,U.S.,,,5175.9,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q4,2021-12-31,3,product,Baqsimi,Baqsimi,,Cardiometabolic Health,31,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q4,2021-12-31,3,product,Basaglar,Basaglar,,Cardiometabolic Health,242.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q4,2021-12-31,3,product,Glucagon,Glucagon,,Cardiometabolic Health,8.8,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q4,2021-12-31,3,product,Humalog,Humalog,,Cardiometabolic Health,601.7,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q4,2021-12-31,3,product,Humulin,Humulin,,Cardiometabolic Health,298.8,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q4,2021-12-31,3,product,Jardiance,Jardiance,,Cardiometabolic Health,431.9,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q4,2021-12-31,3,product,Other Cardiometabolic Health,Other Cardiometabolic Health,,Cardiometabolic Health,36.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q4,2021-12-31,3,product,Trajenta,Trajenta,,Cardiometabolic Health,92.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q4,2021-12-31,3,product,Trulicity,Trulicity,,Cardiometabolic Health,1883.7,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q4,2021-12-31,3,product,Olumiant,Olumiant,,Immunology,306,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q4,2021-12-31,3,product,Other Immunology,Other Immunology,,Immunology,3.2,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q4,2021-12-31,3,product,Qbrexza,Qbrexza,,Immunology,0,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q4,2021-12-31,3,product,Taltz,Taltz,,Immunology,647.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q4,2021-12-31,3,product,Cymbalta,Cymbalta,,Neuroscience,97.2,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q4,2021-12-31,3,product,Emgality,Emgality,,Neuroscience,161.5,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q4,2021-12-31,3,product,Other Neuroscience,Other Neuroscience,,Neuroscience,31.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q4,2021-12-31,3,product,Reyvow,Reyvow,,Neuroscience,6.9,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q4,2021-12-31,3,product,Strattera,Strattera,,Neuroscience,36.1,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q4,2021-12-31,3,product,Zyprexa,Zyprexa,,Neuroscience,137.5,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q4,2021-12-31,3,product,Alimta,Alimta,,Oncology,434.9,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q4,2021-12-31,3,product,Cyramza,Cyramza,,Oncology,270.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q4,2021-12-31,3,product,Erbitux,Erbitux,,Oncology,144.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q4,2021-12-31,3,product,Other Oncology,Other Oncology,,Oncology,38.5,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q4,2021-12-31,3,product,Retevmo,Retevmo,,Oncology,38.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q4,2021-12-31,3,product,Tyvyt,Tyvyt,,Oncology,77.8,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q4,2021-12-31,3,product,Verzenio,Verzenio,,Oncology,404.1,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q4,2021-12-31,3,product,COVID-19 Antibodies,COVID-19 Antibodies,,Other,1063.1,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q4,2021-12-31,3,product,Cialis,Cialis,,Other,179.7,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q4,2021-12-31,3,product,Forteo,Forteo,,Other,184,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q4,2021-12-31,3,product,Humatrope,Humatrope,,Other,51.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2021,Q4,2021-12-31,3,product,Other,Other,,Other,58.1,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q1,2022-03-31,3,geography,China,China,,,406.5,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q1,2022-03-31,3,geography,Europe,Europe,,,1067.3,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q1,2022-03-31,3,geography,Japan,Japan,,,410.2,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q1,2022-03-31,3,geography,ROW,ROW,,,751.5,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q1,2022-03-31,3,geography,U.S.,U.S.,,,5174.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q1,2022-03-31,3,product,Baqsimi,Baqsimi,,Cardiometabolic Health,29.2,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q1,2022-03-31,3,product,Basaglar,Basaglar,,Cardiometabolic Health,191.5,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q1,2022-03-31,3,product,Glucagon,Glucagon,,Cardiometabolic Health,6.9,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q1,2022-03-31,3,product,Humalog,Humalog,,Cardiometabolic Health,618.2,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q1,2022-03-31,3,product,Humulin,Humulin,,Cardiometabolic Health,273.2,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q1,2022-03-31,3,product,Jardiance,Jardiance,,Cardiometabolic Health,419.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q1,2022-03-31,3,product,Mounjaro,Mounjaro,,Cardiometabolic Health,0,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q1,2022-03-31,3,product,Other Cardiometabolic Health,Other Cardiometabolic Health,,Cardiometabolic Health,16.3,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q1,2022-03-31,3,product,Trajenta,Trajenta,,Cardiometabolic Health,92,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q1,2022-03-31,3,product,Trulicity,Trulicity,,Cardiometabolic Health,1741.3,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q1,2022-03-31,3,product,Olumiant,Olumiant,,Immunology,255.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q1,2022-03-31,3,product,Other Immunology,Other Immunology,,Immunology,4.5,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q1,2022-03-31,3,product,Taltz,Taltz,,Immunology,488.1,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q1,2022-03-31,3,product,Cymbalta,Cymbalta,,Neuroscience,81.1,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q1,2022-03-31,3,product,Emgality,Emgality,,Neuroscience,149.3,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q1,2022-03-31,3,product,Other Neuroscience,Other Neuroscience,,Neuroscience,34.5,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q1,2022-03-31,3,product,Reyvow,Reyvow,,Neuroscience,6.3,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q1,2022-03-31,3,product,Strattera,Strattera,,Neuroscience,33.5,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q1,2022-03-31,3,product,Zyprexa,Zyprexa,,Neuroscience,93.1,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q1,2022-03-31,3,product,Alimta,Alimta,,Oncology,343.9,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q1,2022-03-31,3,product,Cyramza,Cyramza,,Oncology,230.3,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q1,2022-03-31,3,product,Elunate,Elunate,,Oncology,27.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q1,2022-03-31,3,product,Erbitux,Erbitux,,Oncology,122.7,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q1,2022-03-31,3,product,Other Oncology,Other Oncology,,Oncology,31.8,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q1,2022-03-31,3,product,Retevmo,Retevmo,,Oncology,41.8,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q1,2022-03-31,3,product,Tyvyt,Tyvyt,,Oncology,85.5,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q1,2022-03-31,3,product,Verzenio,Verzenio,,Oncology,469.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q1,2022-03-31,3,product,COVID-19 Antibodies,COVID-19 Antibodies,,Other,1469.8,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q1,2022-03-31,3,product,Cialis,Cialis,,Other,217.7,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q1,2022-03-31,3,product,Forteo,Forteo,,Other,137.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q1,2022-03-31,3,product,Humatrope,Humatrope,,Other,41.7,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q1,2022-03-31,3,product,Other,Other,,Other,56.2,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q2,2022-06-30,3,geography,China,China,,,352.1,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q2,2022-06-30,3,geography,Europe,Europe,,,1101.1,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q2,2022-06-30,3,geography,Japan,Japan,,,454.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q2,2022-06-30,3,geography,ROW,ROW,,,645.7,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q2,2022-06-30,3,geography,U.S.,U.S.,,,3934.8,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q2,2022-06-30,3,product,Baqsimi,Baqsimi,,Cardiometabolic Health,29,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q2,2022-06-30,3,product,Basaglar,Basaglar,,Cardiometabolic Health,174.2,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q2,2022-06-30,3,product,Glucagon,Glucagon,,Cardiometabolic Health,7.7,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q2,2022-06-30,3,product,Humalog,Humalog,,Cardiometabolic Health,447.1,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q2,2022-06-30,3,product,Humulin,Humulin,,Cardiometabolic Health,274,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q2,2022-06-30,3,product,Jardiance,Jardiance,,Cardiometabolic Health,461,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q2,2022-06-30,3,product,Mounjaro,Mounjaro,,Cardiometabolic Health,16,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q2,2022-06-30,3,product,Other Cardiometabolic Health,Other Cardiometabolic Health,,Cardiometabolic Health,20.1,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q2,2022-06-30,3,product,Trajenta,Trajenta,,Cardiometabolic Health,97.1,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q2,2022-06-30,3,product,Trulicity,Trulicity,,Cardiometabolic Health,1911.9,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q2,2022-06-30,3,product,Olumiant,Olumiant,,Immunology,186.2,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q2,2022-06-30,3,product,Other Immunology,Other Immunology,,Immunology,4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q2,2022-06-30,3,product,Taltz,Taltz,,Immunology,606.2,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q2,2022-06-30,3,product,Cymbalta,Cymbalta,,Neuroscience,75.5,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q2,2022-06-30,3,product,Emgality,Emgality,,Neuroscience,157.5,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q2,2022-06-30,3,product,Other Neuroscience,Other Neuroscience,,Neuroscience,30.8,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q2,2022-06-30,3,product,Reyvow,Reyvow,,Neuroscience,10,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q2,2022-06-30,3,product,Strattera,Strattera,,Neuroscience,28.9,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q2,2022-06-30,3,product,Zyprexa,Zyprexa,,Neuroscience,87.3,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q2,2022-06-30,3,product,Alimta,Alimta,,Oncology,227.7,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q2,2022-06-30,3,product,Cyramza,Cyramza,,Oncology,231.3,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q2,2022-06-30,3,product,Elunate,Elunate,,Oncology,21.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q2,2022-06-30,3,product,Erbitux,Erbitux,,Oncology,140.8,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q2,2022-06-30,3,product,Other Oncology,Other Oncology,,Oncology,40.3,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q2,2022-06-30,3,product,Retevmo,Retevmo,,Oncology,45,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q2,2022-06-30,3,product,Tyvyt,Tyvyt,,Oncology,73.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q2,2022-06-30,3,product,Verzenio,Verzenio,,Oncology,588.5,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q2,2022-06-30,3,product,COVID-19 Antibodies,COVID-19 Antibodies,,Other,129.1,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q2,2022-06-30,3,product,Cialis,Cialis,,Other,147,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q2,2022-06-30,3,product,Forteo,Forteo,,Other,138.5,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q2,2022-06-30,3,product,Humatrope,Humatrope,,Other,45.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q2,2022-06-30,3,product,Other,Other,,Other,34.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q3,2022-09-30,3,geography,China,China,,,343.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q3,2022-09-30,3,geography,Europe,Europe,,,1056.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q3,2022-09-30,3,geography,Japan,Japan,,,487.7,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q3,2022-09-30,3,geography,ROW,ROW,,,632,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q3,2022-09-30,3,geography,U.S.,U.S.,,,4422.1,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q3,2022-09-30,3,product,Baqsimi,Baqsimi,,Cardiometabolic Health,43,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q3,2022-09-30,3,product,Basaglar,Basaglar,,Cardiometabolic Health,193,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q3,2022-09-30,3,product,Glucagon,Glucagon,,Cardiometabolic Health,10.3,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q3,2022-09-30,3,product,Humalog,Humalog,,Cardiometabolic Health,447,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q3,2022-09-30,3,product,Humulin,Humulin,,Cardiometabolic Health,238.2,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q3,2022-09-30,3,product,Jardiance,Jardiance,,Cardiometabolic Health,573.3,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q3,2022-09-30,3,product,Mounjaro,Mounjaro,,Cardiometabolic Health,187.3,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q3,2022-09-30,3,product,Other Cardiometabolic Health,Other Cardiometabolic Health,,Cardiometabolic Health,16.5,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q3,2022-09-30,3,product,Trajenta,Trajenta,,Cardiometabolic Health,103.8,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q3,2022-09-30,3,product,Trulicity,Trulicity,,Cardiometabolic Health,1850.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q3,2022-09-30,3,product,Olumiant,Olumiant,,Immunology,182.9,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q3,2022-09-30,3,product,Other Immunology,Other Immunology,,Immunology,3.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q3,2022-09-30,3,product,Taltz,Taltz,,Immunology,679.9,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q3,2022-09-30,3,product,Cymbalta,Cymbalta,,Neuroscience,62.7,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q3,2022-09-30,3,product,Emgality,Emgality,,Neuroscience,168.5,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q3,2022-09-30,3,product,Other Neuroscience,Other Neuroscience,,Neuroscience,30.1,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q3,2022-09-30,3,product,Reyvow,Reyvow,,Neuroscience,8.1,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q3,2022-09-30,3,product,Strattera,Strattera,,Neuroscience,22.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q3,2022-09-30,3,product,Zyprexa,Zyprexa,,Neuroscience,81.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q3,2022-09-30,3,product,Alimta,Alimta,,Oncology,119.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q3,2022-09-30,3,product,Cyramza,Cyramza,,Oncology,232.1,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q3,2022-09-30,3,product,Elunate,Elunate,,Oncology,23.7,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q3,2022-09-30,3,product,Erbitux,Erbitux,,Oncology,144.9,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q3,2022-09-30,3,product,Other Oncology,Other Oncology,,Oncology,38.2,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q3,2022-09-30,3,product,Retevmo,Retevmo,,Oncology,40.5,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q3,2022-09-30,3,product,Tyvyt,Tyvyt,,Oncology,76.8,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q3,2022-09-30,3,product,Verzenio,Verzenio,,Oncology,617.7,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q3,2022-09-30,3,product,COVID-19 Antibodies,COVID-19 Antibodies,,Other,386.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q3,2022-09-30,3,product,Cialis,Cialis,,Other,115.7,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q3,2022-09-30,3,product,Forteo,Forteo,,Other,177.1,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q3,2022-09-30,3,product,Humatrope,Humatrope,,Other,34.7,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q3,2022-09-30,3,product,Other,Other,,Other,31.7,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q4,2022-12-31,3,geography,China,China,,,350.8,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q4,2022-12-31,3,geography,Europe,Europe,,,1074.5,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q4,2022-12-31,3,geography,Japan,Japan,,,395,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q4,2022-12-31,3,geography,ROW,ROW,,,822.9,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q4,2022-12-31,3,geography,U.S.,U.S.,,,4658.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q4,2022-12-31,3,product,Baqsimi,Baqsimi,,Cardiometabolic Health,38.1,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q4,2022-12-31,3,product,Basaglar,Basaglar,,Cardiometabolic Health,201.7,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q4,2022-12-31,3,product,Glucagon,Glucagon,,Cardiometabolic Health,7.5,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q4,2022-12-31,3,product,Humalog,Humalog,,Cardiometabolic Health,548.3,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q4,2022-12-31,3,product,Humulin,Humulin,,Cardiometabolic Health,234,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q4,2022-12-31,3,product,Jardiance,Jardiance,,Cardiometabolic Health,612.3,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q4,2022-12-31,3,product,Mounjaro,Mounjaro,,Cardiometabolic Health,279.2,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q4,2022-12-31,3,product,Other Cardiometabolic Health,Other Cardiometabolic Health,,Cardiometabolic Health,27.9,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q4,2022-12-31,3,product,Trajenta,Trajenta,,Cardiometabolic Health,90.8,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q4,2022-12-31,3,product,Trulicity,Trulicity,,Cardiometabolic Health,1936.2,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q4,2022-12-31,3,product,Olumiant,Olumiant,,Immunology,205.8,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q4,2022-12-31,3,product,Other Immunology,Other Immunology,,Immunology,20,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q4,2022-12-31,3,product,Taltz,Taltz,,Immunology,707.8,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q4,2022-12-31,3,product,Cymbalta,Cymbalta,,Neuroscience,64,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q4,2022-12-31,3,product,Emgality,Emgality,,Neuroscience,175.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q4,2022-12-31,3,product,Other Neuroscience,Other Neuroscience,,Neuroscience,29.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q4,2022-12-31,3,product,Reyvow,Reyvow,,Neuroscience,9.5,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q4,2022-12-31,3,product,Strattera,Strattera,,Neuroscience,31.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q4,2022-12-31,3,product,Zyprexa,Zyprexa,,Neuroscience,75.2,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q4,2022-12-31,3,product,Alimta,Alimta,,Oncology,236.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q4,2022-12-31,3,product,Cyramza,Cyramza,,Oncology,277.8,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q4,2022-12-31,3,product,Elunate,Elunate,,Oncology,18,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q4,2022-12-31,3,product,Erbitux,Erbitux,,Oncology,158.2,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q4,2022-12-31,3,product,Other Oncology,Other Oncology,,Oncology,30.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q4,2022-12-31,3,product,Retevmo,Retevmo,,Oncology,64.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q4,2022-12-31,3,product,Tyvyt,Tyvyt,,Oncology,57.5,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q4,2022-12-31,3,product,Verzenio,Verzenio,,Oncology,808,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q4,2022-12-31,3,product,COVID-19 Antibodies,COVID-19 Antibodies,,Other,38,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q4,2022-12-31,3,product,Cialis,Cialis,,Other,106.8,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q4,2022-12-31,3,product,Forteo,Forteo,,Other,160,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q4,2022-12-31,3,product,Humatrope,Humatrope,,Other,19.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2022,Q4,2022-12-31,3,product,Other,Other,,Other,31.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q1,2023-03-31,3,geography,China,China,,,372.7,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q1,2023-03-31,3,geography,Europe,Europe,,,1090.9,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q1,2023-03-31,3,geography,Japan,Japan,,,387.2,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q1,2023-03-31,3,geography,ROW,ROW,,,673.1,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q1,2023-03-31,3,geography,U.S.,U.S.,,,4436.2,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q1,2023-03-31,3,product,Baqsimi,Baqsimi,,Cardiometabolic Health,31.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q1,2023-03-31,3,product,Basaglar,Basaglar,,Cardiometabolic Health,209.3,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q1,2023-03-31,3,product,Humalog,Humalog,,Cardiometabolic Health,460.9,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q1,2023-03-31,3,product,Humulin,Humulin,,Cardiometabolic Health,252,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q1,2023-03-31,3,product,Jardiance,Jardiance,,Cardiometabolic Health,577.5,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q1,2023-03-31,3,product,Mounjaro,Mounjaro,,Cardiometabolic Health,568.5,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q1,2023-03-31,3,product,Other Cardiometabolic Health,Other Cardiometabolic Health,,Cardiometabolic Health,27.8,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q1,2023-03-31,3,product,Trajenta,Trajenta,,Cardiometabolic Health,85.8,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q1,2023-03-31,3,product,Trulicity,Trulicity,,Cardiometabolic Health,1977.1,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q1,2023-03-31,3,product,Zepbound,Zepbound,,Cardiometabolic Health,0,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q1,2023-03-31,3,product,Ebglyss,Ebglyss,,Immunology,0,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q1,2023-03-31,3,product,Olumiant,Olumiant,,Immunology,228.9,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q1,2023-03-31,3,product,Omvoh,Omvoh,,Immunology,22,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q1,2023-03-31,3,product,Taltz,Taltz,,Immunology,527,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q1,2023-03-31,3,product,Cymbalta,Cymbalta,,Neuroscience,60.2,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q1,2023-03-31,3,product,Emgality,Emgality,,Neuroscience,154.3,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q1,2023-03-31,3,product,Other Neuroscience,Other Neuroscience,,Neuroscience,53.1,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q1,2023-03-31,3,product,Reyvow,Reyvow,,Neuroscience,10.1,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q1,2023-03-31,3,product,Zyprexa,Zyprexa,,Neuroscience,82.7,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q1,2023-03-31,3,product,Alimta,Alimta,,Oncology,58.2,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q1,2023-03-31,3,product,Cyramza,Cyramza,,Oncology,236.8,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q1,2023-03-31,3,product,Elunate,Elunate,,Oncology,28.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q1,2023-03-31,3,product,Erbitux,Erbitux,,Oncology,129.9,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q1,2023-03-31,3,product,Jaypirca,Jaypirca,,Oncology,5.1,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q1,2023-03-31,3,product,Other Oncology,Other Oncology,,Oncology,34.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q1,2023-03-31,3,product,Retevmo,Retevmo,,Oncology,51.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q1,2023-03-31,3,product,Tyvyt,Tyvyt,,Oncology,61,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q1,2023-03-31,3,product,Verzenio,Verzenio,,Oncology,750.9,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q1,2023-03-31,3,product,Cialis,Cialis,,Other,100.3,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q1,2023-03-31,3,product,Forteo,Forteo,,Other,122.3,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q1,2023-03-31,3,product,Humatrope,Humatrope,,Other,32.1,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q1,2023-03-31,3,product,Other,Other,,Other,20.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q2,2023-06-30,3,geography,China,China,,,399,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q2,2023-06-30,3,geography,Europe,Europe,,,1177.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q2,2023-06-30,3,geography,Japan,Japan,,,455.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q2,2023-06-30,3,geography,ROW,ROW,,,748.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q2,2023-06-30,3,geography,U.S.,U.S.,,,5531.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q2,2023-06-30,3,product,Baqsimi,Baqsimi,,Cardiometabolic Health,613.9,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q2,2023-06-30,3,product,Basaglar,Basaglar,,Cardiometabolic Health,154.2,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q2,2023-06-30,3,product,Humalog,Humalog,,Cardiometabolic Health,440.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q2,2023-06-30,3,product,Humulin,Humulin,,Cardiometabolic Health,205.3,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q2,2023-06-30,3,product,Jardiance,Jardiance,,Cardiometabolic Health,668.3,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q2,2023-06-30,3,product,Mounjaro,Mounjaro,,Cardiometabolic Health,979.7,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q2,2023-06-30,3,product,Other Cardiometabolic Health,Other Cardiometabolic Health,,Cardiometabolic Health,32.7,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q2,2023-06-30,3,product,Trajenta,Trajenta,,Cardiometabolic Health,103.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q2,2023-06-30,3,product,Trulicity,Trulicity,,Cardiometabolic Health,1812.5,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q2,2023-06-30,3,product,Zepbound,Zepbound,,Cardiometabolic Health,0,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q2,2023-06-30,3,product,Ebglyss,Ebglyss,,Immunology,0,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q2,2023-06-30,3,product,Olumiant,Olumiant,,Immunology,218.9,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q2,2023-06-30,3,product,Omvoh,Omvoh,,Immunology,5.7,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q2,2023-06-30,3,product,Taltz,Taltz,,Immunology,703.9,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q2,2023-06-30,3,product,Cymbalta,Cymbalta,,Neuroscience,64.1,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q2,2023-06-30,3,product,Emgality,Emgality,,Neuroscience,169.3,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q2,2023-06-30,3,product,Other Neuroscience,Other Neuroscience,,Neuroscience,58.8,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q2,2023-06-30,3,product,Reyvow,Reyvow,,Neuroscience,8.1,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q2,2023-06-30,3,product,Zyprexa,Zyprexa,,Neuroscience,86.9,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q2,2023-06-30,3,product,Alimta,Alimta,,Oncology,60.9,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q2,2023-06-30,3,product,Cyramza,Cyramza,,Oncology,260.3,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q2,2023-06-30,3,product,Elunate,Elunate,,Oncology,25.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q2,2023-06-30,3,product,Erbitux,Erbitux,,Oncology,162.5,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q2,2023-06-30,3,product,Jaypirca,Jaypirca,,Oncology,14.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q2,2023-06-30,3,product,Other Oncology,Other Oncology,,Oncology,51.5,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q2,2023-06-30,3,product,Retevmo,Retevmo,,Oncology,65.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q2,2023-06-30,3,product,Tyvyt,Tyvyt,,Oncology,103.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q2,2023-06-30,3,product,Verzenio,Verzenio,,Oncology,926.8,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q2,2023-06-30,3,product,Cialis,Cialis,,Other,115.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q2,2023-06-30,3,product,Forteo,Forteo,,Other,148,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q2,2023-06-30,3,product,Humatrope,Humatrope,,Other,15.8,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q2,2023-06-30,3,product,Other,Other,,Other,35.2,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q3,2023-09-30,3,geography,China,China,,,390.8,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q3,2023-09-30,3,geography,Europe,Europe,,,2568.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q3,2023-09-30,3,geography,Japan,Japan,,,390.8,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q3,2023-09-30,3,geography,ROW,ROW,,,780.3,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q3,2023-09-30,3,geography,U.S.,U.S.,,,5368.1,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q3,2023-09-30,3,product,Baqsimi,Baqsimi,,Cardiometabolic Health,13.1,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q3,2023-09-30,3,product,Basaglar,Basaglar,,Cardiometabolic Health,179.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q3,2023-09-30,3,product,Humalog,Humalog,,Cardiometabolic Health,395.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q3,2023-09-30,3,product,Humulin,Humulin,,Cardiometabolic Health,206.7,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q3,2023-09-30,3,product,Jardiance,Jardiance,,Cardiometabolic Health,700.8,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q3,2023-09-30,3,product,Mounjaro,Mounjaro,,Cardiometabolic Health,1409.3,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q3,2023-09-30,3,product,Other Cardiometabolic Health,Other Cardiometabolic Health,,Cardiometabolic Health,46.7,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q3,2023-09-30,3,product,Trajenta,Trajenta,,Cardiometabolic Health,95.2,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q3,2023-09-30,3,product,Trulicity,Trulicity,,Cardiometabolic Health,1673.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q3,2023-09-30,3,product,Zepbound,Zepbound,,Cardiometabolic Health,0,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q3,2023-09-30,3,product,Ebglyss,Ebglyss,,Immunology,3.5,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q3,2023-09-30,3,product,Olumiant,Olumiant,,Immunology,231.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q3,2023-09-30,3,product,Omvoh,Omvoh,,Immunology,7.8,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q3,2023-09-30,3,product,Taltz,Taltz,,Immunology,744.2,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q3,2023-09-30,3,product,Cymbalta,Cymbalta,,Neuroscience,61,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q3,2023-09-30,3,product,Emgality,Emgality,,Neuroscience,168.5,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q3,2023-09-30,3,product,Other Neuroscience,Other Neuroscience,,Neuroscience,47.9,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q3,2023-09-30,3,product,Reyvow,Reyvow,,Neuroscience,9.3,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q3,2023-09-30,3,product,Zyprexa,Zyprexa,,Neuroscience,1481.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q3,2023-09-30,3,product,Alimta,Alimta,,Oncology,53.5,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q3,2023-09-30,3,product,Cyramza,Cyramza,,Oncology,224.1,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q3,2023-09-30,3,product,Elunate,Elunate,,Oncology,26.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q3,2023-09-30,3,product,Erbitux,Erbitux,,Oncology,153.9,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q3,2023-09-30,3,product,Jaypirca,Jaypirca,,Oncology,22.7,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q3,2023-09-30,3,product,Other Oncology,Other Oncology,,Oncology,47.5,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q3,2023-09-30,3,product,Retevmo,Retevmo,,Oncology,63.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q3,2023-09-30,3,product,Tyvyt,Tyvyt,,Oncology,115.1,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q3,2023-09-30,3,product,Verzenio,Verzenio,,Oncology,1040.2,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q3,2023-09-30,3,product,Cialis,Cialis,,Other,86.8,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q3,2023-09-30,3,product,Forteo,Forteo,,Other,146.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q3,2023-09-30,3,product,Humatrope,Humatrope,,Other,24.8,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q3,2023-09-30,3,product,Other,Other,,Other,18,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q4,2023-12-31,3,geography,China,China,,,377.1,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q4,2023-12-31,3,geography,Europe,Europe,,,1337.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q4,2023-12-31,3,geography,Japan,Japan,,,439.1,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q4,2023-12-31,3,geography,ROW,ROW,,,744.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q4,2023-12-31,3,geography,U.S.,U.S.,,,6455.3,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q4,2023-12-31,3,product,Baqsimi,Baqsimi,,Cardiometabolic Health,19.2,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q4,2023-12-31,3,product,Basaglar,Basaglar,,Cardiometabolic Health,185.2,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q4,2023-12-31,3,product,Humalog,Humalog,,Cardiometabolic Health,366.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q4,2023-12-31,3,product,Humulin,Humulin,,Cardiometabolic Health,188.1,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q4,2023-12-31,3,product,Jardiance,Jardiance,,Cardiometabolic Health,798.1,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q4,2023-12-31,3,product,Mounjaro,Mounjaro,,Cardiometabolic Health,2205.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q4,2023-12-31,3,product,Other Cardiometabolic Health,Other Cardiometabolic Health,,Cardiometabolic Health,35.9,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q4,2023-12-31,3,product,Trajenta,Trajenta,,Cardiometabolic Health,102.2,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q4,2023-12-31,3,product,Trulicity,Trulicity,,Cardiometabolic Health,1669.3,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q4,2023-12-31,3,product,Zepbound,Zepbound,,Cardiometabolic Health,175.8,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q4,2023-12-31,3,product,Ebglyss,Ebglyss,,Immunology,67.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q4,2023-12-31,3,product,Olumiant,Olumiant,,Immunology,243.5,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q4,2023-12-31,3,product,Omvoh,Omvoh,,Immunology,8.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q4,2023-12-31,3,product,Taltz,Taltz,,Immunology,784.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q4,2023-12-31,3,product,Cymbalta,Cymbalta,,Neuroscience,57.3,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q4,2023-12-31,3,product,Emgality,Emgality,,Neuroscience,186.1,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q4,2023-12-31,3,product,Other Neuroscience,Other Neuroscience,,Neuroscience,67.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q4,2023-12-31,3,product,Reyvow,Reyvow,,Neuroscience,8,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q4,2023-12-31,3,product,Zyprexa,Zyprexa,,Neuroscience,43.8,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q4,2023-12-31,3,product,Alimta,Alimta,,Oncology,44.9,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q4,2023-12-31,3,product,Cyramza,Cyramza,,Oncology,253.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q4,2023-12-31,3,product,Elunate,Elunate,,Oncology,23,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q4,2023-12-31,3,product,Erbitux,Erbitux,,Oncology,150.2,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q4,2023-12-31,3,product,Jaypirca,Jaypirca,,Oncology,32.8,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q4,2023-12-31,3,product,Other Oncology,Other Oncology,,Oncology,47.3,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q4,2023-12-31,3,product,Retevmo,Retevmo,,Oncology,73.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q4,2023-12-31,3,product,Tyvyt,Tyvyt,,Oncology,113.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q4,2023-12-31,3,product,Verzenio,Verzenio,,Oncology,1145.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q4,2023-12-31,3,product,Cialis,Cialis,,Other,78.7,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q4,2023-12-31,3,product,Forteo,Forteo,,Other,116.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q4,2023-12-31,3,product,Humatrope,Humatrope,,Other,27.2,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2023,Q4,2023-12-31,3,product,Other,Other,,Other,33.8,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q1,2024-03-31,3,geography,China,China,,,376.2,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q1,2024-03-31,3,geography,Europe,Europe,,,1440.7,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q1,2024-03-31,3,geography,Japan,Japan,,,363.9,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q1,2024-03-31,3,geography,ROW,ROW,,,892.9,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q1,2024-03-31,3,geography,U.S.,U.S.,,,5694.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q1,2024-03-31,3,product,Basaglar,Basaglar,,Cardiometabolic Health,157.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q1,2024-03-31,3,product,Humalog,Humalog,,Cardiometabolic Health,538.7,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q1,2024-03-31,3,product,Humulin,Humulin,,Cardiometabolic Health,206.2,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q1,2024-03-31,3,product,Jardiance,Jardiance,,Cardiometabolic Health,686.5,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q1,2024-03-31,3,product,Mounjaro,Mounjaro,,Cardiometabolic Health,1806.5,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q1,2024-03-31,3,product,Other Cardiometabolic Health,Other Cardiometabolic Health,,Cardiometabolic Health,34.9,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q1,2024-03-31,3,product,Trajenta,Trajenta,,Cardiometabolic Health,88.9,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q1,2024-03-31,3,product,Trulicity,Trulicity,,Cardiometabolic Health,1456.3,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q1,2024-03-31,3,product,Zepbound,Zepbound,,Cardiometabolic Health,517.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q1,2024-03-31,3,product,Ebglyss,Ebglyss,,Immunology,3.1,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q1,2024-03-31,3,product,Olumiant,Olumiant,,Immunology,217.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q1,2024-03-31,3,product,Omvoh,Omvoh,,Immunology,9.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q1,2024-03-31,3,product,Taltz,Taltz,,Immunology,604.1,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q1,2024-03-31,3,product,Cymbalta,Cymbalta,,Neuroscience,54.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q1,2024-03-31,3,product,Emgality,Emgality,,Neuroscience,225.7,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q1,2024-03-31,3,product,Kisunla,Kisunla,,Neuroscience,0,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q1,2024-03-31,3,product,Other Neuroscience,Other Neuroscience,,Neuroscience,100.5,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q1,2024-03-31,3,product,Reyvow,Reyvow,,Neuroscience,8.5,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q1,2024-03-31,3,product,Alimta,Alimta,,Oncology,69.5,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q1,2024-03-31,3,product,Cyramza,Cyramza,,Oncology,229.9,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q1,2024-03-31,3,product,Elunate,Elunate,,Oncology,30.9,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q1,2024-03-31,3,product,Erbitux,Erbitux,,Oncology,144.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q1,2024-03-31,3,product,Jaypirca,Jaypirca,,Oncology,50,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q1,2024-03-31,3,product,Other Oncology,Other Oncology,,Oncology,49.1,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q1,2024-03-31,3,product,Retevmo,Retevmo,,Oncology,69.2,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q1,2024-03-31,3,product,Tyvyt,Tyvyt,,Oncology,116.7,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q1,2024-03-31,3,product,Verzenio,Verzenio,,Oncology,1050.3,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q1,2024-03-31,3,product,Cialis,Cialis,,Other,139.3,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q1,2024-03-31,3,product,Forteo,Forteo,,Other,61.3,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q1,2024-03-31,3,product,Humatrope,Humatrope,,Other,19.1,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q1,2024-03-31,3,product,Other,Other,,Other,22.3,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q2,2024-06-30,3,geography,China,China,,,395.1,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q2,2024-06-30,3,geography,Europe,Europe,,,1403.7,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q2,2024-06-30,3,geography,Japan,Japan,,,462.7,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q2,2024-06-30,3,geography,ROW,ROW,,,1206.1,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q2,2024-06-30,3,geography,U.S.,U.S.,,,7835.2,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q2,2024-06-30,3,product,Basaglar,Basaglar,,Cardiometabolic Health,180.8,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q2,2024-06-30,3,product,Humalog,Humalog,,Cardiometabolic Health,631.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q2,2024-06-30,3,product,Humulin,Humulin,,Cardiometabolic Health,223.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q2,2024-06-30,3,product,Jardiance,Jardiance,,Cardiometabolic Health,769.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q2,2024-06-30,3,product,Mounjaro,Mounjaro,,Cardiometabolic Health,3090.8,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q2,2024-06-30,3,product,Other Cardiometabolic Health,Other Cardiometabolic Health,,Cardiometabolic Health,52.9,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q2,2024-06-30,3,product,Trajenta,Trajenta,,Cardiometabolic Health,76.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q2,2024-06-30,3,product,Trulicity,Trulicity,,Cardiometabolic Health,1245.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q2,2024-06-30,3,product,Zepbound,Zepbound,,Cardiometabolic Health,1243.2,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q2,2024-06-30,3,product,Ebglyss,Ebglyss,,Immunology,4.3,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q2,2024-06-30,3,product,Olumiant,Olumiant,,Immunology,227.7,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q2,2024-06-30,3,product,Omvoh,Omvoh,,Immunology,25.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q2,2024-06-30,3,product,Taltz,Taltz,,Immunology,824.7,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q2,2024-06-30,3,product,Cymbalta,Cymbalta,,Neuroscience,49.8,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q2,2024-06-30,3,product,Emgality,Emgality,,Neuroscience,192,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q2,2024-06-30,3,product,Kisunla,Kisunla,,Neuroscience,0,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q2,2024-06-30,3,product,Other Neuroscience,Other Neuroscience,,Neuroscience,90.8,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q2,2024-06-30,3,product,Reyvow,Reyvow,,Neuroscience,6.7,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q2,2024-06-30,3,product,Alimta,Alimta,,Oncology,33.9,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q2,2024-06-30,3,product,Cyramza,Cyramza,,Oncology,248.9,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q2,2024-06-30,3,product,Elunate,Elunate,,Oncology,28.7,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q2,2024-06-30,3,product,Erbitux,Erbitux,,Oncology,155.8,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q2,2024-06-30,3,product,Jaypirca,Jaypirca,,Oncology,92.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q2,2024-06-30,3,product,Other Oncology,Other Oncology,,Oncology,53,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q2,2024-06-30,3,product,Retevmo,Retevmo,,Oncology,91.2,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q2,2024-06-30,3,product,Tyvyt,Tyvyt,,Oncology,123,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q2,2024-06-30,3,product,Verzenio,Verzenio,,Oncology,1331.9,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q2,2024-06-30,3,product,Cialis,Cialis,,Other,87.7,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q2,2024-06-30,3,product,Forteo,Forteo,,Other,69.9,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q2,2024-06-30,3,product,Humatrope,Humatrope,,Other,19.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q2,2024-06-30,3,product,Other,Other,,Other,30.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q3,2024-09-30,3,geography,China,China,,,459.9,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q3,2024-09-30,3,geography,Europe,Europe,,,1628.3,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q3,2024-09-30,3,geography,Japan,Japan,,,429.1,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q3,2024-09-30,3,geography,ROW,ROW,,,1108.2,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q3,2024-09-30,3,geography,U.S.,U.S.,,,7813.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q3,2024-09-30,3,product,Basaglar,Basaglar,,Cardiometabolic Health,161.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q3,2024-09-30,3,product,Humalog,Humalog,,Cardiometabolic Health,534.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q3,2024-09-30,3,product,Humulin,Humulin,,Cardiometabolic Health,207.1,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q3,2024-09-30,3,product,Jardiance,Jardiance,,Cardiometabolic Health,686.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q3,2024-09-30,3,product,Mounjaro,Mounjaro,,Cardiometabolic Health,3112.7,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q3,2024-09-30,3,product,Other Cardiometabolic Health,Other Cardiometabolic Health,,Cardiometabolic Health,53.7,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q3,2024-09-30,3,product,Trajenta,Trajenta,,Cardiometabolic Health,91.7,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q3,2024-09-30,3,product,Trulicity,Trulicity,,Cardiometabolic Health,1301.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q3,2024-09-30,3,product,Zepbound,Zepbound,,Cardiometabolic Health,1257.8,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q3,2024-09-30,3,product,Ebglyss,Ebglyss,,Immunology,14.9,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q3,2024-09-30,3,product,Olumiant,Olumiant,,Immunology,250.8,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q3,2024-09-30,3,product,Omvoh,Omvoh,,Immunology,40.5,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q3,2024-09-30,3,product,Taltz,Taltz,,Immunology,879.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q3,2024-09-30,3,product,Cymbalta,Cymbalta,,Neuroscience,44.7,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q3,2024-09-30,3,product,Emgality,Emgality,,Neuroscience,202.9,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q3,2024-09-30,3,product,Kisunla,Kisunla,,Neuroscience,1.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q3,2024-09-30,3,product,Other Neuroscience,Other Neuroscience,,Neuroscience,95.8,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q3,2024-09-30,3,product,Reyvow,Reyvow,,Neuroscience,6.9,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q3,2024-09-30,3,product,Alimta,Alimta,,Oncology,48,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q3,2024-09-30,3,product,Cyramza,Cyramza,,Oncology,236,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q3,2024-09-30,3,product,Elunate,Elunate,,Oncology,29.2,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q3,2024-09-30,3,product,Erbitux,Erbitux,,Oncology,152,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q3,2024-09-30,3,product,Jaypirca,Jaypirca,,Oncology,81.1,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q3,2024-09-30,3,product,Other Oncology,Other Oncology,,Oncology,52.1,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q3,2024-09-30,3,product,Retevmo,Retevmo,,Oncology,114,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q3,2024-09-30,3,product,Tyvyt,Tyvyt,,Oncology,150.2,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q3,2024-09-30,3,product,Verzenio,Verzenio,,Oncology,1369.3,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q3,2024-09-30,3,product,Cialis,Cialis,,Other,91.5,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q3,2024-09-30,3,product,Forteo,Forteo,,Other,118.1,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q3,2024-09-30,3,product,Humatrope,Humatrope,,Other,22.5,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q3,2024-09-30,3,product,Other,Other,,Other,30.7,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q4,2024-12-31,3,geography,China,China,,,429.3,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q4,2024-12-31,3,geography,Europe,Europe,,,2448,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q4,2024-12-31,3,geography,Japan,Japan,,,559.2,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q4,2024-12-31,3,geography,ROW,ROW,,,1064.3,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q4,2024-12-31,3,geography,U.S.,U.S.,,,9031.9,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q4,2024-12-31,3,product,Basaglar,Basaglar,,Cardiometabolic Health,176.9,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q4,2024-12-31,3,product,Humalog,Humalog,,Cardiometabolic Health,619.9,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q4,2024-12-31,3,product,Humulin,Humulin,,Cardiometabolic Health,280.3,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q4,2024-12-31,3,product,Jardiance,Jardiance,,Cardiometabolic Health,1198.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q4,2024-12-31,3,product,Mounjaro,Mounjaro,,Cardiometabolic Health,3530.1,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q4,2024-12-31,3,product,Other Cardiometabolic Health,Other Cardiometabolic Health,,Cardiometabolic Health,46.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q4,2024-12-31,3,product,Trajenta,Trajenta,,Cardiometabolic Health,96.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q4,2024-12-31,3,product,Trulicity,Trulicity,,Cardiometabolic Health,1250.2,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q4,2024-12-31,3,product,Zepbound,Zepbound,,Cardiometabolic Health,1907.2,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q4,2024-12-31,3,product,Ebglyss,Ebglyss,,Immunology,20.4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q4,2024-12-31,3,product,Olumiant,Olumiant,,Immunology,261.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q4,2024-12-31,3,product,Omvoh,Omvoh,,Immunology,56.9,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q4,2024-12-31,3,product,Taltz,Taltz,,Immunology,952,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q4,2024-12-31,3,product,Cymbalta,Cymbalta,,Neuroscience,50.2,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q4,2024-12-31,3,product,Emgality,Emgality,,Neuroscience,249.8,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q4,2024-12-31,3,product,Kisunla,Kisunla,,Neuroscience,7.9,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q4,2024-12-31,3,product,Other Neuroscience,Other Neuroscience,,Neuroscience,74.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q4,2024-12-31,3,product,Reyvow,Reyvow,,Neuroscience,10.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q4,2024-12-31,3,product,Alimta,Alimta,,Oncology,38.8,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q4,2024-12-31,3,product,Cyramza,Cyramza,,Oncology,258.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q4,2024-12-31,3,product,Elunate,Elunate,,Oncology,22.7,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q4,2024-12-31,3,product,Erbitux,Erbitux,,Oncology,175,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q4,2024-12-31,3,product,Jaypirca,Jaypirca,,Oncology,113.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q4,2024-12-31,3,product,Other Oncology,Other Oncology,,Oncology,162,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q4,2024-12-31,3,product,Retevmo,Retevmo,,Oncology,90,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q4,2024-12-31,3,product,Tyvyt,Tyvyt,,Oncology,136,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q4,2024-12-31,3,product,Verzenio,Verzenio,,Oncology,1555.2,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q4,2024-12-31,3,product,Cialis,Cialis,,Other,75.7,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q4,2024-12-31,3,product,Forteo,Forteo,,Other,61.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q4,2024-12-31,3,product,Humatrope,Humatrope,,Other,18.6,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2024,Q4,2024-12-31,3,product,Other,Other,,Other,34.8,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q1,2025-03-31,3,geography,China,China,,,451,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q1,2025-03-31,3,geography,Europe,Europe,,,2389,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q1,2025-03-31,3,geography,Japan,Japan,,,402,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q1,2025-03-31,3,geography,ROW,ROW,,,997,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q1,2025-03-31,3,geography,U.S.,U.S.,,,8489,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q1,2025-03-31,3,product,Basaglar,Basaglar,,Cardiometabolic Health,174,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q1,2025-03-31,3,product,Humalog,Humalog,,Cardiometabolic Health,537,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q1,2025-03-31,3,product,Humulin,Humulin,,Cardiometabolic Health,173,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q1,2025-03-31,3,product,Jardiance,Jardiance,,Cardiometabolic Health,1014,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q1,2025-03-31,3,product,Mounjaro,Mounjaro,,Cardiometabolic Health,3842,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q1,2025-03-31,3,product,Other Cardiometabolic Health,Other Cardiometabolic Health,,Cardiometabolic Health,-16,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q1,2025-03-31,3,product,Trajenta,Trajenta,,Cardiometabolic Health,76,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q1,2025-03-31,3,product,Trulicity,Trulicity,,Cardiometabolic Health,1095,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q1,2025-03-31,3,product,Zepbound,Zepbound,,Cardiometabolic Health,2312,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q1,2025-03-31,3,product,Ebglyss,Ebglyss,,Immunology,60,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q1,2025-03-31,3,product,Olumiant,Olumiant,,Immunology,229,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q1,2025-03-31,3,product,Omvoh,Omvoh,,Immunology,37,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q1,2025-03-31,3,product,Taltz,Taltz,,Immunology,762,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q1,2025-03-31,3,product,Cymbalta,Cymbalta,,Neuroscience,31,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q1,2025-03-31,3,product,Emgality,Emgality,,Neuroscience,125,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q1,2025-03-31,3,product,Kisunla,Kisunla,,Neuroscience,22,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q1,2025-03-31,3,product,Other Neuroscience,Other Neuroscience,,Neuroscience,89,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q1,2025-03-31,3,product,Reyvow,Reyvow,,Neuroscience,5,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q1,2025-03-31,3,product,Alimta,Alimta,,Oncology,28,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q1,2025-03-31,3,product,Cyramza,Cyramza,,Oncology,225,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q1,2025-03-31,3,product,Elunate,Elunate,,Oncology,19,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q1,2025-03-31,3,product,Erbitux,Erbitux,,Oncology,149,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q1,2025-03-31,3,product,Inluriyo,Inluriyo,,Oncology,0,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q1,2025-03-31,3,product,Jaypirca,Jaypirca,,Oncology,92,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q1,2025-03-31,3,product,Other Oncology,Other Oncology,,Oncology,47,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q1,2025-03-31,3,product,Retevmo,Retevmo,,Oncology,91,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q1,2025-03-31,3,product,Tyvyt,Tyvyt,,Oncology,138,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q1,2025-03-31,3,product,Verzenio,Verzenio,,Oncology,1159,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q1,2025-03-31,3,product,Cialis,Cialis,,Other,70,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q1,2025-03-31,3,product,Forteo,Forteo,,Other,67,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q1,2025-03-31,3,product,Humatrope,Humatrope,,Other,65,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q1,2025-03-31,3,product,Other,Other,,Other,12,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q2,2025-06-30,3,geography,China,China,,,466,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q2,2025-06-30,3,geography,Europe,Europe,,,2574,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q2,2025-06-30,3,geography,Japan,Japan,,,521,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q2,2025-06-30,3,geography,ROW,ROW,,,1182,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q2,2025-06-30,3,geography,U.S.,U.S.,,,10814,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q2,2025-06-30,3,product,Basaglar,Basaglar,,Cardiometabolic Health,145,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q2,2025-06-30,3,product,Humalog,Humalog,,Cardiometabolic Health,503,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q2,2025-06-30,3,product,Humulin,Humulin,,Cardiometabolic Health,175,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q2,2025-06-30,3,product,Jardiance,Jardiance,,Cardiometabolic Health,690,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q2,2025-06-30,3,product,Mounjaro,Mounjaro,,Cardiometabolic Health,5199,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q2,2025-06-30,3,product,Other Cardiometabolic Health,Other Cardiometabolic Health,,Cardiometabolic Health,66,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q2,2025-06-30,3,product,Trajenta,Trajenta,,Cardiometabolic Health,92,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q2,2025-06-30,3,product,Trulicity,Trulicity,,Cardiometabolic Health,1092,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q2,2025-06-30,3,product,Zepbound,Zepbound,,Cardiometabolic Health,3381,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q2,2025-06-30,3,product,Ebglyss,Ebglyss,,Immunology,87,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q2,2025-06-30,3,product,Olumiant,Olumiant,,Immunology,246,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q2,2025-06-30,3,product,Omvoh,Omvoh,,Immunology,75,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q2,2025-06-30,3,product,Taltz,Taltz,,Immunology,848,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q2,2025-06-30,3,product,Cymbalta,Cymbalta,,Neuroscience,24,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q2,2025-06-30,3,product,Emgality,Emgality,,Neuroscience,201,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q2,2025-06-30,3,product,Kisunla,Kisunla,,Neuroscience,49,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q2,2025-06-30,3,product,Other Neuroscience,Other Neuroscience,,Neuroscience,62,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q2,2025-06-30,3,product,Reyvow,Reyvow,,Neuroscience,8,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q2,2025-06-30,3,product,Alimta,Alimta,,Oncology,29,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q2,2025-06-30,3,product,Cyramza,Cyramza,,Oncology,254,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q2,2025-06-30,3,product,Elunate,Elunate,,Oncology,21,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q2,2025-06-30,3,product,Erbitux,Erbitux,,Oncology,184,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q2,2025-06-30,3,product,Inluriyo,Inluriyo,,Oncology,0,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q2,2025-06-30,3,product,Jaypirca,Jaypirca,,Oncology,123,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q2,2025-06-30,3,product,Other Oncology,Other Oncology,,Oncology,51,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q2,2025-06-30,3,product,Retevmo,Retevmo,,Oncology,125,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q2,2025-06-30,3,product,Tyvyt,Tyvyt,,Oncology,137,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q2,2025-06-30,3,product,Verzenio,Verzenio,,Oncology,1489,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q2,2025-06-30,3,product,Cialis,Cialis,,Other,67,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q2,2025-06-30,3,product,Forteo,Forteo,,Other,93,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q2,2025-06-30,3,product,Humatrope,Humatrope,,Other,20,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q2,2025-06-30,3,product,Other,Other,,Other,23,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q3,2025-09-30,3,geography,China,China,,,560,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q3,2025-09-30,3,geography,Europe,Europe,,,3498,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q3,2025-09-30,3,geography,Japan,Japan,,,555,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q3,2025-09-30,3,geography,ROW,ROW,,,1688,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q3,2025-09-30,3,geography,U.S.,U.S.,,,11300,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q3,2025-09-30,3,product,Basaglar,Basaglar,,Cardiometabolic Health,162,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q3,2025-09-30,3,product,Humalog,Humalog,,Cardiometabolic Health,599,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q3,2025-09-30,3,product,Humulin,Humulin,,Cardiometabolic Health,177,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q3,2025-09-30,3,product,Jardiance,Jardiance,,Cardiometabolic Health,959,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q3,2025-09-30,3,product,Mounjaro,Mounjaro,,Cardiometabolic Health,6515,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q3,2025-09-30,3,product,Other Cardiometabolic Health,Other Cardiometabolic Health,,Cardiometabolic Health,55,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q3,2025-09-30,3,product,Trajenta,Trajenta,,Cardiometabolic Health,71,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q3,2025-09-30,3,product,Trulicity,Trulicity,,Cardiometabolic Health,1052,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q3,2025-09-30,3,product,Zepbound,Zepbound,,Cardiometabolic Health,3588,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q3,2025-09-30,3,product,Ebglyss,Ebglyss,,Immunology,127,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q3,2025-09-30,3,product,Olumiant,Olumiant,,Immunology,269,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q3,2025-09-30,3,product,Omvoh,Omvoh,,Immunology,65,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q3,2025-09-30,3,product,Taltz,Taltz,,Immunology,902,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q3,2025-09-30,3,product,Cymbalta,Cymbalta,,Neuroscience,4,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q3,2025-09-30,3,product,Emgality,Emgality,,Neuroscience,176,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q3,2025-09-30,3,product,Kisunla,Kisunla,,Neuroscience,70,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q3,2025-09-30,3,product,Other Neuroscience,Other Neuroscience,,Neuroscience,57,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q3,2025-09-30,3,product,Reyvow,Reyvow,,Neuroscience,8,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q3,2025-09-30,3,product,Alimta,Alimta,,Oncology,26,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q3,2025-09-30,3,product,Cyramza,Cyramza,,Oncology,246,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q3,2025-09-30,3,product,Elunate,Elunate,,Oncology,23,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q3,2025-09-30,3,product,Erbitux,Erbitux,,Oncology,199,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q3,2025-09-30,3,product,Inluriyo,Inluriyo,,Oncology,0,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q3,2025-09-30,3,product,Jaypirca,Jaypirca,,Oncology,143,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q3,2025-09-30,3,product,Other Oncology,Other Oncology,,Oncology,48,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q3,2025-09-30,3,product,Retevmo,Retevmo,,Oncology,112,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q3,2025-09-30,3,product,Tyvyt,Tyvyt,,Oncology,142,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q3,2025-09-30,3,product,Verzenio,Verzenio,,Oncology,1470,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q3,2025-09-30,3,product,Cialis,Cialis,,Other,254,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q3,2025-09-30,3,product,Forteo,Forteo,,Other,56,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q3,2025-09-30,3,product,Humatrope,Humatrope,,Other,16,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q3,2025-09-30,3,product,Other,Other,,Other,12,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q4,2025-12-31,3,geography,China,China,,,474,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q4,2025-12-31,3,geography,Europe,Europe,,,3096,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q4,2025-12-31,3,geography,Japan,Japan,,,654,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q4,2025-12-31,3,geography,ROW,ROW,,,2190,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q4,2025-12-31,3,geography,U.S.,U.S.,,,12877,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q4,2025-12-31,3,product,Basaglar,Basaglar,,Cardiometabolic Health,145,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q4,2025-12-31,3,product,Humalog,Humalog,,Cardiometabolic Health,529,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q4,2025-12-31,3,product,Humulin,Humulin,,Cardiometabolic Health,180,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q4,2025-12-31,3,product,Jardiance,Jardiance,,Cardiometabolic Health,768,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q4,2025-12-31,3,product,Mounjaro,Mounjaro,,Cardiometabolic Health,7409,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q4,2025-12-31,3,product,Other Cardiometabolic Health,Other Cardiometabolic Health,,Cardiometabolic Health,84,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q4,2025-12-31,3,product,Trajenta,Trajenta,,Cardiometabolic Health,79,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q4,2025-12-31,3,product,Trulicity,Trulicity,,Cardiometabolic Health,1037,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q4,2025-12-31,3,product,Zepbound,Zepbound,,Cardiometabolic Health,4261,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q4,2025-12-31,3,product,Ebglyss,Ebglyss,,Immunology,134,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q4,2025-12-31,3,product,Olumiant,Olumiant,,Immunology,267,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q4,2025-12-31,3,product,Omvoh,Omvoh,,Immunology,88,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q4,2025-12-31,3,product,Taltz,Taltz,,Immunology,1051,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q4,2025-12-31,3,product,Cymbalta,Cymbalta,,Neuroscience,3,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q4,2025-12-31,3,product,Emgality,Emgality,,Neuroscience,246,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q4,2025-12-31,3,product,Kisunla,Kisunla,,Neuroscience,109,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q4,2025-12-31,3,product,Other Neuroscience,Other Neuroscience,,Neuroscience,86,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q4,2025-12-31,3,product,Reyvow,Reyvow,,Neuroscience,16,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q4,2025-12-31,3,product,Alimta,Alimta,,Oncology,32,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q4,2025-12-31,3,product,Cyramza,Cyramza,,Oncology,262,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q4,2025-12-31,3,product,Elunate,Elunate,,Oncology,32,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q4,2025-12-31,3,product,Erbitux,Erbitux,,Oncology,196,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q4,2025-12-31,3,product,Inluriyo,Inluriyo,,Oncology,14,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q4,2025-12-31,3,product,Jaypirca,Jaypirca,,Oncology,148,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q4,2025-12-31,3,product,Other Oncology,Other Oncology,,Oncology,59,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q4,2025-12-31,3,product,Retevmo,Retevmo,,Oncology,128,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q4,2025-12-31,3,product,Tyvyt,Tyvyt,,Oncology,134,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q4,2025-12-31,3,product,Verzenio,Verzenio,,Oncology,1604,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q4,2025-12-31,3,product,Cialis,Cialis,,Other,72,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q4,2025-12-31,3,product,Forteo,Forteo,,Other,75,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q4,2025-12-31,3,product,Humatrope,Humatrope,,Other,13,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2025,Q4,2025-12-31,3,product,Other,Other,,Other,32,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q1,2026-03-31,3,geography,China,China,,,693,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q1,2026-03-31,3,geography,Europe,Europe,,,3646,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q1,2026-03-31,3,geography,Japan,Japan,,,571,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q1,2026-03-31,3,geography,ROW,ROW,,,2771,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q1,2026-03-31,3,geography,U.S.,U.S.,,,12119,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q1,2026-03-31,3,product,Basaglar,Basaglar,,Cardiometabolic Health,206,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q1,2026-03-31,3,product,Foundayo,Foundayo,,Cardiometabolic Health,0,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q1,2026-03-31,3,product,Humalog,Humalog,,Cardiometabolic Health,442,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q1,2026-03-31,3,product,Humulin,Humulin,,Cardiometabolic Health,160,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q1,2026-03-31,3,product,Jardiance,Jardiance,,Cardiometabolic Health,1114,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q1,2026-03-31,3,product,Mounjaro,Mounjaro,,Cardiometabolic Health,8662,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q1,2026-03-31,3,product,Other Cardiometabolic Health,Other Cardiometabolic Health,,Cardiometabolic Health,22,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q1,2026-03-31,3,product,Trajenta,Trajenta,,Cardiometabolic Health,76,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q1,2026-03-31,3,product,Trulicity,Trulicity,,Cardiometabolic Health,919,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q1,2026-03-31,3,product,Zepbound,Zepbound,,Cardiometabolic Health,4160,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q1,2026-03-31,3,product,Ebglyss,Ebglyss,,Immunology,145,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q1,2026-03-31,3,product,Olumiant,Olumiant,,Immunology,246,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q1,2026-03-31,3,product,Omvoh,Omvoh,,Immunology,80,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q1,2026-03-31,3,product,Taltz,Taltz,,Immunology,733,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q1,2026-03-31,3,product,Emgality,Emgality,,Neuroscience,174,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q1,2026-03-31,3,product,Kisunla,Kisunla,,Neuroscience,124,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q1,2026-03-31,3,product,Other Neuroscience,Other Neuroscience,,Neuroscience,79,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q1,2026-03-31,3,product,Reyvow,Reyvow,,Neuroscience,5,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q1,2026-03-31,3,product,Alimta,Alimta,,Oncology,35,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q1,2026-03-31,3,product,Cyramza,Cyramza,,Oncology,231,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q1,2026-03-31,3,product,Elunate,Elunate,,Oncology,26,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q1,2026-03-31,3,product,Erbitux,Erbitux,,Oncology,178,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q1,2026-03-31,3,product,Inluriyo,Inluriyo,,Oncology,35,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q1,2026-03-31,3,product,Jaypirca,Jaypirca,,Oncology,165,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q1,2026-03-31,3,product,Other Oncology,Other Oncology,,Oncology,48,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q1,2026-03-31,3,product,Retevmo,Retevmo,,Oncology,130,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q1,2026-03-31,3,product,Tyvyt,Tyvyt,,Oncology,120,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q1,2026-03-31,3,product,Verzenio,Verzenio,,Oncology,1302,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q1,2026-03-31,3,product,Cialis,Cialis,,Other,91,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q1,2026-03-31,3,product,Forteo,Forteo,,Other,73,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q1,2026-03-31,3,product,Other,Other,,Other,23,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q2,2026-06-30,3,geography,China,China,,,941,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q2,2026-06-30,3,geography,Europe,Europe,,,4115,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q2,2026-06-30,3,geography,Japan,Japan,,,628,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q2,2026-06-30,3,geography,ROW,ROW,,,2877,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q2,2026-06-30,3,geography,U.S.,U.S.,,,14413,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q2,2026-06-30,3,product,Basaglar,Basaglar,,Cardiometabolic Health,143,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q2,2026-06-30,3,product,Foundayo,Foundayo,,Cardiometabolic Health,98,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q2,2026-06-30,3,product,Humalog,Humalog,,Cardiometabolic Health,410,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q2,2026-06-30,3,product,Humulin,Humulin,,Cardiometabolic Health,153,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q2,2026-06-30,3,product,Jardiance,Jardiance,,Cardiometabolic Health,1232,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q2,2026-06-30,3,product,Mounjaro,Mounjaro,,Cardiometabolic Health,9943,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q2,2026-06-30,3,product,Other Cardiometabolic Health,Other Cardiometabolic Health,,Cardiometabolic Health,154,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q2,2026-06-30,3,product,Trajenta,Trajenta,,Cardiometabolic Health,73,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q2,2026-06-30,3,product,Trulicity,Trulicity,,Cardiometabolic Health,1219,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q2,2026-06-30,3,product,Zepbound,Zepbound,,Cardiometabolic Health,4928,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q2,2026-06-30,3,product,Ebglyss,Ebglyss,,Immunology,201,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q2,2026-06-30,3,product,Olumiant,Olumiant,,Immunology,258,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q2,2026-06-30,3,product,Omvoh,Omvoh,,Immunology,102,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q2,2026-06-30,3,product,Taltz,Taltz,,Immunology,856,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q2,2026-06-30,3,product,Emgality,Emgality,,Neuroscience,191,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q2,2026-06-30,3,product,Kisunla,Kisunla,,Neuroscience,167,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q2,2026-06-30,3,product,Other Neuroscience,Other Neuroscience,,Neuroscience,69,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q2,2026-06-30,3,product,Reyvow,Reyvow,,Neuroscience,2,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q2,2026-06-30,3,product,Alimta,Alimta,,Oncology,11,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q2,2026-06-30,3,product,Cyramza,Cyramza,,Oncology,256,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q2,2026-06-30,3,product,Elunate,Elunate,,Oncology,31,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q2,2026-06-30,3,product,Erbitux,Erbitux,,Oncology,215,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q2,2026-06-30,3,product,Inluriyo,Inluriyo,,Oncology,75,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q2,2026-06-30,3,product,Jaypirca,Jaypirca,,Oncology,192,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q2,2026-06-30,3,product,Other Oncology,Other Oncology,,Oncology,42,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q2,2026-06-30,3,product,Retevmo,Retevmo,,Oncology,144,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q2,2026-06-30,3,product,Tyvyt,Tyvyt,,Oncology,130,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q2,2026-06-30,3,product,Verzenio,Verzenio,,Oncology,1474,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q2,2026-06-30,3,product,Cialis,Cialis,,Other,69,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q2,2026-06-30,3,product,Forteo,Forteo,,Other,46,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q2,2026-06-30,3,product,Other,Other,,Other,90,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q3,2026-09-30,3,geography,China,China,,,947,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q3,2026-09-30,3,geography,Europe,Europe,,,4459,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q3,2026-09-30,3,geography,Japan,Japan,,,648,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q3,2026-09-30,3,geography,ROW,ROW,,,3206,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q3,2026-09-30,3,geography,U.S.,U.S.,,,15136,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q3,2026-09-30,3,product,Basaglar,Basaglar,,Cardiometabolic Health,144,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q3,2026-09-30,3,product,Foundayo,Foundayo,,Cardiometabolic Health,184,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q3,2026-09-30,3,product,Humalog,Humalog,,Cardiometabolic Health,593,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q3,2026-09-30,3,product,Humulin,Humulin,,Cardiometabolic Health,164,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q3,2026-09-30,3,product,Jardiance,Jardiance,,Cardiometabolic Health,1578,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q3,2026-09-30,3,product,Mounjaro,Mounjaro,,Cardiometabolic Health,10723,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q3,2026-09-30,3,product,Other Cardiometabolic Health,Other Cardiometabolic Health,,Cardiometabolic Health,84,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q3,2026-09-30,3,product,Trajenta,Trajenta,,Cardiometabolic Health,38,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q3,2026-09-30,3,product,Trulicity,Trulicity,,Cardiometabolic Health,904,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q3,2026-09-30,3,product,Zepbound,Zepbound,,Cardiometabolic Health,5352,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q3,2026-09-30,3,product,Ebglyss,Ebglyss,,Immunology,202,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q3,2026-09-30,3,product,Olumiant,Olumiant,,Immunology,263,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q3,2026-09-30,3,product,Omvoh,Omvoh,,Immunology,114,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q3,2026-09-30,3,product,Taltz,Taltz,,Immunology,856,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q3,2026-09-30,3,product,Emgality,Emgality,,Neuroscience,186,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q3,2026-09-30,3,product,Kisunla,Kisunla,,Neuroscience,193,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q3,2026-09-30,3,product,Other Neuroscience,Other Neuroscience,,Neuroscience,67,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q3,2026-09-30,3,product,Reyvow,Reyvow,,Neuroscience,-2,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q3,2026-09-30,3,product,Alimta,Alimta,,Oncology,7,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q3,2026-09-30,3,product,Cyramza,Cyramza,,Oncology,226,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q3,2026-09-30,3,product,Elunate,Elunate,,Oncology,32,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q3,2026-09-30,3,product,Erbitux,Erbitux,,Oncology,199,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q3,2026-09-30,3,product,Inluriyo,Inluriyo,,Oncology,73,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q3,2026-09-30,3,product,Jaypirca,Jaypirca,,Oncology,228,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q3,2026-09-30,3,product,Other Oncology,Other Oncology,,Oncology,53,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q3,2026-09-30,3,product,Retevmo,Retevmo,,Oncology,147,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q3,2026-09-30,3,product,Tyvyt,Tyvyt,,Oncology,124,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q3,2026-09-30,3,product,Verzenio,Verzenio,,Oncology,1511,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q3,2026-09-30,3,product,Cialis,Cialis,,Other,69,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q3,2026-09-30,3,product,Forteo,Forteo,,Other,45,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）
+2026,Q3,2026-09-30,3,product,Other,Other,,Other,40,USD,millions,reported,礼来投资者关系财务数据表（2026Q3 及以前）与 SEC 10-Q/10-K/8-K（之后）

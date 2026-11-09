@@ -1,62 +1,50 @@
-# 礼来看板自动维护：上线步骤
+# 医药行业财务看板：上线与运行
 
-整套东西放进一个 GitHub 仓库后，每天由 GitHub Actions 自动运行：检查 SEC 新财报、补新季度、用 GPT 更新重大事件、核对、发布网页。上线只需要做一次下面 5 步。每一部分做什么、数据怎么来、怎么核对，见同目录的 `SPEC.md`。
+整套东西放在 GitHub 仓库 `youthme2026-6666/pharma-dashboard` 里，每天由 GitHub Actions 自动运行：逐家公司检查新报告、补新季度、用 GPT 更新重大事件、核对、发布网页。网址：https://youthme2026-6666.github.io/pharma-dashboard/ 。每一部分做什么、数据怎么来、怎么核对，见同目录的 `SPEC.md`。
 
-## 1. 建仓库并上传
+## 已经做好的设置
 
-在 GitHub 新建一个空仓库（公开仓库可以免费用 GitHub Pages；数据全部来自公开的 SEC 文件），然后在终端里把 `lilly-dashboard` 文件夹推上去（网页拖拽上传容易漏掉隐藏的 `.github` 文件夹，工作流就不会运行）：
-
-```bash
-cd ~/Desktop/yaochen/lilly-dashboard
-git init -b main
-git add .
-git commit -m "礼来财务看板"
-git remote add origin https://github.com/<你的用户名>/<仓库名>.git
-git push -u origin main
-```
-
-## 2. 设置两个密钥
-
-仓库 → Settings → Secrets and variables → Actions：
-
-| 名称 | 类型 | 填什么 |
+| 项目 | 位置 | 内容 |
 |---|---|---|
-| `SEC_USER_AGENT` | Secret | SEC 要求每个程序写明身份和联系邮箱，例如 `Lilly Dashboard yourname@example.com`。不写或写假的会被 SEC 拒绝 |
-| `OPENAI_API_KEY` | Secret | OpenAI 的 API 密钥（platform.openai.com → API keys） |
-| `OPENAI_MODEL` | Variable（可选） | 指定模型，例如 `gpt-5.1`。不设置时程序从你账号可用的模型里自动挑 |
+| `SEC_USER_AGENT` | Settings → Secrets and variables → Actions → Secrets | SEC 要求每个程序写明身份和联系邮箱，例如 `Lilly Dashboard name@example.com`；访问港交所、巨潮时也用它表明身份 |
+| `OPENAI_API_KEY` | 同上 | OpenAI 的 API 密钥（platform.openai.com → API keys；和 ChatGPT 订阅分开计费） |
+| `OPENAI_MODEL` | Variables（可选） | 指定模型，例如 `gpt-5.1`。不设置时按 `config.json` 的偏好挑，偏好的都下线了就自动用最新的通用模型 |
+| GitHub Pages | Settings → Pages | Source 为 GitHub Actions |
 
-## 3. 打开 GitHub Pages
+换 OpenAI 密钥：在 Secrets 里把 `OPENAI_API_KEY` 改成新值即可，不用改代码。
 
-Settings → Pages → Build and deployment → Source 选 **GitHub Actions**。
+## 手动运行
 
-## 4. 第一次手动运行
+Actions → “医药行业财务看板自动更新” → Run workflow，选模式；“公司”一栏留空为全部，也可以填一个或几个公司 id（见 `companies/registry.json`，空格分隔）：
 
-Actions → “礼来看板自动更新” → Run workflow：
+- `selftest`：检查 OpenAI、SEC、港交所、巨潮能否访问。
+- `backtest`：用已核对的期间检验解析器。
+- `auto`：正式更新并发布网页（每天定时运行的就是它）。
+- `events`：强制检索一次重大事件。
+- `check` / `site`：只核对数据 / 只生成网页。
 
-1. 先选 `selftest`：检查 OpenAI 密钥、模型、联网搜索和 SEC 访问是否正常（结果在运行日志里）。
-2. 再选 `backtest`：用 SEC 文件重新解析 2025Q4~2026Q3，结果必须和看板现有数据一致，确认解析器在真实 SEC 文件上没问题。
-3. 最后选 `auto`：正式跑一遍，生成并发布网页。网页地址显示在运行结果的 deploy 一步里，一般是 `https://<你的用户名>.github.io/<仓库名>/`。
+## 平时
 
-## 5. 之后
+不用管。每天 13:23 UTC（北京时间 21:23）自动运行一次；公司发布新报告的当天或第二天，看板会自动加上新的期间。每次运行的报告在 Actions 的运行页面里。
 
-不用管。每天 13:23 UTC 自动运行一次；礼来发布新季度财报（8-K 和 10-Q/10-K 都提交后）的当天或第二天，看板会自动多出这个季度。每次运行的报告在 Actions 的运行页面里。
+出问题时（例如某家公司的文件格式变了、核对没通过），这家公司本次不写入，其他公司照常更新，并自动开一个带 `dashboard-bot` 标签的 issue，正文写明是哪家公司、什么原因；网页继续显示最后一次通过核对的数据。处理方法见 `SPEC.md` 第 10 节；也可以把 issue 交给编程助手（例如 Codex），它会按根目录的 `AGENTS.md` 修改并跑测试。
 
-出问题时（例如 SEC 文件格式变了、核对没通过），会自动开一个带 `dashboard-bot` 标签的 issue，正文写明原因；问题不会写进数据，网页继续显示最后一次通过核对的数据。处理方法见 `SPEC.md` 第 10 节。也可以把 issue 交给编程助手（例如 Codex），它会按根目录的 `AGENTS.md` 修改并跑测试。
+想加公司：在 `companies/watchlist.md` 的“待加”下面写一行公司名或代码，提交即可（GPT 自动接入在第 4 阶段上线）。
 
 ## 在自己电脑上运行（可选）
 
-需要 Python 3.9 以上，不需要安装任何包。在仓库根目录：
+需要 Python 3.9 以上；港股、A 股适配器还需要 `pip install pypdf`。在仓库根目录：
 
 ```bash
-export SEC_USER_AGENT="Lilly Dashboard yourname@example.com"
+export SEC_USER_AGENT="Lilly Dashboard name@example.com"
 export OPENAI_API_KEY="sk-..."
 python3 -m unittest discover -s agent/tests -t .
-python3 -m agent.pipeline.run backtest
-python3 -m agent.pipeline.run auto
+python3 -m agent.core.run backtest
+python3 -m agent.core.run auto
 ```
 
-生成的网页在 `_site/index.html`，直接用浏览器打开即可。
+生成的网站在 `_site/`，首页是 `_site/index.html`。
 
 ## 费用
 
-GitHub Actions 和 Pages 对公开仓库免费。OpenAI：OpenAI 的 API 和 ChatGPT 订阅分开计费，需要在 platform.openai.com 单独充值。实测每 3 天一次事件检索约 5~10 美分，加上每季度几次短调用，每月约 1 美元（取决于模型），每次的用量写在运行报告里。
+GitHub Actions 和 Pages 对公开仓库免费。OpenAI：每家公司每两周检索一次重大事件（每次约 5~10 美分），加上新报告时的少量调用；全部约 70 家公司时每月约 10 美元。`config.json` 里设了每月上限 15 美元，超过后当月暂停事件检索，财务数据照常更新。每次运行的用量和本月累计写在运行报告里。

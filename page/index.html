@@ -58,6 +58,8 @@
   .ly-tree-label { font-size: var(--cds-font-size-caption); fill: var(--color-bg); font-weight: 600; pointer-events: none; }
   .ly-tree-value { font-size: var(--cds-font-size-caption); fill: var(--color-bg); pointer-events: none; font-variant-numeric: tabular-nums; }
   .ly-legend { display: flex; flex-wrap: wrap; gap: var(--cds-gap-xs) var(--cds-gap-md); min-height: 1.2rem; font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); }
+  .ly-en { color: var(--color-fg-muted); font-weight: 400; font-size: 0.88em; }
+  .ly-title .ly-en, .ly-card-title .ly-en { margin-left: 0.25em; }
   .ly-leg { display: inline-flex; align-items: center; gap: 0.35rem; }
   .ly-leg[hidden] { display: none; }
   .ly-leg-note { font-style: italic; }
@@ -167,7 +169,7 @@
   <header class="ly-head" id="overview">
     <div class="ly-head-main">
       <p class="ly-eyebrow">Eli Lilly and Company · NYSE: LLY · 季度财务，金额为美元</p>
-      <h1 class="ly-title">礼来财务看板</h1>
+      <h1 class="ly-title">礼来财务看板 <span class="ly-en">Eli Lilly Financial Dashboard</span></h1>
       <p class="ly-take"><span data-draw="qtext" data-k="sel" data-source="kpi">—</span>，营收 <b data-draw="kpinum" data-k="revenue_yi">—</b> 亿美元，同比 <b data-draw="kpidelta" data-k="revenue_yoy">—</b>；替尔泊肽（Mounjaro 和 Zepbound）占总营收的 <b data-draw="mixnum" data-k="tirz_share">—</b>，营业利润率 <b data-draw="kpinum" data-k="op_margin">—</b>。</p>
     </div>
     <div class="ly-head-ctrl">
@@ -183,37 +185,37 @@
 
   <section class="ly-kpis" id="kpis" aria-label="核心指标">
     <div class="ly-kpi" id="kpi-revenue">
-      <p class="ly-kpi-label">营收</p>
+      <p class="ly-kpi-label">营收 <span class="ly-en">Revenue</span></p>
       <p class="ly-kpi-value"><span class="ly-kpi-num" data-draw="kpinum" data-k="revenue_yi">—</span><span class="ly-kpi-unit">亿美元</span></p>
       <p class="ly-kpi-delta">同比 <span data-draw="kpidelta" data-k="revenue_yoy">—</span></p>
       <div class="ly-spark" data-draw="spark" data-k="revenue_yi" data-source="kpi"></div>
     </div>
     <div class="ly-kpi" id="kpi-gross">
-      <p class="ly-kpi-label">毛利率</p>
+      <p class="ly-kpi-label">毛利率 <span class="ly-en">Gross margin %</span></p>
       <p class="ly-kpi-value"><span class="ly-kpi-num" data-draw="kpinum" data-k="gross_margin">—</span></p>
       <p class="ly-kpi-delta">同比 <span data-draw="kpidelta" data-k="gross_margin_pp">—</span> 个百分点</p>
       <div class="ly-spark" data-draw="spark" data-k="gross_margin" data-source="kpi"></div>
     </div>
     <div class="ly-kpi" id="kpi-rnd">
-      <p class="ly-kpi-label">研发费用率</p>
+      <p class="ly-kpi-label">研发费用率 <span class="ly-en">R&amp;D % of revenue</span></p>
       <p class="ly-kpi-value"><span class="ly-kpi-num" data-draw="kpinum" data-k="rnd_ratio">—</span></p>
       <p class="ly-kpi-delta">同比 <span data-draw="kpidelta" data-k="rnd_ratio_pp">—</span> 个百分点 · 研发投入 <span data-draw="kpinum" data-k="rnd_yi">—</span> 亿美元</p>
       <div class="ly-spark" data-draw="spark" data-k="rnd_ratio" data-source="kpi"></div>
     </div>
     <div class="ly-kpi" id="kpi-op">
-      <p class="ly-kpi-label">营业利润率</p>
+      <p class="ly-kpi-label">营业利润率 <span class="ly-en">Operating margin</span></p>
       <p class="ly-kpi-value"><span class="ly-kpi-num" data-draw="kpinum" data-k="op_margin">—</span></p>
       <p class="ly-kpi-delta">同比 <span data-draw="kpidelta" data-k="op_margin_pp">—</span> 个百分点 · 外购在研 <span data-draw="kpinum" data-k="acquired_iprd_yi">—</span> 亿美元</p>
       <div class="ly-spark" data-draw="spark" data-k="op_margin" data-source="kpi"></div>
     </div>
     <div class="ly-kpi" id="kpi-net">
-      <p class="ly-kpi-label">净利润</p>
+      <p class="ly-kpi-label">净利润 <span class="ly-en">Net income</span></p>
       <p class="ly-kpi-value"><span class="ly-kpi-num" data-draw="kpinum" data-k="net_income_yi">—</span><span class="ly-kpi-unit">亿美元</span></p>
       <p class="ly-kpi-delta">同比 <span data-draw="kpidelta" data-k="net_income_yoy">—</span></p>
       <div class="ly-spark" data-draw="spark" data-k="net_income_yi" data-source="kpi"></div>
     </div>
     <div class="ly-kpi" id="kpi-eps">
-      <p class="ly-kpi-label">稀释每股收益</p>
+      <p class="ly-kpi-label">稀释每股收益 <span class="ly-en">Diluted EPS</span></p>
       <p class="ly-kpi-value"><span class="ly-kpi-num" data-draw="kpinum" data-k="eps">—</span><span class="ly-kpi-unit">美元</span></p>
       <p class="ly-kpi-delta">同比 <span data-draw="kpidelta" data-k="eps_yoy">—</span> · 非 GAAP <span data-draw="kpinum" data-k="eps_ng">—</span> 美元</p>
       <div class="ly-spark" data-draw="spark" data-k="eps" data-source="kpi"></div>
@@ -223,11 +225,11 @@
   <section class="ly-row ly-row-trend">
     <article class="ly-card" id="trend">
       <div class="ly-card-head">
-        <h2 class="ly-card-title">收入趋势</h2>
+        <h2 class="ly-card-title">收入趋势 <span class="ly-en">Revenue trend</span></h2>
         <div class="ly-ctrls">
           <div class="ly-seg" role="group" aria-label="分组方式">
-            <button type="button" data-param="tv" data-value="area">按领域</button>
-            <button type="button" data-param="tv" data-value="series">按产品</button>
+            <button type="button" data-param="tv" data-value="area">按领域 <span class="ly-en">By area</span></button>
+            <button type="button" data-param="tv" data-value="series">按产品 <span class="ly-en">By product</span></button>
           </div>
           <div class="ly-seg" role="group" aria-label="显示口径">
             <button type="button" data-param="tm" data-value="total">总额</button>
@@ -247,7 +249,7 @@
 
     <article class="ly-card" id="mix">
       <div class="ly-card-head">
-        <h2 class="ly-card-title">收入构成</h2>
+        <h2 class="ly-card-title">收入构成 <span class="ly-en">Revenue mix</span></h2>
         <div class="ly-seg" role="group" aria-label="构成维度">
           <button type="button" data-param="cv" data-value="area">领域</button>
           <button type="button" data-param="cv" data-value="product">产品</button>
@@ -266,14 +268,14 @@
   </section>
 
   <article class="ly-card" id="flow">
-    <div class="ly-card-head"><h2 class="ly-card-title">营收去向</h2></div>
+    <div class="ly-card-head"><h2 class="ly-card-title">营收去向 <span class="ly-en">Where revenue goes</span></h2></div>
     <p class="ly-card-note"><span data-draw="qtext" data-k="view" data-source="kpi">—</span>的营收按利润表拆开：先付营业成本和各项费用，再交所得税，剩下的是净利润。外购在研项目（IPR&amp;D）是收购或授权引进在研药物时一次性计入的费用，所以季度之间波动很大。右栏是这一项占营收的比例。</p>
     <div class="ly-chart" data-draw="flow" data-source="cost_flow"></div>
   </article>
 
   <article class="ly-card" id="balance">
     <div class="ly-card-head">
-      <h2 class="ly-card-title">资产负债表</h2>
+      <h2 class="ly-card-title">资产负债表 <span class="ly-en">Balance sheet</span></h2>
       <span class="ly-card-note">截至 <span data-draw="bsasof">—</span></span>
     </div>
     <p class="ly-card-note">季度视图取当季末，年度视图取年末（当年未满四个季度时取最近一个季度末）。同比是与去年同一时点相比；有息负债为短期借款与长期债务之和，净负债再减去现金及短期投资。</p>
@@ -291,7 +293,7 @@
   <section class="ly-row">
     <article class="ly-card" id="balance-trend">
       <div class="ly-card-head">
-        <h2 class="ly-card-title">资产负债结构趋势</h2>
+        <h2 class="ly-card-title">资产负债结构趋势 <span class="ly-en">Balance sheet structure</span></h2>
         <div class="ly-seg" role="group" aria-label="结构">
           <button type="button" data-param="bsv" data-value="assets">资产</button>
           <button type="button" data-param="bsv" data-value="claims">负债与权益</button>
@@ -303,7 +305,7 @@
     </article>
     <article class="ly-card" id="balance-statement">
       <div class="ly-card-head">
-        <h2 class="ly-card-title">资产负债表浏览</h2>
+        <h2 class="ly-card-title">资产负债表浏览 <span class="ly-en">Balance sheet explorer</span></h2>
         <div class="ly-seg" role="group" aria-label="对比基准">
           <button type="button" data-param="cmp" data-value="yoy">比去年同期</button>
           <button type="button" data-param="cmp" data-value="qoq">比上季度末</button>
@@ -317,24 +319,24 @@
 
   <article class="ly-card" id="growth">
     <div class="ly-card-head">
-      <h2 class="ly-card-title">增长从哪里来</h2>
+      <h2 class="ly-card-title">增长从哪里来 <span class="ly-en">Price, FX and volume</span></h2>
       <div class="ly-seg" role="group" aria-label="地区" data-draw="rgsel" data-source="prv_p"></div>
     </div>
     <p class="ly-card-note">礼来把收入的同比增速拆成三部分：销量、价格（净价变化）和汇率。柱子是三部分各自的贡献，折线是合计增速；礼来未给出数值的季度标为 NM。</p>
     <div class="ly-legend">
-      <span class="ly-leg"><span class="ly-sw" data-draw="swatch" data-k="0"></span>销量</span>
-      <span class="ly-leg"><span class="ly-sw" data-draw="swatch" data-k="3"></span>价格</span>
-      <span class="ly-leg"><span class="ly-sw" data-draw="swatch" data-k="6"></span>汇率</span>
-      <span class="ly-leg"><span class="ly-sw ly-sw-line"></span>合计增速</span>
+      <span class="ly-leg"><span class="ly-sw" data-draw="swatch" data-k="0"></span>销量 <span class="ly-en">Volume</span></span>
+      <span class="ly-leg"><span class="ly-sw" data-draw="swatch" data-k="3"></span>价格 <span class="ly-en">Price</span></span>
+      <span class="ly-leg"><span class="ly-sw" data-draw="swatch" data-k="6"></span>汇率 <span class="ly-en">FX</span></span>
+      <span class="ly-leg"><span class="ly-sw ly-sw-line"></span>合计增速 <span class="ly-en">Total growth</span></span>
     </div>
     <div class="ly-chart ly-chart-prv" data-draw="prv" data-source="prv_p"></div>
-    <h3 class="ly-sub">各地区：<span data-draw="qtext" data-k="sel" data-source="kpi">—</span></h3>
+    <h3 class="ly-sub">各地区 <span class="ly-en">By region</span>：<span data-draw="qtext" data-k="sel" data-source="kpi">—</span></h3>
     <div class="ly-chart" data-draw="prvreg" data-source="prv_p"></div>
   </article>
 
   <article class="ly-card" id="heat">
     <div class="ly-card-head">
-      <h2 class="ly-card-title">产品热力图</h2>
+      <h2 class="ly-card-title">产品热力图 <span class="ly-en">Product heatmap</span></h2>
       <div class="ly-seg" role="group" aria-label="热力图口径">
         <button type="button" data-param="hm" data-value="rev">收入</button>
         <button type="button" data-param="hm" data-value="yoy">同比增速</button>
@@ -346,29 +348,29 @@
 
   <section class="ly-row">
     <article class="ly-card" id="tree">
-      <div class="ly-card-head"><h2 class="ly-card-title">产品版图</h2></div>
+      <div class="ly-card-head"><h2 class="ly-card-title">产品版图 <span class="ly-en">Product map</span></h2></div>
       <p class="ly-card-note"><span data-draw="qtext" data-k="sel" data-source="kpi">—</span>各产品收入的相对大小，按治疗领域分组。点击方块查看产品详情。</p>
       <div class="ly-chart ly-chart-tree" data-draw="tree" data-source="product_p"></div>
     </article>
 
     <article class="ly-card" id="product">
       <div class="ly-card-head">
-        <h2 class="ly-card-title">产品详情：<span data-draw="pname">—</span></h2>
+        <h2 class="ly-card-title">产品详情 <span class="ly-en">Product detail</span>：<span data-draw="pname">—</span></h2>
         <span class="ly-pill" data-draw="parea" data-source="product_p">—</span>
       </div>
       <div class="ly-pstats">
         <div><p class="ly-kpi-label">当季收入</p><p class="ly-kpi-value"><span class="ly-kpi-num" data-draw="pnum" data-k="total_yi">—</span><span class="ly-kpi-unit">亿美元</span></p></div>
-        <div><p class="ly-kpi-label">同比</p><p class="ly-kpi-value"><span class="ly-kpi-num" data-draw="pnum" data-k="yoy">—</span></p></div>
+        <div><p class="ly-kpi-label">同比 <span class="ly-en">YoY</span></p><p class="ly-kpi-value"><span class="ly-kpi-num" data-draw="pnum" data-k="yoy">—</span></p></div>
         <div><p class="ly-kpi-label">占总营收</p><p class="ly-kpi-value"><span class="ly-kpi-num" data-draw="pnum" data-k="share">—</span></p></div>
         <div><p class="ly-kpi-label">美国 / 国际（百万美元）</p><p class="ly-kpi-value ly-small"><span class="ly-num" data-draw="pnum" data-k="us">—</span> / <span class="ly-num" data-draw="pnum" data-k="intl">—</span></p></div>
       </div>
       <div class="ly-legend">
-        <span class="ly-leg"><span class="ly-sw" data-draw="swatch" data-k="0"></span>美国</span>
-        <span class="ly-leg"><span class="ly-sw" data-draw="swatch" data-k="2"></span>国际</span>
+        <span class="ly-leg"><span class="ly-sw" data-draw="swatch" data-k="0"></span>美国 <span class="ly-en">U.S.</span></span>
+        <span class="ly-leg"><span class="ly-sw" data-draw="swatch" data-k="2"></span>国际 <span class="ly-en">International</span></span>
         <span class="ly-leg" data-draw="pwhole" data-source="product_p" hidden></span>
       </div>
       <div class="ly-chart ly-chart-pchart" data-draw="pchart" data-source="product_p events"></div>
-      <h3 class="ly-sub">相关事件</h3>
+      <h3 class="ly-sub">相关事件 <span class="ly-en">Related events</span></h3>
       <ul class="ly-plist" data-draw="pevents" data-source="events"></ul>
       <p class="ly-pempty" hidden>暂无收录的相关事件。</p>
     </article>
@@ -377,7 +379,7 @@
   <section class="ly-row">
     <article class="ly-card" id="statement">
       <div class="ly-card-head">
-        <h2 class="ly-card-title">利润表浏览</h2>
+        <h2 class="ly-card-title">利润表浏览 <span class="ly-en">Income statement explorer</span></h2>
         <div class="ly-seg" role="group" aria-label="对比基准">
           <button type="button" data-param="cmp" data-value="yoy">比去年同期</button>
           <button type="button" data-param="cmp" data-value="qoq">比上季度</button>
@@ -389,20 +391,20 @@
     </article>
 
     <article class="ly-card" id="events">
-      <div class="ly-card-head"><h2 class="ly-card-title">关键事件</h2></div>
+      <div class="ly-card-head"><h2 class="ly-card-title">关键事件 <span class="ly-en">Key events</span></h2></div>
       <div class="ly-chips" role="group" aria-label="事件类型">
         <button type="button" data-param="et" data-value="全部">全部 <span data-draw="ecount" data-k="全部">—</span></button>
-        <button type="button" data-param="et" data-value="获批"><span class="ly-glyph" data-draw="glyph" data-k="获批"></span>获批 <span data-draw="ecount" data-k="获批">—</span></button>
-        <button type="button" data-param="et" data-value="并购"><span class="ly-glyph" data-draw="glyph" data-k="并购"></span>并购 <span data-draw="ecount" data-k="并购">—</span></button>
-        <button type="button" data-param="et" data-value="业绩说明"><span class="ly-glyph" data-draw="glyph" data-k="业绩说明"></span>业绩说明 <span data-draw="ecount" data-k="业绩说明">—</span></button>
-        <button type="button" data-param="et" data-value="定价与可及"><span class="ly-glyph" data-draw="glyph" data-k="定价与可及"></span>定价与可及 <span data-draw="ecount" data-k="定价与可及">—</span></button>
-        <button type="button" data-param="et" data-value="临床"><span class="ly-glyph" data-draw="glyph" data-k="临床"></span>临床 <span data-draw="ecount" data-k="临床">—</span></button>
-        <button type="button" data-param="et" data-value="产能"><span class="ly-glyph" data-draw="glyph" data-k="产能"></span>产能 <span data-draw="ecount" data-k="产能">—</span></button>
+        <button type="button" data-param="et" data-value="获批"><span class="ly-glyph" data-draw="glyph" data-k="获批"></span>获批 <span class="ly-en">Approval</span> <span data-draw="ecount" data-k="获批">—</span></button>
+        <button type="button" data-param="et" data-value="并购"><span class="ly-glyph" data-draw="glyph" data-k="并购"></span>并购 <span class="ly-en">M&amp;A</span> <span data-draw="ecount" data-k="并购">—</span></button>
+        <button type="button" data-param="et" data-value="业绩说明"><span class="ly-glyph" data-draw="glyph" data-k="业绩说明"></span>业绩说明 <span class="ly-en">Earnings note</span> <span data-draw="ecount" data-k="业绩说明">—</span></button>
+        <button type="button" data-param="et" data-value="定价与可及"><span class="ly-glyph" data-draw="glyph" data-k="定价与可及"></span>定价与可及 <span class="ly-en">Pricing &amp; access</span> <span data-draw="ecount" data-k="定价与可及">—</span></button>
+        <button type="button" data-param="et" data-value="临床"><span class="ly-glyph" data-draw="glyph" data-k="临床"></span>临床 <span class="ly-en">Clinical</span> <span data-draw="ecount" data-k="临床">—</span></button>
+        <button type="button" data-param="et" data-value="产能"><span class="ly-glyph" data-draw="glyph" data-k="产能"></span>产能 <span class="ly-en">Manufacturing</span> <span data-draw="ecount" data-k="产能">—</span></button>
       </div>
       <p class="ly-card-note">取自礼来官网新闻稿，所选季度的事件会高亮。标题链接到原文；点击一行把整页切换到该季度。</p>
       <div class="ly-tablebox">
         <table class="ly-etable" data-source="events" data-row-key="id">
-          <thead><tr><th data-field="date">日期</th><th data-field="quarter">季度</th><th data-field="type">类型</th><th data-field="product">产品</th><th data-field="title">事件</th></tr></thead>
+          <thead><tr><th data-field="date">日期 <span class="ly-en">Date</span></th><th data-field="quarter">季度 <span class="ly-en">Quarter</span></th><th data-field="type">类型 <span class="ly-en">Type</span></th><th data-field="product">产品 <span class="ly-en">Product</span></th><th data-field="title">事件 <span class="ly-en">Event</span></th></tr></thead>
           <tbody data-draw="erows"></tbody>
         </table>
       </div>

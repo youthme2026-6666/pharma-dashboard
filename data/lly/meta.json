@@ -1,0 +1,16 @@
+{
+  "currency": "USD",
+  "events": 32,
+  "id": "lly",
+  "latest_period": "2026 Q3",
+  "latest_period_end": "2026-09-30",
+  "name_en": "Eli Lilly and Company",
+  "name_zh": "礼来",
+  "rows": {
+    "balance": 23,
+    "cashflow": 0,
+    "income": 28,
+    "segments": 840
+  },
+  "source": "lilly_deep"
+}

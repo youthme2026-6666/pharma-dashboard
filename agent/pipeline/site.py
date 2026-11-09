@@ -44,9 +44,10 @@ def _wrap(code, name):
     return "(function () {\n" + code + "\n}).call(this);\n//# sourceURL=" + name + "\n"
 
 
-def build_site(root, out_dir, updated=None, latest=None, data_dir=None):
+def build_site(root, out_dir, updated=None, latest=None, data_dir=None, home=None, glossary=None):
+    """home：首页的相对地址（多公司网站里显示“返回全部公司”）；glossary：中英术语表（agent/glossary.json），页面据此显示英文。"""
     page_dir, web_dir = os.path.join(root, "page"), os.path.join(root, "agent", "web")
-    data_dir = data_dir or os.path.join(root, "data")
+    data_dir = data_dir or os.path.join(root, "data", "lly")
     with open(os.path.join(page_dir, "index.html"), encoding="utf-8") as f:
         page = f.read()
     body = re.sub(r'<meta name="dash-one-writer"\s*/?>\s*', "", page)
@@ -71,9 +72,13 @@ def build_site(root, out_dir, updated=None, latest=None, data_dir=None):
         return "<script>\n" + code.replace("</script", "<\\/script") + "\n</script>"
 
     data_js = "window.__DASH_DATA__ = " + json.dumps(rows, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/") + ";"
+    if glossary:
+        data_js += "\nwindow.__GLOSSARY__ = " + json.dumps(glossary, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/") + ";"
+    nav = ('<nav class="site-nav"><a href="%s">← 医药行业财务看板 <span class="site-en">All companies</span></a></nav>' % html.escape(home)) if home else ""
     parts = {
         "css": read(os.path.join(web_dir, "theme.css")),
         "body": body,
+        "nav": nav,
         "updated": html.escape(updated),
         "latest": html.escape(latest),
         "links": links,
@@ -100,13 +105,14 @@ TEMPLATE = """<!doctype html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>礼来财务看板</title>
+<title>礼来财务看板 · Eli Lilly</title>
 <meta name="description" content="礼来（Eli Lilly）季度财务数据看板：营收、利润、产品、价格与销量、资产负债表和重大事件，每天自动检查更新。">
 <style>
 {{css}}
 </style>
 </head>
 <body>
+{{nav}}
 <div id="dash-errors" class="site-errors" hidden></div>
 <main class="site-main">
 {{body}}

@@ -30,12 +30,12 @@ from .site import build_site
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 AGENT = os.path.join(ROOT, "agent")
-DATA = os.path.join(ROOT, "data")
+DATA = os.path.join(ROOT, "data", "lly")   # 礼来的数据；多公司框架下每家公司一个子目录
 OUT = os.path.join(AGENT, "output")
 SITE = os.path.join(ROOT, "_site")
 CACHE = os.path.join(AGENT, ".cache", "sec")
 BACKTEST_QUARTERS = ["2025Q4", "2026Q1", "2026Q2", "2026Q3"]
-STATE_DIR = AGENT   # state.json / learned.json 所在目录（测试时会换成临时目录）
+STATE_DIR = os.path.join(ROOT, "state", "lly")   # state.json / learned.json 所在目录（测试时会换成临时目录）
 
 
 def make_sec(cfg):
@@ -381,12 +381,14 @@ def run_events(store, cfg, gpt, report, state, today):
     return len(new)
 
 
-def auto(args, cfg, report):
+def auto(args, cfg, report, site=True, gpt=None, allow_events=True):
+    """site=False：由多公司框架（agent/core/run.py）调用，不单独生成网页、不写报告；gpt 为框架共享的客户端；
+    allow_events=False：本月 GPT 预算已用完，跳过事件检索。"""
     today = dt.date.fromisoformat(args.today) if args.today else dt.date.today()
     state = load_json(os.path.join(STATE_DIR, "state.json"), {})
     learned = load_json(os.path.join(STATE_DIR, "learned.json"), {"product_areas": {}})
     store = Store(DATA)
-    gpt = GPT(cfg)
+    gpt = gpt or GPT(cfg)
     cik = cfg["company"]["cik"]
     appended = []
     try:
@@ -453,17 +455,20 @@ def auto(args, cfg, report):
             report.add("新季度", ["已写入：" + "、".join(appended)])
     # 重大事件：每 refresh_every_days 天一次，或者有新季度时
     last_ev = state.get("events_last_run", "2000-01-01")
-    if args.events or appended or last_ev <= (today - dt.timedelta(days=cfg["events"]["refresh_every_days"])).isoformat():
+    due = args.events or appended or last_ev <= (today - dt.timedelta(days=cfg["events"]["refresh_every_days"])).isoformat()
+    if due and not allow_events:
+        report.warning("本月 GPT 预算已用完，这次跳过重大事件检索（财务数据照常更新）")
+    elif due:
         run_events(store, cfg, gpt, report, state, today)
     # 全量核对，不通过就不保存
     problems = check_data(store, cfg)
     if problems:
         report.error("数据核对没通过，本次不保存任何修改：" + "；".join(problems[:10]))
-        return finish(report, state, learned, store, today, save=False)
-    return finish(report, state, learned, store, today, save=True, gpt=gpt, appended=appended)
+        return finish(report, state, learned, store, today, save=False, site=site)
+    return finish(report, state, learned, store, today, save=True, gpt=gpt, appended=appended, site=site)
 
 
-def finish(report, state, learned, store, today, save=True, gpt=None, appended=None):
+def finish(report, state, learned, store, today, save=True, gpt=None, appended=None, site=True):
     if save:
         changed = store.save()
         report.changed = changed
@@ -474,6 +479,8 @@ def finish(report, state, learned, store, today, save=True, gpt=None, appended=N
             state["heartbeat"] = today.isoformat()   # 定期提交一次，避免 GitHub 因仓库长期无活动停用定时任务
         save_json(os.path.join(STATE_DIR, "state.json"), state)
         save_json(os.path.join(STATE_DIR, "learned.json"), learned)
+    if not site:   # 多公司框架统一统计 GPT 用量、生成网页和报告
+        return 1 if report.fatal else 0
     if gpt is not None and gpt.usage["calls"]:
         report.add("GPT 用量", ["模型 %s；调用 %d 次，输入 %d tokens，输出 %d tokens，联网搜索 %d 次" % (
             gpt.model, gpt.usage["calls"], gpt.usage["input_tokens"], gpt.usage["output_tokens"], gpt.usage["web_searches"])] + gpt.log[-8:])

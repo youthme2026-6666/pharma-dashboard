@@ -138,6 +138,16 @@ const make = (tag, cls, text) => {
   if (text != null) n.textContent = text;
   return n;
 };
+// 中英对照：独立网页会带上术语表（window.__GLOSSARY__，来自 agent/glossary.json）；没有术语表时（例如 Claude 看板快照）只显示中文。
+const GLOSS = window.__GLOSSARY__ || null;
+const enOf = (group, key) => (GLOSS && GLOSS[group] && GLOSS[group][key] && GLOSS[group][key].en) || '';
+// 中文后面接一个灰色小号的英文术语（表格行名、图例、按钮这些 HTML 里用）
+const withEn = (node, en) => {
+  if (en) node.append(' ', make('span', 'ly-en', en));
+  return node;
+};
+// 纯文字的场合（提示框标题和行名）用“中文 English”
+const zhEn = (zh, en) => (en ? `${zh} ${en}` : zh);
 
 // 加载与失败状态：图表留空并显示骨架，文字放回“—”，失败时显示一行提示。
 const BAD = ['error', 'connect', 'declined', 'missing'];
@@ -395,6 +405,7 @@ dash.draw('trendlegend', (el) => {
     const sw = make('span', 'ly-sw');
     sw.style.background = byArea ? areaColor(k) : seriesColor(k, rank.get(k));
     it.append(sw, document.createTextNode(byArea ? AREA_ZH[k] || k : k));
+    if (byArea) withEn(it, enOf('areas', k));
     return it;
   });
   if (!yearly && param('ol') === 'margin') {
@@ -533,9 +544,9 @@ const mixItems = () => {
   const cv = param('cv'), rows = rowsOf(mixSource());
   if (!rows) return null;
   const here = rows.filter((r) => r.period === viewPer());
-  if (cv === 'area') return AREAS.map((a) => here.find((r) => r.area === a)).filter(Boolean).map((r) => ({ key: r.area, name: AREA_ZH[r.area] || r.area, value: Number(r.total), share: Number(r.share), change: r.yoy == null ? null : Number(r.yoy), color: areaColor(r.area) }));
+  if (cv === 'area') return AREAS.map((a) => here.find((r) => r.area === a)).filter(Boolean).map((r) => ({ key: r.area, name: AREA_ZH[r.area] || r.area, en: enOf('areas', r.area), value: Number(r.total), share: Number(r.share), change: r.yoy == null ? null : Number(r.yoy), color: areaColor(r.area) }));
   if (cv === 'product') return here.slice().sort((a, b) => a.rank - b.rank).filter((r) => Number(r.total) !== 0).map((r) => ({ key: r.series, name: r.series, value: Number(r.total), share: Number(r.share), change: r.yoy == null ? null : Number(r.yoy), color: seriesColor(r.series, r.rank), product: r.series !== '其他产品' }));
-  return here.map((r, i) => ({ key: r.region, name: REGION_ZH[r.region] || r.region, value: Number(r.revenue), share: Number(r.share), change: r.total_change == null ? null : Number(r.total_change), color: color(i) }));
+  return here.map((r, i) => ({ key: r.region, name: REGION_ZH[r.region] || r.region, en: enOf('regions', r.region), value: Number(r.revenue), share: Number(r.share), change: r.total_change == null ? null : Number(r.total_change), color: color(i) }));
 };
 const highlightMix = (key) => {
   document.querySelectorAll('.ly-donut path[data-key]').forEach((p) => p.classList.toggle('ly-dim', key != null && p.dataset.key !== key));
@@ -574,7 +585,7 @@ dash.draw('mixlist', (el) => {
     const sw = make('span', 'ly-sw');
     sw.style.background = it.color;
     const chg = make('span', `ly-num${it.change == null ? '' : it.change >= 0 ? ' ly-up' : ' ly-down'}`, it.change == null ? '—' : fSPct(it.change));
-    row.append(sw, make('span', 'ly-mixname', it.name), make('span', 'ly-num', yiText(it.value)), make('span', 'ly-num', fPct(it.share)), chg);
+    row.append(sw, withEn(make('span', 'ly-mixname', it.name), it.en), make('span', 'ly-num', yiText(it.value)), make('span', 'ly-num', fPct(it.share)), chg);
     row.addEventListener('pointerenter', () => highlightMix(it.key));
     row.addEventListener('pointerleave', () => highlightMix(null));
     el.append(row);
@@ -639,7 +650,7 @@ dash.draw('flow', (el) => {
     const row = make('div', 'ly-flowrow');
     const sw = make('span', 'ly-sw');
     sw.style.background = color(FLOW[r.item][1]);
-    row.append(sw, make('span', 'ly-flowname', FLOW[r.item][0]), make('span', 'ly-num', `${yiText(Number(r.amount))} 亿`), make('span', 'ly-num ly-flowper', fPct(Number(r.share))));
+    row.append(sw, withEn(make('span', 'ly-flowname', FLOW[r.item][0]), enOf('terms', r.item)), make('span', 'ly-num', `${yiText(Number(r.amount))} 亿`), make('span', 'ly-num ly-flowper', fPct(Number(r.share))));
     row.addEventListener('pointerenter', () => highlightFlow(r.item));
     row.addEventListener('pointerleave', () => highlightFlow(null));
     legRows.set(r.item, row);
@@ -713,7 +724,7 @@ dash.draw('bsbars', (el) => {
       seg.addEventListener('pointermove', (event) => {
         const [px, py] = d3.pointer(event, el);
         showTip(tip, el, px, py, (t) => {
-          tipHead(t, `${BS_LABEL[key] || label} · ${r.as_of}`);
+          tipHead(t, `${zhEn(BS_LABEL[key] || label, enOf('terms', key))} · ${r.as_of}`);
           tipLine(t, null, '金额', `${yiText(Number(r.value))} 亿美元`);
           tipLine(t, null, '占总资产', fPct(Number(r.pct_assets)));
           tipLine(t, null, '比去年同期', r.yoy == null ? '—' : fSPct(Number(r.yoy)));
@@ -733,7 +744,7 @@ dash.draw('bsbars', (el) => {
   const legend = make('div', 'ly-bslegend');
   [['资产', BS_ASSETS], ['负债与权益', BS_CLAIMS]].forEach(([title, defs]) => {
     const col = make('div', 'ly-bscol');
-    col.append(make('p', 'ly-bscol-title', title));
+    col.append(withEn(make('p', 'ly-bscol-title', title), title === '资产' ? 'Assets' : 'Liabilities and equity'));
     defs.forEach(([key, label, ci, alpha]) => {
       const r = vals.get(key);
       if (!r) return;
@@ -741,7 +752,7 @@ dash.draw('bsbars', (el) => {
       const sw = make('span', 'ly-sw');
       sw.style.background = bsColor(ci);
       sw.style.opacity = String(alpha);
-      line.append(sw, make('span', 'ly-flowname', label), make('span', 'ly-num', `${yiText(Number(r.value))} 亿`), make('span', 'ly-num ly-flowper', fPct(Number(r.pct_assets))));
+      line.append(sw, withEn(make('span', 'ly-flowname', label), enOf('terms', key)), make('span', 'ly-num', `${yiText(Number(r.value))} 亿`), make('span', 'ly-num ly-flowper', fPct(Number(r.pct_assets))));
       line.addEventListener('pointerenter', () => hl(key));
       line.addEventListener('pointerleave', () => hl(null));
       legMap.set(key, line);
@@ -861,12 +872,13 @@ dash.draw('bsstmt', (el) => {
       });
       lab.append(b);
     } else lab.append(document.createTextNode(node.label));
+    withEn(lab, enOf('terms', node.key));
     row.append(lab, ...cell(node.key));
     box.append(row);
     if (node.kids && L.openBs[node.key]) node.kids.forEach((kid) => {
       if (!vals.get(kid)) return;
       const krow = make('div', 'ly-srow ly-srow-l1');
-      krow.append(make('span', 'ly-slabel', BS_LABEL[kid] || kid), ...cell(kid));
+      krow.append(withEn(make('span', 'ly-slabel', BS_LABEL[kid] || kid), enOf('terms', kid)), ...cell(kid));
       box.append(krow);
     });
   });
@@ -888,7 +900,7 @@ dash.draw('rgsel', (el) => {
   const cur = selRegion(), regs = pvRegions();
   const ordered = [...regs.filter((r) => /total/i.test(r)), ...regs.filter((r) => !/total/i.test(r))];
   el.replaceChildren(...ordered.map((r) => {
-    const b = make('button', null, REGION_ZH[r] || r);
+    const b = withEn(make('button', null, REGION_ZH[r] || r), enOf('regions', r));
     b.type = 'button';
     b.setAttribute('aria-pressed', String(r === cur));
     b.addEventListener('click', () => dash.setParams({ rg: r }));
@@ -934,8 +946,8 @@ dash.draw('prv', (el) => {
       hoverBand.attr('x', x(d.quarter) - off).attr('fill-opacity', 0.05);
       const [px, py] = d3.pointer(event, el);
       showTip(tip, el, px, py, (t) => {
-        tipHead(t, `${perName(d.quarter)} · ${REGION_ZH[rg] || rg}`);
-        PRV_KEYS.forEach(([k, name, ci]) => tipLine(t, color(ci), name, d[k] == null ? 'NM' : fSPct0(d[k])));
+        tipHead(t, `${perName(d.quarter)} · ${zhEn(REGION_ZH[rg] || rg, enOf('regions', rg))}`);
+        PRV_KEYS.forEach(([k, name, ci]) => tipLine(t, color(ci), zhEn(name, enOf('terms', k)), d[k] == null ? 'NM' : fSPct0(d[k])));
         tipLine(t, null, '合计增速', d.total == null ? 'NM' : fSPct0(d.total));
       });
     })
@@ -1101,7 +1113,7 @@ dash.draw('tree', (el) => {
     const [px, py] = d3.pointer(event, el);
     showTip(tip, el, px, py, (t) => {
       tipHead(t, `${d.data.name} · ${perName(per)}`);
-      tipLine(t, areaColor(d.data.area), AREA_ZH[d.data.area] || d.data.area, `${fNum(d.value)} 百万美元`);
+      tipLine(t, areaColor(d.data.area), zhEn(AREA_ZH[d.data.area] || d.data.area, enOf('areas', d.data.area)), `${fNum(d.value)} 百万美元`);
       tipLine(t, null, '占总营收', fPct(Number(d.data.row.share)));
       tipLine(t, null, '同比', d.data.row.yoy == null ? '—' : fSPct(Number(d.data.row.yoy)));
     });
@@ -1279,6 +1291,7 @@ dash.draw('stmt', (el) => {
       dash.draw('stmt');
     }));
     else lab.append(document.createTextNode(label));
+    withEn(lab, enOf('terms', line));
     const ngRow = ng ? lines.get(ng) : null;
     if (ngRow) {
       const n = make('span', 'ly-sng');
@@ -1303,6 +1316,7 @@ dash.draw('stmt', (el) => {
           L.openArea[a] = !L.openArea[a];
           dash.draw('stmt');
         }));
+        withEn(alab, enOf('areas', a));
         const aAmt = markEl('span', 'area_p', 'total', aw, fNum(Number(ar.total)));
         aAmt.className = 'ly-num';
         const aPct = markEl('span', 'area_p', 'share', aw, fPct(Number(ar.share)));
