@@ -242,11 +242,11 @@ class TestBreakdown(unittest.TestCase):
         out, _, _ = self.breakdown("beone_10k")          # 百济神州：产品名在公司自定义的 ProductNameAxis 上
         names = [m["name"] for m in out[("2025-01-01", "2025-12-31")]["product"]["members"]]
         self.assertIn("BRUKINSA", " ".join(names).upper())
-        out, _, _ = self.breakdown("gild_10q")            # 吉利德：定义链接库给出层级，组 = 上级成员
+        out, _, _ = self.breakdown("gild_10q")            # 吉利德：定义链接库给出层级，组 = 最近的非泛称上级（Total HIV -> HIV）
         b = out[("2026-04-01", "2026-06-30")]["product"]
         self.assertEqual(b["method"], "定义链接库的末级成员")
         biktarvy = [m for m in b["members"] if "Biktarvy" in m["name"]][0]
-        self.assertEqual(biktarvy["group"], "Product sales")
+        self.assertEqual(biktarvy["group"], "HIV")
         out, _, _ = self.breakdown("isrg_10q")            # 直觉外科：两个“服务”成员数值相同，不算两种拆法
         self.assertEqual(len(out[("2026-07-01", "2026-09-30")]["product"]["members"]), 3)
 

@@ -476,18 +476,33 @@ def _result(mem, sel, how, partial, total, labels, group_of):
     return {"members": rows, "method": how, "partial": partial}
 
 
+GENERIC_GROUP = re.compile(r"^(products?|product sales|net product (sales|revenues?)|product revenues?|services?|service revenues?|"
+                           r"revenues?|net revenues?|total revenues?|product and service|products and services)$", re.I)
+
+
 def _groups_from_children(sel, mem, children, labels):
-    """定义链接库里末级成员的上级（本期也出现的）作为组。"""
+    """定义链接库里末级成员往上找最近的、不是泛称（“产品”“产品销售”等）的上级，作为组（例如吉利德“Total HIV”→“HIV”）。"""
     groups = {}
     if not children:
         return groups
-    present = {v[2]: k for k, v in mem.items()}
-    for parent_q, parent_k in present.items():
-        if parent_k in sel:
-            continue
-        for d in _descendants(children, parent_q):
-            if d in present and present[d] in sel:
-                groups.setdefault(present[d], best_label(labels, parent_q))
+    parents = {}
+    for p, kids in children.items():
+        for k in kids:
+            parents.setdefault(k, []).append(p)
+    for k in sel:
+        frontier, seen = list(parents.get(mem[k][2], [])), set()
+        while frontier:
+            p = frontier.pop(0)
+            if p in seen:
+                continue
+            seen.add(p)
+            if p.endswith(("Domain", "Axis")):
+                continue
+            name = re.sub(r"^total\s+", "", best_label(labels, p), flags=re.I).strip()
+            if name and not GENERIC_GROUP.match(name):
+                groups[k] = name
+                break
+            frontier.extend(parents.get(p, []))
     return groups
 
 

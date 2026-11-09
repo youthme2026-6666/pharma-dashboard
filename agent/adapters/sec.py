@@ -26,7 +26,7 @@ from . import sec_xbrl as X
 from .base import Result
 
 FIRST_YEAR = 2021                 # 从 2021 财年开始补数据
-EXTRACT_VERSION = 1               # 收入构成提取规则的版本；改了提取规则就加 1，旧申报会重新下载、重新拆
+EXTRACT_VERSION = 2               # 收入构成提取规则的版本；改了提取规则就加 1，旧申报会重新下载、重新拆
 TICKERS_URL = "https://www.sec.gov/files/company_tickers.json"
 SEG_FILE = "sec_segments.json"
 LLY = {"id": "lly", "cik": "0000059478", "ticker": "LLY"}
