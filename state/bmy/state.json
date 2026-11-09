@@ -1,4 +1,9 @@
 {
+  "backtest": {
+    "date": "2026-11-09",
+    "hash": "a3ea769cc45e",
+    "ok": true
+  },
   "cik": "0000014272",
   "code_hash": "a3ea769cc45e",
   "fiscal_year_end": "1231",
