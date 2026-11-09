@@ -135,6 +135,18 @@ class TestPRV(unittest.TestCase):
         self.assertEqual(d["ytd"]["Total Revenue"], {"volume": 0.50, "price": -0.06, "rate": 0.01, "total_change": 0.45})
         self.assertEqual(d["revenue"], {"U.S.": 43481, "Outside U.S.": 21698, "Total Revenue": 65179})
 
+    def test_annual_split_table(self):
+        # SEC 网页版 10-K：全年收入表和拆分表是两张表，拆分表表头只有“2025 vs. 2024”（2026-11-09 GitHub 上回测时遇到）
+        full = F["2025Q4"]["prv"]
+        i = next(k for k, r in enumerate(full) if r and r[0] == "2025 vs. 2024")
+        rev_t, comp_t = full[:i - 1], full[i:]
+        self.assertIs(X.find_prv([rev_t, comp_t]), comp_t)
+        self.assertEqual(X.quarter_of_table(comp_t), "2025Q4")
+        d = X.parse_prv(comp_t, annual=True)
+        self.assertEqual(d["ytd"]["Total Revenue"], {"volume": 0.50, "price": -0.06, "rate": 0.01, "total_change": 0.45})
+        self.assertEqual(d["revenue"], {})   # 收入改由分产品表提供（build_quarter 已有这条退路）
+        self.assertIn("2025 vs. 2024", X.table_head(comp_t))
+
 
 class TestSelected(unittest.TestCase):
     def test_selected(self):

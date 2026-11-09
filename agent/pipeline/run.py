@@ -88,7 +88,7 @@ class Report:
 
     def markdown(self):
         status = "失败，需要处理" if self.fatal else ("成功（有提醒）" if self.warn else "成功")
-        out = ["# 礼来看板自动维护报告", "", "- 时间：%s UTC" % dt.datetime.utcnow().strftime("%Y-%m-%d %H:%M"),
+        out = ["# 礼来看板自动维护报告", "", "- 时间：%s UTC" % dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%d %H:%M"),
                "- 模式：%s" % self.mode, "- 结果：**%s**" % status,
                "- 数据变化：%s" % ("、".join(self.changed) if self.changed else "无"), ""]
         if self.fatal:

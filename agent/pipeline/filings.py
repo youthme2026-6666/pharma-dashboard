@@ -61,7 +61,7 @@ def parse_periodic(tables, q):
         if not t:
             missing.append(name)
         elif X.quarter_of_table(t) != q:
-            missing.append("%s（期间是 %s，不是 %s）" % (name, X.quarter_of_table(t), q))
+            missing.append("%s（期间是 %s，不是 %s；表头：%s）" % (name, X.quarter_of_table(t), q, X.table_head(t)))
     if not p_t:
         missing.append("分产品收入表")
     if n in (2, 3) and not y_t:

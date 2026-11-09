@@ -33,14 +33,14 @@ jobs:
     outputs:
       site: ${{ steps.site.outputs.built }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v7
         with:
           python-version: "3.12"
 
       - name: 缓存从 SEC 下载的文件（归档文件不会变）
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: agent/.cache
           key: sec-v1-${{ hashFiles('agent/pipeline/*.py') }}
@@ -81,7 +81,7 @@ jobs:
 
       - name: 上传网页
         if: always() && steps.site.outputs.built == 'true'
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v5
         with:
           path: _site
 
@@ -111,4 +111,4 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5

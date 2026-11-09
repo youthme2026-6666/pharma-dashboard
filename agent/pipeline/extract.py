@@ -221,9 +221,16 @@ def quarter_of_table(table, rows=4):
     head = " ".join(" ".join(r) for r in table[:rows])
     m = re.search(r"(March|June|September|December)", head, re.I)
     y = re.search(r"\b(20\d{2})\b", head)
-    if not (m and y):
-        return None
-    return "%sQ%d" % (y.group(1), _MONTH_Q[m.group(1).lower()])
+    if m and y:
+        return "%sQ%d" % (y.group(1), _MONTH_Q[m.group(1).lower()])
+    # 10-K 网页版里全年的价格/销量拆分是单独一张表，表头只有“2025 vs. 2024”，没有月份：全年对应第四季度
+    vs = re.search(r"\b(20\d{2})\s+vs\.?\s+20\d{2}\b", head, re.I)
+    return "%sQ4" % vs.group(1) if vs else None
+
+
+def table_head(table, rows=2, width=120):
+    """表头前几行，用在“没认出”的报错里，方便对照 SEC 原文修规则。"""
+    return " / ".join(" | ".join(r) for r in table[:rows] if r)[:width]
 
 
 _IS_10Q = [
