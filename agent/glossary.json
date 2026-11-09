@@ -83,14 +83,29 @@
     "segments": {"zh": "收入构成", "en": "Revenue breakdown"},
     "product_revenue": {"zh": "分产品收入", "en": "Revenue by product"},
     "geography": {"zh": "分地区收入", "en": "Revenue by geography"},
-    "events": {"zh": "重大事件", "en": "Key events"}
+    "events": {"zh": "重大事件", "en": "Key events"},
+
+    "segment": {"zh": "业务分部", "en": "Business segment"},
+    "OtherNotItemized": {"zh": "其他（未单列）", "en": "Other (not itemized)"},
+    "OtherRevenue": {"zh": "其他收入", "en": "Other revenue"}
   },
   "areas": {
     "Cardiometabolic Health": {"zh": "心血管代谢", "en": "Cardiometabolic Health"},
     "Oncology": {"zh": "肿瘤", "en": "Oncology"},
     "Immunology": {"zh": "免疫", "en": "Immunology"},
     "Neuroscience": {"zh": "神经科学", "en": "Neuroscience"},
-    "Other": {"zh": "其他", "en": "Other"}
+    "Other": {"zh": "其他", "en": "Other"},
+    "Cardiovascular": {"zh": "心血管", "en": "Cardiovascular"},
+    "Infectious Disease": {"zh": "感染性疾病", "en": "Infectious Disease"},
+    "Vaccines": {"zh": "疫苗", "en": "Vaccines"},
+    "Hematology": {"zh": "血液", "en": "Hematology"},
+    "Rare Disease": {"zh": "罕见病", "en": "Rare Disease"},
+    "Ophthalmology": {"zh": "眼科", "en": "Ophthalmology"},
+    "Respiratory": {"zh": "呼吸", "en": "Respiratory"},
+    "Women's Health": {"zh": "女性健康", "en": "Women's Health"},
+    "Animal Health": {"zh": "动物保健", "en": "Animal Health"},
+    "Aesthetics": {"zh": "医美", "en": "Aesthetics"},
+    "Established Products": {"zh": "成熟产品", "en": "Established Products"}
   },
   "regions": {
     "U.S.": {"zh": "美国", "en": "U.S."},
