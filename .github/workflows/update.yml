@@ -27,7 +27,7 @@ permissions:
   id-token: write
 
 concurrency:
-  group: pharma-dashboard
+  group: pharma-dashboard-${{ github.ref }}   # 各分支（开发中的并行会话）互不排队；main 上的运行依次进行
   cancel-in-progress: false
 
 jobs:
@@ -95,7 +95,7 @@ jobs:
           path: _site
 
       - name: 出问题时开 issue（同一问题只开一个，之后追加评论）
-        if: failure()
+        if: failure() && github.ref == 'refs/heads/main'   # 开发分支上的试运行不开 issue
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
@@ -113,7 +113,7 @@ jobs:
 
   deploy:
     needs: update
-    if: always() && needs.update.outputs.site == 'true'
+    if: always() && needs.update.outputs.site == 'true' && github.ref == 'refs/heads/main'   # 只有 main 发布网页
     runs-on: ubuntu-latest
     environment:
       name: github-pages
