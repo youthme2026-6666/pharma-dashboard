@@ -1,0 +1,429 @@
+fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,value,currency,unit,basis,source
+2021,Q1,2020-07-31,3,geography,JapanAustraliaNewZealandKoreaCanadaandWesternEurope,Non-U.S. Developed Markets,,,2175,USD,millions,reported,SEC 10-Q 0001613103-20-000033
+2021,Q1,2020-07-31,3,geography,MiddleEastAfricaLatinAmericaEasternEuropeandAsiaExcludingJapanandKorea,Emerging Markets,,,981,USD,millions,reported,SEC 10-Q 0001613103-20-000033
+2021,Q1,2020-07-31,3,geography,US,United States,,,3351,USD,millions,reported,SEC 10-Q 0001613103-20-000033
+2021,Q1,2020-07-31,3,product,OtherNotItemized,Other (not itemized),,,564,USD,millions,derived,SEC 10-Q 0001613103-20-000033
+2021,Q1,2020-07-31,3,product,AorticPeripheralandVenousDivision,"Aortic, Peripheral, & Venous",,Cardiac & Vascular Group,405,USD,millions,reported,SEC 10-Q 0001613103-20-000033
+2021,Q1,2020-07-31,3,product,CardiacRhythmandHeartFailureDivision,Cardiac Rhythm & Heart Failure,,Cardiac & Vascular Group,1247,USD,millions,reported,SEC 10-Q 0001613103-20-000033
+2021,Q1,2020-07-31,3,product,CoronaryandStructuralHeartDivision,Coronary & Structural Heart,,Cardiac & Vascular Group,780,USD,millions,reported,SEC 10-Q 0001613103-20-000033
+2021,Q1,2020-07-31,3,product,RespiratoryGastrointestinalandRenalDivision,"Respiratory, Gastrointestinal, & Renal",,Minimally Invasive Therapies Group,720,USD,millions,reported,SEC 10-Q 0001613103-20-000033
+2021,Q1,2020-07-31,3,product,SurgicalInnovationsDivision,Surgical Innovations,,Minimally Invasive Therapies Group,1080,USD,millions,reported,SEC 10-Q 0001613103-20-000033
+2021,Q1,2020-07-31,3,product,CranialAndSpinalTechnologiesDivision,Cranial & Spinal Technologies,,Restorative Therapies Group,944,USD,millions,reported,SEC 10-Q 0001613103-20-000033
+2021,Q1,2020-07-31,3,product,NeuromodulationDivision,Neuromodulation,,Restorative Therapies Group,314,USD,millions,reported,SEC 10-Q 0001613103-20-000033
+2021,Q1,2020-07-31,3,product,SpecialtyTherapiesDivision,Specialty Therapies,,Restorative Therapies Group,453,USD,millions,reported,SEC 10-Q 0001613103-20-000033
+2021,Q1,2020-07-31,3,segment,CardiacAndVascularGroup,Cardiac & Vascular Group,,,2433,USD,millions,reported,SEC 10-Q 0001613103-20-000033
+2021,Q1,2020-07-31,3,segment,DiabetesGroup,Diabetes Group,,,562,USD,millions,reported,SEC 10-Q 0001613103-20-000033
+2021,Q1,2020-07-31,3,segment,MinimallyInvasiveTherapiesGroup,Minimally Invasive Therapies Group,,,1801,USD,millions,reported,SEC 10-Q 0001613103-20-000033
+2021,Q1,2020-07-31,3,segment,RestorativeTherapiesGroup,Restorative Therapies Group,,,1712,USD,millions,reported,SEC 10-Q 0001613103-20-000033
+2021,Q2,2020-10-30,3,geography,JapanAustraliaNewZealandKoreaCanadaandWesternEurope,Non-U.S. Developed Markets,,,2446,USD,millions,reported,SEC 10-Q 0001613103-20-000051
+2021,Q2,2020-10-30,3,geography,MiddleEastAfricaLatinAmericaEasternEuropeandAsiaExcludingJapanandKorea,Emerging Markets,,,1147,USD,millions,reported,SEC 10-Q 0001613103-20-000051
+2021,Q2,2020-10-30,3,geography,US,United States,,,4054,USD,millions,reported,SEC 10-Q 0001613103-20-000051
+2021,Q2,2020-10-30,3,product,OtherNotItemized,Other (not itemized),,,573,USD,millions,derived,SEC 10-Q 0001613103-20-000051
+2021,Q2,2020-10-30,3,product,AorticPeripheralandVenousDivision,"Aortic, Peripheral, & Venous",,Cardiac & Vascular Group,468,USD,millions,reported,SEC 10-Q 0001613103-20-000051
+2021,Q2,2020-10-30,3,product,CardiacRhythmandHeartFailureDivision,Cardiac Rhythm & Heart Failure,,Cardiac & Vascular Group,1426,USD,millions,reported,SEC 10-Q 0001613103-20-000051
+2021,Q2,2020-10-30,3,product,CoronaryandStructuralHeartDivision,Coronary & Structural Heart,,Cardiac & Vascular Group,831,USD,millions,reported,SEC 10-Q 0001613103-20-000051
+2021,Q2,2020-10-30,3,product,RespiratoryGastrointestinalandRenalDivision,"Respiratory, Gastrointestinal, & Renal",,Minimally Invasive Therapies Group,893,USD,millions,reported,SEC 10-Q 0001613103-20-000051
+2021,Q2,2020-10-30,3,product,SurgicalInnovationsDivision,Surgical Innovations,,Minimally Invasive Therapies Group,1393,USD,millions,reported,SEC 10-Q 0001613103-20-000051
+2021,Q2,2020-10-30,3,product,CranialAndSpinalTechnologiesDivision,Cranial & Spinal Technologies,,Restorative Therapies Group,1071,USD,millions,reported,SEC 10-Q 0001613103-20-000051
+2021,Q2,2020-10-30,3,product,NeuromodulationDivision,Neuromodulation,,Restorative Therapies Group,411,USD,millions,reported,SEC 10-Q 0001613103-20-000051
+2021,Q2,2020-10-30,3,product,SpecialtyTherapiesDivision,Specialty Therapies,,Restorative Therapies Group,581,USD,millions,reported,SEC 10-Q 0001613103-20-000051
+2021,Q2,2020-10-30,3,segment,CardiacAndVascularGroup,Cardiac & Vascular Group,,,2725,USD,millions,reported,SEC 10-Q 0001613103-20-000051
+2021,Q2,2020-10-30,3,segment,DiabetesGroup,Diabetes Group,,,574,USD,millions,reported,SEC 10-Q 0001613103-20-000051
+2021,Q2,2020-10-30,3,segment,MinimallyInvasiveTherapiesGroup,Minimally Invasive Therapies Group,,,2285,USD,millions,reported,SEC 10-Q 0001613103-20-000051
+2021,Q2,2020-10-30,3,segment,RestorativeTherapiesGroup,Restorative Therapies Group,,,2063,USD,millions,reported,SEC 10-Q 0001613103-20-000051
+2021,Q3,2021-01-29,3,geography,JapanAustraliaNewZealandKoreaCanadaandWesternEurope,Non-U.S. Developed Markets,,,2522,USD,millions,reported,SEC 10-Q 0001613103-21-000009
+2021,Q3,2021-01-29,3,geography,MiddleEastAfricaLatinAmericaEasternEuropeandAsiaExcludingJapanandKorea,Emerging Markets,,,1314,USD,millions,reported,SEC 10-Q 0001613103-21-000009
+2021,Q3,2021-01-29,3,geography,US,United States,,,3939,USD,millions,reported,SEC 10-Q 0001613103-21-000009
+2021,Q3,2021-01-29,3,product,OtherNotItemized,Other (not itemized),,,630,USD,millions,derived,SEC 10-Q 0001613103-21-000009
+2021,Q3,2021-01-29,3,product,AorticPeripheralandVenousDivision,"Aortic, Peripheral, & Venous",,Cardiac & Vascular Group,463,USD,millions,reported,SEC 10-Q 0001613103-21-000009
+2021,Q3,2021-01-29,3,product,CardiacRhythmandHeartFailureDivision,Cardiac Rhythm & Heart Failure,,Cardiac & Vascular Group,1371,USD,millions,reported,SEC 10-Q 0001613103-21-000009
+2021,Q3,2021-01-29,3,product,CoronaryandStructuralHeartDivision,Coronary & Structural Heart,,Cardiac & Vascular Group,873,USD,millions,reported,SEC 10-Q 0001613103-21-000009
+2021,Q3,2021-01-29,3,product,RespiratoryGastrointestinalandRenalDivision,"Respiratory, Gastrointestinal, & Renal",,Minimally Invasive Therapies Group,890,USD,millions,reported,SEC 10-Q 0001613103-21-000009
+2021,Q3,2021-01-29,3,product,SurgicalInnovationsDivision,Surgical Innovations,,Minimally Invasive Therapies Group,1423,USD,millions,reported,SEC 10-Q 0001613103-21-000009
+2021,Q3,2021-01-29,3,product,CranialAndSpinalTechnologiesDivision,Cranial & Spinal Technologies,,Restorative Therapies Group,1081,USD,millions,reported,SEC 10-Q 0001613103-21-000009
+2021,Q3,2021-01-29,3,product,NeuromodulationDivision,Neuromodulation,,Restorative Therapies Group,426,USD,millions,reported,SEC 10-Q 0001613103-21-000009
+2021,Q3,2021-01-29,3,product,SpecialtyTherapiesDivision,Specialty Therapies,,Restorative Therapies Group,618,USD,millions,reported,SEC 10-Q 0001613103-21-000009
+2021,Q3,2021-01-29,3,segment,CardiacAndVascularGroup,Cardiac & Vascular Group,,,2707,USD,millions,reported,SEC 10-Q 0001613103-21-000009
+2021,Q3,2021-01-29,3,segment,DiabetesGroup,Diabetes Group,,,630,USD,millions,reported,SEC 10-Q 0001613103-21-000009
+2021,Q3,2021-01-29,3,segment,MinimallyInvasiveTherapiesGroup,Minimally Invasive Therapies Group,,,2313,USD,millions,reported,SEC 10-Q 0001613103-21-000009
+2021,Q3,2021-01-29,3,segment,RestorativeTherapiesGroup,Restorative Therapies Group,,,2126,USD,millions,reported,SEC 10-Q 0001613103-21-000009
+2021,Q4,2021-04-30,3,geography,JapanAustraliaNewZealandKoreaCanadaandWesternEurope,Non-U.S. Developed Markets,,,2672,USD,millions,derived,SEC 10-K 0001613103-21-000027 − 10-Q 0001613103-21-000009
+2021,Q4,2021-04-30,3,geography,MiddleEastAfricaLatinAmericaEasternEuropeandAsiaExcludingJapanandKorea,Emerging Markets,,,1334,USD,millions,derived,SEC 10-K 0001613103-21-000027 − 10-Q 0001613103-21-000009
+2021,Q4,2021-04-30,3,geography,US,U.S. Pension Benefits,,,4182,USD,millions,derived,SEC 10-K 0001613103-21-000027 − 10-Q 0001613103-21-000009
+2021,FY,2021-04-30,12,geography,JapanAustraliaNewZealandKoreaCanadaandWesternEurope,Non-U.S. Developed Markets,,,9815,USD,millions,reported,SEC 10-K 0001613103-21-000027
+2021,FY,2021-04-30,12,geography,MiddleEastAfricaLatinAmericaEasternEuropeandAsiaExcludingJapanandKorea,Emerging Markets,,,4777,USD,millions,reported,SEC 10-K 0001613103-21-000027
+2021,FY,2021-04-30,12,geography,US,U.S. Pension Benefits,,,15526,USD,millions,reported,SEC 10-K 0001613103-21-000027
+2021,FY,2021-04-30,12,product,OtherNotItemized,Other (not itemized),,,2413,USD,millions,derived,SEC 10-K 0001613103-21-000027
+2021,FY,2021-04-30,12,product,CardiacRhythmandHeartFailureDivision,Cardiac Rhythm & Heart Failure,,Cardiovascular,5584,USD,millions,reported,SEC 10-K 0001613103-21-000027
+2021,FY,2021-04-30,12,product,CoronaryAndPeripheralVascularDivision,Coronary & Peripheral Vascular,,Cardiovascular,2354,USD,millions,reported,SEC 10-K 0001613103-21-000027
+2021,FY,2021-04-30,12,product,StructuralHeartAndAorticDivision,Structural Heart & Aortic,,Cardiovascular,2834,USD,millions,reported,SEC 10-K 0001613103-21-000027
+2021,FY,2021-04-30,12,product,RespiratoryGastrointestinalAndRenalDivision,"Respiratory, Gastrointestinal, & Renal",,Medical Surgical,3298,USD,millions,reported,SEC 10-K 0001613103-21-000027
+2021,FY,2021-04-30,12,product,SurgicalInnovationsDivision,Surgical Innovations,,Medical Surgical,5438,USD,millions,reported,SEC 10-K 0001613103-21-000027
+2021,FY,2021-04-30,12,product,CranialAndSpinalTechnologiesDivision,Cranial & Spinal Technologies,,Neuroscience,4288,USD,millions,reported,SEC 10-K 0001613103-21-000027
+2021,FY,2021-04-30,12,product,NeuromodulationDivision,Neuromodulation,,Neuroscience,1601,USD,millions,reported,SEC 10-K 0001613103-21-000027
+2021,FY,2021-04-30,12,product,SpecialtyTherapiesDivision,Specialty Therapies,,Neuroscience,2307,USD,millions,reported,SEC 10-K 0001613103-21-000027
+2021,FY,2021-04-30,12,segment,CardiovascularPortfolio,Cardiovascular,,,10772,USD,millions,reported,SEC 10-K 0001613103-21-000027
+2021,FY,2021-04-30,12,segment,DiabetesOperatingUnit,Diabetes,,,2413,USD,millions,reported,SEC 10-K 0001613103-21-000027
+2021,FY,2021-04-30,12,segment,MedicalSurgicalPortfolio,Medical Surgical,,,8737,USD,millions,reported,SEC 10-K 0001613103-21-000027
+2021,FY,2021-04-30,12,segment,NeurosciencePortfolio,Neuroscience,,,8195,USD,millions,reported,SEC 10-K 0001613103-21-000027
+2022,Q1,2021-07-30,3,geography,JapanAustraliaNewZealandKoreaCanadaandWesternEurope,Non-U.S. Developed Markets,,,2601,USD,millions,reported,SEC 10-Q 0001613103-21-000042
+2022,Q1,2021-07-30,3,geography,MiddleEastAfricaLatinAmericaEasternEuropeandAsiaExcludingJapanandKorea,Emerging Markets,,,1286,USD,millions,reported,SEC 10-Q 0001613103-21-000042
+2022,Q1,2021-07-30,3,geography,US,United States,,,4101,USD,millions,reported,SEC 10-Q 0001613103-21-000042
+2022,Q1,2021-07-30,3,product,OtherNotItemized,Other (not itemized),,,571,USD,millions,derived,SEC 10-Q 0001613103-21-000042
+2022,Q1,2021-07-30,3,product,CardiacRhythmandHeartFailureDivision,Cardiac Rhythm & Heart Failure,,Cardiovascular,1483,USD,millions,reported,SEC 10-Q 0001613103-21-000042
+2022,Q1,2021-07-30,3,product,CoronaryAndPeripheralVascularDivision,Coronary & Peripheral Vascular,,Cardiovascular,620,USD,millions,reported,SEC 10-Q 0001613103-21-000042
+2022,Q1,2021-07-30,3,product,StructuralHeartAndAorticDivision,Structural Heart & Aortic,,Cardiovascular,787,USD,millions,reported,SEC 10-Q 0001613103-21-000042
+2022,Q1,2021-07-30,3,product,RespiratoryGastrointestinalandRenalDivision,"Respiratory, Gastrointestinal, & Renal",,Medical Surgical,768,USD,millions,reported,SEC 10-Q 0001613103-21-000042
+2022,Q1,2021-07-30,3,product,SurgicalInnovationsDivision,Surgical Innovations,,Medical Surgical,1554,USD,millions,reported,SEC 10-Q 0001613103-21-000042
+2022,Q1,2021-07-30,3,product,CranialAndSpinalTechnologiesDivision,Cranial & Spinal Technologies,,Neuroscience,1123,USD,millions,reported,SEC 10-Q 0001613103-21-000042
+2022,Q1,2021-07-30,3,product,NeuromodulationDivision,Neuromodulation,,Neuroscience,440,USD,millions,reported,SEC 10-Q 0001613103-21-000042
+2022,Q1,2021-07-30,3,product,SpecialtyTherapiesDivision,Specialty Therapies,,Neuroscience,641,USD,millions,reported,SEC 10-Q 0001613103-21-000042
+2022,Q1,2021-07-30,3,segment,Cardiovascular,Cardiovascular,,,2890,USD,millions,reported,SEC 10-Q 0001613103-21-000042
+2022,Q1,2021-07-30,3,segment,DiabetesGroup,Diabetes,,,572,USD,millions,reported,SEC 10-Q 0001613103-21-000042
+2022,Q1,2021-07-30,3,segment,MedicalSurgical,Medical Surgical,,,2322,USD,millions,reported,SEC 10-Q 0001613103-21-000042
+2022,Q1,2021-07-30,3,segment,NeuroscienceGroup,Neuroscience,,,2204,USD,millions,reported,SEC 10-Q 0001613103-21-000042
+2022,Q2,2021-10-29,3,geography,JapanAustraliaNewZealandKoreaCanadaandWesternEurope,Non-U.S. Developed Markets,,,2478,USD,millions,reported,SEC 10-Q 0001613103-21-000062
+2022,Q2,2021-10-29,3,geography,MiddleEastAfricaLatinAmericaEasternEuropeandAsiaExcludingJapanandKorea,Emerging Markets,,,1372,USD,millions,reported,SEC 10-Q 0001613103-21-000062
+2022,Q2,2021-10-29,3,geography,US,United States,,,3997,USD,millions,reported,SEC 10-Q 0001613103-21-000062
+2022,Q2,2021-10-29,3,product,OtherNotItemized,Other (not itemized),,,585,USD,millions,derived,SEC 10-Q 0001613103-21-000062
+2022,Q2,2021-10-29,3,product,CardiacRhythmandHeartFailureDivision,Cardiac Rhythm & Heart Failure,,Cardiovascular,1471,USD,millions,reported,SEC 10-Q 0001613103-21-000062
+2022,Q2,2021-10-29,3,product,CoronaryAndPeripheralVascularDivision,Coronary & Peripheral Vascular,,Cardiovascular,606,USD,millions,reported,SEC 10-Q 0001613103-21-000062
+2022,Q2,2021-10-29,3,product,StructuralHeartAndAorticDivision,Structural Heart & Aortic,,Cardiovascular,750,USD,millions,reported,SEC 10-Q 0001613103-21-000062
+2022,Q2,2021-10-29,3,product,RespiratoryGastrointestinalandRenalDivision,"Respiratory, Gastrointestinal, & Renal",,Medical Surgical,802,USD,millions,reported,SEC 10-Q 0001613103-21-000062
+2022,Q2,2021-10-29,3,product,SurgicalInnovationsDivision,Surgical Innovations,,Medical Surgical,1497,USD,millions,reported,SEC 10-Q 0001613103-21-000062
+2022,Q2,2021-10-29,3,product,CranialAndSpinalTechnologiesDivision,Cranial & Spinal Technologies,,Neuroscience,1067,USD,millions,reported,SEC 10-Q 0001613103-21-000062
+2022,Q2,2021-10-29,3,product,NeuromodulationDivision,Neuromodulation,,Neuroscience,435,USD,millions,reported,SEC 10-Q 0001613103-21-000062
+2022,Q2,2021-10-29,3,product,SpecialtyTherapiesDivision,Specialty Therapies,,Neuroscience,634,USD,millions,reported,SEC 10-Q 0001613103-21-000062
+2022,Q2,2021-10-29,3,segment,Cardiovascular,Cardiovascular,,,2827,USD,millions,reported,SEC 10-Q 0001613103-21-000062
+2022,Q2,2021-10-29,3,segment,DiabetesGroup,Diabetes,,,585,USD,millions,reported,SEC 10-Q 0001613103-21-000062
+2022,Q2,2021-10-29,3,segment,MedicalSurgical,Medical Surgical,,,2299,USD,millions,reported,SEC 10-Q 0001613103-21-000062
+2022,Q2,2021-10-29,3,segment,NeuroscienceGroup,Neuroscience,,,2136,USD,millions,reported,SEC 10-Q 0001613103-21-000062
+2022,Q3,2022-01-28,3,geography,JapanAustraliaNewZealandKoreaCanadaandWesternEurope,Non-U.S. Developed Markets,,,2438,USD,millions,reported,SEC 10-Q 0001613103-22-000011
+2022,Q3,2022-01-28,3,geography,MiddleEastAfricaLatinAmericaEasternEuropeandAsiaExcludingJapanandKorea,Emerging Markets,,,1385,USD,millions,reported,SEC 10-Q 0001613103-22-000011
+2022,Q3,2022-01-28,3,geography,US,United States,,,3939,USD,millions,reported,SEC 10-Q 0001613103-22-000011
+2022,Q3,2022-01-28,3,product,OtherNotItemized,Other (not itemized),,,584,USD,millions,derived,SEC 10-Q 0001613103-22-000011
+2022,Q3,2022-01-28,3,product,CardiacRhythmandHeartFailureDivision,Cardiac Rhythm & Heart Failure,,Cardiovascular,1402,USD,millions,reported,SEC 10-Q 0001613103-22-000011
+2022,Q3,2022-01-28,3,product,CoronaryAndPeripheralVascularDivision,Coronary & Peripheral Vascular,,Cardiovascular,603,USD,millions,reported,SEC 10-Q 0001613103-22-000011
+2022,Q3,2022-01-28,3,product,StructuralHeartAndAorticDivision,Structural Heart & Aortic,,Cardiovascular,740,USD,millions,reported,SEC 10-Q 0001613103-22-000011
+2022,Q3,2022-01-28,3,product,RespiratoryGastrointestinalandRenalDivision,"Respiratory, Gastrointestinal, & Renal",,Medical Surgical,771,USD,millions,reported,SEC 10-Q 0001613103-22-000011
+2022,Q3,2022-01-28,3,product,SurgicalInnovationsDivision,Surgical Innovations,,Medical Surgical,1519,USD,millions,reported,SEC 10-Q 0001613103-22-000011
+2022,Q3,2022-01-28,3,product,CranialAndSpinalTechnologiesDivision,Cranial & Spinal Technologies,,Neuroscience,1102,USD,millions,reported,SEC 10-Q 0001613103-22-000011
+2022,Q3,2022-01-28,3,product,NeuromodulationDivision,Neuromodulation,,Neuroscience,409,USD,millions,reported,SEC 10-Q 0001613103-22-000011
+2022,Q3,2022-01-28,3,product,SpecialtyTherapiesDivision,Specialty Therapies,,Neuroscience,633,USD,millions,reported,SEC 10-Q 0001613103-22-000011
+2022,Q3,2022-01-28,3,segment,Cardiovascular,Cardiovascular,,,2745,USD,millions,reported,SEC 10-Q 0001613103-22-000011
+2022,Q3,2022-01-28,3,segment,DiabetesGroup,Diabetes,,,584,USD,millions,reported,SEC 10-Q 0001613103-22-000011
+2022,Q3,2022-01-28,3,segment,MedicalSurgical,Medical Surgical,,,2290,USD,millions,reported,SEC 10-Q 0001613103-22-000011
+2022,Q3,2022-01-28,3,segment,NeuroscienceGroup,Neuroscience,,,2144,USD,millions,reported,SEC 10-Q 0001613103-22-000011
+2022,Q4,2022-04-29,3,geography,JapanAustraliaNewZealandKoreaCanadaandWesternEurope,Non-U.S. Developed Markets,,,2609,USD,millions,derived,SEC 10-K 0001613103-22-000023 − 10-Q 0001613103-22-000011
+2022,Q4,2022-04-29,3,geography,MiddleEastAfricaLatinAmericaEasternEuropeandAsiaExcludingJapanandKorea,Emerging Markets,,,1383,USD,millions,derived,SEC 10-K 0001613103-22-000023 − 10-Q 0001613103-22-000011
+2022,Q4,2022-04-29,3,geography,US,U.S. Pension Benefits,,,4097,USD,millions,derived,SEC 10-K 0001613103-22-000023 − 10-Q 0001613103-22-000011
+2022,FY,2022-04-29,12,geography,JapanAustraliaNewZealandKoreaCanadaandWesternEurope,Non-U.S. Developed Markets,,,10126,USD,millions,reported,SEC 10-K 0001613103-22-000023
+2022,FY,2022-04-29,12,geography,MiddleEastAfricaLatinAmericaEasternEuropeandAsiaExcludingJapanandKorea,Emerging Markets,,,5426,USD,millions,reported,SEC 10-K 0001613103-22-000023
+2022,FY,2022-04-29,12,geography,US,U.S. Pension Benefits,,,16135,USD,millions,reported,SEC 10-K 0001613103-22-000023
+2022,FY,2022-04-29,12,product,OtherNotItemized,Other (not itemized),,,2339,USD,millions,derived,SEC 10-K 0001613103-22-000023
+2022,FY,2022-04-29,12,product,CardiacRhythmandHeartFailureDivision,Cardiac Rhythm & Heart Failure,,Cardiovascular,5908,USD,millions,reported,SEC 10-K 0001613103-22-000023
+2022,FY,2022-04-29,12,product,CoronaryAndPeripheralVascularDivision,Coronary & Peripheral Vascular,,Cardiovascular,2460,USD,millions,reported,SEC 10-K 0001613103-22-000023
+2022,FY,2022-04-29,12,product,StructuralHeartAndAorticDivision,Structural Heart & Aortic,,Cardiovascular,3055,USD,millions,reported,SEC 10-K 0001613103-22-000023
+2022,FY,2022-04-29,12,product,RespiratoryGastrointestinalAndRenalDivision,"Respiratory, Gastrointestinal, & Renal",,Medical Surgical,3081,USD,millions,reported,SEC 10-K 0001613103-22-000023
+2022,FY,2022-04-29,12,product,SurgicalInnovationsDivision,Surgical Innovations,,Medical Surgical,6060,USD,millions,reported,SEC 10-K 0001613103-22-000023
+2022,FY,2022-04-29,12,product,CranialAndSpinalTechnologiesDivision,Cranial & Spinal Technologies,,Neuroscience,4456,USD,millions,reported,SEC 10-K 0001613103-22-000023
+2022,FY,2022-04-29,12,product,NeuromodulationDivision,Neuromodulation,,Neuroscience,1735,USD,millions,reported,SEC 10-K 0001613103-22-000023
+2022,FY,2022-04-29,12,product,SpecialtyTherapiesDivision,Specialty Therapies,,Neuroscience,2592,USD,millions,reported,SEC 10-K 0001613103-22-000023
+2022,FY,2022-04-29,12,segment,Cardiovascular,Cardiovascular,,,11423,USD,millions,reported,SEC 10-K 0001613103-22-000023
+2022,FY,2022-04-29,12,segment,DiabetesOperatingUnit,Diabetes,,,2338,USD,millions,reported,SEC 10-K 0001613103-22-000023
+2022,FY,2022-04-29,12,segment,MedicalSurgicalPortfolio,Medical Surgical,,,9141,USD,millions,reported,SEC 10-K 0001613103-22-000023
+2022,FY,2022-04-29,12,segment,NeurosciencePortfolio,Neuroscience,,,8784,USD,millions,reported,SEC 10-K 0001613103-22-000023
+2023,Q1,2022-07-29,3,geography,JapanAustraliaNewZealandKoreaCanadaandWesternEurope,Non-U.S. Developed Markets,,,2328,USD,millions,reported,SEC 10-Q 0001613103-22-000046
+2023,Q1,2022-07-29,3,geography,MiddleEastAfricaLatinAmericaEasternEuropeandAsiaExcludingJapanandKorea,Emerging Markets,,,1276,USD,millions,reported,SEC 10-Q 0001613103-22-000046
+2023,Q1,2022-07-29,3,geography,US,UNITED STATES,,,3766,USD,millions,reported,SEC 10-Q 0001613103-22-000046
+2023,Q1,2022-07-29,3,product,OtherNotItemized,Other (not itemized),,,541,USD,millions,derived,SEC 10-Q 0001613103-22-000046
+2023,Q1,2022-07-29,3,product,CardiacRhythmandHeartFailureDivision,Cardiac Rhythm & Heart Failure,,Cardiovascular,1393,USD,millions,reported,SEC 10-Q 0001613103-22-000046
+2023,Q1,2022-07-29,3,product,CoronaryAndPeripheralVascularDivision,Coronary & Peripheral Vascular,,Cardiovascular,579,USD,millions,reported,SEC 10-Q 0001613103-22-000046
+2023,Q1,2022-07-29,3,product,StructuralHeartAndAorticDivision,Structural Heart & Aortic,,Cardiovascular,741,USD,millions,reported,SEC 10-Q 0001613103-22-000046
+2023,Q1,2022-07-29,3,product,RespiratoryGastrointestinalandRenalDivision,"Respiratory, Gastrointestinal, & Renal",,Medical Surgical,664,USD,millions,reported,SEC 10-Q 0001613103-22-000046
+2023,Q1,2022-07-29,3,product,SurgicalInnovationsDivision,Surgical Innovations,,Medical Surgical,1338,USD,millions,reported,SEC 10-Q 0001613103-22-000046
+2023,Q1,2022-07-29,3,product,CranialAndSpinalTechnologiesDivision,Cranial & Spinal Technologies,,Neuroscience,1043,USD,millions,reported,SEC 10-Q 0001613103-22-000046
+2023,Q1,2022-07-29,3,product,NeuromodulationDivision,Neuromodulation,,Neuroscience,405,USD,millions,reported,SEC 10-Q 0001613103-22-000046
+2023,Q1,2022-07-29,3,product,SpecialtyTherapiesDivision,Specialty Therapies,,Neuroscience,667,USD,millions,reported,SEC 10-Q 0001613103-22-000046
+2023,Q1,2022-07-29,3,segment,Cardiovascular,Cardiovascular,,,2713,USD,millions,reported,SEC 10-Q 0001613103-22-000046
+2023,Q1,2022-07-29,3,segment,DiabetesGroup,Diabetes,,,541,USD,millions,reported,SEC 10-Q 0001613103-22-000046
+2023,Q1,2022-07-29,3,segment,MedicalSurgical,Medical Surgical,,,2001,USD,millions,reported,SEC 10-Q 0001613103-22-000046
+2023,Q1,2022-07-29,3,segment,NeuroscienceGroup,Neuroscience,,,2115,USD,millions,reported,SEC 10-Q 0001613103-22-000046
+2023,Q2,2022-10-28,3,geography,JapanAustraliaNewZealandKoreaCanadaandWesternEurope,Non-U.S. Developed Markets,,,2157,USD,millions,reported,SEC 10-Q 0001613103-22-000063
+2023,Q2,2022-10-28,3,geography,MiddleEastAfricaLatinAmericaEasternEuropeandAsiaExcludingJapanandKorea,Emerging Markets,,,1359,USD,millions,reported,SEC 10-Q 0001613103-22-000063
+2023,Q2,2022-10-28,3,geography,US,UNITED STATES,,,4069,USD,millions,reported,SEC 10-Q 0001613103-22-000063
+2023,Q2,2022-10-28,3,product,OtherNotItemized,Other (not itemized),,,558,USD,millions,derived,SEC 10-Q 0001613103-22-000063
+2023,Q2,2022-10-28,3,product,CardiacRhythmandHeartFailureDivision,Cardiac Rhythm & Heart Failure,,Cardiovascular,1431,USD,millions,reported,SEC 10-Q 0001613103-22-000063
+2023,Q2,2022-10-28,3,product,CoronaryAndPeripheralVascularDivision,Coronary & Peripheral Vascular,,Cardiovascular,584,USD,millions,reported,SEC 10-Q 0001613103-22-000063
+2023,Q2,2022-10-28,3,product,StructuralHeartAndAorticDivision,Structural Heart & Aortic,,Cardiovascular,757,USD,millions,reported,SEC 10-Q 0001613103-22-000063
+2023,Q2,2022-10-28,3,product,RespiratoryGastrointestinalandRenalDivision,"Respiratory, Gastrointestinal, & Renal",,Medical Surgical,671,USD,millions,reported,SEC 10-Q 0001613103-22-000063
+2023,Q2,2022-10-28,3,product,SurgicalInnovationsDivision,Surgical Innovations,,Medical Surgical,1398,USD,millions,reported,SEC 10-Q 0001613103-22-000063
+2023,Q2,2022-10-28,3,product,CranialAndSpinalTechnologiesDivision,Cranial & Spinal Technologies,,Neuroscience,1081,USD,millions,reported,SEC 10-Q 0001613103-22-000063
+2023,Q2,2022-10-28,3,product,NeuromodulationDivision,Neuromodulation,,Neuroscience,419,USD,millions,reported,SEC 10-Q 0001613103-22-000063
+2023,Q2,2022-10-28,3,product,SpecialtyTherapiesDivision,Specialty Therapies,,Neuroscience,686,USD,millions,reported,SEC 10-Q 0001613103-22-000063
+2023,Q2,2022-10-28,3,segment,Cardiovascular,Cardiovascular,,,2773,USD,millions,reported,SEC 10-Q 0001613103-22-000063
+2023,Q2,2022-10-28,3,segment,DiabetesGroup,Diabetes,,,556,USD,millions,reported,SEC 10-Q 0001613103-22-000063
+2023,Q2,2022-10-28,3,segment,MedicalSurgical,Medical Surgical,,,2070,USD,millions,reported,SEC 10-Q 0001613103-22-000063
+2023,Q2,2022-10-28,3,segment,NeuroscienceGroup,Neuroscience,,,2186,USD,millions,reported,SEC 10-Q 0001613103-22-000063
+2023,Q3,2023-01-27,3,geography,JapanAustraliaNewZealandKoreaCanadaandWesternEurope,Non-U.S. Developed Markets,,,2294,USD,millions,reported,SEC 10-Q 0001613103-23-000008
+2023,Q3,2023-01-27,3,geography,MiddleEastAfricaLatinAmericaEasternEuropeandAsiaExcludingJapanandKorea,Emerging Markets,,,1371,USD,millions,reported,SEC 10-Q 0001613103-23-000008
+2023,Q3,2023-01-27,3,geography,US,UNITED STATES,,,4062,USD,millions,reported,SEC 10-Q 0001613103-23-000008
+2023,Q3,2023-01-27,3,product,OtherNotItemized,Other (not itemized),,,571,USD,millions,derived,SEC 10-Q 0001613103-23-000008
+2023,Q3,2023-01-27,3,product,CardiacRhythmandHeartFailureDivision,Cardiac Rhythm & Heart Failure,,Cardiovascular,1431,USD,millions,reported,SEC 10-Q 0001613103-23-000008
+2023,Q3,2023-01-27,3,product,CoronaryAndPeripheralVascularDivision,Coronary & Peripheral Vascular,,Cardiovascular,581,USD,millions,reported,SEC 10-Q 0001613103-23-000008
+2023,Q3,2023-01-27,3,product,StructuralHeartAndAorticDivision,Structural Heart & Aortic,,Cardiovascular,760,USD,millions,reported,SEC 10-Q 0001613103-23-000008
+2023,Q3,2023-01-27,3,product,RespiratoryGastrointestinalandRenalDivision,"Respiratory, Gastrointestinal, & Renal",,Medical Surgical,712,USD,millions,reported,SEC 10-Q 0001613103-23-000008
+2023,Q3,2023-01-27,3,product,SurgicalInnovationsDivision,Surgical Innovations,,Medical Surgical,1425,USD,millions,reported,SEC 10-Q 0001613103-23-000008
+2023,Q3,2023-01-27,3,product,CranialAndSpinalTechnologiesDivision,Cranial & Spinal Technologies,,Neuroscience,1128,USD,millions,reported,SEC 10-Q 0001613103-23-000008
+2023,Q3,2023-01-27,3,product,NeuromodulationDivision,Neuromodulation,,Neuroscience,420,USD,millions,reported,SEC 10-Q 0001613103-23-000008
+2023,Q3,2023-01-27,3,product,SpecialtyTherapiesDivision,Specialty Therapies,,Neuroscience,699,USD,millions,reported,SEC 10-Q 0001613103-23-000008
+2023,Q3,2023-01-27,3,segment,Cardiovascular,Cardiovascular,,,2772,USD,millions,reported,SEC 10-Q 0001613103-23-000008
+2023,Q3,2023-01-27,3,segment,DiabetesGroup,Diabetes,,,570,USD,millions,reported,SEC 10-Q 0001613103-23-000008
+2023,Q3,2023-01-27,3,segment,MedicalSurgical,Medical Surgical,,,2137,USD,millions,reported,SEC 10-Q 0001613103-23-000008
+2023,Q3,2023-01-27,3,segment,NeuroscienceGroup,Neuroscience,,,2248,USD,millions,reported,SEC 10-Q 0001613103-23-000008
+2023,Q4,2023-04-28,3,geography,JapanAustraliaNewZealandKoreaCanadaandWesternEurope,Non-U.S. Developed Markets,,,2629,USD,millions,derived,SEC 10-K 0001613103-23-000040 − 10-Q 0001613103-23-000008
+2023,Q4,2023-04-28,3,geography,MiddleEastAfricaLatinAmericaEasternEuropeandAsiaExcludingJapanandKorea,Emerging Markets,,,1440,USD,millions,derived,SEC 10-K 0001613103-23-000040 − 10-Q 0001613103-23-000008
+2023,Q4,2023-04-28,3,geography,US,UNITED STATES,,,4476,USD,millions,derived,SEC 10-K 0001613103-23-000040 − 10-Q 0001613103-23-000008
+2023,FY,2023-04-28,12,geography,JapanAustraliaNewZealandKoreaCanadaandWesternEurope,Non-U.S. Developed Markets,,,9408,USD,millions,reported,SEC 10-K 0001613103-23-000040
+2023,FY,2023-04-28,12,geography,MiddleEastAfricaLatinAmericaEasternEuropeandAsiaExcludingJapanandKorea,Emerging Markets,,,5446,USD,millions,reported,SEC 10-K 0001613103-23-000040
+2023,FY,2023-04-28,12,geography,US,UNITED STATES,,,16373,USD,millions,reported,SEC 10-K 0001613103-23-000040
+2023,FY,2023-04-28,12,product,OtherNotItemized,Other (not itemized),,,2262,USD,millions,derived,SEC 10-K 0001613103-23-000040
+2023,FY,2023-04-28,12,product,CardiacRhythmandHeartFailureDivision,Cardiac Rhythm & Heart Failure,,Cardiovascular,5835,USD,millions,reported,SEC 10-K 0001613103-23-000040
+2023,FY,2023-04-28,12,product,CoronaryAndPeripheralVascularDivision,Coronary & Peripheral Vascular,,Cardiovascular,2375,USD,millions,reported,SEC 10-K 0001613103-23-000040
+2023,FY,2023-04-28,12,product,StructuralHeartAndAorticDivision,Structural Heart & Aortic,,Cardiovascular,3363,USD,millions,reported,SEC 10-K 0001613103-23-000040
+2023,FY,2023-04-28,12,product,RespiratoryGastrointestinalAndRenalDivision,"Respiratory, Gastrointestinal, & Renal",,Medical Surgical,2770,USD,millions,reported,SEC 10-K 0001613103-23-000040
+2023,FY,2023-04-28,12,product,SurgicalInnovationsDivision,Surgical Innovations,,Medical Surgical,5663,USD,millions,reported,SEC 10-K 0001613103-23-000040
+2023,FY,2023-04-28,12,product,CranialAndSpinalTechnologiesDivision,Cranial & Spinal Technologies,,Neuroscience,4451,USD,millions,reported,SEC 10-K 0001613103-23-000040
+2023,FY,2023-04-28,12,product,NeuromodulationDivision,Neuromodulation,,Neuroscience,1693,USD,millions,reported,SEC 10-K 0001613103-23-000040
+2023,FY,2023-04-28,12,product,SpecialtyTherapiesDivision,Specialty Therapies,,Neuroscience,2815,USD,millions,reported,SEC 10-K 0001613103-23-000040
+2023,FY,2023-04-28,12,segment,Cardiovascular,Cardiovascular,,,11573,USD,millions,reported,SEC 10-K 0001613103-23-000040
+2023,FY,2023-04-28,12,segment,DiabetesOperatingUnit,Diabetes,,,2262,USD,millions,reported,SEC 10-K 0001613103-23-000040
+2023,FY,2023-04-28,12,segment,MedicalSurgicalPortfolio,Medical Surgical,,,8433,USD,millions,reported,SEC 10-K 0001613103-23-000040
+2023,FY,2023-04-28,12,segment,NeurosciencePortfolio,Neuroscience,,,8959,USD,millions,reported,SEC 10-K 0001613103-23-000040
+2024,Q1,2023-07-28,3,geography,JapanAustraliaNewZealandKoreaCanadaandWesternEurope,Non-U.S. Developed Markets,,,2463,USD,millions,reported,SEC 10-Q 0001613103-23-000128
+2024,Q1,2023-07-28,3,geography,MiddleEastAfricaLatinAmericaEasternEuropeandAsiaExcludingJapanandKorea,Emerging Markets,,,1314,USD,millions,reported,SEC 10-Q 0001613103-23-000128
+2024,Q1,2023-07-28,3,geography,US,UNITED STATES,,,3924,USD,millions,reported,SEC 10-Q 0001613103-23-000128
+2024,Q1,2023-07-28,3,product,OtherNotItemized,Other (not itemized),,,596,USD,millions,derived,SEC 10-Q 0001613103-23-000128
+2024,Q1,2023-07-28,3,product,CardiacRhythmandHeartFailureDivision,Cardiac Rhythm & Heart Failure,,Cardiovascular,1446,USD,millions,reported,SEC 10-Q 0001613103-23-000128
+2024,Q1,2023-07-28,3,product,CoronaryAndPeripheralVascularDivision,Coronary & Peripheral Vascular,,Cardiovascular,589,USD,millions,reported,SEC 10-Q 0001613103-23-000128
+2024,Q1,2023-07-28,3,product,StructuralHeartAndAorticDivision,Structural Heart & Aortic,,Cardiovascular,814,USD,millions,reported,SEC 10-Q 0001613103-23-000128
+2024,Q1,2023-07-28,3,product,PatientMonitoringAndRespiratoryInterventions,Patient Monitoring & Respiratory Interventions,,Medical Surgical,493,USD,millions,reported,SEC 10-Q 0001613103-23-000128
+2024,Q1,2023-07-28,3,product,SurgicalEndoscopy,Surgical & Endoscopy,,Medical Surgical,1546,USD,millions,reported,SEC 10-Q 0001613103-23-000128
+2024,Q1,2023-07-28,3,product,CranialAndSpinalTechnologiesDivision,Cranial & Spinal Technologies,,Neuroscience,1103,USD,millions,reported,SEC 10-Q 0001613103-23-000128
+2024,Q1,2023-07-28,3,product,NeuromodulationDivision,Neuromodulation,,Neuroscience,420,USD,millions,reported,SEC 10-Q 0001613103-23-000128
+2024,Q1,2023-07-28,3,product,SpecialtyTherapiesDivision,Specialty Therapies,,Neuroscience,695,USD,millions,reported,SEC 10-Q 0001613103-23-000128
+2024,Q1,2023-07-28,3,segment,Cardiovascular,Cardiovascular,,,2850,USD,millions,reported,SEC 10-Q 0001613103-23-000128
+2024,Q1,2023-07-28,3,segment,DiabetesGroup,Diabetes,,,578,USD,millions,reported,SEC 10-Q 0001613103-23-000128
+2024,Q1,2023-07-28,3,segment,MedicalSurgical,Medical Surgical,,,2039,USD,millions,reported,SEC 10-Q 0001613103-23-000128
+2024,Q1,2023-07-28,3,segment,NeuroscienceGroup,Neuroscience,,,2219,USD,millions,reported,SEC 10-Q 0001613103-23-000128
+2024,Q1,2023-07-28,3,segment,Other,Other,,,16,USD,millions,reported,SEC 10-Q 0001613103-23-000128
+2024,Q2,2023-10-27,3,geography,JapanAustraliaNewZealandKoreaCanadaandWesternEurope,Non-U.S. Developed Markets,,,2368,USD,millions,reported,SEC 10-Q 0001613103-23-000149
+2024,Q2,2023-10-27,3,geography,MiddleEastAfricaLatinAmericaEasternEuropeandAsiaExcludingJapanandKorea,Emerging Markets,,,1441,USD,millions,reported,SEC 10-Q 0001613103-23-000149
+2024,Q2,2023-10-27,3,geography,US,UNITED STATES,,,4175,USD,millions,reported,SEC 10-Q 0001613103-23-000149
+2024,Q2,2023-10-27,3,product,OtherNotItemized,Other (not itemized),,,630,USD,millions,derived,SEC 10-Q 0001613103-23-000149
+2024,Q2,2023-10-27,3,product,CardiacRhythmandHeartFailureDivision,Cardiac Rhythm & Heart Failure,,Cardiovascular,1492,USD,millions,reported,SEC 10-Q 0001613103-23-000149
+2024,Q2,2023-10-27,3,product,CoronaryAndPeripheralVascularDivision,Coronary & Peripheral Vascular,,Cardiovascular,613,USD,millions,reported,SEC 10-Q 0001613103-23-000149
+2024,Q2,2023-10-27,3,product,StructuralHeartAndAorticDivision,Structural Heart & Aortic,,Cardiovascular,819,USD,millions,reported,SEC 10-Q 0001613103-23-000149
+2024,Q2,2023-10-27,3,product,PatientMonitoringAndRespiratoryInterventions,Patient Monitoring & Respiratory Interventions,,Medical Surgical,501,USD,millions,reported,SEC 10-Q 0001613103-23-000149
+2024,Q2,2023-10-27,3,product,SurgicalEndoscopy,Surgical & Endoscopy,,Medical Surgical,1641,USD,millions,reported,SEC 10-Q 0001613103-23-000149
+2024,Q2,2023-10-27,3,product,CranialAndSpinalTechnologiesDivision,Cranial & Spinal Technologies,,Neuroscience,1157,USD,millions,reported,SEC 10-Q 0001613103-23-000149
+2024,Q2,2023-10-27,3,product,NeuromodulationDivision,Neuromodulation,,Neuroscience,426,USD,millions,reported,SEC 10-Q 0001613103-23-000149
+2024,Q2,2023-10-27,3,product,SpecialtyTherapiesDivision,Specialty Therapies,,Neuroscience,705,USD,millions,reported,SEC 10-Q 0001613103-23-000149
+2024,Q2,2023-10-27,3,segment,Cardiovascular,Cardiovascular,,,2923,USD,millions,reported,SEC 10-Q 0001613103-23-000149
+2024,Q2,2023-10-27,3,segment,DiabetesGroup,Diabetes,,,610,USD,millions,reported,SEC 10-Q 0001613103-23-000149
+2024,Q2,2023-10-27,3,segment,MedicalSurgical,Medical Surgical,,,2142,USD,millions,reported,SEC 10-Q 0001613103-23-000149
+2024,Q2,2023-10-27,3,segment,NeuroscienceGroup,Neuroscience,,,2288,USD,millions,reported,SEC 10-Q 0001613103-23-000149
+2024,Q2,2023-10-27,3,segment,Other,Other,,,22,USD,millions,reported,SEC 10-Q 0001613103-23-000149
+2024,Q3,2024-01-26,3,geography,JapanAustraliaNewZealandKoreaCanadaandWesternEurope,Non-U.S. Developed Markets,,,2473,USD,millions,reported,SEC 10-Q 0001613103-24-000011
+2024,Q3,2024-01-26,3,geography,MiddleEastAfricaLatinAmericaEasternEuropeandAsiaExcludingJapanandKorea,Emerging Markets,,,1495,USD,millions,reported,SEC 10-Q 0001613103-24-000011
+2024,Q3,2024-01-26,3,geography,US,UNITED STATES,,,4120,USD,millions,reported,SEC 10-Q 0001613103-24-000011
+2024,Q3,2024-01-26,3,product,OtherNotItemized,Other (not itemized),,,657,USD,millions,derived,SEC 10-Q 0001613103-24-000011
+2024,Q3,2024-01-26,3,product,CardiacRhythmandHeartFailureDivision,Cardiac Rhythm & Heart Failure,,Cardiovascular,1470,USD,millions,reported,SEC 10-Q 0001613103-24-000011
+2024,Q3,2024-01-26,3,product,CoronaryAndPeripheralVascularDivision,Coronary & Peripheral Vascular,,Cardiovascular,616,USD,millions,reported,SEC 10-Q 0001613103-24-000011
+2024,Q3,2024-01-26,3,product,StructuralHeartAndAorticDivision,Structural Heart & Aortic,,Cardiovascular,843,USD,millions,reported,SEC 10-Q 0001613103-24-000011
+2024,Q3,2024-01-26,3,product,PatientMonitoringAndRespiratoryInterventions,Patient Monitoring & Respiratory Interventions,,Medical Surgical,532,USD,millions,reported,SEC 10-Q 0001613103-24-000011
+2024,Q3,2024-01-26,3,product,SurgicalEndoscopy,Surgical & Endoscopy,,Medical Surgical,1616,USD,millions,reported,SEC 10-Q 0001613103-24-000011
+2024,Q3,2024-01-26,3,product,CranialAndSpinalTechnologiesDivision,Cranial & Spinal Technologies,,Neuroscience,1204,USD,millions,reported,SEC 10-Q 0001613103-24-000011
+2024,Q3,2024-01-26,3,product,NeuromodulationDivision,Neuromodulation,,Neuroscience,425,USD,millions,reported,SEC 10-Q 0001613103-24-000011
+2024,Q3,2024-01-26,3,product,SpecialtyTherapiesDivision,Specialty Therapies,,Neuroscience,726,USD,millions,reported,SEC 10-Q 0001613103-24-000011
+2024,Q3,2024-01-26,3,segment,Cardiovascular,Cardiovascular,,,2929,USD,millions,reported,SEC 10-Q 0001613103-24-000011
+2024,Q3,2024-01-26,3,segment,DiabetesGroup,Diabetes,,,640,USD,millions,reported,SEC 10-Q 0001613103-24-000011
+2024,Q3,2024-01-26,3,segment,MedicalSurgical,Medical Surgical,,,2148,USD,millions,reported,SEC 10-Q 0001613103-24-000011
+2024,Q3,2024-01-26,3,segment,NeuroscienceGroup,Neuroscience,,,2355,USD,millions,reported,SEC 10-Q 0001613103-24-000011
+2024,Q3,2024-01-26,3,segment,Other,Other,,,17,USD,millions,reported,SEC 10-Q 0001613103-24-000011
+2024,Q4,2024-04-26,3,geography,JapanAustraliaNewZealandKoreaCanadaandWesternEurope,Non-U.S. Developed Markets,,,2674,USD,millions,derived,SEC 10-K 0001613103-24-000072 − 10-Q 0001613103-24-000011
+2024,Q4,2024-04-26,3,geography,MiddleEastAfricaLatinAmericaEasternEuropeandAsiaExcludingJapanandKorea,Emerging Markets,,,1572,USD,millions,derived,SEC 10-K 0001613103-24-000072 − 10-Q 0001613103-24-000011
+2024,Q4,2024-04-26,3,geography,US,UNITED STATES,,,4343,USD,millions,derived,SEC 10-K 0001613103-24-000072 − 10-Q 0001613103-24-000011
+2024,FY,2024-04-26,12,geography,JapanAustraliaNewZealandKoreaCanadaandWesternEurope,Non-U.S. Developed Markets,,,9979,USD,millions,reported,SEC 10-K 0001613103-24-000072
+2024,FY,2024-04-26,12,geography,MiddleEastAfricaLatinAmericaEasternEuropeandAsiaExcludingJapanandKorea,Emerging Markets,,,5823,USD,millions,reported,SEC 10-K 0001613103-24-000072
+2024,FY,2024-04-26,12,geography,US,UNITED STATES,,,16562,USD,millions,reported,SEC 10-K 0001613103-24-000072
+2024,FY,2024-04-26,12,product,OtherNotItemized,Other (not itemized),,,2710,USD,millions,derived,SEC 10-K 0001613103-24-000072
+2024,FY,2024-04-26,12,product,CardiacRhythmandHeartFailureDivision,Cardiac Rhythm & Heart Failure,,Cardiovascular,5995,USD,millions,reported,SEC 10-K 0001613103-24-000072
+2024,FY,2024-04-26,12,product,CoronaryAndPeripheralVascularDivision,Coronary & Peripheral Vascular,,Cardiovascular,2478,USD,millions,reported,SEC 10-K 0001613103-24-000072
+2024,FY,2024-04-26,12,product,StructuralHeartAndAorticDivision,Structural Heart & Aortic,,Cardiovascular,3358,USD,millions,reported,SEC 10-K 0001613103-24-000072
+2024,FY,2024-04-26,12,product,AcuteCareMonitoring,Acute Care & Monitoring,,Medical Surgical,1908,USD,millions,reported,SEC 10-K 0001613103-24-000072
+2024,FY,2024-04-26,12,product,SurgicalInnovationsDivision,Surgical & Endoscopy,,Medical Surgical,6508,USD,millions,reported,SEC 10-K 0001613103-24-000072
+2024,FY,2024-04-26,12,product,CranialAndSpinalTechnologiesDivision,Cranial & Spinal Technologies,,Neuroscience,4756,USD,millions,reported,SEC 10-K 0001613103-24-000072
+2024,FY,2024-04-26,12,product,NeuromodulationDivision,Neuromodulation,,Neuroscience,1746,USD,millions,reported,SEC 10-K 0001613103-24-000072
+2024,FY,2024-04-26,12,product,SpecialtyTherapiesDivision,Specialty Therapies,,Neuroscience,2905,USD,millions,reported,SEC 10-K 0001613103-24-000072
+2024,FY,2024-04-26,12,segment,AllOtherSegments,Other operating segment,,,221,USD,millions,reported,SEC 10-K 0001613103-24-000072
+2024,FY,2024-04-26,12,segment,Cardiovascular,Cardiovascular,,,11831,USD,millions,reported,SEC 10-K 0001613103-24-000072
+2024,FY,2024-04-26,12,segment,DiabetesGroup,Diabetes,,,2488,USD,millions,reported,SEC 10-K 0001613103-24-000072
+2024,FY,2024-04-26,12,segment,MedicalSurgical,Medical Surgical,,,8417,USD,millions,reported,SEC 10-K 0001613103-24-000072
+2024,FY,2024-04-26,12,segment,NeuroscienceGroup,Neuroscience,,,9406,USD,millions,reported,SEC 10-K 0001613103-24-000072
+2025,Q1,2024-07-26,3,geography,IE,Ireland,,,30,USD,millions,reported,SEC 10-Q 0001613103-24-000147
+2025,Q1,2024-07-26,3,geography,TotalOtherCountriesExcludingUnitedStatesAndIreland,Rest of world,,,3803,USD,millions,reported,SEC 10-Q 0001613103-24-000147
+2025,Q1,2024-07-26,3,geography,US,UNITED STATES,,,4082,USD,millions,reported,SEC 10-Q 0001613103-24-000147
+2025,Q1,2024-07-26,3,product,OtherNotItemized,Other (not itemized),,,595,USD,millions,derived,SEC 10-Q 0001613103-24-000147
+2025,Q1,2024-07-26,3,product,CardiacRhythmAndHeartFailureDivision,Cardiac Rhythm & Heart Failure,,Cardiovascular,1535,USD,millions,reported,SEC 10-Q 0001613103-24-000147
+2025,Q1,2024-07-26,3,product,CoronaryAndPeripheralVascularDivision,Coronary & Peripheral Vascular,,Cardiovascular,616,USD,millions,reported,SEC 10-Q 0001613103-24-000147
+2025,Q1,2024-07-26,3,product,StructuralHeartAndAorticDivision,Structural Heart & Aortic,,Cardiovascular,856,USD,millions,reported,SEC 10-Q 0001613103-24-000147
+2025,Q1,2024-07-26,3,product,AcuteCareMonitoring,Acute Care & Monitoring,,Medical Surgical,452,USD,millions,reported,SEC 10-Q 0001613103-24-000147
+2025,Q1,2024-07-26,3,product,SurgicalEndoscopy,Surgical & Endoscopy,,Medical Surgical,1544,USD,millions,reported,SEC 10-Q 0001613103-24-000147
+2025,Q1,2024-07-26,3,product,CranialAndSpinalTechnologiesDivision,Cranial & Spinal Technologies,,Neuroscience,1147,USD,millions,reported,SEC 10-Q 0001613103-24-000147
+2025,Q1,2024-07-26,3,product,NeuromodulationDivision,Neuromodulation,,Neuroscience,457,USD,millions,reported,SEC 10-Q 0001613103-24-000147
+2025,Q1,2024-07-26,3,product,SpecialtyTherapiesDivision,Specialty Therapies,,Neuroscience,713,USD,millions,reported,SEC 10-Q 0001613103-24-000147
+2025,Q2,2024-10-25,3,geography,IE,Ireland,,,29,USD,millions,reported,SEC 10-Q 0001613103-24-000165
+2025,Q2,2024-10-25,3,geography,TotalOtherCountriesExcludingUnitedStatesAndIreland,Rest of world,,,4070,USD,millions,reported,SEC 10-Q 0001613103-24-000165
+2025,Q2,2024-10-25,3,geography,US,UNITED STATES,,,4304,USD,millions,reported,SEC 10-Q 0001613103-24-000165
+2025,Q2,2024-10-25,3,product,OtherNotItemized,Other (not itemized),,,723,USD,millions,derived,SEC 10-Q 0001613103-24-000165
+2025,Q2,2024-10-25,3,product,CardiacRhythmAndHeartFailureDivision,Cardiac Rhythm & Heart Failure,,Cardiovascular,1578,USD,millions,reported,SEC 10-Q 0001613103-24-000165
+2025,Q2,2024-10-25,3,product,CoronaryAndPeripheralVascularDivision,Coronary & Peripheral Vascular,,Cardiovascular,643,USD,millions,reported,SEC 10-Q 0001613103-24-000165
+2025,Q2,2024-10-25,3,product,StructuralHeartAndAorticDivision,Structural Heart & Aortic,,Cardiovascular,881,USD,millions,reported,SEC 10-Q 0001613103-24-000165
+2025,Q2,2024-10-25,3,product,AcuteCareMonitoring,Acute Care & Monitoring,,Medical Surgical,478,USD,millions,reported,SEC 10-Q 0001613103-24-000165
+2025,Q2,2024-10-25,3,product,SurgicalEndoscopy,Surgical & Endoscopy,,Medical Surgical,1649,USD,millions,reported,SEC 10-Q 0001613103-24-000165
+2025,Q2,2024-10-25,3,product,CranialAndSpinalTechnologiesDivision,Cranial & Spinal Technologies,,Neuroscience,1234,USD,millions,reported,SEC 10-Q 0001613103-24-000165
+2025,Q2,2024-10-25,3,product,NeuromodulationDivision,Neuromodulation,,Neuroscience,480,USD,millions,reported,SEC 10-Q 0001613103-24-000165
+2025,Q2,2024-10-25,3,product,SpecialtyTherapiesDivision,Specialty Therapies,,Neuroscience,737,USD,millions,reported,SEC 10-Q 0001613103-24-000165
+2025,Q2,2024-10-25,3,segment,AllOtherSegments,All other operating segments,,,37,USD,millions,reported,SEC 10-Q 0001613103-24-000165
+2025,Q2,2024-10-25,3,segment,Cardiovascular,Cardiovascular,,,3102,USD,millions,reported,SEC 10-Q 0001613103-24-000165
+2025,Q2,2024-10-25,3,segment,DiabetesGroup,Diabetes,,,686,USD,millions,reported,SEC 10-Q 0001613103-24-000165
+2025,Q2,2024-10-25,3,segment,MedicalSurgical,Medical Surgical,,,2128,USD,millions,reported,SEC 10-Q 0001613103-24-000165
+2025,Q2,2024-10-25,3,segment,NeuroscienceGroup,Neuroscience,,,2451,USD,millions,reported,SEC 10-Q 0001613103-24-000165
+2025,Q3,2025-01-24,3,geography,IE,Ireland,,,28,USD,millions,reported,SEC 10-Q 0001613103-25-000022
+2025,Q3,2025-01-24,3,geography,TotalOtherCountriesExcludingUnitedStatesAndIreland,Rest of world,,,4027,USD,millions,reported,SEC 10-Q 0001613103-25-000022
+2025,Q3,2025-01-24,3,geography,US,UNITED STATES,,,4237,USD,millions,reported,SEC 10-Q 0001613103-25-000022
+2025,Q3,2025-01-24,3,product,OtherNotItemized,Other (not itemized),,,725,USD,millions,derived,SEC 10-Q 0001613103-25-000022
+2025,Q3,2025-01-24,3,product,CardiacRhythmAndHeartFailureDivision,Cardiac Rhythm & Heart Failure,,Cardiovascular,1545,USD,millions,reported,SEC 10-Q 0001613103-25-000022
+2025,Q3,2025-01-24,3,product,CoronaryAndPeripheralVascularDivision,Coronary & Peripheral Vascular,,Cardiovascular,618,USD,millions,reported,SEC 10-Q 0001613103-25-000022
+2025,Q3,2025-01-24,3,product,StructuralHeartAndAorticDivision,Structural Heart & Aortic,,Cardiovascular,874,USD,millions,reported,SEC 10-Q 0001613103-25-000022
+2025,Q3,2025-01-24,3,product,AcuteCareMonitoring,Acute Care & Monitoring,,Medical Surgical,476,USD,millions,reported,SEC 10-Q 0001613103-25-000022
+2025,Q3,2025-01-24,3,product,SurgicalEndoscopy,Surgical & Endoscopy,,Medical Surgical,1596,USD,millions,reported,SEC 10-Q 0001613103-25-000022
+2025,Q3,2025-01-24,3,product,CranialAndSpinalTechnologiesDivision,Cranial & Spinal Technologies,,Neuroscience,1250,USD,millions,reported,SEC 10-Q 0001613103-25-000022
+2025,Q3,2025-01-24,3,product,NeuromodulationDivision,Neuromodulation,,Neuroscience,476,USD,millions,reported,SEC 10-Q 0001613103-25-000022
+2025,Q3,2025-01-24,3,product,SpecialtyTherapiesDivision,Specialty Therapies,,Neuroscience,732,USD,millions,reported,SEC 10-Q 0001613103-25-000022
+2025,Q3,2025-01-24,3,segment,AllOtherSegments,Other operating segment,,,32,USD,millions,reported,SEC 10-Q 0001613103-25-000022
+2025,Q3,2025-01-24,3,segment,Cardiovascular,Cardiovascular,,,3037,USD,millions,reported,SEC 10-Q 0001613103-25-000022
+2025,Q3,2025-01-24,3,segment,DiabetesGroup,Diabetes,,,694,USD,millions,reported,SEC 10-Q 0001613103-25-000022
+2025,Q3,2025-01-24,3,segment,MedicalSurgical,Medical Surgical,,,2072,USD,millions,reported,SEC 10-Q 0001613103-25-000022
+2025,Q3,2025-01-24,3,segment,NeuroscienceGroup,Neuroscience,,,2458,USD,millions,reported,SEC 10-Q 0001613103-25-000022
+2025,FY,2025-04-25,12,geography,IE,Ireland,,,116,USD,millions,reported,SEC 10-K 0001613103-25-000091
+2025,FY,2025-04-25,12,geography,TotalOtherCountriesExcludingUnitedStatesandIreland,Rest of world,,,16250,USD,millions,reported,SEC 10-K 0001613103-25-000091
+2025,FY,2025-04-25,12,geography,US,UNITED STATES,,,17171,USD,millions,reported,SEC 10-K 0001613103-25-000091
+2025,FY,2025-04-25,12,product,OtherNotItemized,Other (not itemized),,,2804,USD,millions,derived,SEC 10-K 0001613103-25-000091
+2025,FY,2025-04-25,12,product,CardiacRhythmandHeartFailureDivision,Cardiac Rhythm & Heart Failure,,Cardiovascular,6392,USD,millions,reported,SEC 10-K 0001613103-25-000091
+2025,FY,2025-04-25,12,product,CoronaryAndPeripheralVascularDivision,Coronary & Peripheral Vascular,,Cardiovascular,2535,USD,millions,reported,SEC 10-K 0001613103-25-000091
+2025,FY,2025-04-25,12,product,StructuralHeartAndAorticDivision,Structural Heart & Aortic,,Cardiovascular,3554,USD,millions,reported,SEC 10-K 0001613103-25-000091
+2025,FY,2025-04-25,12,product,AcuteCareMonitoring,Acute Care & Monitoring,,Medical Surgical,1909,USD,millions,reported,SEC 10-K 0001613103-25-000091
+2025,FY,2025-04-25,12,product,SurgicalInnovationsDivision,Surgical & Endoscopy,,Medical Surgical,6498,USD,millions,reported,SEC 10-K 0001613103-25-000091
+2025,FY,2025-04-25,12,product,CranialAndSpinalTechnologiesDivision,Cranial & Spinal Technologies,,Neuroscience,4973,USD,millions,reported,SEC 10-K 0001613103-25-000091
+2025,FY,2025-04-25,12,product,NeuromodulationDivision,Neuromodulation,,Neuroscience,1932,USD,millions,reported,SEC 10-K 0001613103-25-000091
+2025,FY,2025-04-25,12,product,SpecialtyTherapiesDivision,Specialty Therapies,,Neuroscience,2940,USD,millions,reported,SEC 10-K 0001613103-25-000091
+2025,FY,2025-04-25,12,segment,Cardiovascular,Cardiovascular,,,12481,USD,millions,reported,SEC 10-K 0001613103-25-000091
+2025,FY,2025-04-25,12,segment,DiabetesGroup,Diabetes,,,2755,USD,millions,reported,SEC 10-K 0001613103-25-000091
+2025,FY,2025-04-25,12,segment,MedicalSurgical,Medical Surgical,,,8407,USD,millions,reported,SEC 10-K 0001613103-25-000091
+2025,FY,2025-04-25,12,segment,NeuroscienceGroup,Neuroscience,,,9846,USD,millions,reported,SEC 10-K 0001613103-25-000091
+2025,FY,2025-04-25,12,segment,OtherNotItemized,Other (not itemized),,,48,USD,millions,derived,SEC 10-K 0001613103-25-000091
+2026,Q1,2025-07-25,3,geography,IE,Ireland,,,33,USD,millions,reported,SEC 10-Q 0001613103-25-000161
+2026,Q1,2025-07-25,3,geography,TotalOtherCountriesExcludingUnitedStatesandIreland,Rest of world,,,4321,USD,millions,reported,SEC 10-Q 0001613103-25-000161
+2026,Q1,2025-07-25,3,geography,US,UNITED STATES,,,4224,USD,millions,reported,SEC 10-Q 0001613103-25-000161
+2026,Q1,2025-07-25,3,product,OtherNotItemized,Other (not itemized),,,793,USD,millions,derived,SEC 10-Q 0001613103-25-000161
+2026,Q1,2025-07-25,3,product,CardiacRhythmAndHeartFailureDivision,Cardiac Rhythm & Heart Failure,,Cardiovascular,1712,USD,millions,reported,SEC 10-Q 0001613103-25-000161
+2026,Q1,2025-07-25,3,product,CoronaryAndPeripheralVascularDivision,Coronary & Peripheral Vascular,,Cardiovascular,643,USD,millions,reported,SEC 10-Q 0001613103-25-000161
+2026,Q1,2025-07-25,3,product,StructuralHeartAndAorticDivision,Structural Heart & Aortic,,Cardiovascular,930,USD,millions,reported,SEC 10-Q 0001613103-25-000161
+2026,Q1,2025-07-25,3,product,AcuteCareMonitoring,Acute Care & Monitoring,,Medical Surgical,471,USD,millions,reported,SEC 10-Q 0001613103-25-000161
+2026,Q1,2025-07-25,3,product,SurgicalEndoscopy,Surgical & Endoscopy,,Medical Surgical,1612,USD,millions,reported,SEC 10-Q 0001613103-25-000161
+2026,Q1,2025-07-25,3,product,CranialAndSpinalTechnologiesDivision,Cranial & Spinal Technologies,,Neuroscience,1211,USD,millions,reported,SEC 10-Q 0001613103-25-000161
+2026,Q1,2025-07-25,3,product,NeuromodulationDivision,Neuromodulation,,Neuroscience,504,USD,millions,reported,SEC 10-Q 0001613103-25-000161
+2026,Q1,2025-07-25,3,product,SpecialtyTherapiesDivision,Specialty Therapies,,Neuroscience,702,USD,millions,reported,SEC 10-Q 0001613103-25-000161
+2026,Q1,2025-07-25,3,segment,AllOtherSegments,Other operating segment,,,33,USD,millions,reported,SEC 10-Q 0001613103-25-000161
+2026,Q1,2025-07-25,3,segment,Cardiovascular,Cardiovascular,,,3285,USD,millions,reported,SEC 10-Q 0001613103-25-000161
+2026,Q1,2025-07-25,3,segment,DiabetesGroup,Diabetes,,,721,USD,millions,reported,SEC 10-Q 0001613103-25-000161
+2026,Q1,2025-07-25,3,segment,MedicalSurgical,Medical Surgical,,,2083,USD,millions,reported,SEC 10-Q 0001613103-25-000161
+2026,Q1,2025-07-25,3,segment,NeuroscienceGroup,Neuroscience,,,2416,USD,millions,reported,SEC 10-Q 0001613103-25-000161
+2026,Q1,2025-07-25,3,segment,OtherNotItemized,Other (not itemized),,,40,USD,millions,derived,SEC 10-Q 0001613103-25-000161
+2026,Q2,2025-10-24,3,geography,IE,Ireland,,,35,USD,millions,reported,SEC 10-Q 0001628280-25-053988
+2026,Q2,2025-10-24,3,geography,TotalOtherCountriesExcludingUnitedStatesandIreland,Rest of world,,,4410,USD,millions,reported,SEC 10-Q 0001628280-25-053988
+2026,Q2,2025-10-24,3,geography,US,UNITED STATES,,,4516,USD,millions,reported,SEC 10-Q 0001628280-25-053988
+2026,Q2,2025-10-24,3,product,OtherNotItemized,Other (not itemized),,,790,USD,millions,derived,SEC 10-Q 0001628280-25-053988
+2026,Q2,2025-10-24,3,product,CardiacRhythmAndHeartFailureDivision,Cardiac Rhythm & Heart Failure,,Cardiovascular,1825,USD,millions,reported,SEC 10-Q 0001628280-25-053988
+2026,Q2,2025-10-24,3,product,CoronaryAndPeripheralVascularDivision,Coronary & Peripheral Vascular,,Cardiovascular,655,USD,millions,reported,SEC 10-Q 0001628280-25-053988
+2026,Q2,2025-10-24,3,product,StructuralHeartAndAorticDivision,Structural Heart & Aortic,,Cardiovascular,956,USD,millions,reported,SEC 10-Q 0001628280-25-053988
+2026,Q2,2025-10-24,3,product,AcuteCareMonitoring,Acute Care & Monitoring,,Medical Surgical,493,USD,millions,reported,SEC 10-Q 0001628280-25-053988
+2026,Q2,2025-10-24,3,product,SurgicalEndoscopy,Surgical & Endoscopy,,Medical Surgical,1679,USD,millions,reported,SEC 10-Q 0001628280-25-053988
+2026,Q2,2025-10-24,3,product,CranialAndSpinalTechnologiesDivision,Cranial & Spinal Technologies,,Neuroscience,1299,USD,millions,reported,SEC 10-Q 0001628280-25-053988
+2026,Q2,2025-10-24,3,product,NeuromodulationDivision,Neuromodulation,,Neuroscience,520,USD,millions,reported,SEC 10-Q 0001628280-25-053988
+2026,Q2,2025-10-24,3,product,SpecialtyTherapiesDivision,Specialty Therapies,,Neuroscience,744,USD,millions,reported,SEC 10-Q 0001628280-25-053988
+2026,Q2,2025-10-24,3,segment,AllOtherSegments,Other operating segment,,,35,USD,millions,reported,SEC 10-Q 0001628280-25-053988
+2026,Q2,2025-10-24,3,segment,Cardiovascular,Cardiovascular,,,3436,USD,millions,reported,SEC 10-Q 0001628280-25-053988
+2026,Q2,2025-10-24,3,segment,DiabetesGroup,Diabetes,,,757,USD,millions,reported,SEC 10-Q 0001628280-25-053988
+2026,Q2,2025-10-24,3,segment,MedicalSurgical,Medical Surgical,,,2171,USD,millions,reported,SEC 10-Q 0001628280-25-053988
+2026,Q2,2025-10-24,3,segment,NeuroscienceGroup,Neuroscience,,,2562,USD,millions,reported,SEC 10-Q 0001628280-25-053988
+2026,Q3,2026-01-23,3,geography,IE,Ireland,,,36,USD,millions,reported,SEC 10-Q 0001628280-26-011107
+2026,Q3,2026-01-23,3,geography,TotalOtherCountriesExcludingUnitedStatesandIreland,Rest of world,,,4488,USD,millions,reported,SEC 10-Q 0001628280-26-011107
+2026,Q3,2026-01-23,3,geography,US,UNITED STATES,,,4493,USD,millions,reported,SEC 10-Q 0001628280-26-011107
+2026,Q3,2026-01-23,3,product,OtherNotItemized,Other (not itemized),,,828,USD,millions,derived,SEC 10-Q 0001628280-26-011107
+2026,Q3,2026-01-23,3,product,CardiacRhythmAndHeartFailureDivision,Cardiac Rhythm & Heart Failure,,Cardiovascular,1856,USD,millions,reported,SEC 10-Q 0001628280-26-011107
+2026,Q3,2026-01-23,3,product,CoronaryAndPeripheralVascularDivision,Coronary & Peripheral Vascular,,Cardiovascular,672,USD,millions,reported,SEC 10-Q 0001628280-26-011107
+2026,Q3,2026-01-23,3,product,StructuralHeartAndAorticDivision,Structural Heart & Aortic,,Cardiovascular,929,USD,millions,reported,SEC 10-Q 0001628280-26-011107
+2026,Q3,2026-01-23,3,product,AcuteCareMonitoring,Acute Care & Monitoring,,Medical Surgical,519,USD,millions,reported,SEC 10-Q 0001628280-26-011107
+2026,Q3,2026-01-23,3,product,SurgicalEndoscopy,Surgical & Endoscopy,,Medical Surgical,1654,USD,millions,reported,SEC 10-Q 0001628280-26-011107
+2026,Q3,2026-01-23,3,product,CranialAndSpinalTechnologiesDivision,Cranial & Spinal Technologies,,Neuroscience,1310,USD,millions,reported,SEC 10-Q 0001628280-26-011107
+2026,Q3,2026-01-23,3,product,NeuromodulationDivision,Neuromodulation,,Neuroscience,503,USD,millions,reported,SEC 10-Q 0001628280-26-011107
+2026,Q3,2026-01-23,3,product,SpecialtyTherapiesDivision,Specialty Therapies,,Neuroscience,746,USD,millions,reported,SEC 10-Q 0001628280-26-011107
+2026,Q3,2026-01-23,3,segment,AllOtherSegments,Other operating segment,,,32,USD,millions,reported,SEC 10-Q 0001628280-26-011107
+2026,Q3,2026-01-23,3,segment,Cardiovascular,Cardiovascular,,,3457,USD,millions,reported,SEC 10-Q 0001628280-26-011107
+2026,Q3,2026-01-23,3,segment,DiabetesGroup,Diabetes,,,796,USD,millions,reported,SEC 10-Q 0001628280-26-011107
+2026,Q3,2026-01-23,3,segment,MedicalSurgical,Medical Surgical,,,2173,USD,millions,reported,SEC 10-Q 0001628280-26-011107
+2026,Q3,2026-01-23,3,segment,NeuroscienceGroup,Neuroscience,,,2558,USD,millions,reported,SEC 10-Q 0001628280-26-011107
+2026,Q4,2026-04-24,3,geography,IE,Ireland,,,39,USD,millions,derived,SEC 10-K 0001628280-26-044354 − 10-Q 0001628280-26-011107
+2026,Q4,2026-04-24,3,geography,TotalOtherCountriesExcludingUnitedStatesandIreland,Rest of world,,,4900,USD,millions,derived,SEC 10-K 0001628280-26-044354 − 10-Q 0001628280-26-011107
+2026,Q4,2026-04-24,3,geography,US,United States,,,4869,USD,millions,derived,SEC 10-K 0001628280-26-044354 − 10-Q 0001628280-26-011107
+2026,Q4,2026-04-24,3,product,OtherNotItemized,Other (not itemized),,,872,USD,millions,derived,SEC 10-K 0001628280-26-044354 − 10-Q 0001628280-26-011107
+2026,Q4,2026-04-24,3,product,CardiacRhythmAndHeartFailureDivision,Cardiac Rhythm & Heart Failure,,Cardiovascular,2110,USD,millions,derived,SEC 10-K 0001628280-26-044354 − 10-Q 0001628280-26-011107
+2026,Q4,2026-04-24,3,product,CoronaryAndPeripheralVascularDivision,Coronary & Peripheral Vascular,,Cardiovascular,685,USD,millions,derived,SEC 10-K 0001628280-26-044354 − 10-Q 0001628280-26-011107
+2026,Q4,2026-04-24,3,product,StructuralHeartAndAorticDivision,Structural Heart & Aortic,,Cardiovascular,1003,USD,millions,derived,SEC 10-K 0001628280-26-044354 − 10-Q 0001628280-26-011107
+2026,Q4,2026-04-24,3,product,AcuteCareMonitoring,Acute Care & Monitoring,,Medical Surgical,568,USD,millions,derived,SEC 10-K 0001628280-26-044354 − 10-Q 0001628280-26-011107
+2026,Q4,2026-04-24,3,product,SurgicalEndoscopy,Surgical & Endoscopy,,Medical Surgical,1819,USD,millions,derived,SEC 10-K 0001628280-26-044354 − 10-Q 0001628280-26-011107
+2026,Q4,2026-04-24,3,product,CranialAndSpinalTechnologiesDivision,Cranial & Spinal Technologies,,Neuroscience,1403,USD,millions,derived,SEC 10-K 0001628280-26-044354 − 10-Q 0001628280-26-011107
+2026,Q4,2026-04-24,3,product,NeuromodulationDivision,Neuromodulation,,Neuroscience,541,USD,millions,derived,SEC 10-K 0001628280-26-044354 − 10-Q 0001628280-26-011107
+2026,Q4,2026-04-24,3,product,SpecialtyTherapiesDivision,Specialty Therapies,,Neuroscience,806,USD,millions,derived,SEC 10-K 0001628280-26-044354 − 10-Q 0001628280-26-011107
+2026,FY,2026-04-24,12,geography,IE,Ireland,,,143,USD,millions,reported,SEC 10-K 0001628280-26-044354
+2026,FY,2026-04-24,12,geography,TotalOtherCountriesExcludingUnitedStatesandIreland,Rest of world,,,18118,USD,millions,reported,SEC 10-K 0001628280-26-044354
+2026,FY,2026-04-24,12,geography,US,United States,,,18103,USD,millions,reported,SEC 10-K 0001628280-26-044354
+2026,FY,2026-04-24,12,product,OtherNotItemized,Other (not itemized),,,3285,USD,millions,derived,SEC 10-K 0001628280-26-044354
+2026,FY,2026-04-24,12,product,CardiacRhythmAndHeartFailureDivision,Cardiac Rhythm & Heart Failure,,Cardiovascular,7504,USD,millions,reported,SEC 10-K 0001628280-26-044354
+2026,FY,2026-04-24,12,product,CoronaryAndPeripheralVascularDivision,Coronary & Peripheral Vascular,,Cardiovascular,2656,USD,millions,reported,SEC 10-K 0001628280-26-044354
+2026,FY,2026-04-24,12,product,StructuralHeartAndAorticDivision,Structural Heart & Aortic,,Cardiovascular,3817,USD,millions,reported,SEC 10-K 0001628280-26-044354
+2026,FY,2026-04-24,12,product,AcuteCareMonitoring,Acute Care & Monitoring,,Medical Surgical,2051,USD,millions,reported,SEC 10-K 0001628280-26-044354
+2026,FY,2026-04-24,12,product,SurgicalEndoscopy,Surgical & Endoscopy,,Medical Surgical,6764,USD,millions,reported,SEC 10-K 0001628280-26-044354
+2026,FY,2026-04-24,12,product,CranialAndSpinalTechnologiesDivision,Cranial & Spinal Technologies,,Neuroscience,5222,USD,millions,reported,SEC 10-K 0001628280-26-044354
+2026,FY,2026-04-24,12,product,NeuromodulationDivision,Neuromodulation,,Neuroscience,2068,USD,millions,reported,SEC 10-K 0001628280-26-044354
+2026,FY,2026-04-24,12,product,SpecialtyTherapiesDivision,Specialty Therapies,,Neuroscience,2997,USD,millions,reported,SEC 10-K 0001628280-26-044354
+2027,Q1,2026-07-31,3,geography,IE,Ireland,,,40,USD,millions,reported,SEC 10-Q 0001628280-26-060473
+2027,Q1,2026-07-31,3,geography,TotalOtherCountriesExcludingUnitedStatesandIreland,Rest of world,,,4810,USD,millions,reported,SEC 10-Q 0001628280-26-060473
+2027,Q1,2026-07-31,3,geography,US,UNITED STATES,,,4906,USD,millions,reported,SEC 10-Q 0001628280-26-060473
+2027,Q1,2026-07-31,3,product,OtherNotItemized,Other (not itemized),,,872,USD,millions,derived,SEC 10-Q 0001628280-26-060473
+2027,Q1,2026-07-31,3,product,CardioVascularSurgeryDivision,CardioVascular Surgery,,Cardiovascular,477,USD,millions,reported,SEC 10-Q 0001628280-26-060473
+2027,Q1,2026-07-31,3,product,ElectrophysiologyTherapiesDivision,Electrophysiology Therapies,,Cardiovascular,2218,USD,millions,reported,SEC 10-Q 0001628280-26-060473
+2027,Q1,2026-07-31,3,product,InterventionalCardiologyTherapiesDivision,Interventional Cardiology Therapies,,Cardiovascular,894,USD,millions,reported,SEC 10-Q 0001628280-26-060473
+2027,Q1,2026-07-31,3,product,PeripheralVascularHealthDivision,Peripheral Vascular Health,,Cardiovascular,338,USD,millions,reported,SEC 10-Q 0001628280-26-060473
+2027,Q1,2026-07-31,3,product,AcuteCareMonitoring,Acute Care & Monitoring,,Medical Surgical,539,USD,millions,reported,SEC 10-Q 0001628280-26-060473
+2027,Q1,2026-07-31,3,product,SurgicalEndoscopy,Surgical & Endoscopy,,Medical Surgical,1740,USD,millions,reported,SEC 10-Q 0001628280-26-060473
+2027,Q1,2026-07-31,3,product,CranialAndSpinalTechnologiesDivision,Cranial & Spinal Technologies,,Neuroscience,1365,USD,millions,reported,SEC 10-Q 0001628280-26-060473
+2027,Q1,2026-07-31,3,product,NeuromodulationDivision,Neuromodulation,,Neuroscience,539,USD,millions,reported,SEC 10-Q 0001628280-26-060473
+2027,Q1,2026-07-31,3,product,SpecialtyTherapiesDivision,Specialty Therapies,,Neuroscience,774,USD,millions,reported,SEC 10-Q 0001628280-26-060473
+2027,Q1,2026-07-31,3,segment,Cardiovascular,Cardiovascular,,,3927,USD,millions,reported,SEC 10-Q 0001628280-26-060473
+2027,Q1,2026-07-31,3,segment,MedicalSurgical,Medical Surgical,,,2279,USD,millions,reported,SEC 10-Q 0001628280-26-060473
+2027,Q1,2026-07-31,3,segment,NeuroscienceGroup,Neuroscience,,,2678,USD,millions,reported,SEC 10-Q 0001628280-26-060473
+2027,Q1,2026-07-31,3,segment,OtherOperatingSegmentsIncludingDiabetes,"Other Operating Segments, Including Diabetes",,,872,USD,millions,reported,SEC 10-Q 0001628280-26-060473

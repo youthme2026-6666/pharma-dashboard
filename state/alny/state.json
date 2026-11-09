@@ -1,0 +1,21 @@
+{
+  "cik": "0001178670",
+  "code_hash": "c3eb527647b9",
+  "fiscal_year_end": "1231",
+  "form_type": "10-K",
+  "identity_checked": "2026-11-09",
+  "last_check": "2026-11-09",
+  "name": "ALNYLAM PHARMACEUTICALS, INC.",
+  "periods": 28,
+  "product_groups": {
+    "Amvuttra": "Rare Disease",
+    "Collaborations": "Other",
+    "GIVLAARI": "Rare Disease",
+    "ONPATTRO": "Rare Disease",
+    "OXLUMO": "Rare Disease",
+    "Royalty": "Other"
+  },
+  "segment_exclude": {},
+  "sic": "Pharmaceutical Preparations",
+  "ticker": "ALNY"
+}

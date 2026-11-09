@@ -1,0 +1,16 @@
+{
+  "currency": "USD",
+  "events": 0,
+  "id": "crsp",
+  "latest_period": "2026 Q3",
+  "latest_period_end": "2026-09-30",
+  "name_en": "CRISPR Therapeutics",
+  "name_zh": "CRISPR Therapeutics",
+  "rows": {
+    "balance": 23,
+    "cashflow": 28,
+    "income": 28,
+    "segments": 56
+  },
+  "source": "sec"
+}

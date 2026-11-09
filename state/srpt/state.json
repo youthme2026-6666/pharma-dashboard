@@ -1,0 +1,20 @@
+{
+  "cik": "0000873303",
+  "code_hash": "c3eb527647b9",
+  "fiscal_year_end": "1231",
+  "form_type": "10-K",
+  "identity_checked": "2026-11-09",
+  "last_check": "2026-11-09",
+  "name": "Sarepta Therapeutics, Inc.",
+  "periods": 28,
+  "product_groups": {
+    "AMONDYSFourtyFive": "Rare Disease",
+    "EXONDYSFiftyOne": "Rare Disease",
+    "Elevidys": "Rare Disease",
+    "PmoProducts": "Rare Disease",
+    "VYONDYSFiftyThree": "Rare Disease"
+  },
+  "segment_exclude": {},
+  "sic": "Pharmaceutical Preparations",
+  "ticker": "SRPT"
+}

@@ -1,0 +1,342 @@
+fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,value,currency,unit,basis,source
+2021,Q1,2021-04-02,3,geography,Highgrowthmarkets,High-growth markets,,,2095,USD,millions,reported,SEC 10-Q 0000313616-21-000059
+2021,Q1,2021-04-02,3,geography,NorthAmerica,North America,,,2727,USD,millions,reported,SEC 10-Q 0000313616-21-000059
+2021,Q1,2021-04-02,3,geography,Otherdevelopedmarkets,Other developed markets,,,372,USD,millions,reported,SEC 10-Q 0000313616-21-000059
+2021,Q1,2021-04-02,3,geography,WesternEurope,Western Europe,,,1664,USD,millions,reported,SEC 10-Q 0000313616-21-000059
+2021,Q1,2021-04-02,3,product,Diagnostics/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,,Diagnostics,276,USD,millions,reported,SEC 10-Q 0000313616-21-000059
+2021,Q1,2021-04-02,3,product,Diagnostics/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,,Diagnostics,1902,USD,millions,reported,SEC 10-Q 0000313616-21-000059
+2021,Q1,2021-04-02,3,product,EnvironmentalAppliedSolutions/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,,Environmental & Applied Solutions,486,USD,millions,reported,SEC 10-Q 0000313616-21-000059
+2021,Q1,2021-04-02,3,product,EnvironmentalAppliedSolutions/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,,Environmental & Applied Solutions,648,USD,millions,reported,SEC 10-Q 0000313616-21-000059
+2021,Q1,2021-04-02,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,,Life Sciences,1017,USD,millions,reported,SEC 10-Q 0000313616-21-000059
+2021,Q1,2021-04-02,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,,Life Sciences,2529,USD,millions,reported,SEC 10-Q 0000313616-21-000059
+2021,Q1,2021-04-02,3,segment,Diagnostics,Diagnostics,,,2178,USD,millions,reported,SEC 10-Q 0000313616-21-000059
+2021,Q1,2021-04-02,3,segment,EnvironmentalAppliedSolutions,Environmental & Applied Solutions,,,1134,USD,millions,reported,SEC 10-Q 0000313616-21-000059
+2021,Q1,2021-04-02,3,segment,LifeSciences,Life Sciences,,,3546,USD,millions,reported,SEC 10-Q 0000313616-21-000059
+2021,Q2,2021-07-02,3,geography,Highgrowthmarkets,High-growth markets,,,2282,USD,millions,reported,SEC 10-Q 0000313616-21-000098
+2021,Q2,2021-07-02,3,geography,NorthAmerica,North America,,,2816,USD,millions,reported,SEC 10-Q 0000313616-21-000098
+2021,Q2,2021-07-02,3,geography,Otherdevelopedmarkets,Other developed markets,,,350,USD,millions,reported,SEC 10-Q 0000313616-21-000098
+2021,Q2,2021-07-02,3,geography,WesternEurope,Western Europe,,,1770,USD,millions,reported,SEC 10-Q 0000313616-21-000098
+2021,Q2,2021-07-02,3,product,Diagnostics/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,,Diagnostics,314,USD,millions,reported,SEC 10-Q 0000313616-21-000098
+2021,Q2,2021-07-02,3,product,Diagnostics/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,,Diagnostics,2022,USD,millions,reported,SEC 10-Q 0000313616-21-000098
+2021,Q2,2021-07-02,3,product,EnvironmentalAppliedSolutions/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,,Environmental & Applied Solutions,490,USD,millions,reported,SEC 10-Q 0000313616-21-000098
+2021,Q2,2021-07-02,3,product,EnvironmentalAppliedSolutions/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,,Environmental & Applied Solutions,658,USD,millions,reported,SEC 10-Q 0000313616-21-000098
+2021,Q2,2021-07-02,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,,Life Sciences,1094,USD,millions,reported,SEC 10-Q 0000313616-21-000098
+2021,Q2,2021-07-02,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,,Life Sciences,2640,USD,millions,reported,SEC 10-Q 0000313616-21-000098
+2021,Q2,2021-07-02,3,segment,Diagnostics,Diagnostics,,,2336,USD,millions,reported,SEC 10-Q 0000313616-21-000098
+2021,Q2,2021-07-02,3,segment,EnvironmentalAppliedSolutions,Environmental & Applied Solutions,,,1148,USD,millions,reported,SEC 10-Q 0000313616-21-000098
+2021,Q2,2021-07-02,3,segment,LifeSciences,Life Sciences,,,3734,USD,millions,reported,SEC 10-Q 0000313616-21-000098
+2021,Q3,2021-10-01,3,geography,Highgrowthmarkets,High-growth markets,,,2318,USD,millions,reported,SEC 10-Q 0000313616-21-000110
+2021,Q3,2021-10-01,3,geography,NorthAmerica,North America,,,2886,USD,millions,reported,SEC 10-Q 0000313616-21-000110
+2021,Q3,2021-10-01,3,geography,Otherdevelopedmarkets,Other developed markets,,,356,USD,millions,reported,SEC 10-Q 0000313616-21-000110
+2021,Q3,2021-10-01,3,geography,WesternEurope,Western Europe,,,1669,USD,millions,reported,SEC 10-Q 0000313616-21-000110
+2021,Q3,2021-10-01,3,product,Diagnostics/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,,Diagnostics,299,USD,millions,reported,SEC 10-Q 0000313616-21-000110
+2021,Q3,2021-10-01,3,product,Diagnostics/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,,Diagnostics,2150,USD,millions,reported,SEC 10-Q 0000313616-21-000110
+2021,Q3,2021-10-01,3,product,EnvironmentalAppliedSolutions/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,,Environmental & Applied Solutions,470,USD,millions,reported,SEC 10-Q 0000313616-21-000110
+2021,Q3,2021-10-01,3,product,EnvironmentalAppliedSolutions/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,,Environmental & Applied Solutions,678,USD,millions,reported,SEC 10-Q 0000313616-21-000110
+2021,Q3,2021-10-01,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,,Life Sciences,1041,USD,millions,reported,SEC 10-Q 0000313616-21-000110
+2021,Q3,2021-10-01,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,,Life Sciences,2591,USD,millions,reported,SEC 10-Q 0000313616-21-000110
+2021,Q3,2021-10-01,3,segment,Diagnostics,Diagnostics,,,2449,USD,millions,reported,SEC 10-Q 0000313616-21-000110
+2021,Q3,2021-10-01,3,segment,EnvironmentalAppliedSolutions,Environmental & Applied Solutions,,,1148,USD,millions,reported,SEC 10-Q 0000313616-21-000110
+2021,Q3,2021-10-01,3,segment,LifeSciences,Life Sciences,,,3632,USD,millions,reported,SEC 10-Q 0000313616-21-000110
+2021,Q4,2021-12-31,3,geography,Highgrowthmarkets,High-growth markets,,,2489,USD,millions,derived,SEC 10-K 0000313616-22-000061 − 10-Q 0000313616-21-000110
+2021,Q4,2021-12-31,3,geography,NorthAmerica,North America,,,3400,USD,millions,derived,SEC 10-K 0000313616-22-000061 − 10-Q 0000313616-21-000110
+2021,Q4,2021-12-31,3,geography,Otherdevelopedmarkets,Other developed markets,,,397,USD,millions,derived,SEC 10-K 0000313616-22-000061 − 10-Q 0000313616-21-000110
+2021,Q4,2021-12-31,3,geography,WesternEurope,Western Europe,,,1862,USD,millions,derived,SEC 10-K 0000313616-22-000061 − 10-Q 0000313616-21-000110
+2021,Q4,2021-12-31,3,product,Diagnostics/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring,,Diagnostics,348,USD,millions,derived,SEC 10-K 0000313616-22-000061 − 10-Q 0000313616-21-000110
+2021,Q4,2021-12-31,3,product,Diagnostics/RevenuefromContractwithCustomerMeasurementRecurring,Recurring,,Diagnostics,2533,USD,millions,derived,SEC 10-K 0000313616-22-000061 − 10-Q 0000313616-21-000110
+2021,Q4,2021-12-31,3,product,EnvironmentalAppliedSolutions/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring,,Environmental & Applied Solutions,545,USD,millions,derived,SEC 10-K 0000313616-22-000061 − 10-Q 0000313616-21-000110
+2021,Q4,2021-12-31,3,product,EnvironmentalAppliedSolutions/RevenuefromContractwithCustomerMeasurementRecurring,Recurring,,Environmental & Applied Solutions,676,USD,millions,derived,SEC 10-K 0000313616-22-000061 − 10-Q 0000313616-21-000110
+2021,Q4,2021-12-31,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring,,Life Sciences,1278,USD,millions,derived,SEC 10-K 0000313616-22-000061 − 10-Q 0000313616-21-000110
+2021,Q4,2021-12-31,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementRecurring,Recurring,,Life Sciences,2768,USD,millions,derived,SEC 10-K 0000313616-22-000061 − 10-Q 0000313616-21-000110
+2021,Q4,2021-12-31,3,segment,Diagnostics,Diagnostics,,,2881,USD,millions,derived,SEC 10-K 0000313616-22-000061 − 10-Q 0000313616-21-000110
+2021,Q4,2021-12-31,3,segment,EnvironmentalAppliedSolutions,Environmental & Applied Solutions,,,1221,USD,millions,derived,SEC 10-K 0000313616-22-000061 − 10-Q 0000313616-21-000110
+2021,Q4,2021-12-31,3,segment,LifeSciences,Life Sciences,,,4046,USD,millions,derived,SEC 10-K 0000313616-22-000061 − 10-Q 0000313616-21-000110
+2021,FY,2021-12-31,12,geography,Highgrowthmarkets,High-growth markets,,,9184,USD,millions,reported,SEC 10-K 0000313616-22-000061
+2021,FY,2021-12-31,12,geography,NorthAmerica,North America,,,11829,USD,millions,reported,SEC 10-K 0000313616-22-000061
+2021,FY,2021-12-31,12,geography,Otherdevelopedmarkets,Other developed markets,,,1475,USD,millions,reported,SEC 10-K 0000313616-22-000061
+2021,FY,2021-12-31,12,geography,WesternEurope,Western Europe,,,6965,USD,millions,reported,SEC 10-K 0000313616-22-000061
+2021,FY,2021-12-31,12,product,Diagnostics/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring,,Diagnostics,1237,USD,millions,reported,SEC 10-K 0000313616-22-000061
+2021,FY,2021-12-31,12,product,Diagnostics/RevenuefromContractwithCustomerMeasurementRecurring,Recurring,,Diagnostics,8607,USD,millions,reported,SEC 10-K 0000313616-22-000061
+2021,FY,2021-12-31,12,product,EnvironmentalAppliedSolutions/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring,,Environmental & Applied Solutions,1991,USD,millions,reported,SEC 10-K 0000313616-22-000061
+2021,FY,2021-12-31,12,product,EnvironmentalAppliedSolutions/RevenuefromContractwithCustomerMeasurementRecurring,Recurring,,Environmental & Applied Solutions,2660,USD,millions,reported,SEC 10-K 0000313616-22-000061
+2021,FY,2021-12-31,12,product,LifeSciences/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring,,Life Sciences,4430,USD,millions,reported,SEC 10-K 0000313616-22-000061
+2021,FY,2021-12-31,12,product,LifeSciences/RevenuefromContractwithCustomerMeasurementRecurring,Recurring,,Life Sciences,10528,USD,millions,reported,SEC 10-K 0000313616-22-000061
+2021,FY,2021-12-31,12,segment,Diagnostics,Diagnostics,,,9844,USD,millions,reported,SEC 10-K 0000313616-22-000061
+2021,FY,2021-12-31,12,segment,EnvironmentalAppliedSolutions,Environmental & Applied Solutions,,,4651,USD,millions,reported,SEC 10-K 0000313616-22-000061
+2021,FY,2021-12-31,12,segment,LifeSciences,Life Sciences,,,14958,USD,millions,reported,SEC 10-K 0000313616-22-000061
+2022,Q1,2022-04-01,3,geography,Highgrowthmarkets,High-growth markets,,,2128,USD,millions,reported,SEC 10-Q 0000313616-22-000107
+2022,Q1,2022-04-01,3,geography,NorthAmerica,North America,,,3354,USD,millions,reported,SEC 10-Q 0000313616-22-000107
+2022,Q1,2022-04-01,3,geography,Otherdevelopedmarkets,Other developed markets,,,378,USD,millions,reported,SEC 10-Q 0000313616-22-000107
+2022,Q1,2022-04-01,3,geography,WesternEurope,Western Europe,,,1828,USD,millions,reported,SEC 10-Q 0000313616-22-000107
+2022,Q1,2022-04-01,3,product,Diagnostics/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,,Diagnostics,274,USD,millions,reported,SEC 10-Q 0000313616-22-000107
+2022,Q1,2022-04-01,3,product,Diagnostics/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,,Diagnostics,2370,USD,millions,reported,SEC 10-Q 0000313616-22-000107
+2022,Q1,2022-04-01,3,product,EnvironmentalAppliedSolutions/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,,Environmental & Applied Solutions,472,USD,millions,reported,SEC 10-Q 0000313616-22-000107
+2022,Q1,2022-04-01,3,product,EnvironmentalAppliedSolutions/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,,Environmental & Applied Solutions,690,USD,millions,reported,SEC 10-Q 0000313616-22-000107
+2022,Q1,2022-04-01,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,,Life Sciences,1044,USD,millions,reported,SEC 10-Q 0000313616-22-000107
+2022,Q1,2022-04-01,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,,Life Sciences,2838,USD,millions,reported,SEC 10-Q 0000313616-22-000107
+2022,Q1,2022-04-01,3,segment,Diagnostics,Diagnostics,,,2644,USD,millions,reported,SEC 10-Q 0000313616-22-000107
+2022,Q1,2022-04-01,3,segment,EnvironmentalAppliedSolutions,Environmental & Applied Solutions,,,1162,USD,millions,reported,SEC 10-Q 0000313616-22-000107
+2022,Q1,2022-04-01,3,segment,LifeSciences,Life Sciences,,,3882,USD,millions,reported,SEC 10-Q 0000313616-22-000107
+2022,Q2,2022-07-01,3,geography,Highgrowthmarkets,High-growth markets,,,2332,USD,millions,reported,SEC 10-Q 0000313616-22-000171
+2022,Q2,2022-07-01,3,geography,NorthAmerica,North America,,,3382,USD,millions,reported,SEC 10-Q 0000313616-22-000171
+2022,Q2,2022-07-01,3,geography,Otherdevelopedmarkets,Other developed markets,,,346,USD,millions,reported,SEC 10-Q 0000313616-22-000171
+2022,Q2,2022-07-01,3,geography,WesternEurope,Western Europe,,,1691,USD,millions,reported,SEC 10-Q 0000313616-22-000171
+2022,Q2,2022-07-01,3,product,Diagnostics/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,,Diagnostics,260,USD,millions,reported,SEC 10-Q 0000313616-22-000171
+2022,Q2,2022-07-01,3,product,Diagnostics/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,,Diagnostics,2301,USD,millions,reported,SEC 10-Q 0000313616-22-000171
+2022,Q2,2022-07-01,3,product,EnvironmentalAppliedSolutions/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,,Environmental & Applied Solutions,504,USD,millions,reported,SEC 10-Q 0000313616-22-000171
+2022,Q2,2022-07-01,3,product,EnvironmentalAppliedSolutions/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,,Environmental & Applied Solutions,719,USD,millions,reported,SEC 10-Q 0000313616-22-000171
+2022,Q2,2022-07-01,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,,Life Sciences,1095,USD,millions,reported,SEC 10-Q 0000313616-22-000171
+2022,Q2,2022-07-01,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,,Life Sciences,2872,USD,millions,reported,SEC 10-Q 0000313616-22-000171
+2022,Q2,2022-07-01,3,segment,Diagnostics,Diagnostics,,,2561,USD,millions,reported,SEC 10-Q 0000313616-22-000171
+2022,Q2,2022-07-01,3,segment,EnvironmentalAppliedSolutions,Environmental & Applied Solutions,,,1223,USD,millions,reported,SEC 10-Q 0000313616-22-000171
+2022,Q2,2022-07-01,3,segment,LifeSciences,Life Sciences,,,3967,USD,millions,reported,SEC 10-Q 0000313616-22-000171
+2022,Q3,2022-09-30,3,geography,Highgrowthmarkets,High-growth markets,,,2303,USD,millions,reported,SEC 10-Q 0000313616-22-000223
+2022,Q3,2022-09-30,3,geography,NorthAmerica,North America,,,3480,USD,millions,reported,SEC 10-Q 0000313616-22-000223
+2022,Q3,2022-09-30,3,geography,Otherdevelopedmarkets,Other developed markets,,,339,USD,millions,reported,SEC 10-Q 0000313616-22-000223
+2022,Q3,2022-09-30,3,geography,WesternEurope,Western Europe,,,1541,USD,millions,reported,SEC 10-Q 0000313616-22-000223
+2022,Q3,2022-09-30,3,product,Diagnostics/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,,Diagnostics,283,USD,millions,reported,SEC 10-Q 0000313616-22-000223
+2022,Q3,2022-09-30,3,product,Diagnostics/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,,Diagnostics,2396,USD,millions,reported,SEC 10-Q 0000313616-22-000223
+2022,Q3,2022-09-30,3,product,EnvironmentalAppliedSolutions/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,,Environmental & Applied Solutions,479,USD,millions,reported,SEC 10-Q 0000313616-22-000223
+2022,Q3,2022-09-30,3,product,EnvironmentalAppliedSolutions/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,,Environmental & Applied Solutions,729,USD,millions,reported,SEC 10-Q 0000313616-22-000223
+2022,Q3,2022-09-30,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,,Life Sciences,1076,USD,millions,reported,SEC 10-Q 0000313616-22-000223
+2022,Q3,2022-09-30,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,,Life Sciences,2700,USD,millions,reported,SEC 10-Q 0000313616-22-000223
+2022,Q3,2022-09-30,3,segment,Diagnostics,Diagnostics,,,2679,USD,millions,reported,SEC 10-Q 0000313616-22-000223
+2022,Q3,2022-09-30,3,segment,EnvironmentalAppliedSolutions,Environmental & Applied Solutions,,,1208,USD,millions,reported,SEC 10-Q 0000313616-22-000223
+2022,Q3,2022-09-30,3,segment,LifeSciences,Life Sciences,,,3776,USD,millions,reported,SEC 10-Q 0000313616-22-000223
+2022,Q4,2022-12-31,3,geography,Highgrowthmarkets,High-growth markets,,,2363,USD,millions,derived,SEC 10-K 0000313616-23-000087 − 10-Q 0000313616-22-000223
+2022,Q4,2022-12-31,3,geography,NorthAmerica,North America,,,3752,USD,millions,derived,SEC 10-K 0000313616-23-000087 − 10-Q 0000313616-22-000223
+2022,Q4,2022-12-31,3,geography,Otherdevelopedmarkets,Other developed markets,,,404,USD,millions,derived,SEC 10-K 0000313616-23-000087 − 10-Q 0000313616-22-000223
+2022,Q4,2022-12-31,3,geography,WesternEurope,Western Europe,,,1850,USD,millions,derived,SEC 10-K 0000313616-23-000087 − 10-Q 0000313616-22-000223
+2022,FY,2022-12-31,12,geography,Highgrowthmarkets,High-growth markets,,,9126,USD,millions,reported,SEC 10-K 0000313616-23-000087
+2022,FY,2022-12-31,12,geography,NorthAmerica,North America,,,13968,USD,millions,reported,SEC 10-K 0000313616-23-000087
+2022,FY,2022-12-31,12,geography,Otherdevelopedmarkets,Other developed markets,,,1467,USD,millions,reported,SEC 10-K 0000313616-23-000087
+2022,FY,2022-12-31,12,geography,WesternEurope,Western Europe,,,6910,USD,millions,reported,SEC 10-K 0000313616-23-000087
+2022,FY,2022-12-31,12,product,Biotechnology/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring,,Biotechnology,1800,USD,millions,reported,SEC 10-K 0000313616-23-000087
+2022,FY,2022-12-31,12,product,Biotechnology/RevenuefromContractwithCustomerMeasurementRecurring,Recurring,,Biotechnology,6958,USD,millions,reported,SEC 10-K 0000313616-23-000087
+2022,FY,2022-12-31,12,product,Diagnostics/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring,,Diagnostics,1151,USD,millions,reported,SEC 10-K 0000313616-23-000087
+2022,FY,2022-12-31,12,product,Diagnostics/RevenuefromContractwithCustomerMeasurementRecurring,Recurring,,Diagnostics,9698,USD,millions,reported,SEC 10-K 0000313616-23-000087
+2022,FY,2022-12-31,12,product,EnvironmentalAppliedSolutions/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring,,Environmental & Applied Solutions,1987,USD,millions,reported,SEC 10-K 0000313616-23-000087
+2022,FY,2022-12-31,12,product,EnvironmentalAppliedSolutions/RevenuefromContractwithCustomerMeasurementRecurring,Recurring,,Environmental & Applied Solutions,2841,USD,millions,reported,SEC 10-K 0000313616-23-000087
+2022,FY,2022-12-31,12,product,LifeSciences/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring,,Life Sciences,2816,USD,millions,reported,SEC 10-K 0000313616-23-000087
+2022,FY,2022-12-31,12,product,LifeSciences/RevenuefromContractwithCustomerMeasurementRecurring,Recurring,,Life Sciences,4220,USD,millions,reported,SEC 10-K 0000313616-23-000087
+2022,FY,2022-12-31,12,segment,Biotechnology,Biotechnology,,,8758,USD,millions,reported,SEC 10-K 0000313616-23-000087
+2022,FY,2022-12-31,12,segment,Diagnostics,Diagnostics,,,10849,USD,millions,reported,SEC 10-K 0000313616-23-000087
+2022,FY,2022-12-31,12,segment,EnvironmentalAppliedSolutions,Environmental & Applied Solutions,,,4828,USD,millions,reported,SEC 10-K 0000313616-23-000087
+2022,FY,2022-12-31,12,segment,LifeSciences,Life Sciences,,,7036,USD,millions,reported,SEC 10-K 0000313616-23-000087
+2023,Q1,2023-03-31,3,geography,Highgrowthmarkets,High-growth markets,,,1744,USD,millions,reported,SEC 10-Q 0000313616-24-000102
+2023,Q1,2023-03-31,3,geography,NorthAmerica,North America,,,2450,USD,millions,reported,SEC 10-Q 0000313616-24-000102
+2023,Q1,2023-03-31,3,geography,Otherdevelopedmarkets,Other developed markets,,,324,USD,millions,reported,SEC 10-Q 0000313616-24-000102
+2023,Q1,2023-03-31,3,geography,WesternEurope,Western Europe,,,1431,USD,millions,reported,SEC 10-Q 0000313616-24-000102
+2023,Q1,2023-03-31,3,product,Biotechnology/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,,Biotechnology,353,USD,millions,reported,SEC 10-Q 0000313616-24-000102
+2023,Q1,2023-03-31,3,product,Biotechnology/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,,Biotechnology,1511,USD,millions,reported,SEC 10-Q 0000313616-24-000102
+2023,Q1,2023-03-31,3,product,Diagnostics/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,,Diagnostics,264,USD,millions,reported,SEC 10-Q 0000313616-24-000102
+2023,Q1,2023-03-31,3,product,Diagnostics/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,,Diagnostics,2112,USD,millions,reported,SEC 10-Q 0000313616-24-000102
+2023,Q1,2023-03-31,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,,Life Sciences,670,USD,millions,reported,SEC 10-Q 0000313616-24-000102
+2023,Q1,2023-03-31,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,,Life Sciences,1039,USD,millions,reported,SEC 10-Q 0000313616-24-000102
+2023,Q1,2023-03-31,3,segment,BiotechnologySegment,Biotechnology,,,1864,USD,millions,reported,SEC 10-Q 0000313616-24-000102
+2023,Q1,2023-03-31,3,segment,Diagnostics,Diagnostics,,,2376,USD,millions,reported,SEC 10-Q 0000313616-24-000102
+2023,Q1,2023-03-31,3,segment,LifeSciences,Life Sciences,,,1709,USD,millions,reported,SEC 10-Q 0000313616-24-000102
+2023,Q2,2023-06-30,3,geography,Highgrowthmarkets,High-growth markets,,,1842,USD,millions,reported,SEC 10-Q 0000313616-24-000186
+2023,Q2,2023-06-30,3,geography,NorthAmerica,North America,,,2350,USD,millions,reported,SEC 10-Q 0000313616-24-000186
+2023,Q2,2023-06-30,3,geography,Otherdevelopedmarkets,Other developed markets,,,296,USD,millions,reported,SEC 10-Q 0000313616-24-000186
+2023,Q2,2023-06-30,3,geography,WesternEurope,Western Europe,,,1424,USD,millions,reported,SEC 10-Q 0000313616-24-000186
+2023,Q2,2023-06-30,3,product,Biotechnology/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,,Biotechnology,351,USD,millions,reported,SEC 10-Q 0000313616-24-000186
+2023,Q2,2023-06-30,3,product,Biotechnology/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,,Biotechnology,1534,USD,millions,reported,SEC 10-Q 0000313616-24-000186
+2023,Q2,2023-06-30,3,product,Diagnostics/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,,Diagnostics,273,USD,millions,reported,SEC 10-Q 0000313616-24-000186
+2023,Q2,2023-06-30,3,product,Diagnostics/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,,Diagnostics,1958,USD,millions,reported,SEC 10-Q 0000313616-24-000186
+2023,Q2,2023-06-30,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,,Life Sciences,692,USD,millions,reported,SEC 10-Q 0000313616-24-000186
+2023,Q2,2023-06-30,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,,Life Sciences,1104,USD,millions,reported,SEC 10-Q 0000313616-24-000186
+2023,Q2,2023-06-30,3,segment,BiotechnologySegment,Biotechnology,,,1885,USD,millions,reported,SEC 10-Q 0000313616-24-000186
+2023,Q2,2023-06-30,3,segment,Diagnostics,Diagnostics,,,2231,USD,millions,reported,SEC 10-Q 0000313616-24-000186
+2023,Q2,2023-06-30,3,segment,LifeSciences,Life Sciences,,,1796,USD,millions,reported,SEC 10-Q 0000313616-24-000186
+2023,Q3,2023-09-29,3,geography,Highgrowthmarkets,High-growth markets,,,1751,USD,millions,reported,SEC 10-Q 0000313616-24-000220
+2023,Q3,2023-09-29,3,geography,NorthAmerica,North America,,,2375,USD,millions,reported,SEC 10-Q 0000313616-24-000220
+2023,Q3,2023-09-29,3,geography,Otherdevelopedmarkets,Other developed markets,,,300,USD,millions,reported,SEC 10-Q 0000313616-24-000220
+2023,Q3,2023-09-29,3,geography,WesternEurope,Western Europe,,,1198,USD,millions,reported,SEC 10-Q 0000313616-24-000220
+2023,Q3,2023-09-29,3,product,Biotechnology/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,,Biotechnology,274,USD,millions,reported,SEC 10-Q 0000313616-24-000220
+2023,Q3,2023-09-29,3,product,Biotechnology/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,,Biotechnology,1390,USD,millions,reported,SEC 10-Q 0000313616-24-000220
+2023,Q3,2023-09-29,3,product,Diagnostics/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,,Diagnostics,268,USD,millions,reported,SEC 10-Q 0000313616-24-000220
+2023,Q3,2023-09-29,3,product,Diagnostics/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,,Diagnostics,1986,USD,millions,reported,SEC 10-Q 0000313616-24-000220
+2023,Q3,2023-09-29,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,,Life Sciences,644,USD,millions,reported,SEC 10-Q 0000313616-24-000220
+2023,Q3,2023-09-29,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,,Life Sciences,1062,USD,millions,reported,SEC 10-Q 0000313616-24-000220
+2023,Q3,2023-09-29,3,segment,BiotechnologySegment,Biotechnology,,,1664,USD,millions,reported,SEC 10-Q 0000313616-24-000220
+2023,Q3,2023-09-29,3,segment,Diagnostics,Diagnostics,,,2254,USD,millions,reported,SEC 10-Q 0000313616-24-000220
+2023,Q3,2023-09-29,3,segment,LifeSciences,Life Sciences,,,1706,USD,millions,reported,SEC 10-Q 0000313616-24-000220
+2023,Q4,2023-12-31,3,product,Biotechnology/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring,,Biotechnology,297,USD,millions,derived,SEC 10-K 0000313616-25-000043 − 10-Q 0000313616-24-000220
+2023,Q4,2023-12-31,3,product,Biotechnology/RevenuefromContractwithCustomerMeasurementRecurring,Recurring,,Biotechnology,1462,USD,millions,derived,SEC 10-K 0000313616-25-000043 − 10-Q 0000313616-24-000220
+2023,Q4,2023-12-31,3,product,Diagnostics/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring,,Diagnostics,347,USD,millions,derived,SEC 10-K 0000313616-25-000043 − 10-Q 0000313616-24-000220
+2023,Q4,2023-12-31,3,product,Diagnostics/RevenuefromContractwithCustomerMeasurementRecurring,Recurring,,Diagnostics,2369,USD,millions,derived,SEC 10-K 0000313616-25-000043 − 10-Q 0000313616-24-000220
+2023,Q4,2023-12-31,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring,,Life Sciences,775,USD,millions,derived,SEC 10-K 0000313616-25-000043 − 10-Q 0000313616-24-000220
+2023,Q4,2023-12-31,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementRecurring,Recurring,,Life Sciences,1155,USD,millions,derived,SEC 10-K 0000313616-25-000043 − 10-Q 0000313616-24-000220
+2023,FY,2023-12-31,12,geography,HighGrowthMarkets,High-growth markets,,,7191,USD,millions,reported,SEC 10-K 0000313616-25-000043
+2023,FY,2023-12-31,12,geography,NorthAmerica,North America,,,9961,USD,millions,reported,SEC 10-K 0000313616-25-000043
+2023,FY,2023-12-31,12,geography,OtherDevelopedMarkets,Other developed markets,,,1270,USD,millions,reported,SEC 10-K 0000313616-25-000043
+2023,FY,2023-12-31,12,geography,WesternEurope,Western Europe,,,5468,USD,millions,reported,SEC 10-K 0000313616-25-000043
+2023,FY,2023-12-31,12,product,Biotechnology/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring,,Biotechnology,1275,USD,millions,reported,SEC 10-K 0000313616-25-000043
+2023,FY,2023-12-31,12,product,Biotechnology/RevenuefromContractwithCustomerMeasurementRecurring,Recurring,,Biotechnology,5897,USD,millions,reported,SEC 10-K 0000313616-25-000043
+2023,FY,2023-12-31,12,product,Diagnostics/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring,,Diagnostics,1152,USD,millions,reported,SEC 10-K 0000313616-25-000043
+2023,FY,2023-12-31,12,product,Diagnostics/RevenuefromContractwithCustomerMeasurementRecurring,Recurring,,Diagnostics,8425,USD,millions,reported,SEC 10-K 0000313616-25-000043
+2023,FY,2023-12-31,12,product,LifeSciences/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring,,Life Sciences,2781,USD,millions,reported,SEC 10-K 0000313616-25-000043
+2023,FY,2023-12-31,12,product,LifeSciences/RevenuefromContractwithCustomerMeasurementRecurring,Recurring,,Life Sciences,4360,USD,millions,reported,SEC 10-K 0000313616-25-000043
+2023,FY,2023-12-31,12,segment,Biotechnology,Biotechnology,,,7172,USD,millions,reported,SEC 10-K 0000313616-25-000043
+2023,FY,2023-12-31,12,segment,Diagnostics,Diagnostics,,,9577,USD,millions,reported,SEC 10-K 0000313616-25-000043
+2023,FY,2023-12-31,12,segment,LifeSciences,Life Sciences,,,7141,USD,millions,reported,SEC 10-K 0000313616-25-000043
+2024,Q1,2024-03-29,3,geography,Highgrowthmarkets,High-growth markets,,,1537,USD,millions,reported,SEC 10-Q 0000313616-24-000102
+2024,Q1,2024-03-29,3,geography,NorthAmerica,North America,,,2632,USD,millions,reported,SEC 10-Q 0000313616-24-000102
+2024,Q1,2024-03-29,3,geography,Otherdevelopedmarkets,Other developed markets,,,303,USD,millions,reported,SEC 10-Q 0000313616-24-000102
+2024,Q1,2024-03-29,3,geography,WesternEurope,Western Europe,,,1324,USD,millions,reported,SEC 10-Q 0000313616-24-000102
+2024,Q1,2024-03-29,3,product,Biotechnology/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,,Biotechnology,215,USD,millions,reported,SEC 10-Q 0000313616-24-000102
+2024,Q1,2024-03-29,3,product,Biotechnology/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,,Biotechnology,1309,USD,millions,reported,SEC 10-Q 0000313616-24-000102
+2024,Q1,2024-03-29,3,product,Diagnostics/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,,Diagnostics,233,USD,millions,reported,SEC 10-Q 0000313616-24-000102
+2024,Q1,2024-03-29,3,product,Diagnostics/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,,Diagnostics,2294,USD,millions,reported,SEC 10-Q 0000313616-24-000102
+2024,Q1,2024-03-29,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,,Life Sciences,553,USD,millions,reported,SEC 10-Q 0000313616-24-000102
+2024,Q1,2024-03-29,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,,Life Sciences,1192,USD,millions,reported,SEC 10-Q 0000313616-24-000102
+2024,Q1,2024-03-29,3,segment,BiotechnologySegment,Biotechnology,,,1524,USD,millions,reported,SEC 10-Q 0000313616-24-000102
+2024,Q1,2024-03-29,3,segment,Diagnostics,Diagnostics,,,2527,USD,millions,reported,SEC 10-Q 0000313616-24-000102
+2024,Q1,2024-03-29,3,segment,LifeSciences,Life Sciences,,,1745,USD,millions,reported,SEC 10-Q 0000313616-24-000102
+2024,Q2,2024-06-28,3,geography,Highgrowthmarkets,High-growth markets,,,1696,USD,millions,reported,SEC 10-Q 0000313616-24-000186
+2024,Q2,2024-06-28,3,geography,NorthAmerica,North America,,,2434,USD,millions,reported,SEC 10-Q 0000313616-24-000186
+2024,Q2,2024-06-28,3,geography,Otherdevelopedmarkets,Other developed markets,,,292,USD,millions,reported,SEC 10-Q 0000313616-24-000186
+2024,Q2,2024-06-28,3,geography,WesternEurope,Western Europe,,,1321,USD,millions,reported,SEC 10-Q 0000313616-24-000186
+2024,Q2,2024-06-28,3,product,Biotechnology/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,,Biotechnology,235,USD,millions,reported,SEC 10-Q 0000313616-24-000186
+2024,Q2,2024-06-28,3,product,Biotechnology/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,,Biotechnology,1478,USD,millions,reported,SEC 10-Q 0000313616-24-000186
+2024,Q2,2024-06-28,3,product,Diagnostics/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,,Diagnostics,257,USD,millions,reported,SEC 10-Q 0000313616-24-000186
+2024,Q2,2024-06-28,3,product,Diagnostics/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,,Diagnostics,2003,USD,millions,reported,SEC 10-Q 0000313616-24-000186
+2024,Q2,2024-06-28,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,,Life Sciences,562,USD,millions,reported,SEC 10-Q 0000313616-24-000186
+2024,Q2,2024-06-28,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,,Life Sciences,1208,USD,millions,reported,SEC 10-Q 0000313616-24-000186
+2024,Q2,2024-06-28,3,segment,BiotechnologySegment,Biotechnology,,,1713,USD,millions,reported,SEC 10-Q 0000313616-24-000186
+2024,Q2,2024-06-28,3,segment,Diagnostics,Diagnostics,,,2260,USD,millions,reported,SEC 10-Q 0000313616-24-000186
+2024,Q2,2024-06-28,3,segment,LifeSciences,Life Sciences,,,1770,USD,millions,reported,SEC 10-Q 0000313616-24-000186
+2024,Q3,2024-09-27,3,geography,Highgrowthmarkets,High-growth markets,,,1723,USD,millions,reported,SEC 10-Q 0000313616-24-000220
+2024,Q3,2024-09-27,3,geography,NorthAmerica,North America,,,2456,USD,millions,reported,SEC 10-Q 0000313616-24-000220
+2024,Q3,2024-09-27,3,geography,Otherdevelopedmarkets,Other developed markets,,,299,USD,millions,reported,SEC 10-Q 0000313616-24-000220
+2024,Q3,2024-09-27,3,geography,WesternEurope,Western Europe,,,1320,USD,millions,reported,SEC 10-Q 0000313616-24-000220
+2024,Q3,2024-09-27,3,product,Biotechnology/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,,Biotechnology,231,USD,millions,reported,SEC 10-Q 0000313616-24-000220
+2024,Q3,2024-09-27,3,product,Biotechnology/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,,Biotechnology,1422,USD,millions,reported,SEC 10-Q 0000313616-24-000220
+2024,Q3,2024-09-27,3,product,Diagnostics/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,,Diagnostics,236,USD,millions,reported,SEC 10-Q 0000313616-24-000220
+2024,Q3,2024-09-27,3,product,Diagnostics/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,,Diagnostics,2127,USD,millions,reported,SEC 10-Q 0000313616-24-000220
+2024,Q3,2024-09-27,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,,Life Sciences,554,USD,millions,reported,SEC 10-Q 0000313616-24-000220
+2024,Q3,2024-09-27,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,,Life Sciences,1228,USD,millions,reported,SEC 10-Q 0000313616-24-000220
+2024,Q3,2024-09-27,3,segment,BiotechnologySegment,Biotechnology,,,1653,USD,millions,reported,SEC 10-Q 0000313616-24-000220
+2024,Q3,2024-09-27,3,segment,Diagnostics,Diagnostics,,,2363,USD,millions,reported,SEC 10-Q 0000313616-24-000220
+2024,Q3,2024-09-27,3,segment,LifeSciences,Life Sciences,,,1782,USD,millions,reported,SEC 10-Q 0000313616-24-000220
+2024,Q4,2024-12-31,3,product,Biotechnology/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring,,Biotechnology,320,USD,millions,derived,SEC 10-K 0000313616-25-000043 − 10-Q 0000313616-24-000220
+2024,Q4,2024-12-31,3,product,Biotechnology/RevenuefromContractwithCustomerMeasurementRecurring,Recurring,,Biotechnology,1549,USD,millions,derived,SEC 10-K 0000313616-25-000043 − 10-Q 0000313616-24-000220
+2024,Q4,2024-12-31,3,product,Diagnostics/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring,,Diagnostics,342,USD,millions,derived,SEC 10-K 0000313616-25-000043 − 10-Q 0000313616-24-000220
+2024,Q4,2024-12-31,3,product,Diagnostics/RevenuefromContractwithCustomerMeasurementRecurring,Recurring,,Diagnostics,2295,USD,millions,derived,SEC 10-K 0000313616-25-000043 − 10-Q 0000313616-24-000220
+2024,Q4,2024-12-31,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring,,Life Sciences,771,USD,millions,derived,SEC 10-K 0000313616-25-000043 − 10-Q 0000313616-24-000220
+2024,Q4,2024-12-31,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementRecurring,Recurring,,Life Sciences,1261,USD,millions,derived,SEC 10-K 0000313616-25-000043 − 10-Q 0000313616-24-000220
+2024,FY,2024-12-31,12,geography,HighGrowthMarkets,High-growth markets,,,6870,USD,millions,reported,SEC 10-K 0000313616-25-000043
+2024,FY,2024-12-31,12,geography,NorthAmerica,North America,,,10295,USD,millions,reported,SEC 10-K 0000313616-25-000043
+2024,FY,2024-12-31,12,geography,OtherDevelopedMarkets,Other developed markets,,,1253,USD,millions,reported,SEC 10-K 0000313616-25-000043
+2024,FY,2024-12-31,12,geography,WesternEurope,Western Europe,,,5457,USD,millions,reported,SEC 10-K 0000313616-25-000043
+2024,FY,2024-12-31,12,product,Biotechnology/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring,,Biotechnology,1001,USD,millions,reported,SEC 10-K 0000313616-25-000043
+2024,FY,2024-12-31,12,product,Biotechnology/RevenuefromContractwithCustomerMeasurementRecurring,Recurring,,Biotechnology,5758,USD,millions,reported,SEC 10-K 0000313616-25-000043
+2024,FY,2024-12-31,12,product,Diagnostics/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring,,Diagnostics,1068,USD,millions,reported,SEC 10-K 0000313616-25-000043
+2024,FY,2024-12-31,12,product,Diagnostics/RevenuefromContractwithCustomerMeasurementRecurring,Recurring,,Diagnostics,8719,USD,millions,reported,SEC 10-K 0000313616-25-000043
+2024,FY,2024-12-31,12,product,LifeSciences/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring,,Life Sciences,2440,USD,millions,reported,SEC 10-K 0000313616-25-000043
+2024,FY,2024-12-31,12,product,LifeSciences/RevenuefromContractwithCustomerMeasurementRecurring,Recurring,,Life Sciences,4889,USD,millions,reported,SEC 10-K 0000313616-25-000043
+2024,FY,2024-12-31,12,segment,Biotechnology,Biotechnology,,,6759,USD,millions,reported,SEC 10-K 0000313616-25-000043
+2024,FY,2024-12-31,12,segment,Diagnostics,Diagnostics,,,9787,USD,millions,reported,SEC 10-K 0000313616-25-000043
+2024,FY,2024-12-31,12,segment,LifeSciences,Life Sciences,,,7329,USD,millions,reported,SEC 10-K 0000313616-25-000043
+2025,Q1,2025-03-28,3,geography,HighGrowthMarkets,High-growth markets,,,1537,USD,millions,reported,SEC 10-Q 0000313616-25-000088
+2025,Q1,2025-03-28,3,geography,NorthAmerica,North America,,,2582,USD,millions,reported,SEC 10-Q 0000313616-25-000088
+2025,Q1,2025-03-28,3,geography,OtherDevelopedMarkets,Other developed markets,,,278,USD,millions,reported,SEC 10-Q 0000313616-25-000088
+2025,Q1,2025-03-28,3,geography,WesternEurope,Western Europe,,,1344,USD,millions,reported,SEC 10-Q 0000313616-25-000088
+2025,Q1,2025-03-28,3,product,Biotechnology/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,,Biotechnology,155,USD,millions,reported,SEC 10-Q 0000313616-25-000088
+2025,Q1,2025-03-28,3,product,Biotechnology/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,,Biotechnology,1457,USD,millions,reported,SEC 10-Q 0000313616-25-000088
+2025,Q1,2025-03-28,3,product,Diagnostics/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,,Diagnostics,226,USD,millions,reported,SEC 10-Q 0000313616-25-000088
+2025,Q1,2025-03-28,3,product,Diagnostics/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,,Diagnostics,2223,USD,millions,reported,SEC 10-Q 0000313616-25-000088
+2025,Q1,2025-03-28,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,,Life Sciences,544,USD,millions,reported,SEC 10-Q 0000313616-25-000088
+2025,Q1,2025-03-28,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,,Life Sciences,1136,USD,millions,reported,SEC 10-Q 0000313616-25-000088
+2025,Q1,2025-03-28,3,segment,BiotechnologySegment,Biotechnology,,,1612,USD,millions,reported,SEC 10-Q 0000313616-25-000088
+2025,Q1,2025-03-28,3,segment,Diagnostics,Diagnostics,,,2449,USD,millions,reported,SEC 10-Q 0000313616-25-000088
+2025,Q1,2025-03-28,3,segment,LifeSciences,Life Sciences,,,1680,USD,millions,reported,SEC 10-Q 0000313616-25-000088
+2025,Q2,2025-06-27,3,geography,HighGrowthMarkets,High-growth markets,,,1697,USD,millions,reported,SEC 10-Q 0000313616-25-000153
+2025,Q2,2025-06-27,3,geography,NorthAmerica,North America,,,2438,USD,millions,reported,SEC 10-Q 0000313616-25-000153
+2025,Q2,2025-06-27,3,geography,OtherDevelopedMarkets,Other developed markets,,,294,USD,millions,reported,SEC 10-Q 0000313616-25-000153
+2025,Q2,2025-06-27,3,geography,WesternEurope,Western Europe,,,1507,USD,millions,reported,SEC 10-Q 0000313616-25-000153
+2025,Q2,2025-06-27,3,product,Biotechnology/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,,Biotechnology,156,USD,millions,reported,SEC 10-Q 0000313616-25-000153
+2025,Q2,2025-06-27,3,product,Biotechnology/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,,Biotechnology,1694,USD,millions,reported,SEC 10-Q 0000313616-25-000153
+2025,Q2,2025-06-27,3,product,Diagnostics/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,,Diagnostics,247,USD,millions,reported,SEC 10-Q 0000313616-25-000153
+2025,Q2,2025-06-27,3,product,Diagnostics/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,,Diagnostics,2062,USD,millions,reported,SEC 10-Q 0000313616-25-000153
+2025,Q2,2025-06-27,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,,Life Sciences,563,USD,millions,reported,SEC 10-Q 0000313616-25-000153
+2025,Q2,2025-06-27,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,,Life Sciences,1214,USD,millions,reported,SEC 10-Q 0000313616-25-000153
+2025,Q2,2025-06-27,3,segment,BiotechnologySegment,Biotechnology,,,1850,USD,millions,reported,SEC 10-Q 0000313616-25-000153
+2025,Q2,2025-06-27,3,segment,Diagnostics,Diagnostics,,,2309,USD,millions,reported,SEC 10-Q 0000313616-25-000153
+2025,Q2,2025-06-27,3,segment,LifeSciences,Life Sciences,,,1777,USD,millions,reported,SEC 10-Q 0000313616-25-000153
+2025,Q3,2025-09-26,3,geography,HighGrowthMarkets,High-growth markets,,,1761,USD,millions,reported,SEC 10-Q 0000313616-25-000182
+2025,Q3,2025-09-26,3,geography,NorthAmerica,North America,,,2580,USD,millions,reported,SEC 10-Q 0000313616-25-000182
+2025,Q3,2025-09-26,3,geography,OtherDevelopedMarkets,Other developed markets,,,316,USD,millions,reported,SEC 10-Q 0000313616-25-000182
+2025,Q3,2025-09-26,3,geography,WesternEurope,Western Europe,,,1396,USD,millions,reported,SEC 10-Q 0000313616-25-000182
+2025,Q3,2025-09-26,3,product,Biotechnology/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,,Biotechnology,208,USD,millions,reported,SEC 10-Q 0000313616-25-000182
+2025,Q3,2025-09-26,3,product,Biotechnology/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,,Biotechnology,1590,USD,millions,reported,SEC 10-Q 0000313616-25-000182
+2025,Q3,2025-09-26,3,product,Diagnostics/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,,Diagnostics,252,USD,millions,reported,SEC 10-Q 0000313616-25-000182
+2025,Q3,2025-09-26,3,product,Diagnostics/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,,Diagnostics,2211,USD,millions,reported,SEC 10-Q 0000313616-25-000182
+2025,Q3,2025-09-26,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,,Life Sciences,576,USD,millions,reported,SEC 10-Q 0000313616-25-000182
+2025,Q3,2025-09-26,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,,Life Sciences,1216,USD,millions,reported,SEC 10-Q 0000313616-25-000182
+2025,Q3,2025-09-26,3,segment,BiotechnologySegment,Biotechnology,,,1798,USD,millions,reported,SEC 10-Q 0000313616-25-000182
+2025,Q3,2025-09-26,3,segment,Diagnostics,Diagnostics,,,2463,USD,millions,reported,SEC 10-Q 0000313616-25-000182
+2025,Q3,2025-09-26,3,segment,LifeSciences,Life Sciences,,,1792,USD,millions,reported,SEC 10-Q 0000313616-25-000182
+2025,Q4,2025-12-31,3,geography,HighGrowthMarkets,High-growth markets,,,2027,USD,millions,derived,SEC 10-K 0000313616-26-000062 − 10-Q 0000313616-25-000182
+2025,Q4,2025-12-31,3,geography,NorthAmerica,North America,,,2756,USD,millions,derived,SEC 10-K 0000313616-26-000062 − 10-Q 0000313616-25-000182
+2025,Q4,2025-12-31,3,geography,OtherDevelopedMarkets,Other developed markets,,,364,USD,millions,derived,SEC 10-K 0000313616-26-000062 − 10-Q 0000313616-25-000182
+2025,Q4,2025-12-31,3,geography,WesternEurope,Western Europe,,,1691,USD,millions,derived,SEC 10-K 0000313616-26-000062 − 10-Q 0000313616-25-000182
+2025,Q4,2025-12-31,3,product,Biotechnology/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring,,Biotechnology,350,USD,millions,derived,SEC 10-K 0000313616-26-000062 − 10-Q 0000313616-25-000182
+2025,Q4,2025-12-31,3,product,Biotechnology/RevenuefromContractwithCustomerMeasurementRecurring,Recurring,,Biotechnology,1683,USD,millions,derived,SEC 10-K 0000313616-26-000062 − 10-Q 0000313616-25-000182
+2025,Q4,2025-12-31,3,product,Diagnostics/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring,,Diagnostics,357,USD,millions,derived,SEC 10-K 0000313616-26-000062 − 10-Q 0000313616-25-000182
+2025,Q4,2025-12-31,3,product,Diagnostics/RevenuefromContractwithCustomerMeasurementRecurring,Recurring,,Diagnostics,2363,USD,millions,derived,SEC 10-K 0000313616-26-000062 − 10-Q 0000313616-25-000182
+2025,Q4,2025-12-31,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring,,Life Sciences,807,USD,millions,derived,SEC 10-K 0000313616-26-000062 − 10-Q 0000313616-25-000182
+2025,Q4,2025-12-31,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementRecurring,Recurring,,Life Sciences,1278,USD,millions,derived,SEC 10-K 0000313616-26-000062 − 10-Q 0000313616-25-000182
+2025,FY,2025-12-31,12,geography,HighGrowthMarkets,High-growth markets,,,7022,USD,millions,reported,SEC 10-K 0000313616-26-000062
+2025,FY,2025-12-31,12,geography,NorthAmerica,North America,,,10356,USD,millions,reported,SEC 10-K 0000313616-26-000062
+2025,FY,2025-12-31,12,geography,OtherDevelopedMarkets,Other developed markets,,,1252,USD,millions,reported,SEC 10-K 0000313616-26-000062
+2025,FY,2025-12-31,12,geography,WesternEurope,Western Europe,,,5938,USD,millions,reported,SEC 10-K 0000313616-26-000062
+2025,FY,2025-12-31,12,product,Biotechnology/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring,,Biotechnology,869,USD,millions,reported,SEC 10-K 0000313616-26-000062
+2025,FY,2025-12-31,12,product,Biotechnology/RevenuefromContractwithCustomerMeasurementRecurring,Recurring,,Biotechnology,6424,USD,millions,reported,SEC 10-K 0000313616-26-000062
+2025,FY,2025-12-31,12,product,Diagnostics/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring,,Diagnostics,1082,USD,millions,reported,SEC 10-K 0000313616-26-000062
+2025,FY,2025-12-31,12,product,Diagnostics/RevenuefromContractwithCustomerMeasurementRecurring,Recurring,,Diagnostics,8859,USD,millions,reported,SEC 10-K 0000313616-26-000062
+2025,FY,2025-12-31,12,product,LifeSciences/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring,,Life Sciences,2490,USD,millions,reported,SEC 10-K 0000313616-26-000062
+2025,FY,2025-12-31,12,product,LifeSciences/RevenuefromContractwithCustomerMeasurementRecurring,Recurring,,Life Sciences,4844,USD,millions,reported,SEC 10-K 0000313616-26-000062
+2025,FY,2025-12-31,12,segment,BiotechnologySegment,Biotechnology,,,7293,USD,millions,reported,SEC 10-K 0000313616-26-000062
+2025,FY,2025-12-31,12,segment,DiagnosticsSegment,Diagnostics,,,9941,USD,millions,reported,SEC 10-K 0000313616-26-000062
+2025,FY,2025-12-31,12,segment,LifeSciencesSegment,Life Sciences,,,7334,USD,millions,reported,SEC 10-K 0000313616-26-000062
+2026,Q1,2026-03-27,3,geography,HighGrowthMarkets,High-growth markets,,,1624,USD,millions,reported,SEC 10-Q 0000313616-26-000107
+2026,Q1,2026-03-27,3,geography,NorthAmerica,North America,,,2478,USD,millions,reported,SEC 10-Q 0000313616-26-000107
+2026,Q1,2026-03-27,3,geography,OtherDevelopedMarkets,Other developed markets,,,284,USD,millions,reported,SEC 10-Q 0000313616-26-000107
+2026,Q1,2026-03-27,3,geography,WesternEurope,Western Europe,,,1565,USD,millions,reported,SEC 10-Q 0000313616-26-000107
+2026,Q1,2026-03-27,3,product,Biotechnology/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,,Biotechnology,155,USD,millions,reported,SEC 10-Q 0000313616-26-000107
+2026,Q1,2026-03-27,3,product,Biotechnology/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,,Biotechnology,1642,USD,millions,reported,SEC 10-Q 0000313616-26-000107
+2026,Q1,2026-03-27,3,product,Diagnostics/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,,Diagnostics,231,USD,millions,reported,SEC 10-Q 0000313616-26-000107
+2026,Q1,2026-03-27,3,product,Diagnostics/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,,Diagnostics,2186,USD,millions,reported,SEC 10-Q 0000313616-26-000107
+2026,Q1,2026-03-27,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,,Life Sciences,534,USD,millions,reported,SEC 10-Q 0000313616-26-000107
+2026,Q1,2026-03-27,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,,Life Sciences,1203,USD,millions,reported,SEC 10-Q 0000313616-26-000107
+2026,Q1,2026-03-27,3,segment,BiotechnologySegment,Biotechnology,,,1797,USD,millions,reported,SEC 10-Q 0000313616-26-000107
+2026,Q1,2026-03-27,3,segment,DiagnosticsSegment,Diagnostics,,,2417,USD,millions,reported,SEC 10-Q 0000313616-26-000107
+2026,Q1,2026-03-27,3,segment,LifeSciencesSegment,Life Sciences,,,1737,USD,millions,reported,SEC 10-Q 0000313616-26-000107
+2026,Q2,2026-06-26,3,geography,HighGrowthMarkets,High-growth markets,,,1958,USD,millions,reported,SEC 10-Q 0000313616-26-000161
+2026,Q2,2026-06-26,3,geography,NorthAmerica,North America,,,2474,USD,millions,reported,SEC 10-Q 0000313616-26-000161
+2026,Q2,2026-06-26,3,geography,OtherDevelopedMarkets,Other developed markets,,,293,USD,millions,reported,SEC 10-Q 0000313616-26-000161
+2026,Q2,2026-06-26,3,geography,WesternEurope,Western Europe,,,1540,USD,millions,reported,SEC 10-Q 0000313616-26-000161
+2026,Q2,2026-06-26,3,product,Biotechnology/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,,Biotechnology,198,USD,millions,reported,SEC 10-Q 0000313616-26-000161
+2026,Q2,2026-06-26,3,product,Biotechnology/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,,Biotechnology,1722,USD,millions,reported,SEC 10-Q 0000313616-26-000161
+2026,Q2,2026-06-26,3,product,Diagnostics/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,,Diagnostics,256,USD,millions,reported,SEC 10-Q 0000313616-26-000161
+2026,Q2,2026-06-26,3,product,Diagnostics/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,,Diagnostics,2210,USD,millions,reported,SEC 10-Q 0000313616-26-000161
+2026,Q2,2026-06-26,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,,Life Sciences,611,USD,millions,reported,SEC 10-Q 0000313616-26-000161
+2026,Q2,2026-06-26,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,,Life Sciences,1268,USD,millions,reported,SEC 10-Q 0000313616-26-000161
+2026,Q2,2026-06-26,3,segment,BiotechnologySegment,Biotechnology,,,1920,USD,millions,reported,SEC 10-Q 0000313616-26-000161
+2026,Q2,2026-06-26,3,segment,DiagnosticsSegment,Diagnostics,,,2466,USD,millions,reported,SEC 10-Q 0000313616-26-000161
+2026,Q2,2026-06-26,3,segment,LifeSciencesSegment,Life Sciences,,,1879,USD,millions,reported,SEC 10-Q 0000313616-26-000161
+2026,Q3,2026-09-25,3,geography,HighGrowthMarkets,High-growth markets,,,2026,USD,millions,reported,SEC 10-Q 0000313616-26-000199
+2026,Q3,2026-09-25,3,geography,NorthAmerica,North America,,,2740,USD,millions,reported,SEC 10-Q 0000313616-26-000199
+2026,Q3,2026-09-25,3,geography,OtherDevelopedMarkets,Other developed markets,,,298,USD,millions,reported,SEC 10-Q 0000313616-26-000199
+2026,Q3,2026-09-25,3,geography,WesternEurope,Western Europe,,,1490,USD,millions,reported,SEC 10-Q 0000313616-26-000199
+2026,Q3,2026-09-25,3,product,Biotechnology/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,,Biotechnology,223,USD,millions,reported,SEC 10-Q 0000313616-26-000199
+2026,Q3,2026-09-25,3,product,Biotechnology/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,,Biotechnology,1584,USD,millions,reported,SEC 10-Q 0000313616-26-000199
+2026,Q3,2026-09-25,3,product,Diagnostics/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,,Diagnostics,349,USD,millions,reported,SEC 10-Q 0000313616-26-000199
+2026,Q3,2026-09-25,3,product,Diagnostics/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,,Diagnostics,2533,USD,millions,reported,SEC 10-Q 0000313616-26-000199
+2026,Q3,2026-09-25,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,,Life Sciences,583,USD,millions,reported,SEC 10-Q 0000313616-26-000199
+2026,Q3,2026-09-25,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,,Life Sciences,1282,USD,millions,reported,SEC 10-Q 0000313616-26-000199
+2026,Q3,2026-09-25,3,segment,BiotechnologySegment,Biotechnology,,,1807,USD,millions,reported,SEC 10-Q 0000313616-26-000199
+2026,Q3,2026-09-25,3,segment,DiagnosticsSegment,Diagnostics,,,2882,USD,millions,reported,SEC 10-Q 0000313616-26-000199
+2026,Q3,2026-09-25,3,segment,LifeSciencesSegment,Life Sciences,,,1865,USD,millions,reported,SEC 10-Q 0000313616-26-000199

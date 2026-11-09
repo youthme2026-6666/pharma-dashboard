@@ -1,0 +1,20 @@
+{
+  "cik": "0001490978",
+  "code_hash": "c3eb527647b9",
+  "fiscal_year_end": "1231",
+  "form_type": "10-K",
+  "identity_checked": "2026-11-09",
+  "last_check": "2026-11-09",
+  "name": "Schrodinger, Inc.",
+  "periods": 28,
+  "segment_exclude": {
+    "product": [
+      "sdgr:ContributionMember",
+      "sdgr:DrugDiscoveryContributionMember",
+      "sdgr:SoftwareContributionMember",
+      "sdgr:SoftwareProductsAndServicesMember"
+    ]
+  },
+  "sic": "Pharmaceutical Preparations",
+  "ticker": "SDGR"
+}

@@ -1,0 +1,88 @@
+fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,value,currency,unit,basis,source
+2021,Q1,2021-03-31,3,product,OtherRevenue,Other revenue,,,22.005,USD,millions,derived,SEC 10-Q 0001564590-21-024018
+2021,Q1,2021-03-31,3,product,AMONDYSFourtyFive,AMONDYS 45,,Rare Disease,0.193,USD,millions,reported,SEC 10-Q 0001564590-21-024018
+2021,Q1,2021-03-31,3,product,EXONDYSFiftyOne,EXONDYS 51,,Rare Disease,107.185,USD,millions,reported,SEC 10-Q 0001564590-21-024018
+2021,Q1,2021-03-31,3,product,VYONDYSFiftyThree,VYONDYS 53,,Rare Disease,17.548,USD,millions,reported,SEC 10-Q 0001564590-21-024018
+2021,Q2,2021-06-30,3,product,OtherRevenue,Other revenue,,,22.25,USD,millions,derived,SEC 10-Q 0001564590-21-040787
+2021,Q2,2021-06-30,3,product,AMONDYSFourtyFive,AMONDYS 45,,Rare Disease,6.936,USD,millions,reported,SEC 10-Q 0001564590-21-040787
+2021,Q2,2021-06-30,3,product,EXONDYSFiftyOne,EXONDYS 51,,Rare Disease,112.461,USD,millions,reported,SEC 10-Q 0001564590-21-040787
+2021,Q2,2021-06-30,3,product,VYONDYSFiftyThree,VYONDYS 53,,Rare Disease,22.442,USD,millions,reported,SEC 10-Q 0001564590-21-040787
+2021,Q3,2021-09-30,3,product,OtherRevenue,Other revenue,,,22.495,USD,millions,derived,SEC 10-Q 0000950170-21-002815
+2021,Q3,2021-09-30,3,product,AMONDYSFourtyFive,AMONDYS 45,,Rare Disease,26.655,USD,millions,reported,SEC 10-Q 0000950170-21-002815
+2021,Q3,2021-09-30,3,product,EXONDYSFiftyOne,EXONDYS 51,,Rare Disease,115.598,USD,millions,reported,SEC 10-Q 0000950170-21-002815
+2021,Q3,2021-09-30,3,product,VYONDYSFiftyThree,VYONDYS 53,,Rare Disease,24.658,USD,millions,reported,SEC 10-Q 0000950170-21-002815
+2022,Q2,2022-06-30,3,geography,NonUs,Outside of U.S.,,,23.6,USD,millions,reported,SEC 10-Q 0000950170-23-037125
+2022,Q2,2022-06-30,3,geography,OtherNotItemized,Other (not itemized),,,22.287,USD,millions,derived,SEC 10-Q 0000950170-23-037125
+2022,Q2,2022-06-30,3,geography,US,U.S.,,,187.6,USD,millions,reported,SEC 10-Q 0000950170-23-037125
+2022,Q3,2022-09-30,3,product,OtherRevenue,Other revenue,,,22.495,USD,millions,derived,SEC 10-Q 0000950170-23-057414
+2022,Q3,2022-09-30,3,product,Elevidys,ELEVIDYS,,Rare Disease,0,USD,millions,reported,SEC 10-Q 0000950170-23-057414
+2022,Q3,2022-09-30,3,product,PmoProducts,PMO Products,,Rare Disease,207.774,USD,millions,reported,SEC 10-Q 0000950170-23-057414
+2022,Q4,2022-12-31,3,product,OtherRevenue,Other revenue,,,22.494,USD,millions,derived,SEC 10-K 0000950170-25-029973 − 10-Q 0000950170-23-057414
+2022,Q4,2022-12-31,3,product,Elevidys,ELEVIDYS,,Rare Disease,0,USD,millions,derived,SEC 10-K 0000950170-25-029973 − 10-Q 0000950170-23-057414
+2022,Q4,2022-12-31,3,product,PmoProducts,PMO Products,,Rare Disease,235.933,USD,millions,derived,SEC 10-K 0000950170-25-029973 − 10-Q 0000950170-23-057414
+2022,FY,2022-12-31,12,geography,NonUs,Outside of U.S.,,,96.7,USD,millions,reported,SEC 10-K 0000950170-23-005062
+2022,FY,2022-12-31,12,geography,OtherNotItemized,Other (not itemized),,,89.213,USD,millions,derived,SEC 10-K 0000950170-23-005062
+2022,FY,2022-12-31,12,geography,US,US,,,747.1,USD,millions,reported,SEC 10-K 0000950170-23-005062
+2022,FY,2022-12-31,12,product,OtherRevenue,Other revenue,,,89.244,USD,millions,derived,SEC 10-K 0000950170-25-029973
+2022,FY,2022-12-31,12,product,Elevidys,ELEVIDYS,,Rare Disease,0,USD,millions,reported,SEC 10-K 0000950170-25-029973
+2022,FY,2022-12-31,12,product,PmoProducts,PMO Products,,Rare Disease,843.769,USD,millions,reported,SEC 10-K 0000950170-25-029973
+2023,Q1,2023-03-31,3,geography,NonUs,Outside of U.S.,,,31,USD,millions,reported,SEC 10-Q 0000950170-23-016654
+2023,Q1,2023-03-31,3,geography,OtherNotItemized,Other (not itemized),,,22,USD,millions,derived,SEC 10-Q 0000950170-23-016654
+2023,Q1,2023-03-31,3,geography,US,U.S.,,,200.5,USD,millions,reported,SEC 10-Q 0000950170-23-016654
+2023,Q1,2023-03-31,3,product,OtherRevenue,Other revenue,,,22.005,USD,millions,derived,SEC 10-Q 0000950170-24-051234
+2023,Q1,2023-03-31,3,product,Elevidys,ELEVIDYS,,Rare Disease,0,USD,millions,reported,SEC 10-Q 0000950170-24-051234
+2023,Q1,2023-03-31,3,product,PmoProducts,PMO Products,,Rare Disease,231.495,USD,millions,reported,SEC 10-Q 0000950170-24-051234
+2023,Q2,2023-06-30,3,geography,NonUs,Outside of U.S.,,,35.1,USD,millions,reported,SEC 10-Q 0000950170-23-037125
+2023,Q2,2023-06-30,3,geography,OtherNotItemized,Other (not itemized),,,22.238,USD,millions,derived,SEC 10-Q 0000950170-23-037125
+2023,Q2,2023-06-30,3,geography,US,U.S.,,,203.9,USD,millions,reported,SEC 10-Q 0000950170-23-037125
+2023,Q2,2023-06-30,3,product,OtherRevenue,Other revenue,,,22.25,USD,millions,derived,SEC 10-Q 0000950170-24-092720
+2023,Q2,2023-06-30,3,product,Elevidys,ELEVIDYS,,Rare Disease,0,USD,millions,reported,SEC 10-Q 0000950170-24-092720
+2023,Q2,2023-06-30,3,product,PmoProducts,PMO Products,,Rare Disease,238.988,USD,millions,reported,SEC 10-Q 0000950170-24-092720
+2023,Q3,2023-09-30,3,product,OtherRevenue,Other revenue,,,22.495,USD,millions,derived,SEC 10-Q 0000950170-23-057414
+2023,Q3,2023-09-30,3,product,Elevidys,ELEVIDYS,,Rare Disease,69.108,USD,millions,reported,SEC 10-Q 0000950170-23-057414
+2023,Q3,2023-09-30,3,product,PmoProducts,PMO Products,,Rare Disease,240.214,USD,millions,reported,SEC 10-Q 0000950170-23-057414
+2023,Q4,2023-12-31,3,product,OtherRevenue,Other revenue,,,31.71,USD,millions,derived,SEC 10-K 0000950170-24-022036 − 10-Q 0000950170-23-057414
+2023,Q4,2023-12-31,3,product,Elevidys,ELEVIDYS,,Rare Disease,131.248,USD,millions,derived,SEC 10-K 0000950170-24-022036 − 10-Q 0000950170-23-057414
+2023,Q4,2023-12-31,3,product,PmoProducts,PMO Products,,Rare Disease,233.823,USD,millions,derived,SEC 10-K 0000950170-24-022036 − 10-Q 0000950170-23-057414
+2023,FY,2023-12-31,12,product,OtherRevenue,Other revenue,,,98.46,USD,millions,derived,SEC 10-K 0000950170-24-022036
+2023,FY,2023-12-31,12,product,Elevidys,ELEVIDYS,,Rare Disease,200.356,USD,millions,reported,SEC 10-K 0000950170-24-022036
+2023,FY,2023-12-31,12,product,PmoProducts,PMO Products,,Rare Disease,944.52,USD,millions,reported,SEC 10-K 0000950170-24-022036
+2024,Q1,2024-03-31,3,product,OtherRevenue,Other revenue,,,53.98,USD,millions,derived,SEC 10-Q 0000950170-24-051234
+2024,Q1,2024-03-31,3,product,Elevidys,ELEVIDYS,,Rare Disease,133.936,USD,millions,reported,SEC 10-Q 0000950170-24-051234
+2024,Q1,2024-03-31,3,product,PmoProducts,PMO Products,,Rare Disease,225.548,USD,millions,reported,SEC 10-Q 0000950170-24-051234
+2024,Q2,2024-06-30,3,product,OtherRevenue,Other revenue,,,2.383,USD,millions,derived,SEC 10-Q 0000950170-24-092720
+2024,Q2,2024-06-30,3,product,Elevidys,ELEVIDYS,,Rare Disease,121.721,USD,millions,reported,SEC 10-Q 0000950170-24-092720
+2024,Q2,2024-06-30,3,product,PmoProducts,PMO Products,,Rare Disease,238.827,USD,millions,reported,SEC 10-Q 0000950170-24-092720
+2024,Q3,2024-09-30,3,product,OtherRevenue,Other revenue,,,37.401,USD,millions,derived,SEC 10-Q 0000950170-24-122239
+2024,Q3,2024-09-30,3,product,Elevidys,ELEVIDYS,,Rare Disease,180.983,USD,millions,reported,SEC 10-Q 0000950170-24-122239
+2024,Q3,2024-09-30,3,product,PmoProducts,PMO Products,,Rare Disease,248.788,USD,millions,reported,SEC 10-Q 0000950170-24-122239
+2024,Q4,2024-12-31,3,product,OtherRevenue,Other revenue,,,20.255,USD,millions,derived,SEC 10-K 0000950170-25-029973 − 10-Q 0000950170-24-122239
+2024,Q4,2024-12-31,3,product,Elevidys,ELEVIDYS,,Rare Disease,384.151,USD,millions,derived,SEC 10-K 0000950170-25-029973 − 10-Q 0000950170-24-122239
+2024,Q4,2024-12-31,3,product,PmoProducts,PMO Products,,Rare Disease,254.006,USD,millions,derived,SEC 10-K 0000950170-25-029973 − 10-Q 0000950170-24-122239
+2024,FY,2024-12-31,12,product,OtherRevenue,Other revenue,,,114.019,USD,millions,derived,SEC 10-K 0000950170-25-029973
+2024,FY,2024-12-31,12,product,Elevidys,ELEVIDYS,,Rare Disease,820.791,USD,millions,reported,SEC 10-K 0000950170-25-029973
+2024,FY,2024-12-31,12,product,PmoProducts,PMO Products,,Rare Disease,967.169,USD,millions,reported,SEC 10-K 0000950170-25-029973
+2025,Q1,2025-03-31,3,product,OtherRevenue,Other revenue,,,133.333,USD,millions,derived,SEC 10-Q 0001193125-26-208893
+2025,Q1,2025-03-31,3,product,Elevidys,ELEVIDYS,,Rare Disease,374.985,USD,millions,reported,SEC 10-Q 0001193125-26-208893
+2025,Q1,2025-03-31,3,product,PmoProducts,PMO Products,,Rare Disease,236.538,USD,millions,reported,SEC 10-Q 0001193125-26-208893
+2025,Q2,2025-06-30,3,product,OtherRevenue,Other revenue,,,97.968,USD,millions,derived,SEC 10-Q 0001193125-26-335003
+2025,Q2,2025-06-30,3,product,Elevidys,ELEVIDYS,,Rare Disease,281.851,USD,millions,reported,SEC 10-Q 0001193125-26-335003
+2025,Q2,2025-06-30,3,product,PmoProducts,PMO Products,,Rare Disease,231.272,USD,millions,reported,SEC 10-Q 0001193125-26-335003
+2025,Q3,2025-09-30,3,product,OtherRevenue,Other revenue,,,29.313,USD,millions,derived,SEC 10-Q 0001193125-26-449721
+2025,Q3,2025-09-30,3,product,Elevidys,ELEVIDYS,,Rare Disease,131.498,USD,millions,reported,SEC 10-Q 0001193125-26-449721
+2025,Q3,2025-09-30,3,product,PmoProducts,PMO Products,,Rare Disease,238.545,USD,millions,reported,SEC 10-Q 0001193125-26-449721
+2025,Q4,2025-12-31,3,product,OtherRevenue,Other revenue,,,73.327,USD,millions,derived,SEC 10-K 0001193125-26-084144 − 10-Q 0001193125-26-449721
+2025,Q4,2025-12-31,3,product,Elevidys,ELEVIDYS,,Rare Disease,110.397,USD,millions,derived,SEC 10-K 0001193125-26-084144 − 10-Q 0001193125-26-449721
+2025,Q4,2025-12-31,3,product,PmoProducts,PMO Products,,Rare Disease,259.21,USD,millions,derived,SEC 10-K 0001193125-26-084144 − 10-Q 0001193125-26-449721
+2025,FY,2025-12-31,12,product,OtherRevenue,Other revenue,,,333.941,USD,millions,derived,SEC 10-K 0001193125-26-084144
+2025,FY,2025-12-31,12,product,Elevidys,ELEVIDYS,,Rare Disease,898.731,USD,millions,reported,SEC 10-K 0001193125-26-084144
+2025,FY,2025-12-31,12,product,PmoProducts,PMO Products,,Rare Disease,965.565,USD,millions,reported,SEC 10-K 0001193125-26-084144
+2026,Q1,2026-03-31,3,product,OtherRevenue,Other revenue,,,400.288,USD,millions,derived,SEC 10-Q 0001193125-26-208893
+2026,Q1,2026-03-31,3,product,Elevidys,ELEVIDYS,,Rare Disease,101.965,USD,millions,reported,SEC 10-Q 0001193125-26-208893
+2026,Q1,2026-03-31,3,product,PmoProducts,PMO Products,,Rare Disease,228.55,USD,millions,reported,SEC 10-Q 0001193125-26-208893
+2026,Q2,2026-06-30,3,product,OtherRevenue,Other revenue,,,72.562,USD,millions,derived,SEC 10-Q 0001193125-26-335003
+2026,Q2,2026-06-30,3,product,Elevidys,ELEVIDYS,,Rare Disease,98.125,USD,millions,reported,SEC 10-Q 0001193125-26-335003
+2026,Q2,2026-06-30,3,product,PmoProducts,PMO Products,,Rare Disease,230.564,USD,millions,reported,SEC 10-Q 0001193125-26-335003
+2026,Q3,2026-09-30,3,product,OtherRevenue,Other revenue,,,57.588,USD,millions,derived,SEC 10-Q 0001193125-26-449721
+2026,Q3,2026-09-30,3,product,Elevidys,ELEVIDYS,,Rare Disease,83.45,USD,millions,reported,SEC 10-Q 0001193125-26-449721
+2026,Q3,2026-09-30,3,product,PmoProducts,PMO Products,,Rare Disease,240.313,USD,millions,reported,SEC 10-Q 0001193125-26-449721

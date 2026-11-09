@@ -1,0 +1,26 @@
+{
+  "cik": "0000874015",
+  "code_hash": "c3eb527647b9",
+  "fiscal_year_end": "1231",
+  "form_type": "10-K",
+  "identity_checked": "2026-11-09",
+  "last_check": "2026-11-09",
+  "name": "IONIS PHARMACEUTICALS INC",
+  "periods": 28,
+  "product_groups": {
+    "CollaborativeAgreementRevenue": "Other",
+    "DAWNZERASales": "Cardiometabolic Health",
+    "DawnzeraSales": "Cardiometabolic Health",
+    "Ion859": "Cardiometabolic Health",
+    "ResearchAndDevelopmentRevenue": "Other",
+    "ResearchAndDevelopmentRevenueUnderCollaborativeAgreements": "Other",
+    "SpinrazaRoyalties": "Rare Disease",
+    "Tryngolza": "Cardiometabolic Health",
+    "TryngolzaSales": "Cardiometabolic Health",
+    "WainuaJointDevelopmentRevenue": "Rare Disease",
+    "WainusRoyalties": "Rare Disease"
+  },
+  "segment_exclude": {},
+  "sic": "Pharmaceutical Preparations",
+  "ticker": "IONS"
+}

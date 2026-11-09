@@ -1,0 +1,16 @@
+{
+  "currency": "USD",
+  "events": 0,
+  "id": "mrna",
+  "latest_period": "2026 Q3",
+  "latest_period_end": "2026-09-30",
+  "name_en": "Moderna",
+  "name_zh": "Moderna",
+  "rows": {
+    "balance": 23,
+    "cashflow": 28,
+    "income": 28,
+    "segments": 124
+  },
+  "source": "sec"
+}

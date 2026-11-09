@@ -1,0 +1,794 @@
+fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,value,currency,unit,basis,source
+2021,Q1,2021-03-31,3,geography,AsiaPacific,Asia Pacific (other than China and Japan),,,575,USD,millions,reported,SEC 10-Q 0000310158-22-000011
+2021,Q1,2021-03-31,3,geography,CN,China,,,721,USD,millions,reported,SEC 10-Q 0000310158-22-000011
+2021,Q1,2021-03-31,3,geography,EMEA,"Europe, Middle East and Africa",,,3237,USD,millions,reported,SEC 10-Q 0000310158-22-000011
+2021,Q1,2021-03-31,3,geography,JP,Japan,,,629,USD,millions,reported,SEC 10-Q 0000310158-22-000011
+2021,Q1,2021-03-31,3,geography,LatinAmerica,Latin America,,,500,USD,millions,reported,SEC 10-Q 0000310158-22-000011
+2021,Q1,2021-03-31,3,geography,OtherCountries,Other,,,175,USD,millions,reported,SEC 10-Q 0000310158-22-000011
+2021,Q1,2021-03-31,3,geography,US,U.S.,,,4790,USD,millions,reported,SEC 10-Q 0000310158-22-000011
+2021,Q2,2021-06-30,3,geography,AsiaPacific,Asia Pacific (other than China and Japan),,,594,USD,millions,reported,SEC 10-Q 0000310158-22-000030
+2021,Q2,2021-06-30,3,geography,CN,China,,,975,USD,millions,reported,SEC 10-Q 0000310158-22-000030
+2021,Q2,2021-06-30,3,geography,EMEA,"Europe, Middle East and Africa",,,3333,USD,millions,reported,SEC 10-Q 0000310158-22-000030
+2021,Q2,2021-06-30,3,geography,JP,Japan,,,661,USD,millions,reported,SEC 10-Q 0000310158-22-000030
+2021,Q2,2021-06-30,3,geography,LatinAmerica,Latin America,,,532,USD,millions,reported,SEC 10-Q 0000310158-22-000030
+2021,Q2,2021-06-30,3,geography,OtherCountries,Other,,,207,USD,millions,reported,SEC 10-Q 0000310158-22-000030
+2021,Q2,2021-06-30,3,geography,US,U.S.,,,5100,USD,millions,reported,SEC 10-Q 0000310158-22-000030
+2021,Q3,2021-09-30,3,geography,International,Int’l,,,6777,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2021,Q3,2021-09-30,3,geography,OtherNotItemized,Other (not itemized),,,240,USD,millions,derived,SEC 10-Q 0000310158-22-000034
+2021,Q3,2021-09-30,3,geography,US,U.S.,,,6137,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2021,Q3,2021-09-30,3,product,OtherNotItemized,Other (not itemized),,,241,USD,millions,derived,SEC 10-Q 0000310158-22-000034
+2021,Q3,2021-09-30,3,product,CompanionAnimals,Companion Animals,,Animal Health,553,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2021,Q3,2021-09-30,3,product,Livestock,Livestock,,Animal Health,864,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2021,Q3,2021-09-30,3,product,Adempas,Adempas,,Pharmaceutical,59,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2021,Q3,2021-09-30,3,product,AllianceRevenueAdempasVerquvo,Alliance revenue - Adempas/Verquvo,,Pharmaceutical,100,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2021,Q3,2021-09-30,3,product,AllianceRevenueReblozyl,Alliance Revenue - Reblozyl,,Pharmaceutical,0,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2021,Q3,2021-09-30,3,product,AlliancerevenueLynparza,Alliance revenue - Lynparza,,Pharmaceutical,246,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2021,Q3,2021-09-30,3,product,Belsomra,Belsomra,,Pharmaceutical,81,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2021,Q3,2021-09-30,3,product,Bridion,Bridion,,Pharmaceutical,369,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2021,Q3,2021-09-30,3,product,Cancidas,Cancidas,,Pharmaceutical,56,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2021,Q3,2021-09-30,3,product,Dificid,Dificid,,Pharmaceutical,54,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2021,Q3,2021-09-30,3,product,GardasilGardasil9,Gardasil/Gardasil 9,,Pharmaceutical,1993,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2021,Q3,2021-09-30,3,product,Invanz,Invanz,,Pharmaceutical,53,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2021,Q3,2021-09-30,3,product,IsentressIsentressHD,Isentress/Isentress HD,,Pharmaceutical,189,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2021,Q3,2021-09-30,3,product,Janumet,Janumet,,Pharmaceutical,487,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2021,Q3,2021-09-30,3,product,Januvia,Januvia,,Pharmaceutical,852,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2021,Q3,2021-09-30,3,product,Keytruda,Keytruda,,Pharmaceutical,4534,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2021,Q3,2021-09-30,3,product,Lagevrio,Lagevrio,,Pharmaceutical,0,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2021,Q3,2021-09-30,3,product,Lenvima,Alliance revenue - Lenvima,,Pharmaceutical,188,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2021,Q3,2021-09-30,3,product,Noxafil,Noxafil,,Pharmaceutical,64,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2021,Q3,2021-09-30,3,product,OtherPharmaceutical,Other pharmaceutical,,Pharmaceutical,518,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2021,Q3,2021-09-30,3,product,Pneumovax23,Pneumovax 23,,Pharmaceutical,277,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2021,Q3,2021-09-30,3,product,Prevymis,Prevymis,,Pharmaceutical,96,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2021,Q3,2021-09-30,3,product,Primaxin,Primaxin,,Pharmaceutical,70,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2021,Q3,2021-09-30,3,product,ProQuadMMRIIVarivax,ProQuad/M-M-R II/Varivax,,Pharmaceutical,661,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2021,Q3,2021-09-30,3,product,Remicade,Remicade,,Pharmaceutical,73,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2021,Q3,2021-09-30,3,product,Rotateq,RotaTeq,,Pharmaceutical,227,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2021,Q3,2021-09-30,3,product,Simponi,Simponi,,Pharmaceutical,203,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2021,Q3,2021-09-30,3,product,Vaqta,Vaqta,,Pharmaceutical,48,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2021,Q3,2021-09-30,3,product,Zerbaxa,Zerbaxa,,Pharmaceutical,-2,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2021,Q3,2021-09-30,3,segment,AnimalHealthsegment,Animal Health,,,1417,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2021,Q3,2021-09-30,3,segment,OtherNotItemized,Other (not itemized),,,241,USD,millions,derived,SEC 10-Q 0000310158-22-000034
+2021,Q3,2021-09-30,3,segment,Pharmaceuticalsegment,Pharmaceutical,,,11496,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2021,Q4,2021-12-31,3,geography,International,Int’l,,,7116,USD,millions,derived,SEC 10-K 0001628280-23-005061 − 10-Q 0000310158-22-000034
+2021,Q4,2021-12-31,3,geography,OtherNotItemized,Other (not itemized),,,220,USD,millions,derived,SEC 10-K 0001628280-23-005061 − 10-Q 0000310158-22-000034
+2021,Q4,2021-12-31,3,geography,US,United States,,,6185,USD,millions,derived,SEC 10-K 0001628280-23-005061 − 10-Q 0000310158-22-000034
+2021,FY,2021-12-31,12,geography,International,Int’l,,,26163,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2021,FY,2021-12-31,12,geography,OtherNotItemized,Other (not itemized),,,382,USD,millions,derived,SEC 10-K 0001628280-23-005061
+2021,FY,2021-12-31,12,geography,US,United States,,,22159,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2021,FY,2021-12-31,12,product,OtherNotItemized,Other (not itemized),,,382,USD,millions,derived,SEC 10-K 0001628280-23-005061
+2021,FY,2021-12-31,12,product,CompanionAnimals,Companion Animals,,Animal Health,2273,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2021,FY,2021-12-31,12,product,Livestock,Livestock,,Animal Health,3295,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2021,FY,2021-12-31,12,product,Adempas,Adempas,,Pharmaceutical segment,252,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2021,FY,2021-12-31,12,product,AllianceRevenueAdempasVerquvo,Alliance revenue - Adempas/Verquvo,,Pharmaceutical segment,342,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2021,FY,2021-12-31,12,product,AlliancerevenueLynparza,Alliance revenue - Lynparza,,Pharmaceutical segment,989,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2021,FY,2021-12-31,12,product,Belsomra,Belsomra,,Pharmaceutical segment,318,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2021,FY,2021-12-31,12,product,Bridion,Bridion,,Pharmaceutical segment,1532,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2021,FY,2021-12-31,12,product,Cancidas,Cancidas,,Pharmaceutical segment,212,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2021,FY,2021-12-31,12,product,Dificid,Dificid,,Pharmaceutical segment,175,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2021,FY,2021-12-31,12,product,GardasilGardasil9,Gardasil/Gardasil 9,,Pharmaceutical segment,5673,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2021,FY,2021-12-31,12,product,Invanz,Invanz,,Pharmaceutical segment,202,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2021,FY,2021-12-31,12,product,IsentressIsentressHD,Isentress/Isentress HD,,Pharmaceutical segment,769,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2021,FY,2021-12-31,12,product,Janumet,Janumet,,Pharmaceutical segment,1964,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2021,FY,2021-12-31,12,product,Januvia,Januvia,,Pharmaceutical segment,3324,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2021,FY,2021-12-31,12,product,Keytruda,Keytruda,,Pharmaceutical segment,17186,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2021,FY,2021-12-31,12,product,Lagevrio,Lagevrio,,Pharmaceutical segment,952,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2021,FY,2021-12-31,12,product,Lenvima,Alliance revenue - Lenvima,,Pharmaceutical segment,704,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2021,FY,2021-12-31,12,product,Noxafil,Noxafil,,Pharmaceutical segment,259,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2021,FY,2021-12-31,12,product,OtherPharmaceutical,Other pharmaceutical,,Pharmaceutical segment,2118,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2021,FY,2021-12-31,12,product,Pneumovax23,Pneumovax 23,,Pharmaceutical segment,893,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2021,FY,2021-12-31,12,product,Prevymis,Prevymis,,Pharmaceutical segment,370,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2021,FY,2021-12-31,12,product,Primaxin,Primaxin,,Pharmaceutical segment,259,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2021,FY,2021-12-31,12,product,ProQuadMMRIIVarivax,ProQuad/M-M-R II/Varivax,,Pharmaceutical segment,2135,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2021,FY,2021-12-31,12,product,Reblozyl,Reblozyl,,Pharmaceutical segment,17,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2021,FY,2021-12-31,12,product,Remicade,Remicade,,Pharmaceutical segment,299,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2021,FY,2021-12-31,12,product,Rotateq,RotaTeq,,Pharmaceutical segment,807,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2021,FY,2021-12-31,12,product,Simponi,Simponi,,Pharmaceutical segment,825,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2021,FY,2021-12-31,12,product,Vaqta,Vaqta,,Pharmaceutical segment,179,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2021,FY,2021-12-31,12,product,Zerbaxa,Zerbaxa,,Pharmaceutical segment,-1,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2021,FY,2021-12-31,12,segment,AllOtherSegments,Other segments,,,0,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2021,FY,2021-12-31,12,segment,AnimalHealthsegment,Animal Health,,,5568,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2021,FY,2021-12-31,12,segment,OtherNotItemized,Other (not itemized),,,382,USD,millions,derived,SEC 10-K 0001628280-23-005061
+2021,FY,2021-12-31,12,segment,Pharmaceuticalsegment,Pharmaceutical segment,,,42754,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2022,Q1,2022-03-31,3,geography,AsiaPacific,Asia Pacific (other than China and Japan),,,930,USD,millions,reported,SEC 10-Q 0000310158-22-000011
+2022,Q1,2022-03-31,3,geography,CN,China,,,1143,USD,millions,reported,SEC 10-Q 0000310158-22-000011
+2022,Q1,2022-03-31,3,geography,EMEA,"Europe, Middle East and Africa",,,4359,USD,millions,reported,SEC 10-Q 0000310158-22-000011
+2022,Q1,2022-03-31,3,geography,JP,Japan,,,989,USD,millions,reported,SEC 10-Q 0000310158-22-000011
+2022,Q1,2022-03-31,3,geography,LatinAmerica,Latin America,,,607,USD,millions,reported,SEC 10-Q 0000310158-22-000011
+2022,Q1,2022-03-31,3,geography,OtherCountries,Other,,,534,USD,millions,reported,SEC 10-Q 0000310158-22-000011
+2022,Q1,2022-03-31,3,geography,US,U.S.,,,7339,USD,millions,reported,SEC 10-Q 0000310158-22-000011
+2022,Q1,2022-03-31,3,product,OtherNotItemized,Other (not itemized),,,312,USD,millions,derived,SEC 10-Q 0000310158-22-000011
+2022,Q1,2022-03-31,3,product,CompanionAnimals,Companion Animals,,Animal Health,650,USD,millions,reported,SEC 10-Q 0000310158-22-000011
+2022,Q1,2022-03-31,3,product,Livestock,Livestock,,Animal Health,832,USD,millions,reported,SEC 10-Q 0000310158-22-000011
+2022,Q1,2022-03-31,3,product,Adempas,Adempas,,Pharmaceutical,61,USD,millions,reported,SEC 10-Q 0000310158-22-000011
+2022,Q1,2022-03-31,3,product,AllianceRevenueAdempasVerquvo,Alliance revenue - Adempas/Verquvo,,Pharmaceutical,72,USD,millions,reported,SEC 10-Q 0000310158-22-000011
+2022,Q1,2022-03-31,3,product,AllianceRevenueReblozyl,Alliance Revenue - Reblozyl,,Pharmaceutical,52,USD,millions,reported,SEC 10-Q 0000310158-22-000011
+2022,Q1,2022-03-31,3,product,AlliancerevenueLynparza,Alliance revenue - Lynparza,,Pharmaceutical,266,USD,millions,reported,SEC 10-Q 0000310158-22-000011
+2022,Q1,2022-03-31,3,product,Belsomra,Belsomra,,Pharmaceutical,69,USD,millions,reported,SEC 10-Q 0000310158-22-000011
+2022,Q1,2022-03-31,3,product,Bridion,Bridion,,Pharmaceutical,395,USD,millions,reported,SEC 10-Q 0000310158-22-000011
+2022,Q1,2022-03-31,3,product,Cancidas,Cancidas,,Pharmaceutical,53,USD,millions,reported,SEC 10-Q 0000310158-22-000011
+2022,Q1,2022-03-31,3,product,Dificid,Dificid,,Pharmaceutical,52,USD,millions,reported,SEC 10-Q 0000310158-22-000011
+2022,Q1,2022-03-31,3,product,GardasilGardasil9,Gardasil/Gardasil 9,,Pharmaceutical,1460,USD,millions,reported,SEC 10-Q 0000310158-22-000011
+2022,Q1,2022-03-31,3,product,Invanz,Invanz,,Pharmaceutical,52,USD,millions,reported,SEC 10-Q 0000310158-22-000011
+2022,Q1,2022-03-31,3,product,IsentressIsentressHD,Isentress/Isentress HD,,Pharmaceutical,158,USD,millions,reported,SEC 10-Q 0000310158-22-000011
+2022,Q1,2022-03-31,3,product,Janumet,Janumet,,Pharmaceutical,454,USD,millions,reported,SEC 10-Q 0000310158-22-000011
+2022,Q1,2022-03-31,3,product,Januvia,Januvia,,Pharmaceutical,779,USD,millions,reported,SEC 10-Q 0000310158-22-000011
+2022,Q1,2022-03-31,3,product,Keytruda,Keytruda,,Pharmaceutical,4809,USD,millions,reported,SEC 10-Q 0000310158-22-000011
+2022,Q1,2022-03-31,3,product,Lagevrio,Lagevrio,,Pharmaceutical,3247,USD,millions,reported,SEC 10-Q 0000310158-22-000011
+2022,Q1,2022-03-31,3,product,Lenvima,Alliance revenue - Lenvima,,Pharmaceutical,227,USD,millions,reported,SEC 10-Q 0000310158-22-000011
+2022,Q1,2022-03-31,3,product,Noxafil,Noxafil,,Pharmaceutical,57,USD,millions,reported,SEC 10-Q 0000310158-22-000011
+2022,Q1,2022-03-31,3,product,OtherPharmaceutical,Other pharmaceutical,,Pharmaceutical,520,USD,millions,reported,SEC 10-Q 0000310158-22-000011
+2022,Q1,2022-03-31,3,product,Pneumovax23,Pneumovax 23,,Pharmaceutical,173,USD,millions,reported,SEC 10-Q 0000310158-22-000011
+2022,Q1,2022-03-31,3,product,Prevymis,Prevymis,,Pharmaceutical,94,USD,millions,reported,SEC 10-Q 0000310158-22-000011
+2022,Q1,2022-03-31,3,product,Primaxin,Primaxin,,Pharmaceutical,58,USD,millions,reported,SEC 10-Q 0000310158-22-000011
+2022,Q1,2022-03-31,3,product,ProQuadMMRIIVarivax,ProQuad/M-M-R II/Varivax,,Pharmaceutical,470,USD,millions,reported,SEC 10-Q 0000310158-22-000011
+2022,Q1,2022-03-31,3,product,Remicade,Remicade,,Pharmaceutical,61,USD,millions,reported,SEC 10-Q 0000310158-22-000011
+2022,Q1,2022-03-31,3,product,Rotateq,RotaTeq,,Pharmaceutical,216,USD,millions,reported,SEC 10-Q 0000310158-22-000011
+2022,Q1,2022-03-31,3,product,Simponi,Simponi,,Pharmaceutical,186,USD,millions,reported,SEC 10-Q 0000310158-22-000011
+2022,Q1,2022-03-31,3,product,Vaqta,Vaqta,,Pharmaceutical,36,USD,millions,reported,SEC 10-Q 0000310158-22-000011
+2022,Q1,2022-03-31,3,product,Zerbaxa,Zerbaxa,,Pharmaceutical,30,USD,millions,reported,SEC 10-Q 0000310158-22-000011
+2022,Q1,2022-03-31,3,segment,AnimalHealthsegment,Animal Health,,,1482,USD,millions,reported,SEC 10-Q 0000310158-22-000011
+2022,Q1,2022-03-31,3,segment,OtherNotItemized,Other (not itemized),,,312,USD,millions,derived,SEC 10-Q 0000310158-22-000011
+2022,Q1,2022-03-31,3,segment,Pharmaceuticalsegment,Pharmaceutical,,,14107,USD,millions,reported,SEC 10-Q 0000310158-22-000011
+2022,Q2,2022-06-30,3,geography,AsiaPacific,Asia Pacific (other than China and Japan),,,1008,USD,millions,reported,SEC 10-Q 0000310158-22-000030
+2022,Q2,2022-06-30,3,geography,CN,China,,,1372,USD,millions,reported,SEC 10-Q 0000310158-22-000030
+2022,Q2,2022-06-30,3,geography,EMEA,"Europe, Middle East and Africa",,,3582,USD,millions,reported,SEC 10-Q 0000310158-22-000030
+2022,Q2,2022-06-30,3,geography,JP,Japan,,,1114,USD,millions,reported,SEC 10-Q 0000310158-22-000030
+2022,Q2,2022-06-30,3,geography,LatinAmerica,Latin America,,,642,USD,millions,reported,SEC 10-Q 0000310158-22-000030
+2022,Q2,2022-06-30,3,geography,OtherCountries,Other,,,637,USD,millions,reported,SEC 10-Q 0000310158-22-000030
+2022,Q2,2022-06-30,3,geography,US,U.S.,,,6238,USD,millions,reported,SEC 10-Q 0000310158-22-000030
+2022,Q2,2022-06-30,3,product,OtherNotItemized,Other (not itemized),,,370,USD,millions,derived,SEC 10-Q 0000310158-22-000030
+2022,Q2,2022-06-30,3,product,CompanionAnimals,Companion Animals,,Animal Health,641,USD,millions,reported,SEC 10-Q 0000310158-22-000030
+2022,Q2,2022-06-30,3,product,Livestock,Livestock,,Animal Health,826,USD,millions,reported,SEC 10-Q 0000310158-22-000030
+2022,Q2,2022-06-30,3,product,Adempas,Adempas,,Pharmaceutical,63,USD,millions,reported,SEC 10-Q 0000310158-22-000030
+2022,Q2,2022-06-30,3,product,AllianceRevenueAdempasVerquvo,Alliance revenue - Adempas/Verquvo,,Pharmaceutical,98,USD,millions,reported,SEC 10-Q 0000310158-22-000030
+2022,Q2,2022-06-30,3,product,AllianceRevenueReblozyl,Alliance Revenue - Reblozyl,,Pharmaceutical,33,USD,millions,reported,SEC 10-Q 0000310158-22-000030
+2022,Q2,2022-06-30,3,product,AlliancerevenueLynparza,Alliance revenue - Lynparza,,Pharmaceutical,275,USD,millions,reported,SEC 10-Q 0000310158-22-000030
+2022,Q2,2022-06-30,3,product,Belsomra,Belsomra,,Pharmaceutical,69,USD,millions,reported,SEC 10-Q 0000310158-22-000030
+2022,Q2,2022-06-30,3,product,Bridion,Bridion,,Pharmaceutical,426,USD,millions,reported,SEC 10-Q 0000310158-22-000030
+2022,Q2,2022-06-30,3,product,Cancidas,Cancidas,,Pharmaceutical,42,USD,millions,reported,SEC 10-Q 0000310158-22-000030
+2022,Q2,2022-06-30,3,product,Dificid,Dificid,,Pharmaceutical,66,USD,millions,reported,SEC 10-Q 0000310158-22-000030
+2022,Q2,2022-06-30,3,product,GardasilGardasil9,Gardasil/Gardasil 9,,Pharmaceutical,1674,USD,millions,reported,SEC 10-Q 0000310158-22-000030
+2022,Q2,2022-06-30,3,product,Invanz,Invanz,,Pharmaceutical,46,USD,millions,reported,SEC 10-Q 0000310158-22-000030
+2022,Q2,2022-06-30,3,product,IsentressIsentressHD,Isentress/Isentress HD,,Pharmaceutical,147,USD,millions,reported,SEC 10-Q 0000310158-22-000030
+2022,Q2,2022-06-30,3,product,Janumet,Janumet,,Pharmaceutical,476,USD,millions,reported,SEC 10-Q 0000310158-22-000030
+2022,Q2,2022-06-30,3,product,Januvia,Januvia,,Pharmaceutical,756,USD,millions,reported,SEC 10-Q 0000310158-22-000030
+2022,Q2,2022-06-30,3,product,Keytruda,Keytruda,,Pharmaceutical,5252,USD,millions,reported,SEC 10-Q 0000310158-22-000030
+2022,Q2,2022-06-30,3,product,Lagevrio,Lagevrio,,Pharmaceutical,1177,USD,millions,reported,SEC 10-Q 0000310158-22-000030
+2022,Q2,2022-06-30,3,product,Lenvima,Alliance revenue - Lenvima,,Pharmaceutical,231,USD,millions,reported,SEC 10-Q 0000310158-22-000030
+2022,Q2,2022-06-30,3,product,Noxafil,Noxafil,,Pharmaceutical,60,USD,millions,reported,SEC 10-Q 0000310158-22-000030
+2022,Q2,2022-06-30,3,product,OtherPharmaceutical,Other pharmaceutical,,Pharmaceutical,479,USD,millions,reported,SEC 10-Q 0000310158-22-000030
+2022,Q2,2022-06-30,3,product,Pneumovax23,Pneumovax 23,,Pharmaceutical,153,USD,millions,reported,SEC 10-Q 0000310158-22-000030
+2022,Q2,2022-06-30,3,product,Prevymis,Prevymis,,Pharmaceutical,103,USD,millions,reported,SEC 10-Q 0000310158-22-000030
+2022,Q2,2022-06-30,3,product,Primaxin,Primaxin,,Pharmaceutical,64,USD,millions,reported,SEC 10-Q 0000310158-22-000030
+2022,Q2,2022-06-30,3,product,ProQuadMMRIIVarivax,ProQuad/M-M-R II/Varivax,,Pharmaceutical,578,USD,millions,reported,SEC 10-Q 0000310158-22-000030
+2022,Q2,2022-06-30,3,product,Remicade,Remicade,,Pharmaceutical,53,USD,millions,reported,SEC 10-Q 0000310158-22-000030
+2022,Q2,2022-06-30,3,product,Rotateq,RotaTeq,,Pharmaceutical,173,USD,millions,reported,SEC 10-Q 0000310158-22-000030
+2022,Q2,2022-06-30,3,product,Simponi,Simponi,,Pharmaceutical,181,USD,millions,reported,SEC 10-Q 0000310158-22-000030
+2022,Q2,2022-06-30,3,product,Vaqta,Vaqta,,Pharmaceutical,35,USD,millions,reported,SEC 10-Q 0000310158-22-000030
+2022,Q2,2022-06-30,3,product,Zerbaxa,Zerbaxa,,Pharmaceutical,46,USD,millions,reported,SEC 10-Q 0000310158-22-000030
+2022,Q2,2022-06-30,3,segment,AnimalHealthsegment,Animal Health,,,1467,USD,millions,reported,SEC 10-Q 0000310158-22-000030
+2022,Q2,2022-06-30,3,segment,OtherNotItemized,Other (not itemized),,,370,USD,millions,derived,SEC 10-Q 0000310158-22-000030
+2022,Q2,2022-06-30,3,segment,Pharmaceuticalsegment,Pharmaceutical,,,12756,USD,millions,reported,SEC 10-Q 0000310158-22-000030
+2022,Q3,2022-09-30,3,geography,International,Int’l,,,7239,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2022,Q3,2022-09-30,3,geography,OtherNotItemized,Other (not itemized),,,625,USD,millions,derived,SEC 10-Q 0000310158-22-000034
+2022,Q3,2022-09-30,3,geography,US,U.S.,,,7095,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2022,Q3,2022-09-30,3,product,OtherNotItemized,Other (not itemized),,,625,USD,millions,derived,SEC 10-Q 0000310158-22-000034
+2022,Q3,2022-09-30,3,product,CompanionAnimals,Companion Animals,,Animal Health,542,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2022,Q3,2022-09-30,3,product,Livestock,Livestock,,Animal Health,829,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2022,Q3,2022-09-30,3,product,Adempas,Adempas,,Pharmaceutical,57,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2022,Q3,2022-09-30,3,product,AllianceRevenueAdempasVerquvo,Alliance revenue - Adempas/Verquvo,,Pharmaceutical,88,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2022,Q3,2022-09-30,3,product,AllianceRevenueReblozyl,Alliance Revenue - Reblozyl,,Pharmaceutical,39,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2022,Q3,2022-09-30,3,product,AlliancerevenueLynparza,Alliance revenue - Lynparza,,Pharmaceutical,284,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2022,Q3,2022-09-30,3,product,Belsomra,Belsomra,,Pharmaceutical,62,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2022,Q3,2022-09-30,3,product,Bridion,Bridion,,Pharmaceutical,423,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2022,Q3,2022-09-30,3,product,Cancidas,Cancidas,,Pharmaceutical,43,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2022,Q3,2022-09-30,3,product,Dificid,Dificid,,Pharmaceutical,77,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2022,Q3,2022-09-30,3,product,GardasilGardasil9,Gardasil/Gardasil 9,,Pharmaceutical,2294,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2022,Q3,2022-09-30,3,product,Invanz,Invanz,,Pharmaceutical,50,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2022,Q3,2022-09-30,3,product,IsentressIsentressHD,Isentress/Isentress HD,,Pharmaceutical,161,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2022,Q3,2022-09-30,3,product,Janumet,Janumet,,Pharmaceutical,417,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2022,Q3,2022-09-30,3,product,Januvia,Januvia,,Pharmaceutical,717,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2022,Q3,2022-09-30,3,product,Keytruda,Keytruda,,Pharmaceutical,5426,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2022,Q3,2022-09-30,3,product,Lagevrio,Lagevrio,,Pharmaceutical,436,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2022,Q3,2022-09-30,3,product,Lenvima,Alliance revenue - Lenvima,,Pharmaceutical,202,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2022,Q3,2022-09-30,3,product,Noxafil,Noxafil,,Pharmaceutical,62,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2022,Q3,2022-09-30,3,product,OtherPharmaceutical,Other pharmaceutical,,Pharmaceutical,564,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2022,Q3,2022-09-30,3,product,Pneumovax23,Pneumovax 23,,Pharmaceutical,131,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2022,Q3,2022-09-30,3,product,Prevymis,Prevymis,,Pharmaceutical,114,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2022,Q3,2022-09-30,3,product,Primaxin,Primaxin,,Pharmaceutical,63,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2022,Q3,2022-09-30,3,product,ProQuadMMRIIVarivax,ProQuad/M-M-R II/Varivax,,Pharmaceutical,668,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2022,Q3,2022-09-30,3,product,Remicade,Remicade,,Pharmaceutical,49,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2022,Q3,2022-09-30,3,product,Rotateq,RotaTeq,,Pharmaceutical,256,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2022,Q3,2022-09-30,3,product,Simponi,Simponi,,Pharmaceutical,173,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2022,Q3,2022-09-30,3,product,Vaqta,Vaqta,,Pharmaceutical,64,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2022,Q3,2022-09-30,3,product,Zerbaxa,Zerbaxa,,Pharmaceutical,43,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2022,Q3,2022-09-30,3,segment,AnimalHealthsegment,Animal Health,,,1371,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2022,Q3,2022-09-30,3,segment,OtherNotItemized,Other (not itemized),,,625,USD,millions,derived,SEC 10-Q 0000310158-22-000034
+2022,Q3,2022-09-30,3,segment,Pharmaceuticalsegment,Pharmaceutical,,,12963,USD,millions,reported,SEC 10-Q 0000310158-22-000034
+2022,Q4,2022-12-31,3,geography,International,Int’l,,,7143,USD,millions,derived,SEC 10-K 0001628280-23-005061 − 10-Q 0000310158-22-000034
+2022,Q4,2022-12-31,3,geography,OtherNotItemized,Other (not itemized),,,420,USD,millions,derived,SEC 10-K 0001628280-23-005061 − 10-Q 0000310158-22-000034
+2022,Q4,2022-12-31,3,geography,US,United States,,,6267,USD,millions,derived,SEC 10-K 0001628280-23-005061 − 10-Q 0000310158-22-000034
+2022,FY,2022-12-31,12,geography,International,Int’l,,,30744,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2022,FY,2022-12-31,12,geography,OtherNotItemized,Other (not itemized),,,1728,USD,millions,derived,SEC 10-K 0001628280-23-005061
+2022,FY,2022-12-31,12,geography,US,United States,,,26811,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2022,FY,2022-12-31,12,product,OtherNotItemized,Other (not itemized),,,1728,USD,millions,derived,SEC 10-K 0001628280-23-005061
+2022,FY,2022-12-31,12,product,CompanionAnimals,Companion Animals,,Animal Health,2250,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2022,FY,2022-12-31,12,product,Livestock,Livestock,,Animal Health,3300,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2022,FY,2022-12-31,12,product,Adempas,Adempas,,Pharmaceutical segment,238,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2022,FY,2022-12-31,12,product,AllianceRevenueAdempasVerquvo,Alliance revenue - Adempas/Verquvo,,Pharmaceutical segment,341,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2022,FY,2022-12-31,12,product,AlliancerevenueLynparza,Alliance revenue - Lynparza,,Pharmaceutical segment,1116,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2022,FY,2022-12-31,12,product,Belsomra,Belsomra,,Pharmaceutical segment,258,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2022,FY,2022-12-31,12,product,Bridion,Bridion,,Pharmaceutical segment,1685,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2022,FY,2022-12-31,12,product,Cancidas,Cancidas,,Pharmaceutical segment,174,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2022,FY,2022-12-31,12,product,Dificid,Dificid,,Pharmaceutical segment,263,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2022,FY,2022-12-31,12,product,GardasilGardasil9,Gardasil/Gardasil 9,,Pharmaceutical segment,6897,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2022,FY,2022-12-31,12,product,Invanz,Invanz,,Pharmaceutical segment,189,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2022,FY,2022-12-31,12,product,IsentressIsentressHD,Isentress/Isentress HD,,Pharmaceutical segment,633,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2022,FY,2022-12-31,12,product,Janumet,Janumet,,Pharmaceutical segment,1700,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2022,FY,2022-12-31,12,product,Januvia,Januvia,,Pharmaceutical segment,2813,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2022,FY,2022-12-31,12,product,Keytruda,Keytruda,,Pharmaceutical segment,20937,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2022,FY,2022-12-31,12,product,Lagevrio,Lagevrio,,Pharmaceutical segment,5684,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2022,FY,2022-12-31,12,product,Lenvima,Alliance revenue - Lenvima,,Pharmaceutical segment,876,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2022,FY,2022-12-31,12,product,Noxafil,Noxafil,,Pharmaceutical segment,238,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2022,FY,2022-12-31,12,product,OtherPharmaceutical,Other pharmaceutical,,Pharmaceutical segment,2249,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2022,FY,2022-12-31,12,product,Pneumovax23,Pneumovax 23,,Pharmaceutical segment,602,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2022,FY,2022-12-31,12,product,Prevymis,Prevymis,,Pharmaceutical segment,428,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2022,FY,2022-12-31,12,product,Primaxin,Primaxin,,Pharmaceutical segment,239,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2022,FY,2022-12-31,12,product,ProQuadMMRIIVarivax,ProQuad/M-M-R II/Varivax,,Pharmaceutical segment,2241,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2022,FY,2022-12-31,12,product,Reblozyl,Reblozyl,,Pharmaceutical segment,166,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2022,FY,2022-12-31,12,product,Remicade,Remicade,,Pharmaceutical segment,207,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2022,FY,2022-12-31,12,product,Rotateq,RotaTeq,,Pharmaceutical segment,783,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2022,FY,2022-12-31,12,product,Simponi,Simponi,,Pharmaceutical segment,706,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2022,FY,2022-12-31,12,product,Vaqta,Vaqta,,Pharmaceutical segment,173,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2022,FY,2022-12-31,12,product,Zerbaxa,Zerbaxa,,Pharmaceutical segment,169,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2022,FY,2022-12-31,12,segment,AllOtherSegments,Other segments,,,0,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2022,FY,2022-12-31,12,segment,AnimalHealthsegment,Animal Health,,,5550,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2022,FY,2022-12-31,12,segment,OtherNotItemized,Other (not itemized),,,1728,USD,millions,derived,SEC 10-K 0001628280-23-005061
+2022,FY,2022-12-31,12,segment,Pharmaceuticalsegment,Pharmaceutical segment,,,52005,USD,millions,reported,SEC 10-K 0001628280-23-005061
+2023,Q1,2023-03-31,3,geography,International,Int’l,,,7614,USD,millions,reported,SEC 10-Q 0001628280-24-020283
+2023,Q1,2023-03-31,3,geography,OtherNotItemized,Other (not itemized),,,274,USD,millions,derived,SEC 10-Q 0001628280-24-020283
+2023,Q1,2023-03-31,3,geography,US,U.S.,,,6599,USD,millions,reported,SEC 10-Q 0001628280-24-020283
+2023,Q1,2023-03-31,3,product,OtherNotItemized,Other (not itemized),,,275,USD,millions,derived,SEC 10-Q 0001628280-24-020283
+2023,Q1,2023-03-31,3,product,CompanionAnimal,Companion Animal,,Animal Health,642,USD,millions,reported,SEC 10-Q 0001628280-24-020283
+2023,Q1,2023-03-31,3,product,Livestock,Livestock,,Animal Health,849,USD,millions,reported,SEC 10-Q 0001628280-24-020283
+2023,Q1,2023-03-31,3,product,Adempas,Adempas,,Pharmaceutical,59,USD,millions,reported,SEC 10-Q 0001628280-24-020283
+2023,Q1,2023-03-31,3,product,AllianceRevenueAdempasVerquvo,Alliance revenue - Adempas/Verquvo,,Pharmaceutical,99,USD,millions,reported,SEC 10-Q 0001628280-24-020283
+2023,Q1,2023-03-31,3,product,AllianceRevenueReblozyl,Alliance Revenue - Reblozyl,,Pharmaceutical,43,USD,millions,reported,SEC 10-Q 0001628280-24-020283
+2023,Q1,2023-03-31,3,product,AlliancerevenueLynparza,Alliance revenue - Lynparza,,Pharmaceutical,275,USD,millions,reported,SEC 10-Q 0001628280-24-020283
+2023,Q1,2023-03-31,3,product,Belsomra,Belsomra,,Pharmaceutical,56,USD,millions,reported,SEC 10-Q 0001628280-24-020283
+2023,Q1,2023-03-31,3,product,Bridion,Bridion,,Pharmaceutical,487,USD,millions,reported,SEC 10-Q 0001628280-24-020283
+2023,Q1,2023-03-31,3,product,Delstrigo,Delstrigo,,Pharmaceutical,44,USD,millions,reported,SEC 10-Q 0001628280-24-020283
+2023,Q1,2023-03-31,3,product,Dificid,Dificid,,Pharmaceutical,65,USD,millions,reported,SEC 10-Q 0001628280-24-020283
+2023,Q1,2023-03-31,3,product,GardasilGardasil9,Gardasil/Gardasil 9,,Pharmaceutical,1972,USD,millions,reported,SEC 10-Q 0001628280-24-020283
+2023,Q1,2023-03-31,3,product,IsentressIsentressHD,Isentress/Isentress HD,,Pharmaceutical,123,USD,millions,reported,SEC 10-Q 0001628280-24-020283
+2023,Q1,2023-03-31,3,product,Janumet,Janumet,,Pharmaceutical,329,USD,millions,reported,SEC 10-Q 0001628280-24-020283
+2023,Q1,2023-03-31,3,product,Januvia,Januvia,,Pharmaceutical,551,USD,millions,reported,SEC 10-Q 0001628280-24-020283
+2023,Q1,2023-03-31,3,product,Keytruda,Keytruda,,Pharmaceutical,5795,USD,millions,reported,SEC 10-Q 0001628280-24-020283
+2023,Q1,2023-03-31,3,product,Lagevrio,Lagevrio,,Pharmaceutical,392,USD,millions,reported,SEC 10-Q 0001628280-24-020283
+2023,Q1,2023-03-31,3,product,Lenvima,Alliance revenue - Lenvima,,Pharmaceutical,232,USD,millions,reported,SEC 10-Q 0001628280-24-020283
+2023,Q1,2023-03-31,3,product,Noxafil,Noxafil,,Pharmaceutical,60,USD,millions,reported,SEC 10-Q 0001628280-24-020283
+2023,Q1,2023-03-31,3,product,OtherPharmaceutical,Other pharmaceutical,,Pharmaceutical,626,USD,millions,reported,SEC 10-Q 0001628280-24-020283
+2023,Q1,2023-03-31,3,product,Pifeltro,Pifeltro,,Pharmaceutical,34,USD,millions,reported,SEC 10-Q 0001628280-24-020283
+2023,Q1,2023-03-31,3,product,Pneumovax23,Pneumovax 23,,Pharmaceutical,96,USD,millions,reported,SEC 10-Q 0001628280-24-020283
+2023,Q1,2023-03-31,3,product,Prevymis,Prevymis,,Pharmaceutical,129,USD,millions,reported,SEC 10-Q 0001628280-24-020283
+2023,Q1,2023-03-31,3,product,ProQuadMMRIIVarivax,ProQuad/M-M-R II/Varivax,,Pharmaceutical,528,USD,millions,reported,SEC 10-Q 0001628280-24-020283
+2023,Q1,2023-03-31,3,product,Remicade,Remicade,,Pharmaceutical,51,USD,millions,reported,SEC 10-Q 0001628280-24-020283
+2023,Q1,2023-03-31,3,product,Rotateq,RotaTeq,,Pharmaceutical,297,USD,millions,reported,SEC 10-Q 0001628280-24-020283
+2023,Q1,2023-03-31,3,product,Simponi,Simponi,,Pharmaceutical,180,USD,millions,reported,SEC 10-Q 0001628280-24-020283
+2023,Q1,2023-03-31,3,product,Vaxneuvance,Vaxneuvance,,Pharmaceutical,106,USD,millions,reported,SEC 10-Q 0001628280-24-020283
+2023,Q1,2023-03-31,3,product,Welireg,Welireg,,Pharmaceutical,42,USD,millions,reported,SEC 10-Q 0001628280-24-020283
+2023,Q1,2023-03-31,3,product,Zerbaxa,Zerbaxa,,Pharmaceutical,50,USD,millions,reported,SEC 10-Q 0001628280-24-020283
+2023,Q1,2023-03-31,3,segment,AnimalHealthsegment,Animal Health,,,1491,USD,millions,reported,SEC 10-Q 0001628280-24-020283
+2023,Q1,2023-03-31,3,segment,OtherNotItemized,Other (not itemized),,,275,USD,millions,derived,SEC 10-Q 0001628280-24-020283
+2023,Q1,2023-03-31,3,segment,Pharmaceuticalsegment,Pharmaceutical,,,12721,USD,millions,reported,SEC 10-Q 0001628280-24-020283
+2023,Q2,2023-06-30,3,geography,AsiaPacific,Asia Pacific (other than China and Japan),,,848,USD,millions,reported,SEC 10-Q 0001628280-24-034715
+2023,Q2,2023-06-30,3,geography,CN,China,,,1913,USD,millions,reported,SEC 10-Q 0001628280-24-034715
+2023,Q2,2023-06-30,3,geography,EMEA,"Europe, Middle East and Africa",,,3348,USD,millions,reported,SEC 10-Q 0001628280-24-034715
+2023,Q2,2023-06-30,3,geography,JP,Japan,,,675,USD,millions,reported,SEC 10-Q 0001628280-24-034715
+2023,Q2,2023-06-30,3,geography,LatinAmerica,Latin America,,,742,USD,millions,reported,SEC 10-Q 0001628280-24-034715
+2023,Q2,2023-06-30,3,geography,OtherCountries,Other,,,491,USD,millions,reported,SEC 10-Q 0001628280-24-034715
+2023,Q2,2023-06-30,3,geography,US,U.S.,,,7018,USD,millions,reported,SEC 10-Q 0001628280-24-034715
+2023,Q2,2023-06-30,3,product,OtherNotItemized,Other (not itemized),,,122,USD,millions,derived,SEC 10-Q 0001628280-24-034715
+2023,Q2,2023-06-30,3,product,CompanionAnimal,Companion Animal,,Animal Health,649,USD,millions,reported,SEC 10-Q 0001628280-24-034715
+2023,Q2,2023-06-30,3,product,Livestock,Livestock,,Animal Health,807,USD,millions,reported,SEC 10-Q 0001628280-24-034715
+2023,Q2,2023-06-30,3,product,Adempas,Adempas,,Pharmaceutical,65,USD,millions,reported,SEC 10-Q 0001628280-24-034715
+2023,Q2,2023-06-30,3,product,AllianceRevenueAdempasVerquvo,Alliance revenue - Adempas/Verquvo,,Pharmaceutical,68,USD,millions,reported,SEC 10-Q 0001628280-24-034715
+2023,Q2,2023-06-30,3,product,AllianceRevenueReblozyl,Alliance Revenue - Reblozyl,,Pharmaceutical,47,USD,millions,reported,SEC 10-Q 0001628280-24-034715
+2023,Q2,2023-06-30,3,product,AlliancerevenueLynparza,Alliance revenue - Lynparza,,Pharmaceutical,310,USD,millions,reported,SEC 10-Q 0001628280-24-034715
+2023,Q2,2023-06-30,3,product,Belsomra,Belsomra,,Pharmaceutical,63,USD,millions,reported,SEC 10-Q 0001628280-24-034715
+2023,Q2,2023-06-30,3,product,Bridion,Bridion,,Pharmaceutical,502,USD,millions,reported,SEC 10-Q 0001628280-24-034715
+2023,Q2,2023-06-30,3,product,Delstrigo,Delstrigo,,Pharmaceutical,50,USD,millions,reported,SEC 10-Q 0001628280-24-034715
+2023,Q2,2023-06-30,3,product,Dificid,Dificid,,Pharmaceutical,76,USD,millions,reported,SEC 10-Q 0001628280-24-034715
+2023,Q2,2023-06-30,3,product,GardasilGardasil9,Gardasil/Gardasil 9,,Pharmaceutical,2458,USD,millions,reported,SEC 10-Q 0001628280-24-034715
+2023,Q2,2023-06-30,3,product,IsentressIsentressHD,Isentress/Isentress HD,,Pharmaceutical,136,USD,millions,reported,SEC 10-Q 0001628280-24-034715
+2023,Q2,2023-06-30,3,product,Janumet,Janumet,,Pharmaceutical,354,USD,millions,reported,SEC 10-Q 0001628280-24-034715
+2023,Q2,2023-06-30,3,product,Januvia,Januvia,,Pharmaceutical,511,USD,millions,reported,SEC 10-Q 0001628280-24-034715
+2023,Q2,2023-06-30,3,product,Keytruda,Keytruda,,Pharmaceutical,6271,USD,millions,reported,SEC 10-Q 0001628280-24-034715
+2023,Q2,2023-06-30,3,product,Lagevrio,Lagevrio,,Pharmaceutical,203,USD,millions,reported,SEC 10-Q 0001628280-24-034715
+2023,Q2,2023-06-30,3,product,Lenvima,Alliance revenue - Lenvima,,Pharmaceutical,242,USD,millions,reported,SEC 10-Q 0001628280-24-034715
+2023,Q2,2023-06-30,3,product,Noxafil,Noxafil,,Pharmaceutical,55,USD,millions,reported,SEC 10-Q 0001628280-24-034715
+2023,Q2,2023-06-30,3,product,OtherPharmaceutical,Other pharmaceutical,,Pharmaceutical,560,USD,millions,reported,SEC 10-Q 0001628280-24-034715
+2023,Q2,2023-06-30,3,product,Pifeltro,Pifeltro,,Pharmaceutical,38,USD,millions,reported,SEC 10-Q 0001628280-24-034715
+2023,Q2,2023-06-30,3,product,Pneumovax23,Pneumovax 23,,Pharmaceutical,92,USD,millions,reported,SEC 10-Q 0001628280-24-034715
+2023,Q2,2023-06-30,3,product,Prevymis,Prevymis,,Pharmaceutical,143,USD,millions,reported,SEC 10-Q 0001628280-24-034715
+2023,Q2,2023-06-30,3,product,ProQuadMMRIIVarivax,ProQuad/M-M-R II/Varivax,,Pharmaceutical,582,USD,millions,reported,SEC 10-Q 0001628280-24-034715
+2023,Q2,2023-06-30,3,product,Remicade,Remicade,,Pharmaceutical,48,USD,millions,reported,SEC 10-Q 0001628280-24-034715
+2023,Q2,2023-06-30,3,product,Rotateq,RotaTeq,,Pharmaceutical,131,USD,millions,reported,SEC 10-Q 0001628280-24-034715
+2023,Q2,2023-06-30,3,product,Simponi,Simponi,,Pharmaceutical,180,USD,millions,reported,SEC 10-Q 0001628280-24-034715
+2023,Q2,2023-06-30,3,product,Vaxneuvance,Vaxneuvance,,Pharmaceutical,168,USD,millions,reported,SEC 10-Q 0001628280-24-034715
+2023,Q2,2023-06-30,3,product,Welireg,Welireg,,Pharmaceutical,50,USD,millions,reported,SEC 10-Q 0001628280-24-034715
+2023,Q2,2023-06-30,3,product,Winrevair,Winrevair,,Pharmaceutical,0,USD,millions,reported,SEC 10-Q 0001628280-24-034715
+2023,Q2,2023-06-30,3,product,Zerbaxa,Zerbaxa,,Pharmaceutical,54,USD,millions,reported,SEC 10-Q 0001628280-24-034715
+2023,Q2,2023-06-30,3,segment,AnimalHealthsegment,Animal Health,,,1456,USD,millions,reported,SEC 10-Q 0001628280-24-034715
+2023,Q2,2023-06-30,3,segment,OtherNotItemized,Other (not itemized),,,122,USD,millions,derived,SEC 10-Q 0001628280-24-034715
+2023,Q2,2023-06-30,3,segment,Pharmaceuticalsegment,Pharmaceutical,,,13457,USD,millions,reported,SEC 10-Q 0001628280-24-034715
+2023,Q3,2023-09-30,3,geography,AsiaPacific,Asia Pacific (other than China and Japan),,,781,USD,millions,reported,SEC 10-Q 0001628280-24-045689
+2023,Q3,2023-09-30,3,geography,CN,China,,,1694,USD,millions,reported,SEC 10-Q 0001628280-24-045689
+2023,Q3,2023-09-30,3,geography,EMEA,"Europe, Middle East and Africa",,,3327,USD,millions,reported,SEC 10-Q 0001628280-24-045689
+2023,Q3,2023-09-30,3,geography,JP,Japan,,,1081,USD,millions,reported,SEC 10-Q 0001628280-24-045689
+2023,Q3,2023-09-30,3,geography,LatinAmerica,Latin America,,,895,USD,millions,reported,SEC 10-Q 0001628280-24-045689
+2023,Q3,2023-09-30,3,geography,OtherCountries,Other,,,469,USD,millions,reported,SEC 10-Q 0001628280-24-045689
+2023,Q3,2023-09-30,3,geography,US,U.S.,,,7715,USD,millions,reported,SEC 10-Q 0001628280-24-045689
+2023,Q3,2023-09-30,3,product,OtherNotItemized,Other (not itemized),,,299,USD,millions,derived,SEC 10-Q 0001628280-24-045689
+2023,Q3,2023-09-30,3,product,CompanionAnimal,Companion Animal,,Animal Health,526,USD,millions,reported,SEC 10-Q 0001628280-24-045689
+2023,Q3,2023-09-30,3,product,Livestock,Livestock,,Animal Health,874,USD,millions,reported,SEC 10-Q 0001628280-24-045689
+2023,Q3,2023-09-30,3,product,Adempas,Adempas,,Pharmaceutical,65,USD,millions,reported,SEC 10-Q 0001628280-24-045689
+2023,Q3,2023-09-30,3,product,AllianceRevenueAdempasVerquvo,Alliance revenue - Adempas/Verquvo,,Pharmaceutical,92,USD,millions,reported,SEC 10-Q 0001628280-24-045689
+2023,Q3,2023-09-30,3,product,AllianceRevenueReblozyl,Alliance Revenue - Reblozyl,,Pharmaceutical,52,USD,millions,reported,SEC 10-Q 0001628280-24-045689
+2023,Q3,2023-09-30,3,product,AlliancerevenueLynparza,Alliance revenue - Lynparza,,Pharmaceutical,299,USD,millions,reported,SEC 10-Q 0001628280-24-045689
+2023,Q3,2023-09-30,3,product,Belsomra,Belsomra,,Pharmaceutical,58,USD,millions,reported,SEC 10-Q 0001628280-24-045689
+2023,Q3,2023-09-30,3,product,Bridion,Bridion,,Pharmaceutical,424,USD,millions,reported,SEC 10-Q 0001628280-24-045689
+2023,Q3,2023-09-30,3,product,Delstrigo,Delstrigo,,Pharmaceutical,54,USD,millions,reported,SEC 10-Q 0001628280-24-045689
+2023,Q3,2023-09-30,3,product,Dificid,Dificid,,Pharmaceutical,74,USD,millions,reported,SEC 10-Q 0001628280-24-045689
+2023,Q3,2023-09-30,3,product,GardasilGardasil9,Gardasil/Gardasil 9,,Pharmaceutical,2585,USD,millions,reported,SEC 10-Q 0001628280-24-045689
+2023,Q3,2023-09-30,3,product,IsentressIsentressHD,Isentress/Isentress HD,,Pharmaceutical,119,USD,millions,reported,SEC 10-Q 0001628280-24-045689
+2023,Q3,2023-09-30,3,product,Janumet,Janumet,,Pharmaceutical,255,USD,millions,reported,SEC 10-Q 0001628280-24-045689
+2023,Q3,2023-09-30,3,product,Januvia,Januvia,,Pharmaceutical,581,USD,millions,reported,SEC 10-Q 0001628280-24-045689
+2023,Q3,2023-09-30,3,product,Keytruda,Keytruda,,Pharmaceutical,6338,USD,millions,reported,SEC 10-Q 0001628280-24-045689
+2023,Q3,2023-09-30,3,product,Lagevrio,Lagevrio,,Pharmaceutical,640,USD,millions,reported,SEC 10-Q 0001628280-24-045689
+2023,Q3,2023-09-30,3,product,Lenvima,Alliance revenue - Lenvima,,Pharmaceutical,260,USD,millions,reported,SEC 10-Q 0001628280-24-045689
+2023,Q3,2023-09-30,3,product,Noxafil,Noxafil,,Pharmaceutical,51,USD,millions,reported,SEC 10-Q 0001628280-24-045689
+2023,Q3,2023-09-30,3,product,OtherPharmaceutical,Other pharmaceutical,,Pharmaceutical,568,USD,millions,reported,SEC 10-Q 0001628280-24-045689
+2023,Q3,2023-09-30,3,product,Pifeltro,Pifeltro,,Pharmaceutical,37,USD,millions,reported,SEC 10-Q 0001628280-24-045689
+2023,Q3,2023-09-30,3,product,Pneumovax23,Pneumovax 23,,Pharmaceutical,140,USD,millions,reported,SEC 10-Q 0001628280-24-045689
+2023,Q3,2023-09-30,3,product,Prevymis,Prevymis,,Pharmaceutical,157,USD,millions,reported,SEC 10-Q 0001628280-24-045689
+2023,Q3,2023-09-30,3,product,ProQuadMMRIIVarivax,ProQuad/M-M-R II/Varivax,,Pharmaceutical,713,USD,millions,reported,SEC 10-Q 0001628280-24-045689
+2023,Q3,2023-09-30,3,product,Remicade,Remicade,,Pharmaceutical,45,USD,millions,reported,SEC 10-Q 0001628280-24-045689
+2023,Q3,2023-09-30,3,product,Rotateq,RotaTeq,,Pharmaceutical,156,USD,millions,reported,SEC 10-Q 0001628280-24-045689
+2023,Q3,2023-09-30,3,product,Simponi,Simponi,,Pharmaceutical,179,USD,millions,reported,SEC 10-Q 0001628280-24-045689
+2023,Q3,2023-09-30,3,product,Vaxneuvance,Vaxneuvance,,Pharmaceutical,214,USD,millions,reported,SEC 10-Q 0001628280-24-045689
+2023,Q3,2023-09-30,3,product,Welireg,Welireg,,Pharmaceutical,54,USD,millions,reported,SEC 10-Q 0001628280-24-045689
+2023,Q3,2023-09-30,3,product,Winrevair,Winrevair,,Pharmaceutical,0,USD,millions,reported,SEC 10-Q 0001628280-24-045689
+2023,Q3,2023-09-30,3,product,Zerbaxa,Zerbaxa,,Pharmaceutical,53,USD,millions,reported,SEC 10-Q 0001628280-24-045689
+2023,Q3,2023-09-30,3,segment,AnimalHealthsegment,Animal Health,,,1400,USD,millions,reported,SEC 10-Q 0001628280-24-045689
+2023,Q3,2023-09-30,3,segment,OtherNotItemized,Other (not itemized),,,299,USD,millions,derived,SEC 10-Q 0001628280-24-045689
+2023,Q3,2023-09-30,3,segment,Pharmaceuticalsegment,Pharmaceutical,,,14263,USD,millions,reported,SEC 10-Q 0001628280-24-045689
+2023,Q4,2023-12-31,3,segment,AnimalHealthsegment,Animal Health,,,1278,USD,millions,derived,SEC 10-K 0001628280-25-007732 − 10-Q 0001628280-24-045689
+2023,Q4,2023-12-31,3,segment,OtherNotItemized,Other (not itemized),,,211,USD,millions,derived,SEC 10-K 0001628280-25-007732 − 10-Q 0001628280-24-045689
+2023,Q4,2023-12-31,3,segment,Pharmaceuticalsegment,Pharmaceutical segment,,,13141,USD,millions,derived,SEC 10-K 0001628280-25-007732 − 10-Q 0001628280-24-045689
+2023,FY,2023-12-31,12,geography,International,Int’l,,,30865,USD,millions,reported,SEC 10-K 0001628280-25-007732
+2023,FY,2023-12-31,12,geography,OtherNotItemized,Other (not itemized),,,907,USD,millions,derived,SEC 10-K 0001628280-25-007732
+2023,FY,2023-12-31,12,geography,US,United States,,,28343,USD,millions,reported,SEC 10-K 0001628280-25-007732
+2023,FY,2023-12-31,12,product,OtherNotItemized,Other (not itemized),,,907,USD,millions,derived,SEC 10-K 0001628280-25-007732
+2023,FY,2023-12-31,12,product,CompanionAnimals,Companion Animal,,Animal Health,2288,USD,millions,reported,SEC 10-K 0001628280-25-007732
+2023,FY,2023-12-31,12,product,Livestock,Livestock,,Animal Health,3337,USD,millions,reported,SEC 10-K 0001628280-25-007732
+2023,FY,2023-12-31,12,product,Adempas,Adempas,,Pharmaceutical segment,255,USD,millions,reported,SEC 10-K 0001628280-25-007732
+2023,FY,2023-12-31,12,product,AllianceRevenueAdempasVerquvo,Alliance revenue - Adempas/Verquvo,,Pharmaceutical segment,367,USD,millions,reported,SEC 10-K 0001628280-25-007732
+2023,FY,2023-12-31,12,product,AlliancerevenueLynparza,Alliance revenue - Lynparza,,Pharmaceutical segment,1199,USD,millions,reported,SEC 10-K 0001628280-25-007732
+2023,FY,2023-12-31,12,product,Belsomra,Belsomra,,Pharmaceutical segment,231,USD,millions,reported,SEC 10-K 0001628280-25-007732
+2023,FY,2023-12-31,12,product,Bridion,Bridion,,Pharmaceutical segment,1842,USD,millions,reported,SEC 10-K 0001628280-25-007732
+2023,FY,2023-12-31,12,product,Delstrigo,Delstrigo,,Pharmaceutical segment,201,USD,millions,reported,SEC 10-K 0001628280-25-007732
+2023,FY,2023-12-31,12,product,Dificid,Dificid,,Pharmaceutical segment,302,USD,millions,reported,SEC 10-K 0001628280-25-007732
+2023,FY,2023-12-31,12,product,GardasilGardasil9,Gardasil/Gardasil 9,,Pharmaceutical segment,8886,USD,millions,reported,SEC 10-K 0001628280-25-007732
+2023,FY,2023-12-31,12,product,IsentressIsentressHD,Isentress/Isentress HD,,Pharmaceutical segment,483,USD,millions,reported,SEC 10-K 0001628280-25-007732
+2023,FY,2023-12-31,12,product,Janumet,Janumet,,Pharmaceutical segment,1177,USD,millions,reported,SEC 10-K 0001628280-25-007732
+2023,FY,2023-12-31,12,product,Januvia,Januvia,,Pharmaceutical segment,2189,USD,millions,reported,SEC 10-K 0001628280-25-007732
+2023,FY,2023-12-31,12,product,Keytruda,Keytruda,,Pharmaceutical segment,25011,USD,millions,reported,SEC 10-K 0001628280-25-007732
+2023,FY,2023-12-31,12,product,Lagevrio,Lagevrio,,Pharmaceutical segment,1428,USD,millions,reported,SEC 10-K 0001628280-25-007732
+2023,FY,2023-12-31,12,product,Lenvima,Alliance revenue - Lenvima,,Pharmaceutical segment,960,USD,millions,reported,SEC 10-K 0001628280-25-007732
+2023,FY,2023-12-31,12,product,Noxafil,Noxafil,,Pharmaceutical segment,213,USD,millions,reported,SEC 10-K 0001628280-25-007732
+2023,FY,2023-12-31,12,product,OtherPharmaceutical,Other pharmaceutical,,Pharmaceutical segment,2333,USD,millions,reported,SEC 10-K 0001628280-25-007732
+2023,FY,2023-12-31,12,product,Pifeltro,Pifeltro,,Pharmaceutical segment,142,USD,millions,reported,SEC 10-K 0001628280-25-007732
+2023,FY,2023-12-31,12,product,Pneumovax23,Pneumovax 23,,Pharmaceutical segment,412,USD,millions,reported,SEC 10-K 0001628280-25-007732
+2023,FY,2023-12-31,12,product,Prevymis,Prevymis,,Pharmaceutical segment,605,USD,millions,reported,SEC 10-K 0001628280-25-007732
+2023,FY,2023-12-31,12,product,ProQuadMMRIIVarivax,ProQuad/M-M-R II/Varivax,,Pharmaceutical segment,2368,USD,millions,reported,SEC 10-K 0001628280-25-007732
+2023,FY,2023-12-31,12,product,Reblozyl,Reblozyl,,Pharmaceutical segment,212,USD,millions,reported,SEC 10-K 0001628280-25-007732
+2023,FY,2023-12-31,12,product,Remicade,Remicade,,Pharmaceutical segment,187,USD,millions,reported,SEC 10-K 0001628280-25-007732
+2023,FY,2023-12-31,12,product,Rotateq,RotaTeq,,Pharmaceutical segment,769,USD,millions,reported,SEC 10-K 0001628280-25-007732
+2023,FY,2023-12-31,12,product,Simponi,Simponi,,Pharmaceutical segment,710,USD,millions,reported,SEC 10-K 0001628280-25-007732
+2023,FY,2023-12-31,12,product,Vaxneuvance,Vaxneuvance,,Pharmaceutical segment,665,USD,millions,reported,SEC 10-K 0001628280-25-007732
+2023,FY,2023-12-31,12,product,Welireg,Welireg,,Pharmaceutical segment,218,USD,millions,reported,SEC 10-K 0001628280-25-007732
+2023,FY,2023-12-31,12,product,Winrevair,Winrevair,,Pharmaceutical segment,0,USD,millions,reported,SEC 10-K 0001628280-25-007732
+2023,FY,2023-12-31,12,product,Zerbaxa,Zerbaxa,,Pharmaceutical segment,218,USD,millions,reported,SEC 10-K 0001628280-25-007732
+2023,FY,2023-12-31,12,segment,AnimalHealthsegment,Animal Health,,,5625,USD,millions,reported,SEC 10-K 0001628280-25-007732
+2023,FY,2023-12-31,12,segment,OtherNotItemized,Other (not itemized),,,907,USD,millions,derived,SEC 10-K 0001628280-25-007732
+2023,FY,2023-12-31,12,segment,Pharmaceuticalsegment,Pharmaceutical segment,,,53583,USD,millions,reported,SEC 10-K 0001628280-25-007732
+2024,Q1,2024-03-31,3,geography,AsiaPacific,Asia Pacific (other than China and Japan),,,724,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2024,Q1,2024-03-31,3,geography,CN,China,,,1772,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2024,Q1,2024-03-31,3,geography,EMEA,"Europe, Middle East and Africa",,,3563,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2024,Q1,2024-03-31,3,geography,JP,Japan,,,821,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2024,Q1,2024-03-31,3,geography,LatinAmerica,Latin America,,,796,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2024,Q1,2024-03-31,3,geography,OtherCountries,Other,,,621,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2024,Q1,2024-03-31,3,geography,US,U.S.,,,7478,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2024,Q1,2024-03-31,3,product,OtherNotItemized,Other (not itemized),,,258,USD,millions,derived,SEC 10-Q 0001628280-25-021834
+2024,Q1,2024-03-31,3,product,CompanionAnimal,Companion Animal,,Animal Health,661,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2024,Q1,2024-03-31,3,product,Livestock,Livestock,,Animal Health,850,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2024,Q1,2024-03-31,3,product,Adempas,Adempas,,Pharmaceutical,70,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2024,Q1,2024-03-31,3,product,AllianceRevenueAdempasVerquvo,Alliance revenue - Adempas/Verquvo,,Pharmaceutical,98,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2024,Q1,2024-03-31,3,product,AllianceRevenueReblozyl,Alliance Revenue - Reblozyl,,Pharmaceutical,71,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2024,Q1,2024-03-31,3,product,AlliancerevenueLynparza,Alliance revenue - Lynparza,,Pharmaceutical,292,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2024,Q1,2024-03-31,3,product,Belsomra,Belsomra,,Pharmaceutical,46,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2024,Q1,2024-03-31,3,product,Bridion,Bridion,,Pharmaceutical,440,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2024,Q1,2024-03-31,3,product,Capvaxive,Capvaxive,,Pharmaceutical,0,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2024,Q1,2024-03-31,3,product,Delstrigo,Delstrigo,,Pharmaceutical,56,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2024,Q1,2024-03-31,3,product,Dificid,Dificid,,Pharmaceutical,73,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2024,Q1,2024-03-31,3,product,GardasilGardasil9,Gardasil/Gardasil 9,,Pharmaceutical,2249,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2024,Q1,2024-03-31,3,product,IsentressIsentressHD,Isentress/Isentress HD,,Pharmaceutical,111,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2024,Q1,2024-03-31,3,product,Janumet,Janumet,,Pharmaceutical,251,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2024,Q1,2024-03-31,3,product,Januvia,Januvia,,Pharmaceutical,419,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2024,Q1,2024-03-31,3,product,Keytruda,Keytruda,,Pharmaceutical,6947,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2024,Q1,2024-03-31,3,product,Lagevrio,Lagevrio,,Pharmaceutical,350,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2024,Q1,2024-03-31,3,product,Lenvima,Alliance revenue - Lenvima,,Pharmaceutical,255,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2024,Q1,2024-03-31,3,product,OtherPharmaceutical,Other pharmaceutical,,Pharmaceutical,632,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2024,Q1,2024-03-31,3,product,Pifeltro,Pifeltro,,Pharmaceutical,42,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2024,Q1,2024-03-31,3,product,Pneumovax23,Pneumovax 23,,Pharmaceutical,61,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2024,Q1,2024-03-31,3,product,Prevymis,Prevymis,,Pharmaceutical,174,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2024,Q1,2024-03-31,3,product,ProQuadMMRIIVarivax,ProQuad/M-M-R II/Varivax,,Pharmaceutical,570,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2024,Q1,2024-03-31,3,product,Remicade,Remicade,,Pharmaceutical,39,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2024,Q1,2024-03-31,3,product,Rotateq,RotaTeq,,Pharmaceutical,216,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2024,Q1,2024-03-31,3,product,Simponi,Simponi,,Pharmaceutical,184,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2024,Q1,2024-03-31,3,product,Vaxneuvance,Vaxneuvance,,Pharmaceutical,219,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2024,Q1,2024-03-31,3,product,Welireg,Welireg,,Pharmaceutical,85,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2024,Q1,2024-03-31,3,product,Winrevair,Winrevair,,Pharmaceutical,0,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2024,Q1,2024-03-31,3,product,Zerbaxa,Zerbaxa,,Pharmaceutical,56,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2024,Q1,2024-03-31,3,segment,AnimalHealthsegment,Animal Health,,,1511,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2024,Q1,2024-03-31,3,segment,OtherNotItemized,Other (not itemized),,,258,USD,millions,derived,SEC 10-Q 0001628280-25-021834
+2024,Q1,2024-03-31,3,segment,Pharmaceuticalsegment,Pharmaceutical,,,14006,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2024,Q2,2024-06-30,3,geography,AsiaPacific,Asia Pacific (other than China and Japan),,,748,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2024,Q2,2024-06-30,3,geography,CN,China,,,1817,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2024,Q2,2024-06-30,3,geography,EMEA,"Europe, Middle East and Africa",,,3515,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2024,Q2,2024-06-30,3,geography,JP,Japan,,,686,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2024,Q2,2024-06-30,3,geography,LatinAmerica,Latin America,,,858,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2024,Q2,2024-06-30,3,geography,OtherCountries,Other,,,612,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2024,Q2,2024-06-30,3,geography,US,U.S.,,,7876,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2024,Q2,2024-06-30,3,product,OtherNotItemized,Other (not itemized),,,222,USD,millions,derived,SEC 10-Q 0000310158-25-000014
+2024,Q2,2024-06-30,3,product,CompanionAnimal,Companion Animal,,Animal Health,645,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2024,Q2,2024-06-30,3,product,Livestock,Livestock,,Animal Health,837,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2024,Q2,2024-06-30,3,product,Adempas,Adempas,,Pharmaceutical,72,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2024,Q2,2024-06-30,3,product,AllianceRevenueAdempasVerquvo,Alliance revenue - Adempas/Verquvo,,Pharmaceutical,106,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2024,Q2,2024-06-30,3,product,AllianceRevenueReblozyl,Alliance Revenue - Reblozyl,,Pharmaceutical,90,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2024,Q2,2024-06-30,3,product,AlliancerevenueLynparza,Alliance revenue - Lynparza,,Pharmaceutical,317,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2024,Q2,2024-06-30,3,product,Belsomra,Belsomra,,Pharmaceutical,53,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2024,Q2,2024-06-30,3,product,Bridion,Bridion,,Pharmaceutical,455,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2024,Q2,2024-06-30,3,product,Capvaxive,Capvaxive,,Pharmaceutical,0,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2024,Q2,2024-06-30,3,product,Delstrigo,Delstrigo,,Pharmaceutical,60,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2024,Q2,2024-06-30,3,product,Dificid,Dificid,,Pharmaceutical,92,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2024,Q2,2024-06-30,3,product,GardasilGardasil9,Gardasil/Gardasil 9,,Pharmaceutical,2478,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2024,Q2,2024-06-30,3,product,IsentressIsentressHD,Isentress/Isentress HD,,Pharmaceutical,89,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2024,Q2,2024-06-30,3,product,Janumet,Janumet,,Pharmaceutical,224,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2024,Q2,2024-06-30,3,product,Januvia,Januvia,,Pharmaceutical,405,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2024,Q2,2024-06-30,3,product,Keytruda,Keytruda,,Pharmaceutical,7270,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2024,Q2,2024-06-30,3,product,Lagevrio,Lagevrio,,Pharmaceutical,110,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2024,Q2,2024-06-30,3,product,Lenvima,Alliance revenue - Lenvima,,Pharmaceutical,249,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2024,Q2,2024-06-30,3,product,OtherPharmaceutical,Other pharmaceutical,,Pharmaceutical,618,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2024,Q2,2024-06-30,3,product,Pifeltro,Pifeltro,,Pharmaceutical,39,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2024,Q2,2024-06-30,3,product,Pneumovax23,Pneumovax 23,,Pharmaceutical,59,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2024,Q2,2024-06-30,3,product,Prevymis,Prevymis,,Pharmaceutical,188,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2024,Q2,2024-06-30,3,product,ProQuadMMRIIVarivax,ProQuad/M-M-R II/Varivax,,Pharmaceutical,617,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2024,Q2,2024-06-30,3,product,Remicade,Remicade,,Pharmaceutical,35,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2024,Q2,2024-06-30,3,product,Rotateq,RotaTeq,,Pharmaceutical,163,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2024,Q2,2024-06-30,3,product,Simponi,Simponi,,Pharmaceutical,172,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2024,Q2,2024-06-30,3,product,Vaxneuvance,Vaxneuvance,,Pharmaceutical,189,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2024,Q2,2024-06-30,3,product,Welireg,Welireg,,Pharmaceutical,126,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2024,Q2,2024-06-30,3,product,Winrevair,Winrevair,,Pharmaceutical,70,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2024,Q2,2024-06-30,3,product,Zerbaxa,Zerbaxa,,Pharmaceutical,62,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2024,Q2,2024-06-30,3,segment,AnimalHealthsegment,Animal Health,,,1482,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2024,Q2,2024-06-30,3,segment,OtherNotItemized,Other (not itemized),,,222,USD,millions,derived,SEC 10-Q 0000310158-25-000014
+2024,Q2,2024-06-30,3,segment,Pharmaceuticalsegment,Pharmaceutical,,,14408,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2024,Q3,2024-09-30,3,geography,AsiaPacific,Asia Pacific (other than China and Japan),,,823,USD,millions,reported,SEC 10-Q 0000310158-25-000059
+2024,Q3,2024-09-30,3,geography,CN,China,,,1017,USD,millions,reported,SEC 10-Q 0000310158-25-000059
+2024,Q3,2024-09-30,3,geography,EMEA,"Europe, Middle East and Africa",,,3583,USD,millions,reported,SEC 10-Q 0000310158-25-000059
+2024,Q3,2024-09-30,3,geography,JP,Japan,,,938,USD,millions,reported,SEC 10-Q 0000310158-25-000059
+2024,Q3,2024-09-30,3,geography,LatinAmerica,Latin America,,,936,USD,millions,reported,SEC 10-Q 0000310158-25-000059
+2024,Q3,2024-09-30,3,geography,OtherCountries,Other,,,624,USD,millions,reported,SEC 10-Q 0000310158-25-000059
+2024,Q3,2024-09-30,3,geography,US,U.S.,,,8736,USD,millions,reported,SEC 10-Q 0000310158-25-000059
+2024,Q3,2024-09-30,3,product,OtherNotItemized,Other (not itemized),,,188,USD,millions,derived,SEC 10-Q 0000310158-25-000059
+2024,Q3,2024-09-30,3,product,CompanionAnimal,Companion Animal,,Animal Health,601,USD,millions,reported,SEC 10-Q 0000310158-25-000059
+2024,Q3,2024-09-30,3,product,Livestock,Livestock,,Animal Health,886,USD,millions,reported,SEC 10-Q 0000310158-25-000059
+2024,Q3,2024-09-30,3,product,Adempas,Adempas,,Pharmaceutical,72,USD,millions,reported,SEC 10-Q 0000310158-25-000059
+2024,Q3,2024-09-30,3,product,AllianceRevenueAdempasVerquvo,Alliance revenue - Adempas/Verquvo,,Pharmaceutical,102,USD,millions,reported,SEC 10-Q 0000310158-25-000059
+2024,Q3,2024-09-30,3,product,AllianceRevenueKoselugo,Alliance revenue - Koselugo,,Pharmaceutical,39,USD,millions,reported,SEC 10-Q 0000310158-25-000059
+2024,Q3,2024-09-30,3,product,AllianceRevenueReblozyl,Alliance Revenue - Reblozyl,,Pharmaceutical,100,USD,millions,reported,SEC 10-Q 0000310158-25-000059
+2024,Q3,2024-09-30,3,product,AlliancerevenueLynparza,Alliance revenue - Lynparza,,Pharmaceutical,337,USD,millions,reported,SEC 10-Q 0000310158-25-000059
+2024,Q3,2024-09-30,3,product,Belsomra,Belsomra,,Pharmaceutical,78,USD,millions,reported,SEC 10-Q 0000310158-25-000059
+2024,Q3,2024-09-30,3,product,Bridion,Bridion,,Pharmaceutical,420,USD,millions,reported,SEC 10-Q 0000310158-25-000059
+2024,Q3,2024-09-30,3,product,Capvaxive,Capvaxive,,Pharmaceutical,47,USD,millions,reported,SEC 10-Q 0000310158-25-000059
+2024,Q3,2024-09-30,3,product,Delstrigo,Delstrigo,,Pharmaceutical,65,USD,millions,reported,SEC 10-Q 0000310158-25-000059
+2024,Q3,2024-09-30,3,product,Dificid,Dificid,,Pharmaceutical,96,USD,millions,reported,SEC 10-Q 0000310158-25-000059
+2024,Q3,2024-09-30,3,product,GardasilGardasil9,Gardasil/Gardasil 9,,Pharmaceutical,2306,USD,millions,reported,SEC 10-Q 0000310158-25-000059
+2024,Q3,2024-09-30,3,product,IsentressIsentressHD,Isentress/Isentress HD,,Pharmaceutical,102,USD,millions,reported,SEC 10-Q 0000310158-25-000059
+2024,Q3,2024-09-30,3,product,Janumet,Janumet,,Pharmaceutical,204,USD,millions,reported,SEC 10-Q 0000310158-25-000059
+2024,Q3,2024-09-30,3,product,Januvia,Januvia,,Pharmaceutical,278,USD,millions,reported,SEC 10-Q 0000310158-25-000059
+2024,Q3,2024-09-30,3,product,Keytruda,Keytruda,,Pharmaceutical,7429,USD,millions,reported,SEC 10-Q 0000310158-25-000059
+2024,Q3,2024-09-30,3,product,Lagevrio,Lagevrio,,Pharmaceutical,383,USD,millions,reported,SEC 10-Q 0000310158-25-000059
+2024,Q3,2024-09-30,3,product,Lenvima,Alliance revenue - Lenvima,,Pharmaceutical,251,USD,millions,reported,SEC 10-Q 0000310158-25-000059
+2024,Q3,2024-09-30,3,product,OtherPharmaceutical,Other pharmaceutical,,Pharmaceutical,638,USD,millions,reported,SEC 10-Q 0000310158-25-000059
+2024,Q3,2024-09-30,3,product,Pifeltro,Pifeltro,,Pharmaceutical,42,USD,millions,reported,SEC 10-Q 0000310158-25-000059
+2024,Q3,2024-09-30,3,product,Pneumovax23,Pneumovax 23,,Pharmaceutical,68,USD,millions,reported,SEC 10-Q 0000310158-25-000059
+2024,Q3,2024-09-30,3,product,Prevymis,Prevymis,,Pharmaceutical,208,USD,millions,reported,SEC 10-Q 0000310158-25-000059
+2024,Q3,2024-09-30,3,product,ProQuadMMRIIVarivax,ProQuad/M-M-R II/Varivax,,Pharmaceutical,703,USD,millions,reported,SEC 10-Q 0000310158-25-000059
+2024,Q3,2024-09-30,3,product,Remicade,Remicade,,Pharmaceutical,41,USD,millions,reported,SEC 10-Q 0000310158-25-000059
+2024,Q3,2024-09-30,3,product,Rotateq,RotaTeq,,Pharmaceutical,193,USD,millions,reported,SEC 10-Q 0000310158-25-000059
+2024,Q3,2024-09-30,3,product,Simponi,Simponi,,Pharmaceutical,189,USD,millions,reported,SEC 10-Q 0000310158-25-000059
+2024,Q3,2024-09-30,3,product,Vaxneuvance,Vaxneuvance,,Pharmaceutical,239,USD,millions,reported,SEC 10-Q 0000310158-25-000059
+2024,Q3,2024-09-30,3,product,Welireg,Welireg,,Pharmaceutical,139,USD,millions,reported,SEC 10-Q 0000310158-25-000059
+2024,Q3,2024-09-30,3,product,Winrevair,Winrevair,,Pharmaceutical,149,USD,millions,reported,SEC 10-Q 0000310158-25-000059
+2024,Q3,2024-09-30,3,product,Zerbaxa,Zerbaxa,,Pharmaceutical,64,USD,millions,reported,SEC 10-Q 0000310158-25-000059
+2024,Q3,2024-09-30,3,segment,AnimalHealthsegment,Animal Health,,,1487,USD,millions,reported,SEC 10-Q 0000310158-25-000059
+2024,Q3,2024-09-30,3,segment,OtherNotItemized,Other (not itemized),,,227,USD,millions,derived,SEC 10-Q 0000310158-25-000059
+2024,Q3,2024-09-30,3,segment,Pharmaceuticalsegment,Pharmaceutical,,,14943,USD,millions,reported,SEC 10-Q 0000310158-25-000059
+2024,Q4,2024-12-31,3,segment,AnimalHealthsegment,Animal Health,,,1397,USD,millions,derived,SEC 10-K 0000310158-26-000063 − 10-Q 0000310158-25-000059
+2024,Q4,2024-12-31,3,segment,OtherNotItemized,Other (not itemized),,,185,USD,millions,derived,SEC 10-K 0000310158-26-000063 − 10-Q 0000310158-25-000059
+2024,Q4,2024-12-31,3,segment,Pharmaceuticalsegment,Pharmaceutical segment,,,14042,USD,millions,derived,SEC 10-K 0000310158-26-000063 − 10-Q 0000310158-25-000059
+2024,FY,2024-12-31,12,geography,NonUs,Int’l,,,31126,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2024,FY,2024-12-31,12,geography,OtherNotItemized,Other (not itemized),,,891,USD,millions,derived,SEC 10-K 0000310158-26-000063
+2024,FY,2024-12-31,12,geography,US,United States,,,32151,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2024,FY,2024-12-31,12,product,OtherNotItemized,Other (not itemized),,,891,USD,millions,derived,SEC 10-K 0000310158-26-000063
+2024,FY,2024-12-31,12,product,CompanionAnimals,Companion Animal,,Animal Health,2415,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2024,FY,2024-12-31,12,product,Livestock,Livestock,,Animal Health,3462,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2024,FY,2024-12-31,12,product,Adempas,Adempas,,Pharmaceutical segment,287,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2024,FY,2024-12-31,12,product,AllianceRevenueAdempasVerquvo,Alliance revenue - Adempas/Verquvo,,Pharmaceutical segment,415,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2024,FY,2024-12-31,12,product,AllianceRevenueReblozyl,Alliance revenue - Reblozyl,,Pharmaceutical segment,371,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2024,FY,2024-12-31,12,product,AlliancerevenueLynparza,Alliance revenue - Lynparza,,Pharmaceutical segment,1311,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2024,FY,2024-12-31,12,product,Belsomra,Belsomra,,Pharmaceutical segment,222,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2024,FY,2024-12-31,12,product,Bridion,Bridion,,Pharmaceutical segment,1764,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2024,FY,2024-12-31,12,product,Capvaxive,Capvaxive,,Pharmaceutical segment,97,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2024,FY,2024-12-31,12,product,Delstrigo,Delstrigo,,Pharmaceutical segment,249,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2024,FY,2024-12-31,12,product,Dificid,Dificid,,Pharmaceutical segment,340,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2024,FY,2024-12-31,12,product,GardasilGardasil9,Gardasil/Gardasil 9,,Pharmaceutical segment,8583,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2024,FY,2024-12-31,12,product,IsentressIsentressHD,Isentress/Isentress HD,,Pharmaceutical segment,394,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2024,FY,2024-12-31,12,product,Janumet,Janumet,,Pharmaceutical segment,935,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2024,FY,2024-12-31,12,product,Januvia,Januvia,,Pharmaceutical segment,1334,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2024,FY,2024-12-31,12,product,Keytruda,Keytruda,,Pharmaceutical segment,29482,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2024,FY,2024-12-31,12,product,KeytrudaQlex,Keytruda Qlex,,Pharmaceutical segment,0,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2024,FY,2024-12-31,12,product,Lagevrio,Lagevrio,,Pharmaceutical segment,964,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2024,FY,2024-12-31,12,product,Lenvima,Alliance revenue - Lenvima,,Pharmaceutical segment,1010,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2024,FY,2024-12-31,12,product,Ohtuvayre,Ohtuvayre,,Pharmaceutical segment,0,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2024,FY,2024-12-31,12,product,OtherPharmaceutical,Other pharmaceutical,,Pharmaceutical segment,2590,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2024,FY,2024-12-31,12,product,Pifeltro,Pifeltro,,Pharmaceutical segment,163,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2024,FY,2024-12-31,12,product,Pneumovax23,Pneumovax 23,,Pharmaceutical segment,263,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2024,FY,2024-12-31,12,product,Prevymis,Prevymis,,Pharmaceutical segment,785,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2024,FY,2024-12-31,12,product,ProQuadMMRIIVarivax,ProQuad/M-M-R II/Varivax,,Pharmaceutical segment,2485,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2024,FY,2024-12-31,12,product,Remicade,Remicade,,Pharmaceutical segment,114,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2024,FY,2024-12-31,12,product,Rotateq,RotaTeq,,Pharmaceutical segment,711,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2024,FY,2024-12-31,12,product,Simponi,Simponi,,Pharmaceutical segment,543,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2024,FY,2024-12-31,12,product,Vaxneuvance,Vaxneuvance,,Pharmaceutical segment,808,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2024,FY,2024-12-31,12,product,Welireg,Welireg,,Pharmaceutical segment,509,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2024,FY,2024-12-31,12,product,Winrevair,Winrevair,,Pharmaceutical segment,419,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2024,FY,2024-12-31,12,product,Zerbaxa,Zerbaxa,,Pharmaceutical segment,252,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2024,FY,2024-12-31,12,segment,AnimalHealthsegment,Animal Health,,,5877,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2024,FY,2024-12-31,12,segment,OtherNotItemized,Other (not itemized),,,891,USD,millions,derived,SEC 10-K 0000310158-26-000063
+2024,FY,2024-12-31,12,segment,Pharmaceuticalsegment,Pharmaceutical segment,,,57400,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2025,Q1,2025-03-31,3,geography,AsiaPacific,Asia Pacific (other than China and Japan),,,689,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2025,Q1,2025-03-31,3,geography,CN,China,,,702,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2025,Q1,2025-03-31,3,geography,EMEA,"Europe, Middle East and Africa",,,3454,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2025,Q1,2025-03-31,3,geography,JP,Japan,,,669,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2025,Q1,2025-03-31,3,geography,LatinAmerica,Latin America,,,792,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2025,Q1,2025-03-31,3,geography,OtherCountries,Other,,,701,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2025,Q1,2025-03-31,3,geography,US,U.S.,,,8522,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2025,Q1,2025-03-31,3,product,OtherNotItemized,Other (not itemized),,,303,USD,millions,derived,SEC 10-Q 0001628280-25-021834
+2025,Q1,2025-03-31,3,product,CompanionAnimal,Companion Animal,,Animal Health,664,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2025,Q1,2025-03-31,3,product,Livestock,Livestock,,Animal Health,924,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2025,Q1,2025-03-31,3,product,Adempas,Adempas,,Pharmaceutical,68,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2025,Q1,2025-03-31,3,product,AllianceRevenueAdempasVerquvo,Alliance revenue - Adempas/Verquvo,,Pharmaceutical,106,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2025,Q1,2025-03-31,3,product,AllianceRevenueReblozyl,Alliance Revenue - Reblozyl,,Pharmaceutical,119,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2025,Q1,2025-03-31,3,product,AlliancerevenueLynparza,Alliance revenue - Lynparza,,Pharmaceutical,312,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2025,Q1,2025-03-31,3,product,Belsomra,Belsomra,,Pharmaceutical,50,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2025,Q1,2025-03-31,3,product,Bridion,Bridion,,Pharmaceutical,441,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2025,Q1,2025-03-31,3,product,Capvaxive,Capvaxive,,Pharmaceutical,107,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2025,Q1,2025-03-31,3,product,Delstrigo,Delstrigo,,Pharmaceutical,67,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2025,Q1,2025-03-31,3,product,Dificid,Dificid,,Pharmaceutical,83,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2025,Q1,2025-03-31,3,product,GardasilGardasil9,Gardasil/Gardasil 9,,Pharmaceutical,1327,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2025,Q1,2025-03-31,3,product,IsentressIsentressHD,Isentress/Isentress HD,,Pharmaceutical,90,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2025,Q1,2025-03-31,3,product,Janumet,Janumet,,Pharmaceutical,247,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2025,Q1,2025-03-31,3,product,Januvia,Januvia,,Pharmaceutical,549,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2025,Q1,2025-03-31,3,product,Keytruda,Keytruda,,Pharmaceutical,7205,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2025,Q1,2025-03-31,3,product,Lagevrio,Lagevrio,,Pharmaceutical,102,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2025,Q1,2025-03-31,3,product,Lenvima,Alliance revenue - Lenvima,,Pharmaceutical,258,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2025,Q1,2025-03-31,3,product,OtherPharmaceutical,Other pharmaceutical,,Pharmaceutical,729,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2025,Q1,2025-03-31,3,product,Pifeltro,Pifeltro,,Pharmaceutical,45,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2025,Q1,2025-03-31,3,product,Pneumovax23,Pneumovax 23,,Pharmaceutical,41,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2025,Q1,2025-03-31,3,product,Prevymis,Prevymis,,Pharmaceutical,208,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2025,Q1,2025-03-31,3,product,ProQuadMMRIIVarivax,ProQuad/M-M-R II/Varivax,,Pharmaceutical,539,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2025,Q1,2025-03-31,3,product,Remicade,Remicade,,Pharmaceutical,0,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2025,Q1,2025-03-31,3,product,Rotateq,RotaTeq,,Pharmaceutical,228,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2025,Q1,2025-03-31,3,product,Simponi,Simponi,,Pharmaceutical,0,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2025,Q1,2025-03-31,3,product,Vaxneuvance,Vaxneuvance,,Pharmaceutical,230,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2025,Q1,2025-03-31,3,product,Welireg,Welireg,,Pharmaceutical,137,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2025,Q1,2025-03-31,3,product,Winrevair,Winrevair,,Pharmaceutical,280,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2025,Q1,2025-03-31,3,product,Zerbaxa,Zerbaxa,,Pharmaceutical,70,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2025,Q1,2025-03-31,3,segment,AnimalHealthsegment,Animal Health,,,1588,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2025,Q1,2025-03-31,3,segment,OtherNotItemized,Other (not itemized),,,303,USD,millions,derived,SEC 10-Q 0001628280-25-021834
+2025,Q1,2025-03-31,3,segment,Pharmaceuticalsegment,Pharmaceutical,,,13638,USD,millions,reported,SEC 10-Q 0001628280-25-021834
+2025,Q2,2025-06-30,3,geography,AsiaPacific,Asia Pacific (other than China and Japan),,,785,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2025,Q2,2025-06-30,3,geography,CN,China,,,446,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2025,Q2,2025-06-30,3,geography,EMEA,"Europe, Middle East and Africa",,,3659,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2025,Q2,2025-06-30,3,geography,JP,Japan,,,626,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2025,Q2,2025-06-30,3,geography,LatinAmerica,Latin America,,,859,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2025,Q2,2025-06-30,3,geography,OtherCountries,Other,,,595,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2025,Q2,2025-06-30,3,geography,US,U.S.,,,8836,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2025,Q2,2025-06-30,3,product,OtherNotItemized,Other (not itemized),,,110,USD,millions,derived,SEC 10-Q 0000310158-25-000014
+2025,Q2,2025-06-30,3,product,CompanionAnimal,Companion Animal,,Animal Health,685,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2025,Q2,2025-06-30,3,product,Livestock,Livestock,,Animal Health,961,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2025,Q2,2025-06-30,3,product,Adempas,Adempas,,Pharmaceutical,80,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2025,Q2,2025-06-30,3,product,AllianceRevenueAdempasVerquvo,Alliance revenue - Adempas/Verquvo,,Pharmaceutical,123,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2025,Q2,2025-06-30,3,product,AllianceRevenueReblozyl,Alliance Revenue - Reblozyl,,Pharmaceutical,107,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2025,Q2,2025-06-30,3,product,AlliancerevenueLynparza,Alliance revenue - Lynparza,,Pharmaceutical,370,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2025,Q2,2025-06-30,3,product,Belsomra,Belsomra,,Pharmaceutical,40,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2025,Q2,2025-06-30,3,product,Bridion,Bridion,,Pharmaceutical,461,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2025,Q2,2025-06-30,3,product,Capvaxive,Capvaxive,,Pharmaceutical,129,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2025,Q2,2025-06-30,3,product,Delstrigo,Delstrigo,,Pharmaceutical,83,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2025,Q2,2025-06-30,3,product,Dificid,Dificid,,Pharmaceutical,96,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2025,Q2,2025-06-30,3,product,GardasilGardasil9,Gardasil/Gardasil 9,,Pharmaceutical,1126,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2025,Q2,2025-06-30,3,product,IsentressIsentressHD,Isentress/Isentress HD,,Pharmaceutical,86,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2025,Q2,2025-06-30,3,product,Janumet,Janumet,,Pharmaceutical,251,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2025,Q2,2025-06-30,3,product,Januvia,Januvia,,Pharmaceutical,372,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2025,Q2,2025-06-30,3,product,Keytruda,Keytruda,,Pharmaceutical,7956,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2025,Q2,2025-06-30,3,product,Lagevrio,Lagevrio,,Pharmaceutical,83,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2025,Q2,2025-06-30,3,product,Lenvima,Alliance revenue - Lenvima,,Pharmaceutical,265,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2025,Q2,2025-06-30,3,product,OtherPharmaceutical,Other pharmaceutical,,Pharmaceutical,584,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2025,Q2,2025-06-30,3,product,Pifeltro,Pifeltro,,Pharmaceutical,41,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2025,Q2,2025-06-30,3,product,Pneumovax23,Pneumovax 23,,Pharmaceutical,38,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2025,Q2,2025-06-30,3,product,Prevymis,Prevymis,,Pharmaceutical,228,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2025,Q2,2025-06-30,3,product,ProQuadMMRIIVarivax,ProQuad/M-M-R II/Varivax,,Pharmaceutical,609,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2025,Q2,2025-06-30,3,product,Remicade,Remicade,,Pharmaceutical,0,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2025,Q2,2025-06-30,3,product,Rotateq,RotaTeq,,Pharmaceutical,121,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2025,Q2,2025-06-30,3,product,Simponi,Simponi,,Pharmaceutical,0,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2025,Q2,2025-06-30,3,product,Vaxneuvance,Vaxneuvance,,Pharmaceutical,229,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2025,Q2,2025-06-30,3,product,Welireg,Welireg,,Pharmaceutical,162,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2025,Q2,2025-06-30,3,product,Winrevair,Winrevair,,Pharmaceutical,336,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2025,Q2,2025-06-30,3,product,Zerbaxa,Zerbaxa,,Pharmaceutical,74,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2025,Q2,2025-06-30,3,segment,AnimalHealthsegment,Animal Health,,,1646,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2025,Q2,2025-06-30,3,segment,OtherNotItemized,Other (not itemized),,,110,USD,millions,derived,SEC 10-Q 0000310158-25-000014
+2025,Q2,2025-06-30,3,segment,Pharmaceuticalsegment,Pharmaceutical,,,14050,USD,millions,reported,SEC 10-Q 0000310158-25-000014
+2025,Q3,2025-09-30,3,geography,AsiaPacific,Asia Pacific (other than China and Japan),,,764,USD,millions,reported,SEC 10-Q 0000310158-25-000059
+2025,Q3,2025-09-30,3,geography,CN,China,,,405,USD,millions,reported,SEC 10-Q 0000310158-25-000059
+2025,Q3,2025-09-30,3,geography,EMEA,"Europe, Middle East and Africa",,,3680,USD,millions,reported,SEC 10-Q 0000310158-25-000059
+2025,Q3,2025-09-30,3,geography,JP,Japan,,,712,USD,millions,reported,SEC 10-Q 0000310158-25-000059
+2025,Q3,2025-09-30,3,geography,LatinAmerica,Latin America,,,905,USD,millions,reported,SEC 10-Q 0000310158-25-000059
+2025,Q3,2025-09-30,3,geography,OtherCountries,Other,,,798,USD,millions,reported,SEC 10-Q 0000310158-25-000059
+2025,Q3,2025-09-30,3,geography,US,U.S.,,,10012,USD,millions,reported,SEC 10-Q 0000310158-25-000059
+2025,Q3,2025-09-30,3,segment,AnimalHealthsegment,Animal Health,,,1615,USD,millions,reported,SEC 10-Q 0000310158-25-000059
+2025,Q3,2025-09-30,3,segment,OtherNotItemized,Other (not itemized),,,50,USD,millions,derived,SEC 10-Q 0000310158-25-000059
+2025,Q3,2025-09-30,3,segment,Pharmaceuticalsegment,Pharmaceutical,,,15611,USD,millions,reported,SEC 10-Q 0000310158-25-000059
+2025,Q4,2025-12-31,3,segment,AnimalHealthsegment,Animal Health,,,1505,USD,millions,derived,SEC 10-K 0000310158-26-000063 − 10-Q 0000310158-25-000059
+2025,Q4,2025-12-31,3,segment,OtherNotItemized,Other (not itemized),,,52,USD,millions,derived,SEC 10-K 0000310158-26-000063 − 10-Q 0000310158-25-000059
+2025,Q4,2025-12-31,3,segment,Pharmaceuticalsegment,Pharmaceutical segment,,,14843,USD,millions,derived,SEC 10-K 0000310158-26-000063 − 10-Q 0000310158-25-000059
+2025,FY,2025-12-31,12,geography,NonUs,Int’l,,,28134,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2025,FY,2025-12-31,12,geography,OtherNotItemized,Other (not itemized),,,515,USD,millions,derived,SEC 10-K 0000310158-26-000063
+2025,FY,2025-12-31,12,geography,US,United States,,,36362,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2025,FY,2025-12-31,12,product,OtherNotItemized,Other (not itemized),,,515,USD,millions,derived,SEC 10-K 0000310158-26-000063
+2025,FY,2025-12-31,12,product,CompanionAnimals,Companion Animal,,Animal Health,2458,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2025,FY,2025-12-31,12,product,Livestock,Livestock,,Animal Health,3896,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2025,FY,2025-12-31,12,product,Adempas,Adempas,,Pharmaceutical segment,312,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2025,FY,2025-12-31,12,product,AllianceRevenueAdempasVerquvo,Alliance revenue - Adempas/Verquvo,,Pharmaceutical segment,470,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2025,FY,2025-12-31,12,product,AllianceRevenueReblozyl,Alliance revenue - Reblozyl,,Pharmaceutical segment,525,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2025,FY,2025-12-31,12,product,AlliancerevenueLynparza,Alliance revenue - Lynparza,,Pharmaceutical segment,1450,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2025,FY,2025-12-31,12,product,Belsomra,Belsomra,,Pharmaceutical segment,186,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2025,FY,2025-12-31,12,product,Bridion,Bridion,,Pharmaceutical segment,1841,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2025,FY,2025-12-31,12,product,Capvaxive,Capvaxive,,Pharmaceutical segment,759,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2025,FY,2025-12-31,12,product,Delstrigo,Delstrigo,,Pharmaceutical segment,306,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2025,FY,2025-12-31,12,product,Dificid,Dificid,,Pharmaceutical segment,247,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2025,FY,2025-12-31,12,product,GardasilGardasil9,Gardasil/Gardasil 9,,Pharmaceutical segment,5233,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2025,FY,2025-12-31,12,product,IsentressIsentressHD,Isentress/Isentress HD,,Pharmaceutical segment,325,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2025,FY,2025-12-31,12,product,Janumet,Janumet,,Pharmaceutical segment,940,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2025,FY,2025-12-31,12,product,Januvia,Januvia,,Pharmaceutical segment,1604,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2025,FY,2025-12-31,12,product,Keytruda,Keytruda,,Pharmaceutical segment,31641,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2025,FY,2025-12-31,12,product,KeytrudaQlex,Keytruda Qlex,,Pharmaceutical segment,40,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2025,FY,2025-12-31,12,product,Lagevrio,Lagevrio,,Pharmaceutical segment,380,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2025,FY,2025-12-31,12,product,Lenvima,Alliance revenue - Lenvima,,Pharmaceutical segment,1053,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2025,FY,2025-12-31,12,product,Ohtuvayre,Ohtuvayre,,Pharmaceutical segment,178,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2025,FY,2025-12-31,12,product,OtherPharmaceutical,Other pharmaceutical,,Pharmaceutical segment,2917,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2025,FY,2025-12-31,12,product,Pifeltro,Pifeltro,,Pharmaceutical segment,171,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2025,FY,2025-12-31,12,product,Pneumovax23,Pneumovax 23,,Pharmaceutical segment,166,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2025,FY,2025-12-31,12,product,Prevymis,Prevymis,,Pharmaceutical segment,978,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2025,FY,2025-12-31,12,product,ProQuadMMRIIVarivax,ProQuad/M-M-R II/Varivax,,Pharmaceutical segment,2451,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2025,FY,2025-12-31,12,product,Remicade,Remicade,,Pharmaceutical segment,0,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2025,FY,2025-12-31,12,product,Rotateq,RotaTeq,,Pharmaceutical segment,673,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2025,FY,2025-12-31,12,product,Simponi,Simponi,,Pharmaceutical segment,0,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2025,FY,2025-12-31,12,product,Vaxneuvance,Vaxneuvance,,Pharmaceutical segment,825,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2025,FY,2025-12-31,12,product,Welireg,Welireg,,Pharmaceutical segment,716,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2025,FY,2025-12-31,12,product,Winrevair,Winrevair,,Pharmaceutical segment,1443,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2025,FY,2025-12-31,12,product,Zerbaxa,Zerbaxa,,Pharmaceutical segment,312,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2025,FY,2025-12-31,12,segment,AnimalHealthsegment,Animal Health,,,6354,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2025,FY,2025-12-31,12,segment,OtherNotItemized,Other (not itemized),,,515,USD,millions,derived,SEC 10-K 0000310158-26-000063
+2025,FY,2025-12-31,12,segment,Pharmaceuticalsegment,Pharmaceutical segment,,,58142,USD,millions,reported,SEC 10-K 0000310158-26-000063
+2026,Q1,2026-03-31,3,geography,AsiaPacific,Asia Pacific (other than China and Japan),,,738,USD,millions,reported,SEC 10-Q 0001628280-26-029802
+2026,Q1,2026-03-31,3,geography,CN,China,,,390,USD,millions,reported,SEC 10-Q 0001628280-26-029802
+2026,Q1,2026-03-31,3,geography,EMEA,"Europe, Middle East and Africa",,,3886,USD,millions,reported,SEC 10-Q 0001628280-26-029802
+2026,Q1,2026-03-31,3,geography,JP,Japan,,,555,USD,millions,reported,SEC 10-Q 0001628280-26-029802
+2026,Q1,2026-03-31,3,geography,LatinAmerica,Latin America,,,874,USD,millions,reported,SEC 10-Q 0001628280-26-029802
+2026,Q1,2026-03-31,3,geography,OtherCountries,Other,,,679,USD,millions,reported,SEC 10-Q 0001628280-26-029802
+2026,Q1,2026-03-31,3,geography,US,U.S.,,,9164,USD,millions,reported,SEC 10-Q 0001628280-26-029802
+2026,Q1,2026-03-31,3,segment,AnimalHealthsegment,Animal Health,,,1791,USD,millions,reported,SEC 10-Q 0001628280-26-029802
+2026,Q1,2026-03-31,3,segment,OtherNotItemized,Other (not itemized),,,146,USD,millions,derived,SEC 10-Q 0001628280-26-029802
+2026,Q1,2026-03-31,3,segment,Pharmaceuticalsegment,Pharmaceutical,,,14349,USD,millions,reported,SEC 10-Q 0001628280-26-029802
+2026,Q2,2026-06-30,3,geography,AsiaPacific,Asia Pacific (other than China and Japan),,,820,USD,millions,reported,SEC 10-Q 0000310158-26-000212
+2026,Q2,2026-06-30,3,geography,CN,China,,,408,USD,millions,reported,SEC 10-Q 0000310158-26-000212
+2026,Q2,2026-06-30,3,geography,EMEA,"Europe, Middle East and Africa",,,3920,USD,millions,reported,SEC 10-Q 0000310158-26-000212
+2026,Q2,2026-06-30,3,geography,JP,Japan,,,577,USD,millions,reported,SEC 10-Q 0000310158-26-000212
+2026,Q2,2026-06-30,3,geography,LatinAmerica,Latin America,,,875,USD,millions,reported,SEC 10-Q 0000310158-26-000212
+2026,Q2,2026-06-30,3,geography,OtherCountries,Other,,,640,USD,millions,reported,SEC 10-Q 0000310158-26-000212
+2026,Q2,2026-06-30,3,geography,US,U.S.,,,9367,USD,millions,reported,SEC 10-Q 0000310158-26-000212
+2026,Q2,2026-06-30,3,product,OtherNotItemized,Other (not itemized),,,62,USD,millions,derived,SEC 10-Q 0000310158-26-000212
+2026,Q2,2026-06-30,3,product,CompanionAnimal,Companion Animal,,Animal Health,734,USD,millions,reported,SEC 10-Q 0000310158-26-000212
+2026,Q2,2026-06-30,3,product,Livestock,Livestock,,Animal Health,1041,USD,millions,reported,SEC 10-Q 0000310158-26-000212
+2026,Q2,2026-06-30,3,product,Adempas,Adempas,,Pharmaceutical,78,USD,millions,reported,SEC 10-Q 0000310158-26-000212
+2026,Q2,2026-06-30,3,product,AllianceRevenueAdempasVerquvo,Alliance revenue - Adempas/Verquvo,,Pharmaceutical,126,USD,millions,reported,SEC 10-Q 0000310158-26-000212
+2026,Q2,2026-06-30,3,product,AllianceRevenueKoselugo,Alliance revenue - Koselugo,,Pharmaceutical,10,USD,millions,reported,SEC 10-Q 0000310158-26-000212
+2026,Q2,2026-06-30,3,product,AllianceRevenueReblozyl,Alliance Revenue - Reblozyl,,Pharmaceutical,122,USD,millions,reported,SEC 10-Q 0000310158-26-000212
+2026,Q2,2026-06-30,3,product,AlliancerevenueLynparza,Alliance revenue - Lynparza,,Pharmaceutical,365,USD,millions,reported,SEC 10-Q 0000310158-26-000212
+2026,Q2,2026-06-30,3,product,Bridion,Bridion,,Pharmaceutical,497,USD,millions,reported,SEC 10-Q 0000310158-26-000212
+2026,Q2,2026-06-30,3,product,Capvaxive,Capvaxive,,Pharmaceutical,184,USD,millions,reported,SEC 10-Q 0000310158-26-000212
+2026,Q2,2026-06-30,3,product,Delstrigo,Delstrigo,,Pharmaceutical,101,USD,millions,reported,SEC 10-Q 0000310158-26-000212
+2026,Q2,2026-06-30,3,product,Dificid,Dificid,,Pharmaceutical,22,USD,millions,reported,SEC 10-Q 0000310158-26-000212
+2026,Q2,2026-06-30,3,product,GardasilGardasil9,Gardasil/Gardasil 9,,Pharmaceutical,1169,USD,millions,reported,SEC 10-Q 0000310158-26-000212
+2026,Q2,2026-06-30,3,product,IsentressIsentressHD,Isentress/Isentress HD,,Pharmaceutical,60,USD,millions,reported,SEC 10-Q 0000310158-26-000212
+2026,Q2,2026-06-30,3,product,Janumet,Janumet,,Pharmaceutical,171,USD,millions,reported,SEC 10-Q 0000310158-26-000212
+2026,Q2,2026-06-30,3,product,Januvia,Januvia,,Pharmaceutical,258,USD,millions,reported,SEC 10-Q 0000310158-26-000212
+2026,Q2,2026-06-30,3,product,Keytruda,Keytruda,,Pharmaceutical,7904,USD,millions,reported,SEC 10-Q 0000310158-26-000212
+2026,Q2,2026-06-30,3,product,KeytrudaQlex,Keytruda Qlex,,Pharmaceutical,463,USD,millions,reported,SEC 10-Q 0000310158-26-000212
+2026,Q2,2026-06-30,3,product,Lagevrio,Lagevrio,,Pharmaceutical,5,USD,millions,reported,SEC 10-Q 0000310158-26-000212
+2026,Q2,2026-06-30,3,product,Lenvima,Alliance revenue - Lenvima,,Pharmaceutical,283,USD,millions,reported,SEC 10-Q 0000310158-26-000212
+2026,Q2,2026-06-30,3,product,Ohtuvayre,Ohtuvayre,,Pharmaceutical,204,USD,millions,reported,SEC 10-Q 0000310158-26-000212
+2026,Q2,2026-06-30,3,product,OtherPharmaceutical,Other pharmaceutical,,Pharmaceutical,643,USD,millions,reported,SEC 10-Q 0000310158-26-000212
+2026,Q2,2026-06-30,3,product,Prevymis,Prevymis,,Pharmaceutical,295,USD,millions,reported,SEC 10-Q 0000310158-26-000212
+2026,Q2,2026-06-30,3,product,ProQuadMMRIIVarivax,ProQuad/M-M-R II/Varivax,,Pharmaceutical,592,USD,millions,reported,SEC 10-Q 0000310158-26-000212
+2026,Q2,2026-06-30,3,product,Rotateq,RotaTeq,,Pharmaceutical,134,USD,millions,reported,SEC 10-Q 0000310158-26-000212
+2026,Q2,2026-06-30,3,product,Vaxneuvance,Vaxneuvance,,Pharmaceutical,148,USD,millions,reported,SEC 10-Q 0000310158-26-000212
+2026,Q2,2026-06-30,3,product,Welireg,Welireg,,Pharmaceutical,271,USD,millions,reported,SEC 10-Q 0000310158-26-000212
+2026,Q2,2026-06-30,3,product,Winrevair,Winrevair,,Pharmaceutical,588,USD,millions,reported,SEC 10-Q 0000310158-26-000212
+2026,Q2,2026-06-30,3,product,Zerbaxa,Zerbaxa,,Pharmaceutical,77,USD,millions,reported,SEC 10-Q 0000310158-26-000212
+2026,Q2,2026-06-30,3,segment,AnimalHealthsegment,Animal Health,,,1775,USD,millions,reported,SEC 10-Q 0000310158-26-000212
+2026,Q2,2026-06-30,3,segment,OtherNotItemized,Other (not itemized),,,72,USD,millions,derived,SEC 10-Q 0000310158-26-000212
+2026,Q2,2026-06-30,3,segment,Pharmaceuticalsegment,Pharmaceutical,,,14760,USD,millions,reported,SEC 10-Q 0000310158-26-000212
+2026,Q3,2026-09-30,3,geography,AsiaPacific,Asia Pacific (other than Japan and China),,,781,USD,millions,reported,SEC 10-Q 0000310158-26-000248
+2026,Q3,2026-09-30,3,geography,CN,China,,,470,USD,millions,reported,SEC 10-Q 0000310158-26-000248
+2026,Q3,2026-09-30,3,geography,EMEA,"Europe, Middle East and Africa",,,3888,USD,millions,reported,SEC 10-Q 0000310158-26-000248
+2026,Q3,2026-09-30,3,geography,JP,Japan,,,586,USD,millions,reported,SEC 10-Q 0000310158-26-000248
+2026,Q3,2026-09-30,3,geography,LatinAmerica,Latin America,,,980,USD,millions,reported,SEC 10-Q 0000310158-26-000248
+2026,Q3,2026-09-30,3,geography,OtherCountries,Other,,,765,USD,millions,reported,SEC 10-Q 0000310158-26-000248
+2026,Q3,2026-09-30,3,geography,US,U.S.,,,10615,USD,millions,reported,SEC 10-Q 0000310158-26-000248
+2026,Q3,2026-09-30,3,product,OtherNotItemized,Other (not itemized),,,128,USD,millions,derived,SEC 10-Q 0000310158-26-000248
+2026,Q3,2026-09-30,3,product,CompanionAnimal,Companion Animal,,Animal Health,628,USD,millions,reported,SEC 10-Q 0000310158-26-000248
+2026,Q3,2026-09-30,3,product,Livestock,Livestock,,Animal Health,1048,USD,millions,reported,SEC 10-Q 0000310158-26-000248
+2026,Q3,2026-09-30,3,product,Adempas,Adempas,,Pharmaceutical,78,USD,millions,reported,SEC 10-Q 0000310158-26-000248
+2026,Q3,2026-09-30,3,product,AllianceRevenueAdempasVerquvo,Alliance revenue - Adempas/Verquvo,,Pharmaceutical,118,USD,millions,reported,SEC 10-Q 0000310158-26-000248
+2026,Q3,2026-09-30,3,product,AllianceRevenueKoselugo,Alliance revenue - Koselugo,,Pharmaceutical,13,USD,millions,reported,SEC 10-Q 0000310158-26-000248
+2026,Q3,2026-09-30,3,product,AllianceRevenueReblozyl,Alliance Revenue - Reblozyl,,Pharmaceutical,177,USD,millions,reported,SEC 10-Q 0000310158-26-000248
+2026,Q3,2026-09-30,3,product,AlliancerevenueLynparza,Alliance revenue - Lynparza,,Pharmaceutical,352,USD,millions,reported,SEC 10-Q 0000310158-26-000248
+2026,Q3,2026-09-30,3,product,Bridion,Bridion,,Pharmaceutical,144,USD,millions,reported,SEC 10-Q 0000310158-26-000248
+2026,Q3,2026-09-30,3,product,Capvaxive,Capvaxive,,Pharmaceutical,263,USD,millions,reported,SEC 10-Q 0000310158-26-000248
+2026,Q3,2026-09-30,3,product,Delstrigo,Delstrigo,,Pharmaceutical,67,USD,millions,reported,SEC 10-Q 0000310158-26-000248
+2026,Q3,2026-09-30,3,product,Dificid,Dificid,,Pharmaceutical,14,USD,millions,reported,SEC 10-Q 0000310158-26-000248
+2026,Q3,2026-09-30,3,product,Enflonsia,Enflonsia,,Pharmaceutical,187,USD,millions,reported,SEC 10-Q 0000310158-26-000248
+2026,Q3,2026-09-30,3,product,GardasilGardasil9,Gardasil/Gardasil 9,,Pharmaceutical,1995,USD,millions,reported,SEC 10-Q 0000310158-26-000248
+2026,Q3,2026-09-30,3,product,IsentressIsentressHD,Isentress/Isentress HD,,Pharmaceutical,52,USD,millions,reported,SEC 10-Q 0000310158-26-000248
+2026,Q3,2026-09-30,3,product,Janumet,Janumet,,Pharmaceutical,194,USD,millions,reported,SEC 10-Q 0000310158-26-000248
+2026,Q3,2026-09-30,3,product,Januvia,Januvia,,Pharmaceutical,186,USD,millions,reported,SEC 10-Q 0000310158-26-000248
+2026,Q3,2026-09-30,3,product,Keytruda,Keytruda,,Pharmaceutical,7771,USD,millions,reported,SEC 10-Q 0000310158-26-000248
+2026,Q3,2026-09-30,3,product,KeytrudaQlex,Keytruda Qlex,,Pharmaceutical,830,USD,millions,reported,SEC 10-Q 0000310158-26-000248
+2026,Q3,2026-09-30,3,product,Lagevrio,Lagevrio,,Pharmaceutical,17,USD,millions,reported,SEC 10-Q 0000310158-26-000248
+2026,Q3,2026-09-30,3,product,Lenvima,Alliance revenue - Lenvima,,Pharmaceutical,287,USD,millions,reported,SEC 10-Q 0000310158-26-000248
+2026,Q3,2026-09-30,3,product,Ohtuvayre,Ohtuvayre,,Pharmaceutical,184,USD,millions,reported,SEC 10-Q 0000310158-26-000248
+2026,Q3,2026-09-30,3,product,OtherPharmaceutical,Other pharmaceutical,,Pharmaceutical,793,USD,millions,reported,SEC 10-Q 0000310158-26-000248
+2026,Q3,2026-09-30,3,product,Prevymis,Prevymis,,Pharmaceutical,347,USD,millions,reported,SEC 10-Q 0000310158-26-000248
+2026,Q3,2026-09-30,3,product,ProQuadMMRIIVarivax,ProQuad/M-M-R II/Varivax,,Pharmaceutical,730,USD,millions,reported,SEC 10-Q 0000310158-26-000248
+2026,Q3,2026-09-30,3,product,Rotateq,RotaTeq,,Pharmaceutical,196,USD,millions,reported,SEC 10-Q 0000310158-26-000248
+2026,Q3,2026-09-30,3,product,Vaxneuvance,Vaxneuvance,,Pharmaceutical,195,USD,millions,reported,SEC 10-Q 0000310158-26-000248
+2026,Q3,2026-09-30,3,product,Welireg,Welireg,,Pharmaceutical,307,USD,millions,reported,SEC 10-Q 0000310158-26-000248
+2026,Q3,2026-09-30,3,product,Winrevair,Winrevair,,Pharmaceutical,694,USD,millions,reported,SEC 10-Q 0000310158-26-000248
+2026,Q3,2026-09-30,3,product,Zerbaxa,Zerbaxa,,Pharmaceutical,90,USD,millions,reported,SEC 10-Q 0000310158-26-000248
+2026,Q3,2026-09-30,3,segment,AnimalHealthsegment,Animal Health,,,1676,USD,millions,reported,SEC 10-Q 0000310158-26-000248
+2026,Q3,2026-09-30,3,segment,OtherNotItemized,Other (not itemized),,,141,USD,millions,derived,SEC 10-Q 0000310158-26-000248
+2026,Q3,2026-09-30,3,segment,Pharmaceuticalsegment,Pharmaceutical,,,16268,USD,millions,reported,SEC 10-Q 0000310158-26-000248

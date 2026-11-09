@@ -1,0 +1,16 @@
+{
+  "currency": "USD",
+  "events": 0,
+  "id": "dhr",
+  "latest_period": "2026 Q3",
+  "latest_period_end": "2026-09-25",
+  "name_en": "Danaher",
+  "name_zh": "丹纳赫",
+  "rows": {
+    "balance": 23,
+    "cashflow": 28,
+    "income": 28,
+    "segments": 341
+  },
+  "source": "sec"
+}

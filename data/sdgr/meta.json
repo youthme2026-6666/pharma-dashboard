@@ -1,0 +1,16 @@
+{
+  "currency": "USD",
+  "events": 0,
+  "id": "sdgr",
+  "latest_period": "2026 Q3",
+  "latest_period_end": "2026-09-30",
+  "name_en": "Schrödinger",
+  "name_zh": "薛定谔",
+  "rows": {
+    "balance": 23,
+    "cashflow": 28,
+    "income": 28,
+    "segments": 286
+  },
+  "source": "sec"
+}

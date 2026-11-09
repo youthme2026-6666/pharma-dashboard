@@ -1,0 +1,202 @@
+fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,value,currency,unit,basis,source
+2021,Q1,2021-03-31,3,geography,Europe,Europe,,,2553,USD,millions,reported,SEC 10-Q 0000014272-22-000114
+2021,Q1,2021-03-31,3,geography,OtherRegion,Other Region,,,164,USD,millions,reported,SEC 10-Q 0000014272-22-000114
+2021,Q1,2021-03-31,3,geography,RestOfWorld,Rest of the World,,,1346,USD,millions,reported,SEC 10-Q 0000014272-22-000114
+2021,Q1,2021-03-31,3,geography,US,United States,,,7010,USD,millions,reported,SEC 10-Q 0000014272-22-000114
+2021,Q1,2021-03-31,3,product,Eliquis,Eliquis,,Cardiovascular,2886,USD,millions,reported,SEC 10-Q 0000014272-22-000114
+2021,Q1,2021-03-31,3,product,MatureAndOtherBrands,Mature and other products,,Established Products,506,USD,millions,reported,SEC 10-Q 0000014272-22-000114
+2021,Q1,2021-03-31,3,product,Reblozyl,Reblozyl,,Hematology,112,USD,millions,reported,SEC 10-Q 0000014272-22-000114
+2021,Q1,2021-03-31,3,product,Orencia,Orencia,,Immunology,758,USD,millions,reported,SEC 10-Q 0000014272-22-000114
+2021,Q1,2021-03-31,3,product,Zeposia,Zeposia,,Immunology,18,USD,millions,reported,SEC 10-Q 0000014272-22-000114
+2021,Q1,2021-03-31,3,product,Abecma,Abecma,,Oncology,0,USD,millions,reported,SEC 10-Q 0000014272-22-000114
+2021,Q1,2021-03-31,3,product,Abraxane,Abraxane,,Oncology,314,USD,millions,reported,SEC 10-Q 0000014272-22-000114
+2021,Q1,2021-03-31,3,product,Breyanzi,Breyanzi,,Oncology,0,USD,millions,reported,SEC 10-Q 0000014272-22-000114
+2021,Q1,2021-03-31,3,product,Empliciti,Empliciti,,Oncology,85,USD,millions,reported,SEC 10-Q 0000014272-22-000114
+2021,Q1,2021-03-31,3,product,Inrebic,Inrebic,,Oncology,16,USD,millions,reported,SEC 10-Q 0000014272-22-000114
+2021,Q1,2021-03-31,3,product,Onureg,Onureg,,Oncology,15,USD,millions,reported,SEC 10-Q 0000014272-22-000114
+2021,Q1,2021-03-31,3,product,Opdivo,Opdivo,,Oncology,1720,USD,millions,reported,SEC 10-Q 0000014272-22-000114
+2021,Q1,2021-03-31,3,product,Opdualag,Opdualag,,Oncology,0,USD,millions,reported,SEC 10-Q 0000014272-22-000114
+2021,Q1,2021-03-31,3,product,PomalystImnovid,Pomalyst/Imnovid,,Oncology,773,USD,millions,reported,SEC 10-Q 0000014272-22-000114
+2021,Q1,2021-03-31,3,product,Revlimid,Revlimid,,Oncology,2944,USD,millions,reported,SEC 10-Q 0000014272-22-000114
+2021,Q1,2021-03-31,3,product,Sprycel,Sprycel,,Oncology,470,USD,millions,reported,SEC 10-Q 0000014272-22-000114
+2021,Q1,2021-03-31,3,product,Yervoy,Yervoy,,Oncology,456,USD,millions,reported,SEC 10-Q 0000014272-22-000114
+2021,Q2,2021-06-30,3,geography,International,International,,,4124,USD,millions,reported,SEC 10-Q 0000014272-22-000166
+2021,Q2,2021-06-30,3,geography,OtherRegion,Other Region,,,191,USD,millions,reported,SEC 10-Q 0000014272-22-000166
+2021,Q2,2021-06-30,3,geography,US,United States,,,7388,USD,millions,reported,SEC 10-Q 0000014272-22-000166
+2021,Q2,2021-06-30,3,product,Camzyos,Camzyos,,Cardiovascular,0,USD,millions,reported,SEC 10-Q 0000014272-22-000166
+2021,Q2,2021-06-30,3,product,Eliquis,Eliquis,,Cardiovascular,2792,USD,millions,reported,SEC 10-Q 0000014272-22-000166
+2021,Q2,2021-06-30,3,product,MatureAndOtherBrands,Mature and other products,,Established Products,473,USD,millions,reported,SEC 10-Q 0000014272-22-000166
+2021,Q2,2021-06-30,3,product,Reblozyl,Reblozyl,,Hematology,128,USD,millions,reported,SEC 10-Q 0000014272-22-000166
+2021,Q2,2021-06-30,3,product,Orencia,Orencia,,Immunology,814,USD,millions,reported,SEC 10-Q 0000014272-22-000166
+2021,Q2,2021-06-30,3,product,Zeposia,Zeposia,,Immunology,28,USD,millions,reported,SEC 10-Q 0000014272-22-000166
+2021,Q2,2021-06-30,3,product,Abecma,Abecma,,Oncology,24,USD,millions,reported,SEC 10-Q 0000014272-22-000166
+2021,Q2,2021-06-30,3,product,Abraxane,Abraxane,,Oncology,296,USD,millions,reported,SEC 10-Q 0000014272-22-000166
+2021,Q2,2021-06-30,3,product,Breyanzi,Breyanzi,,Oncology,17,USD,millions,reported,SEC 10-Q 0000014272-22-000166
+2021,Q2,2021-06-30,3,product,Empliciti,Empliciti,,Oncology,86,USD,millions,reported,SEC 10-Q 0000014272-22-000166
+2021,Q2,2021-06-30,3,product,Inrebic,Inrebic,,Oncology,16,USD,millions,reported,SEC 10-Q 0000014272-22-000166
+2021,Q2,2021-06-30,3,product,Onureg,Onureg,,Oncology,12,USD,millions,reported,SEC 10-Q 0000014272-22-000166
+2021,Q2,2021-06-30,3,product,Opdivo,Opdivo,,Oncology,1910,USD,millions,reported,SEC 10-Q 0000014272-22-000166
+2021,Q2,2021-06-30,3,product,Opdualag,Opdualag,,Oncology,0,USD,millions,reported,SEC 10-Q 0000014272-22-000166
+2021,Q2,2021-06-30,3,product,PomalystImnovid,Pomalyst/Imnovid,,Oncology,854,USD,millions,reported,SEC 10-Q 0000014272-22-000166
+2021,Q2,2021-06-30,3,product,Revlimid,Revlimid,,Oncology,3202,USD,millions,reported,SEC 10-Q 0000014272-22-000166
+2021,Q2,2021-06-30,3,product,Sprycel,Sprycel,,Oncology,541,USD,millions,reported,SEC 10-Q 0000014272-22-000166
+2021,Q2,2021-06-30,3,product,Yervoy,Yervoy,,Oncology,510,USD,millions,reported,SEC 10-Q 0000014272-22-000166
+2021,Q3,2021-09-30,3,geography,International,International,,,4052,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2021,Q3,2021-09-30,3,geography,OtherRegion,Other Region,,,276,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2021,Q3,2021-09-30,3,geography,US,United States,,,7296,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2021,Q3,2021-09-30,3,product,Eliquis,Eliquis,,Total In-Line Products,2413,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2021,Q3,2021-09-30,3,product,Empliciti,Empliciti,,Total In-Line Products,82,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2021,Q3,2021-09-30,3,product,MatureAndOtherBrands,Mature and other products,,Total In-Line Products,480,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2021,Q3,2021-09-30,3,product,Opdivo,Opdivo,,Total In-Line Products,1905,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2021,Q3,2021-09-30,3,product,Orencia,Orencia,,Total In-Line Products,870,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2021,Q3,2021-09-30,3,product,PomalystImnovid,Pomalyst/Imnovid,,Total In-Line Products,851,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2021,Q3,2021-09-30,3,product,Sprycel,Sprycel,,Total In-Line Products,551,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2021,Q3,2021-09-30,3,product,Yervoy,Yervoy,,Total In-Line Products,515,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2021,Q3,2021-09-30,3,product,Abecma,Abecma,,Total New Product Portfolio,71,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2021,Q3,2021-09-30,3,product,Breyanzi,Breyanzi,,Total New Product Portfolio,30,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2021,Q3,2021-09-30,3,product,Camzyos,Camzyos,,Total New Product Portfolio,0,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2021,Q3,2021-09-30,3,product,Inrebic,Inrebic,,Total New Product Portfolio,22,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2021,Q3,2021-09-30,3,product,Onureg,Onureg,,Total New Product Portfolio,21,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2021,Q3,2021-09-30,3,product,Opdualag,Opdualag,,Total New Product Portfolio,0,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2021,Q3,2021-09-30,3,product,Reblozyl,Reblozyl,,Total New Product Portfolio,160,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2021,Q3,2021-09-30,3,product,Sotyktu,Sotyktu,,Total New Product Portfolio,0,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2021,Q3,2021-09-30,3,product,Zeposia,Zeposia,,Total New Product Portfolio,40,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2021,Q3,2021-09-30,3,product,Abraxane,Abraxane,,Total Recent LOE Products,266,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2021,Q3,2021-09-30,3,product,Revlimid,Revlimid,,Total Recent LOE Products,3347,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2021,FY,2021-12-31,12,geography,EuropeanUnion,International,,,16319,USD,millions,reported,SEC 10-K 0000014272-23-000046
+2021,FY,2021-12-31,12,geography,OtherRegion,Other,,,852,USD,millions,reported,SEC 10-K 0000014272-23-000046
+2021,FY,2021-12-31,12,geography,US,United States,,,29214,USD,millions,reported,SEC 10-K 0000014272-23-000046
+2021,FY,2021-12-31,12,product,Eliquis,Eliquis,,Cardiovascular,10762,USD,millions,reported,SEC 10-K 0000014272-22-000051
+2021,FY,2021-12-31,12,product,MatureProductsAndAllOther,Mature and other brands,,Established Products,1900,USD,millions,reported,SEC 10-K 0000014272-22-000051
+2021,FY,2021-12-31,12,product,Reblozyl,Reblozyl,,Hematology,551,USD,millions,reported,SEC 10-K 0000014272-22-000051
+2021,FY,2021-12-31,12,product,Orencia,Orencia,,Immunology,3306,USD,millions,reported,SEC 10-K 0000014272-22-000051
+2021,FY,2021-12-31,12,product,Zeposia,Zeposia,,Immunology,134,USD,millions,reported,SEC 10-K 0000014272-22-000051
+2021,FY,2021-12-31,12,product,Abecma,Abecma,,Oncology,164,USD,millions,reported,SEC 10-K 0000014272-22-000051
+2021,FY,2021-12-31,12,product,Abraxane,Abraxane,,Oncology,1181,USD,millions,reported,SEC 10-K 0000014272-22-000051
+2021,FY,2021-12-31,12,product,Breyanzi,Breyanzi,,Oncology,87,USD,millions,reported,SEC 10-K 0000014272-22-000051
+2021,FY,2021-12-31,12,product,Empliciti,Empliciti,,Oncology,334,USD,millions,reported,SEC 10-K 0000014272-22-000051
+2021,FY,2021-12-31,12,product,Inrebic,Inrebic,,Oncology,74,USD,millions,reported,SEC 10-K 0000014272-22-000051
+2021,FY,2021-12-31,12,product,Onureg,Onureg,,Oncology,73,USD,millions,reported,SEC 10-K 0000014272-22-000051
+2021,FY,2021-12-31,12,product,Opdivo,Opdivo,,Oncology,7523,USD,millions,reported,SEC 10-K 0000014272-22-000051
+2021,FY,2021-12-31,12,product,PomalystImnovid,Pomalyst/Imnovid,,Oncology,3332,USD,millions,reported,SEC 10-K 0000014272-22-000051
+2021,FY,2021-12-31,12,product,Revlimid,Revlimid,,Oncology,12821,USD,millions,reported,SEC 10-K 0000014272-22-000051
+2021,FY,2021-12-31,12,product,Sprycel,Sprycel,,Oncology,2117,USD,millions,reported,SEC 10-K 0000014272-22-000051
+2021,FY,2021-12-31,12,product,Yervoy,Yervoy,,Oncology,2026,USD,millions,reported,SEC 10-K 0000014272-22-000051
+2022,Q1,2022-03-31,3,geography,Europe,Europe,,,2413,USD,millions,reported,SEC 10-Q 0000014272-22-000114
+2022,Q1,2022-03-31,3,geography,OtherRegion,Other Region,,,227,USD,millions,reported,SEC 10-Q 0000014272-22-000114
+2022,Q1,2022-03-31,3,geography,RestOfWorld,Rest of the World,,,1314,USD,millions,reported,SEC 10-Q 0000014272-22-000114
+2022,Q1,2022-03-31,3,geography,US,United States,,,7694,USD,millions,reported,SEC 10-Q 0000014272-22-000114
+2022,Q1,2022-03-31,3,product,Eliquis,Eliquis,,Cardiovascular,3211,USD,millions,reported,SEC 10-Q 0000014272-22-000114
+2022,Q1,2022-03-31,3,product,MatureAndOtherBrands,Mature and other products,,Established Products,462,USD,millions,reported,SEC 10-Q 0000014272-22-000114
+2022,Q1,2022-03-31,3,product,Reblozyl,Reblozyl,,Hematology,156,USD,millions,reported,SEC 10-Q 0000014272-22-000114
+2022,Q1,2022-03-31,3,product,Orencia,Orencia,,Immunology,792,USD,millions,reported,SEC 10-Q 0000014272-22-000114
+2022,Q1,2022-03-31,3,product,Zeposia,Zeposia,,Immunology,36,USD,millions,reported,SEC 10-Q 0000014272-22-000114
+2022,Q1,2022-03-31,3,product,Abecma,Abecma,,Oncology,67,USD,millions,reported,SEC 10-Q 0000014272-22-000114
+2022,Q1,2022-03-31,3,product,Abraxane,Abraxane,,Oncology,214,USD,millions,reported,SEC 10-Q 0000014272-22-000114
+2022,Q1,2022-03-31,3,product,Breyanzi,Breyanzi,,Oncology,44,USD,millions,reported,SEC 10-Q 0000014272-22-000114
+2022,Q1,2022-03-31,3,product,Empliciti,Empliciti,,Oncology,75,USD,millions,reported,SEC 10-Q 0000014272-22-000114
+2022,Q1,2022-03-31,3,product,Inrebic,Inrebic,,Oncology,18,USD,millions,reported,SEC 10-Q 0000014272-22-000114
+2022,Q1,2022-03-31,3,product,Onureg,Onureg,,Oncology,23,USD,millions,reported,SEC 10-Q 0000014272-22-000114
+2022,Q1,2022-03-31,3,product,Opdivo,Opdivo,,Oncology,1923,USD,millions,reported,SEC 10-Q 0000014272-22-000114
+2022,Q1,2022-03-31,3,product,Opdualag,Opdualag,,Oncology,6,USD,millions,reported,SEC 10-Q 0000014272-22-000114
+2022,Q1,2022-03-31,3,product,PomalystImnovid,Pomalyst/Imnovid,,Oncology,826,USD,millions,reported,SEC 10-Q 0000014272-22-000114
+2022,Q1,2022-03-31,3,product,Revlimid,Revlimid,,Oncology,2797,USD,millions,reported,SEC 10-Q 0000014272-22-000114
+2022,Q1,2022-03-31,3,product,Sprycel,Sprycel,,Oncology,483,USD,millions,reported,SEC 10-Q 0000014272-22-000114
+2022,Q1,2022-03-31,3,product,Yervoy,Yervoy,,Oncology,515,USD,millions,reported,SEC 10-Q 0000014272-22-000114
+2022,Q2,2022-06-30,3,geography,International,International,,,3427,USD,millions,reported,SEC 10-Q 0000014272-22-000166
+2022,Q2,2022-06-30,3,geography,OtherRegion,Other Region,,,192,USD,millions,reported,SEC 10-Q 0000014272-22-000166
+2022,Q2,2022-06-30,3,geography,US,United States,,,8268,USD,millions,reported,SEC 10-Q 0000014272-22-000166
+2022,Q2,2022-06-30,3,product,Camzyos,Camzyos,,Cardiovascular,3,USD,millions,reported,SEC 10-Q 0000014272-22-000166
+2022,Q2,2022-06-30,3,product,Eliquis,Eliquis,,Cardiovascular,3235,USD,millions,reported,SEC 10-Q 0000014272-22-000166
+2022,Q2,2022-06-30,3,product,MatureAndOtherBrands,Mature and other products,,Established Products,435,USD,millions,reported,SEC 10-Q 0000014272-22-000166
+2022,Q2,2022-06-30,3,product,Reblozyl,Reblozyl,,Hematology,172,USD,millions,reported,SEC 10-Q 0000014272-22-000166
+2022,Q2,2022-06-30,3,product,Orencia,Orencia,,Immunology,876,USD,millions,reported,SEC 10-Q 0000014272-22-000166
+2022,Q2,2022-06-30,3,product,Zeposia,Zeposia,,Immunology,66,USD,millions,reported,SEC 10-Q 0000014272-22-000166
+2022,Q2,2022-06-30,3,product,Abecma,Abecma,,Oncology,89,USD,millions,reported,SEC 10-Q 0000014272-22-000166
+2022,Q2,2022-06-30,3,product,Abraxane,Abraxane,,Oncology,241,USD,millions,reported,SEC 10-Q 0000014272-22-000166
+2022,Q2,2022-06-30,3,product,Breyanzi,Breyanzi,,Oncology,39,USD,millions,reported,SEC 10-Q 0000014272-22-000166
+2022,Q2,2022-06-30,3,product,Empliciti,Empliciti,,Oncology,77,USD,millions,reported,SEC 10-Q 0000014272-22-000166
+2022,Q2,2022-06-30,3,product,Inrebic,Inrebic,,Oncology,23,USD,millions,reported,SEC 10-Q 0000014272-22-000166
+2022,Q2,2022-06-30,3,product,Onureg,Onureg,,Oncology,32,USD,millions,reported,SEC 10-Q 0000014272-22-000166
+2022,Q2,2022-06-30,3,product,Opdivo,Opdivo,,Oncology,2063,USD,millions,reported,SEC 10-Q 0000014272-22-000166
+2022,Q2,2022-06-30,3,product,Opdualag,Opdualag,,Oncology,58,USD,millions,reported,SEC 10-Q 0000014272-22-000166
+2022,Q2,2022-06-30,3,product,PomalystImnovid,Pomalyst/Imnovid,,Oncology,908,USD,millions,reported,SEC 10-Q 0000014272-22-000166
+2022,Q2,2022-06-30,3,product,Revlimid,Revlimid,,Oncology,2501,USD,millions,reported,SEC 10-Q 0000014272-22-000166
+2022,Q2,2022-06-30,3,product,Sprycel,Sprycel,,Oncology,544,USD,millions,reported,SEC 10-Q 0000014272-22-000166
+2022,Q2,2022-06-30,3,product,Yervoy,Yervoy,,Oncology,525,USD,millions,reported,SEC 10-Q 0000014272-22-000166
+2022,Q3,2022-09-30,3,geography,International,International,,,3062,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2022,Q3,2022-09-30,3,geography,OtherRegion,Other Region,,,215,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2022,Q3,2022-09-30,3,geography,US,United States,,,7941,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2022,Q3,2022-09-30,3,product,Eliquis,Eliquis,,Total In-Line Products,2655,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2022,Q3,2022-09-30,3,product,Empliciti,Empliciti,,Total In-Line Products,73,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2022,Q3,2022-09-30,3,product,MatureAndOtherBrands,Mature and other products,,Total In-Line Products,441,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2022,Q3,2022-09-30,3,product,Opdivo,Opdivo,,Total In-Line Products,2047,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2022,Q3,2022-09-30,3,product,Orencia,Orencia,,Total In-Line Products,883,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2022,Q3,2022-09-30,3,product,PomalystImnovid,Pomalyst/Imnovid,,Total In-Line Products,886,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2022,Q3,2022-09-30,3,product,Sprycel,Sprycel,,Total In-Line Products,560,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2022,Q3,2022-09-30,3,product,Yervoy,Yervoy,,Total In-Line Products,523,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2022,Q3,2022-09-30,3,product,Abecma,Abecma,,Total New Product Portfolio,107,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2022,Q3,2022-09-30,3,product,Breyanzi,Breyanzi,,Total New Product Portfolio,44,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2022,Q3,2022-09-30,3,product,Camzyos,Camzyos,,Total New Product Portfolio,5,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2022,Q3,2022-09-30,3,product,Inrebic,Inrebic,,Total New Product Portfolio,21,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2022,Q3,2022-09-30,3,product,Onureg,Onureg,,Total New Product Portfolio,32,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2022,Q3,2022-09-30,3,product,Opdualag,Opdualag,,Total New Product Portfolio,84,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2022,Q3,2022-09-30,3,product,Reblozyl,Reblozyl,,Total New Product Portfolio,190,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2022,Q3,2022-09-30,3,product,Sotyktu,Sotyktu,,Total New Product Portfolio,1,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2022,Q3,2022-09-30,3,product,Zeposia,Zeposia,,Total New Product Portfolio,69,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2022,Q3,2022-09-30,3,product,Abraxane,Abraxane,,Total Recent LOE Products,177,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2022,Q3,2022-09-30,3,product,Revlimid,Revlimid,,Total Recent LOE Products,2420,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2022,FY,2022-12-31,12,geography,EuropeanUnion,International,,,13497,USD,millions,reported,SEC 10-K 0000014272-23-000046
+2022,FY,2022-12-31,12,geography,OtherRegion,Other,,,834,USD,millions,reported,SEC 10-K 0000014272-23-000046
+2022,FY,2022-12-31,12,geography,US,United States,,,31828,USD,millions,reported,SEC 10-K 0000014272-23-000046
+2023,Q1,2023-03-31,3,geography,International,International,,,3149,USD,millions,reported,SEC 10-Q 0000014272-23-000104
+2023,Q1,2023-03-31,3,geography,OtherRegion,Other,,,155,USD,millions,reported,SEC 10-Q 0000014272-23-000104
+2023,Q1,2023-03-31,3,geography,US,United States,,,8033,USD,millions,reported,SEC 10-Q 0000014272-23-000104
+2023,Q2,2023-06-30,3,geography,International,International,,,3160,USD,millions,reported,SEC 10-Q 0000014272-23-000152
+2023,Q2,2023-06-30,3,geography,OtherRegion,Other,,,175,USD,millions,reported,SEC 10-Q 0000014272-23-000152
+2023,Q2,2023-06-30,3,geography,US,United States,,,7891,USD,millions,reported,SEC 10-Q 0000014272-23-000152
+2023,Q3,2023-09-30,3,geography,International,International,,,3153,USD,millions,reported,SEC 10-Q 0000014272-23-000181
+2023,Q3,2023-09-30,3,geography,OtherRegion,Other,,,185,USD,millions,reported,SEC 10-Q 0000014272-23-000181
+2023,Q3,2023-09-30,3,geography,US,United States,,,7628,USD,millions,reported,SEC 10-Q 0000014272-23-000181
+2023,Q4,2023-12-31,3,geography,International,International,,,3290,USD,millions,derived,SEC 10-K 0000014272-24-000044 − 10-Q 0000014272-23-000181
+2023,Q4,2023-12-31,3,geography,OtherRegion,Other,,,184,USD,millions,derived,SEC 10-K 0000014272-24-000044 − 10-Q 0000014272-23-000181
+2023,Q4,2023-12-31,3,geography,US,United States,,,8003,USD,millions,derived,SEC 10-K 0000014272-24-000044 − 10-Q 0000014272-23-000181
+2023,FY,2023-12-31,12,geography,International,International,,,12752,USD,millions,reported,SEC 10-K 0000014272-24-000044
+2023,FY,2023-12-31,12,geography,OtherRegion,Other,,,699,USD,millions,reported,SEC 10-K 0000014272-24-000044
+2023,FY,2023-12-31,12,geography,US,United States,,,31555,USD,millions,reported,SEC 10-K 0000014272-24-000044
+2024,Q1,2024-03-31,3,geography,International,International,,,3190,USD,millions,reported,SEC 10-Q 0000014272-24-000096
+2024,Q1,2024-03-31,3,geography,OtherRegion,Other,,,199,USD,millions,reported,SEC 10-Q 0000014272-24-000096
+2024,Q1,2024-03-31,3,geography,US,United States,,,8476,USD,millions,reported,SEC 10-Q 0000014272-24-000096
+2024,Q2,2024-06-30,3,geography,International,International,,,3224,USD,millions,reported,SEC 10-Q 0000014272-24-000123
+2024,Q2,2024-06-30,3,geography,OtherRegion,Other,,,176,USD,millions,reported,SEC 10-Q 0000014272-24-000123
+2024,Q2,2024-06-30,3,geography,US,United States,,,8801,USD,millions,reported,SEC 10-Q 0000014272-24-000123
+2024,Q3,2024-09-30,3,geography,International,International,,,3389,USD,millions,reported,SEC 10-Q 0000014272-24-000147
+2024,Q3,2024-09-30,3,geography,OtherRegion,Other,,,271,USD,millions,reported,SEC 10-Q 0000014272-24-000147
+2024,Q3,2024-09-30,3,geography,US,United States,,,8232,USD,millions,reported,SEC 10-Q 0000014272-24-000147
+2024,FY,2024-12-31,12,geography,NonUs,International,,,13199,USD,millions,reported,SEC 10-K 0000014272-25-000039
+2024,FY,2024-12-31,12,geography,OtherRegion,Other,,,996,USD,millions,reported,SEC 10-K 0000014272-25-000039
+2024,FY,2024-12-31,12,geography,US,United States,,,34105,USD,millions,reported,SEC 10-K 0000014272-25-000039
+2025,Q1,2025-03-31,3,geography,International,International,,,3110,USD,millions,reported,SEC 10-Q 0000014272-25-000091
+2025,Q1,2025-03-31,3,geography,OtherRegion,Other,,,218,USD,millions,reported,SEC 10-Q 0000014272-25-000091
+2025,Q1,2025-03-31,3,geography,US,United States,,,7873,USD,millions,reported,SEC 10-Q 0000014272-25-000091
+2025,Q2,2025-06-30,3,geography,NonUs,International,,,3481,USD,millions,reported,SEC 10-Q 0000014272-25-000131
+2025,Q2,2025-06-30,3,geography,OtherRegion,Other,,,270,USD,millions,reported,SEC 10-Q 0000014272-25-000131
+2025,Q2,2025-06-30,3,geography,US,United States,,,8519,USD,millions,reported,SEC 10-Q 0000014272-25-000131
+2025,Q3,2025-09-30,3,geography,NonUs,International,,,3602,USD,millions,reported,SEC 10-Q 0000014272-25-000149
+2025,Q3,2025-09-30,3,geography,OtherRegion,Other,,,290,USD,millions,reported,SEC 10-Q 0000014272-25-000149
+2025,Q3,2025-09-30,3,geography,US,United States,,,8329,USD,millions,reported,SEC 10-Q 0000014272-25-000149
+2025,Q4,2025-12-31,3,geography,NonUs,International,,,3635,USD,millions,derived,SEC 10-K 0000014272-26-000004 − 10-Q 0000014272-25-000149
+2025,Q4,2025-12-31,3,geography,OtherRegion,Other,,,309,USD,millions,derived,SEC 10-K 0000014272-26-000004 − 10-Q 0000014272-25-000149
+2025,Q4,2025-12-31,3,geography,US,United States,,,8558,USD,millions,derived,SEC 10-K 0000014272-26-000004 − 10-Q 0000014272-25-000149
+2025,FY,2025-12-31,12,geography,NonUs,International,,,13828,USD,millions,reported,SEC 10-K 0000014272-26-000004
+2025,FY,2025-12-31,12,geography,OtherRegion,Other,,,1087,USD,millions,reported,SEC 10-K 0000014272-26-000004
+2025,FY,2025-12-31,12,geography,US,United States,,,33279,USD,millions,reported,SEC 10-K 0000014272-26-000004
+2026,Q1,2026-03-31,3,geography,NonUs,International,,,3444,USD,millions,reported,SEC 10-Q 0000014272-26-000010
+2026,Q1,2026-03-31,3,geography,OtherRegion,Other,,,257,USD,millions,reported,SEC 10-Q 0000014272-26-000010
+2026,Q1,2026-03-31,3,geography,US,United States,,,7788,USD,millions,reported,SEC 10-Q 0000014272-26-000010
+2026,Q2,2026-06-30,3,geography,NonUs,International,,,3664,USD,millions,reported,SEC 10-Q 0000014272-26-000020
+2026,Q2,2026-06-30,3,geography,OtherRegion,Other,,,318,USD,millions,reported,SEC 10-Q 0000014272-26-000020
+2026,Q2,2026-06-30,3,geography,US,United States,,,8991,USD,millions,reported,SEC 10-Q 0000014272-26-000020
+2026,Q3,2026-09-30,3,geography,NonUs,International,,,3592,USD,millions,reported,SEC 10-Q 0000014272-26-000024
+2026,Q3,2026-09-30,3,geography,OtherRegion,Other,,,403,USD,millions,reported,SEC 10-Q 0000014272-26-000024
+2026,Q3,2026-09-30,3,geography,US,United States,,,9074,USD,millions,reported,SEC 10-Q 0000014272-26-000024

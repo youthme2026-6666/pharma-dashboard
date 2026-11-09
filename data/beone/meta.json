@@ -1,0 +1,16 @@
+{
+  "currency": "USD",
+  "events": 0,
+  "id": "beone",
+  "latest_period": "2026 Q3",
+  "latest_period_end": "2026-09-30",
+  "name_en": "BeOne Medicines (BeiGene)",
+  "name_zh": "百济神州",
+  "rows": {
+    "balance": 23,
+    "cashflow": 28,
+    "income": 28,
+    "segments": 271
+  },
+  "source": "sec"
+}

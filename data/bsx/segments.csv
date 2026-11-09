@@ -1,0 +1,291 @@
+fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,value,currency,unit,basis,source
+2021,Q1,2021-03-31,3,product,GlobalCrmReportingUnit,Global CRM Reporting Unit,,,469,USD,millions,reported,SEC 10-Q 0000885725-21-000014
+2021,Q1,2021-03-31,3,product,GlobalElectrophysiologyEpReportingUnit,Global Electrophysiology (EP) Reporting Unit,,,83,USD,millions,reported,SEC 10-Q 0000885725-21-000014
+2021,Q1,2021-03-31,3,product,GlobalEndoscopyEndoReportingUnit,Global Endoscopy (Endo) Reporting Unit,,,499,USD,millions,reported,SEC 10-Q 0000885725-21-000014
+2021,Q1,2021-03-31,3,product,GlobalInterventionalCardiologyIcReportingUnit,Global Interventional Cardiology (IC) Reporting Unit,,,696,USD,millions,reported,SEC 10-Q 0000885725-21-000014
+2021,Q1,2021-03-31,3,product,GlobalNeuromodulationNmReportingUnit,Global Neuromodulation (NM) Reporting Unit,,,198,USD,millions,reported,SEC 10-Q 0000885725-21-000014
+2021,Q1,2021-03-31,3,product,GlobalPeripheralInterventionsPiReportingUnit,Global Peripheral Interventions (PI) Reporting Unit,,,433,USD,millions,reported,SEC 10-Q 0000885725-21-000014
+2021,Q1,2021-03-31,3,product,GlobalUrologyandPelvicHealthReportingUnit,Global Urology (Uro) Reporting Unit,,,361,USD,millions,reported,SEC 10-Q 0000885725-21-000014
+2021,Q1,2021-03-31,3,product,SpecialtyPharmaceuticals,Specialty Pharmaceuticals,,,13,USD,millions,reported,SEC 10-Q 0000885725-21-000014
+2021,Q2,2021-06-30,3,product,GlobalCrmReportingUnit,Global CRM Reporting Unit,,,524,USD,millions,reported,SEC 10-Q 0000885725-21-000036
+2021,Q2,2021-06-30,3,product,GlobalElectrophysiologyEpReportingUnit,Global Electrophysiology (EP) Reporting Unit,,,95,USD,millions,reported,SEC 10-Q 0000885725-21-000036
+2021,Q2,2021-06-30,3,product,GlobalEndoscopyEndoReportingUnit,Global Endoscopy (Endo) Reporting Unit,,,551,USD,millions,reported,SEC 10-Q 0000885725-21-000036
+2021,Q2,2021-06-30,3,product,GlobalInterventionalCardiologyIcReportingUnit,Global Interventional Cardiology (IC) Reporting Unit,,,790,USD,millions,reported,SEC 10-Q 0000885725-21-000036
+2021,Q2,2021-06-30,3,product,GlobalNeuromodulationNmReportingUnit,Global Neuromodulation (NM) Reporting Unit,,,247,USD,millions,reported,SEC 10-Q 0000885725-21-000036
+2021,Q2,2021-06-30,3,product,GlobalPeripheralInterventionsPiReportingUnit,Global Peripheral Interventions (PI) Reporting Unit,,,473,USD,millions,reported,SEC 10-Q 0000885725-21-000036
+2021,Q2,2021-06-30,3,product,GlobalUrologyandPelvicHealthReportingUnit,Global Urology (Uro) Reporting Unit,,,397,USD,millions,reported,SEC 10-Q 0000885725-21-000036
+2021,Q2,2021-06-30,3,product,SpecialtyPharmaceuticals,Specialty Pharmaceuticals,,,0,USD,millions,reported,SEC 10-Q 0000885725-21-000036
+2021,Q2,2021-06-30,3,segment,Cardiovascular,Cardiovascular,,,1263,USD,millions,reported,SEC 10-Q 0000885725-21-000036
+2021,Q2,2021-06-30,3,segment,Medsurg,MedSurg,,,948,USD,millions,reported,SEC 10-Q 0000885725-21-000036
+2021,Q2,2021-06-30,3,segment,RhythmandNeuro,Rhythm and Neuro,,,866,USD,millions,reported,SEC 10-Q 0000885725-21-000036
+2021,Q3,2021-09-30,3,product,GlobalCrmReportingUnit,Global CRM Reporting Unit,,,512,USD,millions,reported,SEC 10-Q 0000885725-21-000052
+2021,Q3,2021-09-30,3,product,GlobalElectrophysiologyEpReportingUnit,Global Electrophysiology (EP) Reporting Unit,,,86,USD,millions,reported,SEC 10-Q 0000885725-21-000052
+2021,Q3,2021-09-30,3,product,GlobalEndoscopyEndoReportingUnit,Global Endoscopy (Endo) Reporting Unit,,,533,USD,millions,reported,SEC 10-Q 0000885725-21-000052
+2021,Q3,2021-09-30,3,product,GlobalInterventionalCardiologyIcReportingUnit,Global Interventional Cardiology (IC) Reporting Unit,,,744,USD,millions,reported,SEC 10-Q 0000885725-21-000052
+2021,Q3,2021-09-30,3,product,GlobalNeuromodulationNmReportingUnit,Global Neuromodulation (NM) Reporting Unit,,,221,USD,millions,reported,SEC 10-Q 0000885725-21-000052
+2021,Q3,2021-09-30,3,product,GlobalPeripheralInterventionsPiReportingUnit,Global Peripheral Interventions (PI) Reporting Unit,,,452,USD,millions,reported,SEC 10-Q 0000885725-21-000052
+2021,Q3,2021-09-30,3,product,GlobalUrologyandPelvicHealthReportingUnit,Global Urology (Uro) Reporting Unit,,,384,USD,millions,reported,SEC 10-Q 0000885725-21-000052
+2021,Q3,2021-09-30,3,product,SpecialtyPharmaceuticals,Specialty Pharmaceuticals,,,0,USD,millions,reported,SEC 10-Q 0000885725-21-000052
+2021,Q3,2021-09-30,3,segment,Cardiovascular,Cardiovascular,,,1196,USD,millions,reported,SEC 10-Q 0000885725-21-000052
+2021,Q3,2021-09-30,3,segment,Medsurg,MedSurg,,,917,USD,millions,reported,SEC 10-Q 0000885725-21-000052
+2021,Q3,2021-09-30,3,segment,RhythmandNeuro,Rhythm and Neuro,,,819,USD,millions,reported,SEC 10-Q 0000885725-21-000052
+2021,Q4,2021-12-31,3,product,GlobalCrmReportingUnit,Global CRM Reporting Unit,,,514,USD,millions,derived,SEC 10-K 0000885725-22-000006 − 10-Q 0000885725-21-000052
+2021,Q4,2021-12-31,3,product,GlobalElectrophysiologyEpReportingUnit,Global Electrophysiology (EP) Reporting Unit,,,100,USD,millions,derived,SEC 10-K 0000885725-22-000006 − 10-Q 0000885725-21-000052
+2021,Q4,2021-12-31,3,product,GlobalEndoscopyEndoReportingUnit,Global Endoscopy (Endo) Reporting Unit,,,558,USD,millions,derived,SEC 10-K 0000885725-22-000006 − 10-Q 0000885725-21-000052
+2021,Q4,2021-12-31,3,product,GlobalInterventionalCardiologyIcReportingUnit,Global Interventional Cardiology (IC) Reporting Unit,,,808,USD,millions,derived,SEC 10-K 0000885725-22-000006 − 10-Q 0000885725-21-000052
+2021,Q4,2021-12-31,3,product,GlobalNeuromodulationNmReportingUnit,Global Neuromodulation (NM) Reporting Unit,,,243,USD,millions,derived,SEC 10-K 0000885725-22-000006 − 10-Q 0000885725-21-000052
+2021,Q4,2021-12-31,3,product,GlobalPeripheralInterventionsPiReportingUnit,Global Peripheral Interventions (PI) Reporting Unit,,,462,USD,millions,derived,SEC 10-K 0000885725-22-000006 − 10-Q 0000885725-21-000052
+2021,Q4,2021-12-31,3,product,GlobalUrologyandPelvicHealthReportingUnit,Global Urology and Pelvic Health Reporting Unit,,,441,USD,millions,derived,SEC 10-K 0000885725-22-000006 − 10-Q 0000885725-21-000052
+2021,Q4,2021-12-31,3,product,SpecialtyPharmaceuticals,Specialty Pharmaceuticals,,,0,USD,millions,derived,SEC 10-K 0000885725-22-000006 − 10-Q 0000885725-21-000052
+2021,FY,2021-12-31,12,product,GlobalCrmReportingUnit,Global CRM Reporting Unit,,,2019,USD,millions,reported,SEC 10-K 0000885725-22-000006
+2021,FY,2021-12-31,12,product,GlobalElectrophysiologyEpReportingUnit,Global Electrophysiology (EP) Reporting Unit,,,365,USD,millions,reported,SEC 10-K 0000885725-22-000006
+2021,FY,2021-12-31,12,product,GlobalEndoscopyEndoReportingUnit,Global Endoscopy (Endo) Reporting Unit,,,2141,USD,millions,reported,SEC 10-K 0000885725-22-000006
+2021,FY,2021-12-31,12,product,GlobalInterventionalCardiologyIcReportingUnit,Global Interventional Cardiology (IC) Reporting Unit,,,3038,USD,millions,reported,SEC 10-K 0000885725-22-000006
+2021,FY,2021-12-31,12,product,GlobalNeuromodulationNmReportingUnit,Global Neuromodulation (NM) Reporting Unit,,,909,USD,millions,reported,SEC 10-K 0000885725-22-000006
+2021,FY,2021-12-31,12,product,GlobalPeripheralInterventionsPiReportingUnit,Global Peripheral Interventions (PI) Reporting Unit,,,1820,USD,millions,reported,SEC 10-K 0000885725-22-000006
+2021,FY,2021-12-31,12,product,GlobalUrologyandPelvicHealthReportingUnit,Global Urology and Pelvic Health Reporting Unit,,,1583,USD,millions,reported,SEC 10-K 0000885725-22-000006
+2021,FY,2021-12-31,12,product,SpecialtyPharmaceuticals,Specialty Pharmaceuticals,,,13,USD,millions,reported,SEC 10-K 0000885725-22-000006
+2021,FY,2021-12-31,12,segment,Cardiovascular,Cardiovascular,,,7242,USD,millions,reported,SEC 10-K 0000885725-24-000017
+2021,FY,2021-12-31,12,segment,Medsurg,MedSurg,,,4633,USD,millions,reported,SEC 10-K 0000885725-24-000017
+2021,FY,2021-12-31,12,segment,OtherNotItemized,Other (not itemized),,,13,USD,millions,derived,SEC 10-K 0000885725-24-000017
+2022,Q1,2022-03-31,3,product,CardiacRhythmManagement,Global CRM Reporting Unit,,,519,USD,millions,reported,SEC 10-Q 0000885725-22-000013
+2022,Q1,2022-03-31,3,product,ElectrophysiologyEP,Global Electrophysiology (EP) Reporting Unit,,,118,USD,millions,reported,SEC 10-Q 0000885725-22-000013
+2022,Q1,2022-03-31,3,product,GlobalEndoscopyEndoReportingUnit,Global Endoscopy (Endo) Reporting Unit,,,531,USD,millions,reported,SEC 10-Q 0000885725-22-000013
+2022,Q1,2022-03-31,3,product,GlobalNeuromodulationNmReportingUnit,Global Neuromodulation (NM) Reporting Unit,,,209,USD,millions,reported,SEC 10-Q 0000885725-22-000013
+2022,Q1,2022-03-31,3,product,GlobalPeripheralInterventionsPiReportingUnit,Global Peripheral Interventions (PI) Reporting Unit,,,465,USD,millions,reported,SEC 10-Q 0000885725-22-000013
+2022,Q1,2022-03-31,3,product,GlobalUrologyandPelvicHealthReportingUnit,Global Urology (Uro) Reporting Unit,,,413,USD,millions,reported,SEC 10-Q 0000885725-22-000013
+2022,Q1,2022-03-31,3,product,InterventionalCardiologyTherapies,Interventional Cardiology Therapies,,,544,USD,millions,reported,SEC 10-Q 0000885725-22-000013
+2022,Q1,2022-03-31,3,product,SpecialtyPharmaceuticals,Specialty Pharmaceuticals,,,0,USD,millions,reported,SEC 10-Q 0000885725-22-000013
+2022,Q1,2022-03-31,3,product,Watchman,Watchman,,,226,USD,millions,reported,SEC 10-Q 0000885725-22-000013
+2022,Q1,2022-03-31,3,segment,Cardiovascular,Cardiovascular,,,1873,USD,millions,reported,SEC 10-Q 0000885725-22-000013
+2022,Q1,2022-03-31,3,segment,Medsurg,MedSurg,,,1153,USD,millions,reported,SEC 10-Q 0000885725-22-000013
+2022,Q2,2022-06-30,3,product,CardiacRhythmManagement,Cardiac Rhythm Management,,,541,USD,millions,reported,SEC 10-Q 0000885725-22-000023
+2022,Q2,2022-06-30,3,product,ElectrophysiologyEP,Electrophysiology,,,152,USD,millions,reported,SEC 10-Q 0000885725-22-000023
+2022,Q2,2022-06-30,3,product,GlobalEndoscopyEndoReportingUnit,Endoscopy,,,560,USD,millions,reported,SEC 10-Q 0000885725-22-000023
+2022,Q2,2022-06-30,3,product,GlobalNeuromodulationNmReportingUnit,Neuromodulation,,,239,USD,millions,reported,SEC 10-Q 0000885725-22-000023
+2022,Q2,2022-06-30,3,product,GlobalPeripheralInterventionsPiReportingUnit,Peripheral Interventions,,,478,USD,millions,reported,SEC 10-Q 0000885725-22-000023
+2022,Q2,2022-06-30,3,product,GlobalUrologyandPelvicHealthReportingUnit,Urology and Pelvic Health,,,450,USD,millions,reported,SEC 10-Q 0000885725-22-000023
+2022,Q2,2022-06-30,3,product,InterventionalCardiologyTherapies,Interventional Cardiology Therapies,,,574,USD,millions,reported,SEC 10-Q 0000885725-22-000023
+2022,Q2,2022-06-30,3,product,SpecialtyPharmaceuticals,Specialty Pharmaceuticals,,,0,USD,millions,reported,SEC 10-Q 0000885725-22-000023
+2022,Q2,2022-06-30,3,product,Watchman,Watchman,,,250,USD,millions,reported,SEC 10-Q 0000885725-22-000023
+2022,Q2,2022-06-30,3,segment,Cardiovascular,Cardiovascular,,,1996,USD,millions,reported,SEC 10-Q 0000885725-22-000023
+2022,Q2,2022-06-30,3,segment,Medsurg,MedSurg,,,1248,USD,millions,reported,SEC 10-Q 0000885725-22-000023
+2022,Q3,2022-09-30,3,product,CardiacRhythmManagement,Cardiac Rhythm Management,,,519,USD,millions,reported,SEC 10-Q 0000885725-22-000028
+2022,Q3,2022-09-30,3,product,ElectrophysiologyEP,Electrophysiology,,,148,USD,millions,reported,SEC 10-Q 0000885725-22-000028
+2022,Q3,2022-09-30,3,product,GlobalEndoscopyEndoReportingUnit,Endoscopy,,,559,USD,millions,reported,SEC 10-Q 0000885725-22-000028
+2022,Q3,2022-09-30,3,product,GlobalNeuromodulationNmReportingUnit,Neuromodulation,,,221,USD,millions,reported,SEC 10-Q 0000885725-22-000028
+2022,Q3,2022-09-30,3,product,GlobalPeripheralInterventionsPiReportingUnit,Peripheral Interventions,,,479,USD,millions,reported,SEC 10-Q 0000885725-22-000028
+2022,Q3,2022-09-30,3,product,GlobalUrologyandPelvicHealthReportingUnit,Urology and Pelvic Health,,,433,USD,millions,reported,SEC 10-Q 0000885725-22-000028
+2022,Q3,2022-09-30,3,product,InterventionalCardiologyTherapies,Interventional Cardiology Therapies,,,549,USD,millions,reported,SEC 10-Q 0000885725-22-000028
+2022,Q3,2022-09-30,3,product,SpecialtyPharmaceuticals,Specialty Pharmaceuticals,,,0,USD,millions,reported,SEC 10-Q 0000885725-22-000028
+2022,Q3,2022-09-30,3,product,Watchman,Watchman,,,262,USD,millions,reported,SEC 10-Q 0000885725-22-000028
+2022,Q3,2022-09-30,3,segment,Cardiovascular,Cardiovascular,,,1958,USD,millions,reported,SEC 10-Q 0000885725-22-000028
+2022,Q3,2022-09-30,3,segment,Medsurg,MedSurg,,,1213,USD,millions,reported,SEC 10-Q 0000885725-22-000028
+2022,FY,2022-12-31,12,product,CardiacRhythmManagement,Cardiac Rhythm Management,,,2100,USD,millions,reported,SEC 10-K 0000885725-23-000008
+2022,FY,2022-12-31,12,product,ElectrophysiologyEP,Electrophysiology (EP),,,585,USD,millions,reported,SEC 10-K 0000885725-23-000008
+2022,FY,2022-12-31,12,product,GlobalEndoscopyEndoReportingUnit,Global Endoscopy (Endo) Reporting Unit,,,2221,USD,millions,reported,SEC 10-K 0000885725-23-000008
+2022,FY,2022-12-31,12,product,GlobalNeuromodulationNmReportingUnit,Global Neuromodulation (NM) Reporting Unit,,,917,USD,millions,reported,SEC 10-K 0000885725-23-000008
+2022,FY,2022-12-31,12,product,GlobalPeripheralInterventionsPiReportingUnit,Global Peripheral Interventions (PI) Reporting Unit,,,1899,USD,millions,reported,SEC 10-K 0000885725-23-000008
+2022,FY,2022-12-31,12,product,GlobalUrologyandPelvicHealthReportingUnit,Global Urology and Pelvic Health Reporting Unit,,,1773,USD,millions,reported,SEC 10-K 0000885725-23-000008
+2022,FY,2022-12-31,12,product,InterventionalCardiologyTherapies,Interventional Cardiology Therapies,,,2228,USD,millions,reported,SEC 10-K 0000885725-23-000008
+2022,FY,2022-12-31,12,product,Other,Other,,,-60,USD,millions,reported,SEC 10-K 0000885725-23-000008
+2022,FY,2022-12-31,12,product,Watchman,Watchman,,,1019,USD,millions,reported,SEC 10-K 0000885725-23-000008
+2023,Q1,2023-03-31,3,product,CardiacRhythmManagement,Cardiac Rhythm Management,,,548,USD,millions,reported,SEC 10-Q 0000885725-23-000026
+2023,Q1,2023-03-31,3,product,ElectrophysiologyEP,Electrophysiology,,,177,USD,millions,reported,SEC 10-Q 0000885725-23-000026
+2023,Q1,2023-03-31,3,product,GlobalEndoscopyEndoReportingUnit,Endoscopy,,,577,USD,millions,reported,SEC 10-Q 0000885725-23-000026
+2023,Q1,2023-03-31,3,product,GlobalNeuromodulationNmReportingUnit,Neuromodulation,,,234,USD,millions,reported,SEC 10-Q 0000885725-23-000026
+2023,Q1,2023-03-31,3,product,GlobalPeripheralInterventionsPiReportingUnit,Peripheral Interventions,,,503,USD,millions,reported,SEC 10-Q 0000885725-23-000026
+2023,Q1,2023-03-31,3,product,GlobalUrologyandPelvicHealthReportingUnit,Urology,,,469,USD,millions,reported,SEC 10-Q 0000885725-23-000026
+2023,Q1,2023-03-31,3,product,InterventionalCardiologyTherapies,Interventional Cardiology Therapies,,,591,USD,millions,reported,SEC 10-Q 0000885725-23-000026
+2023,Q1,2023-03-31,3,product,Watchman,Watchman,,,291,USD,millions,reported,SEC 10-Q 0000885725-23-000026
+2023,Q1,2023-03-31,3,segment,Cardiovascular,Cardiovascular,,,2110,USD,millions,reported,SEC 10-Q 0000885725-23-000026
+2023,Q1,2023-03-31,3,segment,Medsurg,MedSurg,,,1280,USD,millions,reported,SEC 10-Q 0000885725-23-000026
+2023,Q2,2023-06-30,3,product,CardiacRhythmManagement,Cardiac Rhythm Management,,,566,USD,millions,reported,SEC 10-Q 0000885725-23-000043
+2023,Q2,2023-06-30,3,product,ElectrophysiologyEP,Electrophysiology,,,193,USD,millions,reported,SEC 10-Q 0000885725-23-000043
+2023,Q2,2023-06-30,3,product,GlobalEndoscopyEndoReportingUnit,Endoscopy,,,631,USD,millions,reported,SEC 10-Q 0000885725-23-000043
+2023,Q2,2023-06-30,3,product,GlobalNeuromodulationNmReportingUnit,Neuromodulation,,,244,USD,millions,reported,SEC 10-Q 0000885725-23-000043
+2023,Q2,2023-06-30,3,product,GlobalPeripheralInterventionsPiReportingUnit,Peripheral Interventions,,,535,USD,millions,reported,SEC 10-Q 0000885725-23-000043
+2023,Q2,2023-06-30,3,product,GlobalUrologyandPelvicHealthReportingUnit,Urology,,,485,USD,millions,reported,SEC 10-Q 0000885725-23-000043
+2023,Q2,2023-06-30,3,product,InterventionalCardiologyTherapies,Interventional Cardiology Therapies,,,629,USD,millions,reported,SEC 10-Q 0000885725-23-000043
+2023,Q2,2023-06-30,3,product,Watchman,Watchman,,,317,USD,millions,reported,SEC 10-Q 0000885725-23-000043
+2023,Q2,2023-06-30,3,segment,Cardiovascular,Cardiovascular,,,2239,USD,millions,reported,SEC 10-Q 0000885725-23-000043
+2023,Q2,2023-06-30,3,segment,Medsurg,MedSurg,,,1360,USD,millions,reported,SEC 10-Q 0000885725-23-000043
+2023,Q3,2023-09-30,3,product,CardiacRhythmManagement,Cardiac Rhythm Management,,,552,USD,millions,reported,SEC 10-Q 0000885725-23-000048
+2023,Q3,2023-09-30,3,product,ElectrophysiologyEP,Electrophysiology,,,190,USD,millions,reported,SEC 10-Q 0000885725-23-000048
+2023,Q3,2023-09-30,3,product,GlobalEndoscopyEndoReportingUnit,Endoscopy,,,629,USD,millions,reported,SEC 10-Q 0000885725-23-000048
+2023,Q3,2023-09-30,3,product,GlobalNeuromodulationNmReportingUnit,Neuromodulation,,,229,USD,millions,reported,SEC 10-Q 0000885725-23-000048
+2023,Q3,2023-09-30,3,product,GlobalPeripheralInterventionsPiReportingUnit,Peripheral Interventions,,,538,USD,millions,reported,SEC 10-Q 0000885725-23-000048
+2023,Q3,2023-09-30,3,product,GlobalUrologyandPelvicHealthReportingUnit,Urology,,,483,USD,millions,reported,SEC 10-Q 0000885725-23-000048
+2023,Q3,2023-09-30,3,product,InterventionalCardiologyTherapies,Interventional Cardiology Therapies,,,583,USD,millions,reported,SEC 10-Q 0000885725-23-000048
+2023,Q3,2023-09-30,3,product,Watchman,Watchman,,,323,USD,millions,reported,SEC 10-Q 0000885725-23-000048
+2023,Q3,2023-09-30,3,segment,Cardiovascular,Cardiovascular,,,2185,USD,millions,reported,SEC 10-Q 0000885725-23-000048
+2023,Q3,2023-09-30,3,segment,Medsurg,MedSurg,,,1341,USD,millions,reported,SEC 10-Q 0000885725-23-000048
+2023,Q4,2023-12-31,3,product,CardiacRhythmManagement,Cardiac Rhythm Management,,,553,USD,millions,derived,SEC 10-K 0000885725-24-000017 − 10-Q 0000885725-23-000048
+2023,Q4,2023-12-31,3,product,ElectrophysiologyEP,Electrophysiology (EP),,,240,USD,millions,derived,SEC 10-K 0000885725-24-000017 − 10-Q 0000885725-23-000048
+2023,Q4,2023-12-31,3,product,GlobalEndoscopyEndoReportingUnit,Global Endoscopy (Endo) Reporting Unit,,,646,USD,millions,derived,SEC 10-K 0000885725-24-000017 − 10-Q 0000885725-23-000048
+2023,Q4,2023-12-31,3,product,GlobalNeuromodulationNmReportingUnit,Global Neuromodulation (NM) Reporting Unit,,,268,USD,millions,derived,SEC 10-K 0000885725-24-000017 − 10-Q 0000885725-23-000048
+2023,Q4,2023-12-31,3,product,GlobalPeripheralInterventionsPiReportingUnit,Global Peripheral Interventions (PI) Reporting Unit,,,533,USD,millions,derived,SEC 10-K 0000885725-24-000017 − 10-Q 0000885725-23-000048
+2023,Q4,2023-12-31,3,product,GlobalUrologyandPelvicHealthReportingUnit,Global Urology and Pelvic Health Reporting Unit,,,527,USD,millions,derived,SEC 10-K 0000885725-24-000017 − 10-Q 0000885725-23-000048
+2023,Q4,2023-12-31,3,product,InterventionalCardiologyTherapies,Interventional Cardiology Therapies,,,614,USD,millions,derived,SEC 10-K 0000885725-24-000017 − 10-Q 0000885725-23-000048
+2023,Q4,2023-12-31,3,product,Watchman,Watchman,,,344,USD,millions,derived,SEC 10-K 0000885725-24-000017 − 10-Q 0000885725-23-000048
+2023,Q4,2023-12-31,3,segment,Cardiovascular,Cardiovascular,,,2285,USD,millions,derived,SEC 10-K 0000885725-24-000017 − 10-Q 0000885725-23-000048
+2023,Q4,2023-12-31,3,segment,Medsurg,MedSurg,,,1441,USD,millions,derived,SEC 10-K 0000885725-24-000017 − 10-Q 0000885725-23-000048
+2023,FY,2023-12-31,12,geography,EMEA,"Europe, Middle East and Africa",,,2856,USD,millions,reported,SEC 10-K 0000885725-26-000010
+2023,FY,2023-12-31,12,geography,EmergingMarkets,Emerging Markets,,,2310,USD,millions,reported,SEC 10-K 0000885725-26-000010
+2023,FY,2023-12-31,12,geography,LatinAmericaandCanada,Latin America and Canada,,,560,USD,millions,reported,SEC 10-K 0000885725-26-000010
+2023,FY,2023-12-31,12,geography,OtherNotItemized,Other (not itemized),,,89,USD,millions,derived,SEC 10-K 0000885725-26-000010
+2023,FY,2023-12-31,12,geography,US,U.S.,,,8425,USD,millions,reported,SEC 10-K 0000885725-26-000010
+2023,FY,2023-12-31,12,product,CardiacRhythmManagement,Cardiac Rhythm Management,,,2218,USD,millions,reported,SEC 10-K 0000885725-24-000017
+2023,FY,2023-12-31,12,product,ElectrophysiologyEP,Electrophysiology (EP),,,800,USD,millions,reported,SEC 10-K 0000885725-24-000017
+2023,FY,2023-12-31,12,product,GlobalEndoscopyEndoReportingUnit,Global Endoscopy (Endo) Reporting Unit,,,2482,USD,millions,reported,SEC 10-K 0000885725-24-000017
+2023,FY,2023-12-31,12,product,GlobalNeuromodulationNmReportingUnit,Global Neuromodulation (NM) Reporting Unit,,,976,USD,millions,reported,SEC 10-K 0000885725-24-000017
+2023,FY,2023-12-31,12,product,GlobalPeripheralInterventionsPiReportingUnit,Global Peripheral Interventions (PI) Reporting Unit,,,2110,USD,millions,reported,SEC 10-K 0000885725-24-000017
+2023,FY,2023-12-31,12,product,GlobalUrologyandPelvicHealthReportingUnit,Global Urology and Pelvic Health Reporting Unit,,,1964,USD,millions,reported,SEC 10-K 0000885725-24-000017
+2023,FY,2023-12-31,12,product,InterventionalCardiologyTherapies,Interventional Cardiology Therapies,,,2417,USD,millions,reported,SEC 10-K 0000885725-24-000017
+2023,FY,2023-12-31,12,product,Watchman,Watchman,,,1274,USD,millions,reported,SEC 10-K 0000885725-24-000017
+2023,FY,2023-12-31,12,segment,Cardiovascular,Cardiovascular,,,8819,USD,millions,reported,SEC 10-K 0000885725-24-000017
+2023,FY,2023-12-31,12,segment,Medsurg,MedSurg,,,5422,USD,millions,reported,SEC 10-K 0000885725-24-000017
+2024,Q1,2024-03-31,3,product,CardiacRhythmManagement,Cardiac Rhythm Management,,,575,USD,millions,reported,SEC 10-Q 0000885725-24-000046
+2024,Q1,2024-03-31,3,product,ElectrophysiologyEP,Electrophysiology,,,300,USD,millions,reported,SEC 10-Q 0000885725-24-000046
+2024,Q1,2024-03-31,3,product,GlobalEndoscopyEndoReportingUnit,Endoscopy,,,642,USD,millions,reported,SEC 10-Q 0000885725-24-000046
+2024,Q1,2024-03-31,3,product,GlobalNeuromodulationNmReportingUnit,Neuromodulation,,,256,USD,millions,reported,SEC 10-Q 0000885725-24-000046
+2024,Q1,2024-03-31,3,product,GlobalPeripheralInterventionsPiReportingUnit,Peripheral Interventions,,,573,USD,millions,reported,SEC 10-Q 0000885725-24-000046
+2024,Q1,2024-03-31,3,product,GlobalUrologyandPelvicHealthReportingUnit,Urology,,,513,USD,millions,reported,SEC 10-Q 0000885725-24-000046
+2024,Q1,2024-03-31,3,product,InterventionalCardiologyTherapies,Interventional Cardiology Therapies,,,652,USD,millions,reported,SEC 10-Q 0000885725-24-000046
+2024,Q1,2024-03-31,3,product,Watchman,Watchman,,,344,USD,millions,reported,SEC 10-Q 0000885725-24-000046
+2024,Q1,2024-03-31,3,segment,Cardiovascular,Cardiovascular,,,2445,USD,millions,reported,SEC 10-Q 0000885725-24-000046
+2024,Q1,2024-03-31,3,segment,Medsurg,MedSurg,,,1412,USD,millions,reported,SEC 10-Q 0000885725-24-000046
+2024,Q2,2024-06-30,3,product,CardiacRhythmManagement,Cardiac Rhythm Management,,,576,USD,millions,reported,SEC 10-Q 0000885725-24-000068
+2024,Q2,2024-06-30,3,product,ElectrophysiologyEP,Electrophysiology,,,428,USD,millions,reported,SEC 10-Q 0000885725-24-000068
+2024,Q2,2024-06-30,3,product,GlobalEndoscopyEndoReportingUnit,Endoscopy,,,676,USD,millions,reported,SEC 10-Q 0000885725-24-000068
+2024,Q2,2024-06-30,3,product,GlobalNeuromodulationNmReportingUnit,Neuromodulation,,,282,USD,millions,reported,SEC 10-Q 0000885725-24-000068
+2024,Q2,2024-06-30,3,product,GlobalPeripheralInterventionsPiReportingUnit,Peripheral Interventions,,,590,USD,millions,reported,SEC 10-Q 0000885725-24-000068
+2024,Q2,2024-06-30,3,product,GlobalUrologyandPelvicHealthReportingUnit,Urology,,,525,USD,millions,reported,SEC 10-Q 0000885725-24-000068
+2024,Q2,2024-06-30,3,product,InterventionalCardiologyTherapies,Interventional Cardiology Therapies,,,665,USD,millions,reported,SEC 10-Q 0000885725-24-000068
+2024,Q2,2024-06-30,3,product,Watchman,Watchman,,,379,USD,millions,reported,SEC 10-Q 0000885725-24-000068
+2024,Q2,2024-06-30,3,segment,Cardiovascular,Cardiovascular,,,2637,USD,millions,reported,SEC 10-Q 0000885725-24-000068
+2024,Q2,2024-06-30,3,segment,Medsurg,MedSurg,,,1483,USD,millions,reported,SEC 10-Q 0000885725-24-000068
+2024,Q3,2024-09-30,3,product,CardiacRhythmManagement,Cardiac Rhythm Management,,,561,USD,millions,reported,SEC 10-Q 0000885725-24-000073
+2024,Q3,2024-09-30,3,product,ElectrophysiologyEP,Electrophysiology,,,527,USD,millions,reported,SEC 10-Q 0000885725-24-000073
+2024,Q3,2024-09-30,3,product,GlobalEndoscopyEndoReportingUnit,Endoscopy,,,678,USD,millions,reported,SEC 10-Q 0000885725-24-000073
+2024,Q3,2024-09-30,3,product,GlobalNeuromodulationNmReportingUnit,Neuromodulation,,,268,USD,millions,reported,SEC 10-Q 0000885725-24-000073
+2024,Q3,2024-09-30,3,product,GlobalPeripheralInterventionsPiReportingUnit,Peripheral Interventions,,,602,USD,millions,reported,SEC 10-Q 0000885725-24-000073
+2024,Q3,2024-09-30,3,product,GlobalUrologyandPelvicHealthReportingUnit,Urology,,,532,USD,millions,reported,SEC 10-Q 0000885725-24-000073
+2024,Q3,2024-09-30,3,product,InterventionalCardiologyTherapies,Interventional Cardiology Therapies,,,661,USD,millions,reported,SEC 10-Q 0000885725-24-000073
+2024,Q3,2024-09-30,3,product,Watchman,Watchman,,,380,USD,millions,reported,SEC 10-Q 0000885725-24-000073
+2024,Q3,2024-09-30,3,segment,Cardiovascular,Cardiovascular,,,2731,USD,millions,reported,SEC 10-Q 0000885725-24-000073
+2024,Q3,2024-09-30,3,segment,Medsurg,MedSurg,,,1479,USD,millions,reported,SEC 10-Q 0000885725-24-000073
+2024,Q4,2024-12-31,3,product,CardiacRhythmManagement,Cardiac Rhythm Management,,,566,USD,millions,derived,SEC 10-K 0000885725-25-000011 − 10-Q 0000885725-24-000073
+2024,Q4,2024-12-31,3,product,ElectrophysiologyEP,Electrophysiology (EP),,,649,USD,millions,derived,SEC 10-K 0000885725-25-000011 − 10-Q 0000885725-24-000073
+2024,Q4,2024-12-31,3,product,GlobalEndoscopyEndoReportingUnit,Global Endoscopy (Endo) Reporting Unit,,,691,USD,millions,derived,SEC 10-K 0000885725-25-000011 − 10-Q 0000885725-24-000073
+2024,Q4,2024-12-31,3,product,GlobalNeuromodulationNmReportingUnit,Global Neuromodulation (NM) Reporting Unit,,,299,USD,millions,derived,SEC 10-K 0000885725-25-000011 − 10-Q 0000885725-24-000073
+2024,Q4,2024-12-31,3,product,GlobalPeripheralInterventionsPiReportingUnit,Global Peripheral Interventions (PI) Reporting Unit,,,645,USD,millions,derived,SEC 10-K 0000885725-25-000011 − 10-Q 0000885725-24-000073
+2024,Q4,2024-12-31,3,product,GlobalUrologyandPelvicHealthReportingUnit,Global Urology and Pelvic Health Reporting Unit,,,630,USD,millions,derived,SEC 10-K 0000885725-25-000011 − 10-Q 0000885725-24-000073
+2024,Q4,2024-12-31,3,product,InterventionalCardiologyTherapies,Interventional Cardiology Therapies,,,668,USD,millions,derived,SEC 10-K 0000885725-25-000011 − 10-Q 0000885725-24-000073
+2024,Q4,2024-12-31,3,product,Watchman,Watchman,,,413,USD,millions,derived,SEC 10-K 0000885725-25-000011 − 10-Q 0000885725-24-000073
+2024,Q4,2024-12-31,3,segment,Cardiovascular,Cardiovascular,,,2942,USD,millions,derived,SEC 10-K 0000885725-25-000011 − 10-Q 0000885725-24-000073
+2024,Q4,2024-12-31,3,segment,Medsurg,MedSurg,,,1620,USD,millions,derived,SEC 10-K 0000885725-25-000011 − 10-Q 0000885725-24-000073
+2024,FY,2024-12-31,12,geography,EMEA,"Europe, Middle East and Africa",,,3228,USD,millions,reported,SEC 10-K 0000885725-26-000010
+2024,FY,2024-12-31,12,geography,EmergingMarkets,Emerging Markets,,,2680,USD,millions,reported,SEC 10-K 0000885725-26-000010
+2024,FY,2024-12-31,12,geography,LatinAmericaandCanada,Latin America and Canada,,,624,USD,millions,reported,SEC 10-K 0000885725-26-000010
+2024,FY,2024-12-31,12,geography,OtherNotItemized,Other (not itemized),,,5,USD,millions,derived,SEC 10-K 0000885725-26-000010
+2024,FY,2024-12-31,12,geography,US,U.S.,,,10210,USD,millions,reported,SEC 10-K 0000885725-26-000010
+2024,FY,2024-12-31,12,product,CardiacRhythmManagement,Cardiac Rhythm Management,,,2279,USD,millions,reported,SEC 10-K 0000885725-25-000011
+2024,FY,2024-12-31,12,product,ElectrophysiologyEP,Electrophysiology (EP),,,1904,USD,millions,reported,SEC 10-K 0000885725-25-000011
+2024,FY,2024-12-31,12,product,GlobalEndoscopyEndoReportingUnit,Global Endoscopy (Endo) Reporting Unit,,,2687,USD,millions,reported,SEC 10-K 0000885725-25-000011
+2024,FY,2024-12-31,12,product,GlobalNeuromodulationNmReportingUnit,Global Neuromodulation (NM) Reporting Unit,,,1106,USD,millions,reported,SEC 10-K 0000885725-25-000011
+2024,FY,2024-12-31,12,product,GlobalPeripheralInterventionsPiReportingUnit,Global Peripheral Interventions (PI) Reporting Unit,,,2410,USD,millions,reported,SEC 10-K 0000885725-25-000011
+2024,FY,2024-12-31,12,product,GlobalUrologyandPelvicHealthReportingUnit,Global Urology and Pelvic Health Reporting Unit,,,2200,USD,millions,reported,SEC 10-K 0000885725-25-000011
+2024,FY,2024-12-31,12,product,InterventionalCardiologyTherapies,Interventional Cardiology Therapies,,,2645,USD,millions,reported,SEC 10-K 0000885725-25-000011
+2024,FY,2024-12-31,12,product,Watchman,Watchman,,,1516,USD,millions,reported,SEC 10-K 0000885725-25-000011
+2024,FY,2024-12-31,12,segment,Cardiovascular,Cardiovascular,,,10755,USD,millions,reported,SEC 10-K 0000885725-25-000011
+2024,FY,2024-12-31,12,segment,Medsurg,MedSurg,,,5993,USD,millions,reported,SEC 10-K 0000885725-25-000011
+2025,Q1,2025-03-31,3,geography,NonUs,Int'l,,,1702,USD,millions,reported,SEC 10-Q 0000885725-26-000033
+2025,Q1,2025-03-31,3,geography,US,U.S.,,,2960,USD,millions,reported,SEC 10-Q 0000885725-26-000033
+2025,Q1,2025-03-31,3,product,CardiacRhythmManagement,Cardiac Rhythm Management,,,578,USD,millions,reported,SEC 10-Q 0000885725-25-000026
+2025,Q1,2025-03-31,3,product,ElectrophysiologyEP,Electrophysiology,,,730,USD,millions,reported,SEC 10-Q 0000885725-25-000026
+2025,Q1,2025-03-31,3,product,GlobalEndoscopyEndoReportingUnit,Endoscopy,,,673,USD,millions,reported,SEC 10-Q 0000885725-25-000026
+2025,Q1,2025-03-31,3,product,GlobalNeuromodulationNmReportingUnit,Neuromodulation,,,271,USD,millions,reported,SEC 10-Q 0000885725-25-000026
+2025,Q1,2025-03-31,3,product,GlobalPeripheralInterventionsPiReportingUnit,Peripheral Interventions,,,656,USD,millions,reported,SEC 10-Q 0000885725-25-000026
+2025,Q1,2025-03-31,3,product,GlobalUrologyandPelvicHealthReportingUnit,Urology,,,633,USD,millions,reported,SEC 10-Q 0000885725-25-000026
+2025,Q1,2025-03-31,3,product,InterventionalCardiologyTherapies,Interventional Cardiology Therapies,,,697,USD,millions,reported,SEC 10-Q 0000885725-25-000026
+2025,Q1,2025-03-31,3,product,Watchman,Watchman,,,425,USD,millions,reported,SEC 10-Q 0000885725-25-000026
+2025,Q1,2025-03-31,3,segment,Cardiovascular,Cardiovascular,,,3085,USD,millions,reported,SEC 10-Q 0000885725-25-000026
+2025,Q1,2025-03-31,3,segment,Medsurg,MedSurg,,,1577,USD,millions,reported,SEC 10-Q 0000885725-25-000026
+2025,Q2,2025-06-30,3,geography,NonUs,Int'l,,,1837,USD,millions,reported,SEC 10-Q 0000885725-26-000053
+2025,Q2,2025-06-30,3,geography,US,U.S.,,,3224,USD,millions,reported,SEC 10-Q 0000885725-26-000053
+2025,Q2,2025-06-30,3,product,CardiacRhythmManagement,Cardiac Rhythm Management,,,590,USD,millions,reported,SEC 10-Q 0000885725-25-000041
+2025,Q2,2025-06-30,3,product,ElectrophysiologyEP,Electrophysiology,,,840,USD,millions,reported,SEC 10-Q 0000885725-25-000041
+2025,Q2,2025-06-30,3,product,GlobalEndoscopyEndoReportingUnit,Endoscopy,,,737,USD,millions,reported,SEC 10-Q 0000885725-25-000041
+2025,Q2,2025-06-30,3,product,GlobalNeuromodulationNmReportingUnit,Neuromodulation,,,303,USD,millions,reported,SEC 10-Q 0000885725-25-000041
+2025,Q2,2025-06-30,3,product,GlobalPeripheralInterventionsPiReportingUnit,Peripheral Interventions,,,698,USD,millions,reported,SEC 10-Q 0000885725-25-000041
+2025,Q2,2025-06-30,3,product,GlobalUrologyandPelvicHealthReportingUnit,Urology,,,676,USD,millions,reported,SEC 10-Q 0000885725-25-000041
+2025,Q2,2025-06-30,3,product,InterventionalCardiologyTherapies,Interventional Cardiology Therapies,,,731,USD,millions,reported,SEC 10-Q 0000885725-25-000041
+2025,Q2,2025-06-30,3,product,Watchman,Watchman,,,486,USD,millions,reported,SEC 10-Q 0000885725-25-000041
+2025,Q2,2025-06-30,3,segment,Cardiovascular,Cardiovascular,,,3345,USD,millions,reported,SEC 10-Q 0000885725-25-000041
+2025,Q2,2025-06-30,3,segment,Medsurg,MedSurg,,,1716,USD,millions,reported,SEC 10-Q 0000885725-25-000041
+2025,Q3,2025-09-30,3,geography,NonUs,Int'l,,,1770,USD,millions,reported,SEC 10-Q 0000885725-26-000070
+2025,Q3,2025-09-30,3,geography,US,U.S.,,,3294,USD,millions,reported,SEC 10-Q 0000885725-26-000070
+2025,Q3,2025-09-30,3,product,CardiacRhythmManagement,Cardiac Rhythm Management,,,578,USD,millions,reported,SEC 10-Q 0000885725-25-000050
+2025,Q3,2025-09-30,3,product,ElectrophysiologyEP,Electrophysiology,,,865,USD,millions,reported,SEC 10-Q 0000885725-25-000050
+2025,Q3,2025-09-30,3,product,GlobalEndoscopyEndoReportingUnit,Endoscopy,,,747,USD,millions,reported,SEC 10-Q 0000885725-25-000050
+2025,Q3,2025-09-30,3,product,GlobalNeuromodulationNmReportingUnit,Neuromodulation,,,293,USD,millions,reported,SEC 10-Q 0000885725-25-000050
+2025,Q3,2025-09-30,3,product,GlobalPeripheralInterventionsPiReportingUnit,Peripheral Interventions,,,702,USD,millions,reported,SEC 10-Q 0000885725-25-000050
+2025,Q3,2025-09-30,3,product,GlobalUrologyandPelvicHealthReportingUnit,Urology,,,682,USD,millions,reported,SEC 10-Q 0000885725-25-000050
+2025,Q3,2025-09-30,3,product,InterventionalCardiologyTherapies,Interventional Cardiology Therapies,,,686,USD,millions,reported,SEC 10-Q 0000885725-25-000050
+2025,Q3,2025-09-30,3,product,Watchman,Watchman,,,512,USD,millions,reported,SEC 10-Q 0000885725-25-000050
+2025,Q3,2025-09-30,3,segment,Cardiovascular,Cardiovascular,,,3343,USD,millions,reported,SEC 10-Q 0000885725-25-000050
+2025,Q3,2025-09-30,3,segment,Medsurg,MedSurg,,,1722,USD,millions,reported,SEC 10-Q 0000885725-25-000050
+2025,Q4,2025-12-31,3,segment,Cardiovascular,Cardiovascular,,,3477,USD,millions,derived,SEC 10-K 0000885725-26-000010 − 10-Q 0000885725-25-000050
+2025,Q4,2025-12-31,3,segment,Medsurg,MedSurg,,,1809,USD,millions,derived,SEC 10-K 0000885725-26-000010 − 10-Q 0000885725-25-000050
+2025,FY,2025-12-31,12,geography,EMEA,"Europe, Middle East and Africa",,,3451,USD,millions,reported,SEC 10-K 0000885725-26-000010
+2025,FY,2025-12-31,12,geography,EmergingMarkets,Emerging Markets,,,2985,USD,millions,reported,SEC 10-K 0000885725-26-000010
+2025,FY,2025-12-31,12,geography,LatinAmericaandCanada,Latin America and Canada,,,678,USD,millions,reported,SEC 10-K 0000885725-26-000010
+2025,FY,2025-12-31,12,geography,OtherNotItemized,Other (not itemized),,,96,USD,millions,derived,SEC 10-K 0000885725-26-000010
+2025,FY,2025-12-31,12,geography,US,U.S.,,,12864,USD,millions,reported,SEC 10-K 0000885725-26-000010
+2025,FY,2025-12-31,12,product,CardiacRhythmManagement,Cardiac Rhythm Management,,,2332,USD,millions,reported,SEC 10-K 0000885725-26-000010
+2025,FY,2025-12-31,12,product,ElectrophysiologyEP,Electrophysiology,,,3325,USD,millions,reported,SEC 10-K 0000885725-26-000010
+2025,FY,2025-12-31,12,product,GlobalEndoscopyEndoReportingUnit,Endoscopy,,,2916,USD,millions,reported,SEC 10-K 0000885725-26-000010
+2025,FY,2025-12-31,12,product,GlobalNeuromodulationNmReportingUnit,Neuromodulation,,,1199,USD,millions,reported,SEC 10-K 0000885725-26-000010
+2025,FY,2025-12-31,12,product,GlobalUrologyandPelvicHealthReportingUnit,Urology,,,2709,USD,millions,reported,SEC 10-K 0000885725-26-000010
+2025,FY,2025-12-31,12,product,InterventionalCardiologyVascularTherapies,Interventional Cardiology & Vascular Therapies,,,4639,USD,millions,reported,SEC 10-K 0000885725-26-000010
+2025,FY,2025-12-31,12,product,InterventionalOncologyEmbolization,Interventional Oncology & Embolization,,,996,USD,millions,reported,SEC 10-K 0000885725-26-000010
+2025,FY,2025-12-31,12,product,Watchman,Watchman,,,1958,USD,millions,reported,SEC 10-K 0000885725-26-000010
+2025,FY,2025-12-31,12,segment,Cardiovascular,Cardiovascular,,,13250,USD,millions,reported,SEC 10-K 0000885725-26-000010
+2025,FY,2025-12-31,12,segment,Medsurg,MedSurg,,,6824,USD,millions,reported,SEC 10-K 0000885725-26-000010
+2026,Q1,2026-03-31,3,geography,NonUs,Int'l,,,1920,USD,millions,reported,SEC 10-Q 0000885725-26-000033
+2026,Q1,2026-03-31,3,geography,US,U.S.,,,3284,USD,millions,reported,SEC 10-Q 0000885725-26-000033
+2026,Q1,2026-03-31,3,product,CardiacRhythmManagement,Cardiac Rhythm Management,,,578,USD,millions,reported,SEC 10-Q 0000885725-26-000033
+2026,Q1,2026-03-31,3,product,ElectrophysiologyEP,Electrophysiology,,,905,USD,millions,reported,SEC 10-Q 0000885725-26-000033
+2026,Q1,2026-03-31,3,product,GlobalEndoscopyEndoReportingUnit,Endoscopy,,,736,USD,millions,reported,SEC 10-Q 0000885725-26-000033
+2026,Q1,2026-03-31,3,product,GlobalNeuromodulationNmReportingUnit,Neuromodulation,,,318,USD,millions,reported,SEC 10-Q 0000885725-26-000033
+2026,Q1,2026-03-31,3,product,GlobalUrologyandPelvicHealthReportingUnit,Urology,,,646,USD,millions,reported,SEC 10-Q 0000885725-26-000033
+2026,Q1,2026-03-31,3,product,InterventionalCardiologyTherapies,Interventional Cardiology & Vascular Therapies,,,1244,USD,millions,reported,SEC 10-Q 0000885725-26-000033
+2026,Q1,2026-03-31,3,product,InterventionalOncologyAndEmbolization,Interventional Oncology & Embolization,,,268,USD,millions,reported,SEC 10-Q 0000885725-26-000033
+2026,Q1,2026-03-31,3,product,Watchman,Watchman,,,506,USD,millions,reported,SEC 10-Q 0000885725-26-000033
+2026,Q1,2026-03-31,3,segment,Cardiovascular,Cardiovascular,,,3503,USD,millions,reported,SEC 10-Q 0000885725-26-000033
+2026,Q1,2026-03-31,3,segment,Medsurg,MedSurg,,,1701,USD,millions,reported,SEC 10-Q 0000885725-26-000033
+2026,Q2,2026-06-30,3,geography,NonUs,Int'l,,,2017,USD,millions,reported,SEC 10-Q 0000885725-26-000053
+2026,Q2,2026-06-30,3,geography,US,U.S.,,,3426,USD,millions,reported,SEC 10-Q 0000885725-26-000053
+2026,Q2,2026-06-30,3,product,CardiacRhythmManagement,Cardiac Rhythm Management,,,585,USD,millions,reported,SEC 10-Q 0000885725-26-000053
+2026,Q2,2026-06-30,3,product,ElectrophysiologyEP,Electrophysiology,,,916,USD,millions,reported,SEC 10-Q 0000885725-26-000053
+2026,Q2,2026-06-30,3,product,GlobalEndoscopyEndoReportingUnit,Endoscopy,,,793,USD,millions,reported,SEC 10-Q 0000885725-26-000053
+2026,Q2,2026-06-30,3,product,GlobalNeuromodulationNmReportingUnit,Neuromodulation,,,341,USD,millions,reported,SEC 10-Q 0000885725-26-000053
+2026,Q2,2026-06-30,3,product,GlobalUrologyandPelvicHealthReportingUnit,Urology,,,684,USD,millions,reported,SEC 10-Q 0000885725-26-000053
+2026,Q2,2026-06-30,3,product,InterventionalCardiologyTherapies,Interventional Cardiology & Vascular Therapies,,,1333,USD,millions,reported,SEC 10-Q 0000885725-26-000053
+2026,Q2,2026-06-30,3,product,InterventionalOncologyAndEmbolization,Interventional Oncology & Embolization,,,283,USD,millions,reported,SEC 10-Q 0000885725-26-000053
+2026,Q2,2026-06-30,3,product,Watchman,Watchman,,,507,USD,millions,reported,SEC 10-Q 0000885725-26-000053
+2026,Q2,2026-06-30,3,segment,Cardiovascular,Cardiovascular,,,3624,USD,millions,reported,SEC 10-Q 0000885725-26-000053
+2026,Q2,2026-06-30,3,segment,Medsurg,MedSurg,,,1818,USD,millions,reported,SEC 10-Q 0000885725-26-000053
+2026,Q3,2026-09-30,3,geography,NonUs,Int'l,,,1829,USD,millions,reported,SEC 10-Q 0000885725-26-000070
+2026,Q3,2026-09-30,3,geography,US,U.S.,,,3309,USD,millions,reported,SEC 10-Q 0000885725-26-000070
+2026,Q3,2026-09-30,3,product,CardiacRhythmManagement,Cardiac Rhythm Management,,,568,USD,millions,reported,SEC 10-Q 0000885725-26-000070
+2026,Q3,2026-09-30,3,product,ElectrophysiologyEP,Electrophysiology,,,816,USD,millions,reported,SEC 10-Q 0000885725-26-000070
+2026,Q3,2026-09-30,3,product,GlobalEndoscopyEndoReportingUnit,Endoscopy,,,741,USD,millions,reported,SEC 10-Q 0000885725-26-000070
+2026,Q3,2026-09-30,3,product,GlobalNeuromodulationNmReportingUnit,Neuromodulation,,,331,USD,millions,reported,SEC 10-Q 0000885725-26-000070
+2026,Q3,2026-09-30,3,product,GlobalUrologyandPelvicHealthReportingUnit,Urology,,,661,USD,millions,reported,SEC 10-Q 0000885725-26-000070
+2026,Q3,2026-09-30,3,product,InterventionalCardiologyTherapies,Interventional Cardiology & Vascular Therapies,,,1273,USD,millions,reported,SEC 10-Q 0000885725-26-000070
+2026,Q3,2026-09-30,3,product,InterventionalOncologyAndEmbolization,Interventional Oncology & Embolization,,,267,USD,millions,reported,SEC 10-Q 0000885725-26-000070
+2026,Q3,2026-09-30,3,product,Watchman,Watchman,,,482,USD,millions,reported,SEC 10-Q 0000885725-26-000070
+2026,Q3,2026-09-30,3,segment,Cardiovascular,Cardiovascular,,,3406,USD,millions,reported,SEC 10-Q 0000885725-26-000070
+2026,Q3,2026-09-30,3,segment,Medsurg,MedSurg,,,1733,USD,millions,reported,SEC 10-Q 0000885725-26-000070

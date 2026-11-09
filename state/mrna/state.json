@@ -1,0 +1,28 @@
+{
+  "cik": "0001682852",
+  "code_hash": "c3eb527647b9",
+  "fiscal_year_end": "1231",
+  "form_type": "10-K",
+  "identity_checked": "2026-11-09",
+  "last_check": "2026-11-09",
+  "name": "Moderna, Inc.",
+  "periods": 28,
+  "product_groups": {
+    "COVID19": "Infectious Disease",
+    "CollaborationArrangement": "Other",
+    "CollaborationArrangementIncludingArrangementsWithAffiliate": "Other",
+    "Grant": "Other",
+    "LicenseAndRoyalty": "Other",
+    "ProductSales": "Vaccines",
+    "RSV": "Infectious Disease",
+    "StandReadyManufacturing": "Other",
+    "StandReadyManufacturingRevenue": "Other"
+  },
+  "segment_exclude": {
+    "product": [
+      "us-gaap:ProductAndServiceOtherMember"
+    ]
+  },
+  "sic": "Biological Products, (No Diagnostic Substances)",
+  "ticker": "MRNA"
+}

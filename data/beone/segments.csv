@@ -1,0 +1,272 @@
+fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,value,currency,unit,basis,source
+2021,Q1,2021-03-31,3,geography,AllOtherCountriesExceptChinaAndUnitedStatesOfAmerica,Other,,,149.927,USD,millions,reported,SEC 10-Q 0001651308-21-000086
+2021,Q1,2021-03-31,3,geography,CN,China,,,95.982,USD,millions,reported,SEC 10-Q 0001651308-21-000086
+2021,Q1,2021-03-31,3,geography,US,United States,,,359.963,USD,millions,reported,SEC 10-Q 0001651308-21-000086
+2021,Q1,2021-03-31,3,product,Other,Other,,,0.359,USD,millions,reported,SEC 10-Q 0001651308-21-000086
+2021,Q1,2021-03-31,3,product,Abraxane,ABRAXANE®,,Oncology,0,USD,millions,reported,SEC 10-Q 0001651308-21-000086
+2021,Q1,2021-03-31,3,product,Brukinsa,BRUKINSA®,,Oncology,22.09,USD,millions,reported,SEC 10-Q 0001651308-21-000086
+2021,Q1,2021-03-31,3,product,Revlimid,REVLIMID®,,Oncology,16.629,USD,millions,reported,SEC 10-Q 0001651308-21-000086
+2021,Q1,2021-03-31,3,product,Tislelizumab,Tislelizumab,,Oncology,48.879,USD,millions,reported,SEC 10-Q 0001651308-21-000086
+2021,Q1,2021-03-31,3,product,Vidaza,VIDAZA®,,Oncology,3.706,USD,millions,reported,SEC 10-Q 0001651308-21-000086
+2021,Q1,2021-03-31,3,product,Xgeva,XGEVA®,,Oncology,14.454,USD,millions,reported,SEC 10-Q 0001651308-21-000086
+2021,Q1,2021-03-31,3,product,CollaborationResearchAndDevelopmentService,Research and development service revenue,,Other,15.109,USD,millions,reported,SEC 10-Q 0001651308-21-000086
+2021,Q1,2021-03-31,3,product,License,License revenue,,Other,484.646,USD,millions,reported,SEC 10-Q 0001651308-21-000086
+2021,Q2,2021-06-30,3,geography,AllOtherCountriesExceptChinaAndUnitedStatesOfAmerica,Other,,,3.511,USD,millions,reported,SEC 10-Q 0001651308-21-000172
+2021,Q2,2021-06-30,3,geography,CN,China,,,122.635,USD,millions,reported,SEC 10-Q 0001651308-21-000172
+2021,Q2,2021-06-30,3,geography,US,United States,,,23.846,USD,millions,reported,SEC 10-Q 0001651308-21-000172
+2021,Q2,2021-06-30,3,product,CollaborationResearchAndDevelopmentService,Research and development service revenue,,Collaboration revenue,11.368,USD,millions,reported,SEC 10-Q 0001651308-21-000172
+2021,Q2,2021-06-30,3,product,License,License revenue,,Collaboration revenue,0,USD,millions,reported,SEC 10-Q 0001651308-21-000172
+2021,Q2,2021-06-30,3,product,Product,"Product revenue, net",,Other,138.624,USD,millions,reported,SEC 10-Q 0001651308-21-000172
+2021,Q3,2021-09-30,3,geography,AllOtherCountriesExceptChinaAndUnitedStatesOfAmerica,Other,,,4.194,USD,millions,reported,SEC 10-Q 0001651308-21-000223
+2021,Q3,2021-09-30,3,geography,CN,China,,,158.775,USD,millions,reported,SEC 10-Q 0001651308-21-000223
+2021,Q3,2021-09-30,3,geography,US,United States,,,43.471,USD,millions,reported,SEC 10-Q 0001651308-21-000223
+2021,Q3,2021-09-30,3,product,CollaborationResearchAndDevelopmentService,Research and development service revenue,,Collaboration revenue,13.979,USD,millions,reported,SEC 10-Q 0001651308-21-000223
+2021,Q3,2021-09-30,3,product,License,License revenue,,Collaboration revenue,0,USD,millions,reported,SEC 10-Q 0001651308-21-000223
+2021,Q3,2021-09-30,3,product,Product,"Product revenue, net",,Other,192.461,USD,millions,reported,SEC 10-Q 0001651308-21-000223
+2021,Q4,2021-12-31,3,geography,AllOtherCountriesExceptChinaAndUnitedStatesOfAmerica,Other,,,6.213,USD,millions,derived,SEC 10-K 0001651308-22-000032 − 10-Q 0001651308-21-000223
+2021,Q4,2021-12-31,3,geography,CN,PRC,,,139.781,USD,millions,derived,SEC 10-K 0001651308-22-000032 − 10-Q 0001651308-21-000223
+2021,Q4,2021-12-31,3,geography,US,U.S.,,,67.985,USD,millions,derived,SEC 10-K 0001651308-22-000032 − 10-Q 0001651308-21-000223
+2021,FY,2021-12-31,12,geography,AllOtherCountriesExceptChinaAndUnitedStatesOfAmerica,Other,,,163.845,USD,millions,reported,SEC 10-K 0001651308-22-000032
+2021,FY,2021-12-31,12,geography,CN,PRC,,,517.173,USD,millions,reported,SEC 10-K 0001651308-22-000032
+2021,FY,2021-12-31,12,geography,US,U.S.,,,495.265,USD,millions,reported,SEC 10-K 0001651308-22-000032
+2021,FY,2021-12-31,12,product,CollaborationOther,Other,,Collaboration revenue,0,USD,millions,reported,SEC 10-K 0001651308-22-000032
+2021,FY,2021-12-31,12,product,CollaborationReimbursementOfResearchAndDevelopmentCosts,Reimbursement of research and development costs,,Collaboration revenue,0,USD,millions,reported,SEC 10-K 0001651308-22-000032
+2021,FY,2021-12-31,12,product,CollaborationResearchAndDevelopmentService,Research and development service revenue,,Collaboration revenue,53.671,USD,millions,reported,SEC 10-K 0001651308-22-000032
+2021,FY,2021-12-31,12,product,License,License revenue,,Collaboration revenue,484.646,USD,millions,reported,SEC 10-K 0001651308-22-000032
+2021,FY,2021-12-31,12,product,RightToAccessIntellectualPropertyRevenue,Right to access intellectual property revenue,,Collaboration revenue,3.979,USD,millions,reported,SEC 10-K 0001651308-22-000032
+2021,FY,2021-12-31,12,product,Product,"Product revenue, net",,Other,633.987,USD,millions,reported,SEC 10-K 0001651308-22-000032
+2022,Q1,2022-03-31,3,geography,AllOtherCountriesExceptChinaAndUnitedStatesOfAmerica,Rest of world,,,16.466,USD,millions,reported,SEC 10-Q 0001651308-23-000068
+2022,Q1,2022-03-31,3,geography,CN,China,,,190.735,USD,millions,reported,SEC 10-Q 0001651308-23-000068
+2022,Q1,2022-03-31,3,geography,US,United States,,,99.425,USD,millions,reported,SEC 10-Q 0001651308-23-000068
+2022,Q1,2022-03-31,3,product,Tislelizumab,Tislelizumab,,Oncology,5.377,USD,millions,reported,SEC 10-Q 0001651308-23-000068
+2022,Q1,2022-03-31,3,product,CollaborationResearchAndDevelopmentService,Research and development service revenue,,Other,13.427,USD,millions,reported,SEC 10-Q 0001651308-23-000068
+2022,Q1,2022-03-31,3,product,Product,"Product revenue, net",,Other,261.573,USD,millions,reported,SEC 10-Q 0001651308-23-000068
+2022,Q1,2022-03-31,3,product,RightToAccessIntellectualPropertyRevenue,Right to access intellectual property revenue,,Other,26.249,USD,millions,reported,SEC 10-Q 0001651308-23-000068
+2022,Q2,2022-06-30,3,geography,AllOtherCountriesExceptChinaAndUnitedStatesOfAmerica,Rest of world,,,14.819,USD,millions,reported,SEC 10-Q 0001651308-22-000139
+2022,Q2,2022-06-30,3,geography,CN,China,,,212.429,USD,millions,reported,SEC 10-Q 0001651308-22-000139
+2022,Q2,2022-06-30,3,geography,US,United States,,,114.324,USD,millions,reported,SEC 10-Q 0001651308-22-000139
+2022,Q2,2022-06-30,3,product,Other,Other,,,3.399,USD,millions,reported,SEC 10-Q 0001651308-23-000127
+2022,Q2,2022-06-30,3,product,BLINCYTO,BLINCYTO®,,Oncology,9.53,USD,millions,reported,SEC 10-Q 0001651308-23-000127
+2022,Q2,2022-06-30,3,product,Brukinsa,BRUKINSA®,,Oncology,128.747,USD,millions,reported,SEC 10-Q 0001651308-23-000127
+2022,Q2,2022-06-30,3,product,KYPROLIS,KYPROLIS®,,Oncology,4.092,USD,millions,reported,SEC 10-Q 0001651308-23-000127
+2022,Q2,2022-06-30,3,product,POBEVCY,POBEVCY®,,Oncology,12.983,USD,millions,reported,SEC 10-Q 0001651308-23-000127
+2022,Q2,2022-06-30,3,product,Pamiparib,Pamiparib,,Oncology,2.022,USD,millions,reported,SEC 10-Q 0001651308-23-000127
+2022,Q2,2022-06-30,3,product,Revlimid,REVLIMID®,,Oncology,19.916,USD,millions,reported,SEC 10-Q 0001651308-23-000127
+2022,Q2,2022-06-30,3,product,Tislelizumab,Tislelizumab,,Oncology,104.879,USD,millions,reported,SEC 10-Q 0001651308-23-000127
+2022,Q2,2022-06-30,3,product,Vidaza,VIDAZA®,,Oncology,3.434,USD,millions,reported,SEC 10-Q 0001651308-23-000127
+2022,Q2,2022-06-30,3,product,Xgeva,XGEVA®,,Oncology,15.509,USD,millions,reported,SEC 10-Q 0001651308-23-000127
+2022,Q2,2022-06-30,3,product,CollaborationResearchAndDevelopmentService,Research and development service revenue,,Other,10.813,USD,millions,reported,SEC 10-Q 0001651308-23-000127
+2022,Q2,2022-06-30,3,product,RightToAccessIntellectualPropertyRevenue,Right to access intellectual property revenue,,Other,26.248,USD,millions,reported,SEC 10-Q 0001651308-23-000127
+2022,Q3,2022-09-30,3,geography,CN,China,,,233.077,USD,millions,reported,SEC 10-Q 0001651308-23-000165
+2022,Q3,2022-09-30,3,geography,OtherNotItemized,Other (not itemized),,,21.12,USD,millions,derived,SEC 10-Q 0001651308-23-000165
+2022,Q3,2022-09-30,3,geography,US,United States- total revenue,,,133.431,USD,millions,reported,SEC 10-Q 0001651308-23-000165
+2022,Q3,2022-09-30,3,product,Tislelizumab,Tislelizumab,,Oncology,2.039,USD,millions,reported,SEC 10-Q 0001651308-23-000165
+2022,Q3,2022-09-30,3,product,CollaborationResearchAndDevelopmentService,Research and development service revenue,,Other,9.834,USD,millions,reported,SEC 10-Q 0001651308-23-000165
+2022,Q3,2022-09-30,3,product,MaterialRightsRevenue,Material rights revenue,,Other,0,USD,millions,reported,SEC 10-Q 0001651308-23-000165
+2022,Q3,2022-09-30,3,product,Product,"Product revenue, net",,Other,349.506,USD,millions,reported,SEC 10-Q 0001651308-23-000165
+2022,Q3,2022-09-30,3,product,RightToAccessIntellectualPropertyRevenue,Right to access intellectual property revenue,,Other,26.249,USD,millions,reported,SEC 10-Q 0001651308-23-000165
+2022,FY,2022-12-31,12,geography,AllOtherCountriesExceptChinaAndUnitedStatesOfAmerica,Other,,,10.006,USD,millions,reported,SEC 10-K 0001651308-24-000014
+2022,FY,2022-12-31,12,geography,CN,PRC,,,840.032,USD,millions,reported,SEC 10-K 0001651308-24-000014
+2022,FY,2022-12-31,12,geography,Europe,Europe- total revenue,,,63.257,USD,millions,reported,SEC 10-K 0001651308-24-000014
+2022,FY,2022-12-31,12,geography,US,U.S.,,,502.626,USD,millions,reported,SEC 10-K 0001651308-24-000014
+2022,FY,2022-12-31,12,product,Other,Other,,,16.029,USD,millions,reported,SEC 10-K 0001651308-24-000014
+2022,FY,2022-12-31,12,product,BLINCYTO,BLINCYTO®,,Oncology,36.107,USD,millions,reported,SEC 10-K 0001651308-24-000014
+2022,FY,2022-12-31,12,product,BRUKINSA,BRUKINSA®,,Oncology,564.651,USD,millions,reported,SEC 10-K 0001651308-24-000014
+2022,FY,2022-12-31,12,product,KYPROLIS,KYPROLIS®,,Oncology,13.696,USD,millions,reported,SEC 10-K 0001651308-24-000014
+2022,FY,2022-12-31,12,product,POBEVCY,POBEVCY®,,Oncology,38.124,USD,millions,reported,SEC 10-K 0001651308-24-000014
+2022,FY,2022-12-31,12,product,Pamiparib,Pamiparib,,Oncology,5.46,USD,millions,reported,SEC 10-K 0001651308-24-000014
+2022,FY,2022-12-31,12,product,REVLIMID,REVLIMID®,,Oncology,79.049,USD,millions,reported,SEC 10-K 0001651308-24-000014
+2022,FY,2022-12-31,12,product,Tislelizumab,Tislelizumab,,Oncology,422.885,USD,millions,reported,SEC 10-K 0001651308-24-000014
+2022,FY,2022-12-31,12,product,VIDAZA,VIDAZA®,,Oncology,15.213,USD,millions,reported,SEC 10-K 0001651308-24-000014
+2022,FY,2022-12-31,12,product,XGEVA,XGEVA®,,Oncology,63.398,USD,millions,reported,SEC 10-K 0001651308-24-000014
+2022,FY,2022-12-31,12,product,Collaboration,Collaboration revenue,,Other,161.309,USD,millions,reported,SEC 10-K 0001651308-24-000014
+2023,Q1,2023-03-31,3,geography,AllOtherCountriesExceptChinaAndUnitedStatesOfAmerica,Rest of world- total revenue,,,5.116,USD,millions,reported,SEC 10-Q 0001651308-24-000051
+2023,Q1,2023-03-31,3,geography,CN,China,,,247.681,USD,millions,reported,SEC 10-Q 0001651308-24-000051
+2023,Q1,2023-03-31,3,geography,Europe,Europe- total revenue,,,30.521,USD,millions,reported,SEC 10-Q 0001651308-24-000051
+2023,Q1,2023-03-31,3,geography,US,U.S. - total revenue,,,164.483,USD,millions,reported,SEC 10-Q 0001651308-24-000051
+2023,Q1,2023-03-31,3,product,Other,Other,,,10.489,USD,millions,reported,SEC 10-Q 0001651308-24-000051
+2023,Q1,2023-03-31,3,product,BLINCYTO,BLINCYTO®,,Oncology,10.946,USD,millions,reported,SEC 10-Q 0001651308-24-000051
+2023,Q1,2023-03-31,3,product,Brukinsa,BRUKINSA®,,Oncology,211.382,USD,millions,reported,SEC 10-Q 0001651308-24-000051
+2023,Q1,2023-03-31,3,product,KYPROLIS,KYPROLIS®,,Oncology,4.943,USD,millions,reported,SEC 10-Q 0001651308-24-000051
+2023,Q1,2023-03-31,3,product,POBEVCY,POBEVCY®,,Oncology,14.326,USD,millions,reported,SEC 10-Q 0001651308-24-000051
+2023,Q1,2023-03-31,3,product,Revlimid,REVLIMID®,,Oncology,23.158,USD,millions,reported,SEC 10-Q 0001651308-24-000051
+2023,Q1,2023-03-31,3,product,Tislelizumab,Tislelizumab,,Oncology,114.85,USD,millions,reported,SEC 10-Q 0001651308-24-000051
+2023,Q1,2023-03-31,3,product,Xgeva,XGEVA®,,Oncology,20.197,USD,millions,reported,SEC 10-Q 0001651308-24-000051
+2023,Q1,2023-03-31,3,product,Collaboration,Collaboration revenue,,Other,37.51,USD,millions,reported,SEC 10-Q 0001651308-24-000051
+2023,Q2,2023-06-30,3,geography,AllOtherCountriesExceptChinaAndUnitedStatesOfAmerica,Rest of world- total revenue,,,9.962,USD,millions,reported,SEC 10-Q 0001651308-24-000098
+2023,Q2,2023-06-30,3,geography,CN,China,,,295.783,USD,millions,reported,SEC 10-Q 0001651308-24-000098
+2023,Q2,2023-06-30,3,geography,Europe,Europe- total revenue,,,37.169,USD,millions,reported,SEC 10-Q 0001651308-24-000098
+2023,Q2,2023-06-30,3,geography,US,U.S. - total revenue,,,252.347,USD,millions,reported,SEC 10-Q 0001651308-24-000098
+2023,Q2,2023-06-30,3,product,Other,Other,,,11.122,USD,millions,reported,SEC 10-Q 0001651308-24-000098
+2023,Q2,2023-06-30,3,product,BLINCYTO,BLINCYTO®,,Oncology,14.578,USD,millions,reported,SEC 10-Q 0001651308-24-000098
+2023,Q2,2023-06-30,3,product,Brukinsa,BRUKINSA®,,Oncology,308.276,USD,millions,reported,SEC 10-Q 0001651308-24-000098
+2023,Q2,2023-06-30,3,product,KYPROLIS,KYPROLIS®,,Oncology,11.052,USD,millions,reported,SEC 10-Q 0001651308-24-000098
+2023,Q2,2023-06-30,3,product,POBEVCY,POBEVCY®,,Oncology,13.438,USD,millions,reported,SEC 10-Q 0001651308-24-000098
+2023,Q2,2023-06-30,3,product,Revlimid,REVLIMID®,,Oncology,21.847,USD,millions,reported,SEC 10-Q 0001651308-24-000098
+2023,Q2,2023-06-30,3,product,Tislelizumab,Tislelizumab,,Oncology,149.464,USD,millions,reported,SEC 10-Q 0001651308-24-000098
+2023,Q2,2023-06-30,3,product,Xgeva,XGEVA®,,Oncology,23.968,USD,millions,reported,SEC 10-Q 0001651308-24-000098
+2023,Q2,2023-06-30,3,product,Collaboration,Collaboration revenue,,Other,41.516,USD,millions,reported,SEC 10-Q 0001651308-24-000098
+2023,Q3,2023-09-30,3,geography,AllOtherCountriesExceptChinaAndUnitedStatesOfAmerica,Rest of world - total revenue,,,9.561,USD,millions,reported,SEC 10-Q 0001651308-24-000152
+2023,Q3,2023-09-30,3,geography,CN,China,,,287.935,USD,millions,reported,SEC 10-Q 0001651308-24-000152
+2023,Q3,2023-09-30,3,geography,Europe,Europe - total revenue,,,85.583,USD,millions,reported,SEC 10-Q 0001651308-24-000152
+2023,Q3,2023-09-30,3,geography,US,U.S. - total revenue,,,398.229,USD,millions,reported,SEC 10-Q 0001651308-24-000152
+2023,Q3,2023-09-30,3,product,Other,Other,,,13.726,USD,millions,reported,SEC 10-Q 0001651308-24-000152
+2023,Q3,2023-09-30,3,product,BLINCYTO,BLINCYTO®,,Oncology,14.87,USD,millions,reported,SEC 10-Q 0001651308-24-000152
+2023,Q3,2023-09-30,3,product,Brukinsa,BRUKINSA®,,Oncology,357.695,USD,millions,reported,SEC 10-Q 0001651308-24-000152
+2023,Q3,2023-09-30,3,product,KYPROLIS,KYPROLIS®,,Oncology,11.101,USD,millions,reported,SEC 10-Q 0001651308-24-000152
+2023,Q3,2023-09-30,3,product,POBEVCY,POBEVCY®,,Oncology,14.13,USD,millions,reported,SEC 10-Q 0001651308-24-000152
+2023,Q3,2023-09-30,3,product,Revlimid,REVLIMID®,,Oncology,14.96,USD,millions,reported,SEC 10-Q 0001651308-24-000152
+2023,Q3,2023-09-30,3,product,Tislelizumab,Tislelizumab,,Oncology,144.352,USD,millions,reported,SEC 10-Q 0001651308-24-000152
+2023,Q3,2023-09-30,3,product,Xgeva,XGEVA®,,Oncology,24.456,USD,millions,reported,SEC 10-Q 0001651308-24-000152
+2023,Q3,2023-09-30,3,product,Collaboration,Collaboration revenue,,Other,186.018,USD,millions,reported,SEC 10-Q 0001651308-24-000152
+2023,Q4,2023-12-31,3,geography,AllOtherCountriesExceptChinaAndUnitedStatesOfAmerica,Other,,,1.956,USD,millions,derived,SEC 10-K 0001651308-25-000031 − 10-Q 0001651308-24-000152
+2023,Q4,2023-12-31,3,geography,CN,PRC,,,270.552,USD,millions,derived,SEC 10-K 0001651308-25-000031 − 10-Q 0001651308-24-000152
+2023,Q4,2023-12-31,3,geography,Europe,Europe- total revenue,,,48.741,USD,millions,derived,SEC 10-K 0001651308-25-000031 − 10-Q 0001651308-24-000152
+2023,Q4,2023-12-31,3,geography,US,U.S.,,,313.16,USD,millions,derived,SEC 10-K 0001651308-25-000031 − 10-Q 0001651308-24-000152
+2023,FY,2023-12-31,12,geography,AllOtherCountriesExceptChinaAndUnitedStatesOfAmerica,Other,,,26.595,USD,millions,reported,SEC 10-K 0001651308-25-000031
+2023,FY,2023-12-31,12,geography,CN,PRC,,,1101.951,USD,millions,reported,SEC 10-K 0001651308-25-000031
+2023,FY,2023-12-31,12,geography,Europe,Europe- total revenue,,,202.014,USD,millions,reported,SEC 10-K 0001651308-25-000031
+2023,FY,2023-12-31,12,geography,US,U.S.,,,1128.219,USD,millions,reported,SEC 10-K 0001651308-25-000031
+2023,FY,2023-12-31,12,product,Other,Other,,,43.302,USD,millions,reported,SEC 10-K 0001651308-25-000031
+2023,FY,2023-12-31,12,product,BLINCYTO,BLINCYTO®,,Oncology,54.342,USD,millions,reported,SEC 10-K 0001651308-25-000031
+2023,FY,2023-12-31,12,product,BRUKINSA,BRUKINSA®,,Oncology,1290.396,USD,millions,reported,SEC 10-K 0001651308-25-000031
+2023,FY,2023-12-31,12,product,KYPROLIS,KYPROLIS®,,Oncology,39.799,USD,millions,reported,SEC 10-K 0001651308-25-000031
+2023,FY,2023-12-31,12,product,POBEVCY,POBEVCY®,,Oncology,56.547,USD,millions,reported,SEC 10-K 0001651308-25-000031
+2023,FY,2023-12-31,12,product,REVLIMID,REVLIMID®,,Oncology,76.018,USD,millions,reported,SEC 10-K 0001651308-25-000031
+2023,FY,2023-12-31,12,product,Tislelizumab,Tislelizumab,,Oncology,536.62,USD,millions,reported,SEC 10-K 0001651308-25-000031
+2023,FY,2023-12-31,12,product,XGEVA,XGEVA®,,Oncology,92.828,USD,millions,reported,SEC 10-K 0001651308-25-000031
+2023,FY,2023-12-31,12,product,Collaboration,Collaboration revenue,,Other,268.927,USD,millions,reported,SEC 10-K 0001651308-25-000031
+2024,Q1,2024-03-31,3,geography,AllOtherCountriesExceptChinaAndUnitedStatesOfAmerica,Rest of world- total revenue,,,12.96,USD,millions,reported,SEC 10-Q 0001651308-24-000051
+2024,Q1,2024-03-31,3,geography,CN,China,,,320.376,USD,millions,reported,SEC 10-Q 0001651308-24-000051
+2024,Q1,2024-03-31,3,geography,Europe,Europe- total revenue,,,66.86,USD,millions,reported,SEC 10-Q 0001651308-24-000051
+2024,Q1,2024-03-31,3,geography,US,U.S. - total revenue,,,351.456,USD,millions,reported,SEC 10-Q 0001651308-24-000051
+2024,Q1,2024-03-31,3,product,Collaboration,Collaboration revenue,,Other,4.734,USD,millions,reported,SEC 10-Q 0001651308-24-000051
+2024,Q1,2024-03-31,3,product,Product,"Product revenue, net",,Other,746.918,USD,millions,reported,SEC 10-Q 0001651308-24-000051
+2024,Q2,2024-06-30,3,geography,AllOtherCountriesExceptChinaAndUnitedStatesOfAmerica,Rest of world- total revenue,,,13.277,USD,millions,reported,SEC 10-Q 0001651308-24-000098
+2024,Q2,2024-06-30,3,geography,CN,China,,,352.07,USD,millions,reported,SEC 10-Q 0001651308-24-000098
+2024,Q2,2024-06-30,3,geography,Europe,Europe- total revenue,,,82.389,USD,millions,reported,SEC 10-Q 0001651308-24-000098
+2024,Q2,2024-06-30,3,geography,US,U.S. - total revenue,,,481.43,USD,millions,reported,SEC 10-Q 0001651308-24-000098
+2024,Q2,2024-06-30,3,product,Other,Other,,,14.511,USD,millions,reported,SEC 10-Q 0001651308-24-000098
+2024,Q2,2024-06-30,3,product,BLINCYTO,BLINCYTO®,,Oncology,19.131,USD,millions,reported,SEC 10-Q 0001651308-24-000098
+2024,Q2,2024-06-30,3,product,Brukinsa,BRUKINSA®,,Oncology,637.399,USD,millions,reported,SEC 10-Q 0001651308-24-000098
+2024,Q2,2024-06-30,3,product,KYPROLIS,KYPROLIS®,,Oncology,15.936,USD,millions,reported,SEC 10-Q 0001651308-24-000098
+2024,Q2,2024-06-30,3,product,POBEVCY,POBEVCY®,,Oncology,11.572,USD,millions,reported,SEC 10-Q 0001651308-24-000098
+2024,Q2,2024-06-30,3,product,Revlimid,REVLIMID®,,Oncology,9.133,USD,millions,reported,SEC 10-Q 0001651308-24-000098
+2024,Q2,2024-06-30,3,product,Tislelizumab,Tislelizumab,,Oncology,158.41,USD,millions,reported,SEC 10-Q 0001651308-24-000098
+2024,Q2,2024-06-30,3,product,Xgeva,XGEVA®,,Oncology,55.054,USD,millions,reported,SEC 10-Q 0001651308-24-000098
+2024,Q2,2024-06-30,3,product,Collaboration,Collaboration revenue,,Other,8.02,USD,millions,reported,SEC 10-Q 0001651308-24-000098
+2024,Q3,2024-09-30,3,geography,AllOtherCountriesExceptChinaAndUnitedStatesOfAmerica,Rest of world - total revenue,,,21.879,USD,millions,reported,SEC 10-Q 0001651308-24-000152
+2024,Q3,2024-09-30,3,geography,CN,China,,,375.993,USD,millions,reported,SEC 10-Q 0001651308-24-000152
+2024,Q3,2024-09-30,3,geography,Europe,Europe - total revenue,,,98.265,USD,millions,reported,SEC 10-Q 0001651308-24-000152
+2024,Q3,2024-09-30,3,geography,US,U.S. - total revenue,,,505.462,USD,millions,reported,SEC 10-Q 0001651308-24-000152
+2024,Q3,2024-09-30,3,product,Other,Other,,,14.89,USD,millions,reported,SEC 10-Q 0001651308-24-000152
+2024,Q3,2024-09-30,3,product,BLINCYTO,BLINCYTO®,,Oncology,20.215,USD,millions,reported,SEC 10-Q 0001651308-24-000152
+2024,Q3,2024-09-30,3,product,Brukinsa,BRUKINSA®,,Oncology,690.278,USD,millions,reported,SEC 10-Q 0001651308-24-000152
+2024,Q3,2024-09-30,3,product,KYPROLIS,KYPROLIS®,,Oncology,17.972,USD,millions,reported,SEC 10-Q 0001651308-24-000152
+2024,Q3,2024-09-30,3,product,POBEVCY,POBEVCY®,,Oncology,12.193,USD,millions,reported,SEC 10-Q 0001651308-24-000152
+2024,Q3,2024-09-30,3,product,Revlimid,REVLIMID®,,Oncology,11.103,USD,millions,reported,SEC 10-Q 0001651308-24-000152
+2024,Q3,2024-09-30,3,product,Tislelizumab,Tislelizumab,,Oncology,163.351,USD,millions,reported,SEC 10-Q 0001651308-24-000152
+2024,Q3,2024-09-30,3,product,Xgeva,XGEVA®,,Oncology,63.445,USD,millions,reported,SEC 10-Q 0001651308-24-000152
+2024,Q3,2024-09-30,3,product,Collaboration,Collaboration revenue,,Other,8.152,USD,millions,reported,SEC 10-Q 0001651308-24-000152
+2024,Q4,2024-12-31,3,geography,AllOtherCountriesExceptChinaAndUnitedStatesOfAmerica,Other,,,30.694,USD,millions,derived,SEC 10-K 0001651308-25-000031 − 10-Q 0001651308-24-000152
+2024,Q4,2024-12-31,3,geography,CN,PRC,,,362.868,USD,millions,derived,SEC 10-K 0001651308-25-000031 − 10-Q 0001651308-24-000152
+2024,Q4,2024-12-31,3,geography,Europe,Europe- total revenue,,,115.112,USD,millions,derived,SEC 10-K 0001651308-25-000031 − 10-Q 0001651308-24-000152
+2024,Q4,2024-12-31,3,geography,US,U.S.,,,619.15,USD,millions,derived,SEC 10-K 0001651308-25-000031 − 10-Q 0001651308-24-000152
+2024,FY,2024-12-31,12,geography,AllOtherCountriesExceptChinaAndUnitedStatesOfAmerica,Other,,,78.81,USD,millions,reported,SEC 10-K 0001651308-25-000031
+2024,FY,2024-12-31,12,geography,CN,PRC,,,1411.307,USD,millions,reported,SEC 10-K 0001651308-25-000031
+2024,FY,2024-12-31,12,geography,Europe,Europe- total revenue,,,362.626,USD,millions,reported,SEC 10-K 0001651308-25-000031
+2024,FY,2024-12-31,12,geography,US,U.S.,,,1957.498,USD,millions,reported,SEC 10-K 0001651308-25-000031
+2024,FY,2024-12-31,12,product,Other,Other,,,60.042,USD,millions,reported,SEC 10-K 0001651308-25-000031
+2024,FY,2024-12-31,12,product,BLINCYTO,BLINCYTO®,,Oncology,74.331,USD,millions,reported,SEC 10-K 0001651308-25-000031
+2024,FY,2024-12-31,12,product,BRUKINSA,BRUKINSA®,,Oncology,2644.226,USD,millions,reported,SEC 10-K 0001651308-25-000031
+2024,FY,2024-12-31,12,product,KYPROLIS,KYPROLIS®,,Oncology,66.171,USD,millions,reported,SEC 10-K 0001651308-25-000031
+2024,FY,2024-12-31,12,product,POBEVCY,POBEVCY®,,Oncology,53.509,USD,millions,reported,SEC 10-K 0001651308-25-000031
+2024,FY,2024-12-31,12,product,REVLIMID,REVLIMID®,,Oncology,36.028,USD,millions,reported,SEC 10-K 0001651308-25-000031
+2024,FY,2024-12-31,12,product,Tislelizumab,Tislelizumab,,Oncology,620.836,USD,millions,reported,SEC 10-K 0001651308-25-000031
+2024,FY,2024-12-31,12,product,XGEVA,XGEVA®,,Oncology,224.403,USD,millions,reported,SEC 10-K 0001651308-25-000031
+2024,FY,2024-12-31,12,product,Collaboration,Collaboration revenue,,Other,30.695,USD,millions,reported,SEC 10-K 0001651308-25-000031
+2025,Q1,2025-03-31,3,geography,AllOtherCountriesExceptChinaAndUnitedStatesOfAmerica,Rest of world - total revenue,,,31.922,USD,millions,reported,SEC 10-Q 0001651308-25-000075
+2025,Q1,2025-03-31,3,geography,CN,China,,,399.592,USD,millions,reported,SEC 10-Q 0001651308-25-000075
+2025,Q1,2025-03-31,3,geography,Europe,Europe - total revenue,,,118.554,USD,millions,reported,SEC 10-Q 0001651308-25-000075
+2025,Q1,2025-03-31,3,geography,US,U.S. - total revenue,,,567.211,USD,millions,reported,SEC 10-Q 0001651308-25-000075
+2025,Q1,2025-03-31,3,product,Other,Other,,,17.9,USD,millions,reported,SEC 10-Q 0001651308-25-000075
+2025,Q1,2025-03-31,3,product,BLINCYTO,BLINCYTO,,Oncology,23.906,USD,millions,reported,SEC 10-Q 0001651308-25-000075
+2025,Q1,2025-03-31,3,product,Brukinsa,BRUKINSA,,Oncology,791.664,USD,millions,reported,SEC 10-Q 0001651308-25-000075
+2025,Q1,2025-03-31,3,product,KYPROLIS,KYPROLIS,,Oncology,19.728,USD,millions,reported,SEC 10-Q 0001651308-25-000075
+2025,Q1,2025-03-31,3,product,POBEVCY,POBEVCY,,Oncology,13.745,USD,millions,reported,SEC 10-Q 0001651308-25-000075
+2025,Q1,2025-03-31,3,product,Tevimbra,TEVIMBRA,,Oncology,171.164,USD,millions,reported,SEC 10-Q 0001651308-25-000075
+2025,Q1,2025-03-31,3,product,Xgeva,XGEVA,,Oncology,70.423,USD,millions,reported,SEC 10-Q 0001651308-25-000075
+2025,Q1,2025-03-31,3,product,Collaboration,Collaboration revenue,,Other,8.749,USD,millions,reported,SEC 10-Q 0001651308-25-000075
+2025,Q2,2025-06-30,3,geography,AllOtherCountriesExceptChinaAndUnitedStatesOfAmerica,Rest of world - total revenue,,,35.565,USD,millions,reported,SEC 10-Q 0001651308-25-000133
+2025,Q2,2025-06-30,3,geography,CN,China,,,432.924,USD,millions,reported,SEC 10-Q 0001651308-25-000133
+2025,Q2,2025-06-30,3,geography,Europe,Europe - total revenue,,,152.384,USD,millions,reported,SEC 10-Q 0001651308-25-000133
+2025,Q2,2025-06-30,3,geography,US,U.S. - total revenue,,,694.427,USD,millions,reported,SEC 10-Q 0001651308-25-000133
+2025,Q2,2025-06-30,3,product,Other,Other,,,21.149,USD,millions,reported,SEC 10-Q 0001651308-25-000133
+2025,Q2,2025-06-30,3,product,BLINCYTO,BLINCYTO,,Oncology,25.587,USD,millions,reported,SEC 10-Q 0001651308-25-000133
+2025,Q2,2025-06-30,3,product,Brukinsa,BRUKINSA,,Oncology,949.84,USD,millions,reported,SEC 10-Q 0001651308-25-000133
+2025,Q2,2025-06-30,3,product,KYPROLIS,KYPROLIS,,Oncology,19.416,USD,millions,reported,SEC 10-Q 0001651308-25-000133
+2025,Q2,2025-06-30,3,product,POBEVCY,POBEVCY,,Oncology,11.242,USD,millions,reported,SEC 10-Q 0001651308-25-000133
+2025,Q2,2025-06-30,3,product,Tevimbra,TEVIMBRA,,Oncology,193.524,USD,millions,reported,SEC 10-Q 0001651308-25-000133
+2025,Q2,2025-06-30,3,product,Xgeva,XGEVA,,Oncology,81.318,USD,millions,reported,SEC 10-Q 0001651308-25-000133
+2025,Q2,2025-06-30,3,product,Collaboration,Collaboration revenue,,Other,13.224,USD,millions,reported,SEC 10-Q 0001651308-25-000133
+2025,Q3,2025-09-30,3,geography,AllOtherCountriesExceptChinaAndUnitedStatesOfAmerica,Rest of world - total revenue,,,50.967,USD,millions,reported,SEC 10-Q 0001628280-25-049824
+2025,Q3,2025-09-30,3,geography,CN,China,,,439.885,USD,millions,reported,SEC 10-Q 0001628280-25-049824
+2025,Q3,2025-09-30,3,geography,Europe,Europe - total revenue,,,166.576,USD,millions,reported,SEC 10-Q 0001628280-25-049824
+2025,Q3,2025-09-30,3,geography,US,U.S. - total revenue,,,754.856,USD,millions,reported,SEC 10-Q 0001628280-25-049824
+2025,Q3,2025-09-30,3,product,Other,Other,,,20.112,USD,millions,reported,SEC 10-Q 0001628280-25-049824
+2025,Q3,2025-09-30,3,product,OtherRevenue,Other Revenue,,,17.271,USD,millions,reported,SEC 10-Q 0001628280-25-049824
+2025,Q3,2025-09-30,3,product,BLINCYTO,BLINCYTO,,Oncology,30.476,USD,millions,reported,SEC 10-Q 0001628280-25-049824
+2025,Q3,2025-09-30,3,product,Brukinsa,BRUKINSA,,Oncology,1040.691,USD,millions,reported,SEC 10-Q 0001628280-25-049824
+2025,Q3,2025-09-30,3,product,KYPROLIS,KYPROLIS,,Oncology,18.369,USD,millions,reported,SEC 10-Q 0001628280-25-049824
+2025,Q3,2025-09-30,3,product,POBEVCY,POBEVCY,,Oncology,10.499,USD,millions,reported,SEC 10-Q 0001628280-25-049824
+2025,Q3,2025-09-30,3,product,Tevimbra,TEVIMBRA,,Oncology,190.623,USD,millions,reported,SEC 10-Q 0001628280-25-049824
+2025,Q3,2025-09-30,3,product,Xgeva,XGEVA,,Oncology,84.243,USD,millions,reported,SEC 10-Q 0001628280-25-049824
+2025,FY,2025-12-31,12,geography,AllOtherCountriesExceptChinaUnitedStatesOfAmericaAndSwitzerland,Other,,,171.809,USD,millions,reported,SEC 10-K 0001628280-26-011946
+2025,FY,2025-12-31,12,geography,CN,PRC,,,1679.531,USD,millions,reported,SEC 10-K 0001628280-26-011946
+2025,FY,2025-12-31,12,geography,Europe,Europe- total revenue,,,611.369,USD,millions,reported,SEC 10-K 0001628280-26-011946
+2025,FY,2025-12-31,12,geography,US,United States,,,2880.324,USD,millions,reported,SEC 10-K 0001628280-26-011946
+2025,FY,2025-12-31,12,product,Other,Other,,,83.691,USD,millions,reported,SEC 10-K 0001628280-26-011946
+2025,FY,2025-12-31,12,product,BLINCYTO,BLINCYTO®,,Oncology,104.224,USD,millions,reported,SEC 10-K 0001628280-26-011946
+2025,FY,2025-12-31,12,product,BRUKINSA,BRUKINSA®,,Oncology,3928.489,USD,millions,reported,SEC 10-K 0001628280-26-011946
+2025,FY,2025-12-31,12,product,KYPROLIS,KYPROLIS®,,Oncology,74.974,USD,millions,reported,SEC 10-K 0001628280-26-011946
+2025,FY,2025-12-31,12,product,POBEVCY,POBEVCY®,,Oncology,47.4,USD,millions,reported,SEC 10-K 0001628280-26-011946
+2025,FY,2025-12-31,12,product,Tislelizumab,TEVIMBRA®,,Oncology,737.304,USD,millions,reported,SEC 10-K 0001628280-26-011946
+2025,FY,2025-12-31,12,product,XGEVA,XGEVA®,,Oncology,305.979,USD,millions,reported,SEC 10-K 0001628280-26-011946
+2025,FY,2025-12-31,12,product,Collaboration,Other revenue,,Other,60.972,USD,millions,reported,SEC 10-K 0001628280-26-011946
+2026,Q1,2026-03-31,3,geography,AllOtherCountriesExceptChinaAndUnitedStatesOfAmerica,Rest of world - total revenue,,,65.213,USD,millions,reported,SEC 10-Q 0001628280-26-030867
+2026,Q1,2026-03-31,3,geography,CN,China,,,471.974,USD,millions,reported,SEC 10-Q 0001628280-26-030867
+2026,Q1,2026-03-31,3,geography,Europe,Europe - total revenue,,,193.996,USD,millions,reported,SEC 10-Q 0001628280-26-030867
+2026,Q1,2026-03-31,3,geography,US,U.S. - total revenue,,,782.255,USD,millions,reported,SEC 10-Q 0001628280-26-030867
+2026,Q1,2026-03-31,3,product,Other,Other,,,33.192,USD,millions,reported,SEC 10-Q 0001628280-26-030867
+2026,Q1,2026-03-31,3,product,OtherRevenue,Other Revenue,,,26.109,USD,millions,reported,SEC 10-Q 0001628280-26-030867
+2026,Q1,2026-03-31,3,product,BLINCYTO,BLINCYTO,,Oncology,34.035,USD,millions,reported,SEC 10-Q 0001628280-26-030867
+2026,Q1,2026-03-31,3,product,BRUKINSA,BRUKINSA,,Oncology,1094.843,USD,millions,reported,SEC 10-Q 0001628280-26-030867
+2026,Q1,2026-03-31,3,product,KYPROLIS,KYPROLIS,,Oncology,16.971,USD,millions,reported,SEC 10-Q 0001628280-26-030867
+2026,Q1,2026-03-31,3,product,POBEVCY,POBEVCY,,Oncology,12.127,USD,millions,reported,SEC 10-Q 0001628280-26-030867
+2026,Q1,2026-03-31,3,product,TEVIMBRA,TEVIMBRA,,Oncology,206.241,USD,millions,reported,SEC 10-Q 0001628280-26-030867
+2026,Q1,2026-03-31,3,product,XGEVA,XGEVA,,Oncology,89.92,USD,millions,reported,SEC 10-Q 0001628280-26-030867
+2026,Q2,2026-06-30,3,geography,AllOtherCountriesExceptChinaAndUnitedStatesOfAmerica,Rest of world - total revenue,,,76.09,USD,millions,reported,SEC 10-Q 0001628280-26-052878
+2026,Q2,2026-06-30,3,geography,CN,China,,,506.021,USD,millions,reported,SEC 10-Q 0001628280-26-052878
+2026,Q2,2026-06-30,3,geography,Europe,Europe - total revenue,,,208.755,USD,millions,reported,SEC 10-Q 0001628280-26-052878
+2026,Q2,2026-06-30,3,geography,US,U.S. - total revenue,,,914.205,USD,millions,reported,SEC 10-Q 0001628280-26-052878
+2026,Q2,2026-06-30,3,product,OtherRevenue,Other Revenue,,,25.277,USD,millions,reported,SEC 10-Q 0001628280-26-052878
+2026,Q2,2026-06-30,3,product,BLINCYTO,BLINCYTO,,"Product revenue, net",36.537,USD,millions,reported,SEC 10-Q 0001628280-26-052878
+2026,Q2,2026-06-30,3,product,BRUKINSA,BRUKINSA,,"Product revenue, net",1247.64,USD,millions,reported,SEC 10-Q 0001628280-26-052878
+2026,Q2,2026-06-30,3,product,KYPROLIS,KYPROLIS,,"Product revenue, net",15.147,USD,millions,reported,SEC 10-Q 0001628280-26-052878
+2026,Q2,2026-06-30,3,product,Other,Other,,"Product revenue, net",37.823,USD,millions,reported,SEC 10-Q 0001628280-26-052878
+2026,Q2,2026-06-30,3,product,POBEVCY,POBEVCY,,"Product revenue, net",9.633,USD,millions,reported,SEC 10-Q 0001628280-26-052878
+2026,Q2,2026-06-30,3,product,TEVIMBRA,TEVIMBRA,,"Product revenue, net",228.515,USD,millions,reported,SEC 10-Q 0001628280-26-052878
+2026,Q2,2026-06-30,3,product,XGEVA,XGEVA,,"Product revenue, net",104.499,USD,millions,reported,SEC 10-Q 0001628280-26-052878
+2026,Q3,2026-09-30,3,geography,AllOtherCountriesExceptTheUnitedStatesOfAmericaChinaAndEurope,Rest of world - total revenue,,,85.98,USD,millions,reported,SEC 10-Q 0001628280-26-070477
+2026,Q3,2026-09-30,3,geography,CN,China,,,536.365,USD,millions,reported,SEC 10-Q 0001628280-26-070477
+2026,Q3,2026-09-30,3,geography,Europe,Europe - total revenue,,,239.555,USD,millions,reported,SEC 10-Q 0001628280-26-070477
+2026,Q3,2026-09-30,3,geography,US,U.S. - total revenue,,,1027.915,USD,millions,reported,SEC 10-Q 0001628280-26-070477
+2026,Q3,2026-09-30,3,product,OtherRevenue,Other Revenue,,,34.758,USD,millions,reported,SEC 10-Q 0001628280-26-070477
+2026,Q3,2026-09-30,3,product,BAITUOWEI,BAITUOWEI,,"Product revenue, net",22.111,USD,millions,reported,SEC 10-Q 0001628280-26-070477
+2026,Q3,2026-09-30,3,product,BLINCYTO,BLINCYTO,,"Product revenue, net",38.869,USD,millions,reported,SEC 10-Q 0001628280-26-070477
+2026,Q3,2026-09-30,3,product,BRUKINSA,BRUKINSA,,"Product revenue, net",1390.936,USD,millions,reported,SEC 10-Q 0001628280-26-070477
+2026,Q3,2026-09-30,3,product,KYPROLIS,KYPROLIS,,"Product revenue, net",13.9,USD,millions,reported,SEC 10-Q 0001628280-26-070477
+2026,Q3,2026-09-30,3,product,Other,Other,,"Product revenue, net",29.76,USD,millions,reported,SEC 10-Q 0001628280-26-070477
+2026,Q3,2026-09-30,3,product,POBEVCY,POBEVCY,,"Product revenue, net",10.717,USD,millions,reported,SEC 10-Q 0001628280-26-070477
+2026,Q3,2026-09-30,3,product,TEVIMBRA,TEVIMBRA,,"Product revenue, net",243.282,USD,millions,reported,SEC 10-Q 0001628280-26-070477
+2026,Q3,2026-09-30,3,product,XGEVA,XGEVA,,"Product revenue, net",105.482,USD,millions,reported,SEC 10-Q 0001628280-26-070477

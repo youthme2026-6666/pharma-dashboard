@@ -1,0 +1,324 @@
+fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,value,currency,unit,basis,source
+2021,Q1,2021-03-31,3,product,OtherNotItemized,Other (not itemized),,,309,USD,millions,derived,SEC 10-Q 0000318154-21-000019
+2021,Q1,2021-03-31,3,product,Aranesp,Aranesp® (darbepoetin alfa),,Product sales,355,USD,millions,reported,SEC 10-Q 0000318154-21-000019
+2021,Q1,2021-03-31,3,product,Enbrel,Enbrel® (etanercept),,Product sales,924,USD,millions,reported,SEC 10-Q 0000318154-21-000019
+2021,Q1,2021-03-31,3,product,Kyprolis,KYPROLIS® (carfilzomib),,Product sales,251,USD,millions,reported,SEC 10-Q 0000318154-21-000019
+2021,Q1,2021-03-31,3,product,Neulasta,Neulasta® (pegfilgrastim),,Product sales,482,USD,millions,reported,SEC 10-Q 0000318154-21-000019
+2021,Q1,2021-03-31,3,product,Otezla,Otezla (apremilast),,Product sales,476,USD,millions,reported,SEC 10-Q 0000318154-21-000019
+2021,Q1,2021-03-31,3,product,OtherProducts,Other products,,Product sales,1592,USD,millions,reported,SEC 10-Q 0000318154-21-000019
+2021,Q1,2021-03-31,3,product,Prolia,Prolia® (denosumab),,Product sales,758,USD,millions,reported,SEC 10-Q 0000318154-21-000019
+2021,Q1,2021-03-31,3,product,Repathaevolocumab,Repatha (evolocumab),,Product sales,286,USD,millions,reported,SEC 10-Q 0000318154-21-000019
+2021,Q1,2021-03-31,3,product,Xgeva,XGEVA® (denosumab),,Product sales,468,USD,millions,reported,SEC 10-Q 0000318154-21-000019
+2021,Q2,2021-06-30,3,product,OtherNotItemized,Other (not itemized),,,412,USD,millions,derived,SEC 10-Q 0000318154-21-000034
+2021,Q2,2021-06-30,3,product,Aranesp,Aranesp® (darbepoetin alfa),,Product sales,367,USD,millions,reported,SEC 10-Q 0000318154-21-000034
+2021,Q2,2021-06-30,3,product,Enbrel,Enbrel® (etanercept),,Product sales,1144,USD,millions,reported,SEC 10-Q 0000318154-21-000034
+2021,Q2,2021-06-30,3,product,Kyprolis,KYPROLIS® (carfilzomib),,Product sales,280,USD,millions,reported,SEC 10-Q 0000318154-21-000034
+2021,Q2,2021-06-30,3,product,Neulasta,Neulasta® (pegfilgrastim),,Product sales,486,USD,millions,reported,SEC 10-Q 0000318154-21-000034
+2021,Q2,2021-06-30,3,product,Otezla,Otezla (apremilast),,Product sales,534,USD,millions,reported,SEC 10-Q 0000318154-21-000034
+2021,Q2,2021-06-30,3,product,OtherProducts,Other products,,Product sales,1715,USD,millions,reported,SEC 10-Q 0000318154-21-000034
+2021,Q2,2021-06-30,3,product,Prolia,Prolia® (denosumab),,Product sales,814,USD,millions,reported,SEC 10-Q 0000318154-21-000034
+2021,Q2,2021-06-30,3,product,Repathaevolocumab,Repatha (evolocumab),,Product sales,286,USD,millions,reported,SEC 10-Q 0000318154-21-000034
+2021,Q2,2021-06-30,3,product,Xgeva,XGEVA® (denosumab),,Product sales,488,USD,millions,reported,SEC 10-Q 0000318154-21-000034
+2021,Q3,2021-09-30,3,product,ProductAndServiceOther,Other revenues,,Other,386,USD,millions,reported,SEC 10-Q 0000318154-21-000045
+2021,Q3,2021-09-30,3,product,Aranesp,Aranesp® (darbepoetin alfa),,Product sales,396,USD,millions,reported,SEC 10-Q 0000318154-21-000045
+2021,Q3,2021-09-30,3,product,Enbrel,Enbrel® (etanercept),,Product sales,1289,USD,millions,reported,SEC 10-Q 0000318154-21-000045
+2021,Q3,2021-09-30,3,product,Kyprolis,KYPROLIS® (carfilzomib),,Product sales,293,USD,millions,reported,SEC 10-Q 0000318154-21-000045
+2021,Q3,2021-09-30,3,product,Neulasta,Neulasta® (pegfilgrastim),,Product sales,415,USD,millions,reported,SEC 10-Q 0000318154-21-000045
+2021,Q3,2021-09-30,3,product,Otezla,Otezla (apremilast),,Product sales,609,USD,millions,reported,SEC 10-Q 0000318154-21-000045
+2021,Q3,2021-09-30,3,product,OtherProducts,Other products,,Product sales,1726,USD,millions,reported,SEC 10-Q 0000318154-21-000045
+2021,Q3,2021-09-30,3,product,Prolia,Prolia® (denosumab),,Product sales,803,USD,millions,reported,SEC 10-Q 0000318154-21-000045
+2021,Q3,2021-09-30,3,product,Repathaevolocumab,Repatha (evolocumab),,Product sales,272,USD,millions,reported,SEC 10-Q 0000318154-21-000045
+2021,Q3,2021-09-30,3,product,Xgeva,XGEVA® (denosumab),,Product sales,517,USD,millions,reported,SEC 10-Q 0000318154-21-000045
+2021,FY,2021-12-31,12,geography,NonUs,ROW,,,7785,USD,millions,reported,SEC 10-K 0000318154-22-000010
+2021,FY,2021-12-31,12,geography,US,US,,,18194,USD,millions,reported,SEC 10-K 0000318154-22-000010
+2021,FY,2021-12-31,12,product,Product,Product,,Other,24297,USD,millions,reported,SEC 10-K 0000318154-22-000010
+2021,FY,2021-12-31,12,product,ProductAndServiceOther,Other revenues,,Other,1682,USD,millions,reported,SEC 10-K 0000318154-22-000010
+2022,Q1,2022-03-31,3,product,ProductAndServiceOther,Other revenues,,Other,507,USD,millions,reported,SEC 10-Q 0000318154-22-000021
+2022,Q1,2022-03-31,3,product,Aranesp,Aranesp® (darbepoetin alfa),,Product sales,358,USD,millions,reported,SEC 10-Q 0000318154-22-000021
+2022,Q1,2022-03-31,3,product,Enbrel,Enbrel® (etanercept),,Product sales,862,USD,millions,reported,SEC 10-Q 0000318154-22-000021
+2022,Q1,2022-03-31,3,product,Kyprolis,KYPROLIS® (carfilzomib),,Product sales,287,USD,millions,reported,SEC 10-Q 0000318154-22-000021
+2022,Q1,2022-03-31,3,product,Neulasta,Neulasta® (pegfilgrastim),,Product sales,348,USD,millions,reported,SEC 10-Q 0000318154-22-000021
+2022,Q1,2022-03-31,3,product,Nplate,Nplate,,Product sales,266,USD,millions,reported,SEC 10-Q 0000318154-22-000021
+2022,Q1,2022-03-31,3,product,Otezla,Otezla (apremilast),,Product sales,451,USD,millions,reported,SEC 10-Q 0000318154-22-000021
+2022,Q1,2022-03-31,3,product,OtherProducts,Other products,,Product sales,1476,USD,millions,reported,SEC 10-Q 0000318154-22-000021
+2022,Q1,2022-03-31,3,product,Prolia,Prolia® (denosumab),,Product sales,852,USD,millions,reported,SEC 10-Q 0000318154-22-000021
+2022,Q1,2022-03-31,3,product,Repathaevolocumab,Repatha (evolocumab),,Product sales,329,USD,millions,reported,SEC 10-Q 0000318154-22-000021
+2022,Q1,2022-03-31,3,product,Xgeva,XGEVA® (denosumab),,Product sales,502,USD,millions,reported,SEC 10-Q 0000318154-22-000021
+2022,Q2,2022-06-30,3,product,ProductAndServiceOther,Other revenues,,Other,313,USD,millions,reported,SEC 10-Q 0000318154-22-000041
+2022,Q2,2022-06-30,3,product,Aranesp,Aranesp® (darbepoetin alfa),,Product sales,357,USD,millions,reported,SEC 10-Q 0000318154-22-000041
+2022,Q2,2022-06-30,3,product,Enbrel,Enbrel® (etanercept),,Product sales,1051,USD,millions,reported,SEC 10-Q 0000318154-22-000041
+2022,Q2,2022-06-30,3,product,Kyprolis,KYPROLIS® (carfilzomib),,Product sales,317,USD,millions,reported,SEC 10-Q 0000318154-22-000041
+2022,Q2,2022-06-30,3,product,Neulasta,Neulasta® (pegfilgrastim),,Product sales,310,USD,millions,reported,SEC 10-Q 0000318154-22-000041
+2022,Q2,2022-06-30,3,product,Nplate,Nplate,,Product sales,284,USD,millions,reported,SEC 10-Q 0000318154-22-000041
+2022,Q2,2022-06-30,3,product,Otezla,Otezla (apremilast),,Product sales,594,USD,millions,reported,SEC 10-Q 0000318154-22-000041
+2022,Q2,2022-06-30,3,product,OtherProducts,Other products,,Product sales,1588,USD,millions,reported,SEC 10-Q 0000318154-22-000041
+2022,Q2,2022-06-30,3,product,Prolia,Prolia® (denosumab),,Product sales,922,USD,millions,reported,SEC 10-Q 0000318154-22-000041
+2022,Q2,2022-06-30,3,product,Repathaevolocumab,Repatha (evolocumab),,Product sales,325,USD,millions,reported,SEC 10-Q 0000318154-22-000041
+2022,Q2,2022-06-30,3,product,Xgeva,XGEVA® (denosumab),,Product sales,533,USD,millions,reported,SEC 10-Q 0000318154-22-000041
+2022,Q3,2022-09-30,3,product,ProductAndServiceOther,Other revenues,,Other,415,USD,millions,reported,SEC 10-Q 0000318154-22-000055
+2022,Q3,2022-09-30,3,product,Aranesp,Aranesp,,Product sales,358,USD,millions,reported,SEC 10-Q 0000318154-22-000055
+2022,Q3,2022-09-30,3,product,Enbrel,ENBREL,,Product sales,1106,USD,millions,reported,SEC 10-Q 0000318154-22-000055
+2022,Q3,2022-09-30,3,product,Kyprolis,KYPROLIS,,Product sales,318,USD,millions,reported,SEC 10-Q 0000318154-22-000055
+2022,Q3,2022-09-30,3,product,Neulasta,Neulasta,,Product sales,247,USD,millions,reported,SEC 10-Q 0000318154-22-000055
+2022,Q3,2022-09-30,3,product,Nplate,Nplate,,Product sales,288,USD,millions,reported,SEC 10-Q 0000318154-22-000055
+2022,Q3,2022-09-30,3,product,Otezla,Otezla,,Product sales,627,USD,millions,reported,SEC 10-Q 0000318154-22-000055
+2022,Q3,2022-09-30,3,product,OtherProducts,Other products,,Product sales,1627,USD,millions,reported,SEC 10-Q 0000318154-22-000055
+2022,Q3,2022-09-30,3,product,Prolia,Prolia,,Product sales,862,USD,millions,reported,SEC 10-Q 0000318154-22-000055
+2022,Q3,2022-09-30,3,product,Repathaevolocumab,Repatha,,Product sales,309,USD,millions,reported,SEC 10-Q 0000318154-22-000055
+2022,Q3,2022-09-30,3,product,Xgeva,XGEVA,,Product sales,495,USD,millions,reported,SEC 10-Q 0000318154-22-000055
+2022,FY,2022-12-31,12,geography,NonUs,ROW,,,7728,USD,millions,reported,SEC 10-K 0000318154-23-000017
+2022,FY,2022-12-31,12,geography,US,US,,,18595,USD,millions,reported,SEC 10-K 0000318154-23-000017
+2022,FY,2022-12-31,12,product,Product,Product,,Other,24801,USD,millions,reported,SEC 10-K 0000318154-23-000017
+2022,FY,2022-12-31,12,product,ProductAndServiceOther,Other revenues,,Other,1522,USD,millions,reported,SEC 10-K 0000318154-23-000017
+2023,Q1,2023-03-31,3,product,ProductAndServiceOther,Other revenues,,Other,259,USD,millions,reported,SEC 10-Q 0000318154-23-000029
+2023,Q1,2023-03-31,3,product,Aranesp,Aranesp,,Product sales,355,USD,millions,reported,SEC 10-Q 0000318154-23-000029
+2023,Q1,2023-03-31,3,product,EVENITY,EVENITY,,Product sales,254,USD,millions,reported,SEC 10-Q 0000318154-23-000029
+2023,Q1,2023-03-31,3,product,Enbrel,ENBREL,,Product sales,579,USD,millions,reported,SEC 10-Q 0000318154-23-000029
+2023,Q1,2023-03-31,3,product,Kyprolis,KYPROLIS,,Product sales,358,USD,millions,reported,SEC 10-Q 0000318154-23-000029
+2023,Q1,2023-03-31,3,product,Nplate,Nplate,,Product sales,362,USD,millions,reported,SEC 10-Q 0000318154-23-000029
+2023,Q1,2023-03-31,3,product,Otezla,Otezla,,Product sales,392,USD,millions,reported,SEC 10-Q 0000318154-23-000029
+2023,Q1,2023-03-31,3,product,OtherProducts,Other products,,Product sales,1695,USD,millions,reported,SEC 10-Q 0000318154-23-000029
+2023,Q1,2023-03-31,3,product,Prolia,Prolia,,Product sales,927,USD,millions,reported,SEC 10-Q 0000318154-23-000029
+2023,Q1,2023-03-31,3,product,Repathaevolocumab,Repatha,,Product sales,388,USD,millions,reported,SEC 10-Q 0000318154-23-000029
+2023,Q1,2023-03-31,3,product,Xgeva,XGEVA,,Product sales,536,USD,millions,reported,SEC 10-Q 0000318154-23-000029
+2023,Q2,2023-06-30,3,product,ProductAndServiceOther,Other revenues,,Other,303,USD,millions,reported,SEC 10-Q 0000318154-23-000053
+2023,Q2,2023-06-30,3,product,Aranesp,Aranesp,,Product sales,365,USD,millions,reported,SEC 10-Q 0000318154-23-000053
+2023,Q2,2023-06-30,3,product,EVENITY,EVENITY,,Product sales,281,USD,millions,reported,SEC 10-Q 0000318154-23-000053
+2023,Q2,2023-06-30,3,product,Enbrel,ENBREL,,Product sales,1068,USD,millions,reported,SEC 10-Q 0000318154-23-000053
+2023,Q2,2023-06-30,3,product,Kyprolis,KYPROLIS,,Product sales,346,USD,millions,reported,SEC 10-Q 0000318154-23-000053
+2023,Q2,2023-06-30,3,product,Nplate,Nplate,,Product sales,310,USD,millions,reported,SEC 10-Q 0000318154-23-000053
+2023,Q2,2023-06-30,3,product,Otezla,Otezla,,Product sales,600,USD,millions,reported,SEC 10-Q 0000318154-23-000053
+2023,Q2,2023-06-30,3,product,OtherProducts,Other products,,Product sales,1731,USD,millions,reported,SEC 10-Q 0000318154-23-000053
+2023,Q2,2023-06-30,3,product,Prolia,Prolia,,Product sales,1028,USD,millions,reported,SEC 10-Q 0000318154-23-000053
+2023,Q2,2023-06-30,3,product,Repathaevolocumab,Repatha,,Product sales,424,USD,millions,reported,SEC 10-Q 0000318154-23-000053
+2023,Q2,2023-06-30,3,product,Xgeva,XGEVA,,Product sales,530,USD,millions,reported,SEC 10-Q 0000318154-23-000053
+2023,Q3,2023-09-30,3,product,ProductAndServiceOther,Other revenues,,Other,355,USD,millions,reported,SEC 10-Q 0000318154-23-000064
+2023,Q3,2023-09-30,3,product,Aranesp,Aranesp,,Product sales,323,USD,millions,reported,SEC 10-Q 0000318154-23-000064
+2023,Q3,2023-09-30,3,product,EVENITY,EVENITY,,Product sales,307,USD,millions,reported,SEC 10-Q 0000318154-23-000064
+2023,Q3,2023-09-30,3,product,Enbrel,ENBREL,,Product sales,1035,USD,millions,reported,SEC 10-Q 0000318154-23-000064
+2023,Q3,2023-09-30,3,product,Kyprolis,KYPROLIS,,Product sales,349,USD,millions,reported,SEC 10-Q 0000318154-23-000064
+2023,Q3,2023-09-30,3,product,Nplate,Nplate,,Product sales,419,USD,millions,reported,SEC 10-Q 0000318154-23-000064
+2023,Q3,2023-09-30,3,product,Otezla,Otezla,,Product sales,567,USD,millions,reported,SEC 10-Q 0000318154-23-000064
+2023,Q3,2023-09-30,3,product,OtherProducts,Other products,,Product sales,1637,USD,millions,reported,SEC 10-Q 0000318154-23-000064
+2023,Q3,2023-09-30,3,product,Prolia,Prolia,,Product sales,986,USD,millions,reported,SEC 10-Q 0000318154-23-000064
+2023,Q3,2023-09-30,3,product,Repathaevolocumab,Repatha,,Product sales,406,USD,millions,reported,SEC 10-Q 0000318154-23-000064
+2023,Q3,2023-09-30,3,product,Xgeva,XGEVA,,Product sales,519,USD,millions,reported,SEC 10-Q 0000318154-23-000064
+2023,FY,2023-12-31,12,geography,NonUs,ROW,,,8384,USD,millions,reported,SEC 10-K 0000318154-24-000011
+2023,FY,2023-12-31,12,geography,US,U.S.,,,19806,USD,millions,reported,SEC 10-K 0000318154-24-000011
+2023,FY,2023-12-31,12,product,OtherProducts,Other products,,,5263,USD,millions,reported,SEC 10-K 0000318154-24-000011
+2023,FY,2023-12-31,12,product,Evenity,EVENITY,,Cardiometabolic Health,1160,USD,millions,reported,SEC 10-K 0000318154-24-000011
+2023,FY,2023-12-31,12,product,KRYSTEXXA,KRYSTEXXA,,Cardiometabolic Health,272,USD,millions,reported,SEC 10-K 0000318154-24-000011
+2023,FY,2023-12-31,12,product,Prolia,Prolia,,Cardiometabolic Health,4048,USD,millions,reported,SEC 10-K 0000318154-24-000011
+2023,FY,2023-12-31,12,product,Repathaevolocumab,Repatha,,Cardiovascular,1635,USD,millions,reported,SEC 10-K 0000318154-24-000011
+2023,FY,2023-12-31,12,product,Aranesp,Aranesp,,Hematology,1362,USD,millions,reported,SEC 10-K 0000318154-24-000011
+2023,FY,2023-12-31,12,product,Nplate,Nplate,,Hematology,1477,USD,millions,reported,SEC 10-K 0000318154-24-000011
+2023,FY,2023-12-31,12,product,Enbrel,ENBREL,,Immunology,3697,USD,millions,reported,SEC 10-K 0000318154-24-000011
+2023,FY,2023-12-31,12,product,Otezla,Otezla,,Immunology,2188,USD,millions,reported,SEC 10-K 0000318154-24-000011
+2023,FY,2023-12-31,12,product,BLINCYTO,BLINCYTO,,Oncology,861,USD,millions,reported,SEC 10-K 0000318154-24-000011
+2023,FY,2023-12-31,12,product,Kyprolis,KYPROLIS,,Oncology,1403,USD,millions,reported,SEC 10-K 0000318154-24-000011
+2023,FY,2023-12-31,12,product,Vectibix,Vectibix,,Oncology,984,USD,millions,reported,SEC 10-K 0000318154-24-000011
+2023,FY,2023-12-31,12,product,Xgeva,XGEVA,,Oncology,2112,USD,millions,reported,SEC 10-K 0000318154-24-000011
+2023,FY,2023-12-31,12,product,TEPEZZA,TEPEZZA,,Ophthalmology,448,USD,millions,reported,SEC 10-K 0000318154-24-000011
+2023,FY,2023-12-31,12,product,ProductAndServiceOther,Other revenues,,Other,1280,USD,millions,reported,SEC 10-K 0000318154-24-000011
+2024,Q1,2024-03-31,3,product,Aranesp,Aranesp,,Product sales,349,USD,millions,reported,SEC 10-Q 0000318154-24-000020
+2024,Q1,2024-03-31,3,product,BLINCYTO,BLINCYTO,,Product sales,244,USD,millions,reported,SEC 10-Q 0000318154-24-000020
+2024,Q1,2024-03-31,3,product,EVENITY,EVENITY,,Product sales,342,USD,millions,reported,SEC 10-Q 0000318154-24-000020
+2024,Q1,2024-03-31,3,product,Enbrel,ENBREL,,Product sales,567,USD,millions,reported,SEC 10-Q 0000318154-24-000020
+2024,Q1,2024-03-31,3,product,KRYSTEXXA,KRYSTEXXA,,Product sales,235,USD,millions,reported,SEC 10-Q 0000318154-24-000020
+2024,Q1,2024-03-31,3,product,Kyprolis,KYPROLIS,,Product sales,376,USD,millions,reported,SEC 10-Q 0000318154-24-000020
+2024,Q1,2024-03-31,3,product,Nplate,Nplate,,Product sales,317,USD,millions,reported,SEC 10-Q 0000318154-24-000020
+2024,Q1,2024-03-31,3,product,Otezla,Otezla,,Product sales,394,USD,millions,reported,SEC 10-Q 0000318154-24-000020
+2024,Q1,2024-03-31,3,product,OtherProducts,Other products,,Product sales,1373,USD,millions,reported,SEC 10-Q 0000318154-24-000020
+2024,Q1,2024-03-31,3,product,ProductAndServiceOther,Other revenues,,Product sales,329,USD,millions,reported,SEC 10-Q 0000318154-24-000020
+2024,Q1,2024-03-31,3,product,Prolia,Prolia,,Product sales,999,USD,millions,reported,SEC 10-Q 0000318154-24-000020
+2024,Q1,2024-03-31,3,product,Repathaevolocumab,Repatha,,Product sales,517,USD,millions,reported,SEC 10-Q 0000318154-24-000020
+2024,Q1,2024-03-31,3,product,TEPEZZA,TEPEZZA,,Product sales,424,USD,millions,reported,SEC 10-Q 0000318154-24-000020
+2024,Q1,2024-03-31,3,product,TEZSPIRE,TEZSPIRE,,Product sales,173,USD,millions,reported,SEC 10-Q 0000318154-24-000020
+2024,Q1,2024-03-31,3,product,Vectibix,Vectibix,,Product sales,247,USD,millions,reported,SEC 10-Q 0000318154-24-000020
+2024,Q1,2024-03-31,3,product,Xgeva,XGEVA,,Product sales,561,USD,millions,reported,SEC 10-Q 0000318154-24-000020
+2024,Q2,2024-06-30,3,product,Aranesp,Aranesp,,Product sales,348,USD,millions,reported,SEC 10-Q 0000318154-24-000035
+2024,Q2,2024-06-30,3,product,BLINCYTO,BLINCYTO,,Product sales,264,USD,millions,reported,SEC 10-Q 0000318154-24-000035
+2024,Q2,2024-06-30,3,product,EVENITY,EVENITY,,Product sales,391,USD,millions,reported,SEC 10-Q 0000318154-24-000035
+2024,Q2,2024-06-30,3,product,Enbrel,ENBREL,,Product sales,909,USD,millions,reported,SEC 10-Q 0000318154-24-000035
+2024,Q2,2024-06-30,3,product,KRYSTEXXA,KRYSTEXXA,,Product sales,294,USD,millions,reported,SEC 10-Q 0000318154-24-000035
+2024,Q2,2024-06-30,3,product,Kyprolis,KYPROLIS,,Product sales,377,USD,millions,reported,SEC 10-Q 0000318154-24-000035
+2024,Q2,2024-06-30,3,product,Nplate,Nplate,,Product sales,346,USD,millions,reported,SEC 10-Q 0000318154-24-000035
+2024,Q2,2024-06-30,3,product,Otezla,Otezla,,Product sales,544,USD,millions,reported,SEC 10-Q 0000318154-24-000035
+2024,Q2,2024-06-30,3,product,OtherProducts,Other products,,Product sales,1326,USD,millions,reported,SEC 10-Q 0000318154-24-000035
+2024,Q2,2024-06-30,3,product,ProductAndServiceOther,Other revenues,,Product sales,347,USD,millions,reported,SEC 10-Q 0000318154-24-000035
+2024,Q2,2024-06-30,3,product,Prolia,Prolia,,Product sales,1165,USD,millions,reported,SEC 10-Q 0000318154-24-000035
+2024,Q2,2024-06-30,3,product,Repathaevolocumab,Repatha,,Product sales,532,USD,millions,reported,SEC 10-Q 0000318154-24-000035
+2024,Q2,2024-06-30,3,product,TEPEZZA,TEPEZZA,,Product sales,479,USD,millions,reported,SEC 10-Q 0000318154-24-000035
+2024,Q2,2024-06-30,3,product,TEZSPIRE,TEZSPIRE,,Product sales,234,USD,millions,reported,SEC 10-Q 0000318154-24-000035
+2024,Q2,2024-06-30,3,product,Vectibix,Vectibix,,Product sales,270,USD,millions,reported,SEC 10-Q 0000318154-24-000035
+2024,Q2,2024-06-30,3,product,Xgeva,XGEVA,,Product sales,562,USD,millions,reported,SEC 10-Q 0000318154-24-000035
+2024,Q3,2024-09-30,3,product,Aranesp,Aranesp,,Product sales,337,USD,millions,reported,SEC 10-Q 0000318154-24-000044
+2024,Q3,2024-09-30,3,product,BLINCYTO,BLINCYTO,,Product sales,327,USD,millions,reported,SEC 10-Q 0000318154-24-000044
+2024,Q3,2024-09-30,3,product,EVENITY,EVENITY,,Product sales,399,USD,millions,reported,SEC 10-Q 0000318154-24-000044
+2024,Q3,2024-09-30,3,product,Enbrel,ENBREL,,Product sales,825,USD,millions,reported,SEC 10-Q 0000318154-24-000044
+2024,Q3,2024-09-30,3,product,KRYSTEXXA,KRYSTEXXA,,Product sales,310,USD,millions,reported,SEC 10-Q 0000318154-24-000044
+2024,Q3,2024-09-30,3,product,Kyprolis,KYPROLIS,,Product sales,378,USD,millions,reported,SEC 10-Q 0000318154-24-000044
+2024,Q3,2024-09-30,3,product,Nplate,Nplate,,Product sales,456,USD,millions,reported,SEC 10-Q 0000318154-24-000044
+2024,Q3,2024-09-30,3,product,Otezla,Otezla,,Product sales,564,USD,millions,reported,SEC 10-Q 0000318154-24-000044
+2024,Q3,2024-09-30,3,product,OtherProducts,Other products,,Product sales,1363,USD,millions,reported,SEC 10-Q 0000318154-24-000044
+2024,Q3,2024-09-30,3,product,ProductAndServiceOther,Other revenues,,Product sales,352,USD,millions,reported,SEC 10-Q 0000318154-24-000044
+2024,Q3,2024-09-30,3,product,Prolia,Prolia,,Product sales,1045,USD,millions,reported,SEC 10-Q 0000318154-24-000044
+2024,Q3,2024-09-30,3,product,Repathaevolocumab,Repatha,,Product sales,567,USD,millions,reported,SEC 10-Q 0000318154-24-000044
+2024,Q3,2024-09-30,3,product,TEPEZZA,TEPEZZA,,Product sales,488,USD,millions,reported,SEC 10-Q 0000318154-24-000044
+2024,Q3,2024-09-30,3,product,TEZSPIRE,TEZSPIRE,,Product sales,269,USD,millions,reported,SEC 10-Q 0000318154-24-000044
+2024,Q3,2024-09-30,3,product,Vectibix,Vectibix,,Product sales,282,USD,millions,reported,SEC 10-Q 0000318154-24-000044
+2024,Q3,2024-09-30,3,product,Xgeva,XGEVA,,Product sales,541,USD,millions,reported,SEC 10-Q 0000318154-24-000044
+2024,Q4,2024-12-31,3,product,OtherProducts,Other products,,,1568,USD,millions,derived,SEC 10-K 0000318154-25-000010 − 10-Q 0000318154-24-000044
+2024,Q4,2024-12-31,3,product,EVENITY,EVENITY,,Cardiometabolic Health,431,USD,millions,derived,SEC 10-K 0000318154-25-000010 − 10-Q 0000318154-24-000044
+2024,Q4,2024-12-31,3,product,KRYSTEXXA,KRYSTEXXA,,Cardiometabolic Health,346,USD,millions,derived,SEC 10-K 0000318154-25-000010 − 10-Q 0000318154-24-000044
+2024,Q4,2024-12-31,3,product,Prolia,Prolia,,Cardiometabolic Health,1165,USD,millions,derived,SEC 10-K 0000318154-25-000010 − 10-Q 0000318154-24-000044
+2024,Q4,2024-12-31,3,product,Repathaevolocumab,Repatha,,Cardiovascular,606,USD,millions,derived,SEC 10-K 0000318154-25-000010 − 10-Q 0000318154-24-000044
+2024,Q4,2024-12-31,3,product,Aranesp,Aranesp,,Hematology,308,USD,millions,derived,SEC 10-K 0000318154-25-000010 − 10-Q 0000318154-24-000044
+2024,Q4,2024-12-31,3,product,Nplate,Nplate,,Hematology,337,USD,millions,derived,SEC 10-K 0000318154-25-000010 − 10-Q 0000318154-24-000044
+2024,Q4,2024-12-31,3,product,Enbrel,ENBREL,,Immunology,1015,USD,millions,derived,SEC 10-K 0000318154-25-000010 − 10-Q 0000318154-24-000044
+2024,Q4,2024-12-31,3,product,Otezla,Otezla,,Immunology,624,USD,millions,derived,SEC 10-K 0000318154-25-000010 − 10-Q 0000318154-24-000044
+2024,Q4,2024-12-31,3,product,BLINCYTO,BLINCYTO,,Oncology,381,USD,millions,derived,SEC 10-K 0000318154-25-000010 − 10-Q 0000318154-24-000044
+2024,Q4,2024-12-31,3,product,Kyprolis,KYPROLIS,,Oncology,372,USD,millions,derived,SEC 10-K 0000318154-25-000010 − 10-Q 0000318154-24-000044
+2024,Q4,2024-12-31,3,product,Vectibix,Vectibix,,Oncology,246,USD,millions,derived,SEC 10-K 0000318154-25-000010 − 10-Q 0000318154-24-000044
+2024,Q4,2024-12-31,3,product,Xgeva,XGEVA,,Oncology,561,USD,millions,derived,SEC 10-K 0000318154-25-000010 − 10-Q 0000318154-24-000044
+2024,Q4,2024-12-31,3,product,TEPEZZA,TEPEZZA,,Ophthalmology,460,USD,millions,derived,SEC 10-K 0000318154-25-000010 − 10-Q 0000318154-24-000044
+2024,Q4,2024-12-31,3,product,ProductAndServiceOther,Other revenues,,Other,370,USD,millions,derived,SEC 10-K 0000318154-25-000010 − 10-Q 0000318154-24-000044
+2024,Q4,2024-12-31,3,product,TEZSPIRE,TEZSPIRE,,Respiratory,296,USD,millions,derived,SEC 10-K 0000318154-25-000010 − 10-Q 0000318154-24-000044
+2024,FY,2024-12-31,12,geography,NonUs,ROW,,,9561,USD,millions,reported,SEC 10-K 0000318154-25-000010
+2024,FY,2024-12-31,12,geography,US,U.S.,,,23863,USD,millions,reported,SEC 10-K 0000318154-25-000010
+2024,FY,2024-12-31,12,product,OtherProducts,Other products,,,5630,USD,millions,reported,SEC 10-K 0000318154-25-000010
+2024,FY,2024-12-31,12,product,EVENITY,EVENITY,,Cardiometabolic Health,1563,USD,millions,reported,SEC 10-K 0000318154-25-000010
+2024,FY,2024-12-31,12,product,KRYSTEXXA,KRYSTEXXA,,Cardiometabolic Health,1185,USD,millions,reported,SEC 10-K 0000318154-25-000010
+2024,FY,2024-12-31,12,product,Prolia,Prolia,,Cardiometabolic Health,4374,USD,millions,reported,SEC 10-K 0000318154-25-000010
+2024,FY,2024-12-31,12,product,Repathaevolocumab,Repatha,,Cardiovascular,2222,USD,millions,reported,SEC 10-K 0000318154-25-000010
+2024,FY,2024-12-31,12,product,Aranesp,Aranesp,,Hematology,1342,USD,millions,reported,SEC 10-K 0000318154-25-000010
+2024,FY,2024-12-31,12,product,Nplate,Nplate,,Hematology,1456,USD,millions,reported,SEC 10-K 0000318154-25-000010
+2024,FY,2024-12-31,12,product,Enbrel,ENBREL,,Immunology,3316,USD,millions,reported,SEC 10-K 0000318154-25-000010
+2024,FY,2024-12-31,12,product,Otezla,Otezla,,Immunology,2126,USD,millions,reported,SEC 10-K 0000318154-25-000010
+2024,FY,2024-12-31,12,product,BLINCYTO,BLINCYTO,,Oncology,1216,USD,millions,reported,SEC 10-K 0000318154-25-000010
+2024,FY,2024-12-31,12,product,Kyprolis,KYPROLIS,,Oncology,1503,USD,millions,reported,SEC 10-K 0000318154-25-000010
+2024,FY,2024-12-31,12,product,Vectibix,Vectibix,,Oncology,1045,USD,millions,reported,SEC 10-K 0000318154-25-000010
+2024,FY,2024-12-31,12,product,Xgeva,XGEVA,,Oncology,2225,USD,millions,reported,SEC 10-K 0000318154-25-000010
+2024,FY,2024-12-31,12,product,TEPEZZA,TEPEZZA,,Ophthalmology,1851,USD,millions,reported,SEC 10-K 0000318154-25-000010
+2024,FY,2024-12-31,12,product,ProductAndServiceOther,Other revenues,,Other,1398,USD,millions,reported,SEC 10-K 0000318154-25-000010
+2024,FY,2024-12-31,12,product,TEZSPIRE,TEZSPIRE,,Respiratory,972,USD,millions,reported,SEC 10-K 0000318154-25-000010
+2025,Q1,2025-03-31,3,product,Aranesp,Aranesp,,Product sales,340,USD,millions,reported,SEC 10-Q 0000318154-25-000020
+2025,Q1,2025-03-31,3,product,BLINCYTO,BLINCYTO,,Product sales,370,USD,millions,reported,SEC 10-Q 0000318154-25-000020
+2025,Q1,2025-03-31,3,product,EVENITY,EVENITY,,Product sales,442,USD,millions,reported,SEC 10-Q 0000318154-25-000020
+2025,Q1,2025-03-31,3,product,Enbrel,ENBREL,,Product sales,510,USD,millions,reported,SEC 10-Q 0000318154-25-000020
+2025,Q1,2025-03-31,3,product,KRYSTEXXA,KRYSTEXXA,,Product sales,236,USD,millions,reported,SEC 10-Q 0000318154-25-000020
+2025,Q1,2025-03-31,3,product,Kyprolis,KYPROLIS,,Product sales,324,USD,millions,reported,SEC 10-Q 0000318154-25-000020
+2025,Q1,2025-03-31,3,product,Nplate,Nplate,,Product sales,313,USD,millions,reported,SEC 10-Q 0000318154-25-000020
+2025,Q1,2025-03-31,3,product,Otezla,Otezla,,Product sales,437,USD,millions,reported,SEC 10-Q 0000318154-25-000020
+2025,Q1,2025-03-31,3,product,OtherProducts,Other products,,Product sales,1647,USD,millions,reported,SEC 10-Q 0000318154-25-000020
+2025,Q1,2025-03-31,3,product,ProductAndServiceOther,Other revenues,,Product sales,276,USD,millions,reported,SEC 10-Q 0000318154-25-000020
+2025,Q1,2025-03-31,3,product,Prolia,Prolia,,Product sales,1099,USD,millions,reported,SEC 10-Q 0000318154-25-000020
+2025,Q1,2025-03-31,3,product,Repathaevolocumab,Repatha,,Product sales,656,USD,millions,reported,SEC 10-Q 0000318154-25-000020
+2025,Q1,2025-03-31,3,product,TEPEZZA,TEPEZZA,,Product sales,381,USD,millions,reported,SEC 10-Q 0000318154-25-000020
+2025,Q1,2025-03-31,3,product,TEZSPIRE,TEZSPIRE,,Product sales,285,USD,millions,reported,SEC 10-Q 0000318154-25-000020
+2025,Q1,2025-03-31,3,product,Vectibix,Vectibix,,Product sales,267,USD,millions,reported,SEC 10-Q 0000318154-25-000020
+2025,Q1,2025-03-31,3,product,Xgeva,XGEVA,,Product sales,566,USD,millions,reported,SEC 10-Q 0000318154-25-000020
+2025,Q2,2025-06-30,3,product,Aranesp,Aranesp,,Product sales,359,USD,millions,reported,SEC 10-Q 0000318154-25-000056
+2025,Q2,2025-06-30,3,product,BLINCYTO,BLINCYTO,,Product sales,384,USD,millions,reported,SEC 10-Q 0000318154-25-000056
+2025,Q2,2025-06-30,3,product,EVENITY,EVENITY,,Product sales,518,USD,millions,reported,SEC 10-Q 0000318154-25-000056
+2025,Q2,2025-06-30,3,product,Enbrel,ENBREL,,Product sales,604,USD,millions,reported,SEC 10-Q 0000318154-25-000056
+2025,Q2,2025-06-30,3,product,KRYSTEXXA,KRYSTEXXA,,Product sales,349,USD,millions,reported,SEC 10-Q 0000318154-25-000056
+2025,Q2,2025-06-30,3,product,Kyprolis,KYPROLIS,,Product sales,378,USD,millions,reported,SEC 10-Q 0000318154-25-000056
+2025,Q2,2025-06-30,3,product,Nplate,Nplate,,Product sales,369,USD,millions,reported,SEC 10-Q 0000318154-25-000056
+2025,Q2,2025-06-30,3,product,Otezla,Otezla,,Product sales,618,USD,millions,reported,SEC 10-Q 0000318154-25-000056
+2025,Q2,2025-06-30,3,product,OtherProducts,Other products,,Product sales,1690,USD,millions,reported,SEC 10-Q 0000318154-25-000056
+2025,Q2,2025-06-30,3,product,ProductAndServiceOther,Other revenues,,Product sales,408,USD,millions,reported,SEC 10-Q 0000318154-25-000056
+2025,Q2,2025-06-30,3,product,Prolia,Prolia,,Product sales,1122,USD,millions,reported,SEC 10-Q 0000318154-25-000056
+2025,Q2,2025-06-30,3,product,Repathaevolocumab,Repatha,,Product sales,696,USD,millions,reported,SEC 10-Q 0000318154-25-000056
+2025,Q2,2025-06-30,3,product,TEPEZZA,TEPEZZA,,Product sales,505,USD,millions,reported,SEC 10-Q 0000318154-25-000056
+2025,Q2,2025-06-30,3,product,TEZSPIRE,TEZSPIRE,,Product sales,342,USD,millions,reported,SEC 10-Q 0000318154-25-000056
+2025,Q2,2025-06-30,3,product,Vectibix,Vectibix,,Product sales,305,USD,millions,reported,SEC 10-Q 0000318154-25-000056
+2025,Q2,2025-06-30,3,product,Xgeva,XGEVA,,Product sales,532,USD,millions,reported,SEC 10-Q 0000318154-25-000056
+2025,Q3,2025-09-30,3,product,Aranesp,Aranesp,,Product sales,357,USD,millions,reported,SEC 10-Q 0000318154-25-000072
+2025,Q3,2025-09-30,3,product,BLINCYTO,BLINCYTO,,Product sales,392,USD,millions,reported,SEC 10-Q 0000318154-25-000072
+2025,Q3,2025-09-30,3,product,EVENITY,EVENITY,,Product sales,541,USD,millions,reported,SEC 10-Q 0000318154-25-000072
+2025,Q3,2025-09-30,3,product,Enbrel,ENBREL,,Product sales,580,USD,millions,reported,SEC 10-Q 0000318154-25-000072
+2025,Q3,2025-09-30,3,product,KRYSTEXXA,KRYSTEXXA,,Product sales,320,USD,millions,reported,SEC 10-Q 0000318154-25-000072
+2025,Q3,2025-09-30,3,product,Kyprolis,KYPROLIS,,Product sales,359,USD,millions,reported,SEC 10-Q 0000318154-25-000072
+2025,Q3,2025-09-30,3,product,Nplate,Nplate,,Product sales,457,USD,millions,reported,SEC 10-Q 0000318154-25-000072
+2025,Q3,2025-09-30,3,product,Otezla,Otezla,,Product sales,585,USD,millions,reported,SEC 10-Q 0000318154-25-000072
+2025,Q3,2025-09-30,3,product,OtherProducts,Other products,,Product sales,1853,USD,millions,reported,SEC 10-Q 0000318154-25-000072
+2025,Q3,2025-09-30,3,product,ProductAndServiceOther,Other revenues,,Product sales,420,USD,millions,reported,SEC 10-Q 0000318154-25-000072
+2025,Q3,2025-09-30,3,product,Prolia,Prolia,,Product sales,1139,USD,millions,reported,SEC 10-Q 0000318154-25-000072
+2025,Q3,2025-09-30,3,product,Repathaevolocumab,Repatha,,Product sales,794,USD,millions,reported,SEC 10-Q 0000318154-25-000072
+2025,Q3,2025-09-30,3,product,TEPEZZA,TEPEZZA,,Product sales,560,USD,millions,reported,SEC 10-Q 0000318154-25-000072
+2025,Q3,2025-09-30,3,product,TEZSPIRE,TEZSPIRE,,Product sales,377,USD,millions,reported,SEC 10-Q 0000318154-25-000072
+2025,Q3,2025-09-30,3,product,Vectibix,Vectibix,,Product sales,284,USD,millions,reported,SEC 10-Q 0000318154-25-000072
+2025,Q3,2025-09-30,3,product,Xgeva,XGEVA,,Product sales,539,USD,millions,reported,SEC 10-Q 0000318154-25-000072
+2025,FY,2025-12-31,12,geography,NonUs,ROW,,,10332,USD,millions,reported,SEC 10-K 0000318154-26-000010
+2025,FY,2025-12-31,12,geography,US,U.S.,,,26419,USD,millions,reported,SEC 10-K 0000318154-26-000010
+2025,FY,2025-12-31,12,product,OtherProducts,Other products,,,7263,USD,millions,reported,SEC 10-K 0000318154-26-000010
+2025,FY,2025-12-31,12,product,EVENITY,EVENITY,,Cardiometabolic Health,2100,USD,millions,reported,SEC 10-K 0000318154-26-000010
+2025,FY,2025-12-31,12,product,KRYSTEXXA,KRYSTEXXA,,Cardiometabolic Health,1340,USD,millions,reported,SEC 10-K 0000318154-26-000010
+2025,FY,2025-12-31,12,product,Prolia,Prolia,,Cardiometabolic Health,4414,USD,millions,reported,SEC 10-K 0000318154-26-000010
+2025,FY,2025-12-31,12,product,Repatha,Repatha,,Cardiovascular,3016,USD,millions,reported,SEC 10-K 0000318154-26-000010
+2025,FY,2025-12-31,12,product,Aranesp,Aranesp,,Hematology,1389,USD,millions,reported,SEC 10-K 0000318154-26-000010
+2025,FY,2025-12-31,12,product,Nplate,Nplate,,Hematology,1524,USD,millions,reported,SEC 10-K 0000318154-26-000010
+2025,FY,2025-12-31,12,product,Enbrel,ENBREL,,Immunology,2226,USD,millions,reported,SEC 10-K 0000318154-26-000010
+2025,FY,2025-12-31,12,product,Otezla,Otezla,,Immunology,2265,USD,millions,reported,SEC 10-K 0000318154-26-000010
+2025,FY,2025-12-31,12,product,BLINCYTO,BLINCYTO,,Oncology,1559,USD,millions,reported,SEC 10-K 0000318154-26-000010
+2025,FY,2025-12-31,12,product,KYPROLIS,KYPROLIS,,Oncology,1412,USD,millions,reported,SEC 10-K 0000318154-26-000010
+2025,FY,2025-12-31,12,product,Vectibix,Vectibix,,Oncology,1175,USD,millions,reported,SEC 10-K 0000318154-26-000010
+2025,FY,2025-12-31,12,product,Xgeva,XGEVA,,Oncology,2084,USD,millions,reported,SEC 10-K 0000318154-26-000010
+2025,FY,2025-12-31,12,product,TEPEZZA,TEPEZZA,,Ophthalmology,1903,USD,millions,reported,SEC 10-K 0000318154-26-000010
+2025,FY,2025-12-31,12,product,ProductAndServiceOther,Other revenues,,Other,1603,USD,millions,reported,SEC 10-K 0000318154-26-000010
+2025,FY,2025-12-31,12,product,TEZSPIRE,TEZSPIRE,,Respiratory,1478,USD,millions,reported,SEC 10-K 0000318154-26-000010
+2026,Q1,2026-03-31,3,product,OtherProducts,Other products,,,1528,USD,millions,reported,SEC 10-Q 0000318154-26-000057
+2026,Q1,2026-03-31,3,product,EVENITY,EVENITY,,Cardiometabolic Health,562,USD,millions,reported,SEC 10-Q 0000318154-26-000057
+2026,Q1,2026-03-31,3,product,KRYSTEXXA,KRYSTEXXA,,Cardiometabolic Health,255,USD,millions,reported,SEC 10-Q 0000318154-26-000057
+2026,Q1,2026-03-31,3,product,Prolia,Prolia,,Cardiometabolic Health,727,USD,millions,reported,SEC 10-Q 0000318154-26-000057
+2026,Q1,2026-03-31,3,product,Repathaevolocumab,Repatha,,Cardiovascular,876,USD,millions,reported,SEC 10-Q 0000318154-26-000057
+2026,Q1,2026-03-31,3,product,Aranesp,Aranesp,,Hematology,311,USD,millions,reported,SEC 10-Q 0000318154-26-000057
+2026,Q1,2026-03-31,3,product,Nplate,Nplate,,Hematology,412,USD,millions,reported,SEC 10-Q 0000318154-26-000057
+2026,Q1,2026-03-31,3,product,Enbrel,ENBREL,,Immunology,320,USD,millions,reported,SEC 10-Q 0000318154-26-000057
+2026,Q1,2026-03-31,3,product,Otezla,Otezla,,Immunology,431,USD,millions,reported,SEC 10-Q 0000318154-26-000057
+2026,Q1,2026-03-31,3,product,UPLIZNA,UPLIZNA,,Neuroscience,262,USD,millions,reported,SEC 10-Q 0000318154-26-000057
+2026,Q1,2026-03-31,3,product,BLINCYTO,BLINCYTO,,Oncology,415,USD,millions,reported,SEC 10-Q 0000318154-26-000057
+2026,Q1,2026-03-31,3,product,IMDELLTRAIMDYLLTRA,IMDELLTRA/IMDYLLTRA,,Oncology,258,USD,millions,reported,SEC 10-Q 0000318154-26-000057
+2026,Q1,2026-03-31,3,product,Kyprolis,KYPROLIS,,Oncology,330,USD,millions,reported,SEC 10-Q 0000318154-26-000057
+2026,Q1,2026-03-31,3,product,Vectibix,Vectibix,,Oncology,287,USD,millions,reported,SEC 10-Q 0000318154-26-000057
+2026,Q1,2026-03-31,3,product,Xgeva,XGEVA,,Oncology,411,USD,millions,reported,SEC 10-Q 0000318154-26-000057
+2026,Q1,2026-03-31,3,product,TEPEZZA,TEPEZZA,,Ophthalmology,490,USD,millions,reported,SEC 10-Q 0000318154-26-000057
+2026,Q1,2026-03-31,3,product,ProductAndServiceOther,Other revenues,,Other,400,USD,millions,reported,SEC 10-Q 0000318154-26-000057
+2026,Q1,2026-03-31,3,product,TEZSPIRE,TEZSPIRE,,Respiratory,343,USD,millions,reported,SEC 10-Q 0000318154-26-000057
+2026,Q2,2026-06-30,3,product,OtherProducts,Other products,,,1697,USD,millions,reported,SEC 10-Q 0000318154-26-000126
+2026,Q2,2026-06-30,3,product,EVENITY,EVENITY,,Cardiometabolic Health,714,USD,millions,reported,SEC 10-Q 0000318154-26-000126
+2026,Q2,2026-06-30,3,product,KRYSTEXXA,KRYSTEXXA,,Cardiometabolic Health,400,USD,millions,reported,SEC 10-Q 0000318154-26-000126
+2026,Q2,2026-06-30,3,product,Prolia,Prolia,,Cardiometabolic Health,759,USD,millions,reported,SEC 10-Q 0000318154-26-000126
+2026,Q2,2026-06-30,3,product,Repathaevolocumab,Repatha,,Cardiovascular,953,USD,millions,reported,SEC 10-Q 0000318154-26-000126
+2026,Q2,2026-06-30,3,product,Aranesp,Aranesp,,Hematology,352,USD,millions,reported,SEC 10-Q 0000318154-26-000126
+2026,Q2,2026-06-30,3,product,Nplate,Nplate,,Hematology,430,USD,millions,reported,SEC 10-Q 0000318154-26-000126
+2026,Q2,2026-06-30,3,product,Enbrel,ENBREL,,Immunology,580,USD,millions,reported,SEC 10-Q 0000318154-26-000126
+2026,Q2,2026-06-30,3,product,Otezla,Otezla,,Immunology,491,USD,millions,reported,SEC 10-Q 0000318154-26-000126
+2026,Q2,2026-06-30,3,product,UPLIZNA,UPLIZNA,,Neuroscience,335,USD,millions,reported,SEC 10-Q 0000318154-26-000126
+2026,Q2,2026-06-30,3,product,BLINCYTO,BLINCYTO,,Oncology,472,USD,millions,reported,SEC 10-Q 0000318154-26-000126
+2026,Q2,2026-06-30,3,product,IMDELLTRAIMDYLLTRA,IMDELLTRA/IMDYLLTRA,,Oncology,288,USD,millions,reported,SEC 10-Q 0000318154-26-000126
+2026,Q2,2026-06-30,3,product,Kyprolis,KYPROLIS,,Oncology,314,USD,millions,reported,SEC 10-Q 0000318154-26-000126
+2026,Q2,2026-06-30,3,product,Vectibix,Vectibix,,Oncology,338,USD,millions,reported,SEC 10-Q 0000318154-26-000126
+2026,Q2,2026-06-30,3,product,Xgeva,XGEVA,,Oncology,352,USD,millions,reported,SEC 10-Q 0000318154-26-000126
+2026,Q2,2026-06-30,3,product,TEPEZZA,TEPEZZA,,Ophthalmology,576,USD,millions,reported,SEC 10-Q 0000318154-26-000126
+2026,Q2,2026-06-30,3,product,ProductAndServiceOther,Other revenues,,Other,517,USD,millions,reported,SEC 10-Q 0000318154-26-000126
+2026,Q2,2026-06-30,3,product,TEZSPIRE,TEZSPIRE,,Respiratory,486,USD,millions,reported,SEC 10-Q 0000318154-26-000126
+2026,Q3,2026-09-30,3,product,OtherProducts,Other products,,,1733,USD,millions,reported,SEC 10-Q 0000318154-26-000155
+2026,Q3,2026-09-30,3,product,EVENITY,EVENITY,,Cardiometabolic Health,751,USD,millions,reported,SEC 10-Q 0000318154-26-000155
+2026,Q3,2026-09-30,3,product,KRYSTEXXA,KRYSTEXXA,,Cardiometabolic Health,419,USD,millions,reported,SEC 10-Q 0000318154-26-000155
+2026,Q3,2026-09-30,3,product,Prolia,Prolia,,Cardiometabolic Health,632,USD,millions,reported,SEC 10-Q 0000318154-26-000155
+2026,Q3,2026-09-30,3,product,Repathaevolocumab,Repatha,,Cardiovascular,1085,USD,millions,reported,SEC 10-Q 0000318154-26-000155
+2026,Q3,2026-09-30,3,product,Aranesp,Aranesp,,Hematology,329,USD,millions,reported,SEC 10-Q 0000318154-26-000155
+2026,Q3,2026-09-30,3,product,Nplate,Nplate,,Hematology,472,USD,millions,reported,SEC 10-Q 0000318154-26-000155
+2026,Q3,2026-09-30,3,product,Enbrel,ENBREL,,Immunology,611,USD,millions,reported,SEC 10-Q 0000318154-26-000155
+2026,Q3,2026-09-30,3,product,Otezla,Otezla,,Immunology,481,USD,millions,reported,SEC 10-Q 0000318154-26-000155
+2026,Q3,2026-09-30,3,product,UPLIZNA,UPLIZNA,,Neuroscience,451,USD,millions,reported,SEC 10-Q 0000318154-26-000155
+2026,Q3,2026-09-30,3,product,BLINCYTO,BLINCYTO,,Oncology,496,USD,millions,reported,SEC 10-Q 0000318154-26-000155
+2026,Q3,2026-09-30,3,product,IMDELLTRAIMDYLLTRA,IMDELLTRA/IMDYLLTRA,,Oncology,406,USD,millions,reported,SEC 10-Q 0000318154-26-000155
+2026,Q3,2026-09-30,3,product,Kyprolis,KYPROLIS,,Oncology,330,USD,millions,reported,SEC 10-Q 0000318154-26-000155
+2026,Q3,2026-09-30,3,product,Vectibix,Vectibix,,Oncology,335,USD,millions,reported,SEC 10-Q 0000318154-26-000155
+2026,Q3,2026-09-30,3,product,Xgeva,XGEVA,,Oncology,288,USD,millions,reported,SEC 10-Q 0000318154-26-000155
+2026,Q3,2026-09-30,3,product,TEPEZZA,TEPEZZA,,Ophthalmology,526,USD,millions,reported,SEC 10-Q 0000318154-26-000155
+2026,Q3,2026-09-30,3,product,ProductAndServiceOther,Other revenues,,Other,482,USD,millions,reported,SEC 10-Q 0000318154-26-000155
+2026,Q3,2026-09-30,3,product,TEZSPIRE,TEZSPIRE,,Respiratory,538,USD,millions,reported,SEC 10-Q 0000318154-26-000155

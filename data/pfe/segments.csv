@@ -1,0 +1,257 @@
+fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,value,currency,unit,basis,source
+2021,Q1,2021-04-04,3,geography,DevelopedEurope,Developed Europe,,,3038,USD,millions,reported,SEC 10-Q 0000078003-22-000071
+2021,Q1,2021-04-04,3,geography,DevelopedRestOfWorld,Developed Rest Of World,,,1123,USD,millions,reported,SEC 10-Q 0000078003-22-000071
+2021,Q1,2021-04-04,3,geography,EmergingMarkets,Emerging Markets,,,2824,USD,millions,reported,SEC 10-Q 0000078003-22-000071
+2021,Q1,2021-04-04,3,geography,US,U.S.,,,7530,USD,millions,reported,SEC 10-Q 0000078003-22-000071
+2021,Q1,2021-04-04,3,product,OtherNotItemized,Other (not itemized),,,391,USD,millions,derived,SEC 10-Q 0000078003-22-000071
+2021,Q1,2021-04-04,3,product,Hospital,Hospital,,Biopharma,1886,USD,millions,reported,SEC 10-Q 0000078003-22-000071
+2021,Q1,2021-04-04,3,product,InflammationandImmunology,Inflammation and Immunology (I&I),,Biopharma,1065,USD,millions,reported,SEC 10-Q 0000078003-22-000071
+2021,Q1,2021-04-04,3,product,InternalMedicine,Internal Medicine,,Biopharma,2594,USD,millions,reported,SEC 10-Q 0000078003-22-000071
+2021,Q1,2021-04-04,3,product,Oncology,Oncology,,Biopharma,2862,USD,millions,reported,SEC 10-Q 0000078003-22-000071
+2021,Q1,2021-04-04,3,product,RareDisease,Rare Disease,,Biopharma,824,USD,millions,reported,SEC 10-Q 0000078003-22-000071
+2021,Q1,2021-04-04,3,product,Vaccines,Vaccines,,Biopharma,4894,USD,millions,reported,SEC 10-Q 0000078003-22-000071
+2021,Q1,2021-04-04,3,segment,BiopharmaSegment,Biopharma,,,14125,USD,millions,reported,SEC 10-Q 0000078003-22-000071
+2021,Q1,2021-04-04,3,segment,PfizerCentreOne,Pfizer CentreOne,,,391,USD,millions,reported,SEC 10-Q 0000078003-22-000071
+2021,Q2,2021-07-04,3,geography,DevelopedEurope,Developed Europe,,,4577,USD,millions,reported,SEC 10-Q 0000078003-22-000094
+2021,Q2,2021-07-04,3,geography,DevelopedRestOfWorld,Developed Rest Of World,,,2997,USD,millions,reported,SEC 10-Q 0000078003-22-000094
+2021,Q2,2021-07-04,3,geography,EmergingMarkets,Emerging Markets,,,3810,USD,millions,reported,SEC 10-Q 0000078003-22-000094
+2021,Q2,2021-07-04,3,geography,US,U.S.,,,7515,USD,millions,reported,SEC 10-Q 0000078003-22-000094
+2021,Q2,2021-07-04,3,product,OtherNotItemized,Other (not itemized),,,436,USD,millions,derived,SEC 10-Q 0000078003-22-000094
+2021,Q2,2021-07-04,3,product,Hospital,Hospital,,Biopharma,1745,USD,millions,reported,SEC 10-Q 0000078003-22-000094
+2021,Q2,2021-07-04,3,product,InflammationandImmunology,Inflammation and Immunology (I&I),,Biopharma,1041,USD,millions,reported,SEC 10-Q 0000078003-22-000094
+2021,Q2,2021-07-04,3,product,InternalMedicine,Internal Medicine,,Biopharma,2403,USD,millions,reported,SEC 10-Q 0000078003-22-000094
+2021,Q2,2021-07-04,3,product,Oncology,Oncology,,Biopharma,3145,USD,millions,reported,SEC 10-Q 0000078003-22-000094
+2021,Q2,2021-07-04,3,product,RareDisease,Rare Disease,,Biopharma,895,USD,millions,reported,SEC 10-Q 0000078003-22-000094
+2021,Q2,2021-07-04,3,product,Vaccines,Vaccines,,Biopharma,9234,USD,millions,reported,SEC 10-Q 0000078003-22-000094
+2021,Q2,2021-07-04,3,segment,BiopharmaSegment,Biopharma,,,18463,USD,millions,reported,SEC 10-Q 0000078003-22-000094
+2021,Q2,2021-07-04,3,segment,PfizerCentreOne,Pfizer CentreOne,,,437,USD,millions,reported,SEC 10-Q 0000078003-22-000094
+2021,Q3,2021-10-03,3,geography,DevelopedEurope,Developed Europe,,,6221,USD,millions,reported,SEC 10-Q 0000078003-22-000101
+2021,Q3,2021-10-03,3,geography,DevelopedRestOfWorld,Developed Rest Of World,,,4498,USD,millions,reported,SEC 10-Q 0000078003-22-000101
+2021,Q3,2021-10-03,3,geography,EmergingMarkets,Emerging Markets,,,6296,USD,millions,reported,SEC 10-Q 0000078003-22-000101
+2021,Q3,2021-10-03,3,geography,US,U.S.,,,7020,USD,millions,reported,SEC 10-Q 0000078003-22-000101
+2021,Q3,2021-10-03,3,product,OtherNotItemized,Other (not itemized),,,521,USD,millions,derived,SEC 10-Q 0000078003-22-000101
+2021,Q3,2021-10-03,3,product,Oncology,Oncology,,Biopharma,3085,USD,millions,reported,SEC 10-Q 0000078003-22-000101
+2021,Q3,2021-10-03,3,product,PrimaryCare,Primary Care,,Biopharma,16680,USD,millions,reported,SEC 10-Q 0000078003-22-000101
+2021,Q3,2021-10-03,3,product,SpecialtyCare,Specialty Care,,Biopharma,3749,USD,millions,reported,SEC 10-Q 0000078003-22-000101
+2021,Q3,2021-10-03,3,segment,BiopharmaSegment,Biopharma,,,23513,USD,millions,reported,SEC 10-Q 0000078003-22-000101
+2021,Q3,2021-10-03,3,segment,PfizerCentreOneSegment,PC1,,,521,USD,millions,reported,SEC 10-Q 0000078003-22-000101
+2021,Q4,2021-12-31,3,geography,DevelopedEurope,Developed Europe,,,4500,USD,millions,derived,SEC 10-K 0000078003-23-000024 − 10-Q 0000078003-22-000101
+2021,Q4,2021-12-31,3,geography,DevelopedRestOfWorld,Developed Rest of World,,,3889,USD,millions,derived,SEC 10-K 0000078003-23-000024 − 10-Q 0000078003-22-000101
+2021,Q4,2021-12-31,3,geography,EmergingMarkets,Emerging Markets,,,7771,USD,millions,derived,SEC 10-K 0000078003-23-000024 − 10-Q 0000078003-22-000101
+2021,Q4,2021-12-31,3,geography,US,U.S.,,,7680,USD,millions,derived,SEC 10-K 0000078003-23-000024 − 10-Q 0000078003-22-000101
+2021,Q4,2021-12-31,3,product,OtherNotItemized,Other (not itemized),,,382,USD,millions,derived,SEC 10-K 0000078003-23-000024 − 10-Q 0000078003-22-000101
+2021,Q4,2021-12-31,3,product,Oncology,Oncology,,Biopharma,3242,USD,millions,derived,SEC 10-K 0000078003-23-000024 − 10-Q 0000078003-22-000101
+2021,Q4,2021-12-31,3,product,PrimaryCare,Primary Care,,Biopharma,16225,USD,millions,derived,SEC 10-K 0000078003-23-000024 − 10-Q 0000078003-22-000101
+2021,Q4,2021-12-31,3,product,SpecialtyCare,Specialty Care,,Biopharma,3989,USD,millions,derived,SEC 10-K 0000078003-23-000024 − 10-Q 0000078003-22-000101
+2021,Q4,2021-12-31,3,segment,BiopharmaSegment,Biopharma,,,23456,USD,millions,derived,SEC 10-K 0000078003-23-000024 − 10-Q 0000078003-22-000101
+2021,Q4,2021-12-31,3,segment,PfizerCentreOneSegment,PC1,,,383,USD,millions,derived,SEC 10-K 0000078003-23-000024 − 10-Q 0000078003-22-000101
+2021,FY,2021-12-31,12,geography,DevelopedEurope,Developed Europe,,,18336,USD,millions,reported,SEC 10-K 0000078003-23-000024
+2021,FY,2021-12-31,12,geography,DevelopedRestOfWorld,Developed Rest of World,,,12506,USD,millions,reported,SEC 10-K 0000078003-23-000024
+2021,FY,2021-12-31,12,geography,EmergingMarkets,Emerging Markets,,,20701,USD,millions,reported,SEC 10-K 0000078003-23-000024
+2021,FY,2021-12-31,12,geography,US,U.S.,,,29746,USD,millions,reported,SEC 10-K 0000078003-23-000024
+2021,FY,2021-12-31,12,product,OtherNotItemized,Other (not itemized),,,1732,USD,millions,derived,SEC 10-K 0000078003-23-000024
+2021,FY,2021-12-31,12,product,Oncology,Oncology,,Biopharma,12333,USD,millions,reported,SEC 10-K 0000078003-23-000024
+2021,FY,2021-12-31,12,product,PrimaryCare,Primary Care,,Biopharma,52029,USD,millions,reported,SEC 10-K 0000078003-23-000024
+2021,FY,2021-12-31,12,product,SpecialtyCare,Specialty Care,,Biopharma,15194,USD,millions,reported,SEC 10-K 0000078003-23-000024
+2021,FY,2021-12-31,12,segment,BiopharmaSegment,Biopharma,,,79557,USD,millions,reported,SEC 10-K 0000078003-23-000024
+2021,FY,2021-12-31,12,segment,PfizerCentreOneSegment,PC1,,,1731,USD,millions,reported,SEC 10-K 0000078003-23-000024
+2022,Q1,2022-04-03,3,geography,DevelopedEurope,Developed Europe,,,6090,USD,millions,reported,SEC 10-Q 0000078003-22-000071
+2022,Q1,2022-04-03,3,geography,DevelopedRestOfWorld,Developed Rest Of World,,,3286,USD,millions,reported,SEC 10-Q 0000078003-22-000071
+2022,Q1,2022-04-03,3,geography,EmergingMarkets,Emerging Markets,,,7367,USD,millions,reported,SEC 10-Q 0000078003-22-000071
+2022,Q1,2022-04-03,3,geography,US,U.S.,,,8918,USD,millions,reported,SEC 10-Q 0000078003-22-000071
+2022,Q1,2022-04-03,3,product,OtherNotItemized,Other (not itemized),,,338,USD,millions,derived,SEC 10-Q 0000078003-22-000071
+2022,Q1,2022-04-03,3,product,Hospital,Hospital,,Biopharma,3191,USD,millions,reported,SEC 10-Q 0000078003-22-000071
+2022,Q1,2022-04-03,3,product,InflammationandImmunology,Inflammation and Immunology (I&I),,Biopharma,821,USD,millions,reported,SEC 10-Q 0000078003-22-000071
+2022,Q1,2022-04-03,3,product,InternalMedicine,Internal Medicine,,Biopharma,2440,USD,millions,reported,SEC 10-Q 0000078003-22-000071
+2022,Q1,2022-04-03,3,product,Oncology,Oncology,,Biopharma,2967,USD,millions,reported,SEC 10-Q 0000078003-22-000071
+2022,Q1,2022-04-03,3,product,RareDisease,Rare Disease,,Biopharma,963,USD,millions,reported,SEC 10-Q 0000078003-22-000071
+2022,Q1,2022-04-03,3,product,Vaccines,Vaccines,,Biopharma,14941,USD,millions,reported,SEC 10-Q 0000078003-22-000071
+2022,Q1,2022-04-03,3,segment,BiopharmaSegment,Biopharma,,,25323,USD,millions,reported,SEC 10-Q 0000078003-22-000071
+2022,Q1,2022-04-03,3,segment,PfizerCentreOne,Pfizer CentreOne,,,338,USD,millions,reported,SEC 10-Q 0000078003-22-000071
+2022,Q2,2022-07-03,3,geography,DevelopedEurope,Developed Europe,,,5480,USD,millions,reported,SEC 10-Q 0000078003-22-000094
+2022,Q2,2022-07-03,3,geography,DevelopedRestOfWorld,Developed Rest Of World,,,5034,USD,millions,reported,SEC 10-Q 0000078003-22-000094
+2022,Q2,2022-07-03,3,geography,EmergingMarkets,Emerging Markets,,,6006,USD,millions,reported,SEC 10-Q 0000078003-22-000094
+2022,Q2,2022-07-03,3,geography,US,U.S.,,,11222,USD,millions,reported,SEC 10-Q 0000078003-22-000094
+2022,Q2,2022-07-03,3,product,OtherNotItemized,Other (not itemized),,,317,USD,millions,derived,SEC 10-Q 0000078003-22-000094
+2022,Q2,2022-07-03,3,product,Hospital,Hospital,,Biopharma,9714,USD,millions,reported,SEC 10-Q 0000078003-22-000094
+2022,Q2,2022-07-03,3,product,InflammationandImmunology,Inflammation and Immunology (I&I),,Biopharma,850,USD,millions,reported,SEC 10-Q 0000078003-22-000094
+2022,Q2,2022-07-03,3,product,InternalMedicine,Internal Medicine,,Biopharma,2405,USD,millions,reported,SEC 10-Q 0000078003-22-000094
+2022,Q2,2022-07-03,3,product,Oncology,Oncology,,Biopharma,3088,USD,millions,reported,SEC 10-Q 0000078003-22-000094
+2022,Q2,2022-07-03,3,product,RareDisease,Rare Disease,,Biopharma,909,USD,millions,reported,SEC 10-Q 0000078003-22-000094
+2022,Q2,2022-07-03,3,product,Vaccines,Vaccines,,Biopharma,10459,USD,millions,reported,SEC 10-Q 0000078003-22-000094
+2022,Q2,2022-07-03,3,segment,BiopharmaSegment,Biopharma,,,27425,USD,millions,reported,SEC 10-Q 0000078003-22-000094
+2022,Q2,2022-07-03,3,segment,PfizerCentreOne,Pfizer CentreOne,,,317,USD,millions,reported,SEC 10-Q 0000078003-22-000094
+2022,Q3,2022-10-02,3,geography,DevelopedEurope,Developed Europe,,,3136,USD,millions,reported,SEC 10-Q 0000078003-22-000101
+2022,Q3,2022-10-02,3,geography,DevelopedRestOfWorld,Developed Rest Of World,,,2351,USD,millions,reported,SEC 10-Q 0000078003-22-000101
+2022,Q3,2022-10-02,3,geography,EmergingMarkets,Emerging Markets,,,3300,USD,millions,reported,SEC 10-Q 0000078003-22-000101
+2022,Q3,2022-10-02,3,geography,US,U.S.,,,13851,USD,millions,reported,SEC 10-Q 0000078003-22-000101
+2022,Q3,2022-10-02,3,product,OtherNotItemized,Other (not itemized),,,318,USD,millions,derived,SEC 10-Q 0000078003-22-000101
+2022,Q3,2022-10-02,3,product,Oncology,Oncology,,Biopharma,3070,USD,millions,reported,SEC 10-Q 0000078003-22-000101
+2022,Q3,2022-10-02,3,product,PrimaryCare,Primary Care,,Biopharma,15846,USD,millions,reported,SEC 10-Q 0000078003-22-000101
+2022,Q3,2022-10-02,3,product,SpecialtyCare,Specialty Care,,Biopharma,3404,USD,millions,reported,SEC 10-Q 0000078003-22-000101
+2022,Q3,2022-10-02,3,segment,BiopharmaSegment,Biopharma,,,22319,USD,millions,reported,SEC 10-Q 0000078003-22-000101
+2022,Q3,2022-10-02,3,segment,PfizerCentreOneSegment,PC1,,,319,USD,millions,reported,SEC 10-Q 0000078003-22-000101
+2022,Q4,2022-12-31,3,geography,DevelopedEurope,Developed Europe,,,7277,USD,millions,derived,SEC 10-K 0000078003-23-000024 − 10-Q 0000078003-22-000101
+2022,Q4,2022-12-31,3,geography,DevelopedRestOfWorld,Developed Rest of World,,,5107,USD,millions,derived,SEC 10-K 0000078003-23-000024 − 10-Q 0000078003-22-000101
+2022,Q4,2022-12-31,3,geography,EmergingMarkets,Emerging Markets,,,3424,USD,millions,derived,SEC 10-K 0000078003-23-000024 − 10-Q 0000078003-22-000101
+2022,Q4,2022-12-31,3,geography,US,U.S.,,,8482,USD,millions,derived,SEC 10-K 0000078003-23-000024 − 10-Q 0000078003-22-000101
+2022,Q4,2022-12-31,3,product,OtherNotItemized,Other (not itemized),,,369,USD,millions,derived,SEC 10-K 0000078003-23-000024 − 10-Q 0000078003-22-000101
+2022,Q4,2022-12-31,3,product,Oncology,Oncology,,Biopharma,3008,USD,millions,derived,SEC 10-K 0000078003-23-000024 − 10-Q 0000078003-22-000101
+2022,Q4,2022-12-31,3,product,PrimaryCare,Primary Care,,Biopharma,17347,USD,millions,derived,SEC 10-K 0000078003-23-000024 − 10-Q 0000078003-22-000101
+2022,Q4,2022-12-31,3,product,SpecialtyCare,Specialty Care,,Biopharma,3566,USD,millions,derived,SEC 10-K 0000078003-23-000024 − 10-Q 0000078003-22-000101
+2022,Q4,2022-12-31,3,segment,BiopharmaSegment,Biopharma,,,23922,USD,millions,derived,SEC 10-K 0000078003-23-000024 − 10-Q 0000078003-22-000101
+2022,Q4,2022-12-31,3,segment,PfizerCentreOneSegment,PC1,,,368,USD,millions,derived,SEC 10-K 0000078003-23-000024 − 10-Q 0000078003-22-000101
+2022,FY,2022-12-31,12,geography,DevelopedEurope,Developed Europe,,,21982,USD,millions,reported,SEC 10-K 0000078003-23-000024
+2022,FY,2022-12-31,12,geography,DevelopedRestOfWorld,Developed Rest of World,,,15778,USD,millions,reported,SEC 10-K 0000078003-23-000024
+2022,FY,2022-12-31,12,geography,EmergingMarkets,Emerging Markets,,,20097,USD,millions,reported,SEC 10-K 0000078003-23-000024
+2022,FY,2022-12-31,12,geography,US,U.S.,,,42473,USD,millions,reported,SEC 10-K 0000078003-23-000024
+2022,FY,2022-12-31,12,product,OtherNotItemized,Other (not itemized),,,1342,USD,millions,derived,SEC 10-K 0000078003-23-000024
+2022,FY,2022-12-31,12,product,Oncology,Oncology,,Biopharma,12132,USD,millions,reported,SEC 10-K 0000078003-23-000024
+2022,FY,2022-12-31,12,product,PrimaryCare,Primary Care,,Biopharma,73023,USD,millions,reported,SEC 10-K 0000078003-23-000024
+2022,FY,2022-12-31,12,product,SpecialtyCare,Specialty Care,,Biopharma,13833,USD,millions,reported,SEC 10-K 0000078003-23-000024
+2022,FY,2022-12-31,12,segment,BiopharmaSegment,Biopharma,,,98988,USD,millions,reported,SEC 10-K 0000078003-23-000024
+2022,FY,2022-12-31,12,segment,PfizerCentreOneSegment,PC1,,,1342,USD,millions,reported,SEC 10-K 0000078003-23-000024
+2023,Q1,2023-04-02,3,geography,InternationalDevelopedMarkets,International Developed Markets,,,5635,USD,millions,reported,SEC 10-Q 0000078003-24-000107
+2023,Q1,2023-04-02,3,geography,InternationalEmergingMarkets,International Emerging Markets,,,4140,USD,millions,reported,SEC 10-Q 0000078003-24-000107
+2023,Q1,2023-04-02,3,geography,US,U.S.,,,8711,USD,millions,reported,SEC 10-Q 0000078003-24-000107
+2023,Q1,2023-04-02,3,product,OtherNotItemized,Other (not itemized),,,313,USD,millions,derived,SEC 10-Q 0000078003-24-000107
+2023,Q1,2023-04-02,3,product,Oncology,Oncology,,Biopharma,2997,USD,millions,reported,SEC 10-Q 0000078003-24-000107
+2023,Q1,2023-04-02,3,product,PrimaryCare,Primary Care,,Biopharma,11560,USD,millions,reported,SEC 10-Q 0000078003-24-000107
+2023,Q1,2023-04-02,3,product,SpecialtyCare,Specialty Care,,Biopharma,3616,USD,millions,reported,SEC 10-Q 0000078003-24-000107
+2023,Q1,2023-04-02,3,segment,BiopharmaSegment,Biopharma,,,18173,USD,millions,reported,SEC 10-Q 0000078003-24-000107
+2023,Q1,2023-04-02,3,segment,BusinessInnovationSegment,Business Innovation Segment,,,313,USD,millions,reported,SEC 10-Q 0000078003-24-000107
+2023,Q2,2023-07-02,3,geography,InternationalDevelopedMarkets,International Developed Markets,,,4125,USD,millions,reported,SEC 10-Q 0000078003-24-000166
+2023,Q2,2023-07-02,3,geography,InternationalEmergingMarkets,International Emerging Markets,,,2423,USD,millions,reported,SEC 10-Q 0000078003-24-000166
+2023,Q2,2023-07-02,3,geography,US,U.S.,,,6458,USD,millions,reported,SEC 10-Q 0000078003-24-000166
+2023,Q2,2023-07-02,3,product,OtherNotItemized,Other (not itemized),,,317,USD,millions,derived,SEC 10-Q 0000078003-24-000166
+2023,Q2,2023-07-02,3,product,InternationalCommercialDivision,International Commercial Division,,Biopharma,6323,USD,millions,reported,SEC 10-Q 0000078003-24-000166
+2023,Q2,2023-07-02,3,product,OncologyDivision,Oncology Division,,Biopharma,2167,USD,millions,reported,SEC 10-Q 0000078003-24-000166
+2023,Q2,2023-07-02,3,product,U.S.CommercialDivision,U.S. Commercial Division,,Biopharma,4200,USD,millions,reported,SEC 10-Q 0000078003-24-000166
+2023,Q2,2023-07-02,3,segment,BiopharmaSegment,Biopharma,,,12690,USD,millions,reported,SEC 10-Q 0000078003-24-000166
+2023,Q2,2023-07-02,3,segment,PfizerCentreOne,Pfizer CentreOne,,,307,USD,millions,reported,SEC 10-Q 0000078003-24-000166
+2023,Q2,2023-07-02,3,segment,PfizerIgnite,Pfizer Ignite,,,10,USD,millions,reported,SEC 10-Q 0000078003-24-000166
+2023,Q3,2023-10-01,3,geography,InternationalDevelopedMarkets,International Developed Markets,,,3335,USD,millions,reported,SEC 10-Q 0000078003-24-000191
+2023,Q3,2023-10-01,3,geography,InternationalEmergingMarkets,International Emerging Markets,,,2092,USD,millions,reported,SEC 10-Q 0000078003-24-000191
+2023,Q3,2023-10-01,3,geography,US,U.S.,,,8064,USD,millions,reported,SEC 10-Q 0000078003-24-000191
+2023,Q3,2023-10-01,3,product,OtherNotItemized,Other (not itemized),,,302,USD,millions,derived,SEC 10-Q 0000078003-24-000191
+2023,Q3,2023-10-01,3,product,InternationalCommercialDivision,International Commercial Division,,Biopharma,5214,USD,millions,reported,SEC 10-Q 0000078003-24-000191
+2023,Q3,2023-10-01,3,product,OncologyDivision,Oncology Division,,Biopharma,2111,USD,millions,reported,SEC 10-Q 0000078003-24-000191
+2023,Q3,2023-10-01,3,product,U.S.CommercialDivision,U.S. Commercial Division,,Biopharma,5864,USD,millions,reported,SEC 10-Q 0000078003-24-000191
+2023,Q3,2023-10-01,3,segment,BiopharmaSegment,Biopharma,,,13188,USD,millions,reported,SEC 10-Q 0000078003-24-000191
+2023,Q3,2023-10-01,3,segment,PfizerCentreOne,Pfizer CentreOne,,,293,USD,millions,reported,SEC 10-Q 0000078003-24-000191
+2023,Q3,2023-10-01,3,segment,PfizerIgnite,Pfizer Ignite,,,10,USD,millions,reported,SEC 10-Q 0000078003-24-000191
+2023,Q4,2023-12-31,3,geography,InternationalDevelopedMarkets,Developed Markets,,,7816,USD,millions,derived,SEC 10-K 0000078003-25-000054 − 10-Q 0000078003-24-000191
+2023,Q4,2023-12-31,3,geography,InternationalEmergingMarkets,Emerging Markets,,,1842,USD,millions,derived,SEC 10-K 0000078003-25-000054 − 10-Q 0000078003-24-000191
+2023,Q4,2023-12-31,3,geography,US,U.S.,,,4912,USD,millions,derived,SEC 10-K 0000078003-25-000054 − 10-Q 0000078003-24-000191
+2023,FY,2023-12-31,12,geography,InternationalDevelopedMarkets,Developed Markets,,,20910,USD,millions,reported,SEC 10-K 0000078003-25-000054
+2023,FY,2023-12-31,12,geography,InternationalEmergingMarkets,Emerging Markets,,,10498,USD,millions,reported,SEC 10-K 0000078003-25-000054
+2023,FY,2023-12-31,12,geography,US,U.S.,,,28145,USD,millions,reported,SEC 10-K 0000078003-25-000054
+2023,FY,2023-12-31,12,product,Oncology,Oncology,,Biopharma,12450,USD,millions,reported,SEC 10-K 0000078003-25-000054
+2023,FY,2023-12-31,12,product,PrimaryCare,Primary Care,,Biopharma,30799,USD,millions,reported,SEC 10-K 0000078003-25-000054
+2023,FY,2023-12-31,12,product,SpecialtyCare,Specialty Care,,Biopharma,14988,USD,millions,reported,SEC 10-K 0000078003-25-000054
+2023,FY,2023-12-31,12,product,PfizerCentreOne,Pfizer CentreOne,,Other,1272,USD,millions,reported,SEC 10-K 0000078003-25-000054
+2023,FY,2023-12-31,12,product,PfizerIgnite,Pfizer Ignite,,Other,44,USD,millions,reported,SEC 10-K 0000078003-25-000054
+2024,Q1,2024-03-31,3,geography,InternationalDevelopedMarkets,International Developed Markets,,,3198,USD,millions,reported,SEC 10-Q 0000078003-24-000107
+2024,Q1,2024-03-31,3,geography,InternationalEmergingMarkets,International Emerging Markets,,,2167,USD,millions,reported,SEC 10-Q 0000078003-24-000107
+2024,Q1,2024-03-31,3,geography,US,U.S.,,,9514,USD,millions,reported,SEC 10-Q 0000078003-24-000107
+2024,Q1,2024-03-31,3,product,OtherNotItemized,Other (not itemized),,,275,USD,millions,derived,SEC 10-Q 0000078003-24-000107
+2024,Q1,2024-03-31,3,product,InternationalDivision,International Division,,Biopharma,5178,USD,millions,reported,SEC 10-Q 0000078003-24-000107
+2024,Q1,2024-03-31,3,product,OncologyDivision,Oncology Division,,Biopharma,2572,USD,millions,reported,SEC 10-Q 0000078003-24-000107
+2024,Q1,2024-03-31,3,product,U.S.CommercialDivision,U.S. Commercial Division,,Biopharma,6854,USD,millions,reported,SEC 10-Q 0000078003-24-000107
+2024,Q1,2024-03-31,3,segment,BiopharmaSegment,Biopharma,,,14604,USD,millions,reported,SEC 10-Q 0000078003-24-000107
+2024,Q1,2024-03-31,3,segment,BusinessInnovationSegment,Business Innovation Segment,,,275,USD,millions,reported,SEC 10-Q 0000078003-24-000107
+2024,Q2,2024-06-30,3,geography,InternationalDevelopedMarkets,International Developed Markets,,,3164,USD,millions,reported,SEC 10-Q 0000078003-24-000166
+2024,Q2,2024-06-30,3,geography,InternationalEmergingMarkets,International Emerging Markets,,,2227,USD,millions,reported,SEC 10-Q 0000078003-24-000166
+2024,Q2,2024-06-30,3,geography,US,U.S.,,,7892,USD,millions,reported,SEC 10-Q 0000078003-24-000166
+2024,Q2,2024-06-30,3,product,OtherNotItemized,Other (not itemized),,,291,USD,millions,derived,SEC 10-Q 0000078003-24-000166
+2024,Q2,2024-06-30,3,product,InternationalCommercialDivision,International Commercial Division,,Biopharma,5163,USD,millions,reported,SEC 10-Q 0000078003-24-000166
+2024,Q2,2024-06-30,3,product,OncologyDivision,Oncology Division,,Biopharma,2918,USD,millions,reported,SEC 10-Q 0000078003-24-000166
+2024,Q2,2024-06-30,3,product,U.S.CommercialDivision,U.S. Commercial Division,,Biopharma,4911,USD,millions,reported,SEC 10-Q 0000078003-24-000166
+2024,Q2,2024-06-30,3,segment,BiopharmaSegment,Biopharma,,,12991,USD,millions,reported,SEC 10-Q 0000078003-24-000166
+2024,Q2,2024-06-30,3,segment,PfizerCentreOne,Pfizer CentreOne,,,278,USD,millions,reported,SEC 10-Q 0000078003-24-000166
+2024,Q2,2024-06-30,3,segment,PfizerIgnite,Pfizer Ignite,,,15,USD,millions,reported,SEC 10-Q 0000078003-24-000166
+2024,Q3,2024-09-29,3,geography,InternationalDevelopedMarkets,International Developed Markets,,,3412,USD,millions,reported,SEC 10-Q 0000078003-24-000191
+2024,Q3,2024-09-29,3,geography,InternationalEmergingMarkets,International Emerging Markets,,,2226,USD,millions,reported,SEC 10-Q 0000078003-24-000191
+2024,Q3,2024-09-29,3,geography,US,U.S.,,,12064,USD,millions,reported,SEC 10-Q 0000078003-24-000191
+2024,Q3,2024-09-29,3,product,OtherNotItemized,Other (not itemized),,,310,USD,millions,derived,SEC 10-Q 0000078003-24-000191
+2024,Q3,2024-09-29,3,product,Oncology,Oncology,,Biopharma,4043,USD,millions,reported,SEC 10-Q 0000078003-24-000191
+2024,Q3,2024-09-29,3,product,PrimaryCare,Primary Care,,Biopharma,9060,USD,millions,reported,SEC 10-Q 0000078003-24-000191
+2024,Q3,2024-09-29,3,product,SpecialtyCare,Specialty Care,,Biopharma,4289,USD,millions,reported,SEC 10-Q 0000078003-24-000191
+2024,Q3,2024-09-29,3,segment,BiopharmaSegment,Biopharma,,,17392,USD,millions,reported,SEC 10-Q 0000078003-24-000191
+2024,Q3,2024-09-29,3,segment,PfizerCentreOne,Pfizer CentreOne,,,285,USD,millions,reported,SEC 10-Q 0000078003-24-000191
+2024,Q3,2024-09-29,3,segment,PfizerIgnite,Pfizer Ignite,,,25,USD,millions,reported,SEC 10-Q 0000078003-24-000191
+2024,Q4,2024-12-31,3,geography,InternationalDevelopedMarkets,Developed Markets,,,6283,USD,millions,derived,SEC 10-K 0000078003-25-000054 − 10-Q 0000078003-24-000191
+2024,Q4,2024-12-31,3,geography,InternationalEmergingMarkets,Emerging Markets,,,2259,USD,millions,derived,SEC 10-K 0000078003-25-000054 − 10-Q 0000078003-24-000191
+2024,Q4,2024-12-31,3,geography,US,U.S.,,,9221,USD,millions,derived,SEC 10-K 0000078003-25-000054 − 10-Q 0000078003-24-000191
+2024,FY,2024-12-31,12,geography,InternationalDevelopedMarkets,Developed Markets,,,16057,USD,millions,reported,SEC 10-K 0000078003-25-000054
+2024,FY,2024-12-31,12,geography,InternationalEmergingMarkets,Emerging Markets,,,8879,USD,millions,reported,SEC 10-K 0000078003-25-000054
+2024,FY,2024-12-31,12,geography,US,U.S.,,,38691,USD,millions,reported,SEC 10-K 0000078003-25-000054
+2024,FY,2024-12-31,12,product,InternationalCommercialDivision,International Commercial Division,,Biopharma,24068,USD,millions,reported,SEC 10-K 0000078003-25-000054
+2024,FY,2024-12-31,12,product,OncologyDivision,Oncology Division,,Biopharma,11567,USD,millions,reported,SEC 10-K 0000078003-25-000054
+2024,FY,2024-12-31,12,product,U.S.CommercialDivision,U.S. Commercial Division,,Biopharma,26765,USD,millions,reported,SEC 10-K 0000078003-25-000054
+2024,FY,2024-12-31,12,product,PfizerCentreOne,Pfizer CentreOne,,Other,1146,USD,millions,reported,SEC 10-K 0000078003-25-000054
+2024,FY,2024-12-31,12,product,PfizerIgnite,Pfizer Ignite,,Other,82,USD,millions,reported,SEC 10-K 0000078003-25-000054
+2025,Q1,2025-03-30,3,geography,InternationalDevelopedMarkets,International Developed Markets,,,3178,USD,millions,reported,SEC 10-Q 0000078003-25-000114
+2025,Q1,2025-03-30,3,geography,InternationalEmergingMarkets,International Emerging Markets,,,2163,USD,millions,reported,SEC 10-Q 0000078003-25-000114
+2025,Q1,2025-03-30,3,geography,US,U.S.,,,8374,USD,millions,reported,SEC 10-Q 0000078003-25-000114
+2025,Q1,2025-03-30,3,product,Oncology,Oncology,,Biopharma,3758,USD,millions,reported,SEC 10-Q 0000078003-25-000114
+2025,Q1,2025-03-30,3,product,PrimaryCare,Primary Care,,Biopharma,5696,USD,millions,reported,SEC 10-Q 0000078003-25-000114
+2025,Q1,2025-03-30,3,product,SpecialtyCare,Specialty Care,,Biopharma,3987,USD,millions,reported,SEC 10-Q 0000078003-25-000114
+2025,Q1,2025-03-30,3,product,PfizerCentreOne,Pfizer CentreOne,,Other,257,USD,millions,reported,SEC 10-Q 0000078003-25-000114
+2025,Q1,2025-03-30,3,product,PfizerIgnite,Pfizer Ignite,,Other,17,USD,millions,reported,SEC 10-Q 0000078003-25-000114
+2025,Q2,2025-06-29,3,geography,InternationalDevelopedMarkets,International Developed Markets,,,3393,USD,millions,reported,SEC 10-Q 0000078003-25-000138
+2025,Q2,2025-06-29,3,geography,InternationalEmergingMarkets,International Emerging Markets,,,2366,USD,millions,reported,SEC 10-Q 0000078003-25-000138
+2025,Q2,2025-06-29,3,geography,US,U.S.,,,8894,USD,millions,reported,SEC 10-Q 0000078003-25-000138
+2025,Q2,2025-06-29,3,product,Oncology,Oncology,,Biopharma,4387,USD,millions,reported,SEC 10-Q 0000078003-25-000138
+2025,Q2,2025-06-29,3,product,PrimaryCare,Primary Care,,Biopharma,5540,USD,millions,reported,SEC 10-Q 0000078003-25-000138
+2025,Q2,2025-06-29,3,product,SpecialtyCare,Specialty Care,,Biopharma,4378,USD,millions,reported,SEC 10-Q 0000078003-25-000138
+2025,Q2,2025-06-29,3,product,PfizerCentreOne,Pfizer CentreOne,,Other,328,USD,millions,reported,SEC 10-Q 0000078003-25-000138
+2025,Q2,2025-06-29,3,product,PfizerIgnite,Pfizer Ignite,,Other,20,USD,millions,reported,SEC 10-Q 0000078003-25-000138
+2025,Q3,2025-09-28,3,geography,InternationalDevelopedMarkets,International Developed Markets,,,3696,USD,millions,reported,SEC 10-Q 0000078003-25-000150
+2025,Q3,2025-09-28,3,geography,InternationalEmergingMarkets,International Emerging Markets,,,2267,USD,millions,reported,SEC 10-Q 0000078003-25-000150
+2025,Q3,2025-09-28,3,geography,US,U.S.,,,10691,USD,millions,reported,SEC 10-Q 0000078003-25-000150
+2025,Q3,2025-09-28,3,product,Oncology,Oncology,,Biopharma,4253,USD,millions,reported,SEC 10-Q 0000078003-25-000150
+2025,Q3,2025-09-28,3,product,PrimaryCare,Primary Care,,Biopharma,7646,USD,millions,reported,SEC 10-Q 0000078003-25-000150
+2025,Q3,2025-09-28,3,product,SpecialtyCare,Specialty Care,,Biopharma,4411,USD,millions,reported,SEC 10-Q 0000078003-25-000150
+2025,Q3,2025-09-28,3,product,PfizerCentreOne,Pfizer CentreOne,,Other,344,USD,millions,reported,SEC 10-Q 0000078003-25-000150
+2025,Q3,2025-09-28,3,product,PfizerIgnite,Pfizer Ignite,,Other,0,USD,millions,reported,SEC 10-Q 0000078003-25-000150
+2025,Q4,2025-12-31,3,geography,InternationalDevelopedMarkets,Developed Markets,,,5921,USD,millions,derived,SEC 10-K 0000078003-26-000026 − 10-Q 0000078003-25-000150
+2025,Q4,2025-12-31,3,geography,InternationalEmergingMarkets,Emerging Markets,,,2517,USD,millions,derived,SEC 10-K 0000078003-26-000026 − 10-Q 0000078003-25-000150
+2025,Q4,2025-12-31,3,geography,US,U.S.,,,9119,USD,millions,derived,SEC 10-K 0000078003-26-000026 − 10-Q 0000078003-25-000150
+2025,Q4,2025-12-31,3,product,Oncology,Oncology,,Biopharma,4435,USD,millions,derived,SEC 10-K 0000078003-26-000026 − 10-Q 0000078003-25-000150
+2025,Q4,2025-12-31,3,product,PrimaryCare,Primary Care,,Biopharma,7938,USD,millions,derived,SEC 10-K 0000078003-26-000026 − 10-Q 0000078003-25-000150
+2025,Q4,2025-12-31,3,product,SpecialtyCare,Specialty Care,,Biopharma,4771,USD,millions,derived,SEC 10-K 0000078003-26-000026 − 10-Q 0000078003-25-000150
+2025,Q4,2025-12-31,3,product,PfizerCentreOne,Pfizer CentreOne,,Other,409,USD,millions,derived,SEC 10-K 0000078003-26-000026 − 10-Q 0000078003-25-000150
+2025,Q4,2025-12-31,3,product,PfizerIgnite,Pfizer Ignite,,Other,4,USD,millions,derived,SEC 10-K 0000078003-26-000026 − 10-Q 0000078003-25-000150
+2025,FY,2025-12-31,12,geography,InternationalDevelopedMarkets,Developed Markets,,,16188,USD,millions,reported,SEC 10-K 0000078003-26-000026
+2025,FY,2025-12-31,12,geography,InternationalEmergingMarkets,Emerging Markets,,,9313,USD,millions,reported,SEC 10-K 0000078003-26-000026
+2025,FY,2025-12-31,12,geography,US,U.S.,,,37078,USD,millions,reported,SEC 10-K 0000078003-26-000026
+2025,FY,2025-12-31,12,product,Oncology,Oncology,,Biopharma,16834,USD,millions,reported,SEC 10-K 0000078003-26-000026
+2025,FY,2025-12-31,12,product,PrimaryCare,Primary Care,,Biopharma,26820,USD,millions,reported,SEC 10-K 0000078003-26-000026
+2025,FY,2025-12-31,12,product,SpecialtyCare,Specialty Care,,Biopharma,17546,USD,millions,reported,SEC 10-K 0000078003-26-000026
+2025,FY,2025-12-31,12,product,PfizerCentreOne,Pfizer CentreOne,,Other,1338,USD,millions,reported,SEC 10-K 0000078003-26-000026
+2025,FY,2025-12-31,12,product,PfizerIgnite,Pfizer Ignite,,Other,41,USD,millions,reported,SEC 10-K 0000078003-26-000026
+2026,Q1,2026-03-29,3,geography,InternationalDevelopedMarkets,International Developed Markets,,,3426,USD,millions,reported,SEC 10-Q 0000078003-26-000054
+2026,Q1,2026-03-29,3,geography,InternationalEmergingMarkets,International Emerging Markets,,,2293,USD,millions,reported,SEC 10-Q 0000078003-26-000054
+2026,Q1,2026-03-29,3,geography,US,U.S.,,,8731,USD,millions,reported,SEC 10-Q 0000078003-26-000054
+2026,Q1,2026-03-29,3,product,HospitalAndBiosimilars,Hospital and Biosimilars,,Biopharma,1854,USD,millions,reported,SEC 10-Q 0000078003-26-000054
+2026,Q1,2026-03-29,3,product,Oncology,Oncology,,Biopharma,3826,USD,millions,reported,SEC 10-Q 0000078003-26-000054
+2026,Q1,2026-03-29,3,product,PrimaryCare,Primary Care,,Biopharma,5542,USD,millions,reported,SEC 10-Q 0000078003-26-000054
+2026,Q1,2026-03-29,3,product,SpecialtyCare,Specialty Care,,Biopharma,2939,USD,millions,reported,SEC 10-Q 0000078003-26-000054
+2026,Q1,2026-03-29,3,product,PfizerCentreOne,Pfizer CentreOne,,Other,289,USD,millions,reported,SEC 10-Q 0000078003-26-000054
+2026,Q2,2026-06-28,3,geography,InternationalDevelopedMarkets,International Developed Markets,,,3743,USD,millions,reported,SEC 10-Q 0000078003-26-000095
+2026,Q2,2026-06-28,3,geography,InternationalEmergingMarkets,International Emerging Markets,,,2434,USD,millions,reported,SEC 10-Q 0000078003-26-000095
+2026,Q2,2026-06-28,3,geography,US,U.S.,,,8857,USD,millions,reported,SEC 10-Q 0000078003-26-000095
+2026,Q2,2026-06-28,3,product,HospitalAndBiosimilars,Hospital and Biosimilars,,Biopharma,1640,USD,millions,reported,SEC 10-Q 0000078003-26-000095
+2026,Q2,2026-06-28,3,product,Oncology,Oncology,,Biopharma,4165,USD,millions,reported,SEC 10-Q 0000078003-26-000095
+2026,Q2,2026-06-28,3,product,PrimaryCare,Primary Care,,Biopharma,5503,USD,millions,reported,SEC 10-Q 0000078003-26-000095
+2026,Q2,2026-06-28,3,product,SpecialtyCare,Specialty Care,,Biopharma,3353,USD,millions,reported,SEC 10-Q 0000078003-26-000095
+2026,Q2,2026-06-28,3,product,PfizerCentreOne,Pfizer CentreOne,,Other,373,USD,millions,reported,SEC 10-Q 0000078003-26-000095
+2026,Q3,2026-09-27,3,geography,InternationalDevelopedMarkets,International Developed Markets,,,3643,USD,millions,reported,SEC 10-Q 0000078003-26-000127
+2026,Q3,2026-09-27,3,geography,InternationalEmergingMarkets,International Emerging Markets,,,2337,USD,millions,reported,SEC 10-Q 0000078003-26-000127
+2026,Q3,2026-09-27,3,geography,US,U.S.,,,10602,USD,millions,reported,SEC 10-Q 0000078003-26-000127
+2026,Q3,2026-09-27,3,product,HospitalAndBiosimilars,Hospital and Biosimilars,,Biopharma,1635,USD,millions,reported,SEC 10-Q 0000078003-26-000127
+2026,Q3,2026-09-27,3,product,Oncology,Oncology,,Biopharma,4327,USD,millions,reported,SEC 10-Q 0000078003-26-000127
+2026,Q3,2026-09-27,3,product,PrimaryCare,Primary Care,,Biopharma,6971,USD,millions,reported,SEC 10-Q 0000078003-26-000127
+2026,Q3,2026-09-27,3,product,SpecialtyCare,Specialty Care,,Biopharma,3349,USD,millions,reported,SEC 10-Q 0000078003-26-000127
+2026,Q3,2026-09-27,3,product,PfizerCentreOne,Pfizer CentreOne,,Other,300,USD,millions,reported,SEC 10-Q 0000078003-26-000127

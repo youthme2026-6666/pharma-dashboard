@@ -1,0 +1,16 @@
+{
+  "currency": "USD",
+  "events": 0,
+  "id": "pfe",
+  "latest_period": "2026 Q3",
+  "latest_period_end": "2026-09-27",
+  "name_en": "Pfizer",
+  "name_zh": "辉瑞",
+  "rows": {
+    "balance": 23,
+    "cashflow": 28,
+    "income": 28,
+    "segments": 256
+  },
+  "source": "sec"
+}

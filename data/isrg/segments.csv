@@ -1,0 +1,129 @@
+fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,value,currency,unit,basis,source
+2021,Q1,2021-03-31,3,geography,GeographicDistributionDomestic,U.S.,,,847.5,USD,millions,reported,SEC 10-Q 0001035267-21-000067
+2021,Q1,2021-03-31,3,geography,GeographicDistributionForeign,Outside of U.S. (“OUS”),,,444.6,USD,millions,reported,SEC 10-Q 0001035267-21-000067
+2021,Q1,2021-03-31,3,product,InstrumentsandAccessories,Instruments and accessories,,,705.9,USD,millions,reported,SEC 10-Q 0001035267-21-000067
+2021,Q1,2021-03-31,3,product,Services,Services,,,217.5,USD,millions,reported,SEC 10-Q 0001035267-21-000067
+2021,Q1,2021-03-31,3,product,Systems,Systems,,,368.7,USD,millions,reported,SEC 10-Q 0001035267-21-000067
+2021,Q2,2021-06-30,3,geography,GeographicDistributionDomestic,U.S.,,,1005.8,USD,millions,reported,SEC 10-Q 0001035267-21-000119
+2021,Q2,2021-06-30,3,geography,GeographicDistributionForeign,Outside of U.S. (“OUS”),,,458.2,USD,millions,reported,SEC 10-Q 0001035267-21-000119
+2021,Q2,2021-06-30,3,product,InstrumentsandAccessories,Instruments and accessories,,,796.4,USD,millions,reported,SEC 10-Q 0001035267-21-000119
+2021,Q2,2021-06-30,3,product,Services,Services,,,228,USD,millions,reported,SEC 10-Q 0001035267-21-000119
+2021,Q2,2021-06-30,3,product,Systems,Systems,,,439.6,USD,millions,reported,SEC 10-Q 0001035267-21-000119
+2021,Q3,2021-09-30,3,geography,GeographicDistributionDomestic,U.S.,,,952.2,USD,millions,reported,SEC 10-Q 0001035267-21-000178
+2021,Q3,2021-09-30,3,geography,GeographicDistributionForeign,Outside of U.S. (“OUS”),,,451.1,USD,millions,reported,SEC 10-Q 0001035267-21-000178
+2021,Q3,2021-09-30,3,product,InstrumentsandAccessories,Instruments and accessories,,,755.4,USD,millions,reported,SEC 10-Q 0001035267-21-000178
+2021,Q3,2021-09-30,3,product,Services,Services,,,232.7,USD,millions,reported,SEC 10-Q 0001035267-21-000178
+2021,Q3,2021-09-30,3,product,Systems,Systems,,,415.2,USD,millions,reported,SEC 10-Q 0001035267-21-000178
+2021,Q4,2021-12-31,3,geography,GeographicDistributionDomestic,U.S.,,,1047.7,USD,millions,derived,SEC 10-K 0001035267-22-000014 − 10-Q 0001035267-21-000178
+2021,Q4,2021-12-31,3,geography,GeographicDistributionForeign,Outside of U.S. (“OUS”),,,503,USD,millions,derived,SEC 10-K 0001035267-22-000014 − 10-Q 0001035267-21-000178
+2021,Q4,2021-12-31,3,product,InstrumentsandAccessories,Instruments and accessories,,,842.8,USD,millions,derived,SEC 10-K 0001035267-22-000014 − 10-Q 0001035267-21-000178
+2021,Q4,2021-12-31,3,product,Services,Services,,,237.9,USD,millions,derived,SEC 10-K 0001035267-22-000014 − 10-Q 0001035267-21-000178
+2021,Q4,2021-12-31,3,product,Systems,Systems,,,470,USD,millions,derived,SEC 10-K 0001035267-22-000014 − 10-Q 0001035267-21-000178
+2021,FY,2021-12-31,12,geography,GeographicDistributionDomestic,U.S.,,,3853.2,USD,millions,reported,SEC 10-K 0001035267-22-000014
+2021,FY,2021-12-31,12,geography,GeographicDistributionForeign,Outside of U.S. (“OUS”),,,1856.9,USD,millions,reported,SEC 10-K 0001035267-22-000014
+2021,FY,2021-12-31,12,product,InstrumentsandAccessories,Instruments and accessories,,,3100.5,USD,millions,reported,SEC 10-K 0001035267-22-000014
+2021,FY,2021-12-31,12,product,Services,Services,,,916.2,USD,millions,reported,SEC 10-K 0001035267-22-000014
+2021,FY,2021-12-31,12,product,Systems,Systems,,,1693.4,USD,millions,reported,SEC 10-K 0001035267-22-000014
+2022,Q1,2022-03-31,3,geography,GeographicDistributionDomestic,U.S.,,,964.8,USD,millions,reported,SEC 10-Q 0001035267-22-000085
+2022,Q1,2022-03-31,3,geography,GeographicDistributionForeign,Outside of U.S. (“OUS”),,,522.9,USD,millions,reported,SEC 10-Q 0001035267-22-000085
+2022,Q1,2022-03-31,3,product,InstrumentsandAccessories,Instruments and accessories,,,810.3,USD,millions,reported,SEC 10-Q 0001035267-22-000085
+2022,Q1,2022-03-31,3,product,Services,Services,,,249.3,USD,millions,reported,SEC 10-Q 0001035267-22-000085
+2022,Q1,2022-03-31,3,product,Systems,Systems,,,428.1,USD,millions,reported,SEC 10-Q 0001035267-22-000085
+2022,Q2,2022-06-30,3,geography,GeographicDistributionDomestic,U.S.,,,1011.1,USD,millions,reported,SEC 10-Q 0001035267-22-000128
+2022,Q2,2022-06-30,3,geography,GeographicDistributionForeign,Outside of U.S. (“OUS”),,,511,USD,millions,reported,SEC 10-Q 0001035267-22-000128
+2022,Q2,2022-06-30,3,product,InstrumentsandAccessories,Instruments and accessories,,,895.3,USD,millions,reported,SEC 10-Q 0001035267-22-000128
+2022,Q2,2022-06-30,3,product,Services,Services,,,251.7,USD,millions,reported,SEC 10-Q 0001035267-22-000128
+2022,Q2,2022-06-30,3,product,Systems,Systems,,,375.1,USD,millions,reported,SEC 10-Q 0001035267-22-000128
+2022,Q3,2022-09-30,3,geography,GeographicDistributionDomestic,U.S.,,,1083,USD,millions,reported,SEC 10-Q 0001035267-22-000169
+2022,Q3,2022-09-30,3,geography,GeographicDistributionForeign,Outside of U.S. (“OUS”),,,474.4,USD,millions,reported,SEC 10-Q 0001035267-22-000169
+2022,Q3,2022-09-30,3,product,InstrumentsandAccessories,Instruments and accessories,,,871.6,USD,millions,reported,SEC 10-Q 0001035267-22-000169
+2022,Q3,2022-09-30,3,product,Services,Services,,,259.9,USD,millions,reported,SEC 10-Q 0001035267-22-000169
+2022,Q3,2022-09-30,3,product,Systems,Systems,,,425.9,USD,millions,reported,SEC 10-Q 0001035267-22-000169
+2022,Q4,2022-12-31,3,geography,GeographicDistributionDomestic,U.S.,,,1098.7,USD,millions,derived,SEC 10-K 0001035267-23-000019 − 10-Q 0001035267-22-000169
+2022,Q4,2022-12-31,3,geography,GeographicDistributionForeign,OUS,,,556.3,USD,millions,derived,SEC 10-K 0001035267-23-000019 − 10-Q 0001035267-22-000169
+2022,FY,2022-12-31,12,geography,GeographicDistributionDomestic,U.S.,,,4157.6,USD,millions,reported,SEC 10-K 0001035267-23-000019
+2022,FY,2022-12-31,12,geography,GeographicDistributionForeign,OUS,,,2064.6,USD,millions,reported,SEC 10-K 0001035267-23-000019
+2022,FY,2022-12-31,12,product,Service,Service,,,1024.2,USD,millions,reported,SEC 10-K 0001035267-23-000019
+2022,FY,2022-12-31,12,product,InstrumentsandAccessories,Instruments and accessories,,Product,3517.9,USD,millions,reported,SEC 10-K 0001035267-23-000019
+2022,FY,2022-12-31,12,product,Systems,Systems,,Product,1680.1,USD,millions,reported,SEC 10-K 0001035267-23-000019
+2023,Q1,2023-03-31,3,geography,GeographicDistributionDomestic,U.S.,,,1109.9,USD,millions,reported,SEC 10-Q 0001035267-23-000092
+2023,Q1,2023-03-31,3,geography,GeographicDistributionForeign,Outside of U.S. (“OUS”),,,586.3,USD,millions,reported,SEC 10-Q 0001035267-23-000092
+2023,Q1,2023-03-31,3,product,InstrumentsandAccessories,Instruments and accessories,,,985.6,USD,millions,reported,SEC 10-Q 0001035267-23-000092
+2023,Q1,2023-03-31,3,product,Services,Services,,,283.2,USD,millions,reported,SEC 10-Q 0001035267-23-000092
+2023,Q1,2023-03-31,3,product,Systems,Systems,,,427.4,USD,millions,reported,SEC 10-Q 0001035267-23-000092
+2023,Q2,2023-06-30,3,geography,GeographicDistributionDomestic,U.S.,,,1142.5,USD,millions,reported,SEC 10-Q 0001035267-23-000159
+2023,Q2,2023-06-30,3,geography,GeographicDistributionForeign,Outside of U.S. (“OUS”),,,613.4,USD,millions,reported,SEC 10-Q 0001035267-23-000159
+2023,Q2,2023-06-30,3,product,InstrumentsandAccessories,Instruments and accessories,,,1075.9,USD,millions,reported,SEC 10-Q 0001035267-23-000159
+2023,Q2,2023-06-30,3,product,Services,Services,,,287.3,USD,millions,reported,SEC 10-Q 0001035267-23-000159
+2023,Q2,2023-06-30,3,product,Systems,Systems,,,392.7,USD,millions,reported,SEC 10-Q 0001035267-23-000159
+2023,Q3,2023-09-30,3,geography,GeographicDistributionDomestic,U.S.,,,1180.2,USD,millions,reported,SEC 10-Q 0001035267-23-000196
+2023,Q3,2023-09-30,3,geography,GeographicDistributionForeign,Outside of U.S. (“OUS”),,,563.5,USD,millions,reported,SEC 10-Q 0001035267-23-000196
+2023,Q3,2023-09-30,3,product,InstrumentsandAccessories,Instruments and accessories,,,1071.4,USD,millions,reported,SEC 10-Q 0001035267-23-000196
+2023,Q3,2023-09-30,3,product,Services,Services,,,292.9,USD,millions,reported,SEC 10-Q 0001035267-23-000196
+2023,Q3,2023-09-30,3,product,Systems,Systems,,,379.4,USD,millions,reported,SEC 10-Q 0001035267-23-000196
+2023,Q4,2023-12-31,3,geography,GeographicDistributionDomestic,U.S.,,,1256,USD,millions,derived,SEC 10-K 0001035267-24-000021 − 10-Q 0001035267-23-000196
+2023,Q4,2023-12-31,3,geography,GeographicDistributionForeign,OUS,,,672.3,USD,millions,derived,SEC 10-K 0001035267-24-000021 − 10-Q 0001035267-23-000196
+2023,FY,2023-12-31,12,geography,GeographicDistributionDomestic,U.S.,,,4688.6,USD,millions,reported,SEC 10-K 0001035267-24-000021
+2023,FY,2023-12-31,12,geography,GeographicDistributionForeign,OUS,,,2435.5,USD,millions,reported,SEC 10-K 0001035267-24-000021
+2023,FY,2023-12-31,12,product,InstrumentsandAccessories,Instruments and accessories,,,4276.6,USD,millions,reported,SEC 10-K 0001035267-24-000021
+2023,FY,2023-12-31,12,product,Service,Service,,,1167.8,USD,millions,reported,SEC 10-K 0001035267-24-000021
+2023,FY,2023-12-31,12,product,Systems,Systems,,,1679.7,USD,millions,reported,SEC 10-K 0001035267-24-000021
+2024,Q1,2024-03-31,3,geography,GeographicDistributionDomestic,U.S.,,,1238.5,USD,millions,reported,SEC 10-Q 0001035267-24-000137
+2024,Q1,2024-03-31,3,geography,GeographicDistributionForeign,OUS,,,652.1,USD,millions,reported,SEC 10-Q 0001035267-24-000137
+2024,Q1,2024-03-31,3,product,InstrumentsandAccessories,Instruments and accessories,,,1158.9,USD,millions,reported,SEC 10-Q 0001035267-24-000137
+2024,Q1,2024-03-31,3,product,Services,Services,,,313.5,USD,millions,reported,SEC 10-Q 0001035267-24-000137
+2024,Q1,2024-03-31,3,product,Systems,Systems,,,418.2,USD,millions,reported,SEC 10-Q 0001035267-24-000137
+2024,Q2,2024-06-30,3,geography,GeographicDistributionDomestic,U.S.,,,1319.2,USD,millions,reported,SEC 10-Q 0001035267-24-000207
+2024,Q2,2024-06-30,3,geography,GeographicDistributionForeign,OUS,,,690.7,USD,millions,reported,SEC 10-Q 0001035267-24-000207
+2024,Q2,2024-06-30,3,product,InstrumentsandAccessories,Instruments and accessories,,,1244.4,USD,millions,reported,SEC 10-Q 0001035267-24-000207
+2024,Q2,2024-06-30,3,product,Services,Services,,,317.3,USD,millions,reported,SEC 10-Q 0001035267-24-000207
+2024,Q2,2024-06-30,3,product,Systems,Systems,,,448.2,USD,millions,reported,SEC 10-Q 0001035267-24-000207
+2024,Q3,2024-09-30,3,geography,GeographicDistributionDomestic,U.S.,,,1379.4,USD,millions,reported,SEC 10-Q 0001035267-24-000247
+2024,Q3,2024-09-30,3,geography,GeographicDistributionForeign,Outside of the U.S. (“OUS”),,,658.7,USD,millions,reported,SEC 10-Q 0001035267-24-000247
+2024,Q3,2024-09-30,3,product,InstrumentsandAccessories,Instruments and accessories,,,1264.2,USD,millions,reported,SEC 10-Q 0001035267-24-000247
+2024,Q3,2024-09-30,3,product,Services,Service,,,328.9,USD,millions,reported,SEC 10-Q 0001035267-24-000247
+2024,Q3,2024-09-30,3,product,Systems,Systems,,,445,USD,millions,reported,SEC 10-Q 0001035267-24-000247
+2024,Q4,2024-12-31,3,geography,GeographicDistributionDomestic,U.S.,,,1652.3,USD,millions,derived,SEC 10-K 0001035267-25-000017 − 10-Q 0001035267-24-000247
+2024,Q4,2024-12-31,3,geography,GeographicDistributionForeign,OUS,,,761.2,USD,millions,derived,SEC 10-K 0001035267-25-000017 − 10-Q 0001035267-24-000247
+2024,FY,2024-12-31,12,geography,GeographicDistributionDomestic,U.S.,,,5589.4,USD,millions,reported,SEC 10-K 0001035267-25-000017
+2024,FY,2024-12-31,12,geography,GeographicDistributionForeign,OUS,,,2762.7,USD,millions,reported,SEC 10-K 0001035267-25-000017
+2024,FY,2024-12-31,12,product,InstrumentsandAccessories,Instruments and accessories,,,5079,USD,millions,reported,SEC 10-K 0001035267-25-000017
+2024,FY,2024-12-31,12,product,Service,Service,,,1307.1,USD,millions,reported,SEC 10-K 0001035267-25-000017
+2024,FY,2024-12-31,12,product,Systems,Systems,,,1966,USD,millions,reported,SEC 10-K 0001035267-25-000017
+2025,Q1,2025-03-31,3,geography,GeographicDistributionDomestic,U.S.,,,1538.2,USD,millions,reported,SEC 10-Q 0001035267-25-000109
+2025,Q1,2025-03-31,3,geography,GeographicDistributionForeign,Outside of the U.S. (“OUS”),,,715.2,USD,millions,reported,SEC 10-Q 0001035267-25-000109
+2025,Q1,2025-03-31,3,product,InstrumentsandAccessories,Instruments and accessories,,,1367.7,USD,millions,reported,SEC 10-Q 0001035267-25-000109
+2025,Q1,2025-03-31,3,product,Services,Service,,,363,USD,millions,reported,SEC 10-Q 0001035267-25-000109
+2025,Q1,2025-03-31,3,product,Systems,Systems,,,522.7,USD,millions,reported,SEC 10-Q 0001035267-25-000109
+2025,Q2,2025-06-30,3,geography,GeographicDistributionDomestic,U.S.,,,1629.4,USD,millions,reported,SEC 10-Q 0001035267-25-000192
+2025,Q2,2025-06-30,3,geography,GeographicDistributionForeign,Outside of the U.S. (“OUS”),,,810.6,USD,millions,reported,SEC 10-Q 0001035267-25-000192
+2025,Q2,2025-06-30,3,product,InstrumentsandAccessories,Instruments and accessories,,,1474.1,USD,millions,reported,SEC 10-Q 0001035267-25-000192
+2025,Q2,2025-06-30,3,product,Services,Service,,,391.2,USD,millions,reported,SEC 10-Q 0001035267-25-000192
+2025,Q2,2025-06-30,3,product,Systems,Systems,,,574.7,USD,millions,reported,SEC 10-Q 0001035267-25-000192
+2025,Q3,2025-09-30,3,geography,GeographicDistributionDomestic,U.S.,,,1717.6,USD,millions,reported,SEC 10-Q 0001035267-25-000209
+2025,Q3,2025-09-30,3,geography,GeographicDistributionForeign,Outside of the U.S. (“OUS”),,,787.5,USD,millions,reported,SEC 10-Q 0001035267-25-000209
+2025,Q3,2025-09-30,3,product,InstrumentsandAccessories,Instruments and accessories,,,1518.8,USD,millions,reported,SEC 10-Q 0001035267-25-000209
+2025,Q3,2025-09-30,3,product,Services,Service,,,395.9,USD,millions,reported,SEC 10-Q 0001035267-25-000209
+2025,Q3,2025-09-30,3,product,Systems,Systems,,,590.4,USD,millions,reported,SEC 10-Q 0001035267-25-000209
+2025,Q4,2025-12-31,3,geography,GeographicDistributionDomestic,U.S.,,,1930.6,USD,millions,derived,SEC 10-K 0001035267-26-000010 − 10-Q 0001035267-25-000209
+2025,Q4,2025-12-31,3,geography,GeographicDistributionForeign,OUS,,,935.6,USD,millions,derived,SEC 10-K 0001035267-26-000010 − 10-Q 0001035267-25-000209
+2025,FY,2025-12-31,12,geography,GeographicDistributionDomestic,U.S.,,,6815.8,USD,millions,reported,SEC 10-K 0001035267-26-000010
+2025,FY,2025-12-31,12,geography,GeographicDistributionForeign,OUS,,,3248.9,USD,millions,reported,SEC 10-K 0001035267-26-000010
+2025,FY,2025-12-31,12,product,InstrumentsandAccessories,Instruments and accessories,,,6018.9,USD,millions,reported,SEC 10-K 0001035267-26-000010
+2025,FY,2025-12-31,12,product,Service,Service,,,1572.1,USD,millions,reported,SEC 10-K 0001035267-26-000010
+2025,FY,2025-12-31,12,product,Systems,Systems,,,2473.7,USD,millions,reported,SEC 10-K 0001035267-26-000010
+2026,Q1,2026-03-31,3,geography,GeographicDistributionDomestic,U.S.,,,1783.3,USD,millions,reported,SEC 10-Q 0001035267-26-000032
+2026,Q1,2026-03-31,3,geography,GeographicDistributionForeign,Outside of the U.S. (“OUS”),,,987.5,USD,millions,reported,SEC 10-Q 0001035267-26-000032
+2026,Q1,2026-03-31,3,product,InstrumentsandAccessories,Instruments and accessories,,,1686.4,USD,millions,reported,SEC 10-Q 0001035267-26-000032
+2026,Q1,2026-03-31,3,product,Services,Service,,,433.7,USD,millions,reported,SEC 10-Q 0001035267-26-000032
+2026,Q1,2026-03-31,3,product,Systems,Systems,,,650.7,USD,millions,reported,SEC 10-Q 0001035267-26-000032
+2026,Q2,2026-06-30,3,geography,GeographicDistributionDomestic,U.S.,,,1933.2,USD,millions,reported,SEC 10-Q 0001035267-26-000058
+2026,Q2,2026-06-30,3,geography,GeographicDistributionForeign,Outside of the U.S. (“OUS”),,,959.1,USD,millions,reported,SEC 10-Q 0001035267-26-000058
+2026,Q2,2026-06-30,3,product,InstrumentsandAccessories,Instruments and accessories,,,1734.9,USD,millions,reported,SEC 10-Q 0001035267-26-000058
+2026,Q2,2026-06-30,3,product,Services,Service,,,472.4,USD,millions,reported,SEC 10-Q 0001035267-26-000058
+2026,Q2,2026-06-30,3,product,Systems,Systems,,,685,USD,millions,reported,SEC 10-Q 0001035267-26-000058
+2026,Q3,2026-09-30,3,geography,GeographicDistributionDomestic,U.S.,,,2063,USD,millions,reported,SEC 10-Q 0001035267-26-000071
+2026,Q3,2026-09-30,3,geography,GeographicDistributionForeign,Outside of the U.S. (“OUS”),,,985.7,USD,millions,reported,SEC 10-Q 0001035267-26-000071
+2026,Q3,2026-09-30,3,product,InstrumentsandAccessories,Instruments and accessories,,,1797.4,USD,millions,reported,SEC 10-Q 0001035267-26-000071
+2026,Q3,2026-09-30,3,product,Services,Service,,,482.2,USD,millions,reported,SEC 10-Q 0001035267-26-000071
+2026,Q3,2026-09-30,3,product,Systems,Systems,,,769.1,USD,millions,reported,SEC 10-Q 0001035267-26-000071

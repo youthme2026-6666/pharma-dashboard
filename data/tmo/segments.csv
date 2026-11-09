@@ -1,0 +1,219 @@
+fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,value,currency,unit,basis,source
+2021,Q1,2021-04-03,3,geography,AllOtherCountries,All Other Countries,,,4239,USD,millions,reported,SEC 10-Q 0000097745-22-000027
+2021,Q1,2021-04-03,3,geography,CN,China,,,775,USD,millions,reported,SEC 10-Q 0000097745-22-000027
+2021,Q1,2021-04-03,3,geography,US,United States,,,4892,USD,millions,reported,SEC 10-Q 0000097745-22-000027
+2021,Q1,2021-04-03,3,product,Consumables,Consumables,,,5964,USD,millions,reported,SEC 10-Q 0000097745-22-000027
+2021,Q1,2021-04-03,3,product,Instruments,Instruments,,,1892,USD,millions,reported,SEC 10-Q 0000097745-22-000027
+2021,Q1,2021-04-03,3,product,Service,Service,,,2050,USD,millions,reported,SEC 10-Q 0000097745-22-000027
+2021,Q2,2021-07-03,3,geography,AllOtherCountries,All Other Countries,,,4124,USD,millions,reported,SEC 10-Q 0000097745-22-000047
+2021,Q2,2021-07-03,3,geography,CN,China,,,794,USD,millions,reported,SEC 10-Q 0000097745-22-000047
+2021,Q2,2021-07-03,3,geography,US,United States,,,4355,USD,millions,reported,SEC 10-Q 0000097745-22-000047
+2021,Q2,2021-07-03,3,product,Consumables,Consumables,,,5372,USD,millions,reported,SEC 10-Q 0000097745-22-000047
+2021,Q2,2021-07-03,3,product,Instruments,Instruments,,,1842,USD,millions,reported,SEC 10-Q 0000097745-22-000047
+2021,Q2,2021-07-03,3,product,Service,Service,,,2059,USD,millions,reported,SEC 10-Q 0000097745-22-000047
+2021,Q3,2021-10-02,3,geography,AllOtherCountries,Other,,,3950,USD,millions,reported,SEC 10-Q 0000097745-22-000057
+2021,Q3,2021-10-02,3,geography,CN,China,,,885,USD,millions,reported,SEC 10-Q 0000097745-22-000057
+2021,Q3,2021-10-02,3,geography,US,United States,,,4495,USD,millions,reported,SEC 10-Q 0000097745-22-000057
+2021,Q3,2021-10-02,3,product,Consumables,Consumables,,,5544,USD,millions,reported,SEC 10-Q 0000097745-22-000057
+2021,Q3,2021-10-02,3,product,Instruments,Instruments,,,1816,USD,millions,reported,SEC 10-Q 0000097745-22-000057
+2021,Q3,2021-10-02,3,product,Service,Service revenues,,,1970,USD,millions,reported,SEC 10-Q 0000097745-22-000057
+2021,Q4,2021-12-31,3,geography,AllOtherCountries,Other,,,4547,USD,millions,derived,SEC 10-K 0000097745-23-000008 − 10-Q 0000097745-22-000057
+2021,Q4,2021-12-31,3,geography,CN,China,,,990,USD,millions,derived,SEC 10-K 0000097745-23-000008 − 10-Q 0000097745-22-000057
+2021,Q4,2021-12-31,3,geography,US,United States,,,5165,USD,millions,derived,SEC 10-K 0000097745-23-000008 − 10-Q 0000097745-22-000057
+2021,Q4,2021-12-31,3,product,Consumables,Consumables,,,5728,USD,millions,derived,SEC 10-K 0000097745-23-000008 − 10-Q 0000097745-22-000057
+2021,Q4,2021-12-31,3,product,Instruments,Instruments,,,2203,USD,millions,derived,SEC 10-K 0000097745-23-000008 − 10-Q 0000097745-22-000057
+2021,Q4,2021-12-31,3,product,Service,Service revenues,,,2771,USD,millions,derived,SEC 10-K 0000097745-23-000008 − 10-Q 0000097745-22-000057
+2021,FY,2021-12-31,12,geography,AllOtherCountries,Other,,,16860,USD,millions,reported,SEC 10-K 0000097745-23-000008
+2021,FY,2021-12-31,12,geography,CN,China,,,3444,USD,millions,reported,SEC 10-K 0000097745-23-000008
+2021,FY,2021-12-31,12,geography,US,United States,,,18907,USD,millions,reported,SEC 10-K 0000097745-23-000008
+2021,FY,2021-12-31,12,product,Consumables,Consumables,,,22608,USD,millions,reported,SEC 10-K 0000097745-23-000008
+2021,FY,2021-12-31,12,product,Instruments,Instruments,,,7753,USD,millions,reported,SEC 10-K 0000097745-23-000008
+2021,FY,2021-12-31,12,product,Service,Service revenues,,,8850,USD,millions,reported,SEC 10-K 0000097745-23-000008
+2022,Q1,2022-04-02,3,geography,AllOtherCountries,All Other Countries,,,4811,USD,millions,reported,SEC 10-Q 0000097745-22-000027
+2022,Q1,2022-04-02,3,geography,CN,China,,,910,USD,millions,reported,SEC 10-Q 0000097745-22-000027
+2022,Q1,2022-04-02,3,geography,US,United States,,,6097,USD,millions,reported,SEC 10-Q 0000097745-22-000027
+2022,Q1,2022-04-02,3,product,Consumables,Consumables,,,6110,USD,millions,reported,SEC 10-Q 0000097745-22-000027
+2022,Q1,2022-04-02,3,product,Instruments,Instruments,,,1907,USD,millions,reported,SEC 10-Q 0000097745-22-000027
+2022,Q1,2022-04-02,3,product,Service,Service,,,3801,USD,millions,reported,SEC 10-Q 0000097745-22-000027
+2022,Q2,2022-07-02,3,geography,AllOtherCountries,All Other Countries,,,4123,USD,millions,reported,SEC 10-Q 0000097745-22-000047
+2022,Q2,2022-07-02,3,geography,CN,China,,,1001,USD,millions,reported,SEC 10-Q 0000097745-22-000047
+2022,Q2,2022-07-02,3,geography,US,United States,,,5846,USD,millions,reported,SEC 10-Q 0000097745-22-000047
+2022,Q2,2022-07-02,3,product,Consumables,Consumables,,,4993,USD,millions,reported,SEC 10-Q 0000097745-22-000047
+2022,Q2,2022-07-02,3,product,Instruments,Instruments,,,2010,USD,millions,reported,SEC 10-Q 0000097745-22-000047
+2022,Q2,2022-07-02,3,product,Service,Service,,,3967,USD,millions,reported,SEC 10-Q 0000097745-22-000047
+2022,Q3,2022-10-01,3,geography,AllOtherCountries,Other,,,3936,USD,millions,reported,SEC 10-Q 0000097745-22-000057
+2022,Q3,2022-10-01,3,geography,CN,China,,,954,USD,millions,reported,SEC 10-Q 0000097745-22-000057
+2022,Q3,2022-10-01,3,geography,US,United States,,,5787,USD,millions,reported,SEC 10-Q 0000097745-22-000057
+2022,Q3,2022-10-01,3,product,Consumables,Consumables,,,4651,USD,millions,reported,SEC 10-Q 0000097745-22-000057
+2022,Q3,2022-10-01,3,product,Instruments,Instruments,,,1932,USD,millions,reported,SEC 10-Q 0000097745-22-000057
+2022,Q3,2022-10-01,3,product,Service,Service revenues,,,4094,USD,millions,reported,SEC 10-Q 0000097745-22-000057
+2022,Q4,2022-12-31,3,geography,AllOtherCountries,Other,,,4432,USD,millions,derived,SEC 10-K 0000097745-23-000008 − 10-Q 0000097745-22-000057
+2022,Q4,2022-12-31,3,geography,CN,China,,,928,USD,millions,derived,SEC 10-K 0000097745-23-000008 − 10-Q 0000097745-22-000057
+2022,Q4,2022-12-31,3,geography,US,United States,,,6090,USD,millions,derived,SEC 10-K 0000097745-23-000008 − 10-Q 0000097745-22-000057
+2022,Q4,2022-12-31,3,product,Consumables,Consumables,,,4870,USD,millions,derived,SEC 10-K 0000097745-23-000008 − 10-Q 0000097745-22-000057
+2022,Q4,2022-12-31,3,product,Instruments,Instruments,,,2075,USD,millions,derived,SEC 10-K 0000097745-23-000008 − 10-Q 0000097745-22-000057
+2022,Q4,2022-12-31,3,product,Service,Service revenues,,,4505,USD,millions,derived,SEC 10-K 0000097745-23-000008 − 10-Q 0000097745-22-000057
+2022,FY,2022-12-31,12,geography,AllOtherCountries,Other,,,17302,USD,millions,reported,SEC 10-K 0000097745-23-000008
+2022,FY,2022-12-31,12,geography,CN,China,,,3793,USD,millions,reported,SEC 10-K 0000097745-23-000008
+2022,FY,2022-12-31,12,geography,US,United States,,,23820,USD,millions,reported,SEC 10-K 0000097745-23-000008
+2022,FY,2022-12-31,12,product,Consumables,Consumables,,,20624,USD,millions,reported,SEC 10-K 0000097745-23-000008
+2022,FY,2022-12-31,12,product,Instruments,Instruments,,,7924,USD,millions,reported,SEC 10-K 0000097745-23-000008
+2022,FY,2022-12-31,12,product,Service,Service revenues,,,16367,USD,millions,reported,SEC 10-K 0000097745-23-000008
+2022,FY,2022-12-31,12,segment,AnalyticalInstruments,Analytical Instruments,,,6441,USD,millions,reported,SEC 10-K 0000097745-25-000010
+2022,FY,2022-12-31,12,segment,LaboratoryProductsandServices,Laboratory Products and Biopharma Services,,,22304,USD,millions,reported,SEC 10-K 0000097745-25-000010
+2022,FY,2022-12-31,12,segment,LifeSciencesSolutions,Life Sciences Solutions,,,11565,USD,millions,reported,SEC 10-K 0000097745-25-000010
+2022,FY,2022-12-31,12,segment,SpecialtyDiagnostics,Specialty Diagnostics,,,4604,USD,millions,reported,SEC 10-K 0000097745-25-000010
+2023,Q1,2023-04-01,3,geography,AllOtherCountries,Other,,,4253,USD,millions,reported,SEC 10-Q 0000097745-23-000033
+2023,Q1,2023-04-01,3,geography,CN,China,,,870,USD,millions,reported,SEC 10-Q 0000097745-23-000033
+2023,Q1,2023-04-01,3,geography,US,United States,,,5587,USD,millions,reported,SEC 10-Q 0000097745-23-000033
+2023,Q1,2023-04-01,3,product,Consumables,Consumables,,,4506,USD,millions,reported,SEC 10-Q 0000097745-23-000033
+2023,Q1,2023-04-01,3,product,Instruments,Instruments,,,1898,USD,millions,reported,SEC 10-Q 0000097745-23-000033
+2023,Q1,2023-04-01,3,product,Service,Service revenues,,,4306,USD,millions,reported,SEC 10-Q 0000097745-23-000033
+2023,Q2,2023-07-01,3,geography,AllOtherCountries,Other,,,4300,USD,millions,reported,SEC 10-Q 0000097745-23-000059
+2023,Q2,2023-07-01,3,geography,CN,China,,,856,USD,millions,reported,SEC 10-Q 0000097745-23-000059
+2023,Q2,2023-07-01,3,geography,US,United States,,,5531,USD,millions,reported,SEC 10-Q 0000097745-23-000059
+2023,Q2,2023-07-01,3,product,Consumables,Consumables,,,4433,USD,millions,reported,SEC 10-Q 0000097745-23-000059
+2023,Q2,2023-07-01,3,product,Instruments,Instruments,,,1838,USD,millions,reported,SEC 10-Q 0000097745-23-000059
+2023,Q2,2023-07-01,3,product,Service,Service revenues,,,4416,USD,millions,reported,SEC 10-Q 0000097745-23-000059
+2023,Q3,2023-09-30,3,geography,AllOtherCountries,Other,,,5084,USD,millions,reported,SEC 10-Q 0000097745-23-000069
+2023,Q3,2023-09-30,3,geography,US,United States,,,5490,USD,millions,reported,SEC 10-Q 0000097745-23-000069
+2023,Q3,2023-09-30,3,product,Consumables,Consumables,,,4289,USD,millions,reported,SEC 10-Q 0000097745-23-000069
+2023,Q3,2023-09-30,3,product,Instruments,Instruments,,,1868,USD,millions,reported,SEC 10-Q 0000097745-23-000069
+2023,Q3,2023-09-30,3,product,Service,Service revenues,,,4417,USD,millions,reported,SEC 10-Q 0000097745-23-000069
+2023,Q4,2023-12-31,3,geography,AllOtherCountries,Other,,,5481,USD,millions,derived,SEC 10-K 0000097745-24-000007 − 10-Q 0000097745-23-000069
+2023,Q4,2023-12-31,3,geography,US,United States,,,5405,USD,millions,derived,SEC 10-K 0000097745-24-000007 − 10-Q 0000097745-23-000069
+2023,Q4,2023-12-31,3,product,Consumables,Consumables,,,4369,USD,millions,derived,SEC 10-K 0000097745-24-000007 − 10-Q 0000097745-23-000069
+2023,Q4,2023-12-31,3,product,Instruments,Instruments,,,2042,USD,millions,derived,SEC 10-K 0000097745-24-000007 − 10-Q 0000097745-23-000069
+2023,Q4,2023-12-31,3,product,Service,Service revenues,,,4475,USD,millions,derived,SEC 10-K 0000097745-24-000007 − 10-Q 0000097745-23-000069
+2023,FY,2023-12-31,12,geography,AllOtherCountries,Other,,,20844,USD,millions,reported,SEC 10-K 0000097745-24-000007
+2023,FY,2023-12-31,12,geography,US,United States,,,22013,USD,millions,reported,SEC 10-K 0000097745-24-000007
+2023,FY,2023-12-31,12,product,Consumables,Consumables,,,17597,USD,millions,reported,SEC 10-K 0000097745-24-000007
+2023,FY,2023-12-31,12,product,Instruments,Instruments,,,7646,USD,millions,reported,SEC 10-K 0000097745-24-000007
+2023,FY,2023-12-31,12,product,Service,Service revenues,,,17614,USD,millions,reported,SEC 10-K 0000097745-24-000007
+2023,FY,2023-12-31,12,segment,AnalyticalInstruments,Analytical Instruments,,,7101,USD,millions,reported,SEC 10-K 0000097745-26-000018
+2023,FY,2023-12-31,12,segment,LaboratoryProductsAndBiopharmaServices,Laboratory Products and Biopharma Services,,,22888,USD,millions,reported,SEC 10-K 0000097745-26-000018
+2023,FY,2023-12-31,12,segment,LifeSciencesSolutions,Life Sciences Solutions,,,8545,USD,millions,reported,SEC 10-K 0000097745-26-000018
+2023,FY,2023-12-31,12,segment,SpecialtyDiagnostics,Specialty Diagnostics,,,4324,USD,millions,reported,SEC 10-K 0000097745-26-000018
+2024,Q1,2024-03-30,3,geography,AllOtherCountries,Other,,,5023,USD,millions,reported,SEC 10-Q 0000097745-24-000023
+2024,Q1,2024-03-30,3,geography,US,United States,,,5322,USD,millions,reported,SEC 10-Q 0000097745-24-000023
+2024,Q1,2024-03-30,3,product,Consumables,Consumables,,,4328,USD,millions,reported,SEC 10-Q 0000097745-24-000023
+2024,Q1,2024-03-30,3,product,Instruments,Instruments,,,1627,USD,millions,reported,SEC 10-Q 0000097745-24-000023
+2024,Q1,2024-03-30,3,product,Service,Service revenues,,,4390,USD,millions,reported,SEC 10-Q 0000097745-24-000023
+2024,Q1,2024-03-30,3,segment,AnalyticalInstruments,Analytical Instruments,,,1629,USD,millions,reported,SEC 10-Q 0000097745-25-000041
+2024,Q1,2024-03-30,3,segment,LaboratoryProductsandServices,Laboratory Products and Biopharma Services,,,5686,USD,millions,reported,SEC 10-Q 0000097745-25-000041
+2024,Q1,2024-03-30,3,segment,LifeSciencesSolutions,Life Sciences Solutions,,,1930,USD,millions,reported,SEC 10-Q 0000097745-25-000041
+2024,Q1,2024-03-30,3,segment,SpecialtyDiagnostics,Specialty Diagnostics,,,1099,USD,millions,reported,SEC 10-Q 0000097745-25-000041
+2024,Q2,2024-06-29,3,geography,AllOtherCountries,Other,,,5194,USD,millions,reported,SEC 10-Q 0000097745-24-000040
+2024,Q2,2024-06-29,3,geography,US,United States,,,5347,USD,millions,reported,SEC 10-Q 0000097745-24-000040
+2024,Q2,2024-06-29,3,product,Consumables,Consumables,,,4363,USD,millions,reported,SEC 10-Q 0000097745-24-000040
+2024,Q2,2024-06-29,3,product,Instruments,Instruments,,,1800,USD,millions,reported,SEC 10-Q 0000097745-24-000040
+2024,Q2,2024-06-29,3,product,Service,Service revenues,,,4378,USD,millions,reported,SEC 10-Q 0000097745-24-000040
+2024,Q2,2024-06-29,3,segment,AnalyticalInstruments,Analytical Instruments,,,1727,USD,millions,reported,SEC 10-Q 0000097745-25-000101
+2024,Q2,2024-06-29,3,segment,LaboratoryProductsAndBiopharmaServicesSegment,Laboratory Products and Biopharma Services,,,5719,USD,millions,reported,SEC 10-Q 0000097745-25-000101
+2024,Q2,2024-06-29,3,segment,LifeSciencesSolutions,Life Sciences Solutions,,,1996,USD,millions,reported,SEC 10-Q 0000097745-25-000101
+2024,Q2,2024-06-29,3,segment,SpecialtyDiagnostics,Specialty Diagnostics,,,1100,USD,millions,reported,SEC 10-Q 0000097745-25-000101
+2024,Q3,2024-09-28,3,geography,AllOtherCountries,Other,,,5192,USD,millions,reported,SEC 10-Q 0000097745-24-000046
+2024,Q3,2024-09-28,3,geography,US,United States,,,5406,USD,millions,reported,SEC 10-Q 0000097745-24-000046
+2024,Q3,2024-09-28,3,product,Consumables,Consumables,,,4379,USD,millions,reported,SEC 10-Q 0000097745-24-000046
+2024,Q3,2024-09-28,3,product,Instruments,Instruments,,,1769,USD,millions,reported,SEC 10-Q 0000097745-24-000046
+2024,Q3,2024-09-28,3,product,Service,Service revenues,,,4450,USD,millions,reported,SEC 10-Q 0000097745-24-000046
+2024,Q3,2024-09-28,3,segment,AnalyticalInstruments,Analytical Instruments,,,1776,USD,millions,reported,SEC 10-Q 0000097745-25-000159
+2024,Q3,2024-09-28,3,segment,LaboratoryProductsAndBiopharmaServices,Laboratory Products and Biopharma Services,,,5701,USD,millions,reported,SEC 10-Q 0000097745-25-000159
+2024,Q3,2024-09-28,3,segment,LifeSciencesSolutions,Life Sciences Solutions,,,2009,USD,millions,reported,SEC 10-Q 0000097745-25-000159
+2024,Q3,2024-09-28,3,segment,SpecialtyDiagnostics,Specialty Diagnostics,,,1111,USD,millions,reported,SEC 10-Q 0000097745-25-000159
+2024,Q4,2024-12-31,3,geography,AllOtherCountries,Other,,,5715,USD,millions,derived,SEC 10-K 0000097745-25-000010 − 10-Q 0000097745-24-000046
+2024,Q4,2024-12-31,3,geography,US,United States,,,5680,USD,millions,derived,SEC 10-K 0000097745-25-000010 − 10-Q 0000097745-24-000046
+2024,Q4,2024-12-31,3,product,Consumables,Consumables,,,4517,USD,millions,derived,SEC 10-K 0000097745-25-000010 − 10-Q 0000097745-24-000046
+2024,Q4,2024-12-31,3,product,Instruments,Instruments,,,2250,USD,millions,derived,SEC 10-K 0000097745-25-000010 − 10-Q 0000097745-24-000046
+2024,Q4,2024-12-31,3,product,Service,Service revenues,,,4627,USD,millions,derived,SEC 10-K 0000097745-25-000010 − 10-Q 0000097745-24-000046
+2024,FY,2024-12-31,12,geography,AllOtherCountries,Other,,,21124,USD,millions,reported,SEC 10-K 0000097745-25-000010
+2024,FY,2024-12-31,12,geography,US,United States,,,21755,USD,millions,reported,SEC 10-K 0000097745-25-000010
+2024,FY,2024-12-31,12,product,Consumables,Consumables,,,17587,USD,millions,reported,SEC 10-K 0000097745-25-000010
+2024,FY,2024-12-31,12,product,Instruments,Instruments,,,7446,USD,millions,reported,SEC 10-K 0000097745-25-000010
+2024,FY,2024-12-31,12,product,Service,Service revenues,,,17845,USD,millions,reported,SEC 10-K 0000097745-25-000010
+2024,FY,2024-12-31,12,segment,AnalyticalInstruments,Analytical Instruments,,,7267,USD,millions,reported,SEC 10-K 0000097745-25-000010
+2024,FY,2024-12-31,12,segment,LaboratoryProductsandServices,Laboratory Products and Biopharma Services,,,23002,USD,millions,reported,SEC 10-K 0000097745-25-000010
+2024,FY,2024-12-31,12,segment,LifeSciencesSolutions,Life Sciences Solutions,,,8160,USD,millions,reported,SEC 10-K 0000097745-25-000010
+2024,FY,2024-12-31,12,segment,SpecialtyDiagnostics,Specialty Diagnostics,,,4449,USD,millions,reported,SEC 10-K 0000097745-25-000010
+2025,Q1,2025-03-29,3,geography,AsiaPacific,Asia-Pacific,,,1891,USD,millions,reported,SEC 10-Q 0000097745-25-000041
+2025,Q1,2025-03-29,3,geography,Europe,Europe,,,2624,USD,millions,reported,SEC 10-Q 0000097745-25-000041
+2025,Q1,2025-03-29,3,geography,NorthAmerica,North America,,,5513,USD,millions,reported,SEC 10-Q 0000097745-25-000041
+2025,Q1,2025-03-29,3,geography,OtherRegions,Other regions,,,337,USD,millions,reported,SEC 10-Q 0000097745-25-000041
+2025,Q1,2025-03-29,3,product,Consumables,Consumables,,,4354,USD,millions,reported,SEC 10-Q 0000097745-25-000041
+2025,Q1,2025-03-29,3,product,Instruments,Instruments,,,1626,USD,millions,reported,SEC 10-Q 0000097745-25-000041
+2025,Q1,2025-03-29,3,product,Service,Service revenues,,,4384,USD,millions,reported,SEC 10-Q 0000097745-25-000041
+2025,Q1,2025-03-29,3,segment,AnalyticalInstruments,Analytical Instruments,,,1677,USD,millions,reported,SEC 10-Q 0000097745-25-000041
+2025,Q1,2025-03-29,3,segment,LaboratoryProductsandServices,Laboratory Products and Biopharma Services,,,5603,USD,millions,reported,SEC 10-Q 0000097745-25-000041
+2025,Q1,2025-03-29,3,segment,LifeSciencesSolutions,Life Sciences Solutions,,,1954,USD,millions,reported,SEC 10-Q 0000097745-25-000041
+2025,Q1,2025-03-29,3,segment,SpecialtyDiagnostics,Specialty Diagnostics,,,1130,USD,millions,reported,SEC 10-Q 0000097745-25-000041
+2025,Q2,2025-06-28,3,geography,AsiaPacific,Asia-Pacific,,,1920,USD,millions,reported,SEC 10-Q 0000097745-25-000101
+2025,Q2,2025-06-28,3,geography,Europe,Europe,,,2830,USD,millions,reported,SEC 10-Q 0000097745-25-000101
+2025,Q2,2025-06-28,3,geography,NorthAmerica,North America,,,5722,USD,millions,reported,SEC 10-Q 0000097745-25-000101
+2025,Q2,2025-06-28,3,geography,OtherRegions,Other regions,,,383,USD,millions,reported,SEC 10-Q 0000097745-25-000101
+2025,Q2,2025-06-28,3,product,Consumables,Consumables,,,4606,USD,millions,reported,SEC 10-Q 0000097745-25-000101
+2025,Q2,2025-06-28,3,product,Instruments,Instruments,,,1644,USD,millions,reported,SEC 10-Q 0000097745-25-000101
+2025,Q2,2025-06-28,3,product,Service,Service revenues,,,4605,USD,millions,reported,SEC 10-Q 0000097745-25-000101
+2025,Q2,2025-06-28,3,segment,AnalyticalInstruments,Analytical Instruments,,,1669,USD,millions,reported,SEC 10-Q 0000097745-25-000101
+2025,Q2,2025-06-28,3,segment,LaboratoryProductsAndBiopharmaServicesSegment,Laboratory Products and Biopharma Services,,,5953,USD,millions,reported,SEC 10-Q 0000097745-25-000101
+2025,Q2,2025-06-28,3,segment,LifeSciencesSolutions,Life Sciences Solutions,,,2115,USD,millions,reported,SEC 10-Q 0000097745-25-000101
+2025,Q2,2025-06-28,3,segment,SpecialtyDiagnostics,Specialty Diagnostics,,,1118,USD,millions,reported,SEC 10-Q 0000097745-25-000101
+2025,Q3,2025-09-27,3,geography,AsiaPacific,Asia-Pacific,,,2013,USD,millions,reported,SEC 10-Q 0000097745-25-000159
+2025,Q3,2025-09-27,3,geography,Europe,Europe,,,3005,USD,millions,reported,SEC 10-Q 0000097745-25-000159
+2025,Q3,2025-09-27,3,geography,NorthAmerica,North America,,,5689,USD,millions,reported,SEC 10-Q 0000097745-25-000159
+2025,Q3,2025-09-27,3,geography,OtherRegions,Other regions,,,415,USD,millions,reported,SEC 10-Q 0000097745-25-000159
+2025,Q3,2025-09-27,3,product,Consumables,Consumables,,,4679,USD,millions,reported,SEC 10-Q 0000097745-25-000159
+2025,Q3,2025-09-27,3,product,Instruments,Instruments,,,1811,USD,millions,reported,SEC 10-Q 0000097745-25-000159
+2025,Q3,2025-09-27,3,product,Service,Service revenues,,,4633,USD,millions,reported,SEC 10-Q 0000097745-25-000159
+2025,Q3,2025-09-27,3,segment,AnalyticalInstruments,Analytical Instruments,,,1847,USD,millions,reported,SEC 10-Q 0000097745-25-000159
+2025,Q3,2025-09-27,3,segment,LaboratoryProductsAndBiopharmaServices,Laboratory Products and Biopharma Services,,,5927,USD,millions,reported,SEC 10-Q 0000097745-25-000159
+2025,Q3,2025-09-27,3,segment,LifeSciencesSolutions,Life Sciences Solutions,,,2194,USD,millions,reported,SEC 10-Q 0000097745-25-000159
+2025,Q3,2025-09-27,3,segment,SpecialtyDiagnostics,Specialty Diagnostics,,,1154,USD,millions,reported,SEC 10-Q 0000097745-25-000159
+2025,Q4,2025-12-31,3,product,Consumables,Consumables,,,5026,USD,millions,derived,SEC 10-K 0000097745-26-000018 − 10-Q 0000097745-25-000159
+2025,Q4,2025-12-31,3,product,Instruments,Instruments,,,2221,USD,millions,derived,SEC 10-K 0000097745-26-000018 − 10-Q 0000097745-25-000159
+2025,Q4,2025-12-31,3,product,Service,Service revenues,,,4969,USD,millions,derived,SEC 10-K 0000097745-26-000018 − 10-Q 0000097745-25-000159
+2025,Q4,2025-12-31,3,segment,AnalyticalInstruments,Analytical Instruments,,,2160,USD,millions,derived,SEC 10-K 0000097745-26-000018 − 10-Q 0000097745-25-000159
+2025,Q4,2025-12-31,3,segment,LaboratoryProductsAndBiopharmaServices,Laboratory Products and Biopharma Services,,,6335,USD,millions,derived,SEC 10-K 0000097745-26-000018 − 10-Q 0000097745-25-000159
+2025,Q4,2025-12-31,3,segment,LifeSciencesSolutions,Life Sciences Solutions,,,2518,USD,millions,derived,SEC 10-K 0000097745-26-000018 − 10-Q 0000097745-25-000159
+2025,Q4,2025-12-31,3,segment,SpecialtyDiagnostics,Specialty Diagnostics,,,1202,USD,millions,derived,SEC 10-K 0000097745-26-000018 − 10-Q 0000097745-25-000159
+2025,FY,2025-12-31,12,geography,NonUs,Other,,,22316,USD,millions,reported,SEC 10-K 0000097745-26-000018
+2025,FY,2025-12-31,12,geography,US,United States,,,22240,USD,millions,reported,SEC 10-K 0000097745-26-000018
+2025,FY,2025-12-31,12,product,Consumables,Consumables,,,18664,USD,millions,reported,SEC 10-K 0000097745-26-000018
+2025,FY,2025-12-31,12,product,Instruments,Instruments,,,7301,USD,millions,reported,SEC 10-K 0000097745-26-000018
+2025,FY,2025-12-31,12,product,Service,Service revenues,,,18592,USD,millions,reported,SEC 10-K 0000097745-26-000018
+2025,FY,2025-12-31,12,segment,AnalyticalInstruments,Analytical Instruments,,,7353,USD,millions,reported,SEC 10-K 0000097745-26-000018
+2025,FY,2025-12-31,12,segment,LaboratoryProductsAndBiopharmaServices,Laboratory Products and Biopharma Services,,,23818,USD,millions,reported,SEC 10-K 0000097745-26-000018
+2025,FY,2025-12-31,12,segment,LifeSciencesSolutions,Life Sciences Solutions,,,8781,USD,millions,reported,SEC 10-K 0000097745-26-000018
+2025,FY,2025-12-31,12,segment,SpecialtyDiagnostics,Specialty Diagnostics,,,4604,USD,millions,reported,SEC 10-K 0000097745-26-000018
+2026,Q1,2026-03-28,3,geography,AsiaPacific,Asia-Pacific,,,1970,USD,millions,reported,SEC 10-Q 0000097745-26-000092
+2026,Q1,2026-03-28,3,geography,Europe,Europe,,,2957,USD,millions,reported,SEC 10-Q 0000097745-26-000092
+2026,Q1,2026-03-28,3,geography,NorthAmerica,North America,,,5705,USD,millions,reported,SEC 10-Q 0000097745-26-000092
+2026,Q1,2026-03-28,3,geography,OtherRegions,Other regions,,,372,USD,millions,reported,SEC 10-Q 0000097745-26-000092
+2026,Q1,2026-03-28,3,product,Consumables,Consumables,,,4722,USD,millions,reported,SEC 10-Q 0000097745-26-000092
+2026,Q1,2026-03-28,3,product,Instruments,Instruments,,,1555,USD,millions,reported,SEC 10-Q 0000097745-26-000092
+2026,Q1,2026-03-28,3,product,Service,Service revenues,,,4728,USD,millions,reported,SEC 10-Q 0000097745-26-000092
+2026,Q1,2026-03-28,3,segment,AnalyticalInstruments,Analytical Instruments,,,1667,USD,millions,reported,SEC 10-Q 0000097745-26-000092
+2026,Q1,2026-03-28,3,segment,LaboratoryProductsAndBiopharmaServices,Laboratory Products and Biopharma Services,,,5995,USD,millions,reported,SEC 10-Q 0000097745-26-000092
+2026,Q1,2026-03-28,3,segment,LifeSciencesSolutions,Life Sciences Solutions,,,2219,USD,millions,reported,SEC 10-Q 0000097745-26-000092
+2026,Q1,2026-03-28,3,segment,SpecialtyDiagnostics,Specialty Diagnostics,,,1124,USD,millions,reported,SEC 10-Q 0000097745-26-000092
+2026,Q2,2026-06-27,3,geography,AsiaPacific,Asia-Pacific,,,2104,USD,millions,reported,SEC 10-Q 0000097745-26-000144
+2026,Q2,2026-06-27,3,geography,Europe,Europe,,,3311,USD,millions,reported,SEC 10-Q 0000097745-26-000144
+2026,Q2,2026-06-27,3,geography,NorthAmerica,North America,,,6149,USD,millions,reported,SEC 10-Q 0000097745-26-000144
+2026,Q2,2026-06-27,3,geography,OtherRegions,Other regions,,,430,USD,millions,reported,SEC 10-Q 0000097745-26-000144
+2026,Q2,2026-06-27,3,product,Service,Service revenues,,,5171,USD,millions,reported,SEC 10-Q 0000097745-26-000144
+2026,Q2,2026-06-27,3,product,ProductConsumables,Consumables,,Product revenues,5073,USD,millions,reported,SEC 10-Q 0000097745-26-000144
+2026,Q2,2026-06-27,3,product,ProductInstruments,Instruments,,Product revenues,1750,USD,millions,reported,SEC 10-Q 0000097745-26-000144
+2026,Q2,2026-06-27,3,segment,AnalyticalInstruments,Analytical Instruments,,,1799,USD,millions,reported,SEC 10-Q 0000097745-26-000144
+2026,Q2,2026-06-27,3,segment,LaboratoryProductsAndBiopharmaServices,Laboratory Products and Biopharma Services,,,6652,USD,millions,reported,SEC 10-Q 0000097745-26-000144
+2026,Q2,2026-06-27,3,segment,LifeSciencesSolutions,Life Sciences Solutions,,,2355,USD,millions,reported,SEC 10-Q 0000097745-26-000144
+2026,Q2,2026-06-27,3,segment,SpecialtyDiagnostics,Specialty Diagnostics,,,1188,USD,millions,reported,SEC 10-Q 0000097745-26-000144
+2026,Q3,2026-09-26,3,geography,AsiaPacific,Asia-Pacific,,,2240,USD,millions,reported,SEC 10-Q 0000097745-26-000179
+2026,Q3,2026-09-26,3,geography,Europe,Europe,,,3201,USD,millions,reported,SEC 10-Q 0000097745-26-000179
+2026,Q3,2026-09-26,3,geography,NorthAmerica,North America,,,6266,USD,millions,reported,SEC 10-Q 0000097745-26-000179
+2026,Q3,2026-09-26,3,geography,OtherRegions,Other regions,,,430,USD,millions,reported,SEC 10-Q 0000097745-26-000179
+2026,Q3,2026-09-26,3,product,Service,Service revenues,,,5384,USD,millions,reported,SEC 10-Q 0000097745-26-000179
+2026,Q3,2026-09-26,3,product,ProductConsumables,Consumables,,Product revenues,4870,USD,millions,reported,SEC 10-Q 0000097745-26-000179
+2026,Q3,2026-09-26,3,product,ProductInstruments,Instruments,,Product revenues,1883,USD,millions,reported,SEC 10-Q 0000097745-26-000179
+2026,Q3,2026-09-26,3,segment,AnalyticalInstruments,Analytical Instruments,,,1948,USD,millions,reported,SEC 10-Q 0000097745-26-000179
+2026,Q3,2026-09-26,3,segment,LaboratoryProductsAndBiopharmaServices,Laboratory Products and Biopharma Services,,,6820,USD,millions,reported,SEC 10-Q 0000097745-26-000179
+2026,Q3,2026-09-26,3,segment,LifeSciencesSolutions,Life Sciences Solutions,,,2279,USD,millions,reported,SEC 10-Q 0000097745-26-000179
+2026,Q3,2026-09-26,3,segment,SpecialtyDiagnostics,Specialty Diagnostics,,,1090,USD,millions,reported,SEC 10-Q 0000097745-26-000179

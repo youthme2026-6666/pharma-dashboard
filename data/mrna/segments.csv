@@ -1,0 +1,125 @@
+fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,value,currency,unit,basis,source
+2021,Q1,2021-03-31,3,product,CollaborationArrangement,Collaboration revenue,,Other,10,USD,millions,reported,SEC 10-Q 0001682852-21-000017
+2021,Q1,2021-03-31,3,product,Grant,Grant revenue,,Other,194,USD,millions,reported,SEC 10-Q 0001682852-21-000017
+2021,Q1,2021-03-31,3,product,ProductSales,Product sales,,Vaccines,1733,USD,millions,reported,SEC 10-Q 0001682852-21-000017
+2021,Q2,2021-06-30,3,product,CollaborationArrangement,Collaboration revenue,,Other,18,USD,millions,reported,SEC 10-Q 0001682852-21-000022
+2021,Q2,2021-06-30,3,product,Grant,Grant revenue,,Other,139,USD,millions,reported,SEC 10-Q 0001682852-21-000022
+2021,Q2,2021-06-30,3,product,ProductSales,Product sales,,Vaccines,4197,USD,millions,reported,SEC 10-Q 0001682852-21-000022
+2021,Q3,2021-09-30,3,product,CollaborationArrangement,Collaboration revenue,,Other,19,USD,millions,reported,SEC 10-Q 0001682852-21-000027
+2021,Q3,2021-09-30,3,product,Grant,Grant revenue,,Other,140,USD,millions,reported,SEC 10-Q 0001682852-21-000027
+2021,Q3,2021-09-30,3,product,ProductSales,Product sales,,Vaccines,4810,USD,millions,reported,SEC 10-Q 0001682852-21-000027
+2021,Q4,2021-12-31,3,product,CollaborationArrangement,Collaboration revenue,,Other,14,USD,millions,derived,SEC 10-K 0001682852-22-000012 − 10-Q 0001682852-21-000027
+2021,Q4,2021-12-31,3,product,Grant,Grant revenue,,Other,262,USD,millions,derived,SEC 10-K 0001682852-22-000012 − 10-Q 0001682852-21-000027
+2021,Q4,2021-12-31,3,product,ProductSales,Product sales,,Vaccines,6935,USD,millions,derived,SEC 10-K 0001682852-22-000012 − 10-Q 0001682852-21-000027
+2021,FY,2021-12-31,12,geography,Europe,Europe,,,6846,USD,millions,reported,SEC 10-K 0001682852-22-000012
+2021,FY,2021-12-31,12,geography,RestOfWorld,Rest of world,,,5448,USD,millions,reported,SEC 10-K 0001682852-22-000012
+2021,FY,2021-12-31,12,geography,US,United States,,,6177,USD,millions,reported,SEC 10-K 0001682852-22-000012
+2021,FY,2021-12-31,12,product,CollaborationArrangement,Collaboration revenue,,Other,61,USD,millions,reported,SEC 10-K 0001682852-22-000012
+2021,FY,2021-12-31,12,product,Grant,Grant revenue,,Other,735,USD,millions,reported,SEC 10-K 0001682852-22-000012
+2021,FY,2021-12-31,12,product,ProductSales,Product sales,,Vaccines,17675,USD,millions,reported,SEC 10-K 0001682852-22-000012
+2022,Q1,2022-03-31,3,product,CollaborationArrangement,Collaboration revenue,,Other,15,USD,millions,reported,SEC 10-Q 0001682852-22-000025
+2022,Q1,2022-03-31,3,product,Grant,Grant revenue,,Other,126,USD,millions,reported,SEC 10-Q 0001682852-22-000025
+2022,Q1,2022-03-31,3,product,ProductSales,Product sales,,Vaccines,5925,USD,millions,reported,SEC 10-Q 0001682852-22-000025
+2022,Q2,2022-06-30,3,product,CollaborationArrangement,Collaboration revenue,,Other,35,USD,millions,reported,SEC 10-Q 0001682852-22-000042
+2022,Q2,2022-06-30,3,product,Grant,Grant revenue,,Other,183,USD,millions,reported,SEC 10-Q 0001682852-22-000042
+2022,Q2,2022-06-30,3,product,ProductSales,Product sales,,Vaccines,4531,USD,millions,reported,SEC 10-Q 0001682852-22-000042
+2022,Q3,2022-09-30,3,product,CollaborationArrangement,Collaboration revenue,,Other,100,USD,millions,reported,SEC 10-Q 0001682852-22-000051
+2022,Q3,2022-09-30,3,product,Grant,Grant revenue,,Other,144,USD,millions,reported,SEC 10-Q 0001682852-22-000051
+2022,Q3,2022-09-30,3,product,ProductSales,Product sales,,Vaccines,3120,USD,millions,reported,SEC 10-Q 0001682852-22-000051
+2022,Q4,2022-12-31,3,product,CollaborationArrangement,Collaboration revenue,,Other,290,USD,millions,derived,SEC 10-K 0001682852-23-000011 − 10-Q 0001682852-22-000051
+2022,Q4,2022-12-31,3,product,Grant,Grant revenue,,Other,-65,USD,millions,derived,SEC 10-K 0001682852-23-000011 − 10-Q 0001682852-22-000051
+2022,Q4,2022-12-31,3,product,ProductSales,Product sales,,Vaccines,4859,USD,millions,derived,SEC 10-K 0001682852-23-000011 − 10-Q 0001682852-22-000051
+2022,FY,2022-12-31,12,geography,Europe,Europe,,,6815,USD,millions,reported,SEC 10-K 0001682852-23-000011
+2022,FY,2022-12-31,12,geography,RestOfWorld,Rest of world,,,7298,USD,millions,reported,SEC 10-K 0001682852-23-000011
+2022,FY,2022-12-31,12,geography,US,United States,,,5150,USD,millions,reported,SEC 10-K 0001682852-23-000011
+2022,FY,2022-12-31,12,product,CollaborationArrangement,Collaboration revenue,,Other,440,USD,millions,reported,SEC 10-K 0001682852-23-000011
+2022,FY,2022-12-31,12,product,Grant,Grant revenue,,Other,388,USD,millions,reported,SEC 10-K 0001682852-23-000011
+2022,FY,2022-12-31,12,product,ProductSales,Product sales,,Vaccines,18435,USD,millions,reported,SEC 10-K 0001682852-23-000011
+2023,Q1,2023-03-31,3,product,CollaborationArrangementIncludingArrangementsWithAffiliate,Collaboration Revenue by Strategic Collaborator:,,Other,10,USD,millions,reported,SEC 10-Q 0001682852-23-000021
+2023,Q1,2023-03-31,3,product,Grant,Grant revenue,,Other,24,USD,millions,reported,SEC 10-Q 0001682852-23-000021
+2023,Q1,2023-03-31,3,product,ProductSales,Product sales,,Vaccines,1828,USD,millions,reported,SEC 10-Q 0001682852-23-000021
+2023,Q2,2023-06-30,3,product,CollaborationArrangementIncludingArrangementsWithAffiliate,"Collaboration Arrangement, Including Arrangements With Affiliate",,Other,23,USD,millions,reported,SEC 10-Q 0001682852-23-000027
+2023,Q2,2023-06-30,3,product,Grant,Grant revenue,,Other,28,USD,millions,reported,SEC 10-Q 0001682852-23-000027
+2023,Q2,2023-06-30,3,product,ProductSales,Product sales,,Vaccines,293,USD,millions,reported,SEC 10-Q 0001682852-23-000027
+2023,Q3,2023-09-30,3,product,CollaborationArrangementIncludingArrangementsWithAffiliate,"Collaboration Arrangement, Including Arrangements With Affiliate",,Other,30,USD,millions,reported,SEC 10-Q 0001682852-23-000042
+2023,Q3,2023-09-30,3,product,Grant,Grant revenue,,Other,44,USD,millions,reported,SEC 10-Q 0001682852-23-000042
+2023,Q3,2023-09-30,3,product,ProductSales,Net product sales,,Vaccines,1757,USD,millions,reported,SEC 10-Q 0001682852-23-000042
+2023,Q4,2023-12-31,3,product,CollaborationArrangementIncludingArrangementsWithAffiliate,Collaboration Arrangement Including Arrangements With Affiliate,,Other,20,USD,millions,derived,SEC 10-K 0001682852-24-000015 − 10-Q 0001682852-23-000042
+2023,Q4,2023-12-31,3,product,Grant,Grant revenue,,Other,-2,USD,millions,derived,SEC 10-K 0001682852-24-000015 − 10-Q 0001682852-23-000042
+2023,Q4,2023-12-31,3,product,ProductSales,Net product sales,,Vaccines,2793,USD,millions,derived,SEC 10-K 0001682852-24-000015 − 10-Q 0001682852-23-000042
+2023,FY,2023-12-31,12,geography,Europe,Europe,,,1355,USD,millions,reported,SEC 10-K 0001682852-24-000015
+2023,FY,2023-12-31,12,geography,RestOfWorld,Rest of world,,,3598,USD,millions,reported,SEC 10-K 0001682852-24-000015
+2023,FY,2023-12-31,12,geography,US,United States,,,1895,USD,millions,reported,SEC 10-K 0001682852-24-000015
+2023,FY,2023-12-31,12,product,CollaborationArrangementIncludingArrangementsWithAffiliate,Collaboration Arrangement Including Arrangements With Affiliate,,Other,83,USD,millions,reported,SEC 10-K 0001682852-24-000015
+2023,FY,2023-12-31,12,product,Grant,Grant revenue,,Other,94,USD,millions,reported,SEC 10-K 0001682852-24-000015
+2023,FY,2023-12-31,12,product,ProductSales,Net product sales,,Vaccines,6671,USD,millions,reported,SEC 10-K 0001682852-24-000015
+2024,Q1,2024-03-31,3,product,CollaborationArrangementIncludingArrangementsWithAffiliate,"Collaboration Arrangement, Including Arrangements With Affiliate",,Other,0,USD,millions,reported,SEC 10-Q 0001682852-24-000027
+2024,Q1,2024-03-31,3,product,Grant,Grant revenue,,Other,0,USD,millions,reported,SEC 10-Q 0001682852-24-000027
+2024,Q1,2024-03-31,3,product,ProductSales,Net product sales,,Vaccines,167,USD,millions,reported,SEC 10-Q 0001682852-24-000027
+2024,Q2,2024-06-30,3,product,CollaborationArrangementIncludingArrangementsWithAffiliate,"Collaboration Arrangement, Including Arrangements With Affiliate",,Other,7,USD,millions,reported,SEC 10-Q 0001682852-24-000046
+2024,Q2,2024-06-30,3,product,Grant,Grant revenue,,Other,20,USD,millions,reported,SEC 10-Q 0001682852-24-000046
+2024,Q2,2024-06-30,3,product,LicenseAndRoyalty,Licensing and royalty revenue,,Other,30,USD,millions,reported,SEC 10-Q 0001682852-24-000046
+2024,Q2,2024-06-30,3,product,ProductSales,Net product sales,,Vaccines,184,USD,millions,reported,SEC 10-Q 0001682852-24-000046
+2024,Q3,2024-09-30,3,product,COVID19,COVID-19,,Net product sales,1810,USD,millions,reported,SEC 10-Q 0001682852-24-000060
+2024,Q3,2024-09-30,3,product,RSV,RSV,,Net product sales,10,USD,millions,reported,SEC 10-Q 0001682852-24-000060
+2024,Q3,2024-09-30,3,product,CollaborationArrangementIncludingArrangementsWithAffiliate,"Collaboration Arrangement, Including Arrangements With Affiliate",,Other,28,USD,millions,reported,SEC 10-Q 0001682852-24-000060
+2024,Q3,2024-09-30,3,product,Grant,Grant revenue,,Other,7,USD,millions,reported,SEC 10-Q 0001682852-24-000060
+2024,Q3,2024-09-30,3,product,LicenseAndRoyalty,Licensing and royalty revenue,,Other,7,USD,millions,reported,SEC 10-Q 0001682852-24-000060
+2024,Q4,2024-12-31,3,product,COVID19,COVID,,Infectious Disease,923,USD,millions,derived,SEC 10-K 0001682852-25-000022 − 10-Q 0001682852-24-000060
+2024,Q4,2024-12-31,3,product,RSV,RSV,,Infectious Disease,15,USD,millions,derived,SEC 10-K 0001682852-25-000022 − 10-Q 0001682852-24-000060
+2024,Q4,2024-12-31,3,product,CollaborationArrangementIncludingArrangementsWithAffiliate,Collaboration Arrangement Including Arrangements With Affiliate,,Other,13,USD,millions,derived,SEC 10-K 0001682852-25-000022 − 10-Q 0001682852-24-000060
+2024,Q4,2024-12-31,3,product,Grant,Grant revenue,,Other,10,USD,millions,derived,SEC 10-K 0001682852-25-000022 − 10-Q 0001682852-24-000060
+2024,Q4,2024-12-31,3,product,LicenseAndRoyalty,Licensing and royalty revenue,,Other,5,USD,millions,derived,SEC 10-K 0001682852-25-000022 − 10-Q 0001682852-24-000060
+2024,FY,2024-12-31,12,geography,Europe,Europe,,,598,USD,millions,reported,SEC 10-K 0001682852-25-000022
+2024,FY,2024-12-31,12,geography,RestOfWorld,Rest of world,,,853,USD,millions,reported,SEC 10-K 0001682852-25-000022
+2024,FY,2024-12-31,12,geography,US,United States,,,1785,USD,millions,reported,SEC 10-K 0001682852-25-000022
+2024,FY,2024-12-31,12,product,COVID19,COVID,,Infectious Disease,3084,USD,millions,reported,SEC 10-K 0001682852-25-000022
+2024,FY,2024-12-31,12,product,RSV,RSV,,Infectious Disease,25,USD,millions,reported,SEC 10-K 0001682852-25-000022
+2024,FY,2024-12-31,12,product,CollaborationArrangementIncludingArrangementsWithAffiliate,Collaboration Arrangement Including Arrangements With Affiliate,,Other,48,USD,millions,reported,SEC 10-K 0001682852-25-000022
+2024,FY,2024-12-31,12,product,Grant,Grant revenue,,Other,37,USD,millions,reported,SEC 10-K 0001682852-25-000022
+2024,FY,2024-12-31,12,product,LicenseAndRoyalty,Licensing and royalty revenue,,Other,42,USD,millions,reported,SEC 10-K 0001682852-25-000022
+2025,Q1,2025-03-31,3,product,OtherRevenue,Other revenue,,,12,USD,millions,reported,SEC 10-Q 0001682852-25-000034
+2025,Q1,2025-03-31,3,product,COVID19,COVID-19,,Net product sales,84,USD,millions,reported,SEC 10-Q 0001682852-25-000034
+2025,Q1,2025-03-31,3,product,RSV,RSV,,Net product sales,2,USD,millions,reported,SEC 10-Q 0001682852-25-000034
+2025,Q1,2025-03-31,3,product,CollaborationArrangementIncludingArrangementsWithAffiliate,"Collaboration Arrangement, Including Arrangements With Affiliate",,Other,1,USD,millions,reported,SEC 10-Q 0001682852-25-000034
+2025,Q1,2025-03-31,3,product,Grant,Grant revenue,,Other,1,USD,millions,reported,SEC 10-Q 0001682852-25-000034
+2025,Q1,2025-03-31,3,product,LicenseAndRoyalty,Licensing and royalty revenue,,Other,8,USD,millions,reported,SEC 10-Q 0001682852-25-000034
+2025,Q2,2025-06-30,3,product,OtherRevenue,Other revenue,,,17,USD,millions,reported,SEC 10-Q 0001682852-25-000044
+2025,Q2,2025-06-30,3,product,COVID19,COVID,,Net product sales,114,USD,millions,reported,SEC 10-Q 0001682852-25-000044
+2025,Q2,2025-06-30,3,product,RSV,RSV,,Net product sales,0,USD,millions,reported,SEC 10-Q 0001682852-25-000044
+2025,Q2,2025-06-30,3,product,CollaborationArrangementIncludingArrangementsWithAffiliate,"Collaboration Arrangement, Including Arrangements With Affiliate",,Other,4,USD,millions,reported,SEC 10-Q 0001682852-25-000044
+2025,Q2,2025-06-30,3,product,Grant,Grant revenue,,Other,5,USD,millions,reported,SEC 10-Q 0001682852-25-000044
+2025,Q2,2025-06-30,3,product,LicenseAndRoyalty,Licensing and royalty revenue,,Other,2,USD,millions,reported,SEC 10-Q 0001682852-25-000044
+2025,Q3,2025-09-30,3,product,OtherRevenue,Other revenue,,,20,USD,millions,reported,SEC 10-Q 0001682852-25-000075
+2025,Q3,2025-09-30,3,product,COVID19,COVID(1),,Net product sales,971,USD,millions,reported,SEC 10-Q 0001682852-25-000075
+2025,Q3,2025-09-30,3,product,RSV,RSV,,Net product sales,2,USD,millions,reported,SEC 10-Q 0001682852-25-000075
+2025,Q3,2025-09-30,3,product,CollaborationArrangementIncludingArrangementsWithAffiliate,"Collaboration Arrangement, Including Arrangements With Affiliate",,Other,7,USD,millions,reported,SEC 10-Q 0001682852-25-000075
+2025,Q3,2025-09-30,3,product,Grant,Grant revenue,,Other,14,USD,millions,reported,SEC 10-Q 0001682852-25-000075
+2025,Q3,2025-09-30,3,product,LicenseAndRoyalty,Licensing and royalty revenue,,Other,2,USD,millions,reported,SEC 10-Q 0001682852-25-000075
+2025,FY,2025-12-31,12,geography,Europe,Europe,,,53,USD,millions,reported,SEC 10-K 0001682852-26-000033
+2025,FY,2025-12-31,12,geography,RestOfWorld,Rest of world,,,692,USD,millions,reported,SEC 10-K 0001682852-26-000033
+2025,FY,2025-12-31,12,geography,US,United States,,,1199,USD,millions,reported,SEC 10-K 0001682852-26-000033
+2025,FY,2025-12-31,12,product,COVID19,COVID,,Infectious Disease,1810,USD,millions,reported,SEC 10-K 0001682852-26-000033
+2025,FY,2025-12-31,12,product,RSV,RSV,,Infectious Disease,8,USD,millions,reported,SEC 10-K 0001682852-26-000033
+2025,FY,2025-12-31,12,product,CollaborationArrangementIncludingArrangementsWithAffiliate,Collaboration Arrangement Including Arrangements With Affiliate,,Other,13,USD,millions,reported,SEC 10-K 0001682852-26-000033
+2025,FY,2025-12-31,12,product,Grant,Grant revenue,,Other,22,USD,millions,reported,SEC 10-K 0001682852-26-000033
+2025,FY,2025-12-31,12,product,LicenseAndRoyalty,Licensing and royalty revenue,,Other,11,USD,millions,reported,SEC 10-K 0001682852-26-000033
+2025,FY,2025-12-31,12,product,StandReadyManufacturingRevenue,Stand-ready manufacturing revenue,,Other,80,USD,millions,reported,SEC 10-K 0001682852-26-000033
+2026,Q1,2026-03-31,3,product,COVID19,COVID,,Net product sales,345,USD,millions,reported,SEC 10-Q 0001682852-26-000060
+2026,Q1,2026-03-31,3,product,RSV,RSV,,Net product sales,7,USD,millions,reported,SEC 10-Q 0001682852-26-000060
+2026,Q1,2026-03-31,3,product,CollaborationArrangementIncludingArrangementsWithAffiliate,"Collaboration Arrangement, Including Arrangements With Affiliate",,Other,5,USD,millions,reported,SEC 10-Q 0001682852-26-000060
+2026,Q1,2026-03-31,3,product,Grant,Grant revenue,,Other,0,USD,millions,reported,SEC 10-Q 0001682852-26-000060
+2026,Q1,2026-03-31,3,product,LicenseAndRoyalty,Licensing and royalty revenue,,Other,0,USD,millions,reported,SEC 10-Q 0001682852-26-000060
+2026,Q1,2026-03-31,3,product,StandReadyManufacturing,Stand-ready manufacturing revenue,,Other,32,USD,millions,reported,SEC 10-Q 0001682852-26-000060
+2026,Q2,2026-06-30,3,product,COVID19,COVID,,Net product sales,91,USD,millions,reported,SEC 10-Q 0001682852-26-000150
+2026,Q2,2026-06-30,3,product,RSV,RSV,,Net product sales,3,USD,millions,reported,SEC 10-Q 0001682852-26-000150
+2026,Q2,2026-06-30,3,product,CollaborationArrangementIncludingArrangementsWithAffiliate,"Collaboration Arrangement, Including Arrangements With Affiliate",,Other,15,USD,millions,reported,SEC 10-Q 0001682852-26-000150
+2026,Q2,2026-06-30,3,product,Grant,Grant revenue,,Other,2,USD,millions,reported,SEC 10-Q 0001682852-26-000150
+2026,Q2,2026-06-30,3,product,LicenseAndRoyalty,Licensing and royalty revenue,,Other,3,USD,millions,reported,SEC 10-Q 0001682852-26-000150
+2026,Q2,2026-06-30,3,product,StandReadyManufacturing,Stand-ready manufacturing revenue,,Other,31,USD,millions,reported,SEC 10-Q 0001682852-26-000150
+2026,Q3,2026-09-30,3,product,COVID19,COVID,,Net product sales,1244,USD,millions,reported,SEC 10-Q 0001682852-26-000197
+2026,Q3,2026-09-30,3,product,RSV,RSV,,Net product sales,29,USD,millions,reported,SEC 10-Q 0001682852-26-000197
+2026,Q3,2026-09-30,3,product,CollaborationArrangementIncludingArrangementsWithAffiliate,"Collaboration Arrangement, Including Arrangements With Affiliate",,Other,8,USD,millions,reported,SEC 10-Q 0001682852-26-000197
+2026,Q3,2026-09-30,3,product,Grant,Grant revenue,,Other,1,USD,millions,reported,SEC 10-Q 0001682852-26-000197
+2026,Q3,2026-09-30,3,product,LicenseAndRoyalty,Licensing and royalty revenue,,Other,0,USD,millions,reported,SEC 10-Q 0001682852-26-000197
+2026,Q3,2026-09-30,3,product,StandReadyManufacturing,Stand-ready manufacturing revenue,,Other,31,USD,millions,reported,SEC 10-Q 0001682852-26-000197

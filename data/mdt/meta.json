@@ -1,0 +1,16 @@
+{
+  "currency": "USD",
+  "events": 0,
+  "id": "mdt",
+  "latest_period": "2027 Q1",
+  "latest_period_end": "2026-07-31",
+  "name_en": "Medtronic",
+  "name_zh": "美敦力",
+  "rows": {
+    "balance": 25,
+    "cashflow": 31,
+    "income": 31,
+    "segments": 428
+  },
+  "source": "sec"
+}

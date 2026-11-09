@@ -1,0 +1,194 @@
+fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,value,currency,unit,basis,source
+2021,Q1,2021-03-31,3,geography,Europe,Europe,,,161.841,USD,millions,reported,SEC 10-Q 0001048477-21-000016
+2021,Q1,2021-03-31,3,geography,LatinAmerica,Latin America,,,59.705,USD,millions,reported,SEC 10-Q 0001048477-21-000016
+2021,Q1,2021-03-31,3,geography,RestOfWorld,Rest of world,,,56.298,USD,millions,reported,SEC 10-Q 0001048477-21-000016
+2021,Q1,2021-03-31,3,geography,US,United States,,,208.186,USD,millions,reported,SEC 10-Q 0001048477-21-000016
+2021,Q1,2021-03-31,3,product,RoyaltyAndOther,Royalty and other revenues,,Other,18.261,USD,millions,reported,SEC 10-Q 0001048477-21-000016
+2021,Q1,2021-03-31,3,product,Product,Net product revenues,,Rare Disease,467.769,USD,millions,reported,SEC 10-Q 0001048477-21-000016
+2021,Q2,2021-06-30,3,geography,Europe,Europe,,,172.678,USD,millions,reported,SEC 10-Q 0001048477-21-000025
+2021,Q2,2021-06-30,3,geography,LatinAmerica,Latin America,,,42.248,USD,millions,reported,SEC 10-Q 0001048477-21-000025
+2021,Q2,2021-06-30,3,geography,RestOfWorld,Rest of world,,,82.522,USD,millions,reported,SEC 10-Q 0001048477-21-000025
+2021,Q2,2021-06-30,3,geography,US,United States,,,204.245,USD,millions,reported,SEC 10-Q 0001048477-21-000025
+2021,Q2,2021-06-30,3,product,RoyaltyAndOther,Royalty and other revenues,,Other,15.023,USD,millions,reported,SEC 10-Q 0001048477-21-000025
+2021,Q2,2021-06-30,3,product,Product,Net product revenues,,Rare Disease,486.67,USD,millions,reported,SEC 10-Q 0001048477-21-000025
+2021,Q3,2021-09-30,3,geography,Europe,Europe,,,115.497,USD,millions,reported,SEC 10-Q 0001048477-21-000032
+2021,Q3,2021-09-30,3,geography,LatinAmerica,Latin America,,,38.958,USD,millions,reported,SEC 10-Q 0001048477-21-000032
+2021,Q3,2021-09-30,3,geography,RestOfWorld,Rest of world,,,58.048,USD,millions,reported,SEC 10-Q 0001048477-21-000032
+2021,Q3,2021-09-30,3,geography,US,United States,,,196.239,USD,millions,reported,SEC 10-Q 0001048477-21-000032
+2021,Q3,2021-09-30,3,product,RoyaltyAndOther,Royalty and other revenues,,Other,14.902,USD,millions,reported,SEC 10-Q 0001048477-21-000032
+2021,Q3,2021-09-30,3,product,Product,Net product revenues,,Rare Disease,393.84,USD,millions,reported,SEC 10-Q 0001048477-21-000032
+2021,Q4,2021-12-31,3,product,RoyaltyAndOther,Royalty and Other Revenues,,Other,14.591,USD,millions,derived,SEC 10-K 0001048477-22-000012 − 10-Q 0001048477-21-000032
+2021,Q4,2021-12-31,3,product,Product,Product,,Rare Disease,435.219,USD,millions,derived,SEC 10-K 0001048477-22-000012 − 10-Q 0001048477-21-000032
+2021,FY,2021-12-31,12,product,RoyaltyAndOther,Royalty and Other Revenues,,Other,62.777,USD,millions,reported,SEC 10-K 0001048477-22-000012
+2021,FY,2021-12-31,12,product,Product,Product,,Rare Disease,1783.498,USD,millions,reported,SEC 10-K 0001048477-22-000012
+2022,Q1,2022-03-31,3,product,RoyaltyAndOther,Royalty and other revenues,,Other,13.834,USD,millions,reported,SEC 10-Q 0001048477-22-000018
+2022,Q1,2022-03-31,3,product,Product,Net product revenues,,Rare Disease,505.525,USD,millions,reported,SEC 10-Q 0001048477-22-000018
+2022,Q2,2022-06-30,3,product,RoyaltyAndOther,Royalty and other revenues,,Other,16.138,USD,millions,reported,SEC 10-Q 0001048477-22-000027
+2022,Q2,2022-06-30,3,product,Product,Net product revenues,,Rare Disease,517.66,USD,millions,reported,SEC 10-Q 0001048477-22-000027
+2022,Q3,2022-09-30,3,product,RoyaltyAndOther,Royalty and other revenues,,Other,11.996,USD,millions,reported,SEC 10-Q 0001048477-22-000033
+2022,Q3,2022-09-30,3,product,Product,Net product revenues,,Rare Disease,493.348,USD,millions,reported,SEC 10-Q 0001048477-22-000033
+2022,Q4,2022-12-31,3,product,RoyaltyAndOther,Royalty and other revenues,,Other,12.046,USD,millions,derived,SEC 10-K 0001048477-23-000009 − 10-Q 0001048477-22-000033
+2022,Q4,2022-12-31,3,product,Product,Product,,Rare Disease,525.492,USD,millions,derived,SEC 10-K 0001048477-23-000009 − 10-Q 0001048477-22-000033
+2022,FY,2022-12-31,12,product,RoyaltyAndOther,Royalty and other revenues,,Other,54.014,USD,millions,reported,SEC 10-K 0001048477-23-000009
+2022,FY,2022-12-31,12,product,Product,Product,,Rare Disease,2042.025,USD,millions,reported,SEC 10-K 0001048477-23-000009
+2023,Q1,2023-03-31,3,product,ALDURAZYME,ALDURAZYME,,Net product revenues,34.403,USD,millions,reported,SEC 10-Q 0001048477-24-000070
+2023,Q1,2023-03-31,3,product,BRINEURA,BRINEURA,,Net product revenues,39.144,USD,millions,reported,SEC 10-Q 0001048477-24-000070
+2023,Q1,2023-03-31,3,product,KUVAN,KUVAN,,Net product revenues,50.478,USD,millions,reported,SEC 10-Q 0001048477-24-000070
+2023,Q1,2023-03-31,3,product,NAGLAZYME,NAGLAZYME,,Net product revenues,123.021,USD,millions,reported,SEC 10-Q 0001048477-24-000070
+2023,Q1,2023-03-31,3,product,PALYNZIQ,PALYNZIQ,,Net product revenues,62.352,USD,millions,reported,SEC 10-Q 0001048477-24-000070
+2023,Q1,2023-03-31,3,product,ROCTAVIAN,ROCTAVIAN,,Net product revenues,0,USD,millions,reported,SEC 10-Q 0001048477-24-000070
+2023,Q1,2023-03-31,3,product,VIMIZIM,VIMIZIM,,Net product revenues,189.192,USD,millions,reported,SEC 10-Q 0001048477-24-000070
+2023,Q1,2023-03-31,3,product,VOXZOGO,VOXZOGO,,Net product revenues,87.836,USD,millions,reported,SEC 10-Q 0001048477-24-000070
+2023,Q1,2023-03-31,3,product,RoyaltyAndOther,Royalty and other revenues,,Other,9.989,USD,millions,reported,SEC 10-Q 0001048477-24-000070
+2023,Q2,2023-06-30,3,product,ALDURAZYME,ALDURAZYME,,Net product revenues,40.318,USD,millions,reported,SEC 10-Q 0001048477-24-000126
+2023,Q2,2023-06-30,3,product,BRINEURA,BRINEURA,,Net product revenues,38.058,USD,millions,reported,SEC 10-Q 0001048477-24-000126
+2023,Q2,2023-06-30,3,product,KUVAN,KUVAN,,Net product revenues,50.622,USD,millions,reported,SEC 10-Q 0001048477-24-000126
+2023,Q2,2023-06-30,3,product,NAGLAZYME,NAGLAZYME,,Net product revenues,90.103,USD,millions,reported,SEC 10-Q 0001048477-24-000126
+2023,Q2,2023-06-30,3,product,PALYNZIQ,PALYNZIQ,,Net product revenues,74.868,USD,millions,reported,SEC 10-Q 0001048477-24-000126
+2023,Q2,2023-06-30,3,product,ROCTAVIAN,ROCTAVIAN,,Net product revenues,0,USD,millions,reported,SEC 10-Q 0001048477-24-000126
+2023,Q2,2023-06-30,3,product,VIMIZIM,VIMIZIM,,Net product revenues,177.392,USD,millions,reported,SEC 10-Q 0001048477-24-000126
+2023,Q2,2023-06-30,3,product,VOXZOGO,VOXZOGO,,Net product revenues,113.337,USD,millions,reported,SEC 10-Q 0001048477-24-000126
+2023,Q2,2023-06-30,3,product,RoyaltyAndOther,Royalty and other revenues,,Other,10.577,USD,millions,reported,SEC 10-Q 0001048477-24-000126
+2023,Q3,2023-09-30,3,product,ALDURAZYME,ALDURAZYME,,Net product revenues,13.812,USD,millions,reported,SEC 10-Q 0001048477-24-000152
+2023,Q3,2023-09-30,3,product,BRINEURA,BRINEURA,,Net product revenues,41.042,USD,millions,reported,SEC 10-Q 0001048477-24-000152
+2023,Q3,2023-09-30,3,product,KUVAN,KUVAN,,Net product revenues,42.947,USD,millions,reported,SEC 10-Q 0001048477-24-000152
+2023,Q3,2023-09-30,3,product,NAGLAZYME,NAGLAZYME,,Net product revenues,108.916,USD,millions,reported,SEC 10-Q 0001048477-24-000152
+2023,Q3,2023-09-30,3,product,PALYNZIQ,PALYNZIQ,,Net product revenues,78.885,USD,millions,reported,SEC 10-Q 0001048477-24-000152
+2023,Q3,2023-09-30,3,product,ROCTAVIAN,ROCTAVIAN,,Net product revenues,0.822,USD,millions,reported,SEC 10-Q 0001048477-24-000152
+2023,Q3,2023-09-30,3,product,VIMIZIM,VIMIZIM,,Net product revenues,158.869,USD,millions,reported,SEC 10-Q 0001048477-24-000152
+2023,Q3,2023-09-30,3,product,VOXZOGO,VOXZOGO,,Net product revenues,122.973,USD,millions,reported,SEC 10-Q 0001048477-24-000152
+2023,Q3,2023-09-30,3,product,RoyaltyAndOther,Royalty and other revenues,,Other,13.063,USD,millions,reported,SEC 10-Q 0001048477-24-000152
+2023,Q4,2023-12-31,3,product,RoyaltyAndOther,Royalty and other revenues,,Other,13.059,USD,millions,derived,SEC 10-K 0001048477-25-000007 − 10-Q 0001048477-24-000152
+2023,Q4,2023-12-31,3,product,ALDURAZYME,ALDURAZYME,,Product,42.715,USD,millions,derived,SEC 10-K 0001048477-25-000007 − 10-Q 0001048477-24-000152
+2023,Q4,2023-12-31,3,product,BRINEURA,BRINEURA,,Product,43.645,USD,millions,derived,SEC 10-K 0001048477-25-000007 − 10-Q 0001048477-24-000152
+2023,Q4,2023-12-31,3,product,KUVAN,KUVAN,,Product,36.72,USD,millions,derived,SEC 10-K 0001048477-25-000007 − 10-Q 0001048477-24-000152
+2023,Q4,2023-12-31,3,product,NAGLAZYME,NAGLAZYME,,Product,98.252,USD,millions,derived,SEC 10-K 0001048477-25-000007 − 10-Q 0001048477-24-000152
+2023,Q4,2023-12-31,3,product,PALYNZIQ,PALYNZIQ,,Product,87.814,USD,millions,derived,SEC 10-K 0001048477-25-000007 − 10-Q 0001048477-24-000152
+2023,Q4,2023-12-31,3,product,ROCTAVIAN,ROCTAVIAN,,Product,2.667,USD,millions,derived,SEC 10-K 0001048477-25-000007 − 10-Q 0001048477-24-000152
+2023,Q4,2023-12-31,3,product,VIMIZIM,VIMIZIM,,Product,175.6,USD,millions,derived,SEC 10-K 0001048477-25-000007 − 10-Q 0001048477-24-000152
+2023,Q4,2023-12-31,3,product,VOXZOGO,VOXZOGO,,Product,145.735,USD,millions,derived,SEC 10-K 0001048477-25-000007 − 10-Q 0001048477-24-000152
+2023,FY,2023-12-31,12,product,RoyaltyAndOther,Royalty and other revenues,,Other,46.688,USD,millions,reported,SEC 10-K 0001048477-25-000007
+2023,FY,2023-12-31,12,product,ALDURAZYME,ALDURAZYME,,Product,131.248,USD,millions,reported,SEC 10-K 0001048477-25-000007
+2023,FY,2023-12-31,12,product,BRINEURA,BRINEURA,,Product,161.889,USD,millions,reported,SEC 10-K 0001048477-25-000007
+2023,FY,2023-12-31,12,product,KUVAN,KUVAN,,Product,180.767,USD,millions,reported,SEC 10-K 0001048477-25-000007
+2023,FY,2023-12-31,12,product,NAGLAZYME,NAGLAZYME,,Product,420.292,USD,millions,reported,SEC 10-K 0001048477-25-000007
+2023,FY,2023-12-31,12,product,PALYNZIQ,PALYNZIQ,,Product,303.919,USD,millions,reported,SEC 10-K 0001048477-25-000007
+2023,FY,2023-12-31,12,product,ROCTAVIAN,ROCTAVIAN,,Product,3.489,USD,millions,reported,SEC 10-K 0001048477-25-000007
+2023,FY,2023-12-31,12,product,VIMIZIM,VIMIZIM,,Product,701.053,USD,millions,reported,SEC 10-K 0001048477-25-000007
+2023,FY,2023-12-31,12,product,VOXZOGO,VOXZOGO,,Product,469.881,USD,millions,reported,SEC 10-K 0001048477-25-000007
+2024,Q1,2024-03-31,3,product,ALDURAZYME,ALDURAZYME,,Net product revenues,35.262,USD,millions,reported,SEC 10-Q 0001048477-24-000070
+2024,Q1,2024-03-31,3,product,BRINEURA,BRINEURA,,Net product revenues,39.047,USD,millions,reported,SEC 10-Q 0001048477-24-000070
+2024,Q1,2024-03-31,3,product,KUVAN,KUVAN,,Net product revenues,35.91,USD,millions,reported,SEC 10-Q 0001048477-24-000070
+2024,Q1,2024-03-31,3,product,NAGLAZYME,NAGLAZYME,,Net product revenues,105.629,USD,millions,reported,SEC 10-Q 0001048477-24-000070
+2024,Q1,2024-03-31,3,product,PALYNZIQ,PALYNZIQ,,Net product revenues,75.709,USD,millions,reported,SEC 10-Q 0001048477-24-000070
+2024,Q1,2024-03-31,3,product,ROCTAVIAN,ROCTAVIAN,,Net product revenues,0.849,USD,millions,reported,SEC 10-Q 0001048477-24-000070
+2024,Q1,2024-03-31,3,product,VIMIZIM,VIMIZIM,,Net product revenues,192.52,USD,millions,reported,SEC 10-Q 0001048477-24-000070
+2024,Q1,2024-03-31,3,product,VOXZOGO,VOXZOGO,,Net product revenues,152.889,USD,millions,reported,SEC 10-Q 0001048477-24-000070
+2024,Q1,2024-03-31,3,product,RoyaltyAndOther,Royalty and other revenues,,Other,11.018,USD,millions,reported,SEC 10-Q 0001048477-24-000070
+2024,Q2,2024-06-30,3,product,ALDURAZYME,ALDURAZYME,,Net product revenues,38.558,USD,millions,reported,SEC 10-Q 0001048477-24-000126
+2024,Q2,2024-06-30,3,product,BRINEURA,BRINEURA,,Net product revenues,45.309,USD,millions,reported,SEC 10-Q 0001048477-24-000126
+2024,Q2,2024-06-30,3,product,KUVAN,KUVAN,,Net product revenues,28.551,USD,millions,reported,SEC 10-Q 0001048477-24-000126
+2024,Q2,2024-06-30,3,product,NAGLAZYME,NAGLAZYME,,Net product revenues,132.049,USD,millions,reported,SEC 10-Q 0001048477-24-000126
+2024,Q2,2024-06-30,3,product,PALYNZIQ,PALYNZIQ,,Net product revenues,88.291,USD,millions,reported,SEC 10-Q 0001048477-24-000126
+2024,Q2,2024-06-30,3,product,ROCTAVIAN,ROCTAVIAN,,Net product revenues,7.432,USD,millions,reported,SEC 10-Q 0001048477-24-000126
+2024,Q2,2024-06-30,3,product,VIMIZIM,VIMIZIM,,Net product revenues,178.016,USD,millions,reported,SEC 10-Q 0001048477-24-000126
+2024,Q2,2024-06-30,3,product,VOXZOGO,VOXZOGO,,Net product revenues,183.923,USD,millions,reported,SEC 10-Q 0001048477-24-000126
+2024,Q2,2024-06-30,3,product,RoyaltyAndOther,Royalty and other revenues,,Other,9.9,USD,millions,reported,SEC 10-Q 0001048477-24-000126
+2024,Q3,2024-09-30,3,product,ALDURAZYME,ALDURAZYME,,Net product revenues,71.029,USD,millions,reported,SEC 10-Q 0001048477-24-000152
+2024,Q3,2024-09-30,3,product,BRINEURA,BRINEURA,,Net product revenues,37.005,USD,millions,reported,SEC 10-Q 0001048477-24-000152
+2024,Q3,2024-09-30,3,product,KUVAN,KUVAN,,Net product revenues,28.115,USD,millions,reported,SEC 10-Q 0001048477-24-000152
+2024,Q3,2024-09-30,3,product,NAGLAZYME,NAGLAZYME,,Net product revenues,131.906,USD,millions,reported,SEC 10-Q 0001048477-24-000152
+2024,Q3,2024-09-30,3,product,PALYNZIQ,PALYNZIQ,,Net product revenues,90.634,USD,millions,reported,SEC 10-Q 0001048477-24-000152
+2024,Q3,2024-09-30,3,product,ROCTAVIAN,ROCTAVIAN,,Net product revenues,7.235,USD,millions,reported,SEC 10-Q 0001048477-24-000152
+2024,Q3,2024-09-30,3,product,VIMIZIM,VIMIZIM,,Net product revenues,178.158,USD,millions,reported,SEC 10-Q 0001048477-24-000152
+2024,Q3,2024-09-30,3,product,VOXZOGO,VOXZOGO,,Net product revenues,189.785,USD,millions,reported,SEC 10-Q 0001048477-24-000152
+2024,Q3,2024-09-30,3,product,RoyaltyAndOther,Royalty and other revenues,,Other,11.873,USD,millions,reported,SEC 10-Q 0001048477-24-000152
+2024,Q4,2024-12-31,3,product,RoyaltyAndOther,Royalty and other revenues,,Other,11.679,USD,millions,derived,SEC 10-K 0001048477-25-000007 − 10-Q 0001048477-24-000152
+2024,Q4,2024-12-31,3,product,ALDURAZYME,ALDURAZYME,,Product,39.038,USD,millions,derived,SEC 10-K 0001048477-25-000007 − 10-Q 0001048477-24-000152
+2024,Q4,2024-12-31,3,product,BRINEURA,BRINEURA,,Product,47.722,USD,millions,derived,SEC 10-K 0001048477-25-000007 − 10-Q 0001048477-24-000152
+2024,Q4,2024-12-31,3,product,KUVAN,KUVAN,,Product,28.326,USD,millions,derived,SEC 10-K 0001048477-25-000007 − 10-Q 0001048477-24-000152
+2024,Q4,2024-12-31,3,product,NAGLAZYME,NAGLAZYME,,Product,110,USD,millions,derived,SEC 10-K 0001048477-25-000007 − 10-Q 0001048477-24-000152
+2024,Q4,2024-12-31,3,product,PALYNZIQ,PALYNZIQ,,Product,100.413,USD,millions,derived,SEC 10-K 0001048477-25-000007 − 10-Q 0001048477-24-000152
+2024,Q4,2024-12-31,3,product,ROCTAVIAN,ROCTAVIAN,,Product,10.55,USD,millions,derived,SEC 10-K 0001048477-25-000007 − 10-Q 0001048477-24-000152
+2024,Q4,2024-12-31,3,product,VIMIZIM,VIMIZIM,,Product,191.09,USD,millions,derived,SEC 10-K 0001048477-25-000007 − 10-Q 0001048477-24-000152
+2024,Q4,2024-12-31,3,product,VOXZOGO,VOXZOGO,,Product,208.495,USD,millions,derived,SEC 10-K 0001048477-25-000007 − 10-Q 0001048477-24-000152
+2024,FY,2024-12-31,12,product,RoyaltyAndOther,Royalty and other revenues,,Other,44.47,USD,millions,reported,SEC 10-K 0001048477-25-000007
+2024,FY,2024-12-31,12,product,ALDURAZYME,ALDURAZYME,,Product,183.887,USD,millions,reported,SEC 10-K 0001048477-25-000007
+2024,FY,2024-12-31,12,product,BRINEURA,BRINEURA,,Product,169.083,USD,millions,reported,SEC 10-K 0001048477-25-000007
+2024,FY,2024-12-31,12,product,KUVAN,KUVAN,,Product,120.902,USD,millions,reported,SEC 10-K 0001048477-25-000007
+2024,FY,2024-12-31,12,product,NAGLAZYME,NAGLAZYME,,Product,479.584,USD,millions,reported,SEC 10-K 0001048477-25-000007
+2024,FY,2024-12-31,12,product,PALYNZIQ,PALYNZIQ,,Product,355.047,USD,millions,reported,SEC 10-K 0001048477-25-000007
+2024,FY,2024-12-31,12,product,ROCTAVIAN,ROCTAVIAN,,Product,26.066,USD,millions,reported,SEC 10-K 0001048477-25-000007
+2024,FY,2024-12-31,12,product,VIMIZIM,VIMIZIM,,Product,739.784,USD,millions,reported,SEC 10-K 0001048477-25-000007
+2024,FY,2024-12-31,12,product,VOXZOGO,VOXZOGO,,Product,735.092,USD,millions,reported,SEC 10-K 0001048477-25-000007
+2025,Q1,2025-03-31,3,product,ALDURAZYME,ALDURAZYME,,Net product revenues,48.977,USD,millions,reported,SEC 10-Q 0001048477-26-000008
+2025,Q1,2025-03-31,3,product,BRINEURA,BRINEURA,,Net product revenues,40.362,USD,millions,reported,SEC 10-Q 0001048477-26-000008
+2025,Q1,2025-03-31,3,product,KUVAN,KUVAN,,Net product revenues,25.136,USD,millions,reported,SEC 10-Q 0001048477-26-000008
+2025,Q1,2025-03-31,3,product,NAGLAZYME,NAGLAZYME,,Net product revenues,114.29,USD,millions,reported,SEC 10-Q 0001048477-26-000008
+2025,Q1,2025-03-31,3,product,PALYNZIQ,PALYNZIQ,,Net product revenues,93.269,USD,millions,reported,SEC 10-Q 0001048477-26-000008
+2025,Q1,2025-03-31,3,product,ROCTAVIAN,ROCTAVIAN,,Net product revenues,10.51,USD,millions,reported,SEC 10-Q 0001048477-26-000008
+2025,Q1,2025-03-31,3,product,VIMIZIM,VIMIZIM,,Net product revenues,188.346,USD,millions,reported,SEC 10-Q 0001048477-26-000008
+2025,Q1,2025-03-31,3,product,VOXZOGO,VOXZOGO,,Net product revenues,213.754,USD,millions,reported,SEC 10-Q 0001048477-26-000008
+2025,Q1,2025-03-31,3,product,RoyaltyAndOther,Royalty and other revenues,,Other,10.501,USD,millions,reported,SEC 10-Q 0001048477-26-000008
+2025,Q2,2025-06-30,3,product,ALDURAZYME,ALDURAZYME,,Net product revenues,56.437,USD,millions,reported,SEC 10-Q 0001048477-26-000016
+2025,Q2,2025-06-30,3,product,BRINEURA,BRINEURA,,Net product revenues,48.692,USD,millions,reported,SEC 10-Q 0001048477-26-000016
+2025,Q2,2025-06-30,3,product,GALAFOLD,GALAFOLD,,Net product revenues,0,USD,millions,reported,SEC 10-Q 0001048477-26-000016
+2025,Q2,2025-06-30,3,product,KUVAN,KUVAN,,Net product revenues,27.034,USD,millions,reported,SEC 10-Q 0001048477-26-000016
+2025,Q2,2025-06-30,3,product,NAGLAZYME,NAGLAZYME,,Net product revenues,128.867,USD,millions,reported,SEC 10-Q 0001048477-26-000016
+2025,Q2,2025-06-30,3,product,PALYNZIQ,PALYNZIQ,,Net product revenues,105.938,USD,millions,reported,SEC 10-Q 0001048477-26-000016
+2025,Q2,2025-06-30,3,product,POMBILITIOPFOLDA,POMBILITI + OPFOLDA,,Net product revenues,0,USD,millions,reported,SEC 10-Q 0001048477-26-000016
+2025,Q2,2025-06-30,3,product,ROCTAVIAN,ROCTAVIAN,,Net product revenues,9.199,USD,millions,reported,SEC 10-Q 0001048477-26-000016
+2025,Q2,2025-06-30,3,product,VIMIZIM,VIMIZIM,,Net product revenues,215.424,USD,millions,reported,SEC 10-Q 0001048477-26-000016
+2025,Q2,2025-06-30,3,product,VOXZOGO,VOXZOGO,,Net product revenues,221.391,USD,millions,reported,SEC 10-Q 0001048477-26-000016
+2025,Q2,2025-06-30,3,product,RoyaltyAndOther,Royalty and other revenues,,Other,12.428,USD,millions,reported,SEC 10-Q 0001048477-26-000016
+2025,Q3,2025-09-30,3,product,ALDURAZYME,ALDURAZYME,,Net product revenues,53.709,USD,millions,reported,SEC 10-Q 0001048477-26-000023
+2025,Q3,2025-09-30,3,product,BRINEURA,BRINEURA,,Net product revenues,47.953,USD,millions,reported,SEC 10-Q 0001048477-26-000023
+2025,Q3,2025-09-30,3,product,GALAFOLD,GALAFOLD,,Net product revenues,0,USD,millions,reported,SEC 10-Q 0001048477-26-000023
+2025,Q3,2025-09-30,3,product,KUVAN,KUVAN,,Net product revenues,24.025,USD,millions,reported,SEC 10-Q 0001048477-26-000023
+2025,Q3,2025-09-30,3,product,NAGLAZYME,NAGLAZYME,,Net product revenues,122.025,USD,millions,reported,SEC 10-Q 0001048477-26-000023
+2025,Q3,2025-09-30,3,product,PALYNZIQ,PALYNZIQ,,Net product revenues,108.778,USD,millions,reported,SEC 10-Q 0001048477-26-000023
+2025,Q3,2025-09-30,3,product,POMBILITIOPFOLDA,POMBILITI + OPFOLDA,,Net product revenues,0,USD,millions,reported,SEC 10-Q 0001048477-26-000023
+2025,Q3,2025-09-30,3,product,ROCTAVIAN,ROCTAVIAN,,Net product revenues,3.18,USD,millions,reported,SEC 10-Q 0001048477-26-000023
+2025,Q3,2025-09-30,3,product,VIMIZIM,VIMIZIM,,Net product revenues,182.755,USD,millions,reported,SEC 10-Q 0001048477-26-000023
+2025,Q3,2025-09-30,3,product,VOXZOGO,VOXZOGO,,Net product revenues,218.387,USD,millions,reported,SEC 10-Q 0001048477-26-000023
+2025,Q3,2025-09-30,3,product,RoyaltyAndOther,Royalty and other revenues,,Other,15.321,USD,millions,reported,SEC 10-Q 0001048477-26-000023
+2025,FY,2025-12-31,12,product,RoyaltyAndOther,Royalty and other revenues,,Other,53.494,USD,millions,reported,SEC 10-K 0001048477-26-000004
+2025,FY,2025-12-31,12,product,ALDURAZYME,ALDURAZYME,,Product,208.508,USD,millions,reported,SEC 10-K 0001048477-26-000004
+2025,FY,2025-12-31,12,product,BRINEURA,BRINEURA,,Product,186.397,USD,millions,reported,SEC 10-K 0001048477-26-000004
+2025,FY,2025-12-31,12,product,KUVAN,KUVAN,,Product,99.53,USD,millions,reported,SEC 10-K 0001048477-26-000004
+2025,FY,2025-12-31,12,product,NAGLAZYME,NAGLAZYME,,Product,485.4,USD,millions,reported,SEC 10-K 0001048477-26-000004
+2025,FY,2025-12-31,12,product,PALYNZIQ,PALYNZIQ,,Product,433.31,USD,millions,reported,SEC 10-K 0001048477-26-000004
+2025,FY,2025-12-31,12,product,ROCTAVIAN,ROCTAVIAN,,Product,35.64,USD,millions,reported,SEC 10-K 0001048477-26-000004
+2025,FY,2025-12-31,12,product,VIMIZIM,VIMIZIM,,Product,792.051,USD,millions,reported,SEC 10-K 0001048477-26-000004
+2025,FY,2025-12-31,12,product,VOXZOGO,VOXZOGO,,Product,926.923,USD,millions,reported,SEC 10-K 0001048477-26-000004
+2026,Q1,2026-03-31,3,product,ALDURAZYME,ALDURAZYME,,Net product revenues,36.742,USD,millions,reported,SEC 10-Q 0001048477-26-000008
+2026,Q1,2026-03-31,3,product,BRINEURA,BRINEURA,,Net product revenues,47.104,USD,millions,reported,SEC 10-Q 0001048477-26-000008
+2026,Q1,2026-03-31,3,product,KUVAN,KUVAN,,Net product revenues,23.88,USD,millions,reported,SEC 10-Q 0001048477-26-000008
+2026,Q1,2026-03-31,3,product,NAGLAZYME,NAGLAZYME,,Net product revenues,130.074,USD,millions,reported,SEC 10-Q 0001048477-26-000008
+2026,Q1,2026-03-31,3,product,PALYNZIQ,PALYNZIQ,,Net product revenues,89.558,USD,millions,reported,SEC 10-Q 0001048477-26-000008
+2026,Q1,2026-03-31,3,product,ROCTAVIAN,ROCTAVIAN,,Net product revenues,2.636,USD,millions,reported,SEC 10-Q 0001048477-26-000008
+2026,Q1,2026-03-31,3,product,VIMIZIM,VIMIZIM,,Net product revenues,210.204,USD,millions,reported,SEC 10-Q 0001048477-26-000008
+2026,Q1,2026-03-31,3,product,VOXZOGO,VOXZOGO,,Net product revenues,219.88,USD,millions,reported,SEC 10-Q 0001048477-26-000008
+2026,Q1,2026-03-31,3,product,RoyaltyAndOther,Royalty and other revenues,,Other,6.13,USD,millions,reported,SEC 10-Q 0001048477-26-000008
+2026,Q2,2026-06-30,3,product,ALDURAZYME,ALDURAZYME,,Net product revenues,43.539,USD,millions,reported,SEC 10-Q 0001048477-26-000016
+2026,Q2,2026-06-30,3,product,BRINEURA,BRINEURA,,Net product revenues,51.37,USD,millions,reported,SEC 10-Q 0001048477-26-000016
+2026,Q2,2026-06-30,3,product,GALAFOLD,GALAFOLD,,Net product revenues,105.748,USD,millions,reported,SEC 10-Q 0001048477-26-000016
+2026,Q2,2026-06-30,3,product,KUVAN,KUVAN,,Net product revenues,24.444,USD,millions,reported,SEC 10-Q 0001048477-26-000016
+2026,Q2,2026-06-30,3,product,NAGLAZYME,NAGLAZYME,,Net product revenues,135.255,USD,millions,reported,SEC 10-Q 0001048477-26-000016
+2026,Q2,2026-06-30,3,product,PALYNZIQ,PALYNZIQ,,Net product revenues,135.167,USD,millions,reported,SEC 10-Q 0001048477-26-000016
+2026,Q2,2026-06-30,3,product,POMBILITIOPFOLDA,POMBILITI + OPFOLDA,,Net product revenues,30.258,USD,millions,reported,SEC 10-Q 0001048477-26-000016
+2026,Q2,2026-06-30,3,product,ROCTAVIAN,ROCTAVIAN,,Net product revenues,11.713,USD,millions,reported,SEC 10-Q 0001048477-26-000016
+2026,Q2,2026-06-30,3,product,VIMIZIM,VIMIZIM,,Net product revenues,194.371,USD,millions,reported,SEC 10-Q 0001048477-26-000016
+2026,Q2,2026-06-30,3,product,VOXZOGO,VOXZOGO,,Net product revenues,252.528,USD,millions,reported,SEC 10-Q 0001048477-26-000016
+2026,Q2,2026-06-30,3,product,RoyaltyAndOther,Royalty and other revenues,,Other,5.315,USD,millions,reported,SEC 10-Q 0001048477-26-000016
+2026,Q3,2026-09-30,3,product,ALDURAZYME,ALDURAZYME,,Net product revenues,56.598,USD,millions,reported,SEC 10-Q 0001048477-26-000023
+2026,Q3,2026-09-30,3,product,BRINEURA,BRINEURA,,Net product revenues,52.712,USD,millions,reported,SEC 10-Q 0001048477-26-000023
+2026,Q3,2026-09-30,3,product,GALAFOLD,GALAFOLD,,Net product revenues,151.831,USD,millions,reported,SEC 10-Q 0001048477-26-000023
+2026,Q3,2026-09-30,3,product,KUVAN,KUVAN,,Net product revenues,22.947,USD,millions,reported,SEC 10-Q 0001048477-26-000023
+2026,Q3,2026-09-30,3,product,NAGLAZYME,NAGLAZYME,,Net product revenues,107.824,USD,millions,reported,SEC 10-Q 0001048477-26-000023
+2026,Q3,2026-09-30,3,product,PALYNZIQ,PALYNZIQ,,Net product revenues,111.035,USD,millions,reported,SEC 10-Q 0001048477-26-000023
+2026,Q3,2026-09-30,3,product,POMBILITIOPFOLDA,POMBILITI + OPFOLDA,,Net product revenues,48.585,USD,millions,reported,SEC 10-Q 0001048477-26-000023
+2026,Q3,2026-09-30,3,product,ROCTAVIAN,ROCTAVIAN,,Net product revenues,0.738,USD,millions,reported,SEC 10-Q 0001048477-26-000023
+2026,Q3,2026-09-30,3,product,VIMIZIM,VIMIZIM,,Net product revenues,215.796,USD,millions,reported,SEC 10-Q 0001048477-26-000023
+2026,Q3,2026-09-30,3,product,VOXZOGO,VOXZOGO,,Net product revenues,245.014,USD,millions,reported,SEC 10-Q 0001048477-26-000023
+2026,Q3,2026-09-30,3,product,RoyaltyAndOther,Royalty and other revenues,,Other,11.566,USD,millions,reported,SEC 10-Q 0001048477-26-000023

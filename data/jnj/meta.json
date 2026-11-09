@@ -1,0 +1,16 @@
+{
+  "currency": "USD",
+  "events": 0,
+  "id": "jnj",
+  "latest_period": "2026 Q3",
+  "latest_period_end": "2026-09-27",
+  "name_en": "Johnson & Johnson",
+  "name_zh": "强生",
+  "rows": {
+    "balance": 23,
+    "cashflow": 28,
+    "income": 28,
+    "segments": 334
+  },
+  "source": "sec"
+}

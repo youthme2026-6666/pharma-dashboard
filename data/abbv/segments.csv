@@ -1,0 +1,589 @@
+fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,value,currency,unit,basis,source
+2021,Q1,2021-03-31,3,product,OtherNotItemized,Other (not itemized),,,701,USD,millions,derived,SEC 10-Q 0001551152-22-000017
+2021,Q1,2021-03-31,3,product,OtherProducts,All other,,,1476,USD,millions,reported,SEC 10-Q 0001551152-22-000017
+2021,Q1,2021-03-31,3,product,BotoxCosmetic,Botox Cosmetic,,Aesthetics,477,USD,millions,reported,SEC 10-Q 0001551152-22-000017
+2021,Q1,2021-03-31,3,product,JuvedermCollection,Juvederm Collection,,Aesthetics,321,USD,millions,reported,SEC 10-Q 0001551152-22-000017
+2021,Q1,2021-03-31,3,product,OtherAesthetics,Other Aesthetics,,Aesthetics,343,USD,millions,reported,SEC 10-Q 0001551152-22-000017
+2021,Q1,2021-03-31,3,product,AlphaganCombigan,Alphagan/Combigan,,Eye Care,118,USD,millions,reported,SEC 10-Q 0001551152-22-000017
+2021,Q1,2021-03-31,3,product,LumiganGanfort,Lumigan/Ganfort,,Eye Care,143,USD,millions,reported,SEC 10-Q 0001551152-22-000017
+2021,Q1,2021-03-31,3,product,OtherEyeCare,Other Eye Care,,Eye Care,276,USD,millions,reported,SEC 10-Q 0001551152-22-000017
+2021,Q1,2021-03-31,3,product,Restasis,Restasis,,Eye Care,280,USD,millions,reported,SEC 10-Q 0001551152-22-000017
+2021,Q1,2021-03-31,3,product,Imbruvica,Imbruvica,,Hematologic Oncology,1268,USD,millions,reported,SEC 10-Q 0001551152-22-000017
+2021,Q1,2021-03-31,3,product,VENCLEXTA,Venclexta,,Hematologic Oncology,405,USD,millions,reported,SEC 10-Q 0001551152-22-000017
+2021,Q1,2021-03-31,3,product,HUMIRA,Humira,,Immunology,4867,USD,millions,reported,SEC 10-Q 0001551152-22-000017
+2021,Q1,2021-03-31,3,product,RINVOQ,Rinvoq,,Immunology,303,USD,millions,reported,SEC 10-Q 0001551152-22-000017
+2021,Q1,2021-03-31,3,product,SKYRIZI,Skyrizi,,Immunology,574,USD,millions,reported,SEC 10-Q 0001551152-22-000017
+2021,Q1,2021-03-31,3,product,BotoxTherapeutic,Botox Therapeutic,,Neuroscience,532,USD,millions,reported,SEC 10-Q 0001551152-22-000017
+2021,Q1,2021-03-31,3,product,Duodopa,Duodopa,,Neuroscience,129,USD,millions,reported,SEC 10-Q 0001551152-22-000017
+2021,Q1,2021-03-31,3,product,OtherNeuroscience,Other Neuroscience,,Neuroscience,160,USD,millions,reported,SEC 10-Q 0001551152-22-000017
+2021,Q1,2021-03-31,3,product,LinzessConstella,Linzess/Constella,,Other Key Products,222,USD,millions,reported,SEC 10-Q 0001551152-22-000017
+2021,Q1,2021-03-31,3,product,MAVYRET,Mavyret,,Other Key Products,415,USD,millions,reported,SEC 10-Q 0001551152-22-000017
+2021,Q2,2021-06-30,3,product,OtherNotItemized,Other (not itemized),,,838,USD,millions,derived,SEC 10-Q 0001551152-22-000030
+2021,Q2,2021-06-30,3,product,OtherProducts,All other,,,1221,USD,millions,reported,SEC 10-Q 0001551152-22-000030
+2021,Q2,2021-06-30,3,product,BotoxCosmetic,Botox Cosmetic,,Aesthetics,584,USD,millions,reported,SEC 10-Q 0001551152-22-000030
+2021,Q2,2021-06-30,3,product,JuvedermCollection,Juvederm Collection,,Aesthetics,428,USD,millions,reported,SEC 10-Q 0001551152-22-000030
+2021,Q2,2021-06-30,3,product,OtherAesthetics,Other Aesthetics,,Aesthetics,422,USD,millions,reported,SEC 10-Q 0001551152-22-000030
+2021,Q2,2021-06-30,3,product,AlphaganCombigan,Alphagan/Combigan,,Eye Care,142,USD,millions,reported,SEC 10-Q 0001551152-22-000030
+2021,Q2,2021-06-30,3,product,LumiganGanfort,Lumigan/Ganfort,,Eye Care,149,USD,millions,reported,SEC 10-Q 0001551152-22-000030
+2021,Q2,2021-06-30,3,product,OtherEyeCare,Other Eye Care,,Eye Care,301,USD,millions,reported,SEC 10-Q 0001551152-22-000030
+2021,Q2,2021-06-30,3,product,Restasis,Restasis,,Eye Care,327,USD,millions,reported,SEC 10-Q 0001551152-22-000030
+2021,Q2,2021-06-30,3,product,Imbruvica,Imbruvica,,Hematologic Oncology,1381,USD,millions,reported,SEC 10-Q 0001551152-22-000030
+2021,Q2,2021-06-30,3,product,VENCLEXTA,Venclexta,,Hematologic Oncology,435,USD,millions,reported,SEC 10-Q 0001551152-22-000030
+2021,Q2,2021-06-30,3,product,HUMIRA,Humira,,Immunology,5068,USD,millions,reported,SEC 10-Q 0001551152-22-000030
+2021,Q2,2021-06-30,3,product,RINVOQ,Rinvoq,,Immunology,378,USD,millions,reported,SEC 10-Q 0001551152-22-000030
+2021,Q2,2021-06-30,3,product,SKYRIZI,Skyrizi,,Immunology,674,USD,millions,reported,SEC 10-Q 0001551152-22-000030
+2021,Q2,2021-06-30,3,product,BotoxTherapeutic,Botox Therapeutic,,Neuroscience,603,USD,millions,reported,SEC 10-Q 0001551152-22-000030
+2021,Q2,2021-06-30,3,product,Duodopa,Duodopa,,Neuroscience,127,USD,millions,reported,SEC 10-Q 0001551152-22-000030
+2021,Q2,2021-06-30,3,product,OtherNeuroscience,Other Neuroscience,,Neuroscience,171,USD,millions,reported,SEC 10-Q 0001551152-22-000030
+2021,Q2,2021-06-30,3,product,LinzessConstella,Linzess/Constella,,Other Key Products,268,USD,millions,reported,SEC 10-Q 0001551152-22-000030
+2021,Q2,2021-06-30,3,product,MAVYRET,Mavyret,,Other Key Products,442,USD,millions,reported,SEC 10-Q 0001551152-22-000030
+2021,Q3,2021-09-30,3,product,OtherNotItemized,Other (not itemized),,,933,USD,millions,derived,SEC 10-Q 0001551152-22-000045
+2021,Q3,2021-09-30,3,product,OtherProducts,All other,,,1117,USD,millions,reported,SEC 10-Q 0001551152-22-000045
+2021,Q3,2021-09-30,3,product,BotoxCosmetic,Botox Cosmetic,,Aesthetics,545,USD,millions,reported,SEC 10-Q 0001551152-22-000045
+2021,Q3,2021-09-30,3,product,JuvedermCollection,Juvederm Collection,,Aesthetics,354,USD,millions,reported,SEC 10-Q 0001551152-22-000045
+2021,Q3,2021-09-30,3,product,OtherAesthetics,Other Aesthetics,,Aesthetics,352,USD,millions,reported,SEC 10-Q 0001551152-22-000045
+2021,Q3,2021-09-30,3,product,AlphaganCombigan,Alphagan/Combigan,,Eye Care,128,USD,millions,reported,SEC 10-Q 0001551152-22-000045
+2021,Q3,2021-09-30,3,product,LumiganGanfort,Lumigan/Ganfort,,Eye Care,138,USD,millions,reported,SEC 10-Q 0001551152-22-000045
+2021,Q3,2021-09-30,3,product,OtherEyeCare,Other Eye Care,,Eye Care,286,USD,millions,reported,SEC 10-Q 0001551152-22-000045
+2021,Q3,2021-09-30,3,product,Restasis,Restasis,,Eye Care,319,USD,millions,reported,SEC 10-Q 0001551152-22-000045
+2021,Q3,2021-09-30,3,product,Imbruvica,Imbruvica,,Hematologic Oncology,1374,USD,millions,reported,SEC 10-Q 0001551152-22-000045
+2021,Q3,2021-09-30,3,product,VENCLEXTA,Venclexta,,Hematologic Oncology,492,USD,millions,reported,SEC 10-Q 0001551152-22-000045
+2021,Q3,2021-09-30,3,product,HUMIRA,Humira,,Immunology,5425,USD,millions,reported,SEC 10-Q 0001551152-22-000045
+2021,Q3,2021-09-30,3,product,RINVOQ,Rinvoq,,Immunology,453,USD,millions,reported,SEC 10-Q 0001551152-22-000045
+2021,Q3,2021-09-30,3,product,SKYRIZI,Skyrizi,,Immunology,796,USD,millions,reported,SEC 10-Q 0001551152-22-000045
+2021,Q3,2021-09-30,3,product,BotoxTherapeutic,Botox Therapeutic,,Neuroscience,645,USD,millions,reported,SEC 10-Q 0001551152-22-000045
+2021,Q3,2021-09-30,3,product,Duodopa,Duodopa,,Neuroscience,127,USD,millions,reported,SEC 10-Q 0001551152-22-000045
+2021,Q3,2021-09-30,3,product,OtherNeuroscience,Other Neuroscience,,Neuroscience,171,USD,millions,reported,SEC 10-Q 0001551152-22-000045
+2021,Q3,2021-09-30,3,product,LinzessConstella,Linzess/Constella,,Other Key Products,261,USD,millions,reported,SEC 10-Q 0001551152-22-000045
+2021,Q3,2021-09-30,3,product,MAVYRET,Mavyret,,Other Key Products,426,USD,millions,reported,SEC 10-Q 0001551152-22-000045
+2021,FY,2021-12-31,12,geography,AU,Australia,,,533,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2021,FY,2021-12-31,12,geography,BR,Brazil,,,368,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2021,FY,2021-12-31,12,geography,CA,Canada,,,1397,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2021,FY,2021-12-31,12,geography,CN,China,,,857,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2021,FY,2021-12-31,12,geography,DE,Germany,,,1223,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2021,FY,2021-12-31,12,geography,ES,Spain,,,519,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2021,FY,2021-12-31,12,geography,FR,France,,,936,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2021,FY,2021-12-31,12,geography,GB,United Kingdom,,,497,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2021,FY,2021-12-31,12,geography,IT,Italy,,,506,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2021,FY,2021-12-31,12,geography,JP,Japan,,,1090,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2021,FY,2021-12-31,12,geography,OtherCountries,All other countries,,,4761,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2021,FY,2021-12-31,12,geography,US,United States,,,43510,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2021,FY,2021-12-31,12,product,OtherNotItemized,Other (not itemized),,,1743,USD,millions,derived,SEC 10-K 0001551152-23-000011
+2021,FY,2021-12-31,12,product,OtherProducts,All other,,,5019,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2021,FY,2021-12-31,12,product,BotoxCosmetic,Botox Cosmetic,,Aesthetics,2232,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2021,FY,2021-12-31,12,product,JuvedermCollection,Juvederm Collection,,Aesthetics,1535,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2021,FY,2021-12-31,12,product,OtherAesthetics,Other Aesthetics,,Aesthetics,1466,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2021,FY,2021-12-31,12,product,AlphaganCombigan,Alphagan/Combigan,,Eye Care,529,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2021,FY,2021-12-31,12,product,LumiganGanfort,Lumigan/Ganfort,,Eye Care,579,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2021,FY,2021-12-31,12,product,OtherEyeCare,Other Eye Care,,Eye Care,1169,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2021,FY,2021-12-31,12,product,Restasis,Restasis,,Eye Care,1290,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2021,FY,2021-12-31,12,product,Imbruvica,Imbruvica,,Hematologic Oncology,5408,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2021,FY,2021-12-31,12,product,VENCLEXTA,Venclexta,,Hematologic Oncology,1820,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2021,FY,2021-12-31,12,product,HUMIRA,Humira,,Immunology,20694,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2021,FY,2021-12-31,12,product,RINVOQ,Rinvoq,,Immunology,1651,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2021,FY,2021-12-31,12,product,SKYRIZI,Skyrizi,,Immunology,2939,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2021,FY,2021-12-31,12,product,BotoxTherapeutic,Botox Therapeutic,,Neuroscience,2451,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2021,FY,2021-12-31,12,product,Duodopa,Duodopa,,Neuroscience,511,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2021,FY,2021-12-31,12,product,OtherNeuroscience,Other Neuroscience,,Neuroscience,685,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2021,FY,2021-12-31,12,product,Vraylar,Vraylar,,Neuroscience,1728,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2021,FY,2021-12-31,12,product,LinzessConstella,Linzess/Constella,,Other Key Products,1038,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2021,FY,2021-12-31,12,product,MAVYRET,Mavyret,,Other Key Products,1710,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2022,Q1,2022-03-31,3,product,OtherNotItemized,Other (not itemized),,,863,USD,millions,derived,SEC 10-Q 0001551152-22-000017
+2022,Q1,2022-03-31,3,product,OtherProducts,All other,,,1211,USD,millions,reported,SEC 10-Q 0001551152-22-000017
+2022,Q1,2022-03-31,3,product,BotoxCosmetic,Botox Cosmetic,,Aesthetics,641,USD,millions,reported,SEC 10-Q 0001551152-22-000017
+2022,Q1,2022-03-31,3,product,JuvedermCollection,Juvederm Collection,,Aesthetics,410,USD,millions,reported,SEC 10-Q 0001551152-22-000017
+2022,Q1,2022-03-31,3,product,OtherAesthetics,Other Aesthetics,,Aesthetics,323,USD,millions,reported,SEC 10-Q 0001551152-22-000017
+2022,Q1,2022-03-31,3,product,AlphaganCombigan,Alphagan/Combigan,,Eye Care,107,USD,millions,reported,SEC 10-Q 0001551152-22-000017
+2022,Q1,2022-03-31,3,product,LumiganGanfort,Lumigan/Ganfort,,Eye Care,140,USD,millions,reported,SEC 10-Q 0001551152-22-000017
+2022,Q1,2022-03-31,3,product,OtherEyeCare,Other Eye Care,,Eye Care,278,USD,millions,reported,SEC 10-Q 0001551152-22-000017
+2022,Q1,2022-03-31,3,product,Restasis,Restasis,,Eye Care,246,USD,millions,reported,SEC 10-Q 0001551152-22-000017
+2022,Q1,2022-03-31,3,product,Imbruvica,Imbruvica,,Hematologic Oncology,1173,USD,millions,reported,SEC 10-Q 0001551152-22-000017
+2022,Q1,2022-03-31,3,product,VENCLEXTA,Venclexta,,Hematologic Oncology,473,USD,millions,reported,SEC 10-Q 0001551152-22-000017
+2022,Q1,2022-03-31,3,product,HUMIRA,Humira,,Immunology,4736,USD,millions,reported,SEC 10-Q 0001551152-22-000017
+2022,Q1,2022-03-31,3,product,RINVOQ,Rinvoq,,Immunology,465,USD,millions,reported,SEC 10-Q 0001551152-22-000017
+2022,Q1,2022-03-31,3,product,SKYRIZI,Skyrizi,,Immunology,940,USD,millions,reported,SEC 10-Q 0001551152-22-000017
+2022,Q1,2022-03-31,3,product,BotoxTherapeutic,Botox Therapeutic,,Neuroscience,614,USD,millions,reported,SEC 10-Q 0001551152-22-000017
+2022,Q1,2022-03-31,3,product,Duodopa,Duodopa,,Neuroscience,121,USD,millions,reported,SEC 10-Q 0001551152-22-000017
+2022,Q1,2022-03-31,3,product,OtherNeuroscience,Other Neuroscience,,Neuroscience,177,USD,millions,reported,SEC 10-Q 0001551152-22-000017
+2022,Q1,2022-03-31,3,product,LinzessConstella,Linzess/Constella,,Other Key Products,240,USD,millions,reported,SEC 10-Q 0001551152-22-000017
+2022,Q1,2022-03-31,3,product,MAVYRET,Mavyret,,Other Key Products,380,USD,millions,reported,SEC 10-Q 0001551152-22-000017
+2022,Q2,2022-06-30,3,product,OtherNotItemized,Other (not itemized),,,1028,USD,millions,derived,SEC 10-Q 0001551152-22-000030
+2022,Q2,2022-06-30,3,product,OtherProducts,All other,,,1009,USD,millions,reported,SEC 10-Q 0001551152-22-000030
+2022,Q2,2022-06-30,3,product,BotoxCosmetic,Botox Cosmetic,,Aesthetics,695,USD,millions,reported,SEC 10-Q 0001551152-22-000030
+2022,Q2,2022-06-30,3,product,JuvedermCollection,Juvederm Collection,,Aesthetics,344,USD,millions,reported,SEC 10-Q 0001551152-22-000030
+2022,Q2,2022-06-30,3,product,OtherAesthetics,Other Aesthetics,,Aesthetics,332,USD,millions,reported,SEC 10-Q 0001551152-22-000030
+2022,Q2,2022-06-30,3,product,AlphaganCombigan,Alphagan/Combigan,,Eye Care,92,USD,millions,reported,SEC 10-Q 0001551152-22-000030
+2022,Q2,2022-06-30,3,product,LumiganGanfort,Lumigan/Ganfort,,Eye Care,130,USD,millions,reported,SEC 10-Q 0001551152-22-000030
+2022,Q2,2022-06-30,3,product,OtherEyeCare,Other Eye Care,,Eye Care,327,USD,millions,reported,SEC 10-Q 0001551152-22-000030
+2022,Q2,2022-06-30,3,product,Restasis,Restasis,,Eye Care,168,USD,millions,reported,SEC 10-Q 0001551152-22-000030
+2022,Q2,2022-06-30,3,product,Imbruvica,Imbruvica,,Hematologic Oncology,1145,USD,millions,reported,SEC 10-Q 0001551152-22-000030
+2022,Q2,2022-06-30,3,product,VENCLEXTA,Venclexta,,Hematologic Oncology,505,USD,millions,reported,SEC 10-Q 0001551152-22-000030
+2022,Q2,2022-06-30,3,product,HUMIRA,Humira,,Immunology,5363,USD,millions,reported,SEC 10-Q 0001551152-22-000030
+2022,Q2,2022-06-30,3,product,RINVOQ,Rinvoq,,Immunology,592,USD,millions,reported,SEC 10-Q 0001551152-22-000030
+2022,Q2,2022-06-30,3,product,SKYRIZI,Skyrizi,,Immunology,1252,USD,millions,reported,SEC 10-Q 0001551152-22-000030
+2022,Q2,2022-06-30,3,product,BotoxTherapeutic,Botox Therapeutic,,Neuroscience,678,USD,millions,reported,SEC 10-Q 0001551152-22-000030
+2022,Q2,2022-06-30,3,product,Duodopa,Duodopa,,Neuroscience,120,USD,millions,reported,SEC 10-Q 0001551152-22-000030
+2022,Q2,2022-06-30,3,product,OtherNeuroscience,Other Neuroscience,,Neuroscience,150,USD,millions,reported,SEC 10-Q 0001551152-22-000030
+2022,Q2,2022-06-30,3,product,LinzessConstella,Linzess/Constella,,Other Key Products,255,USD,millions,reported,SEC 10-Q 0001551152-22-000030
+2022,Q2,2022-06-30,3,product,MAVYRET,Mavyret,,Other Key Products,398,USD,millions,reported,SEC 10-Q 0001551152-22-000030
+2022,Q3,2022-09-30,3,product,OtherNotItemized,Other (not itemized),,,1112,USD,millions,derived,SEC 10-Q 0001551152-22-000045
+2022,Q3,2022-09-30,3,product,OtherProducts,All other,,,925,USD,millions,reported,SEC 10-Q 0001551152-22-000045
+2022,Q3,2022-09-30,3,product,BotoxCosmetic,Botox Cosmetic,,Aesthetics,637,USD,millions,reported,SEC 10-Q 0001551152-22-000045
+2022,Q3,2022-09-30,3,product,JuvedermCollection,Juvederm Collection,,Aesthetics,352,USD,millions,reported,SEC 10-Q 0001551152-22-000045
+2022,Q3,2022-09-30,3,product,OtherAesthetics,Other Aesthetics,,Aesthetics,312,USD,millions,reported,SEC 10-Q 0001551152-22-000045
+2022,Q3,2022-09-30,3,product,AlphaganCombigan,Alphagan/Combigan,,Eye Care,73,USD,millions,reported,SEC 10-Q 0001551152-22-000045
+2022,Q3,2022-09-30,3,product,LumiganGanfort,Lumigan/Ganfort,,Eye Care,121,USD,millions,reported,SEC 10-Q 0001551152-22-000045
+2022,Q3,2022-09-30,3,product,OtherEyeCare,Other Eye Care,,Eye Care,287,USD,millions,reported,SEC 10-Q 0001551152-22-000045
+2022,Q3,2022-09-30,3,product,Restasis,Restasis,,Eye Care,142,USD,millions,reported,SEC 10-Q 0001551152-22-000045
+2022,Q3,2022-09-30,3,product,Imbruvica,Imbruvica,,Hematologic Oncology,1135,USD,millions,reported,SEC 10-Q 0001551152-22-000045
+2022,Q3,2022-09-30,3,product,VENCLEXTA,Venclexta,,Hematologic Oncology,515,USD,millions,reported,SEC 10-Q 0001551152-22-000045
+2022,Q3,2022-09-30,3,product,HUMIRA,Humira,,Immunology,5559,USD,millions,reported,SEC 10-Q 0001551152-22-000045
+2022,Q3,2022-09-30,3,product,RINVOQ,Rinvoq,,Immunology,695,USD,millions,reported,SEC 10-Q 0001551152-22-000045
+2022,Q3,2022-09-30,3,product,SKYRIZI,Skyrizi,,Immunology,1397,USD,millions,reported,SEC 10-Q 0001551152-22-000045
+2022,Q3,2022-09-30,3,product,BotoxTherapeutic,Botox Therapeutic,,Neuroscience,699,USD,millions,reported,SEC 10-Q 0001551152-22-000045
+2022,Q3,2022-09-30,3,product,Duodopa,Duodopa,,Neuroscience,110,USD,millions,reported,SEC 10-Q 0001551152-22-000045
+2022,Q3,2022-09-30,3,product,OtherNeuroscience,Other Neuroscience,,Neuroscience,87,USD,millions,reported,SEC 10-Q 0001551152-22-000045
+2022,Q3,2022-09-30,3,product,LinzessConstella,Linzess/Constella,,Other Key Products,271,USD,millions,reported,SEC 10-Q 0001551152-22-000045
+2022,Q3,2022-09-30,3,product,MAVYRET,Mavyret,,Other Key Products,383,USD,millions,reported,SEC 10-Q 0001551152-22-000045
+2022,FY,2022-12-31,12,geography,AU,Australia,,,508,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2022,FY,2022-12-31,12,geography,BR,Brazil,,,430,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2022,FY,2022-12-31,12,geography,CA,Canada,,,1159,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2022,FY,2022-12-31,12,geography,CN,China,,,912,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2022,FY,2022-12-31,12,geography,DE,Germany,,,1340,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2022,FY,2022-12-31,12,geography,ES,Spain,,,506,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2022,FY,2022-12-31,12,geography,FR,France,,,787,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2022,FY,2022-12-31,12,geography,GB,United Kingdom,,,462,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2022,FY,2022-12-31,12,geography,IT,Italy,,,444,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2022,FY,2022-12-31,12,geography,JP,Japan,,,956,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2022,FY,2022-12-31,12,geography,OtherCountries,All other countries,,,4837,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2022,FY,2022-12-31,12,geography,US,United States,,,45713,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2022,FY,2022-12-31,12,product,OtherNotItemized,Other (not itemized),,,2116,USD,millions,derived,SEC 10-K 0001551152-23-000011
+2022,FY,2022-12-31,12,product,OtherProducts,All other,,,4137,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2022,FY,2022-12-31,12,product,BotoxCosmetic,Botox Cosmetic,,Aesthetics,2615,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2022,FY,2022-12-31,12,product,JuvedermCollection,Juvederm Collection,,Aesthetics,1428,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2022,FY,2022-12-31,12,product,OtherAesthetics,Other Aesthetics,,Aesthetics,1290,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2022,FY,2022-12-31,12,product,AlphaganCombigan,Alphagan/Combigan,,Eye Care,346,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2022,FY,2022-12-31,12,product,LumiganGanfort,Lumigan/Ganfort,,Eye Care,514,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2022,FY,2022-12-31,12,product,OtherEyeCare,Other Eye Care,,Eye Care,1175,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2022,FY,2022-12-31,12,product,Restasis,Restasis,,Eye Care,666,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2022,FY,2022-12-31,12,product,Imbruvica,Imbruvica,,Hematologic Oncology,4568,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2022,FY,2022-12-31,12,product,VENCLEXTA,Venclexta,,Hematologic Oncology,2009,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2022,FY,2022-12-31,12,product,HUMIRA,Humira,,Immunology,21237,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2022,FY,2022-12-31,12,product,RINVOQ,Rinvoq,,Immunology,2522,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2022,FY,2022-12-31,12,product,SKYRIZI,Skyrizi,,Immunology,5165,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2022,FY,2022-12-31,12,product,BotoxTherapeutic,Botox Therapeutic,,Neuroscience,2719,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2022,FY,2022-12-31,12,product,Duodopa,Duodopa,,Neuroscience,458,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2022,FY,2022-12-31,12,product,OtherNeuroscience,Other Neuroscience,,Neuroscience,475,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2022,FY,2022-12-31,12,product,Vraylar,Vraylar,,Neuroscience,2038,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2022,FY,2022-12-31,12,product,LinzessConstella,Linzess/Constella,,Other Key Products,1035,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2022,FY,2022-12-31,12,product,MAVYRET,Mavyret,,Other Key Products,1541,USD,millions,reported,SEC 10-K 0001551152-23-000011
+2023,Q1,2023-03-31,3,product,OtherNotItemized,Other (not itemized),,,371,USD,millions,derived,SEC 10-Q 0001551152-23-000023
+2023,Q1,2023-03-31,3,product,OtherProducts,All other,,,691,USD,millions,reported,SEC 10-Q 0001551152-23-000023
+2023,Q1,2023-03-31,3,product,BotoxCosmetic,Botox Cosmetic,,Aesthetics,659,USD,millions,reported,SEC 10-Q 0001551152-23-000023
+2023,Q1,2023-03-31,3,product,JuvedermCollection,Juvederm Collection,,Aesthetics,355,USD,millions,reported,SEC 10-Q 0001551152-23-000023
+2023,Q1,2023-03-31,3,product,OtherAesthetics,Other Aesthetics,,Aesthetics,286,USD,millions,reported,SEC 10-Q 0001551152-23-000023
+2023,Q1,2023-03-31,3,product,AlphaganCombigan,Alphagan/Combigan,,Eye Care,71,USD,millions,reported,SEC 10-Q 0001551152-23-000023
+2023,Q1,2023-03-31,3,product,LumiganGanfort,Lumigan/Ganfort,,Eye Care,130,USD,millions,reported,SEC 10-Q 0001551152-23-000023
+2023,Q1,2023-03-31,3,product,OtherEyeCare,Other Eye Care,,Eye Care,200,USD,millions,reported,SEC 10-Q 0001551152-23-000023
+2023,Q1,2023-03-31,3,product,Ozurdex,Ozurdex,,Eye Care,115,USD,millions,reported,SEC 10-Q 0001551152-23-000023
+2023,Q1,2023-03-31,3,product,Restasis,Restasis,,Eye Care,92,USD,millions,reported,SEC 10-Q 0001551152-23-000023
+2023,Q1,2023-03-31,3,product,Imbruvica,Imbruvica,,Hematologic Oncology,878,USD,millions,reported,SEC 10-Q 0001551152-23-000023
+2023,Q1,2023-03-31,3,product,VENCLEXTA,Venclexta,,Hematologic Oncology,538,USD,millions,reported,SEC 10-Q 0001551152-23-000023
+2023,Q1,2023-03-31,3,product,HUMIRA,Humira,,Immunology,3541,USD,millions,reported,SEC 10-Q 0001551152-23-000023
+2023,Q1,2023-03-31,3,product,RINVOQ,Rinvoq,,Immunology,686,USD,millions,reported,SEC 10-Q 0001551152-23-000023
+2023,Q1,2023-03-31,3,product,SKYRIZI,Skyrizi,,Immunology,1360,USD,millions,reported,SEC 10-Q 0001551152-23-000023
+2023,Q1,2023-03-31,3,product,BotoxTherapeutic,Botox Therapeutic,,Neuroscience,719,USD,millions,reported,SEC 10-Q 0001551152-23-000023
+2023,Q1,2023-03-31,3,product,Duodopa,Duodopa,,Neuroscience,118,USD,millions,reported,SEC 10-Q 0001551152-23-000023
+2023,Q1,2023-03-31,3,product,OtherNeuroscience,Other Neuroscience,,Neuroscience,79,USD,millions,reported,SEC 10-Q 0001551152-23-000023
+2023,Q1,2023-03-31,3,product,Ubrelvy,Ubrelvy,,Neuroscience,152,USD,millions,reported,SEC 10-Q 0001551152-23-000023
+2023,Q1,2023-03-31,3,product,Vraylar,Vraylar,,Neuroscience,561,USD,millions,reported,SEC 10-Q 0001551152-23-000023
+2023,Q1,2023-03-31,3,product,LinzessConstella,Linzess/Constella,,Other Key Products,259,USD,millions,reported,SEC 10-Q 0001551152-23-000023
+2023,Q1,2023-03-31,3,product,MAVYRET,Mavyret,,Other Key Products,364,USD,millions,reported,SEC 10-Q 0001551152-23-000023
+2023,Q2,2023-06-30,3,product,OtherNotItemized,Other (not itemized),,,282,USD,millions,derived,SEC 10-Q 0001551152-23-000033
+2023,Q2,2023-06-30,3,product,OtherProducts,All other,,,741,USD,millions,reported,SEC 10-Q 0001551152-23-000033
+2023,Q2,2023-06-30,3,product,BotoxCosmetic,Botox Cosmetic,,Aesthetics,685,USD,millions,reported,SEC 10-Q 0001551152-23-000033
+2023,Q2,2023-06-30,3,product,JuvedermCollection,Juvederm Collection,,Aesthetics,368,USD,millions,reported,SEC 10-Q 0001551152-23-000033
+2023,Q2,2023-06-30,3,product,OtherAesthetics,Other Aesthetics,,Aesthetics,331,USD,millions,reported,SEC 10-Q 0001551152-23-000033
+2023,Q2,2023-06-30,3,product,AlphaganCombigan,Alphagan/Combigan,,Eye Care,65,USD,millions,reported,SEC 10-Q 0001551152-23-000033
+2023,Q2,2023-06-30,3,product,LumiganGanfort,Lumigan/Ganfort,,Eye Care,119,USD,millions,reported,SEC 10-Q 0001551152-23-000033
+2023,Q2,2023-06-30,3,product,OtherEyeCare,Other Eye Care,,Eye Care,215,USD,millions,reported,SEC 10-Q 0001551152-23-000033
+2023,Q2,2023-06-30,3,product,Ozurdex,Ozurdex,,Eye Care,119,USD,millions,reported,SEC 10-Q 0001551152-23-000033
+2023,Q2,2023-06-30,3,product,Restasis,Restasis,,Eye Care,99,USD,millions,reported,SEC 10-Q 0001551152-23-000033
+2023,Q2,2023-06-30,3,product,Imbruvica,Imbruvica,,Hematologic Oncology,907,USD,millions,reported,SEC 10-Q 0001551152-23-000033
+2023,Q2,2023-06-30,3,product,VENCLEXTA,Venclexta,,Hematologic Oncology,571,USD,millions,reported,SEC 10-Q 0001551152-23-000033
+2023,Q2,2023-06-30,3,product,HUMIRA,Humira,,Immunology,4012,USD,millions,reported,SEC 10-Q 0001551152-23-000033
+2023,Q2,2023-06-30,3,product,RINVOQ,Rinvoq,,Immunology,918,USD,millions,reported,SEC 10-Q 0001551152-23-000033
+2023,Q2,2023-06-30,3,product,SKYRIZI,Skyrizi,,Immunology,1883,USD,millions,reported,SEC 10-Q 0001551152-23-000033
+2023,Q2,2023-06-30,3,product,BotoxTherapeutic,Botox Therapeutic,,Neuroscience,748,USD,millions,reported,SEC 10-Q 0001551152-23-000033
+2023,Q2,2023-06-30,3,product,Duodopa,Duodopa,,Neuroscience,117,USD,millions,reported,SEC 10-Q 0001551152-23-000033
+2023,Q2,2023-06-30,3,product,OtherNeuroscience,Other Neuroscience,,Neuroscience,70,USD,millions,reported,SEC 10-Q 0001551152-23-000033
+2023,Q2,2023-06-30,3,product,Qulipta,Qulipta,,Neuroscience,96,USD,millions,reported,SEC 10-Q 0001551152-23-000033
+2023,Q2,2023-06-30,3,product,Ubrelvy,Ubrelvy,,Neuroscience,196,USD,millions,reported,SEC 10-Q 0001551152-23-000033
+2023,Q2,2023-06-30,3,product,Vraylar,Vraylar,,Neuroscience,658,USD,millions,reported,SEC 10-Q 0001551152-23-000033
+2023,Q2,2023-06-30,3,product,LinzessConstella,Linzess/Constella,,Other Key Products,278,USD,millions,reported,SEC 10-Q 0001551152-23-000033
+2023,Q2,2023-06-30,3,product,MAVYRET,Mavyret,,Other Key Products,387,USD,millions,reported,SEC 10-Q 0001551152-23-000033
+2023,Q3,2023-09-30,3,product,OtherNotItemized,Other (not itemized),,,319,USD,millions,derived,SEC 10-Q 0001551152-23-000045
+2023,Q3,2023-09-30,3,product,OtherProducts,All other,,,782,USD,millions,reported,SEC 10-Q 0001551152-23-000045
+2023,Q3,2023-09-30,3,product,BotoxCosmetic,Botox Cosmetic,,Aesthetics,620,USD,millions,reported,SEC 10-Q 0001551152-23-000045
+2023,Q3,2023-09-30,3,product,JuvedermCollection,Juvederm Collection,,Aesthetics,321,USD,millions,reported,SEC 10-Q 0001551152-23-000045
+2023,Q3,2023-09-30,3,product,OtherAesthetics,Other Aesthetics,,Aesthetics,298,USD,millions,reported,SEC 10-Q 0001551152-23-000045
+2023,Q3,2023-09-30,3,product,AlphaganCombigan,Alphagan/Combigan,,Eye Care,70,USD,millions,reported,SEC 10-Q 0001551152-23-000045
+2023,Q3,2023-09-30,3,product,LumiganGanfort,Lumigan/Ganfort,,Eye Care,91,USD,millions,reported,SEC 10-Q 0001551152-23-000045
+2023,Q3,2023-09-30,3,product,OtherEyeCare,Other Eye Care,,Eye Care,207,USD,millions,reported,SEC 10-Q 0001551152-23-000045
+2023,Q3,2023-09-30,3,product,Ozurdex,Ozurdex,,Eye Care,120,USD,millions,reported,SEC 10-Q 0001551152-23-000045
+2023,Q3,2023-09-30,3,product,Restasis,Restasis,,Eye Care,117,USD,millions,reported,SEC 10-Q 0001551152-23-000045
+2023,Q3,2023-09-30,3,product,Imbruvica,Imbruvica,,Hematologic Oncology,908,USD,millions,reported,SEC 10-Q 0001551152-23-000045
+2023,Q3,2023-09-30,3,product,VENCLEXTA,Venclexta,,Hematologic Oncology,590,USD,millions,reported,SEC 10-Q 0001551152-23-000045
+2023,Q3,2023-09-30,3,product,HUMIRA,Humira,,Immunology,3547,USD,millions,reported,SEC 10-Q 0001551152-23-000045
+2023,Q3,2023-09-30,3,product,RINVOQ,Rinvoq,,Immunology,1110,USD,millions,reported,SEC 10-Q 0001551152-23-000045
+2023,Q3,2023-09-30,3,product,SKYRIZI,Skyrizi,,Immunology,2126,USD,millions,reported,SEC 10-Q 0001551152-23-000045
+2023,Q3,2023-09-30,3,product,BotoxTherapeutic,Botox Therapeutic,,Neuroscience,748,USD,millions,reported,SEC 10-Q 0001551152-23-000045
+2023,Q3,2023-09-30,3,product,Duodopa,Duodopa,,Neuroscience,118,USD,millions,reported,SEC 10-Q 0001551152-23-000045
+2023,Q3,2023-09-30,3,product,OtherNeuroscience,Other Neuroscience,,Neuroscience,61,USD,millions,reported,SEC 10-Q 0001551152-23-000045
+2023,Q3,2023-09-30,3,product,Qulipta,Qulipta,,Neuroscience,132,USD,millions,reported,SEC 10-Q 0001551152-23-000045
+2023,Q3,2023-09-30,3,product,Ubrelvy,Ubrelvy,,Neuroscience,233,USD,millions,reported,SEC 10-Q 0001551152-23-000045
+2023,Q3,2023-09-30,3,product,Vraylar,Vraylar,,Neuroscience,751,USD,millions,reported,SEC 10-Q 0001551152-23-000045
+2023,Q3,2023-09-30,3,product,LinzessConstella,Linzess/Constella,,Other Key Products,288,USD,millions,reported,SEC 10-Q 0001551152-23-000045
+2023,Q3,2023-09-30,3,product,MAVYRET,Mavyret,,Other Key Products,370,USD,millions,reported,SEC 10-Q 0001551152-23-000045
+2023,FY,2023-12-31,12,geography,AU,Australia,,,472,USD,millions,reported,SEC 10-K 0001551152-24-000011
+2023,FY,2023-12-31,12,geography,BR,Brazil,,,439,USD,millions,reported,SEC 10-K 0001551152-24-000011
+2023,FY,2023-12-31,12,geography,CA,Canada,,,1076,USD,millions,reported,SEC 10-K 0001551152-24-000011
+2023,FY,2023-12-31,12,geography,CN,China,,,950,USD,millions,reported,SEC 10-K 0001551152-24-000011
+2023,FY,2023-12-31,12,geography,DE,Germany,,,1266,USD,millions,reported,SEC 10-K 0001551152-24-000011
+2023,FY,2023-12-31,12,geography,ES,Spain,,,501,USD,millions,reported,SEC 10-K 0001551152-24-000011
+2023,FY,2023-12-31,12,geography,FR,France,,,780,USD,millions,reported,SEC 10-K 0001551152-24-000011
+2023,FY,2023-12-31,12,geography,GB,United Kingdom,,,417,USD,millions,reported,SEC 10-K 0001551152-24-000011
+2023,FY,2023-12-31,12,geography,IT,Italy,,,484,USD,millions,reported,SEC 10-K 0001551152-24-000011
+2023,FY,2023-12-31,12,geography,JP,Japan,,,1008,USD,millions,reported,SEC 10-K 0001551152-24-000011
+2023,FY,2023-12-31,12,geography,OtherCountries,All other countries,,,5042,USD,millions,reported,SEC 10-K 0001551152-24-000011
+2023,FY,2023-12-31,12,geography,US,United States,,,41883,USD,millions,reported,SEC 10-K 0001551152-24-000011
+2023,FY,2023-12-31,12,product,OtherNotItemized,Other (not itemized),,,1268,USD,millions,derived,SEC 10-K 0001551152-24-000011
+2023,FY,2023-12-31,12,product,OtherProducts,All other,,,3035,USD,millions,reported,SEC 10-K 0001551152-24-000011
+2023,FY,2023-12-31,12,product,BotoxCosmetic,Botox Cosmetic,,Aesthetics,2682,USD,millions,reported,SEC 10-K 0001551152-24-000011
+2023,FY,2023-12-31,12,product,JuvedermCollection,Juvederm Collection,,Aesthetics,1378,USD,millions,reported,SEC 10-K 0001551152-24-000011
+2023,FY,2023-12-31,12,product,OtherAesthetics,Other Aesthetics,,Aesthetics,1234,USD,millions,reported,SEC 10-K 0001551152-24-000011
+2023,FY,2023-12-31,12,product,AlphaganCombigan,Alphagan/Combigan,,Eye Care,272,USD,millions,reported,SEC 10-K 0001551152-24-000011
+2023,FY,2023-12-31,12,product,LumiganGanfort,Lumigan/Ganfort,,Eye Care,432,USD,millions,reported,SEC 10-K 0001551152-24-000011
+2023,FY,2023-12-31,12,product,OtherEyeCare,Other Eye Care,,Eye Care,803,USD,millions,reported,SEC 10-K 0001551152-24-000011
+2023,FY,2023-12-31,12,product,Ozurdex,Ozurdex,,Eye Care,472,USD,millions,reported,SEC 10-K 0001551152-24-000011
+2023,FY,2023-12-31,12,product,Restasis,Restasis,,Eye Care,436,USD,millions,reported,SEC 10-K 0001551152-24-000011
+2023,FY,2023-12-31,12,product,HUMIRA,Humira,,Immunology,14404,USD,millions,reported,SEC 10-K 0001551152-24-000011
+2023,FY,2023-12-31,12,product,RINVOQ,Rinvoq,,Immunology,3969,USD,millions,reported,SEC 10-K 0001551152-24-000011
+2023,FY,2023-12-31,12,product,SKYRIZI,Skyrizi,,Immunology,7763,USD,millions,reported,SEC 10-K 0001551152-24-000011
+2023,FY,2023-12-31,12,product,BotoxTherapeutic,Botox Therapeutic,,Neuroscience,2991,USD,millions,reported,SEC 10-K 0001551152-24-000011
+2023,FY,2023-12-31,12,product,Duodopa,Duodopa,,Neuroscience,468,USD,millions,reported,SEC 10-K 0001551152-24-000011
+2023,FY,2023-12-31,12,product,OtherNeuroscience,Other Neuroscience,,Neuroscience,276,USD,millions,reported,SEC 10-K 0001551152-24-000011
+2023,FY,2023-12-31,12,product,Qulipta,Qulipta,,Neuroscience,408,USD,millions,reported,SEC 10-K 0001551152-24-000011
+2023,FY,2023-12-31,12,product,Ubrelvy,Ubrelvy,,Neuroscience,815,USD,millions,reported,SEC 10-K 0001551152-24-000011
+2023,FY,2023-12-31,12,product,Vraylar,Vraylar,,Neuroscience,2759,USD,millions,reported,SEC 10-K 0001551152-24-000011
+2023,FY,2023-12-31,12,product,Epkinly,Epkinly,,Oncology,31,USD,millions,reported,SEC 10-K 0001551152-24-000011
+2023,FY,2023-12-31,12,product,Imbruvica,Imbruvica,,Oncology,3596,USD,millions,reported,SEC 10-K 0001551152-24-000011
+2023,FY,2023-12-31,12,product,VENCLEXTA,Venclexta,,Oncology,2288,USD,millions,reported,SEC 10-K 0001551152-24-000011
+2023,FY,2023-12-31,12,product,LinzessConstella,Linzess/Constella,,Other Key Products,1108,USD,millions,reported,SEC 10-K 0001551152-24-000011
+2023,FY,2023-12-31,12,product,MAVYRET,Mavyret,,Other Key Products,1430,USD,millions,reported,SEC 10-K 0001551152-24-000011
+2024,Q1,2024-03-31,3,product,OtherNotItemized,Other (not itemized),,,349,USD,millions,derived,SEC 10-Q 0001551152-24-000020
+2024,Q1,2024-03-31,3,product,OtherProducts,All other,,,744,USD,millions,reported,SEC 10-Q 0001551152-24-000020
+2024,Q1,2024-03-31,3,product,BotoxCosmetic,Botox Cosmetic,,Aesthetics,633,USD,millions,reported,SEC 10-Q 0001551152-24-000020
+2024,Q1,2024-03-31,3,product,JuvedermCollection,Juvederm Collection,,Aesthetics,297,USD,millions,reported,SEC 10-Q 0001551152-24-000020
+2024,Q1,2024-03-31,3,product,OtherAesthetics,Other Aesthetics,,Aesthetics,319,USD,millions,reported,SEC 10-Q 0001551152-24-000020
+2024,Q1,2024-03-31,3,product,AlphaganCombigan,Alphagan/Combigan,,Eye Care,59,USD,millions,reported,SEC 10-Q 0001551152-24-000020
+2024,Q1,2024-03-31,3,product,LumiganGanfort,Lumigan/Ganfort,,Eye Care,91,USD,millions,reported,SEC 10-Q 0001551152-24-000020
+2024,Q1,2024-03-31,3,product,OtherEyeCare,Other Eye Care,,Eye Care,200,USD,millions,reported,SEC 10-Q 0001551152-24-000020
+2024,Q1,2024-03-31,3,product,Ozurdex,Ozurdex,,Eye Care,131,USD,millions,reported,SEC 10-Q 0001551152-24-000020
+2024,Q1,2024-03-31,3,product,Restasis,Restasis,,Eye Care,57,USD,millions,reported,SEC 10-Q 0001551152-24-000020
+2024,Q1,2024-03-31,3,product,Epkinly,Epkinly,,Hematologic Oncology,27,USD,millions,reported,SEC 10-Q 0001551152-24-000020
+2024,Q1,2024-03-31,3,product,Imbruvica,Imbruvica,,Hematologic Oncology,838,USD,millions,reported,SEC 10-Q 0001551152-24-000020
+2024,Q1,2024-03-31,3,product,VENCLEXTA,Venclexta,,Hematologic Oncology,614,USD,millions,reported,SEC 10-Q 0001551152-24-000020
+2024,Q1,2024-03-31,3,product,HUMIRA,Humira,,Immunology,2270,USD,millions,reported,SEC 10-Q 0001551152-24-000020
+2024,Q1,2024-03-31,3,product,RINVOQ,Rinvoq,,Immunology,1093,USD,millions,reported,SEC 10-Q 0001551152-24-000020
+2024,Q1,2024-03-31,3,product,SKYRIZI,Skyrizi,,Immunology,2008,USD,millions,reported,SEC 10-Q 0001551152-24-000020
+2024,Q1,2024-03-31,3,product,BotoxTherapeutic,Botox Therapeutic,,Neuroscience,748,USD,millions,reported,SEC 10-Q 0001551152-24-000020
+2024,Q1,2024-03-31,3,product,Duodopa,Duodopa,,Neuroscience,115,USD,millions,reported,SEC 10-Q 0001551152-24-000020
+2024,Q1,2024-03-31,3,product,OtherNeuroscience,Other Neuroscience,,Neuroscience,74,USD,millions,reported,SEC 10-Q 0001551152-24-000020
+2024,Q1,2024-03-31,3,product,Qulipta,Qulipta,,Neuroscience,131,USD,millions,reported,SEC 10-Q 0001551152-24-000020
+2024,Q1,2024-03-31,3,product,Ubrelvy,Ubrelvy,,Neuroscience,203,USD,millions,reported,SEC 10-Q 0001551152-24-000020
+2024,Q1,2024-03-31,3,product,Vraylar,Vraylar,,Neuroscience,694,USD,millions,reported,SEC 10-Q 0001551152-24-000020
+2024,Q1,2024-03-31,3,product,LinzessConstella,Linzess/Constella,,Other Key Products,266,USD,millions,reported,SEC 10-Q 0001551152-24-000020
+2024,Q1,2024-03-31,3,product,MAVYRET,Mavyret,,Other Key Products,349,USD,millions,reported,SEC 10-Q 0001551152-24-000020
+2024,Q2,2024-06-30,3,product,OtherNotItemized,Other (not itemized),,,500,USD,millions,derived,SEC 10-Q 0001551152-24-000031
+2024,Q2,2024-06-30,3,product,OtherProducts,All other,,,810,USD,millions,reported,SEC 10-Q 0001551152-24-000031
+2024,Q2,2024-06-30,3,product,BotoxCosmetic,Botox Cosmetic,,Aesthetics,729,USD,millions,reported,SEC 10-Q 0001551152-24-000031
+2024,Q2,2024-06-30,3,product,JuvedermCollection,Juvederm Collection,,Aesthetics,343,USD,millions,reported,SEC 10-Q 0001551152-24-000031
+2024,Q2,2024-06-30,3,product,OtherAesthetics,Other Aesthetics,,Aesthetics,318,USD,millions,reported,SEC 10-Q 0001551152-24-000031
+2024,Q2,2024-06-30,3,product,AlphaganCombigan,Alphagan/Combigan,,Eye Care,49,USD,millions,reported,SEC 10-Q 0001551152-24-000031
+2024,Q2,2024-06-30,3,product,LumiganGanfort,Lumigan/Ganfort,,Eye Care,103,USD,millions,reported,SEC 10-Q 0001551152-24-000031
+2024,Q2,2024-06-30,3,product,OtherEyeCare,Other Eye Care,,Eye Care,225,USD,millions,reported,SEC 10-Q 0001551152-24-000031
+2024,Q2,2024-06-30,3,product,Ozurdex,Ozurdex,,Eye Care,124,USD,millions,reported,SEC 10-Q 0001551152-24-000031
+2024,Q2,2024-06-30,3,product,Restasis,Restasis,,Eye Care,32,USD,millions,reported,SEC 10-Q 0001551152-24-000031
+2024,Q2,2024-06-30,3,product,Epkinly,Epkinly,,Hematologic Oncology,36,USD,millions,reported,SEC 10-Q 0001551152-24-000031
+2024,Q2,2024-06-30,3,product,Imbruvica,Imbruvica,,Hematologic Oncology,833,USD,millions,reported,SEC 10-Q 0001551152-24-000031
+2024,Q2,2024-06-30,3,product,VENCLEXTA,Venclexta,,Hematologic Oncology,637,USD,millions,reported,SEC 10-Q 0001551152-24-000031
+2024,Q2,2024-06-30,3,product,HUMIRA,Humira,,Immunology,2814,USD,millions,reported,SEC 10-Q 0001551152-24-000031
+2024,Q2,2024-06-30,3,product,RINVOQ,Rinvoq,,Immunology,1430,USD,millions,reported,SEC 10-Q 0001551152-24-000031
+2024,Q2,2024-06-30,3,product,SKYRIZI,Skyrizi,,Immunology,2727,USD,millions,reported,SEC 10-Q 0001551152-24-000031
+2024,Q2,2024-06-30,3,product,BotoxTherapeutic,Botox Therapeutic,,Neuroscience,814,USD,millions,reported,SEC 10-Q 0001551152-24-000031
+2024,Q2,2024-06-30,3,product,Duodopa,Duodopa,,Neuroscience,113,USD,millions,reported,SEC 10-Q 0001551152-24-000031
+2024,Q2,2024-06-30,3,product,OtherNeuroscience,Other Neuroscience,,Neuroscience,80,USD,millions,reported,SEC 10-Q 0001551152-24-000031
+2024,Q2,2024-06-30,3,product,Qulipta,Qulipta,,Neuroscience,150,USD,millions,reported,SEC 10-Q 0001551152-24-000031
+2024,Q2,2024-06-30,3,product,Ubrelvy,Ubrelvy,,Neuroscience,231,USD,millions,reported,SEC 10-Q 0001551152-24-000031
+2024,Q2,2024-06-30,3,product,Vraylar,Vraylar,,Neuroscience,774,USD,millions,reported,SEC 10-Q 0001551152-24-000031
+2024,Q2,2024-06-30,3,product,LinzessConstella,Linzess/Constella,,Other Key Products,221,USD,millions,reported,SEC 10-Q 0001551152-24-000031
+2024,Q2,2024-06-30,3,product,MAVYRET,Mavyret,,Other Key Products,369,USD,millions,reported,SEC 10-Q 0001551152-24-000031
+2024,Q3,2024-09-30,3,product,OtherNotItemized,Other (not itemized),,,477,USD,millions,derived,SEC 10-Q 0001551152-24-000040
+2024,Q3,2024-09-30,3,product,OtherProducts,All other,,,726,USD,millions,reported,SEC 10-Q 0001551152-24-000040
+2024,Q3,2024-09-30,3,product,BotoxCosmetic,Botox Cosmetic,,Aesthetics,671,USD,millions,reported,SEC 10-Q 0001551152-24-000040
+2024,Q3,2024-09-30,3,product,JuvedermCollection,Juvederm Collection,,Aesthetics,258,USD,millions,reported,SEC 10-Q 0001551152-24-000040
+2024,Q3,2024-09-30,3,product,OtherAesthetics,Other Aesthetics,,Aesthetics,310,USD,millions,reported,SEC 10-Q 0001551152-24-000040
+2024,Q3,2024-09-30,3,product,AlphaganCombigan,Alphagan/Combigan,,Eye Care,62,USD,millions,reported,SEC 10-Q 0001551152-24-000040
+2024,Q3,2024-09-30,3,product,LumiganGanfort,Lumigan/Ganfort,,Eye Care,116,USD,millions,reported,SEC 10-Q 0001551152-24-000040
+2024,Q3,2024-09-30,3,product,OtherEyeCare,Other Eye Care,,Eye Care,207,USD,millions,reported,SEC 10-Q 0001551152-24-000040
+2024,Q3,2024-09-30,3,product,Ozurdex,Ozurdex,,Eye Care,119,USD,millions,reported,SEC 10-Q 0001551152-24-000040
+2024,Q3,2024-09-30,3,product,Restasis,Restasis,,Eye Care,21,USD,millions,reported,SEC 10-Q 0001551152-24-000040
+2024,Q3,2024-09-30,3,product,Epkinly,Epkinly,,Hematologic Oncology,43,USD,millions,reported,SEC 10-Q 0001551152-24-000040
+2024,Q3,2024-09-30,3,product,Imbruvica,Imbruvica,,Hematologic Oncology,828,USD,millions,reported,SEC 10-Q 0001551152-24-000040
+2024,Q3,2024-09-30,3,product,VENCLEXTA,Venclexta,,Hematologic Oncology,677,USD,millions,reported,SEC 10-Q 0001551152-24-000040
+2024,Q3,2024-09-30,3,product,HUMIRA,Humira,,Immunology,2227,USD,millions,reported,SEC 10-Q 0001551152-24-000040
+2024,Q3,2024-09-30,3,product,RINVOQ,Rinvoq,,Immunology,1614,USD,millions,reported,SEC 10-Q 0001551152-24-000040
+2024,Q3,2024-09-30,3,product,SKYRIZI,Skyrizi,,Immunology,3205,USD,millions,reported,SEC 10-Q 0001551152-24-000040
+2024,Q3,2024-09-30,3,product,BotoxTherapeutic,Botox Therapeutic,,Neuroscience,848,USD,millions,reported,SEC 10-Q 0001551152-24-000040
+2024,Q3,2024-09-30,3,product,Duodopa,Duodopa,,Neuroscience,111,USD,millions,reported,SEC 10-Q 0001551152-24-000040
+2024,Q3,2024-09-30,3,product,OtherNeuroscience,Other Neuroscience,,Neuroscience,84,USD,millions,reported,SEC 10-Q 0001551152-24-000040
+2024,Q3,2024-09-30,3,product,Qulipta,Qulipta,,Neuroscience,176,USD,millions,reported,SEC 10-Q 0001551152-24-000040
+2024,Q3,2024-09-30,3,product,Ubrelvy,Ubrelvy,,Neuroscience,269,USD,millions,reported,SEC 10-Q 0001551152-24-000040
+2024,Q3,2024-09-30,3,product,Vraylar,Vraylar,,Neuroscience,875,USD,millions,reported,SEC 10-Q 0001551152-24-000040
+2024,Q3,2024-09-30,3,product,LinzessConstella,Linzess/Constella,,Other Key Products,234,USD,millions,reported,SEC 10-Q 0001551152-24-000040
+2024,Q3,2024-09-30,3,product,MAVYRET,Mavyret,,Other Key Products,302,USD,millions,reported,SEC 10-Q 0001551152-24-000040
+2024,FY,2024-12-31,12,geography,AU,Australia,,,463,USD,millions,reported,SEC 10-K 0001551152-25-000020
+2024,FY,2024-12-31,12,geography,BR,Brazil,,,464,USD,millions,reported,SEC 10-K 0001551152-25-000020
+2024,FY,2024-12-31,12,geography,CA,Canada,,,1088,USD,millions,reported,SEC 10-K 0001551152-25-000020
+2024,FY,2024-12-31,12,geography,CN,China,,,917,USD,millions,reported,SEC 10-K 0001551152-25-000020
+2024,FY,2024-12-31,12,geography,DE,Germany,,,1465,USD,millions,reported,SEC 10-K 0001551152-25-000020
+2024,FY,2024-12-31,12,geography,ES,Spain,,,528,USD,millions,reported,SEC 10-K 0001551152-25-000020
+2024,FY,2024-12-31,12,geography,FR,France,,,776,USD,millions,reported,SEC 10-K 0001551152-25-000020
+2024,FY,2024-12-31,12,geography,GB,United Kingdom,,,522,USD,millions,reported,SEC 10-K 0001551152-25-000020
+2024,FY,2024-12-31,12,geography,IT,Italy,,,511,USD,millions,reported,SEC 10-K 0001551152-25-000020
+2024,FY,2024-12-31,12,geography,JP,Japan,,,1122,USD,millions,reported,SEC 10-K 0001551152-25-000020
+2024,FY,2024-12-31,12,geography,OtherCountries,All other countries,,,5449,USD,millions,reported,SEC 10-K 0001551152-25-000020
+2024,FY,2024-12-31,12,geography,US,United States,,,43029,USD,millions,reported,SEC 10-K 0001551152-25-000020
+2024,FY,2024-12-31,12,product,OtherNotItemized,Other (not itemized),,,1383,USD,millions,derived,SEC 10-K 0001551152-25-000020
+2024,FY,2024-12-31,12,product,OtherProducts,All other,,,3032,USD,millions,reported,SEC 10-K 0001551152-25-000020
+2024,FY,2024-12-31,12,product,BotoxCosmetic,Botox Cosmetic,,Aesthetics,2720,USD,millions,reported,SEC 10-K 0001551152-25-000020
+2024,FY,2024-12-31,12,product,JuvedermCollection,Juvederm Collection,,Aesthetics,1177,USD,millions,reported,SEC 10-K 0001551152-25-000020
+2024,FY,2024-12-31,12,product,OtherAesthetics,Other Aesthetics,,Aesthetics,1279,USD,millions,reported,SEC 10-K 0001551152-25-000020
+2024,FY,2024-12-31,12,product,AlphaganCombigan,Alphagan/Combigan,,Eye Care,248,USD,millions,reported,SEC 10-K 0001551152-25-000020
+2024,FY,2024-12-31,12,product,LumiganGanfort,Lumigan/Ganfort,,Eye Care,429,USD,millions,reported,SEC 10-K 0001551152-25-000020
+2024,FY,2024-12-31,12,product,OtherEyeCare,Other Eye Care,,Eye Care,847,USD,millions,reported,SEC 10-K 0001551152-25-000020
+2024,FY,2024-12-31,12,product,Ozurdex,Ozurdex,,Eye Care,494,USD,millions,reported,SEC 10-K 0001551152-25-000020
+2024,FY,2024-12-31,12,product,Restasis,Restasis,,Eye Care,224,USD,millions,reported,SEC 10-K 0001551152-25-000020
+2024,FY,2024-12-31,12,product,HUMIRA,Humira,,Immunology,8993,USD,millions,reported,SEC 10-K 0001551152-25-000020
+2024,FY,2024-12-31,12,product,RINVOQ,Rinvoq,,Immunology,5971,USD,millions,reported,SEC 10-K 0001551152-25-000020
+2024,FY,2024-12-31,12,product,SKYRIZI,Skyrizi,,Immunology,11718,USD,millions,reported,SEC 10-K 0001551152-25-000020
+2024,FY,2024-12-31,12,product,BotoxTherapeutic,Botox Therapeutic,,Neuroscience,3283,USD,millions,reported,SEC 10-K 0001551152-25-000020
+2024,FY,2024-12-31,12,product,Duodopa,Duodopa,,Neuroscience,447,USD,millions,reported,SEC 10-K 0001551152-25-000020
+2024,FY,2024-12-31,12,product,OtherNeuroscience,Other Neuroscience,,Neuroscience,338,USD,millions,reported,SEC 10-K 0001551152-25-000020
+2024,FY,2024-12-31,12,product,Qulipta,Qulipta,,Neuroscience,658,USD,millions,reported,SEC 10-K 0001551152-25-000020
+2024,FY,2024-12-31,12,product,Ubrelvy,Ubrelvy,,Neuroscience,1006,USD,millions,reported,SEC 10-K 0001551152-25-000020
+2024,FY,2024-12-31,12,product,Vraylar,Vraylar,,Neuroscience,3267,USD,millions,reported,SEC 10-K 0001551152-25-000020
+2024,FY,2024-12-31,12,product,Elahere,Elahere,,Oncology,479,USD,millions,reported,SEC 10-K 0001551152-25-000020
+2024,FY,2024-12-31,12,product,Epkinly,Epkinly,,Oncology,146,USD,millions,reported,SEC 10-K 0001551152-25-000020
+2024,FY,2024-12-31,12,product,Imbruvica,Imbruvica,,Oncology,3347,USD,millions,reported,SEC 10-K 0001551152-25-000020
+2024,FY,2024-12-31,12,product,VENCLEXTA,Venclexta,,Oncology,2583,USD,millions,reported,SEC 10-K 0001551152-25-000020
+2024,FY,2024-12-31,12,product,LinzessConstella,Linzess/Constella,,Other Key Products,954,USD,millions,reported,SEC 10-K 0001551152-25-000020
+2024,FY,2024-12-31,12,product,MAVYRET,Mavyret,,Other Key Products,1311,USD,millions,reported,SEC 10-K 0001551152-25-000020
+2025,Q1,2025-03-31,3,product,OtherNotItemized,Other (not itemized),,,355,USD,millions,derived,SEC 10-Q 0001551152-25-000029
+2025,Q1,2025-03-31,3,product,OtherProducts,All other,,,747,USD,millions,reported,SEC 10-Q 0001551152-25-000029
+2025,Q1,2025-03-31,3,product,BotoxCosmetic,Botox Cosmetic,,Aesthetics,556,USD,millions,reported,SEC 10-Q 0001551152-25-000029
+2025,Q1,2025-03-31,3,product,JuvedermCollection,Juvederm Collection,,Aesthetics,231,USD,millions,reported,SEC 10-Q 0001551152-25-000029
+2025,Q1,2025-03-31,3,product,OtherAesthetics,Other Aesthetics,,Aesthetics,315,USD,millions,reported,SEC 10-Q 0001551152-25-000029
+2025,Q1,2025-03-31,3,product,AlphaganCombigan,Alphagan/Combigan,,Eye Care,60,USD,millions,reported,SEC 10-Q 0001551152-25-000029
+2025,Q1,2025-03-31,3,product,LumiganGanfort,Lumigan/Ganfort,,Eye Care,106,USD,millions,reported,SEC 10-Q 0001551152-25-000029
+2025,Q1,2025-03-31,3,product,OtherEyeCare,Other Eye Care,,Eye Care,217,USD,millions,reported,SEC 10-Q 0001551152-25-000029
+2025,Q1,2025-03-31,3,product,Ozurdex,Ozurdex,,Eye Care,123,USD,millions,reported,SEC 10-Q 0001551152-25-000029
+2025,Q1,2025-03-31,3,product,HUMIRA,Humira,,Immunology,1121,USD,millions,reported,SEC 10-Q 0001551152-25-000029
+2025,Q1,2025-03-31,3,product,RINVOQ,Rinvoq,,Immunology,1718,USD,millions,reported,SEC 10-Q 0001551152-25-000029
+2025,Q1,2025-03-31,3,product,SKYRIZI,Skyrizi,,Immunology,3425,USD,millions,reported,SEC 10-Q 0001551152-25-000029
+2025,Q1,2025-03-31,3,product,BotoxTherapeutic,Botox Therapeutic,,Neuroscience,866,USD,millions,reported,SEC 10-Q 0001551152-25-000029
+2025,Q1,2025-03-31,3,product,Duodopa,Duodopa,,Neuroscience,96,USD,millions,reported,SEC 10-Q 0001551152-25-000029
+2025,Q1,2025-03-31,3,product,OtherNeuroscience,Other Neuroscience,,Neuroscience,59,USD,millions,reported,SEC 10-Q 0001551152-25-000029
+2025,Q1,2025-03-31,3,product,Qulipta,Qulipta,,Neuroscience,193,USD,millions,reported,SEC 10-Q 0001551152-25-000029
+2025,Q1,2025-03-31,3,product,Ubrelvy,Ubrelvy,,Neuroscience,240,USD,millions,reported,SEC 10-Q 0001551152-25-000029
+2025,Q1,2025-03-31,3,product,Vraylar,Vraylar,,Neuroscience,765,USD,millions,reported,SEC 10-Q 0001551152-25-000029
+2025,Q1,2025-03-31,3,product,Vyalev,Vyalev,,Neuroscience,63,USD,millions,reported,SEC 10-Q 0001551152-25-000029
+2025,Q1,2025-03-31,3,product,Elahere,Elahere,,Oncology,179,USD,millions,reported,SEC 10-Q 0001551152-25-000029
+2025,Q1,2025-03-31,3,product,Epkinly,Epkinly,,Oncology,51,USD,millions,reported,SEC 10-Q 0001551152-25-000029
+2025,Q1,2025-03-31,3,product,Imbruvica,Imbruvica,,Oncology,738,USD,millions,reported,SEC 10-Q 0001551152-25-000029
+2025,Q1,2025-03-31,3,product,VENCLEXTA,Venclexta,,Oncology,665,USD,millions,reported,SEC 10-Q 0001551152-25-000029
+2025,Q1,2025-03-31,3,product,LinzessConstella,Linzess/Constella,,Other Key Products,148,USD,millions,reported,SEC 10-Q 0001551152-25-000029
+2025,Q1,2025-03-31,3,product,MAVYRET,Mavyret,,Other Key Products,306,USD,millions,reported,SEC 10-Q 0001551152-25-000029
+2025,Q2,2025-06-30,3,product,OtherNotItemized,Other (not itemized),,,406,USD,millions,derived,SEC 10-Q 0001551152-25-000040
+2025,Q2,2025-06-30,3,product,OtherProducts,All other,,,603,USD,millions,reported,SEC 10-Q 0001551152-25-000040
+2025,Q2,2025-06-30,3,product,BotoxCosmetic,Botox Cosmetic,,Aesthetics,692,USD,millions,reported,SEC 10-Q 0001551152-25-000040
+2025,Q2,2025-06-30,3,product,JuvedermCollection,Juvederm Collection,,Aesthetics,260,USD,millions,reported,SEC 10-Q 0001551152-25-000040
+2025,Q2,2025-06-30,3,product,OtherAesthetics,Other Aesthetics,,Aesthetics,327,USD,millions,reported,SEC 10-Q 0001551152-25-000040
+2025,Q2,2025-06-30,3,product,AlphaganCombigan,Alphagan/Combigan,,Eye Care,36,USD,millions,reported,SEC 10-Q 0001551152-25-000040
+2025,Q2,2025-06-30,3,product,LumiganGanfort,Lumigan/Ganfort,,Eye Care,103,USD,millions,reported,SEC 10-Q 0001551152-25-000040
+2025,Q2,2025-06-30,3,product,OtherEyeCare,Other Eye Care,,Eye Care,250,USD,millions,reported,SEC 10-Q 0001551152-25-000040
+2025,Q2,2025-06-30,3,product,Ozurdex,Ozurdex,,Eye Care,125,USD,millions,reported,SEC 10-Q 0001551152-25-000040
+2025,Q2,2025-06-30,3,product,HUMIRA,Humira,,Immunology,1180,USD,millions,reported,SEC 10-Q 0001551152-25-000040
+2025,Q2,2025-06-30,3,product,RINVOQ,Rinvoq,,Immunology,2028,USD,millions,reported,SEC 10-Q 0001551152-25-000040
+2025,Q2,2025-06-30,3,product,SKYRIZI,Skyrizi,,Immunology,4423,USD,millions,reported,SEC 10-Q 0001551152-25-000040
+2025,Q2,2025-06-30,3,product,BotoxTherapeutic,Botox Therapeutic,,Neuroscience,928,USD,millions,reported,SEC 10-Q 0001551152-25-000040
+2025,Q2,2025-06-30,3,product,Duodopa,Duodopa,,Neuroscience,97,USD,millions,reported,SEC 10-Q 0001551152-25-000040
+2025,Q2,2025-06-30,3,product,OtherNeuroscience,Other Neuroscience,,Neuroscience,55,USD,millions,reported,SEC 10-Q 0001551152-25-000040
+2025,Q2,2025-06-30,3,product,Qulipta,Qulipta,,Neuroscience,267,USD,millions,reported,SEC 10-Q 0001551152-25-000040
+2025,Q2,2025-06-30,3,product,Ubrelvy,Ubrelvy,,Neuroscience,338,USD,millions,reported,SEC 10-Q 0001551152-25-000040
+2025,Q2,2025-06-30,3,product,Vraylar,Vraylar,,Neuroscience,900,USD,millions,reported,SEC 10-Q 0001551152-25-000040
+2025,Q2,2025-06-30,3,product,Vyalev,Vyalev,,Neuroscience,98,USD,millions,reported,SEC 10-Q 0001551152-25-000040
+2025,Q2,2025-06-30,3,product,Elahere,Elahere,,Oncology,159,USD,millions,reported,SEC 10-Q 0001551152-25-000040
+2025,Q2,2025-06-30,3,product,Epkinly,Epkinly,,Oncology,70,USD,millions,reported,SEC 10-Q 0001551152-25-000040
+2025,Q2,2025-06-30,3,product,Imbruvica,Imbruvica,,Oncology,754,USD,millions,reported,SEC 10-Q 0001551152-25-000040
+2025,Q2,2025-06-30,3,product,VENCLEXTA,Venclexta,,Oncology,691,USD,millions,reported,SEC 10-Q 0001551152-25-000040
+2025,Q2,2025-06-30,3,product,LinzessConstella,Linzess/Constella,,Other Key Products,258,USD,millions,reported,SEC 10-Q 0001551152-25-000040
+2025,Q2,2025-06-30,3,product,MAVYRET,Mavyret,,Other Key Products,375,USD,millions,reported,SEC 10-Q 0001551152-25-000040
+2025,Q3,2025-09-30,3,product,OtherNotItemized,Other (not itemized),,,379,USD,millions,derived,SEC 10-Q 0001551152-25-000049
+2025,Q3,2025-09-30,3,product,OtherProducts,All other,,,660,USD,millions,reported,SEC 10-Q 0001551152-25-000049
+2025,Q3,2025-09-30,3,product,BotoxCosmetic,Botox Cosmetic,,Aesthetics,637,USD,millions,reported,SEC 10-Q 0001551152-25-000049
+2025,Q3,2025-09-30,3,product,JuvedermCollection,Juvederm Collection,,Aesthetics,253,USD,millions,reported,SEC 10-Q 0001551152-25-000049
+2025,Q3,2025-09-30,3,product,OtherAesthetics,Other Aesthetics,,Aesthetics,303,USD,millions,reported,SEC 10-Q 0001551152-25-000049
+2025,Q3,2025-09-30,3,product,AlphaganCombigan,Alphagan/Combigan,,Eye Care,47,USD,millions,reported,SEC 10-Q 0001551152-25-000049
+2025,Q3,2025-09-30,3,product,LumiganGanfort,Lumigan/Ganfort,,Eye Care,97,USD,millions,reported,SEC 10-Q 0001551152-25-000049
+2025,Q3,2025-09-30,3,product,OtherEyeCare,Other Eye Care,,Eye Care,248,USD,millions,reported,SEC 10-Q 0001551152-25-000049
+2025,Q3,2025-09-30,3,product,Ozurdex,Ozurdex,,Eye Care,117,USD,millions,reported,SEC 10-Q 0001551152-25-000049
+2025,Q3,2025-09-30,3,product,HUMIRA,Humira,,Immunology,993,USD,millions,reported,SEC 10-Q 0001551152-25-000049
+2025,Q3,2025-09-30,3,product,RINVOQ,Rinvoq,,Immunology,2184,USD,millions,reported,SEC 10-Q 0001551152-25-000049
+2025,Q3,2025-09-30,3,product,SKYRIZI,Skyrizi,,Immunology,4708,USD,millions,reported,SEC 10-Q 0001551152-25-000049
+2025,Q3,2025-09-30,3,product,BotoxTherapeutic,Botox Therapeutic,,Neuroscience,985,USD,millions,reported,SEC 10-Q 0001551152-25-000049
+2025,Q3,2025-09-30,3,product,Duodopa,Duodopa,,Neuroscience,96,USD,millions,reported,SEC 10-Q 0001551152-25-000049
+2025,Q3,2025-09-30,3,product,OtherNeuroscience,Other Neuroscience,,Neuroscience,46,USD,millions,reported,SEC 10-Q 0001551152-25-000049
+2025,Q3,2025-09-30,3,product,Qulipta,Qulipta,,Neuroscience,288,USD,millions,reported,SEC 10-Q 0001551152-25-000049
+2025,Q3,2025-09-30,3,product,Ubrelvy,Ubrelvy,,Neuroscience,354,USD,millions,reported,SEC 10-Q 0001551152-25-000049
+2025,Q3,2025-09-30,3,product,Vraylar,Vraylar,,Neuroscience,934,USD,millions,reported,SEC 10-Q 0001551152-25-000049
+2025,Q3,2025-09-30,3,product,Vyalev,Vyalev,,Neuroscience,138,USD,millions,reported,SEC 10-Q 0001551152-25-000049
+2025,Q3,2025-09-30,3,product,Elahere,Elahere,,Oncology,170,USD,millions,reported,SEC 10-Q 0001551152-25-000049
+2025,Q3,2025-09-30,3,product,Epkinly,Epkinly,,Oncology,69,USD,millions,reported,SEC 10-Q 0001551152-25-000049
+2025,Q3,2025-09-30,3,product,Imbruvica,Imbruvica,,Oncology,706,USD,millions,reported,SEC 10-Q 0001551152-25-000049
+2025,Q3,2025-09-30,3,product,VENCLEXTA,Venclexta,,Oncology,726,USD,millions,reported,SEC 10-Q 0001551152-25-000049
+2025,Q3,2025-09-30,3,product,LinzessConstella,Linzess/Constella,,Other Key Products,326,USD,millions,reported,SEC 10-Q 0001551152-25-000049
+2025,Q3,2025-09-30,3,product,MAVYRET,Mavyret,,Other Key Products,312,USD,millions,reported,SEC 10-Q 0001551152-25-000049
+2025,Q4,2025-12-31,3,product,OtherNotItemized,Other (not itemized),,,405,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
+2025,Q4,2025-12-31,3,product,OtherProducts,All other,,,617,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
+2025,Q4,2025-12-31,3,product,BotoxCosmetic,Botox Cosmetic,,Aesthetics,717,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
+2025,Q4,2025-12-31,3,product,JuvedermCollection,Juvederm Collection,,Aesthetics,249,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
+2025,Q4,2025-12-31,3,product,OtherAesthetics,Other Aesthetics,,Aesthetics,320,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
+2025,Q4,2025-12-31,3,product,AlphaganCombigan,Alphagan/Combigan,,Eye Care,54,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
+2025,Q4,2025-12-31,3,product,LumiganGanfort,Lumigan/Ganfort,,Eye Care,104,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
+2025,Q4,2025-12-31,3,product,OtherEyeCare,Other Eye Care,,Eye Care,294,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
+2025,Q4,2025-12-31,3,product,Ozurdex,Ozurdex,,Eye Care,128,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
+2025,Q4,2025-12-31,3,product,HUMIRA,Humira,,Immunology,1246,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
+2025,Q4,2025-12-31,3,product,RINVOQ,Rinvoq,,Immunology,2374,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
+2025,Q4,2025-12-31,3,product,SKYRIZI,Skyrizi,,Immunology,5006,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
+2025,Q4,2025-12-31,3,product,BotoxTherapeutic,Botox Therapeutic,,Neuroscience,990,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
+2025,Q4,2025-12-31,3,product,Duodopa,Duodopa,,Neuroscience,92,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
+2025,Q4,2025-12-31,3,product,OtherNeuroscience,Other Neuroscience,,Neuroscience,47,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
+2025,Q4,2025-12-31,3,product,Qulipta,Qulipta,,Neuroscience,288,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
+2025,Q4,2025-12-31,3,product,Ubrelvy,Ubrelvy,,Neuroscience,339,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
+2025,Q4,2025-12-31,3,product,Vraylar,Vraylar,,Neuroscience,1022,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
+2025,Q4,2025-12-31,3,product,Vyalev,Vyalev,,Neuroscience,183,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
+2025,Q4,2025-12-31,3,product,Elahere,Elahere,,Oncology,182,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
+2025,Q4,2025-12-31,3,product,Epkinly,Epkinly,,Oncology,81,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
+2025,Q4,2025-12-31,3,product,Imbruvica,Imbruvica,,Oncology,671,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
+2025,Q4,2025-12-31,3,product,VENCLEXTA,Venclexta,,Oncology,710,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
+2025,Q4,2025-12-31,3,product,LinzessConstella,Linzess/Constella,,Other Key Products,175,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
+2025,Q4,2025-12-31,3,product,MAVYRET,Mavyret,,Other Key Products,324,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
+2025,FY,2025-12-31,12,geography,AU,Australia,,,459,USD,millions,reported,SEC 10-K 0001551152-26-000008
+2025,FY,2025-12-31,12,geography,BR,Brazil,,,478,USD,millions,reported,SEC 10-K 0001551152-26-000008
+2025,FY,2025-12-31,12,geography,CA,Canada,,,1222,USD,millions,reported,SEC 10-K 0001551152-26-000008
+2025,FY,2025-12-31,12,geography,CN,China,,,1006,USD,millions,reported,SEC 10-K 0001551152-26-000008
+2025,FY,2025-12-31,12,geography,DE,Germany,,,1738,USD,millions,reported,SEC 10-K 0001551152-26-000008
+2025,FY,2025-12-31,12,geography,ES,Spain,,,609,USD,millions,reported,SEC 10-K 0001551152-26-000008
+2025,FY,2025-12-31,12,geography,FR,France,,,806,USD,millions,reported,SEC 10-K 0001551152-26-000008
+2025,FY,2025-12-31,12,geography,GB,United Kingdom,,,626,USD,millions,reported,SEC 10-K 0001551152-26-000008
+2025,FY,2025-12-31,12,geography,IT,Italy,,,580,USD,millions,reported,SEC 10-K 0001551152-26-000008
+2025,FY,2025-12-31,12,geography,JP,Japan,,,1274,USD,millions,reported,SEC 10-K 0001551152-26-000008
+2025,FY,2025-12-31,12,geography,OtherCountries,All other countries,,,5759,USD,millions,reported,SEC 10-K 0001551152-26-000008
+2025,FY,2025-12-31,12,geography,US,United States,,,46603,USD,millions,reported,SEC 10-K 0001551152-26-000008
+2025,FY,2025-12-31,12,product,OtherNotItemized,Other (not itemized),,,1545,USD,millions,derived,SEC 10-K 0001551152-26-000008
+2025,FY,2025-12-31,12,product,OtherProducts,All other,,,2627,USD,millions,reported,SEC 10-K 0001551152-26-000008
+2025,FY,2025-12-31,12,product,BotoxCosmetic,Botox Cosmetic,,Aesthetics,2602,USD,millions,reported,SEC 10-K 0001551152-26-000008
+2025,FY,2025-12-31,12,product,JuvedermCollection,Juvederm Collection,,Aesthetics,993,USD,millions,reported,SEC 10-K 0001551152-26-000008
+2025,FY,2025-12-31,12,product,OtherAesthetics,Other Aesthetics,,Aesthetics,1265,USD,millions,reported,SEC 10-K 0001551152-26-000008
+2025,FY,2025-12-31,12,product,AlphaganCombigan,Alphagan/Combigan,,Eye Care,197,USD,millions,reported,SEC 10-K 0001551152-26-000008
+2025,FY,2025-12-31,12,product,LumiganGanfort,Lumigan/Ganfort,,Eye Care,410,USD,millions,reported,SEC 10-K 0001551152-26-000008
+2025,FY,2025-12-31,12,product,OtherEyeCare,Other Eye Care,,Eye Care,1009,USD,millions,reported,SEC 10-K 0001551152-26-000008
+2025,FY,2025-12-31,12,product,Ozurdex,Ozurdex,,Eye Care,493,USD,millions,reported,SEC 10-K 0001551152-26-000008
+2025,FY,2025-12-31,12,product,HUMIRA,Humira,,Immunology,4540,USD,millions,reported,SEC 10-K 0001551152-26-000008
+2025,FY,2025-12-31,12,product,RINVOQ,Rinvoq,,Immunology,8304,USD,millions,reported,SEC 10-K 0001551152-26-000008
+2025,FY,2025-12-31,12,product,SKYRIZI,Skyrizi,,Immunology,17562,USD,millions,reported,SEC 10-K 0001551152-26-000008
+2025,FY,2025-12-31,12,product,BotoxTherapeutic,Botox Therapeutic,,Neuroscience,3769,USD,millions,reported,SEC 10-K 0001551152-26-000008
+2025,FY,2025-12-31,12,product,Duodopa,Duodopa,,Neuroscience,381,USD,millions,reported,SEC 10-K 0001551152-26-000008
+2025,FY,2025-12-31,12,product,OtherNeuroscience,Other Neuroscience,,Neuroscience,207,USD,millions,reported,SEC 10-K 0001551152-26-000008
+2025,FY,2025-12-31,12,product,Qulipta,Qulipta,,Neuroscience,1036,USD,millions,reported,SEC 10-K 0001551152-26-000008
+2025,FY,2025-12-31,12,product,Ubrelvy,Ubrelvy,,Neuroscience,1271,USD,millions,reported,SEC 10-K 0001551152-26-000008
+2025,FY,2025-12-31,12,product,Vraylar,Vraylar,,Neuroscience,3621,USD,millions,reported,SEC 10-K 0001551152-26-000008
+2025,FY,2025-12-31,12,product,Vyalev,Vyalev,,Neuroscience,482,USD,millions,reported,SEC 10-K 0001551152-26-000008
+2025,FY,2025-12-31,12,product,Elahere,Elahere,,Oncology,690,USD,millions,reported,SEC 10-K 0001551152-26-000008
+2025,FY,2025-12-31,12,product,Epkinly,Epkinly,,Oncology,271,USD,millions,reported,SEC 10-K 0001551152-26-000008
+2025,FY,2025-12-31,12,product,Imbruvica,Imbruvica,,Oncology,2869,USD,millions,reported,SEC 10-K 0001551152-26-000008
+2025,FY,2025-12-31,12,product,VENCLEXTA,Venclexta,,Oncology,2792,USD,millions,reported,SEC 10-K 0001551152-26-000008
+2025,FY,2025-12-31,12,product,LinzessConstella,Linzess/Constella,,Other Key Products,907,USD,millions,reported,SEC 10-K 0001551152-26-000008
+2025,FY,2025-12-31,12,product,MAVYRET,Mavyret,,Other Key Products,1317,USD,millions,reported,SEC 10-K 0001551152-26-000008
+2026,Q1,2026-03-31,3,product,OtherNotItemized,Other (not itemized),,,385,USD,millions,derived,SEC 10-Q 0001551152-26-000017
+2026,Q1,2026-03-31,3,product,OtherProducts,All other,,,1025,USD,millions,reported,SEC 10-Q 0001551152-26-000017
+2026,Q1,2026-03-31,3,product,BotoxCosmetic,Botox Cosmetic,,Aesthetics,668,USD,millions,reported,SEC 10-Q 0001551152-26-000017
+2026,Q1,2026-03-31,3,product,JuvedermCollection,Juvederm Collection,,Aesthetics,232,USD,millions,reported,SEC 10-Q 0001551152-26-000017
+2026,Q1,2026-03-31,3,product,OtherAesthetics,Other Aesthetics,,Aesthetics,286,USD,millions,reported,SEC 10-Q 0001551152-26-000017
+2026,Q1,2026-03-31,3,product,HUMIRA,Humira,,Immunology,688,USD,millions,reported,SEC 10-Q 0001551152-26-000017
+2026,Q1,2026-03-31,3,product,RINVOQ,Rinvoq,,Immunology,2119,USD,millions,reported,SEC 10-Q 0001551152-26-000017
+2026,Q1,2026-03-31,3,product,SKYRIZI,Skyrizi,,Immunology,4483,USD,millions,reported,SEC 10-Q 0001551152-26-000017
+2026,Q1,2026-03-31,3,product,BotoxTherapeutic,Botox Therapeutic,,Neuroscience,1009,USD,millions,reported,SEC 10-Q 0001551152-26-000017
+2026,Q1,2026-03-31,3,product,OtherNeuroscience,Other Neuroscience,,Neuroscience,125,USD,millions,reported,SEC 10-Q 0001551152-26-000017
+2026,Q1,2026-03-31,3,product,Qulipta,Qulipta,,Neuroscience,296,USD,millions,reported,SEC 10-Q 0001551152-26-000017
+2026,Q1,2026-03-31,3,product,Ubrelvy,Ubrelvy,,Neuroscience,339,USD,millions,reported,SEC 10-Q 0001551152-26-000017
+2026,Q1,2026-03-31,3,product,Vraylar,Vraylar,,Neuroscience,905,USD,millions,reported,SEC 10-Q 0001551152-26-000017
+2026,Q1,2026-03-31,3,product,Vyalev,Vyalev,,Neuroscience,201,USD,millions,reported,SEC 10-Q 0001551152-26-000017
+2026,Q1,2026-03-31,3,product,Elahere,Elahere,,Oncology,198,USD,millions,reported,SEC 10-Q 0001551152-26-000017
+2026,Q1,2026-03-31,3,product,Epkinly,Epkinly,,Oncology,83,USD,millions,reported,SEC 10-Q 0001551152-26-000017
+2026,Q1,2026-03-31,3,product,Imbruvica,Imbruvica,,Oncology,556,USD,millions,reported,SEC 10-Q 0001551152-26-000017
+2026,Q1,2026-03-31,3,product,VENCLEXTA,Venclexta,,Oncology,770,USD,millions,reported,SEC 10-Q 0001551152-26-000017
+2026,Q1,2026-03-31,3,product,LinzessConstella,Linzess,,Other Key Products,283,USD,millions,reported,SEC 10-Q 0001551152-26-000017
+2026,Q1,2026-03-31,3,product,MAVYRET,Mavyret,,Other Key Products,351,USD,millions,reported,SEC 10-Q 0001551152-26-000017
+2026,Q2,2026-06-30,3,product,OtherNotItemized,Other (not itemized),,,378,USD,millions,derived,SEC 10-Q 0001551152-26-000026
+2026,Q2,2026-06-30,3,product,OtherProducts,All other,,,1109,USD,millions,reported,SEC 10-Q 0001551152-26-000026
+2026,Q2,2026-06-30,3,product,BotoxCosmetic,Botox Cosmetic,,Aesthetics,728,USD,millions,reported,SEC 10-Q 0001551152-26-000026
+2026,Q2,2026-06-30,3,product,JuvedermCollection,Juvederm Collection,,Aesthetics,245,USD,millions,reported,SEC 10-Q 0001551152-26-000026
+2026,Q2,2026-06-30,3,product,OtherAesthetics,Other Aesthetics,,Aesthetics,309,USD,millions,reported,SEC 10-Q 0001551152-26-000026
+2026,Q2,2026-06-30,3,product,HUMIRA,Humira,,Immunology,756,USD,millions,reported,SEC 10-Q 0001551152-26-000026
+2026,Q2,2026-06-30,3,product,RINVOQ,Rinvoq,,Immunology,2525,USD,millions,reported,SEC 10-Q 0001551152-26-000026
+2026,Q2,2026-06-30,3,product,SKYRIZI,Skyrizi,,Immunology,5505,USD,millions,reported,SEC 10-Q 0001551152-26-000026
+2026,Q2,2026-06-30,3,product,BotoxTherapeutic,Botox Therapeutic,,Neuroscience,1042,USD,millions,reported,SEC 10-Q 0001551152-26-000026
+2026,Q2,2026-06-30,3,product,OtherNeuroscience,Other Neuroscience,,Neuroscience,117,USD,millions,reported,SEC 10-Q 0001551152-26-000026
+2026,Q2,2026-06-30,3,product,Qulipta,Qulipta,,Neuroscience,350,USD,millions,reported,SEC 10-Q 0001551152-26-000026
+2026,Q2,2026-06-30,3,product,Ubrelvy,Ubrelvy,,Neuroscience,392,USD,millions,reported,SEC 10-Q 0001551152-26-000026
+2026,Q2,2026-06-30,3,product,Vraylar,Vraylar,,Neuroscience,1071,USD,millions,reported,SEC 10-Q 0001551152-26-000026
+2026,Q2,2026-06-30,3,product,Vyalev,Vyalev,,Neuroscience,256,USD,millions,reported,SEC 10-Q 0001551152-26-000026
+2026,Q2,2026-06-30,3,product,Elahere,Elahere,,Oncology,211,USD,millions,reported,SEC 10-Q 0001551152-26-000026
+2026,Q2,2026-06-30,3,product,Epkinly,Epkinly,,Oncology,103,USD,millions,reported,SEC 10-Q 0001551152-26-000026
+2026,Q2,2026-06-30,3,product,Imbruvica,Imbruvica,,Oncology,532,USD,millions,reported,SEC 10-Q 0001551152-26-000026
+2026,Q2,2026-06-30,3,product,VENCLEXTA,Venclexta,,Oncology,771,USD,millions,reported,SEC 10-Q 0001551152-26-000026
+2026,Q2,2026-06-30,3,product,LinzessConstella,Linzess,,Other Key Products,295,USD,millions,reported,SEC 10-Q 0001551152-26-000026
+2026,Q2,2026-06-30,3,product,MAVYRET,Mavyret,,Other Key Products,295,USD,millions,reported,SEC 10-Q 0001551152-26-000026
+2026,Q3,2026-09-30,3,product,OtherNotItemized,Other (not itemized),,,400,USD,millions,derived,SEC 10-Q 0001551152-26-000037
+2026,Q3,2026-09-30,3,product,OtherProducts,All other,,,1013,USD,millions,reported,SEC 10-Q 0001551152-26-000037
+2026,Q3,2026-09-30,3,product,BotoxCosmetic,Botox Cosmetic,,Aesthetics,669,USD,millions,reported,SEC 10-Q 0001551152-26-000037
+2026,Q3,2026-09-30,3,product,JuvedermCollection,Juvederm Collection,,Aesthetics,222,USD,millions,reported,SEC 10-Q 0001551152-26-000037
+2026,Q3,2026-09-30,3,product,OtherAesthetics,Other Aesthetics,,Aesthetics,285,USD,millions,reported,SEC 10-Q 0001551152-26-000037
+2026,Q3,2026-09-30,3,product,HUMIRA,Humira,,Immunology,683,USD,millions,reported,SEC 10-Q 0001551152-26-000037
+2026,Q3,2026-09-30,3,product,RINVOQ,Rinvoq,,Immunology,2706,USD,millions,reported,SEC 10-Q 0001551152-26-000037
+2026,Q3,2026-09-30,3,product,SKYRIZI,Skyrizi,,Immunology,5776,USD,millions,reported,SEC 10-Q 0001551152-26-000037
+2026,Q3,2026-09-30,3,product,BotoxTherapeutic,Botox Therapeutic,,Neuroscience,1080,USD,millions,reported,SEC 10-Q 0001551152-26-000037
+2026,Q3,2026-09-30,3,product,OtherNeuroscience,Other Neuroscience,,Neuroscience,108,USD,millions,reported,SEC 10-Q 0001551152-26-000037
+2026,Q3,2026-09-30,3,product,Qulipta,Qulipta,,Neuroscience,398,USD,millions,reported,SEC 10-Q 0001551152-26-000037
+2026,Q3,2026-09-30,3,product,Ubrelvy,Ubrelvy,,Neuroscience,449,USD,millions,reported,SEC 10-Q 0001551152-26-000037
+2026,Q3,2026-09-30,3,product,Vraylar,Vraylar,,Neuroscience,1068,USD,millions,reported,SEC 10-Q 0001551152-26-000037
+2026,Q3,2026-09-30,3,product,Vyalev,Vyalev,,Neuroscience,286,USD,millions,reported,SEC 10-Q 0001551152-26-000037
+2026,Q3,2026-09-30,3,product,Elahere,Elahere,,Oncology,224,USD,millions,reported,SEC 10-Q 0001551152-26-000037
+2026,Q3,2026-09-30,3,product,Epkinly,Epkinly,,Oncology,108,USD,millions,reported,SEC 10-Q 0001551152-26-000037
+2026,Q3,2026-09-30,3,product,Imbruvica,Imbruvica,,Oncology,522,USD,millions,reported,SEC 10-Q 0001551152-26-000037
+2026,Q3,2026-09-30,3,product,VENCLEXTA,Venclexta,,Oncology,803,USD,millions,reported,SEC 10-Q 0001551152-26-000037
+2026,Q3,2026-09-30,3,product,LinzessConstella,Linzess,,Other Key Products,339,USD,millions,reported,SEC 10-Q 0001551152-26-000037
+2026,Q3,2026-09-30,3,product,MAVYRET,Mavyret,,Other Key Products,265,USD,millions,reported,SEC 10-Q 0001551152-26-000037

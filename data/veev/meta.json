@@ -1,0 +1,16 @@
+{
+  "currency": "USD",
+  "events": 0,
+  "id": "veev",
+  "latest_period": "2027 Q2",
+  "latest_period_end": "2026-07-31",
+  "name_en": "Veeva Systems",
+  "name_zh": "Veeva",
+  "rows": {
+    "balance": 26,
+    "cashflow": 32,
+    "income": 32,
+    "segments": 236
+  },
+  "source": "sec"
+}

@@ -1,0 +1,559 @@
+fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,value,currency,unit,basis,source
+2021,Q1,2021-03-31,3,geography,Europe,Europe,,,1336,USD,millions,reported,SEC 10-Q 0000882095-22-000013
+2021,Q1,2021-03-31,3,geography,OtherInternational,Other International,,,827,USD,millions,reported,SEC 10-Q 0000882095-22-000013
+2021,Q1,2021-03-31,3,geography,US,U.S.,,,4260,USD,millions,reported,SEC 10-Q 0000882095-22-000013
+2021,Q1,2021-03-31,3,product,RoyaltyContractAndOther,"Royalty, contract and other revenues",,Other,83,USD,millions,reported,SEC 10-Q 0000882095-22-000013
+2021,Q1,2021-03-31,3,product,CellTherapyProductsTecartus,Tecartus,,Product sales,31,USD,millions,reported,SEC 10-Q 0000882095-22-000013
+2021,Q1,2021-03-31,3,product,CellTherapyProductsYescarta,Yescarta,,Product sales,160,USD,millions,reported,SEC 10-Q 0000882095-22-000013
+2021,Q1,2021-03-31,3,product,HCVProductsLedipasvirSofosbuvir,Ledipasvir/Sofosbuvir,,Product sales,56,USD,millions,reported,SEC 10-Q 0000882095-22-000013
+2021,Q1,2021-03-31,3,product,HCVProductsSofosbuvirVelpatasvir,Sofosbuvir/Velpatasvir,,Product sales,381,USD,millions,reported,SEC 10-Q 0000882095-22-000013
+2021,Q1,2021-03-31,3,product,HIVProductsBiktarvy,Biktarvy,,Product sales,1824,USD,millions,reported,SEC 10-Q 0000882095-22-000013
+2021,Q1,2021-03-31,3,product,HIVProductsCompleraEviplera,Complera/Eviplera,,Product sales,63,USD,millions,reported,SEC 10-Q 0000882095-22-000013
+2021,Q1,2021-03-31,3,product,HIVProductsDescovy,Descovy,,Product sales,359,USD,millions,reported,SEC 10-Q 0000882095-22-000013
+2021,Q1,2021-03-31,3,product,HIVProductsGenvoya,Genvoya,,Product sales,673,USD,millions,reported,SEC 10-Q 0000882095-22-000013
+2021,Q1,2021-03-31,3,product,HIVProductsOdefsey,Odefsey,,Product sales,367,USD,millions,reported,SEC 10-Q 0000882095-22-000013
+2021,Q1,2021-03-31,3,product,HIVProductsStribild,Stribild,,Product sales,46,USD,millions,reported,SEC 10-Q 0000882095-22-000013
+2021,Q1,2021-03-31,3,product,HIVProductsTruvada,Truvada,,Product sales,135,USD,millions,reported,SEC 10-Q 0000882095-22-000013
+2021,Q1,2021-03-31,3,product,HepatitisBVirusHepatitisDeltaVirusProductOther,Other HBV/HBD,,Product sales,8,USD,millions,reported,SEC 10-Q 0000882095-22-000013
+2021,Q1,2021-03-31,3,product,HepatitisBVirusHepatitisDeltaVirusProductVemlidy,Vemlidy,,Product sales,181,USD,millions,reported,SEC 10-Q 0000882095-22-000013
+2021,Q1,2021-03-31,3,product,HepatitisBVirusHepatitisDeltaVirusProductViread,Viread,,Product sales,31,USD,millions,reported,SEC 10-Q 0000882095-22-000013
+2021,Q1,2021-03-31,3,product,OtherHepatitisCVirusProducts,Other HCV,,Product sales,73,USD,millions,reported,SEC 10-Q 0000882095-22-000013
+2021,Q1,2021-03-31,3,product,OtherProductsAmBisome,AmBisome,,Product sales,121,USD,millions,reported,SEC 10-Q 0000882095-22-000013
+2021,Q1,2021-03-31,3,product,OtherProductsLetairis,Letairis,,Product sales,54,USD,millions,reported,SEC 10-Q 0000882095-22-000013
+2021,Q1,2021-03-31,3,product,OtherProductsOther,Other,,Product sales,66,USD,millions,reported,SEC 10-Q 0000882095-22-000013
+2021,Q1,2021-03-31,3,product,ProductsOtherHIV,Other HIV,,Product sales,48,USD,millions,reported,SEC 10-Q 0000882095-22-000013
+2021,Q1,2021-03-31,3,product,ProductsRevenueShareSymtuza,Revenue share - Symtuza,,Product sales,135,USD,millions,reported,SEC 10-Q 0000882095-22-000013
+2021,Q1,2021-03-31,3,product,Trodelvy,Trodelvy,,Product sales,72,USD,millions,reported,SEC 10-Q 0000882095-22-000013
+2021,Q1,2021-03-31,3,product,Veklury,Veklury,,Product sales,1456,USD,millions,reported,SEC 10-Q 0000882095-22-000013
+2021,Q2,2021-06-30,3,geography,Europe,Europe,,,1192,USD,millions,reported,SEC 10-Q 0000882095-22-000019
+2021,Q2,2021-06-30,3,geography,OtherInternational,Other International,,,792,USD,millions,reported,SEC 10-Q 0000882095-22-000019
+2021,Q2,2021-06-30,3,geography,US,U.S.,,,4233,USD,millions,reported,SEC 10-Q 0000882095-22-000019
+2021,Q2,2021-06-30,3,product,RoyaltyContractAndOther,"Royalty, contract and other revenues",,Other,65,USD,millions,reported,SEC 10-Q 0000882095-22-000019
+2021,Q2,2021-06-30,3,product,CellTherapyProductsTecartus,Tecartus,,Product sales,41,USD,millions,reported,SEC 10-Q 0000882095-22-000019
+2021,Q2,2021-06-30,3,product,CellTherapyProductsYescarta,Yescarta,,Product sales,178,USD,millions,reported,SEC 10-Q 0000882095-22-000019
+2021,Q2,2021-06-30,3,product,HCVProductsLedipasvirSofosbuvir,Ledipasvir/Sofosbuvir,,Product sales,62,USD,millions,reported,SEC 10-Q 0000882095-22-000019
+2021,Q2,2021-06-30,3,product,HCVProductsSofosbuvirVelpatasvir,Sofosbuvir/Velpatasvir,,Product sales,442,USD,millions,reported,SEC 10-Q 0000882095-22-000019
+2021,Q2,2021-06-30,3,product,HIVProductsBiktarvy,Biktarvy,,Product sales,1994,USD,millions,reported,SEC 10-Q 0000882095-22-000019
+2021,Q2,2021-06-30,3,product,HIVProductsCompleraEviplera,Complera/Eviplera,,Product sales,62,USD,millions,reported,SEC 10-Q 0000882095-22-000019
+2021,Q2,2021-06-30,3,product,HIVProductsDescovy,Descovy,,Product sales,435,USD,millions,reported,SEC 10-Q 0000882095-22-000019
+2021,Q2,2021-06-30,3,product,HIVProductsGenvoya,Genvoya,,Product sales,706,USD,millions,reported,SEC 10-Q 0000882095-22-000019
+2021,Q2,2021-06-30,3,product,HIVProductsOdefsey,Odefsey,,Product sales,382,USD,millions,reported,SEC 10-Q 0000882095-22-000019
+2021,Q2,2021-06-30,3,product,HIVProductsStribild,Stribild,,Product sales,51,USD,millions,reported,SEC 10-Q 0000882095-22-000019
+2021,Q2,2021-06-30,3,product,HIVProductsTruvada,Truvada,,Product sales,108,USD,millions,reported,SEC 10-Q 0000882095-22-000019
+2021,Q2,2021-06-30,3,product,HepatitisBVirusHepatitisDeltaVirusProductOther,Other HBV/HBD,,Product sales,9,USD,millions,reported,SEC 10-Q 0000882095-22-000019
+2021,Q2,2021-06-30,3,product,HepatitisBVirusHepatitisDeltaVirusProductVemlidy,Vemlidy,,Product sales,200,USD,millions,reported,SEC 10-Q 0000882095-22-000019
+2021,Q2,2021-06-30,3,product,HepatitisBVirusHepatitisDeltaVirusProductViread,Viread,,Product sales,28,USD,millions,reported,SEC 10-Q 0000882095-22-000019
+2021,Q2,2021-06-30,3,product,OtherHepatitisCVirusProducts,Other HCV,,Product sales,45,USD,millions,reported,SEC 10-Q 0000882095-22-000019
+2021,Q2,2021-06-30,3,product,OtherProductsAmBisome,AmBisome,,Product sales,156,USD,millions,reported,SEC 10-Q 0000882095-22-000019
+2021,Q2,2021-06-30,3,product,OtherProductsLetairis,Letairis,,Product sales,57,USD,millions,reported,SEC 10-Q 0000882095-22-000019
+2021,Q2,2021-06-30,3,product,OtherProductsOther,Other,,Product sales,78,USD,millions,reported,SEC 10-Q 0000882095-22-000019
+2021,Q2,2021-06-30,3,product,ProductsOtherHIV,Other HIV,,Product sales,71,USD,millions,reported,SEC 10-Q 0000882095-22-000019
+2021,Q2,2021-06-30,3,product,ProductsRevenueShareSymtuza,Revenue share - Symtuza,,Product sales,129,USD,millions,reported,SEC 10-Q 0000882095-22-000019
+2021,Q2,2021-06-30,3,product,Trodelvy,Trodelvy,,Product sales,89,USD,millions,reported,SEC 10-Q 0000882095-22-000019
+2021,Q2,2021-06-30,3,product,Veklury,Veklury,,Product sales,829,USD,millions,reported,SEC 10-Q 0000882095-22-000019
+2021,Q3,2021-09-30,3,geography,Europe,Europe,,,1031,USD,millions,reported,SEC 10-Q 0000882095-22-000027
+2021,Q3,2021-09-30,3,geography,OtherInternational,Other International,,,881,USD,millions,reported,SEC 10-Q 0000882095-22-000027
+2021,Q3,2021-09-30,3,geography,US,U.S.,,,5509,USD,millions,reported,SEC 10-Q 0000882095-22-000027
+2021,Q3,2021-09-30,3,product,RoyaltyContractAndOther,"Royalty, contract and other revenues",,Other,65,USD,millions,reported,SEC 10-Q 0000882095-22-000027
+2021,Q3,2021-09-30,3,product,CellTherapyProductsTecartus,Tecartus,,Product sales,47,USD,millions,reported,SEC 10-Q 0000882095-22-000027
+2021,Q3,2021-09-30,3,product,CellTherapyProductsYescarta,Yescarta,,Product sales,175,USD,millions,reported,SEC 10-Q 0000882095-22-000027
+2021,Q3,2021-09-30,3,product,HCVProductsLedipasvirSofosbuvir,Ledipasvir/Sofosbuvir,,Product sales,45,USD,millions,reported,SEC 10-Q 0000882095-22-000027
+2021,Q3,2021-09-30,3,product,HCVProductsSofosbuvirVelpatasvir,Sofosbuvir/Velpatasvir,,Product sales,332,USD,millions,reported,SEC 10-Q 0000882095-22-000027
+2021,Q3,2021-09-30,3,product,HIVProductsBiktarvy,Biktarvy,,Product sales,2276,USD,millions,reported,SEC 10-Q 0000882095-22-000027
+2021,Q3,2021-09-30,3,product,HIVProductsCompleraEviplera,Complera/Eviplera,,Product sales,64,USD,millions,reported,SEC 10-Q 0000882095-22-000027
+2021,Q3,2021-09-30,3,product,HIVProductsDescovy,Descovy,,Product sales,433,USD,millions,reported,SEC 10-Q 0000882095-22-000027
+2021,Q3,2021-09-30,3,product,HIVProductsGenvoya,Genvoya,,Product sales,744,USD,millions,reported,SEC 10-Q 0000882095-22-000027
+2021,Q3,2021-09-30,3,product,HIVProductsOdefsey,Odefsey,,Product sales,399,USD,millions,reported,SEC 10-Q 0000882095-22-000027
+2021,Q3,2021-09-30,3,product,HIVProductsStribild,Stribild,,Product sales,42,USD,millions,reported,SEC 10-Q 0000882095-22-000027
+2021,Q3,2021-09-30,3,product,HIVProductsTruvada,Truvada,,Product sales,67,USD,millions,reported,SEC 10-Q 0000882095-22-000027
+2021,Q3,2021-09-30,3,product,HepatitisBVirusHepatitisDeltaVirusProductOther,Other HBV/HBD,,Product sales,13,USD,millions,reported,SEC 10-Q 0000882095-22-000027
+2021,Q3,2021-09-30,3,product,HepatitisBVirusHepatitisDeltaVirusProductVemlidy,Vemlidy,,Product sales,208,USD,millions,reported,SEC 10-Q 0000882095-22-000027
+2021,Q3,2021-09-30,3,product,HepatitisBVirusHepatitisDeltaVirusProductViread,Viread,,Product sales,26,USD,millions,reported,SEC 10-Q 0000882095-22-000027
+2021,Q3,2021-09-30,3,product,OtherHepatitisCVirusProducts,Other HCV,,Product sales,52,USD,millions,reported,SEC 10-Q 0000882095-22-000027
+2021,Q3,2021-09-30,3,product,OtherProductsAmBisome,AmBisome,,Product sales,143,USD,millions,reported,SEC 10-Q 0000882095-22-000027
+2021,Q3,2021-09-30,3,product,OtherProductsLetairis,Letairis,,Product sales,46,USD,millions,reported,SEC 10-Q 0000882095-22-000027
+2021,Q3,2021-09-30,3,product,OtherProductsOther,Other,,Product sales,56,USD,millions,reported,SEC 10-Q 0000882095-22-000027
+2021,Q3,2021-09-30,3,product,ProductsOtherHIV,Other HIV,,Product sales,34,USD,millions,reported,SEC 10-Q 0000882095-22-000027
+2021,Q3,2021-09-30,3,product,ProductsRevenueShareSymtuza,Revenue share - Symtuza,,Product sales,130,USD,millions,reported,SEC 10-Q 0000882095-22-000027
+2021,Q3,2021-09-30,3,product,Trodelvy,Trodelvy,,Product sales,101,USD,millions,reported,SEC 10-Q 0000882095-22-000027
+2021,Q3,2021-09-30,3,product,Veklury,Veklury,,Product sales,1923,USD,millions,reported,SEC 10-Q 0000882095-22-000027
+2021,Q4,2021-12-31,3,geography,Europe,Europe,,,1315,USD,millions,derived,SEC 10-K 0000882095-23-000007 − 10-Q 0000882095-22-000027
+2021,Q4,2021-12-31,3,geography,OtherInternational,Other International,,,664,USD,millions,derived,SEC 10-K 0000882095-23-000007 − 10-Q 0000882095-22-000027
+2021,Q4,2021-12-31,3,geography,US,United States,,,5265,USD,millions,derived,SEC 10-K 0000882095-23-000007 − 10-Q 0000882095-22-000027
+2021,FY,2021-12-31,12,geography,Europe,Europe,,,4874,USD,millions,reported,SEC 10-K 0000882095-23-000007
+2021,FY,2021-12-31,12,geography,OtherInternational,Other International,,,3164,USD,millions,reported,SEC 10-K 0000882095-23-000007
+2021,FY,2021-12-31,12,geography,US,United States,,,19267,USD,millions,reported,SEC 10-K 0000882095-23-000007
+2021,FY,2021-12-31,12,product,RoyaltyContractAndOther,"Royalty, contract and other revenues",,Other,297,USD,millions,reported,SEC 10-K 0000882095-23-000007
+2021,FY,2021-12-31,12,product,CellTherapyProductsTecartus,Tecartus,,Product,176,USD,millions,reported,SEC 10-K 0000882095-23-000007
+2021,FY,2021-12-31,12,product,HCVProductsLedipasvirSofosbuvir,Ledipasvir/Sofosbuvir,,Product,212,USD,millions,reported,SEC 10-K 0000882095-23-000007
+2021,FY,2021-12-31,12,product,HCVProductsSofosbuvirVelpatasvir,Sofosbuvir/Velpatasvir,,Product,1462,USD,millions,reported,SEC 10-K 0000882095-23-000007
+2021,FY,2021-12-31,12,product,HIVProductsBiktarvy,Biktarvy,,Product,8624,USD,millions,reported,SEC 10-K 0000882095-23-000007
+2021,FY,2021-12-31,12,product,HIVProductsCompleraEviplera,Complera/Eviplera,,Product,258,USD,millions,reported,SEC 10-K 0000882095-23-000007
+2021,FY,2021-12-31,12,product,HIVProductsDescovy,Descovy,,Product,1700,USD,millions,reported,SEC 10-K 0000882095-23-000007
+2021,FY,2021-12-31,12,product,HIVProductsGenvoya,Genvoya,,Product,2879,USD,millions,reported,SEC 10-K 0000882095-23-000007
+2021,FY,2021-12-31,12,product,HIVProductsOdefsey,Odefsey,,Product,1568,USD,millions,reported,SEC 10-K 0000882095-23-000007
+2021,FY,2021-12-31,12,product,HIVProductsStribild,Stribild,,Product,189,USD,millions,reported,SEC 10-K 0000882095-23-000007
+2021,FY,2021-12-31,12,product,HIVProductsTruvada,Truvada,,Product,371,USD,millions,reported,SEC 10-K 0000882095-23-000007
+2021,FY,2021-12-31,12,product,HepatitisBVirusHepatitisDeltaVirusProductOther,Other HB/HDV,,Product,44,USD,millions,reported,SEC 10-K 0000882095-23-000007
+2021,FY,2021-12-31,12,product,HepatitisBVirusHepatitisDeltaVirusProductVemlidy,Vemlidy,,Product,814,USD,millions,reported,SEC 10-K 0000882095-23-000007
+2021,FY,2021-12-31,12,product,HepatitisBVirusHepatitisDeltaVirusProductViread,Viread,,Product,111,USD,millions,reported,SEC 10-K 0000882095-23-000007
+2021,FY,2021-12-31,12,product,OtherHCV,Other HCV,,Product,207,USD,millions,reported,SEC 10-K 0000882095-23-000007
+2021,FY,2021-12-31,12,product,OtherProductsAmBisome,AmBisome,,Product,540,USD,millions,reported,SEC 10-K 0000882095-23-000007
+2021,FY,2021-12-31,12,product,OtherProductsLetairis,Letairis,,Product,206,USD,millions,reported,SEC 10-K 0000882095-23-000007
+2021,FY,2021-12-31,12,product,OtherProductsOther,Other,,Product,281,USD,millions,reported,SEC 10-K 0000882095-23-000007
+2021,FY,2021-12-31,12,product,OtherProductsYescarta,Yescarta,,Product,695,USD,millions,reported,SEC 10-K 0000882095-23-000007
+2021,FY,2021-12-31,12,product,ProductsOtherHIV,Other HIV,,Product,195,USD,millions,reported,SEC 10-K 0000882095-23-000007
+2021,FY,2021-12-31,12,product,ProductsRevenueShareSymtuza,Revenue share - Symtuza,,Product,531,USD,millions,reported,SEC 10-K 0000882095-23-000007
+2021,FY,2021-12-31,12,product,Trodelvy,Trodelvy,,Product,380,USD,millions,reported,SEC 10-K 0000882095-23-000007
+2021,FY,2021-12-31,12,product,Veklury,Veklury,,Product,5565,USD,millions,reported,SEC 10-K 0000882095-23-000007
+2022,Q1,2022-03-31,3,geography,Europe,Europe,,,1202,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2022,Q1,2022-03-31,3,geography,OtherInternational,Other International,,,1033,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2022,Q1,2022-03-31,3,geography,US,U.S.,,,4355,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2022,Q1,2022-03-31,3,product,RoyaltyContractAndOther,"Royalty, contract and other revenues",,Other,56,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2022,Q1,2022-03-31,3,product,CellTherapyProductsTecartus,Tecartus,,Product sales,63,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2022,Q1,2022-03-31,3,product,CellTherapyProductsYescarta,Yescarta,,Product sales,211,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2022,Q1,2022-03-31,3,product,HCVProductsLedipasvirSofosbuvir,Ledipasvir/Sofosbuvir,,Product sales,35,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2022,Q1,2022-03-31,3,product,HCVProductsSofosbuvirVelpatasvir,Sofosbuvir/Velpatasvir,,Product sales,330,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2022,Q1,2022-03-31,3,product,HIVProductsBiktarvy,Biktarvy,,Product sales,2151,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2022,Q1,2022-03-31,3,product,HIVProductsCompleraEviplera,Complera/Eviplera,,Product sales,44,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2022,Q1,2022-03-31,3,product,HIVProductsDescovy,Descovy,,Product sales,374,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2022,Q1,2022-03-31,3,product,HIVProductsGenvoya,Genvoya,,Product sales,582,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2022,Q1,2022-03-31,3,product,HIVProductsOdefsey,Odefsey,,Product sales,339,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2022,Q1,2022-03-31,3,product,HIVProductsStribild,Stribild,,Product sales,32,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2022,Q1,2022-03-31,3,product,HIVProductsTruvada,Truvada,,Product sales,38,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2022,Q1,2022-03-31,3,product,HepatitisBVirusHepatitisDeltaVirusProductOther,Other HBV/HBD,,Product sales,13,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2022,Q1,2022-03-31,3,product,HepatitisBVirusHepatitisDeltaVirusProductVemlidy,Vemlidy,,Product sales,200,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2022,Q1,2022-03-31,3,product,HepatitisBVirusHepatitisDeltaVirusProductViread,Viread,,Product sales,23,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2022,Q1,2022-03-31,3,product,OtherHepatitisCVirusProducts,Other HCV,,Product sales,34,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2022,Q1,2022-03-31,3,product,OtherProductsAmBisome,AmBisome,,Product sales,144,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2022,Q1,2022-03-31,3,product,OtherProductsLetairis,Letairis,,Product sales,43,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2022,Q1,2022-03-31,3,product,OtherProductsOther,Other,,Product sales,50,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2022,Q1,2022-03-31,3,product,ProductsOtherHIV,Other HIV,,Product sales,14,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2022,Q1,2022-03-31,3,product,ProductsRevenueShareSymtuza,Revenue share - Symtuza,,Product sales,132,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2022,Q1,2022-03-31,3,product,Trodelvy,Trodelvy,,Product sales,146,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2022,Q1,2022-03-31,3,product,Veklury,Veklury,,Product sales,1535,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2022,Q2,2022-06-30,3,geography,Europe,Europe,,,1076,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2022,Q2,2022-06-30,3,geography,OtherInternational,Other International,,,844,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2022,Q2,2022-06-30,3,geography,US,U.S.,,,4339,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2022,Q2,2022-06-30,3,product,RoyaltyContractAndOther,"Royalty, contract and other revenues",,Other,122,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2022,Q2,2022-06-30,3,product,CellTherapyProductsTecartus,Tecartus,,Product sales,73,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2022,Q2,2022-06-30,3,product,CellTherapyProductsYescarta,Yescarta,,Product sales,295,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2022,Q2,2022-06-30,3,product,HCVProductsLedipasvirSofosbuvir,Ledipasvir/Sofosbuvir,,Product sales,23,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2022,Q2,2022-06-30,3,product,HCVProductsSofosbuvirVelpatasvir,Sofosbuvir/Velpatasvir,,Product sales,376,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2022,Q2,2022-06-30,3,product,HIVProductsBiktarvy,Biktarvy,,Product sales,2556,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2022,Q2,2022-06-30,3,product,HIVProductsCompleraEviplera,Complera/Eviplera,,Product sales,54,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2022,Q2,2022-06-30,3,product,HIVProductsDescovy,Descovy,,Product sales,460,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2022,Q2,2022-06-30,3,product,HIVProductsGenvoya,Genvoya,,Product sales,582,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2022,Q2,2022-06-30,3,product,HIVProductsOdefsey,Odefsey,,Product sales,364,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2022,Q2,2022-06-30,3,product,HIVProductsStribild,Stribild,,Product sales,33,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2022,Q2,2022-06-30,3,product,HIVProductsTruvada,Truvada,,Product sales,34,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2022,Q2,2022-06-30,3,product,HepatitisBVirusHepatitisDeltaVirusProductOther,Other HBV/HBD,,Product sales,16,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2022,Q2,2022-06-30,3,product,HepatitisBVirusHepatitisDeltaVirusProductVemlidy,Vemlidy,,Product sales,195,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2022,Q2,2022-06-30,3,product,HepatitisBVirusHepatitisDeltaVirusProductViread,Viread,,Product sales,24,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2022,Q2,2022-06-30,3,product,OtherHepatitisCVirusProducts,Other HCV,,Product sales,49,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2022,Q2,2022-06-30,3,product,OtherProductsAmBisome,AmBisome,,Product sales,132,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2022,Q2,2022-06-30,3,product,OtherProductsLetairis,Letairis,,Product sales,49,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2022,Q2,2022-06-30,3,product,OtherProductsOther,Other,,Product sales,76,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2022,Q2,2022-06-30,3,product,ProductsOtherHIV,Other HIV,,Product sales,18,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2022,Q2,2022-06-30,3,product,ProductsRevenueShareSymtuza,Revenue share - Symtuza,,Product sales,126,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2022,Q2,2022-06-30,3,product,Trodelvy,Trodelvy,,Product sales,159,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2022,Q2,2022-06-30,3,product,Veklury,Veklury,,Product sales,445,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2022,Q3,2022-09-30,3,geography,Europe,Europe,,,1101,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2022,Q3,2022-09-30,3,geography,OtherInternational,Other International,,,1013,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2022,Q3,2022-09-30,3,geography,US,U.S.,,,4928,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2022,Q3,2022-09-30,3,product,RoyaltyContractAndOther,"Royalty, contract and other revenues",,Other,64,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2022,Q3,2022-09-30,3,product,CellTherapyProductsTecartus,Tecartus,,Product sales,81,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2022,Q3,2022-09-30,3,product,CellTherapyProductsYescarta,Yescarta,,Product sales,317,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2022,Q3,2022-09-30,3,product,HCVProductsLedipasvirSofosbuvir,Ledipasvir/Sofosbuvir,,Product sales,25,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2022,Q3,2022-09-30,3,product,HCVProductsSofosbuvirVelpatasvir,Sofosbuvir/Velpatasvir,,Product sales,455,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2022,Q3,2022-09-30,3,product,HIVProductsBiktarvy,Biktarvy,,Product sales,2766,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2022,Q3,2022-09-30,3,product,HIVProductsCompleraEviplera,Complera/Eviplera,,Product sales,43,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2022,Q3,2022-09-30,3,product,HIVProductsDescovy,Descovy,,Product sales,500,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2022,Q3,2022-09-30,3,product,HIVProductsGenvoya,Genvoya,,Product sales,600,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2022,Q3,2022-09-30,3,product,HIVProductsOdefsey,Odefsey,,Product sales,374,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2022,Q3,2022-09-30,3,product,HIVProductsStribild,Stribild,,Product sales,32,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2022,Q3,2022-09-30,3,product,HIVProductsTruvada,Truvada,,Product sales,30,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2022,Q3,2022-09-30,3,product,HepatitisBVirusHepatitisDeltaVirusProductOther,Other HBV/HBD,,Product sales,14,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2022,Q3,2022-09-30,3,product,HepatitisBVirusHepatitisDeltaVirusProductVemlidy,Vemlidy,,Product sales,228,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2022,Q3,2022-09-30,3,product,HepatitisBVirusHepatitisDeltaVirusProductViread,Viread,,Product sales,22,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2022,Q3,2022-09-30,3,product,OtherHepatitisCVirusProducts,Other HCV,,Product sales,44,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2022,Q3,2022-09-30,3,product,OtherProductsAmBisome,AmBisome,,Product sales,105,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2022,Q3,2022-09-30,3,product,OtherProductsLetairis,Letairis,,Product sales,43,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2022,Q3,2022-09-30,3,product,OtherProductsOther,Other,,Product sales,52,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2022,Q3,2022-09-30,3,product,ProductsOtherHIV,Other HIV,,Product sales,12,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2022,Q3,2022-09-30,3,product,ProductsRevenueShareSymtuza,Revenue share - Symtuza,,Product sales,130,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2022,Q3,2022-09-30,3,product,Trodelvy,Trodelvy,,Product sales,180,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2022,Q3,2022-09-30,3,product,Veklury,Veklury,,Product sales,925,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2022,Q4,2022-12-31,3,geography,Europe,Europe,,,1091,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
+2022,Q4,2022-12-31,3,geography,OtherInternational,Other International,,,1037,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
+2022,Q4,2022-12-31,3,geography,US,U.S.,,,5262,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
+2022,FY,2022-12-31,12,geography,Europe,Europe,,,4469,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2022,FY,2022-12-31,12,geography,OtherInternational,Other International,,,3928,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2022,FY,2022-12-31,12,geography,US,U.S.,,,18884,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2022,FY,2022-12-31,12,product,RoyaltyContractAndOther,"Royalty, contract and other revenues",,Other,299,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2022,FY,2022-12-31,12,product,CellTherapyProductsTecartus,Tecartus,,Product,299,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2022,FY,2022-12-31,12,product,HCVProductsLedipasvirSofosbuvir,Ledipasvir/Sofosbuvir,,Product,115,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2022,FY,2022-12-31,12,product,HCVProductsSofosbuvirVelpatasvir,Sofosbuvir/Velpatasvir,,Product,1530,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2022,FY,2022-12-31,12,product,HIVProductsBiktarvy,Biktarvy,,Product,10390,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2022,FY,2022-12-31,12,product,HIVProductsCompleraEviplera,Complera/Eviplera,,Product,200,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2022,FY,2022-12-31,12,product,HIVProductsDescovy,Descovy,,Product,1872,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2022,FY,2022-12-31,12,product,HIVProductsGenvoya,Genvoya,,Product,2404,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2022,FY,2022-12-31,12,product,HIVProductsOdefsey,Odefsey,,Product,1469,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2022,FY,2022-12-31,12,product,HIVProductsStribild,Stribild,,Product,127,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2022,FY,2022-12-31,12,product,HIVProductsTruvada,Truvada,,Product,147,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2022,FY,2022-12-31,12,product,HepatitisBVirusHepatitisDeltaVirusProductOther,Other HB/HDV,,Product,55,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2022,FY,2022-12-31,12,product,HepatitisBVirusHepatitisDeltaVirusProductVemlidy,Vemlidy,,Product,842,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2022,FY,2022-12-31,12,product,HepatitisBVirusHepatitisDeltaVirusProductViread,Viread,,Product,91,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2022,FY,2022-12-31,12,product,OtherHCV,Other HCV,,Product,166,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2022,FY,2022-12-31,12,product,OtherProductsAmBisome,AmBisome,,Product,497,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2022,FY,2022-12-31,12,product,OtherProductsLetairis,Letairis,,Product,196,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2022,FY,2022-12-31,12,product,OtherProductsOther,Other,,Product,253,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2022,FY,2022-12-31,12,product,OtherProductsYescarta,Yescarta,,Product,1160,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2022,FY,2022-12-31,12,product,ProductsOtherHIV,Other HIV,,Product,57,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2022,FY,2022-12-31,12,product,ProductsRevenueShareSymtuza,Revenue share - Symtuza,,Product,530,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2022,FY,2022-12-31,12,product,Trodelvy,Trodelvy,,Product,680,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2022,FY,2022-12-31,12,product,Veklury,Veklury,,Product,3905,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2023,Q1,2023-03-31,3,geography,Europe,Europe,,,1079,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2023,Q1,2023-03-31,3,geography,OtherInternational,Other International,,,821,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2023,Q1,2023-03-31,3,geography,US,U.S.,,,4452,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2023,Q1,2023-03-31,3,product,RoyaltyContractAndOther,"Royalty, contract and other revenues",,Other,46,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2023,Q1,2023-03-31,3,product,CellTherapyProductsTecartus,Tecartus,,Product sales,89,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2023,Q1,2023-03-31,3,product,CellTherapyProductsYescarta,Yescarta,,Product sales,359,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2023,Q1,2023-03-31,3,product,HCVProductsLedipasvirSofosbuvir,Ledipasvir/Sofosbuvir,,Product sales,15,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2023,Q1,2023-03-31,3,product,HCVProductsSofosbuvirVelpatasvir,Sofosbuvir/Velpatasvir,,Product sales,385,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2023,Q1,2023-03-31,3,product,HIVProductsBiktarvy,Biktarvy,,Product sales,2677,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2023,Q1,2023-03-31,3,product,HIVProductsCompleraEviplera,Complera/Eviplera,,Product sales,39,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2023,Q1,2023-03-31,3,product,HIVProductsDescovy,Descovy,,Product sales,449,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2023,Q1,2023-03-31,3,product,HIVProductsGenvoya,Genvoya,,Product sales,501,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2023,Q1,2023-03-31,3,product,HIVProductsOdefsey,Odefsey,,Product sales,317,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2023,Q1,2023-03-31,3,product,HIVProductsStribild,Stribild,,Product sales,28,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2023,Q1,2023-03-31,3,product,HIVProductsTruvada,Truvada,,Product sales,32,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2023,Q1,2023-03-31,3,product,HepatitisBVirusHepatitisDeltaVirusProductOther,Other HBV/HBD,,Product sales,11,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2023,Q1,2023-03-31,3,product,HepatitisBVirusHepatitisDeltaVirusProductVemlidy,Vemlidy,,Product sales,199,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2023,Q1,2023-03-31,3,product,HepatitisBVirusHepatitisDeltaVirusProductViread,Viread,,Product sales,19,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2023,Q1,2023-03-31,3,product,OtherHepatitisCVirusProducts,Other HCV,,Product sales,45,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2023,Q1,2023-03-31,3,product,OtherProductsAmBisome,AmBisome,,Product sales,116,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2023,Q1,2023-03-31,3,product,OtherProductsLetairis,Letairis,,Product sales,32,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2023,Q1,2023-03-31,3,product,OtherProductsOther,Other,,Product sales,51,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2023,Q1,2023-03-31,3,product,ProductsOtherHIV,Other HIV,,Product sales,9,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2023,Q1,2023-03-31,3,product,ProductsRevenueShareSymtuza,Revenue share - Symtuza,,Product sales,138,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2023,Q1,2023-03-31,3,product,Trodelvy,Trodelvy,,Product sales,222,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2023,Q1,2023-03-31,3,product,Veklury,Veklury,,Product sales,573,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2023,Q2,2023-06-30,3,geography,Europe,Europe,,,1027,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2023,Q2,2023-06-30,3,geography,OtherInternational,Other International,,,789,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2023,Q2,2023-06-30,3,geography,US,U.S.,,,4784,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2023,Q2,2023-06-30,3,product,RoyaltyContractAndOther,"Royalty, contract and other revenues",,Other,35,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2023,Q2,2023-06-30,3,product,CellTherapyProductsTecartus,Tecartus,,Product sales,88,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2023,Q2,2023-06-30,3,product,CellTherapyProductsYescarta,Yescarta,,Product sales,380,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2023,Q2,2023-06-30,3,product,HCVProductsLedipasvirSofosbuvir,Ledipasvir/Sofosbuvir,,Product sales,15,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2023,Q2,2023-06-30,3,product,HCVProductsSofosbuvirVelpatasvir,Sofosbuvir/Velpatasvir,,Product sales,397,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2023,Q2,2023-06-30,3,product,HIVProductsBiktarvy,Biktarvy,,Product sales,2979,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2023,Q2,2023-06-30,3,product,HIVProductsCompleraEviplera,Complera/Eviplera,,Product sales,32,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2023,Q2,2023-06-30,3,product,HIVProductsDescovy,Descovy,,Product sales,516,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2023,Q2,2023-06-30,3,product,HIVProductsGenvoya,Genvoya,,Product sales,540,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2023,Q2,2023-06-30,3,product,HIVProductsOdefsey,Odefsey,,Product sales,351,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2023,Q2,2023-06-30,3,product,HIVProductsStribild,Stribild,,Product sales,26,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2023,Q2,2023-06-30,3,product,HIVProductsTruvada,Truvada,,Product sales,42,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2023,Q2,2023-06-30,3,product,HepatitisBVirusHepatitisDeltaVirusProductOther,Other HBV/HBD,,Product sales,20,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2023,Q2,2023-06-30,3,product,HepatitisBVirusHepatitisDeltaVirusProductVemlidy,Vemlidy,,Product sales,219,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2023,Q2,2023-06-30,3,product,HepatitisBVirusHepatitisDeltaVirusProductViread,Viread,,Product sales,21,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2023,Q2,2023-06-30,3,product,OtherHepatitisCVirusProducts,Other HCV,,Product sales,40,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2023,Q2,2023-06-30,3,product,OtherProductsAmBisome,AmBisome,,Product sales,151,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2023,Q2,2023-06-30,3,product,OtherProductsLetairis,Letairis,,Product sales,39,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2023,Q2,2023-06-30,3,product,OtherProductsOther,Other,,Product sales,53,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2023,Q2,2023-06-30,3,product,ProductsOtherHIV,Other HIV,,Product sales,20,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2023,Q2,2023-06-30,3,product,ProductsRevenueShareSymtuza,Revenue share - Symtuza,,Product sales,120,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2023,Q2,2023-06-30,3,product,Trodelvy,Trodelvy,,Product sales,260,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2023,Q2,2023-06-30,3,product,Veklury,Veklury,,Product sales,256,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2023,Q3,2023-09-30,3,geography,Europe,Europe,,,1040,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2023,Q3,2023-09-30,3,geography,OtherInternational,Other International,,,993,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2023,Q3,2023-09-30,3,geography,US,U.S.,,,5017,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2023,Q3,2023-09-30,3,product,RoyaltyContractAndOther,"Royalty, contract and other revenues",,Other,56,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2023,Q3,2023-09-30,3,product,CellTherapyProductsTecartus,Tecartus,,Product sales,96,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2023,Q3,2023-09-30,3,product,CellTherapyProductsYescarta,Yescarta,,Product sales,391,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2023,Q3,2023-09-30,3,product,HCVProductsLedipasvirSofosbuvir,Ledipasvir/Sofosbuvir,,Product sales,23,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2023,Q3,2023-09-30,3,product,HCVProductsSofosbuvirVelpatasvir,Sofosbuvir/Velpatasvir,,Product sales,377,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2023,Q3,2023-09-30,3,product,HIVProductsBiktarvy,Biktarvy,,Product sales,3085,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2023,Q3,2023-09-30,3,product,HIVProductsCompleraEviplera,Complera/Eviplera,,Product sales,34,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2023,Q3,2023-09-30,3,product,HIVProductsDescovy,Descovy,,Product sales,511,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2023,Q3,2023-09-30,3,product,HIVProductsGenvoya,Genvoya,,Product sales,503,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2023,Q3,2023-09-30,3,product,HIVProductsOdefsey,Odefsey,,Product sales,343,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2023,Q3,2023-09-30,3,product,HIVProductsStribild,Stribild,,Product sales,25,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2023,Q3,2023-09-30,3,product,HIVProductsTruvada,Truvada,,Product sales,22,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2023,Q3,2023-09-30,3,product,HepatitisBVirusHepatitisDeltaVirusProductOther,Other HBV/HBD,,Product sales,20,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2023,Q3,2023-09-30,3,product,HepatitisBVirusHepatitisDeltaVirusProductVemlidy,Vemlidy,,Product sales,228,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2023,Q3,2023-09-30,3,product,HepatitisBVirusHepatitisDeltaVirusProductViread,Viread,,Product sales,21,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2023,Q3,2023-09-30,3,product,OtherHepatitisCVirusProducts,Other HCV,,Product sales,38,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2023,Q3,2023-09-30,3,product,OtherProductsAmBisome,AmBisome,,Product sales,115,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2023,Q3,2023-09-30,3,product,OtherProductsLetairis,Letairis,,Product sales,36,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2023,Q3,2023-09-30,3,product,OtherProductsOther,Other,,Product sales,65,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2023,Q3,2023-09-30,3,product,ProductsOtherHIV,Other HIV,,Product sales,13,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2023,Q3,2023-09-30,3,product,ProductsRevenueShareSymtuza,Revenue share - Symtuza,,Product sales,131,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2023,Q3,2023-09-30,3,product,Trodelvy,Trodelvy,,Product sales,283,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2023,Q3,2023-09-30,3,product,Veklury,Veklury,,Product sales,636,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2023,Q4,2023-12-31,3,geography,Europe,Europe,,,1164,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
+2023,Q4,2023-12-31,3,geography,OtherInternational,Other International,,,765,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
+2023,Q4,2023-12-31,3,geography,US,U.S.,,,5185,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
+2023,FY,2023-12-31,12,geography,Europe,Europe,,,4310,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2023,FY,2023-12-31,12,geography,OtherInternational,Other International,,,3368,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2023,FY,2023-12-31,12,geography,US,U.S.,,,19438,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2023,FY,2023-12-31,12,product,RoyaltyContractAndOther,"Royalty, contract and other revenues",,Other,182,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2023,FY,2023-12-31,12,product,CellTherapyProductsTecartus,Tecartus,,Product,370,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2023,FY,2023-12-31,12,product,HCVProductsLedipasvirSofosbuvir,Ledipasvir/Sofosbuvir,,Product,70,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2023,FY,2023-12-31,12,product,HCVProductsSofosbuvirVelpatasvir,Sofosbuvir/Velpatasvir,,Product,1537,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2023,FY,2023-12-31,12,product,HIVProductsBiktarvy,Biktarvy,,Product,11850,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2023,FY,2023-12-31,12,product,HIVProductsCompleraEviplera,Complera/Eviplera,,Product,129,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2023,FY,2023-12-31,12,product,HIVProductsDescovy,Descovy,,Product,1985,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2023,FY,2023-12-31,12,product,HIVProductsGenvoya,Genvoya,,Product,2060,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2023,FY,2023-12-31,12,product,HIVProductsOdefsey,Odefsey,,Product,1350,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2023,FY,2023-12-31,12,product,HIVProductsStribild,Stribild,,Product,101,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2023,FY,2023-12-31,12,product,HIVProductsTruvada,Truvada,,Product,114,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2023,FY,2023-12-31,12,product,HepatitisBVirusHepatitisDeltaVirusProductOther,Other HB/HDV,,Product,72,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2023,FY,2023-12-31,12,product,HepatitisBVirusHepatitisDeltaVirusProductVemlidy,Vemlidy,,Product,862,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2023,FY,2023-12-31,12,product,HepatitisBVirusHepatitisDeltaVirusProductViread,Viread,,Product,83,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2023,FY,2023-12-31,12,product,OtherHCV,Other HCV,,Product,160,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2023,FY,2023-12-31,12,product,OtherProductsAmBisome,AmBisome,,Product,492,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2023,FY,2023-12-31,12,product,OtherProductsLetairis,Letairis,,Product,142,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2023,FY,2023-12-31,12,product,OtherProductsOther,Other,,Product,225,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2023,FY,2023-12-31,12,product,OtherProductsYescarta,Yescarta,,Product,1498,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2023,FY,2023-12-31,12,product,ProductsOtherHIV,Other HIV,,Product,56,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2023,FY,2023-12-31,12,product,ProductsRevenueShareSymtuza,Revenue share - Symtuza,,Product,529,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2023,FY,2023-12-31,12,product,Trodelvy,Trodelvy,,Product,1063,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2023,FY,2023-12-31,12,product,Veklury,Veklury,,Product,2184,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2024,Q1,2024-03-31,3,geography,Europe,Europe,,,1159,USD,millions,reported,SEC 10-Q 0000882095-24-000013
+2024,Q1,2024-03-31,3,geography,OtherInternational,Rest of World,,,894,USD,millions,reported,SEC 10-Q 0000882095-24-000013
+2024,Q1,2024-03-31,3,geography,US,U.S.,,,4633,USD,millions,reported,SEC 10-Q 0000882095-24-000013
+2024,Q1,2024-03-31,3,product,RoyaltyContractAndOther,"Royalty, contract and other revenues",,Other,39,USD,millions,reported,SEC 10-Q 0000882095-24-000013
+2024,Q1,2024-03-31,3,product,CellTherapyProductsTecartus,Tecartus,,Product sales,100,USD,millions,reported,SEC 10-Q 0000882095-24-000013
+2024,Q1,2024-03-31,3,product,CellTherapyProductsYescarta,Yescarta,,Product sales,380,USD,millions,reported,SEC 10-Q 0000882095-24-000013
+2024,Q1,2024-03-31,3,product,HIVProductsBiktarvy,Biktarvy,,Product sales,2946,USD,millions,reported,SEC 10-Q 0000882095-24-000013
+2024,Q1,2024-03-31,3,product,HIVProductsDescovy,Descovy,,Product sales,426,USD,millions,reported,SEC 10-Q 0000882095-24-000013
+2024,Q1,2024-03-31,3,product,HIVProductsGenvoya,Genvoya,,Product sales,403,USD,millions,reported,SEC 10-Q 0000882095-24-000013
+2024,Q1,2024-03-31,3,product,HIVProductsOdefsey,Odefsey,,Product sales,310,USD,millions,reported,SEC 10-Q 0000882095-24-000013
+2024,Q1,2024-03-31,3,product,HIVProductsOtherHIV,Other HIV,,Product sales,117,USD,millions,reported,SEC 10-Q 0000882095-24-000013
+2024,Q1,2024-03-31,3,product,HIVProductsRevenueShareSymtuza,Revenue share - Symtuza,,Product sales,141,USD,millions,reported,SEC 10-Q 0000882095-24-000013
+2024,Q1,2024-03-31,3,product,LiverDiseaseProductsOtherLiverDisease,Other Liver Disease,,Product sales,107,USD,millions,reported,SEC 10-Q 0000882095-24-000013
+2024,Q1,2024-03-31,3,product,LiverDiseaseProductsSofosbuvirVelpatasvir,Sofosbuvir/Velpatasvir,,Product sales,405,USD,millions,reported,SEC 10-Q 0000882095-24-000013
+2024,Q1,2024-03-31,3,product,LiverDiseaseProductsVemlidy,Vemlidy,,Product sales,225,USD,millions,reported,SEC 10-Q 0000882095-24-000013
+2024,Q1,2024-03-31,3,product,OtherProductsAmBisome,AmBisome,,Product sales,144,USD,millions,reported,SEC 10-Q 0000882095-24-000013
+2024,Q1,2024-03-31,3,product,OtherProductsOther,Other,,Product sales,80,USD,millions,reported,SEC 10-Q 0000882095-24-000013
+2024,Q1,2024-03-31,3,product,Trodelvy,Trodelvy,,Product sales,309,USD,millions,reported,SEC 10-Q 0000882095-24-000013
+2024,Q1,2024-03-31,3,product,Veklury,Veklury,,Product sales,555,USD,millions,reported,SEC 10-Q 0000882095-24-000013
+2024,Q2,2024-06-30,3,geography,Europe,Europe,,,1133,USD,millions,reported,SEC 10-Q 0000882095-24-000022
+2024,Q2,2024-06-30,3,geography,RestOfWorld,Rest of World,,,879,USD,millions,reported,SEC 10-Q 0000882095-24-000022
+2024,Q2,2024-06-30,3,geography,US,U.S.,,,4941,USD,millions,reported,SEC 10-Q 0000882095-24-000022
+2024,Q2,2024-06-30,3,product,RoyaltyContractAndOther,"Royalty, contract and other revenues",,Other,41,USD,millions,reported,SEC 10-Q 0000882095-24-000022
+2024,Q2,2024-06-30,3,product,CellTherapyProductsTecartus,Tecartus,,Product sales,107,USD,millions,reported,SEC 10-Q 0000882095-24-000022
+2024,Q2,2024-06-30,3,product,CellTherapyProductsYescarta,Yescarta,,Product sales,414,USD,millions,reported,SEC 10-Q 0000882095-24-000022
+2024,Q2,2024-06-30,3,product,HIVProductsBiktarvy,Biktarvy,,Product sales,3232,USD,millions,reported,SEC 10-Q 0000882095-24-000022
+2024,Q2,2024-06-30,3,product,HIVProductsDescovy,Descovy,,Product sales,485,USD,millions,reported,SEC 10-Q 0000882095-24-000022
+2024,Q2,2024-06-30,3,product,HIVProductsGenvoya,Genvoya,,Product sales,440,USD,millions,reported,SEC 10-Q 0000882095-24-000022
+2024,Q2,2024-06-30,3,product,HIVProductsOdefsey,Odefsey,,Product sales,315,USD,millions,reported,SEC 10-Q 0000882095-24-000022
+2024,Q2,2024-06-30,3,product,HIVProductsOtherHIV,Other HIV,,Product sales,105,USD,millions,reported,SEC 10-Q 0000882095-24-000022
+2024,Q2,2024-06-30,3,product,HIVProductsRevenueShareSymtuza,Revenue share - Symtuza,,Product sales,168,USD,millions,reported,SEC 10-Q 0000882095-24-000022
+2024,Q2,2024-06-30,3,product,LiverDiseaseProductsOtherLiverDisease,Other Liver Disease,,Product sales,113,USD,millions,reported,SEC 10-Q 0000882095-24-000022
+2024,Q2,2024-06-30,3,product,LiverDiseaseProductsSofosbuvirVelpatasvir,Sofosbuvir/Velpatasvir,,Product sales,476,USD,millions,reported,SEC 10-Q 0000882095-24-000022
+2024,Q2,2024-06-30,3,product,LiverDiseaseProductsVemlidy,Vemlidy,,Product sales,243,USD,millions,reported,SEC 10-Q 0000882095-24-000022
+2024,Q2,2024-06-30,3,product,OtherProductsAmBisome,AmBisome,,Product sales,151,USD,millions,reported,SEC 10-Q 0000882095-24-000022
+2024,Q2,2024-06-30,3,product,OtherProductsOther,Other,,Product sales,130,USD,millions,reported,SEC 10-Q 0000882095-24-000022
+2024,Q2,2024-06-30,3,product,Trodelvy,Trodelvy,,Product sales,320,USD,millions,reported,SEC 10-Q 0000882095-24-000022
+2024,Q2,2024-06-30,3,product,Veklury,Veklury,,Product sales,214,USD,millions,reported,SEC 10-Q 0000882095-24-000022
+2024,Q3,2024-09-30,3,geography,Europe,Europe,,,1167,USD,millions,reported,SEC 10-Q 0000882095-24-000028
+2024,Q3,2024-09-30,3,geography,RestOfWorld,Rest of World,,,929,USD,millions,reported,SEC 10-Q 0000882095-24-000028
+2024,Q3,2024-09-30,3,geography,US,U.S.,,,5450,USD,millions,reported,SEC 10-Q 0000882095-24-000028
+2024,Q3,2024-09-30,3,product,RoyaltyContractAndOther,"Royalty, contract and other revenues",,Other,30,USD,millions,reported,SEC 10-Q 0000882095-24-000028
+2024,Q3,2024-09-30,3,product,CellTherapyProductsTecartus,Tecartus,,Product sales,98,USD,millions,reported,SEC 10-Q 0000882095-24-000028
+2024,Q3,2024-09-30,3,product,CellTherapyProductsYescarta,Yescarta,,Product sales,387,USD,millions,reported,SEC 10-Q 0000882095-24-000028
+2024,Q3,2024-09-30,3,product,HIVProductsBiktarvy,Biktarvy,,Product sales,3472,USD,millions,reported,SEC 10-Q 0000882095-24-000028
+2024,Q3,2024-09-30,3,product,HIVProductsDescovy,Descovy,,Product sales,586,USD,millions,reported,SEC 10-Q 0000882095-24-000028
+2024,Q3,2024-09-30,3,product,HIVProductsGenvoya,Genvoya,,Product sales,449,USD,millions,reported,SEC 10-Q 0000882095-24-000028
+2024,Q3,2024-09-30,3,product,HIVProductsOdefsey,Odefsey,,Product sales,326,USD,millions,reported,SEC 10-Q 0000882095-24-000028
+2024,Q3,2024-09-30,3,product,HIVProductsOtherHIV,Other HIV,,Product sales,100,USD,millions,reported,SEC 10-Q 0000882095-24-000028
+2024,Q3,2024-09-30,3,product,HIVProductsRevenueShareSymtuza,Symtuza - Revenue share,,Product sales,139,USD,millions,reported,SEC 10-Q 0000882095-24-000028
+2024,Q3,2024-09-30,3,product,LiverDiseaseProductsOtherLiverDisease,Other Liver Disease,,Product sales,116,USD,millions,reported,SEC 10-Q 0000882095-24-000028
+2024,Q3,2024-09-30,3,product,LiverDiseaseProductsSofosbuvirVelpatasvir,Sofosbuvir/Velpatasvir,,Product sales,385,USD,millions,reported,SEC 10-Q 0000882095-24-000028
+2024,Q3,2024-09-30,3,product,LiverDiseaseProductsVemlidy,Vemlidy,,Product sales,232,USD,millions,reported,SEC 10-Q 0000882095-24-000028
+2024,Q3,2024-09-30,3,product,OtherProductsAmBisome,AmBisome,,Product sales,130,USD,millions,reported,SEC 10-Q 0000882095-24-000028
+2024,Q3,2024-09-30,3,product,OtherProductsOther,Other,,Product sales,71,USD,millions,reported,SEC 10-Q 0000882095-24-000028
+2024,Q3,2024-09-30,3,product,Trodelvy,Trodelvy,,Product sales,332,USD,millions,reported,SEC 10-Q 0000882095-24-000028
+2024,Q3,2024-09-30,3,product,Veklury,Veklury,,Product sales,692,USD,millions,reported,SEC 10-Q 0000882095-24-000028
+2024,Q4,2024-12-31,3,geography,Europe,Europe,,,1175,USD,millions,derived,SEC 10-K 0000882095-25-000006 − 10-Q 0000882095-24-000028
+2024,Q4,2024-12-31,3,geography,RestOfWorld,Rest of World,,,826,USD,millions,derived,SEC 10-K 0000882095-25-000006 − 10-Q 0000882095-24-000028
+2024,Q4,2024-12-31,3,geography,US,U.S.,,,5567,USD,millions,derived,SEC 10-K 0000882095-25-000006 − 10-Q 0000882095-24-000028
+2024,FY,2024-12-31,12,geography,Europe,Europe,,,4634,USD,millions,reported,SEC 10-K 0000882095-25-000006
+2024,FY,2024-12-31,12,geography,RestOfWorld,Rest of World,,,3529,USD,millions,reported,SEC 10-K 0000882095-25-000006
+2024,FY,2024-12-31,12,geography,US,U.S.,,,20591,USD,millions,reported,SEC 10-K 0000882095-25-000006
+2024,FY,2024-12-31,12,product,RoyaltyContractAndOther,"Royalty, contract and other revenues",,Other,144,USD,millions,reported,SEC 10-K 0000882095-25-000006
+2024,FY,2024-12-31,12,product,CellTherapyProductsTecartus,Tecartus,,Product,403,USD,millions,reported,SEC 10-K 0000882095-25-000006
+2024,FY,2024-12-31,12,product,HIVProductsBiktarvy,Biktarvy,,Product,13423,USD,millions,reported,SEC 10-K 0000882095-25-000006
+2024,FY,2024-12-31,12,product,HIVProductsDescovy,Descovy,,Product,2113,USD,millions,reported,SEC 10-K 0000882095-25-000006
+2024,FY,2024-12-31,12,product,HIVProductsGenvoya,Genvoya,,Product,1762,USD,millions,reported,SEC 10-K 0000882095-25-000006
+2024,FY,2024-12-31,12,product,HIVProductsOdefsey,Odefsey,,Product,1288,USD,millions,reported,SEC 10-K 0000882095-25-000006
+2024,FY,2024-12-31,12,product,HIVProductsOtherHIV,Other HIV,,Product,434,USD,millions,reported,SEC 10-K 0000882095-25-000006
+2024,FY,2024-12-31,12,product,HIVProductsSymtuzaRevenueShare,Symtuza - Revenue share,,Product,592,USD,millions,reported,SEC 10-K 0000882095-25-000006
+2024,FY,2024-12-31,12,product,LiverDiseaseProductsOtherLiverDisease,Other Liver Disease,,Product,467,USD,millions,reported,SEC 10-K 0000882095-25-000006
+2024,FY,2024-12-31,12,product,LiverDiseaseProductsSofosbuvirVelpatasvir,Sofosbuvir/Velpatasvir,,Product,1596,USD,millions,reported,SEC 10-K 0000882095-25-000006
+2024,FY,2024-12-31,12,product,LiverDiseaseProductsVemlidy,Vemlidy,,Product,959,USD,millions,reported,SEC 10-K 0000882095-25-000006
+2024,FY,2024-12-31,12,product,OtherProductsAmBisome,AmBisome,,Product,533,USD,millions,reported,SEC 10-K 0000882095-25-000006
+2024,FY,2024-12-31,12,product,OtherProductsOther,Other,,Product,356,USD,millions,reported,SEC 10-K 0000882095-25-000006
+2024,FY,2024-12-31,12,product,OtherProductsYescarta,Yescarta,,Product,1570,USD,millions,reported,SEC 10-K 0000882095-25-000006
+2024,FY,2024-12-31,12,product,Trodelvy,Trodelvy,,Product,1315,USD,millions,reported,SEC 10-K 0000882095-25-000006
+2024,FY,2024-12-31,12,product,Veklury,Veklury,,Product,1799,USD,millions,reported,SEC 10-K 0000882095-25-000006
+2025,Q1,2025-03-31,3,geography,Europe,Europe,,,1084,USD,millions,reported,SEC 10-Q 0000882095-25-000012
+2025,Q1,2025-03-31,3,geography,RestOfWorld,Rest of World,,,915,USD,millions,reported,SEC 10-Q 0000882095-25-000012
+2025,Q1,2025-03-31,3,geography,US,U.S.,,,4668,USD,millions,reported,SEC 10-Q 0000882095-25-000012
+2025,Q1,2025-03-31,3,product,RoyaltyContractAndOther,"Royalty, contract and other revenues",,Other,54,USD,millions,reported,SEC 10-Q 0000882095-25-000012
+2025,Q1,2025-03-31,3,product,CellTherapyProductsTecartus,Tecartus,,Product sales,78,USD,millions,reported,SEC 10-Q 0000882095-25-000012
+2025,Q1,2025-03-31,3,product,HIVProductsBiktarvy,Biktarvy,,Product sales,3150,USD,millions,reported,SEC 10-Q 0000882095-25-000012
+2025,Q1,2025-03-31,3,product,HIVProductsDescovy,Descovy,,Product sales,586,USD,millions,reported,SEC 10-Q 0000882095-25-000012
+2025,Q1,2025-03-31,3,product,HIVProductsGenvoya,Genvoya,,Product sales,364,USD,millions,reported,SEC 10-Q 0000882095-25-000012
+2025,Q1,2025-03-31,3,product,HIVProductsOdefsey,Odefsey,,Product sales,281,USD,millions,reported,SEC 10-Q 0000882095-25-000012
+2025,Q1,2025-03-31,3,product,HIVProductsOtherHIV,Other HIV,,Product sales,91,USD,millions,reported,SEC 10-Q 0000882095-25-000012
+2025,Q1,2025-03-31,3,product,HIVProductsSymtuzaRevenueShare,Symtuza - Revenue share,,Product sales,114,USD,millions,reported,SEC 10-Q 0000882095-25-000012
+2025,Q1,2025-03-31,3,product,LiverDiseaseProductsOtherLiverDisease,Other Liver Disease,,Product sales,161,USD,millions,reported,SEC 10-Q 0000882095-25-000012
+2025,Q1,2025-03-31,3,product,LiverDiseaseProductsSofosbuvirVelpatasvir,Sofosbuvir/Velpatasvir,,Product sales,346,USD,millions,reported,SEC 10-Q 0000882095-25-000012
+2025,Q1,2025-03-31,3,product,LiverDiseaseProductsVemlidy,Vemlidy,,Product sales,252,USD,millions,reported,SEC 10-Q 0000882095-25-000012
+2025,Q1,2025-03-31,3,product,OtherProductsAmBisome,AmBisome,,Product sales,139,USD,millions,reported,SEC 10-Q 0000882095-25-000012
+2025,Q1,2025-03-31,3,product,OtherProductsOther,Other,,Product sales,70,USD,millions,reported,SEC 10-Q 0000882095-25-000012
+2025,Q1,2025-03-31,3,product,OtherProductsYescarta,Yescarta,,Product sales,386,USD,millions,reported,SEC 10-Q 0000882095-25-000012
+2025,Q1,2025-03-31,3,product,Trodelvy,Trodelvy,,Product sales,293,USD,millions,reported,SEC 10-Q 0000882095-25-000012
+2025,Q1,2025-03-31,3,product,Veklury,Veklury,,Product sales,302,USD,millions,reported,SEC 10-Q 0000882095-25-000012
+2025,Q2,2025-06-30,3,geography,Europe,Europe,,,1189,USD,millions,reported,SEC 10-Q 0000882095-25-000032
+2025,Q2,2025-06-30,3,geography,RestOfWorld,Rest of World,,,842,USD,millions,reported,SEC 10-Q 0000882095-25-000032
+2025,Q2,2025-06-30,3,geography,US,U.S.,,,5051,USD,millions,reported,SEC 10-Q 0000882095-25-000032
+2025,Q2,2025-06-30,3,product,RoyaltyContractAndOther,"Royalty, contract and other revenues",,Other,27,USD,millions,reported,SEC 10-Q 0000882095-25-000032
+2025,Q2,2025-06-30,3,product,CellTherapyProductsTecartus,Tecartus,,Product sales,92,USD,millions,reported,SEC 10-Q 0000882095-25-000032
+2025,Q2,2025-06-30,3,product,HIVProductsBiktarvy,Biktarvy,,Product sales,3530,USD,millions,reported,SEC 10-Q 0000882095-25-000032
+2025,Q2,2025-06-30,3,product,HIVProductsDescovy,Descovy,,Product sales,653,USD,millions,reported,SEC 10-Q 0000882095-25-000032
+2025,Q2,2025-06-30,3,product,HIVProductsGenvoya,Genvoya,,Product sales,377,USD,millions,reported,SEC 10-Q 0000882095-25-000032
+2025,Q2,2025-06-30,3,product,HIVProductsOdefsey,Odefsey,,Product sales,298,USD,millions,reported,SEC 10-Q 0000882095-25-000032
+2025,Q2,2025-06-30,3,product,HIVProductsOtherHIV,Other HIV,,Product sales,107,USD,millions,reported,SEC 10-Q 0000882095-25-000032
+2025,Q2,2025-06-30,3,product,HIVProductsSymtuzaRevenueShare,Symtuza - Revenue share,,Product sales,124,USD,millions,reported,SEC 10-Q 0000882095-25-000032
+2025,Q2,2025-06-30,3,product,LiverDiseaseProductsOtherLiverDisease,Other Liver Disease,,Product sales,201,USD,millions,reported,SEC 10-Q 0000882095-25-000032
+2025,Q2,2025-06-30,3,product,LiverDiseaseProductsSofosbuvirVelpatasvir,Sofosbuvir/Velpatasvir,,Product sales,342,USD,millions,reported,SEC 10-Q 0000882095-25-000032
+2025,Q2,2025-06-30,3,product,LiverDiseaseProductsVemlidy,Vemlidy,,Product sales,252,USD,millions,reported,SEC 10-Q 0000882095-25-000032
+2025,Q2,2025-06-30,3,product,OtherProductsAmBisome,AmBisome,,Product sales,129,USD,millions,reported,SEC 10-Q 0000882095-25-000032
+2025,Q2,2025-06-30,3,product,OtherProductsOther,Other,,Product sales,73,USD,millions,reported,SEC 10-Q 0000882095-25-000032
+2025,Q2,2025-06-30,3,product,OtherProductsYescarta,Yescarta,,Product sales,393,USD,millions,reported,SEC 10-Q 0000882095-25-000032
+2025,Q2,2025-06-30,3,product,Trodelvy,Trodelvy,,Product sales,364,USD,millions,reported,SEC 10-Q 0000882095-25-000032
+2025,Q2,2025-06-30,3,product,Veklury,Veklury,,Product sales,121,USD,millions,reported,SEC 10-Q 0000882095-25-000032
+2025,Q3,2025-09-30,3,geography,Europe,Europe,,,1555,USD,millions,reported,SEC 10-Q 0000882095-25-000047
+2025,Q3,2025-09-30,3,geography,RestOfWorld,Rest of World,,,933,USD,millions,reported,SEC 10-Q 0000882095-25-000047
+2025,Q3,2025-09-30,3,geography,US,U.S.,,,5281,USD,millions,reported,SEC 10-Q 0000882095-25-000047
+2025,Q3,2025-09-30,3,product,RoyaltyContractAndOther,"Royalty, contract and other revenues",,Other,424,USD,millions,reported,SEC 10-Q 0000882095-25-000047
+2025,Q3,2025-09-30,3,product,CellTherapyProductsTecartus,Tecartus,,Product sales,83,USD,millions,reported,SEC 10-Q 0000882095-25-000047
+2025,Q3,2025-09-30,3,product,HIVProductsBiktarvy,Biktarvy,,Product sales,3686,USD,millions,reported,SEC 10-Q 0000882095-25-000047
+2025,Q3,2025-09-30,3,product,HIVProductsDescovy,Descovy,,Product sales,701,USD,millions,reported,SEC 10-Q 0000882095-25-000047
+2025,Q3,2025-09-30,3,product,HIVProductsGenvoya,Genvoya,,Product sales,377,USD,millions,reported,SEC 10-Q 0000882095-25-000047
+2025,Q3,2025-09-30,3,product,HIVProductsOdefsey,Odefsey,,Product sales,277,USD,millions,reported,SEC 10-Q 0000882095-25-000047
+2025,Q3,2025-09-30,3,product,HIVProductsOtherHIV,Other HIV,,Product sales,112,USD,millions,reported,SEC 10-Q 0000882095-25-000047
+2025,Q3,2025-09-30,3,product,HIVProductsSymtuzaRevenueShare,Symtuza - Revenue share,,Product sales,124,USD,millions,reported,SEC 10-Q 0000882095-25-000047
+2025,Q3,2025-09-30,3,product,LiverDiseaseProductsOtherLiverDisease,Other Liver Disease,,Product sales,231,USD,millions,reported,SEC 10-Q 0000882095-25-000047
+2025,Q3,2025-09-30,3,product,LiverDiseaseProductsSofosbuvirVelpatasvir,Sofosbuvir/Velpatasvir,,Product sales,309,USD,millions,reported,SEC 10-Q 0000882095-25-000047
+2025,Q3,2025-09-30,3,product,LiverDiseaseProductsVemlidy,Vemlidy,,Product sales,280,USD,millions,reported,SEC 10-Q 0000882095-25-000047
+2025,Q3,2025-09-30,3,product,OtherProductsAmBisome,AmBisome,,Product sales,123,USD,millions,reported,SEC 10-Q 0000882095-25-000047
+2025,Q3,2025-09-30,3,product,OtherProductsOther,Other,,Product sales,61,USD,millions,reported,SEC 10-Q 0000882095-25-000047
+2025,Q3,2025-09-30,3,product,OtherProductsYescarta,Yescarta,,Product sales,349,USD,millions,reported,SEC 10-Q 0000882095-25-000047
+2025,Q3,2025-09-30,3,product,Trodelvy,Trodelvy,,Product sales,357,USD,millions,reported,SEC 10-Q 0000882095-25-000047
+2025,Q3,2025-09-30,3,product,Veklury,Veklury,,Product sales,277,USD,millions,reported,SEC 10-Q 0000882095-25-000047
+2025,Q4,2025-12-31,3,geography,Europe,Europe,,,1236,USD,millions,derived,SEC 10-K 0000882095-26-000006 − 10-Q 0000882095-25-000047
+2025,Q4,2025-12-31,3,geography,RestOfWorld,Rest of World,,,813,USD,millions,derived,SEC 10-K 0000882095-26-000006 − 10-Q 0000882095-25-000047
+2025,Q4,2025-12-31,3,geography,US,U.S.,,,5876,USD,millions,derived,SEC 10-K 0000882095-26-000006 − 10-Q 0000882095-25-000047
+2025,Q4,2025-12-31,3,product,RoyaltyContractAndOther,"Royalty, contract and other revenues",,Other,22,USD,millions,derived,SEC 10-K 0000882095-26-000006 − 10-Q 0000882095-25-000047
+2025,Q4,2025-12-31,3,product,CellTherapyProductsTecartus,Tecartus,,Product,90,USD,millions,derived,SEC 10-K 0000882095-26-000006 − 10-Q 0000882095-25-000047
+2025,Q4,2025-12-31,3,product,HIVProductsBiktarvy,Biktarvy,,Product,3968,USD,millions,derived,SEC 10-K 0000882095-26-000006 − 10-Q 0000882095-25-000047
+2025,Q4,2025-12-31,3,product,HIVProductsDescovy,Descovy,,Product,819,USD,millions,derived,SEC 10-K 0000882095-26-000006 − 10-Q 0000882095-25-000047
+2025,Q4,2025-12-31,3,product,HIVProductsGenvoya,Genvoya,,Product,380,USD,millions,derived,SEC 10-K 0000882095-26-000006 − 10-Q 0000882095-25-000047
+2025,Q4,2025-12-31,3,product,HIVProductsOdefsey,Odefsey,,Product,310,USD,millions,derived,SEC 10-K 0000882095-26-000006 − 10-Q 0000882095-25-000047
+2025,Q4,2025-12-31,3,product,HIVProductsOtherHIV,Other HIV,,Product,190,USD,millions,derived,SEC 10-K 0000882095-26-000006 − 10-Q 0000882095-25-000047
+2025,Q4,2025-12-31,3,product,HIVProductsSymtuzaRevenueShare,Symtuza - Revenue share,,Product,133,USD,millions,derived,SEC 10-K 0000882095-26-000006 − 10-Q 0000882095-25-000047
+2025,Q4,2025-12-31,3,product,LiverDiseaseProductsOtherLiverDisease,Other Liver Disease,,Product,281,USD,millions,derived,SEC 10-K 0000882095-26-000006 − 10-Q 0000882095-25-000047
+2025,Q4,2025-12-31,3,product,LiverDiseaseProductsSofosbuvirVelpatasvir,Sofosbuvir/Velpatasvir,,Product,276,USD,millions,derived,SEC 10-K 0000882095-26-000006 − 10-Q 0000882095-25-000047
+2025,Q4,2025-12-31,3,product,LiverDiseaseProductsVemlidy,Vemlidy,,Product,287,USD,millions,derived,SEC 10-K 0000882095-26-000006 − 10-Q 0000882095-25-000047
+2025,Q4,2025-12-31,3,product,OtherProductsAmBisome,AmBisome,,Product,118,USD,millions,derived,SEC 10-K 0000882095-26-000006 − 10-Q 0000882095-25-000047
+2025,Q4,2025-12-31,3,product,OtherProductsOther,Other,,Product,86,USD,millions,derived,SEC 10-K 0000882095-26-000006 − 10-Q 0000882095-25-000047
+2025,Q4,2025-12-31,3,product,OtherProductsYescarta,Yescarta,,Product,368,USD,millions,derived,SEC 10-K 0000882095-26-000006 − 10-Q 0000882095-25-000047
+2025,Q4,2025-12-31,3,product,Trodelvy,Trodelvy,,Product,384,USD,millions,derived,SEC 10-K 0000882095-26-000006 − 10-Q 0000882095-25-000047
+2025,Q4,2025-12-31,3,product,Veklury,Veklury,,Product,211,USD,millions,derived,SEC 10-K 0000882095-26-000006 − 10-Q 0000882095-25-000047
+2025,FY,2025-12-31,12,geography,Europe,Europe,,,5064,USD,millions,reported,SEC 10-K 0000882095-26-000006
+2025,FY,2025-12-31,12,geography,RestOfWorld,Rest of World,,,3503,USD,millions,reported,SEC 10-K 0000882095-26-000006
+2025,FY,2025-12-31,12,geography,US,U.S.,,,20876,USD,millions,reported,SEC 10-K 0000882095-26-000006
+2025,FY,2025-12-31,12,product,RoyaltyContractAndOther,"Royalty, contract and other revenues",,Other,527,USD,millions,reported,SEC 10-K 0000882095-26-000006
+2025,FY,2025-12-31,12,product,CellTherapyProductsTecartus,Tecartus,,Product,344,USD,millions,reported,SEC 10-K 0000882095-26-000006
+2025,FY,2025-12-31,12,product,HIVProductsBiktarvy,Biktarvy,,Product,14334,USD,millions,reported,SEC 10-K 0000882095-26-000006
+2025,FY,2025-12-31,12,product,HIVProductsDescovy,Descovy,,Product,2758,USD,millions,reported,SEC 10-K 0000882095-26-000006
+2025,FY,2025-12-31,12,product,HIVProductsGenvoya,Genvoya,,Product,1498,USD,millions,reported,SEC 10-K 0000882095-26-000006
+2025,FY,2025-12-31,12,product,HIVProductsOdefsey,Odefsey,,Product,1167,USD,millions,reported,SEC 10-K 0000882095-26-000006
+2025,FY,2025-12-31,12,product,HIVProductsOtherHIV,Other HIV,,Product,500,USD,millions,reported,SEC 10-K 0000882095-26-000006
+2025,FY,2025-12-31,12,product,HIVProductsSymtuzaRevenueShare,Symtuza - Revenue share,,Product,495,USD,millions,reported,SEC 10-K 0000882095-26-000006
+2025,FY,2025-12-31,12,product,LiverDiseaseProductsOtherLiverDisease,Other Liver Disease,,Product,874,USD,millions,reported,SEC 10-K 0000882095-26-000006
+2025,FY,2025-12-31,12,product,LiverDiseaseProductsSofosbuvirVelpatasvir,Sofosbuvir/Velpatasvir,,Product,1272,USD,millions,reported,SEC 10-K 0000882095-26-000006
+2025,FY,2025-12-31,12,product,LiverDiseaseProductsVemlidy,Vemlidy,,Product,1070,USD,millions,reported,SEC 10-K 0000882095-26-000006
+2025,FY,2025-12-31,12,product,OtherProductsAmBisome,AmBisome,,Product,509,USD,millions,reported,SEC 10-K 0000882095-26-000006
+2025,FY,2025-12-31,12,product,OtherProductsOther,Other,,Product,290,USD,millions,reported,SEC 10-K 0000882095-26-000006
+2025,FY,2025-12-31,12,product,OtherProductsYescarta,Yescarta,,Product,1495,USD,millions,reported,SEC 10-K 0000882095-26-000006
+2025,FY,2025-12-31,12,product,Trodelvy,Trodelvy,,Product,1397,USD,millions,reported,SEC 10-K 0000882095-26-000006
+2025,FY,2025-12-31,12,product,Veklury,Veklury,,Product,911,USD,millions,reported,SEC 10-K 0000882095-26-000006
+2026,Q1,2026-03-31,3,geography,Europe,Europe,,,1144,USD,millions,reported,SEC 10-Q 0000882095-26-000024
+2026,Q1,2026-03-31,3,geography,RestOfWorld,Rest of World,,,889,USD,millions,reported,SEC 10-Q 0000882095-26-000024
+2026,Q1,2026-03-31,3,geography,US,U.S.,,,4926,USD,millions,reported,SEC 10-Q 0000882095-26-000024
+2026,Q1,2026-03-31,3,product,RoyaltyContractAndOther,"Royalty, contract and other revenues",,Other,14,USD,millions,reported,SEC 10-Q 0000882095-26-000024
+2026,Q1,2026-03-31,3,product,CellTherapyProductsTecartus,Tecartus,,Product sales,75,USD,millions,reported,SEC 10-Q 0000882095-26-000024
+2026,Q1,2026-03-31,3,product,HIVProductsBiktarvy,Biktarvy,,Product sales,3361,USD,millions,reported,SEC 10-Q 0000882095-26-000024
+2026,Q1,2026-03-31,3,product,HIVProductsDescovy,Descovy,,Product sales,807,USD,millions,reported,SEC 10-Q 0000882095-26-000024
+2026,Q1,2026-03-31,3,product,HIVProductsGenvoya,Genvoya,,Product sales,264,USD,millions,reported,SEC 10-Q 0000882095-26-000024
+2026,Q1,2026-03-31,3,product,HIVProductsOdefsey,Odefsey,,Product sales,221,USD,millions,reported,SEC 10-Q 0000882095-26-000024
+2026,Q1,2026-03-31,3,product,HIVProductsOtherHIV,Other HIV,,Product sales,73,USD,millions,reported,SEC 10-Q 0000882095-26-000024
+2026,Q1,2026-03-31,3,product,HIVProductsSymtuzaRevenueShare,Symtuza - Revenue share,,Product sales,138,USD,millions,reported,SEC 10-Q 0000882095-26-000024
+2026,Q1,2026-03-31,3,product,HIVProductsYeztugo,Yeztugo,,Product sales,166,USD,millions,reported,SEC 10-Q 0000882095-26-000024
+2026,Q1,2026-03-31,3,product,LiverDiseaseProductsLivdelzi,Livdelzi,,Product sales,133,USD,millions,reported,SEC 10-Q 0000882095-26-000024
+2026,Q1,2026-03-31,3,product,LiverDiseaseProductsOtherLiverDisease,Other Liver Disease,,Product sales,114,USD,millions,reported,SEC 10-Q 0000882095-26-000024
+2026,Q1,2026-03-31,3,product,LiverDiseaseProductsSofosbuvirVelpatasvir,Sofosbuvir/Velpatasvir,,Product sales,283,USD,millions,reported,SEC 10-Q 0000882095-26-000024
+2026,Q1,2026-03-31,3,product,LiverDiseaseProductsVemlidy,Vemlidy,,Product sales,237,USD,millions,reported,SEC 10-Q 0000882095-26-000024
+2026,Q1,2026-03-31,3,product,OtherProductsAmBisome,AmBisome,,Product sales,138,USD,millions,reported,SEC 10-Q 0000882095-26-000024
+2026,Q1,2026-03-31,3,product,OtherProductsOther,Other,,Product sales,58,USD,millions,reported,SEC 10-Q 0000882095-26-000024
+2026,Q1,2026-03-31,3,product,OtherProductsYescarta,Yescarta,,Product sales,332,USD,millions,reported,SEC 10-Q 0000882095-26-000024
+2026,Q1,2026-03-31,3,product,Trodelvy,Trodelvy,,Product sales,402,USD,millions,reported,SEC 10-Q 0000882095-26-000024
+2026,Q1,2026-03-31,3,product,Veklury,Veklury,,Product sales,144,USD,millions,reported,SEC 10-Q 0000882095-26-000024
+2026,Q2,2026-06-30,3,geography,Europe,Europe,,,1324,USD,millions,reported,SEC 10-Q 0000882095-26-000031
+2026,Q2,2026-06-30,3,geography,RestOfWorld,Rest of World,,,876,USD,millions,reported,SEC 10-Q 0000882095-26-000031
+2026,Q2,2026-06-30,3,geography,US,U.S.,,,5603,USD,millions,reported,SEC 10-Q 0000882095-26-000031
+2026,Q2,2026-06-30,3,product,RoyaltyContractAndOther,"Royalty, contract and other revenues",,Other,176,USD,millions,reported,SEC 10-Q 0000882095-26-000031
+2026,Q2,2026-06-30,3,product,CellTherapyProductsTecartus,Tecartus,,Product sales,70,USD,millions,reported,SEC 10-Q 0000882095-26-000031
+2026,Q2,2026-06-30,3,product,HIVProductsBiktarvy,Biktarvy,,Product sales,3772,USD,millions,reported,SEC 10-Q 0000882095-26-000031
+2026,Q2,2026-06-30,3,product,HIVProductsDescovy,Descovy,,Product sales,967,USD,millions,reported,SEC 10-Q 0000882095-26-000031
+2026,Q2,2026-06-30,3,product,HIVProductsGenvoya,Genvoya,,Product sales,289,USD,millions,reported,SEC 10-Q 0000882095-26-000031
+2026,Q2,2026-06-30,3,product,HIVProductsOdefsey,Odefsey,,Product sales,239,USD,millions,reported,SEC 10-Q 0000882095-26-000031
+2026,Q2,2026-06-30,3,product,HIVProductsOtherHIV,Other HIV,,Product sales,56,USD,millions,reported,SEC 10-Q 0000882095-26-000031
+2026,Q2,2026-06-30,3,product,HIVProductsSymtuzaRevenueShare,Symtuza - Revenue share,,Product sales,138,USD,millions,reported,SEC 10-Q 0000882095-26-000031
+2026,Q2,2026-06-30,3,product,HIVProductsYeztugo,Yeztugo,,Product sales,232,USD,millions,reported,SEC 10-Q 0000882095-26-000031
+2026,Q2,2026-06-30,3,product,LiverDiseaseProductsLivdelzi,Livdelzi,,Product sales,167,USD,millions,reported,SEC 10-Q 0000882095-26-000031
+2026,Q2,2026-06-30,3,product,LiverDiseaseProductsOtherLiverDisease,Other Liver Disease,,Product sales,118,USD,millions,reported,SEC 10-Q 0000882095-26-000031
+2026,Q2,2026-06-30,3,product,LiverDiseaseProductsSofosbuvirVelpatasvir,Sofosbuvir/Velpatasvir,,Product sales,303,USD,millions,reported,SEC 10-Q 0000882095-26-000031
+2026,Q2,2026-06-30,3,product,LiverDiseaseProductsVemlidy,Vemlidy,,Product sales,289,USD,millions,reported,SEC 10-Q 0000882095-26-000031
+2026,Q2,2026-06-30,3,product,OtherProductsAmBisome,AmBisome,,Product sales,110,USD,millions,reported,SEC 10-Q 0000882095-26-000031
+2026,Q2,2026-06-30,3,product,OtherProductsOther,Other,,Product sales,51,USD,millions,reported,SEC 10-Q 0000882095-26-000031
+2026,Q2,2026-06-30,3,product,OtherProductsYescarta,Yescarta,,Product sales,346,USD,millions,reported,SEC 10-Q 0000882095-26-000031
+2026,Q2,2026-06-30,3,product,Trodelvy,Trodelvy,,Product sales,457,USD,millions,reported,SEC 10-Q 0000882095-26-000031
+2026,Q2,2026-06-30,3,product,Veklury,Veklury,,Product sales,23,USD,millions,reported,SEC 10-Q 0000882095-26-000031
+2026,Q3,2026-09-30,3,geography,Europe,Europe,,,1065,USD,millions,reported,SEC 10-Q 0000882095-26-000039
+2026,Q3,2026-09-30,3,geography,RestOfWorld,Rest of World,,,872,USD,millions,reported,SEC 10-Q 0000882095-26-000039
+2026,Q3,2026-09-30,3,geography,US,U.S.,,,6363,USD,millions,reported,SEC 10-Q 0000882095-26-000039
+2026,Q3,2026-09-30,3,product,RoyaltyContractAndOther,"Royalty, contract and other revenues",,Other,11,USD,millions,reported,SEC 10-Q 0000882095-26-000039
+2026,Q3,2026-09-30,3,product,CellTherapyProductsTecartus,Tecartus,,Product sales,60,USD,millions,reported,SEC 10-Q 0000882095-26-000039
+2026,Q3,2026-09-30,3,product,HIVProductsBiktarvy,Biktarvy,,Product sales,4059,USD,millions,reported,SEC 10-Q 0000882095-26-000039
+2026,Q3,2026-09-30,3,product,HIVProductsDescovy,Descovy,,Product sales,1046,USD,millions,reported,SEC 10-Q 0000882095-26-000039
+2026,Q3,2026-09-30,3,product,HIVProductsGenvoya,Genvoya,,Product sales,339,USD,millions,reported,SEC 10-Q 0000882095-26-000039
+2026,Q3,2026-09-30,3,product,HIVProductsOdefsey,Odefsey,,Product sales,286,USD,millions,reported,SEC 10-Q 0000882095-26-000039
+2026,Q3,2026-09-30,3,product,HIVProductsOtherHIV,Other HIV,,Product sales,82,USD,millions,reported,SEC 10-Q 0000882095-26-000039
+2026,Q3,2026-09-30,3,product,HIVProductsSymtuzaRevenueShare,Symtuza - Revenue share,,Product sales,132,USD,millions,reported,SEC 10-Q 0000882095-26-000039
+2026,Q3,2026-09-30,3,product,HIVProductsYeztugo,Yeztugo,,Product sales,305,USD,millions,reported,SEC 10-Q 0000882095-26-000039
+2026,Q3,2026-09-30,3,product,LiverDiseaseProductsLivdelzi,Livdelzi,,Product sales,203,USD,millions,reported,SEC 10-Q 0000882095-26-000039
+2026,Q3,2026-09-30,3,product,LiverDiseaseProductsOtherLiverDisease,Other Liver Disease,,Product sales,117,USD,millions,reported,SEC 10-Q 0000882095-26-000039
+2026,Q3,2026-09-30,3,product,LiverDiseaseProductsSofosbuvirVelpatasvir,Sofosbuvir/Velpatasvir,,Product sales,274,USD,millions,reported,SEC 10-Q 0000882095-26-000039
+2026,Q3,2026-09-30,3,product,LiverDiseaseProductsVemlidy,Vemlidy,,Product sales,333,USD,millions,reported,SEC 10-Q 0000882095-26-000039
+2026,Q3,2026-09-30,3,product,OtherProductsAmBisome,AmBisome,,Product sales,99,USD,millions,reported,SEC 10-Q 0000882095-26-000039
+2026,Q3,2026-09-30,3,product,OtherProductsOther,Other,,Product sales,68,USD,millions,reported,SEC 10-Q 0000882095-26-000039
+2026,Q3,2026-09-30,3,product,OtherProductsYescarta,Yescarta,,Product sales,294,USD,millions,reported,SEC 10-Q 0000882095-26-000039
+2026,Q3,2026-09-30,3,product,Trodelvy,Trodelvy,,Product sales,506,USD,millions,reported,SEC 10-Q 0000882095-26-000039
+2026,Q3,2026-09-30,3,product,Veklury,Veklury,,Product sales,86,USD,millions,reported,SEC 10-Q 0000882095-26-000039

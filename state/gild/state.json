@@ -1,0 +1,16 @@
+{
+  "cik": "0000882095",
+  "code_hash": "c3eb527647b9",
+  "fiscal_year_end": "1231",
+  "form_type": "10-K",
+  "identity_checked": "2026-11-09",
+  "last_check": "2026-11-09",
+  "name": "GILEAD SCIENCES, INC.",
+  "periods": 28,
+  "product_groups": {
+    "RoyaltyContractAndOther": "Other"
+  },
+  "segment_exclude": {},
+  "sic": "Biological Products, (No Diagnostic Substances)",
+  "ticker": "GILD"
+}

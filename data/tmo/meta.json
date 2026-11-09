@@ -1,0 +1,16 @@
+{
+  "currency": "USD",
+  "events": 0,
+  "id": "tmo",
+  "latest_period": "2026 Q3",
+  "latest_period_end": "2026-09-26",
+  "name_en": "Thermo Fisher Scientific",
+  "name_zh": "赛默飞世尔",
+  "rows": {
+    "balance": 23,
+    "cashflow": 28,
+    "income": 28,
+    "segments": 218
+  },
+  "source": "sec"
+}

@@ -1,0 +1,42 @@
+{
+  "cik": "0001651308",
+  "code_hash": "c3eb527647b9",
+  "fiscal_year_end": "1231",
+  "form_type": "10-K",
+  "identity_checked": "2026-11-09",
+  "last_check": "2026-11-09",
+  "name": "BeOne Medicines Ltd.",
+  "periods": 28,
+  "product_groups": {
+    "Abraxane": "Oncology",
+    "BLINCYTO": "Oncology",
+    "BRUKINSA": "Oncology",
+    "Brukinsa": "Oncology",
+    "Collaboration": "Other",
+    "CollaborationResearchAndDevelopmentService": "Other",
+    "KYPROLIS": "Oncology",
+    "License": "Other",
+    "MaterialRightsRevenue": "Other",
+    "POBEVCY": "Oncology",
+    "Pamiparib": "Oncology",
+    "Product": "Other",
+    "REVLIMID": "Oncology",
+    "Revlimid": "Oncology",
+    "RightToAccessIntellectualPropertyRevenue": "Other",
+    "TEVIMBRA": "Oncology",
+    "Tevimbra": "Oncology",
+    "Tislelizumab": "Oncology",
+    "VIDAZA": "Oncology",
+    "Vidaza": "Oncology",
+    "XGEVA": "Oncology",
+    "Xgeva": "Oncology"
+  },
+  "segment_exclude": {
+    "product": [
+      "bgne:CollaborationMember",
+      "bgne:CollaborationOtherMember"
+    ]
+  },
+  "sic": "Pharmaceutical Preparations",
+  "ticker": "ONC"
+}

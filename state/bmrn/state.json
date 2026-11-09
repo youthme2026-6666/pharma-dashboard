@@ -1,0 +1,17 @@
+{
+  "cik": "0001048477",
+  "code_hash": "c3eb527647b9",
+  "fiscal_year_end": "1231",
+  "form_type": "10-K",
+  "identity_checked": "2026-11-09",
+  "last_check": "2026-11-09",
+  "name": "BIOMARIN PHARMACEUTICAL INC",
+  "periods": 28,
+  "product_groups": {
+    "Product": "Rare Disease",
+    "RoyaltyAndOther": "Other"
+  },
+  "segment_exclude": {},
+  "sic": "Pharmaceutical Preparations",
+  "ticker": "BMRN"
+}
