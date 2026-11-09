@@ -26,7 +26,7 @@ from . import sec_xbrl as X
 from .base import Result
 
 FIRST_YEAR = 2021                 # 从 2021 财年开始补数据
-EXTRACT_VERSION = 2               # 收入构成提取规则的版本；改了提取规则就加 1，旧申报会重新下载、重新拆
+EXTRACT_VERSION = 3               # 收入构成提取规则的版本；改了提取规则就加 1，旧申报会重新下载、重新拆
 TICKERS_URL = "https://www.sec.gov/files/company_tickers.json"
 SEG_FILE = "sec_segments.json"
 LLY = {"id": "lly", "cik": "0000059478", "ticker": "LLY"}
@@ -202,48 +202,95 @@ def extract_filing(sec, cik, filing, statement_revenue, exclude):
 
 # ---------------- 收入构成 -> 统一格式 ----------------
 def build_segments(built, seg_state, currency, groups=None):
-    """按利润表每个期间取数的申报对齐收入构成：同一份申报里有就用它，没有就用总数等于该期营收的那份。
-    第四季度 = 全年 − 9 个月（两边成员相同才推算）。返回 (rows, notes, problems)。"""
+    """收入构成按利润表对齐：每个期间、每个方向，在各份申报（含以后申报里的上年同期数）拆出的版本里，取总数等于该期营收的；
+    有几个时取最细的（没有“其他（未单列）”、成员多的），再看是不是和利润表同一份申报、申报晚的。
+    第四季度 = 全年 − 9 个月：全年和 9 个月的版本成对挑选，共同成员最多的一对；两边成员不完全相同时，
+    共同成员逐个相减，其余成员的差额合并为“其他（未单列）”（不能为负、不能超过全年营收两成，否则不推算）。
+    返回 (rows, notes, problems)。"""
     groups = groups or {}
     versions = {}
     for accn, ext in (seg_state.get("filings") or {}).items():
         for pk, axes in (ext.get("periods") or {}).items():
             versions.setdefault(pk, []).append((ext.get("filed", ""), accn, ext.get("form", ""), axes))
-    rows, notes, problems = [], [], []
-    picked = {}            # (财年, 期间, 方向) -> (成员列表, 出处申报, 总数)
-    for (lab, p), u in sorted(built.used.items()):
-        if p not in ("Q1", "Q2", "Q3", "9M", "FY") or u.get("revenue") is None:
-            continue
-        cands = versions.get("%s|%s" % (u["start"], u["end"]), [])
-        for fam in ("product", "segment", "geography"):
-            have = [(filed, accn, form, axes[fam]) for filed, accn, form, axes in cands if fam in axes]
-            if not have:
-                continue
-            match = [h for h in have if abs(h[3][2] - u["revenue"]) <= u["tol"] + sum(m[5] for m in h[3][3]) + 0.5 + 1e-6]
-            same = [h for h in match if h[1] == u["accn"]]
-            chosen = (same or sorted(match, reverse=True) or [None])[0]
-            if chosen is None:
-                problems.append("%s %s %s：收入构成的总数与利润表营收 %.1f 对不上（%s）" % (
-                    lab, p, fam, u["revenue"], "、".join("%.1f" % h[3][2] for h in have[:3])))
-                continue
-            picked[(lab, p, fam)] = (chosen[3][3], chosen[1], chosen[2], chosen[3][0])
     forms = {accn: ext.get("form", "") for accn, ext in (seg_state.get("filings") or {}).items()}
-    for (lab, p, fam), (members, accn, form, method) in sorted(picked.items()):
-        if p == "9M":
-            continue
-        u = built.used[(lab, p)]
-        rows += _segment_rows(lab, p, u["end"], 12 if p == "FY" else 3, fam, members, currency, "SEC %s %s" % (form, accn), groups)
-        if p == "FY" and (lab, "9M", fam) in picked:
-            nine, accn9 = picked[(lab, "9M", fam)][0], picked[(lab, "9M", fam)][1]
-            a = {m[0]: m for m in members}
-            b = {m[0]: m for m in nine}
-            if set(a) != set(b):
-                notes.append("%s 第四季度%s：全年和前三季度的成员不同，不推算" % (lab, {"product": "产品", "segment": "分部", "geography": "地区"}[fam]))
+    names = {"product": "产品", "segment": "分部", "geography": "地区"}
+    rows, notes, problems = [], [], []
+
+    def cands(lab, p, fam):
+        u = built.used.get((lab, p))
+        if not u or u.get("revenue") is None:
+            return []
+        have = [(filed, accn, form, axes[fam]) for filed, accn, form, axes in versions.get("%s|%s" % (u["start"], u["end"]), [])
+                if fam in axes]
+        ok = [h for h in have if abs(h[3][2] - u["revenue"]) <= u["tol"] + sum(m[5] for m in h[3][3]) + 0.5 + 1e-6]
+        if have and not ok:
+            problems.append("%s %s %s：收入构成的总数与利润表营收 %.1f 对不上（%s）" % (
+                lab, p, fam, u["revenue"], "、".join("%.1f" % h[3][2] for h in have[:3])))
+        return [(_fineness(h[3][3]), h[1] == u["accn"], h[0], h) for h in ok]
+
+    def best(cs):
+        return max(cs)[3] if cs else None
+
+    labs = sorted({lab for lab, p in built.used})
+    for lab in labs:
+        for fam in ("product", "segment", "geography"):
+            for p in ("Q1", "Q2", "Q3"):
+                h = best(cands(lab, p, fam))
+                if h:
+                    u = built.used[(lab, p)]
+                    rows += _segment_rows(lab, p, u["end"], 3, fam, h[3][3], currency, "SEC %s %s" % (h[2], h[1]), groups)
+            fy_c, nine_c = cands(lab, "FY", fam), cands(lab, "9M", fam)
+            if not fy_c:
                 continue
-            q4 = [[k, a[k][1], a[k][2], a[k][3], round(a[k][4] - b[k][4], 6), a[k][5] + b[k][5], "derived"] for k in a]
+            u = built.used[(lab, "FY")]
+            if not nine_c:
+                h = best(fy_c)
+                rows += _segment_rows(lab, "FY", u["end"], 12, fam, h[3][3], currency, "SEC %s %s" % (h[2], h[1]), groups)
+                continue
+            pairs = []
+            for f in fy_c:
+                for n in nine_c:
+                    a, b = {m[0] for m in f[3][3][3]}, {m[0] for m in n[3][3][3]}
+                    pairs.append(((len(a & b) - len(a ^ b), f[:3], n[:3]), f[3], n[3]))
+            score, fh, nh = max(pairs, key=lambda x: x[0])
+            rows += _segment_rows(lab, "FY", u["end"], 12, fam, fh[3][3], currency, "SEC %s %s" % (fh[2], fh[1]), groups)
+            q4, why = _q4_members(fh[3], nh[3])
+            if q4 is None:
+                notes.append("%s 第四季度%s：%s，不推算" % (lab, names[fam], why))
+                continue
             rows += _segment_rows(lab, "Q4", u["end"], 3, fam, q4, currency,
-                                  "SEC %s %s − %s %s" % (form, accn, forms.get(accn9, ""), accn9), groups, basis="derived")
+                                  "SEC %s %s − %s %s" % (fh[2], fh[1], forms.get(nh[1], ""), nh[1]), groups, basis="derived")
+            if why:
+                notes.append("%s 第四季度%s：%s" % (lab, names[fam], why))
     return rows, notes, problems
+
+
+def _fineness(members):
+    """版本的细度：没有“其他（未单列）”的优先，其次成员多的。"""
+    return (not any(m[0] in (X.OTHER_MEMBER,) for m in members), len(members))
+
+
+def _q4_members(fy, nine):
+    """全年 − 9 个月（成员逐个相减）。两边成员不同时，各自独有成员的差额合并为“其他（未单列）”。返回 (成员列表, 说明) 或 (None, 原因)。"""
+    a, b = {m[0]: m for m in fy[3]}, {m[0]: m for m in nine[3]}
+    common = [k for k in a if k in b]
+    only = [k for k in a if k not in b] + [k for k in b if k not in a]
+    out = [[k, a[k][1], a[k][2], a[k][3], round(a[k][4] - b[k][4], 6), a[k][5] + b[k][5], "derived"] for k in common]
+    if not only:
+        return out, ""
+    rest = sum(a[k][4] for k in a if k not in b) - sum(b[k][4] for k in b if k not in a)
+    tol = sum(a[k][5] for k in a if k not in b) + sum(b[k][5] for k in b if k not in a) + 1e-6
+    if rest < -tol:
+        return None, "全年和前三季度的成员不同，差额为负（%.1f）" % rest
+    if sum(abs(a[k][4]) for k in a if k not in b) > 0.2 * abs(fy[2]):
+        return None, "全年和前三季度的成员差别太大"
+    other = [r for r in out if r[0] == X.OTHER_MEMBER]
+    if other:
+        other[0][4] = round(other[0][4] + rest, 6)
+        other[0][5] += tol
+    else:
+        out.append([X.OTHER_MEMBER, "", "Other (not itemized)", "", round(rest, 6), tol, "derived"])
+    return out, "全年和前三季度的成员不同（%s），差额合并为“其他（未单列）”" % "、".join(only[:6])
 
 
 def _segment_rows(lab, fp, end, months, fam, members, currency, source, groups, basis=None):
@@ -286,14 +333,21 @@ def check_segments(seg_rows, income_rows):
 
 
 # ---------------- GPT：判断合计成员、产品归类 ----------------
-def gpt_aggregates(gpt, company, item):
-    """收入构成拆不开时：让 GPT 判断哪些成员是合计或另一种拆法。返回要去掉的成员科目列表（未核对）。"""
+def gpt_aggregates(gpt, company, item, feedback=None):
+    """收入构成拆不开时：让 GPT 判断哪些成员是合计或另一种拆法。返回要去掉的成员科目列表（未核对）。
+    feedback：上一次提议没通过核对的原因（让 GPT 再判断一次）。"""
     members = [{"id": q, "name": n, "value_millions": round(v, 3)} for q, n, v in item["members"]]
-    instructions = ("你在核对美国上市公司 XBRL 里的收入构成。同一个维度上列了几组成员：有的成员是其他成员的合计（例如“产品销售合计”、"
-                    "“国际”、“某产品组合”），有的是另一种拆法（例如按收入类型拆）。请选出应该去掉的成员，使剩下的成员互不重叠、"
-                    "合起来正好等于总收入，并且尽量细（保留到具体产品或地区）。只能从给定成员里选，用它们的 id。只输出 JSON。")
+    instructions = (
+        "你在核对美国上市公司 XBRL 里的收入构成。同一个维度上常常同时列了几组成员：具体项目（单个产品、地区）、"
+        "它们的合计（例如“Net product sales”“Gross product sales”“某某 Portfolio”“International”）、"
+        "以及按另一种口径的拆分（例如按收入类型：Alliance revenues、Other revenues）。请选出应该去掉的成员，"
+        "使剩下的成员互不重叠、合起来等于总收入，并且尽量细：有具体产品时保留产品，去掉产品的合计和其他口径的拆分；"
+        "像“Other Growth products”“Other revenue”这类明细里的“其他”项要保留。毛收入（gross）不是收入的组成部分，要去掉。"
+        "只能从给定成员里选，用它们的 id。只输出 JSON。")
     user = {"company": company.get("name_en"), "total_revenue_millions": round(item["total"], 3), "members": members,
             "output_format": {"exclude": ["<member id>"], "reason": "一句话"}}
+    if feedback:
+        user["previous_attempt_failed"] = feedback
     schema = {"type": "object", "additionalProperties": False, "required": ["exclude", "reason"],
               "properties": {"exclude": {"type": "array", "items": {"type": "string"}}, "reason": {"type": "string"}}}
     r = gpt.respond(instructions, json.dumps(user, ensure_ascii=False), schema=schema, max_tokens=3000)
@@ -418,12 +472,16 @@ class Run:
                 if fam in tried or any(q in set(learned.get(fam, [])) for q, n, v in item["members"]):
                     continue
                 tried.add(fam)
-                try:
-                    proposal = gpt_aggregates(gpt, self.co, item)
-                except Exception as e:  # GPT 偶发失败只提醒
-                    self.res.warnings.append("GPT 判断收入构成的合计成员失败：%s" % e)
-                    continue
-                ok, why = verify_aggregates(item, proposal)
+                ok, why, proposal = False, "", []
+                for attempt in range(2):            # 没通过核对时，把原因告诉 GPT 再判断一次
+                    try:
+                        proposal = gpt_aggregates(gpt, self.co, item, feedback=why or None)
+                    except Exception as e:  # GPT 偶发失败只提醒
+                        why = "调用失败：%s" % e
+                        break
+                    ok, why = verify_aggregates(item, proposal)
+                    if ok:
+                        break
                 if ok:
                     learned[fam] = sorted(set(learned.get(fam, [])) | set(proposal))
                     changed = True

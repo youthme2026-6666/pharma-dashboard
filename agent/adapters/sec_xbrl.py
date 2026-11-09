@@ -40,10 +40,9 @@ AXES = {
 SUB_AXES = ("us-gaap:SubsegmentsAxis", "us-gaap:ReportingUnitAxis")       # 分部下的子分部，作为产品方向（组 = 分部）
 NEUTRAL = {"ConsolidationItemsAxis": ("us-gaap:OperatingSegmentsMember", "srt:ReportableGeographicalComponentsMember")}
 AGGREGATE_WORDS = re.compile(r"^(total\b.*|.*\btotal|products?|(net |gross )?product sales|net product revenues?|product revenues?|"
-                             r"services?|service revenues?|international|int'?l|non-?u\.?s\.?|outside (the )?u\.?s\.?|ous|"
+                             r"services?|service revenues?|international|int['’]?l|non-?u\.?s\.?|outside (the )?u\.?s\.?|ous|"
                              r"rest of (the )?world|worldwide|global|americas|reportable segments?\b.*|segments? total|.*\bportfolio)$", re.I)
-AGGREGATE_MEMBERS = {"us-gaap:ProductMember", "us-gaap:ServiceMember", "srt:NonUsMember", "srt:AmericasMember",
-                     "srt:NorthAmericaMember", "srt:EuropeMember", "srt:AsiaPacificMember"}
+AGGREGATE_MEMBERS = {"us-gaap:ProductMember", "us-gaap:ServiceMember", "srt:NonUsMember"}
 
 
 def _local(tag):

@@ -274,6 +274,31 @@ class TestBreakdown(unittest.TestCase):
         self.assertIsNone(sel)                                                    # 不到九成，不接受
 
 
+class TestQ4Breakdown(unittest.TestCase):
+    """第四季度收入构成 = 全年 − 9 个月；两边成员不同时，独有成员的差额合并为“其他（未单列）”，差额为负或太大就不推算。"""
+
+    @staticmethod
+    def version(total, **members):
+        return ["全部成员", "us-gaap:Revenues", total, [[k, "", k, "", v, 0.5, "reported"] for k, v in members.items()]]
+
+    def test_same_members(self):
+        q4, why = A._q4_members(self.version(100, A=70, B=30), self.version(75, A=50, B=25))
+        self.assertEqual(({r[0]: r[4] for r in q4}, why), ({"A": 20, "B": 5}, ""))
+
+    def test_new_member_goes_to_other(self):
+        q4, why = A._q4_members(self.version(100, A=70, B=25, C=5), self.version(75, A=50, B=25))
+        got = {r[0]: r[4] for r in q4}
+        self.assertEqual(got, {"A": 20, "B": 0, X.OTHER_MEMBER: 5})
+        self.assertAlmostEqual(sum(got.values()), 25)
+        self.assertIn("C", why)
+
+    def test_negative_or_large_difference_is_refused(self):
+        q4, why = A._q4_members(self.version(100, A=70, B=30), self.version(75, A=40, C=35))
+        self.assertIsNone(q4)
+        q4, why = A._q4_members(self.version(100, A=50, D=50), self.version(75, A=40, C=35))
+        self.assertIsNone(q4)
+
+
 class TestAdapter(unittest.TestCase):
     """适配器接口：update / backtest / check / selftest（FakeSEC 提供固定样本）。"""
 
