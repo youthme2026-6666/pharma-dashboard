@@ -14,11 +14,11 @@ on:
         description: "运行模式"
         type: choice
         options: [auto, events, backtest, check, selftest, site]
+        default: auto
       company:
         description: "只处理这些公司（公司清单里的 id，空格分隔；留空为全部）"
         type: string
         default: ""
-        default: auto
 
 permissions:
   contents: write
