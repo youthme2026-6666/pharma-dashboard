@@ -19,6 +19,7 @@ class Result:
         self.checks = []     # {name, ok, detail, fatal}
         self.warnings = []
         self.notes = []      # 写入报告的说明（例如哪些产品是从“其他”里拆出来的）
+        self.terms = {}      # 产品 -> 算出它用到了几个各自四舍五入过的公布数（回测时据此算舍入误差上限）
 
     def check(self, name, ok, detail="", fatal=True):
         self.checks.append({"name": name, "ok": bool(ok), "detail": detail, "fatal": fatal})
@@ -135,6 +136,8 @@ def _carve(res, prods, selected, known_areas, classify, combined_names, tol):
                 rows.append((area, combined_names.get(area, product), v[0], v[1], v[2]))
                 continue
             rows.append((area, combined_names.get(area, product), None, None, round(rest, 1)))
+            # 余数 = “其他”（第四季度是全年−前三季度，两个数）− 每个拆出的产品：每个公布数都各自四舍五入到百万
+            res.terms[combined_names.get(area, product)] = (2 if res.quarter.endswith("Q4") else 1) + len(plan[area])
             for name, t in plan[area]:
                 rows.append((area, name, None, None, t))
             res.notes.append("%s：从“其他”中拆出 %s（只有合计，没有美国/国际拆分）。" % (area, "、".join(n for n, _ in plan[area])))

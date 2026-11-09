@@ -228,7 +228,9 @@ def compare_with_seed(store, res):
             key = r["product"] if r["product"] in split else names.get(r["area"], r["area"])
             agg[key] = agg.get(key, 0) + f(r["total"])
     for r in new_rows:
-        if abs(r["total"] - agg.get(r["product"], 0)) > 2.01:
+        # 拆出重点产品后的“(combined)”余数由多个各自四舍五入的公布数相减得到：每个数最多差 0.5，已核对数据一侧再算 0.5
+        tol = max(2.01, 0.5 * res.terms.get(r["product"], 0) + 0.51)
+        if abs(r["total"] - agg.get(r["product"], 0)) > tol:
             diffs.append("%s 产品 %s：解析 %s，已有（按同口径归并）%.1f" % (q, r["product"], r["total"], agg.get(r["product"], 0)))
     return diffs
 
