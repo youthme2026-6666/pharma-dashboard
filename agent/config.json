@@ -1,0 +1,41 @@
+{
+  "company": {
+    "name": "Eli Lilly and Company",
+    "name_zh": "礼来",
+    "ticker": "LLY",
+    "cik": "0000059478"
+  },
+  "first_quarter": "2021Q1",
+  "areas": ["Cardiometabolic Health", "Oncology", "Immunology", "Neuroscience", "Other"],
+  "combined_bucket_names": {
+    "Cardiometabolic Health": "Other Cardiometabolic Health (combined)",
+    "Oncology": "Other Oncology (combined)",
+    "Immunology": "Other Immunology (combined)",
+    "Neuroscience": "Other Neuroscience (combined)",
+    "Other": "Other (combined)"
+  },
+  "sec": {
+    "min_interval_seconds": 0.25,
+    "retries": 4,
+    "earnings_8k_window_days": 75,
+    "annual_report_window_days": 75
+  },
+  "events": {
+    "types": ["获批", "并购", "业绩说明", "定价与可及", "临床", "产能"],
+    "allowed_domains": ["lilly.com", "sec.gov"],
+    "max_new_per_run": 6,
+    "refresh_every_days": 3,
+    "lookback_days": 45
+  },
+  "gpt": {
+    "model_preference": ["gpt-5.1", "gpt-5.5", "gpt-5"],
+    "timeout_seconds": 240,
+    "max_output_tokens": 6000
+  },
+  "checks": {
+    "identity_tolerance": 2,
+    "cross_source_tolerance": 2,
+    "growth_tolerance": 0.011
+  },
+  "heartbeat_days": 25
+}

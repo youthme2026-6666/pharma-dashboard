@@ -1,0 +1,82 @@
+/* 独立网页版的设计变量：取自 Claude 看板的配色与尺寸（浅色 / 深色两套），页面本身的样式在 index.html 里。 */
+:root {
+  color-scheme: light;
+  --color-fg: #0b0b0b;
+  --color-fg-muted: #898781;
+  --color-border-line: rgba(11, 11, 11, 0.1);
+  --color-bg: #f9f9f7;
+  --color-panel: #ffffff;
+  --color-bad: #8e2626;
+  --color-ok: #006300;
+  --cds-chart-muted: #c3c2b7;
+  --cds-chart-grid: rgba(11, 11, 11, 0.1);
+  --cds-chart-axis: #c3c2b7;
+  --cds-text-secondary: #52514e;
+  --cds-surface-popover: #ffffff;
+  --cds-border: rgba(11, 11, 11, 0.1);
+  --cds-shadow-popover: 0 8px 24px #0000001f, 0 2px 6px #00000014;
+  --cds-chart-categorical-1: #2a78d6;
+  --cds-chart-categorical-2: #eb6834;
+  --cds-chart-categorical-3: #1baf7a;
+  --cds-chart-categorical-4: #eda100;
+  --cds-chart-categorical-5: #e87ba4;
+  --cds-chart-categorical-6: #008300;
+  --cds-chart-categorical-7: #6250d6;
+  --cds-chart-categorical-8: #e34948;
+  --cds-font-size-caption: 0.6875rem;
+  --cds-font-size-body: 0.8125rem;
+  --cds-font-size-heading: 0.875rem;
+  --cds-font-size-title: 1.25rem;
+  --cds-font-weight-medium: 500;
+  --cds-radius: 0.375rem;
+  --cds-gap-xs: 0.375rem;
+  --cds-gap-sm: 0.5rem;
+  --cds-gap-md: 0.75rem;
+  --cds-gap-lg: 1.25rem;
+  --cds-gap-xl: 2rem;
+  --cds-pad-xs: 0.25rem;
+  --cds-pad-sm: 0.375rem;
+  --cds-pad-md: 0.5rem;
+  --cds-pad-lg: 0.75rem;
+  --cds-dur-slow: 0.45s;
+  --font-anthropic-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans CJK SC", Roboto, sans-serif;
+  --font-anthropic-serif: ui-serif, Georgia, "Songti SC", "Noto Serif CJK SC", "Source Han Serif SC", "Times New Roman", serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: dark;
+    --color-fg: #f0efec;
+    --color-fg-muted: #898781;
+    --color-border-line: rgba(255, 255, 255, 0.1);
+    --color-bg: #0b0b0b;
+    --color-panel: #1a1a19;
+    --color-bad: #ec7e7e;
+    --color-ok: #0ca30c;
+    --cds-chart-muted: #5f5e5a;
+    --cds-chart-grid: rgba(255, 255, 255, 0.1);
+    --cds-chart-axis: #383835;
+    --cds-text-secondary: #c3c2b7;
+    --cds-surface-popover: #20201f;
+    --cds-border: rgba(255, 255, 255, 0.1);
+    --cds-shadow-popover: 0 8px 24px #00000052, 0 2px 6px #0003;
+    --cds-chart-categorical-1: #3987e5;
+    --cds-chart-categorical-2: #d95926;
+    --cds-chart-categorical-3: #199e70;
+    --cds-chart-categorical-4: #c98500;
+    --cds-chart-categorical-5: #d55181;
+    --cds-chart-categorical-6: #008300;
+    --cds-chart-categorical-7: #9085e9;
+    --cds-chart-categorical-8: #e66767;
+  }
+}
+html, body { margin: 0; background: var(--color-bg); color: var(--color-fg); }
+body { font-family: var(--font-anthropic-sans); font-size: var(--cds-font-size-body); line-height: 1.5; -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; }
+.site-main { padding: 24px 16px 32px; }
+select { font: inherit; font-size: var(--cds-font-size-caption); color: var(--color-fg); background: var(--color-panel); border: 1px solid var(--color-border-line); border-radius: var(--cds-radius); padding: var(--cds-pad-xs) var(--cds-pad-sm); max-width: 100%; }
+select:focus-visible { outline: 2px solid var(--color-fg); outline-offset: 1px; }
+.dash-skeleton { min-height: 6rem; background: color-mix(in srgb, var(--color-fg) 4%, transparent); border-radius: var(--cds-radius); }
+.site-errors { max-width: 84rem; margin: 0 auto 12px; padding: 8px 12px; border-radius: var(--cds-radius); background: color-mix(in srgb, var(--color-bad) 12%, transparent); color: var(--color-bad); font-size: var(--cds-font-size-caption); }
+.site-foot { max-width: 84rem; margin: 0 auto; padding: 0 16px 40px; color: var(--color-fg-muted); font-size: var(--cds-font-size-caption); line-height: 1.7; }
+.site-foot p { margin: 0 0 4px; }
+.site-foot a { color: inherit; text-decoration: underline; text-decoration-color: var(--color-border-line); text-underline-offset: 2px; }
+.site-foot a:hover { text-decoration-color: var(--color-fg); }

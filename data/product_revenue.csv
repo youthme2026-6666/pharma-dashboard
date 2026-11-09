@@ -1,0 +1,726 @@
+quarter,area,product,us,intl,total
+2021Q1,Cardiometabolic Health,Baqsimi,20.6,3.8,24.4
+2021Q1,Cardiometabolic Health,Basaglar,175.2,71.4,246.6
+2021Q1,Cardiometabolic Health,Glucagon,20.4,1.4,21.8
+2021Q1,Cardiometabolic Health,Humalog,332.7,284.4,617
+2021Q1,Cardiometabolic Health,Humulin,219,102.7,321.7
+2021Q1,Cardiometabolic Health,Jardiance,151.2,160.8,312
+2021Q1,Cardiometabolic Health,Trajenta,21,73.6,94.6
+2021Q1,Cardiometabolic Health,Trulicity,1116.8,335.7,1452.4
+2021Q1,Cardiometabolic Health,Other Cardiometabolic Health,4.3,16.1,20.6
+2021Q1,Immunology,Olumiant,24.7,169.1,193.8
+2021Q1,Immunology,Qbrexza,10.5,0,10.5
+2021Q1,Immunology,Taltz,249.6,153.6,403.2
+2021Q1,Immunology,Other Immunology,0,6.4,6.4
+2021Q1,Neuroscience,Cymbalta,11,165.7,176.6
+2021Q1,Neuroscience,Emgality,101.5,18,119.5
+2021Q1,Neuroscience,Reyvow,2.5,0,2.5
+2021Q1,Neuroscience,Strattera,6.1,32.6,38.6
+2021Q1,Neuroscience,Zyprexa,6.9,88.9,95.8
+2021Q1,Neuroscience,Other Neuroscience,13.7,18.5,32.4
+2021Q1,Oncology,Alimta,261.1,297.8,559
+2021Q1,Oncology,Cyramza,80.2,160.3,240.5
+2021Q1,Oncology,Erbitux,107.9,14.4,122.4
+2021Q1,Oncology,Retevmo,16.3,0.5,16.8
+2021Q1,Oncology,Tyvyt,0,109.7,109.7
+2021Q1,Oncology,Verzenio,172.8,96.2,269
+2021Q1,Oncology,Other Oncology,4.2,50.8,54.8
+2021Q1,Other,COVID-19 Antibodies,650.6,159.5,810.1
+2021Q1,Other,Cialis,8.6,118.1,126.8
+2021Q1,Other,Forteo,97.7,100.8,198.5
+2021Q1,Other,Humatrope,32.3,32.6,64.9
+2021Q1,Other,Other,21.9,20.8,42.6
+2021Q2,Cardiometabolic Health,Baqsimi,22.3,3.6,25.9
+2021Q2,Cardiometabolic Health,Basaglar,133.4,77.3,210.7
+2021Q2,Cardiometabolic Health,Glucagon,7.9,1.5,9.3
+2021Q2,Cardiometabolic Health,Humalog,329.1,278.6,607.6
+2021Q2,Cardiometabolic Health,Humulin,221.1,94.3,315.3
+2021Q2,Cardiometabolic Health,Jardiance,194.4,162.1,356.5
+2021Q2,Cardiometabolic Health,Trajenta,16.8,72.4,89.2
+2021Q2,Cardiometabolic Health,Trulicity,1147.6,388,1535.6
+2021Q2,Cardiometabolic Health,Other Cardiometabolic Health,7.2,17.9,25.4
+2021Q2,Immunology,Olumiant,17.8,190.6,208.4
+2021Q2,Immunology,Qbrexza,4.7,0,4.7
+2021Q2,Immunology,Taltz,399.8,169.3,569.1
+2021Q2,Immunology,Other Immunology,0.1,3.2,3.2
+2021Q2,Neuroscience,Cymbalta,12.4,163.3,175.6
+2021Q2,Neuroscience,Emgality,112.1,44.2,156.3
+2021Q2,Neuroscience,Reyvow,9.4,0,9.4
+2021Q2,Neuroscience,Strattera,7.6,32.9,40.5
+2021Q2,Neuroscience,Zyprexa,8.4,86.9,95.4
+2021Q2,Neuroscience,Other Neuroscience,16.8,18.2,35
+2021Q2,Oncology,Alimta,353.5,257.1,610.6
+2021Q2,Oncology,Cyramza,101.4,167.3,268.7
+2021Q2,Oncology,Erbitux,135.8,11.2,147
+2021Q2,Oncology,Retevmo,22.5,3.2,25.7
+2021Q2,Oncology,Tyvyt,0,105,105
+2021Q2,Oncology,Verzenio,209.7,131.6,341.3
+2021Q2,Oncology,Other Oncology,5.4,50.3,55.7
+2021Q2,Other,COVID-19 Antibodies,83.4,65.7,148.9
+2021Q2,Other,Cialis,-5.2,286.3,281
+2021Q2,Other,Forteo,122.8,95.6,218.4
+2021Q2,Other,Humatrope,-10.2,32.6,22.4
+2021Q2,Other,Other,16.2,25.8,42.2
+2021Q3,Cardiometabolic Health,Baqsimi,27.6,4.3,31.9
+2021Q3,Cardiometabolic Health,Basaglar,114.7,78.1,192.8
+2021Q3,Cardiometabolic Health,Glucagon,8.5,2,10.4
+2021Q3,Cardiometabolic Health,Humalog,347.3,279.4,626.7
+2021Q3,Cardiometabolic Health,Humulin,193.4,93.4,286.7
+2021Q3,Cardiometabolic Health,Jardiance,221.2,169.2,390.4
+2021Q3,Cardiometabolic Health,Trajenta,23.4,72.7,96.1
+2021Q3,Cardiometabolic Health,Trulicity,1201.4,398.8,1600.1
+2021Q3,Cardiometabolic Health,Other Cardiometabolic Health,5.5,33.2,39
+2021Q3,Immunology,Olumiant,194,212.9,406.9
+2021Q3,Immunology,Qbrexza,0,0,0
+2021Q3,Immunology,Taltz,422.2,170.9,593.1
+2021Q3,Immunology,Other Immunology,0,4.9,4.9
+2021Q3,Neuroscience,Cymbalta,7,125.1,132
+2021Q3,Neuroscience,Emgality,99.9,40.1,140
+2021Q3,Neuroscience,Reyvow,5.4,-0.2,5.3
+2021Q3,Neuroscience,Strattera,2.6,32.5,35.2
+2021Q3,Neuroscience,Zyprexa,13,88.7,101.7
+2021Q3,Neuroscience,Other Neuroscience,16.7,19.3,36
+2021Q3,Oncology,Alimta,297.2,159.8,457
+2021Q3,Oncology,Cyramza,84.8,168.6,253.4
+2021Q3,Oncology,Erbitux,114,20.3,134.3
+2021Q3,Oncology,Retevmo,29.2,4.4,33.6
+2021Q3,Oncology,Tyvyt,0,125.6,125.6
+2021Q3,Oncology,Verzenio,199.6,135.9,335.5
+2021Q3,Oncology,Other Oncology,6.1,60.7,66.7
+2021Q3,Other,COVID-19 Antibodies,215.5,1.6,217.1
+2021Q3,Other,Cialis,-6.5,137.4,130.9
+2021Q3,Other,Forteo,109.6,91.3,200.9
+2021Q3,Other,Humatrope,19.3,31,50.2
+2021Q3,Other,Other,17,21.4,38.6
+2021Q4,Cardiometabolic Health,Baqsimi,25.9,5.1,31
+2021Q4,Cardiometabolic Health,Basaglar,165,77.4,242.4
+2021Q4,Cardiometabolic Health,Glucagon,6.9,1.9,8.8
+2021Q4,Cardiometabolic Health,Humalog,311.7,290,601.7
+2021Q4,Cardiometabolic Health,Humulin,199.4,99.4,298.8
+2021Q4,Cardiometabolic Health,Jardiance,240.5,191.4,431.9
+2021Q4,Cardiometabolic Health,Trajenta,20.9,71.7,92.6
+2021Q4,Cardiometabolic Health,Trulicity,1448.6,435.1,1883.7
+2021Q4,Cardiometabolic Health,Other Cardiometabolic Health,16.4,20.2,36.6
+2021Q4,Immunology,Olumiant,87.7,218.3,306
+2021Q4,Immunology,Qbrexza,0,0,0
+2021Q4,Immunology,Taltz,470.8,176.6,647.4
+2021Q4,Immunology,Other Immunology,0,3.2,3.2
+2021Q4,Neuroscience,Cymbalta,8.4,88.8,97.2
+2021Q4,Neuroscience,Emgality,121,40.4,161.5
+2021Q4,Neuroscience,Reyvow,6.4,0.4,6.9
+2021Q4,Neuroscience,Strattera,1.2,34.9,36.1
+2021Q4,Neuroscience,Zyprexa,11.3,126.2,137.5
+2021Q4,Neuroscience,Other Neuroscience,13.4,18.2,31.4
+2021Q4,Oncology,Alimta,322,112.8,434.9
+2021Q4,Oncology,Cyramza,91.9,178.6,270.4
+2021Q4,Oncology,Erbitux,124.1,20.5,144.6
+2021Q4,Oncology,Retevmo,31.4,7.2,38.6
+2021Q4,Oncology,Tyvyt,0,77.8,77.8
+2021Q4,Oncology,Verzenio,252.8,151.3,404.1
+2021Q4,Oncology,Other Oncology,4.9,33.7,38.5
+2021Q4,Other,COVID-19 Antibodies,1028.5,34.6,1063.1
+2021Q4,Other,Cialis,13.6,166.1,179.7
+2021Q4,Other,Forteo,111.4,72.6,184
+2021Q4,Other,Humatrope,22.6,28.9,51.4
+2021Q4,Other,Other,17.2,40.7,58.1
+2022Q1,Cardiometabolic Health,Baqsimi,22.5,6.7,29.2
+2022Q1,Cardiometabolic Health,Basaglar,119.3,72.2,191.5
+2022Q1,Cardiometabolic Health,Glucagon,5.9,1.1,6.9
+2022Q1,Cardiometabolic Health,Humalog,368.9,249.3,618.2
+2022Q1,Cardiometabolic Health,Humulin,190.4,82.8,273.2
+2022Q1,Cardiometabolic Health,Jardiance,229.8,189.7,419.4
+2022Q1,Cardiometabolic Health,Mounjaro,0,0,0
+2022Q1,Cardiometabolic Health,Trajenta,19.6,72.4,92
+2022Q1,Cardiometabolic Health,Trulicity,1313.9,427.4,1741.3
+2022Q1,Cardiometabolic Health,Other Cardiometabolic Health,6.3,10,16.3
+2022Q1,Immunology,Olumiant,71.3,184.3,255.6
+2022Q1,Immunology,Taltz,307.2,180.8,488.1
+2022Q1,Immunology,Other Immunology,0,4.5,4.5
+2022Q1,Neuroscience,Cymbalta,9.1,71.9,81.1
+2022Q1,Neuroscience,Emgality,108.3,41,149.3
+2022Q1,Neuroscience,Reyvow,5.8,0.5,6.3
+2022Q1,Neuroscience,Strattera,2.8,30.7,33.5
+2022Q1,Neuroscience,Zyprexa,9.6,83.5,93.1
+2022Q1,Neuroscience,Other Neuroscience,17.8,16.7,34.5
+2022Q1,Oncology,Alimta,254.3,89.7,343.9
+2022Q1,Oncology,Cyramza,79.2,151.1,230.3
+2022Q1,Oncology,Elunate,0,27.6,27.6
+2022Q1,Oncology,Erbitux,109.7,13,122.7
+2022Q1,Oncology,Retevmo,32.9,8.8,41.8
+2022Q1,Oncology,Tyvyt,0,85.5,85.5
+2022Q1,Oncology,Verzenio,301.5,167.9,469.4
+2022Q1,Oncology,Other Oncology,6.3,25.6,31.8
+2022Q1,Other,COVID-19 Antibodies,1455.2,14.7,1469.8
+2022Q1,Other,Cialis,6.9,210.8,217.7
+2022Q1,Other,Forteo,70.2,67.3,137.4
+2022Q1,Other,Humatrope,14.4,27.3,41.7
+2022Q1,Other,Other,35.8,20.5,56.2
+2022Q2,Cardiometabolic Health,Baqsimi,21.8,7.2,29
+2022Q2,Cardiometabolic Health,Basaglar,95.8,78.4,174.2
+2022Q2,Cardiometabolic Health,Glucagon,6.8,1,7.7
+2022Q2,Cardiometabolic Health,Humalog,238.8,208.3,447.1
+2022Q2,Cardiometabolic Health,Humulin,202.3,71.7,274
+2022Q2,Cardiometabolic Health,Jardiance,250.7,210.3,461
+2022Q2,Cardiometabolic Health,Mounjaro,12.6,3.4,16
+2022Q2,Cardiometabolic Health,Trajenta,23.7,73.4,97.1
+2022Q2,Cardiometabolic Health,Trulicity,1430.1,481.7,1911.9
+2022Q2,Cardiometabolic Health,Other Cardiometabolic Health,9.5,10.6,20.1
+2022Q2,Immunology,Olumiant,10.4,175.8,186.2
+2022Q2,Immunology,Taltz,411.6,194.7,606.2
+2022Q2,Immunology,Other Immunology,0,4,4
+2022Q2,Neuroscience,Cymbalta,8.1,67.4,75.5
+2022Q2,Neuroscience,Emgality,108.6,48.9,157.5
+2022Q2,Neuroscience,Reyvow,6.8,3.2,10
+2022Q2,Neuroscience,Strattera,-1.7,30.6,28.9
+2022Q2,Neuroscience,Zyprexa,8.7,78.6,87.3
+2022Q2,Neuroscience,Other Neuroscience,14.4,16.4,30.8
+2022Q2,Oncology,Alimta,171.7,56.1,227.7
+2022Q2,Oncology,Cyramza,92.6,138.6,231.3
+2022Q2,Oncology,Elunate,0,21.6,21.6
+2022Q2,Oncology,Erbitux,125.1,15.7,140.8
+2022Q2,Oncology,Retevmo,38.3,6.7,45
+2022Q2,Oncology,Tyvyt,0,73.6,73.6
+2022Q2,Oncology,Verzenio,384.3,204.2,588.5
+2022Q2,Oncology,Other Oncology,7,33.3,40.3
+2022Q2,Other,COVID-19 Antibodies,129.1,0,129.1
+2022Q2,Other,Cialis,10.8,136.2,147
+2022Q2,Other,Forteo,78.5,60,138.5
+2022Q2,Other,Humatrope,19.5,26.2,45.6
+2022Q2,Other,Other,19,15.6,34.6
+2022Q3,Cardiometabolic Health,Baqsimi,35.2,7.8,43
+2022Q3,Cardiometabolic Health,Basaglar,124.8,68.1,193
+2022Q3,Cardiometabolic Health,Glucagon,9.4,0.9,10.3
+2022Q3,Cardiometabolic Health,Humalog,248.1,198.8,447
+2022Q3,Cardiometabolic Health,Humulin,169.5,68.7,238.2
+2022Q3,Cardiometabolic Health,Jardiance,350.9,222.4,573.3
+2022Q3,Cardiometabolic Health,Mounjaro,97.3,90,187.3
+2022Q3,Cardiometabolic Health,Trajenta,28.5,75.3,103.8
+2022Q3,Cardiometabolic Health,Trulicity,1418.3,432,1850.4
+2022Q3,Cardiometabolic Health,Other Cardiometabolic Health,6.5,10,16.5
+2022Q3,Immunology,Olumiant,22.9,160,182.9
+2022Q3,Immunology,Taltz,493.8,186.1,679.9
+2022Q3,Immunology,Other Immunology,0,3.6,3.6
+2022Q3,Neuroscience,Cymbalta,7.8,54.9,62.7
+2022Q3,Neuroscience,Emgality,114,54.6,168.5
+2022Q3,Neuroscience,Reyvow,4.6,3.5,8.1
+2022Q3,Neuroscience,Strattera,-2.6,25,22.4
+2022Q3,Neuroscience,Zyprexa,8,73.4,81.4
+2022Q3,Neuroscience,Other Neuroscience,14,16,30.1
+2022Q3,Oncology,Alimta,64.6,54.8,119.4
+2022Q3,Oncology,Cyramza,87.5,144.6,232.1
+2022Q3,Oncology,Elunate,0,23.7,23.7
+2022Q3,Oncology,Erbitux,126.3,18.7,144.9
+2022Q3,Oncology,Retevmo,32.2,8.4,40.5
+2022Q3,Oncology,Tyvyt,0,76.8,76.8
+2022Q3,Oncology,Verzenio,414.8,202.9,617.7
+2022Q3,Oncology,Other Oncology,7.5,30.7,38.2
+2022Q3,Other,COVID-19 Antibodies,386.6,0,386.6
+2022Q3,Other,Cialis,8.1,107.7,115.7
+2022Q3,Other,Forteo,112.7,64.4,177.1
+2022Q3,Other,Humatrope,13.5,21.2,34.7
+2022Q3,Other,Other,17.3,14.4,31.7
+2022Q4,Cardiometabolic Health,Baqsimi,30.8,7.2,38.1
+2022Q4,Cardiometabolic Health,Basaglar,130.8,70.9,201.7
+2022Q4,Cardiometabolic Health,Glucagon,6.6,0.9,7.5
+2022Q4,Cardiometabolic Health,Humalog,336,212.3,548.3
+2022Q4,Cardiometabolic Health,Humulin,167.9,66,234
+2022Q4,Cardiometabolic Health,Jardiance,363.1,249.2,612.3
+2022Q4,Cardiometabolic Health,Mounjaro,256.7,22.5,279.2
+2022Q4,Cardiometabolic Health,Trajenta,17.8,73,90.8
+2022Q4,Cardiometabolic Health,Trulicity,1526.4,409.8,1936.2
+2022Q4,Cardiometabolic Health,Other Cardiometabolic Health,17.6,10.3,27.9
+2022Q4,Immunology,Olumiant,43.5,162.3,205.8
+2022Q4,Immunology,Taltz,512,195.8,707.8
+2022Q4,Immunology,Other Immunology,20,0,20
+2022Q4,Neuroscience,Cymbalta,8.7,55.4,64
+2022Q4,Neuroscience,Emgality,132,43.7,175.6
+2022Q4,Neuroscience,Reyvow,6.9,2.6,9.5
+2022Q4,Neuroscience,Strattera,2.4,29,31.4
+2022Q4,Neuroscience,Zyprexa,4.2,71,75.2
+2022Q4,Neuroscience,Other Neuroscience,14.3,15.2,29.6
+2022Q4,Oncology,Alimta,53.2,183.4,236.6
+2022Q4,Oncology,Cyramza,92.1,185.7,277.8
+2022Q4,Oncology,Elunate,0,18,18
+2022Q4,Oncology,Erbitux,139.1,19.1,158.2
+2022Q4,Oncology,Retevmo,39.1,25.5,64.6
+2022Q4,Oncology,Tyvyt,0,57.5,57.5
+2022Q4,Oncology,Verzenio,552.7,255.3,808
+2022Q4,Oncology,Other Oncology,6.5,24,30.4
+2022Q4,Other,COVID-19 Antibodies,38,0,38
+2022Q4,Other,Cialis,9.4,97.4,106.8
+2022Q4,Other,Forteo,105.9,54.1,160
+2022Q4,Other,Humatrope,8.3,11.2,19.4
+2022Q4,Other,Other,16.6,15,31.6
+2023Q1,Cardiometabolic Health,Baqsimi,23.1,8.3,31.4
+2023Q1,Cardiometabolic Health,Basaglar,135.4,73.9,209.3
+2023Q1,Cardiometabolic Health,Humalog,271.6,189.3,460.9
+2023Q1,Cardiometabolic Health,Humulin,198.8,53.2,252
+2023Q1,Cardiometabolic Health,Jardiance,329.4,248.1,577.5
+2023Q1,Cardiometabolic Health,Mounjaro,536.4,32,568.5
+2023Q1,Cardiometabolic Health,Trajenta,19.1,66.7,85.8
+2023Q1,Cardiometabolic Health,Trulicity,1547.4,429.7,1977.1
+2023Q1,Cardiometabolic Health,Zepbound,0,0,0
+2023Q1,Cardiometabolic Health,Other Cardiometabolic Health,13.8,14,27.8
+2023Q1,Immunology,Ebglyss,0,0,0
+2023Q1,Immunology,Olumiant,42.3,186.5,228.9
+2023Q1,Immunology,Omvoh,0,22,22
+2023Q1,Immunology,Taltz,312.2,214.8,527
+2023Q1,Neuroscience,Cymbalta,8,52.3,60.2
+2023Q1,Neuroscience,Emgality,108.7,45.6,154.3
+2023Q1,Neuroscience,Reyvow,6.5,3.6,10.1
+2023Q1,Neuroscience,Zyprexa,7.2,75.5,82.7
+2023Q1,Neuroscience,Other Neuroscience,14.1,39,53.1
+2023Q1,Oncology,Alimta,20.1,38.1,58.2
+2023Q1,Oncology,Cyramza,100.6,136.1,236.8
+2023Q1,Oncology,Elunate,0,28.4,28.4
+2023Q1,Oncology,Erbitux,118.8,11.1,129.9
+2023Q1,Oncology,Jaypirca,5.1,0,5.1
+2023Q1,Oncology,Retevmo,36.3,15.1,51.4
+2023Q1,Oncology,Tyvyt,0,61,61
+2023Q1,Oncology,Verzenio,461.1,289.8,750.9
+2023Q1,Oncology,Other Oncology,11.5,22.9,34.4
+2023Q1,Other,Cialis,7.6,92.7,100.3
+2023Q1,Other,Forteo,70.7,51.7,122.3
+2023Q1,Other,Humatrope,25.4,6.8,32.1
+2023Q1,Other,Other,5.1,15.5,20.6
+2023Q2,Cardiometabolic Health,Baqsimi,606.2,7.7,613.9
+2023Q2,Cardiometabolic Health,Basaglar,83,71.2,154.2
+2023Q2,Cardiometabolic Health,Humalog,229.8,210.6,440.4
+2023Q2,Cardiometabolic Health,Humulin,144.3,61,205.3
+2023Q2,Cardiometabolic Health,Jardiance,386.1,282.2,668.3
+2023Q2,Cardiometabolic Health,Mounjaro,915.7,64,979.7
+2023Q2,Cardiometabolic Health,Trajenta,27.7,75.9,103.6
+2023Q2,Cardiometabolic Health,Trulicity,1371.3,441.2,1812.5
+2023Q2,Cardiometabolic Health,Zepbound,0,0,0
+2023Q2,Cardiometabolic Health,Other Cardiometabolic Health,17.2,15.6,32.7
+2023Q2,Immunology,Ebglyss,0,0,0
+2023Q2,Immunology,Olumiant,50.8,168.1,218.9
+2023Q2,Immunology,Omvoh,0,5.7,5.7
+2023Q2,Immunology,Taltz,472.3,231.6,703.9
+2023Q2,Neuroscience,Cymbalta,7.6,56.5,64.1
+2023Q2,Neuroscience,Emgality,118.8,50.5,169.3
+2023Q2,Neuroscience,Reyvow,7,1.1,8.1
+2023Q2,Neuroscience,Zyprexa,12,74.9,86.9
+2023Q2,Neuroscience,Other Neuroscience,15.5,43.3,58.8
+2023Q2,Oncology,Alimta,17.9,43.1,60.9
+2023Q2,Oncology,Cyramza,115,145.3,260.3
+2023Q2,Oncology,Elunate,0,25.6,25.6
+2023Q2,Oncology,Erbitux,145.5,17,162.5
+2023Q2,Oncology,Jaypirca,14.4,0,14.4
+2023Q2,Oncology,Retevmo,44.4,21,65.4
+2023Q2,Oncology,Tyvyt,0,103.6,103.6
+2023Q2,Oncology,Verzenio,588.6,338.2,926.8
+2023Q2,Oncology,Other Oncology,9.3,42.2,51.5
+2023Q2,Other,Cialis,9.2,106.4,115.6
+2023Q2,Other,Forteo,97.4,50.6,148
+2023Q2,Other,Humatrope,4.1,11.6,15.8
+2023Q2,Other,Other,20.4,14.8,35.2
+2023Q3,Cardiometabolic Health,Baqsimi,3.8,9.3,13.1
+2023Q3,Cardiometabolic Health,Basaglar,111.4,68.2,179.6
+2023Q3,Cardiometabolic Health,Humalog,194.2,201.2,395.4
+2023Q3,Cardiometabolic Health,Humulin,145.5,61.2,206.7
+2023Q3,Cardiometabolic Health,Jardiance,415.9,284.8,700.8
+2023Q3,Cardiometabolic Health,Mounjaro,1277,132.4,1409.3
+2023Q3,Cardiometabolic Health,Trajenta,20.6,74.6,95.2
+2023Q3,Cardiometabolic Health,Trulicity,1259,414.6,1673.6
+2023Q3,Cardiometabolic Health,Zepbound,0,0,0
+2023Q3,Cardiometabolic Health,Other Cardiometabolic Health,32.7,14,46.7
+2023Q3,Immunology,Ebglyss,0,3.5,3.5
+2023Q3,Immunology,Olumiant,65.7,165.7,231.4
+2023Q3,Immunology,Omvoh,0,7.8,7.8
+2023Q3,Immunology,Taltz,509.3,234.9,744.2
+2023Q3,Neuroscience,Cymbalta,8,53,61
+2023Q3,Neuroscience,Emgality,126.5,42.1,168.5
+2023Q3,Neuroscience,Reyvow,7.4,1.9,9.3
+2023Q3,Neuroscience,Zyprexa,49.9,1431.5,1481.4
+2023Q3,Neuroscience,Other Neuroscience,15.7,32.2,47.9
+2023Q3,Oncology,Alimta,21.2,32.3,53.5
+2023Q3,Oncology,Cyramza,88,136.1,224.1
+2023Q3,Oncology,Elunate,0,26.6,26.6
+2023Q3,Oncology,Erbitux,134,19.9,153.9
+2023Q3,Oncology,Jaypirca,22.7,0,22.7
+2023Q3,Oncology,Retevmo,42.2,21.2,63.4
+2023Q3,Oncology,Tyvyt,0,115.1,115.1
+2023Q3,Oncology,Verzenio,684.6,355.7,1040.2
+2023Q3,Oncology,Other Oncology,8.7,38.8,47.5
+2023Q3,Other,Cialis,4.9,82,86.8
+2023Q3,Other,Forteo,101.2,45.2,146.4
+2023Q3,Other,Humatrope,14.5,10.3,24.8
+2023Q3,Other,Other,3.5,14.5,18
+2023Q4,Cardiometabolic Health,Baqsimi,12.7,6.5,19.2
+2023Q4,Cardiometabolic Health,Basaglar,113.4,71.8,185.2
+2023Q4,Cardiometabolic Health,Humalog,167.6,199,366.6
+2023Q4,Cardiometabolic Health,Humulin,121.5,66.6,188.1
+2023Q4,Cardiometabolic Health,Jardiance,468.9,329.1,798.1
+2023Q4,Cardiometabolic Health,Mounjaro,2105.1,100.5,2205.6
+2023Q4,Cardiometabolic Health,Trajenta,22.7,79.5,102.2
+2023Q4,Cardiometabolic Health,Trulicity,1255.7,413.6,1669.3
+2023Q4,Cardiometabolic Health,Zepbound,175.8,0,175.8
+2023Q4,Cardiometabolic Health,Other Cardiometabolic Health,21,14.8,35.9
+2023Q4,Immunology,Ebglyss,0,67.6,67.6
+2023Q4,Immunology,Olumiant,66.7,176.8,243.5
+2023Q4,Immunology,Omvoh,0.8,7.8,8.6
+2023Q4,Immunology,Taltz,537.8,246.8,784.6
+2023Q4,Neuroscience,Cymbalta,7.1,50.2,57.3
+2023Q4,Neuroscience,Emgality,128.3,57.8,186.1
+2023Q4,Neuroscience,Reyvow,7.8,0.2,8
+2023Q4,Neuroscience,Zyprexa,10.3,33.5,43.8
+2023Q4,Neuroscience,Other Neuroscience,29.8,37.8,67.6
+2023Q4,Oncology,Alimta,13.8,31.1,44.9
+2023Q4,Oncology,Cyramza,98.7,154.9,253.6
+2023Q4,Oncology,Elunate,0,23,23
+2023Q4,Oncology,Erbitux,130.6,19.6,150.2
+2023Q4,Oncology,Jaypirca,32.7,0.1,32.8
+2023Q4,Oncology,Retevmo,52.2,21.2,73.4
+2023Q4,Oncology,Tyvyt,0,113.6,113.6
+2023Q4,Oncology,Verzenio,774.8,370.6,1145.4
+2023Q4,Oncology,Other Oncology,4.2,43.1,47.3
+2023Q4,Other,Cialis,4.5,74.2,78.7
+2023Q4,Other,Forteo,66.3,50.1,116.4
+2023Q4,Other,Humatrope,17.9,9.3,27.2
+2023Q4,Other,Other,6.8,27,33.8
+2024Q1,Cardiometabolic Health,Basaglar,83.2,74.3,157.6
+2024Q1,Cardiometabolic Health,Humalog,338.3,200.4,538.7
+2024Q1,Cardiometabolic Health,Humulin,153.1,53.1,206.2
+2024Q1,Cardiometabolic Health,Jardiance,368.2,318.3,686.5
+2024Q1,Cardiometabolic Health,Mounjaro,1520.4,286.2,1806.5
+2024Q1,Cardiometabolic Health,Trajenta,16.4,72.5,88.9
+2024Q1,Cardiometabolic Health,Trulicity,1081.9,374.4,1456.3
+2024Q1,Cardiometabolic Health,Zepbound,517.4,0,517.4
+2024Q1,Cardiometabolic Health,Other Cardiometabolic Health,11.1,23.8,34.9
+2024Q1,Immunology,Ebglyss,0,3.1,3.1
+2024Q1,Immunology,Olumiant,46.3,171,217.4
+2024Q1,Immunology,Omvoh,3.8,5.6,9.4
+2024Q1,Immunology,Taltz,347.1,257,604.1
+2024Q1,Neuroscience,Cymbalta,5.5,49,54.4
+2024Q1,Neuroscience,Emgality,125,100.7,225.7
+2024Q1,Neuroscience,Kisunla,0,0,0
+2024Q1,Neuroscience,Reyvow,5,3.5,8.5
+2024Q1,Neuroscience,Other Neuroscience,27.6,72.8,100.5
+2024Q1,Oncology,Alimta,14.7,54.8,69.5
+2024Q1,Oncology,Cyramza,107.2,122.6,229.9
+2024Q1,Oncology,Elunate,0,30.9,30.9
+2024Q1,Oncology,Erbitux,132.1,12.5,144.6
+2024Q1,Oncology,Jaypirca,48.8,1.1,50
+2024Q1,Oncology,Retevmo,45.4,23.8,69.2
+2024Q1,Oncology,Tyvyt,0,116.7,116.7
+2024Q1,Oncology,Verzenio,638.2,412.1,1050.3
+2024Q1,Oncology,Other Oncology,11.9,37.2,49.1
+2024Q1,Other,Cialis,5.9,133.4,139.3
+2024Q1,Other,Forteo,21.7,39.5,61.3
+2024Q1,Other,Humatrope,10.3,8.8,19.1
+2024Q1,Other,Other,7.8,14.5,22.3
+2024Q2,Cardiometabolic Health,Basaglar,105.2,75.6,180.8
+2024Q2,Cardiometabolic Health,Humalog,434.7,196.9,631.6
+2024Q2,Cardiometabolic Health,Humulin,169.3,54.2,223.6
+2024Q2,Cardiometabolic Health,Jardiance,428.9,340.7,769.6
+2024Q2,Cardiometabolic Health,Mounjaro,2413.7,677.2,3090.8
+2024Q2,Cardiometabolic Health,Trajenta,15.7,60.9,76.6
+2024Q2,Cardiometabolic Health,Trulicity,876.7,368.9,1245.6
+2024Q2,Cardiometabolic Health,Zepbound,1243.2,0,1243.2
+2024Q2,Cardiometabolic Health,Other Cardiometabolic Health,28.7,24.1,52.9
+2024Q2,Immunology,Ebglyss,0,4.3,4.3
+2024Q2,Immunology,Olumiant,44.5,183.2,227.7
+2024Q2,Immunology,Omvoh,15.8,9.8,25.6
+2024Q2,Immunology,Taltz,539.4,285.3,824.7
+2024Q2,Neuroscience,Cymbalta,7.3,42.5,49.8
+2024Q2,Neuroscience,Emgality,137.6,54.4,192
+2024Q2,Neuroscience,Kisunla,0,0,0
+2024Q2,Neuroscience,Reyvow,6.4,0.4,6.7
+2024Q2,Neuroscience,Other Neuroscience,40.6,50.2,90.8
+2024Q2,Oncology,Alimta,12.5,21.4,33.9
+2024Q2,Oncology,Cyramza,116.1,132.8,248.9
+2024Q2,Oncology,Elunate,0,28.7,28.7
+2024Q2,Oncology,Erbitux,142.9,13,155.8
+2024Q2,Oncology,Jaypirca,71.8,20.6,92.4
+2024Q2,Oncology,Retevmo,61.1,30.1,91.2
+2024Q2,Oncology,Tyvyt,0,123,123
+2024Q2,Oncology,Verzenio,861.4,470.5,1331.9
+2024Q2,Oncology,Other Oncology,9.5,43.4,53
+2024Q2,Other,Cialis,7.5,80.2,87.7
+2024Q2,Other,Forteo,31.5,38.5,69.9
+2024Q2,Other,Humatrope,9.4,10,19.4
+2024Q2,Other,Other,3.9,26.7,30.6
+2024Q3,Cardiometabolic Health,Basaglar,85.5,76.2,161.6
+2024Q3,Cardiometabolic Health,Humalog,323.9,210.8,534.6
+2024Q3,Cardiometabolic Health,Humulin,149.9,57.1,207.1
+2024Q3,Cardiometabolic Health,Jardiance,335.9,350.5,686.4
+2024Q3,Cardiometabolic Health,Mounjaro,2384.7,728,3112.7
+2024Q3,Cardiometabolic Health,Trajenta,11.6,80.2,91.7
+2024Q3,Cardiometabolic Health,Trulicity,935.3,366,1301.4
+2024Q3,Cardiometabolic Health,Zepbound,1257.8,0,1257.8
+2024Q3,Cardiometabolic Health,Other Cardiometabolic Health,32.3,21.3,53.7
+2024Q3,Immunology,Ebglyss,0.5,14.4,14.9
+2024Q3,Immunology,Olumiant,68.9,181.8,250.8
+2024Q3,Immunology,Omvoh,24.4,16.1,40.5
+2024Q3,Immunology,Taltz,600.3,279.3,879.6
+2024Q3,Neuroscience,Cymbalta,6.8,38,44.7
+2024Q3,Neuroscience,Emgality,141.3,61.6,202.9
+2024Q3,Neuroscience,Kisunla,1.3,0.1,1.4
+2024Q3,Neuroscience,Reyvow,6.5,0.4,6.9
+2024Q3,Neuroscience,Other Neuroscience,45.4,50.4,95.8
+2024Q3,Oncology,Alimta,9.9,38.2,48
+2024Q3,Oncology,Cyramza,106.5,129.4,236
+2024Q3,Oncology,Elunate,0,29.2,29.2
+2024Q3,Oncology,Erbitux,133.2,18.7,152
+2024Q3,Oncology,Jaypirca,73.1,8,81.1
+2024Q3,Oncology,Retevmo,84.2,29.8,114
+2024Q3,Oncology,Tyvyt,0,150.2,150.2
+2024Q3,Oncology,Verzenio,878.8,490.4,1369.3
+2024Q3,Oncology,Other Oncology,8.6,43.5,52.1
+2024Q3,Other,Cialis,4.2,87.3,91.5
+2024Q3,Other,Forteo,71.7,46.4,118.1
+2024Q3,Other,Humatrope,14.9,7.5,22.5
+2024Q3,Other,Other,16.1,14.6,30.7
+2024Q4,Cardiometabolic Health,Basaglar,101.5,75.4,176.9
+2024Q4,Cardiometabolic Health,Humalog,405.8,214.1,619.9
+2024Q4,Cardiometabolic Health,Humulin,171.1,109.2,280.3
+2024Q4,Cardiometabolic Health,Jardiance,464.5,733.9,1198.4
+2024Q4,Cardiometabolic Health,Mounjaro,2631.2,898.9,3530.1
+2024Q4,Cardiometabolic Health,Trajenta,18.9,77.7,96.6
+2024Q4,Cardiometabolic Health,Trulicity,799.8,450.4,1250.2
+2024Q4,Cardiometabolic Health,Zepbound,1907.2,0,1907.2
+2024Q4,Cardiometabolic Health,Other Cardiometabolic Health,27.4,19.2,46.6
+2024Q4,Immunology,Ebglyss,8.8,11.6,20.4
+2024Q4,Immunology,Olumiant,68.9,192.6,261.6
+2024Q4,Immunology,Omvoh,23.3,33.6,56.9
+2024Q4,Immunology,Taltz,665.5,286.5,952
+2024Q4,Neuroscience,Cymbalta,7.1,43.1,50.2
+2024Q4,Neuroscience,Emgality,155.8,94,249.8
+2024Q4,Neuroscience,Kisunla,7.2,0.7,7.9
+2024Q4,Neuroscience,Reyvow,7.1,3.5,10.6
+2024Q4,Neuroscience,Other Neuroscience,46.5,28.2,74.6
+2024Q4,Oncology,Alimta,12.5,26.4,38.8
+2024Q4,Oncology,Cyramza,112.4,146.2,258.6
+2024Q4,Oncology,Elunate,0,22.7,22.7
+2024Q4,Oncology,Erbitux,153.9,21.1,175
+2024Q4,Oncology,Jaypirca,86.2,27.4,113.6
+2024Q4,Oncology,Retevmo,50.2,39.8,90
+2024Q4,Oncology,Tyvyt,0,136,136
+2024Q4,Oncology,Verzenio,1042.2,513,1555.2
+2024Q4,Oncology,Other Oncology,10.6,151.4,162
+2024Q4,Other,Cialis,3.5,72.2,75.7
+2024Q4,Other,Forteo,27.2,34.4,61.6
+2024Q4,Other,Humatrope,11.4,7.2,18.6
+2024Q4,Other,Other,4.3,30.4,34.8
+2025Q1,Cardiometabolic Health,Basaglar,99,75,174
+2025Q1,Cardiometabolic Health,Humalog,335,202,537
+2025Q1,Cardiometabolic Health,Humulin,125,48,173
+2025Q1,Cardiometabolic Health,Jardiance,310,705,1014
+2025Q1,Cardiometabolic Health,Mounjaro,2656,1186,3842
+2025Q1,Cardiometabolic Health,Trajenta,8,68,76
+2025Q1,Cardiometabolic Health,Trulicity,771,325,1095
+2025Q1,Cardiometabolic Health,Zepbound,2305,7,2312
+2025Q1,Cardiometabolic Health,Other Cardiometabolic Health,-32,16,-16
+2025Q1,Immunology,Ebglyss,39,21,60
+2025Q1,Immunology,Olumiant,46,182,229
+2025Q1,Immunology,Omvoh,16,21,37
+2025Q1,Immunology,Taltz,477,285,762
+2025Q1,Neuroscience,Cymbalta,6,25,31
+2025Q1,Neuroscience,Emgality,104,20,125
+2025Q1,Neuroscience,Kisunla,18,3,22
+2025Q1,Neuroscience,Reyvow,5,0,5
+2025Q1,Neuroscience,Other Neuroscience,55,34,89
+2025Q1,Oncology,Alimta,8,20,28
+2025Q1,Oncology,Cyramza,100,125,225
+2025Q1,Oncology,Elunate,0,19,19
+2025Q1,Oncology,Erbitux,140,9,149
+2025Q1,Oncology,Inluriyo,0,0,0
+2025Q1,Oncology,Jaypirca,75,17,92
+2025Q1,Oncology,Retevmo,52,39,91
+2025Q1,Oncology,Tyvyt,0,138,138
+2025Q1,Oncology,Verzenio,658,501,1159
+2025Q1,Oncology,Other Oncology,12,35,47
+2025Q1,Other,Cialis,9,61,70
+2025Q1,Other,Forteo,32,34,67
+2025Q1,Other,Humatrope,58,7,65
+2025Q1,Other,Other,1,11,12
+2025Q2,Cardiometabolic Health,Basaglar,68,77,145
+2025Q2,Cardiometabolic Health,Humalog,304,199,503
+2025Q2,Cardiometabolic Health,Humulin,122,53,175
+2025Q2,Cardiometabolic Health,Jardiance,382,308,690
+2025Q2,Cardiometabolic Health,Mounjaro,3302,1897,5199
+2025Q2,Cardiometabolic Health,Trajenta,14,78,92
+2025Q2,Cardiometabolic Health,Trulicity,744,348,1092
+2025Q2,Cardiometabolic Health,Zepbound,3380,2,3381
+2025Q2,Cardiometabolic Health,Other Cardiometabolic Health,48,18,66
+2025Q2,Immunology,Ebglyss,60,27,87
+2025Q2,Immunology,Olumiant,55,191,246
+2025Q2,Immunology,Omvoh,38,37,75
+2025Q2,Immunology,Taltz,549,299,848
+2025Q2,Neuroscience,Cymbalta,6,19,24
+2025Q2,Neuroscience,Emgality,156,45,201
+2025Q2,Neuroscience,Kisunla,40,9,49
+2025Q2,Neuroscience,Reyvow,8,0,8
+2025Q2,Neuroscience,Other Neuroscience,39,24,62
+2025Q2,Oncology,Alimta,8,21,29
+2025Q2,Oncology,Cyramza,122,132,254
+2025Q2,Oncology,Elunate,0,21,21
+2025Q2,Oncology,Erbitux,166,18,184
+2025Q2,Oncology,Inluriyo,0,0,0
+2025Q2,Oncology,Jaypirca,106,17,123
+2025Q2,Oncology,Retevmo,77,49,125
+2025Q2,Oncology,Tyvyt,0,137,137
+2025Q2,Oncology,Verzenio,929,560,1489
+2025Q2,Oncology,Other Oncology,12,39,51
+2025Q2,Other,Cialis,2,65,67
+2025Q2,Other,Forteo,60,33,93
+2025Q2,Other,Humatrope,14,6,20
+2025Q2,Other,Other,7,15,23
+2025Q3,Cardiometabolic Health,Basaglar,80,82,162
+2025Q3,Cardiometabolic Health,Humalog,387,212,599
+2025Q3,Cardiometabolic Health,Humulin,122,55,177
+2025Q3,Cardiometabolic Health,Jardiance,424,535,959
+2025Q3,Cardiometabolic Health,Mounjaro,3550,2965,6515
+2025Q3,Cardiometabolic Health,Trajenta,0,71,71
+2025Q3,Cardiometabolic Health,Trulicity,707,345,1052
+2025Q3,Cardiometabolic Health,Zepbound,3568,20,3588
+2025Q3,Cardiometabolic Health,Other Cardiometabolic Health,28,26,55
+2025Q3,Immunology,Ebglyss,92,35,127
+2025Q3,Immunology,Olumiant,66,203,269
+2025Q3,Immunology,Omvoh,32,33,65
+2025Q3,Immunology,Taltz,583,318,902
+2025Q3,Neuroscience,Cymbalta,-1,5,4
+2025Q3,Neuroscience,Emgality,130,45,176
+2025Q3,Neuroscience,Kisunla,52,19,70
+2025Q3,Neuroscience,Reyvow,7,1,8
+2025Q3,Neuroscience,Other Neuroscience,51,6,57
+2025Q3,Oncology,Alimta,9,17,26
+2025Q3,Oncology,Cyramza,113,133,246
+2025Q3,Oncology,Elunate,0,23,23
+2025Q3,Oncology,Erbitux,177,22,199
+2025Q3,Oncology,Inluriyo,0,0,0
+2025Q3,Oncology,Jaypirca,116,27,143
+2025Q3,Oncology,Retevmo,68,44,112
+2025Q3,Oncology,Tyvyt,0,142,142
+2025Q3,Oncology,Verzenio,880,590,1470
+2025Q3,Oncology,Other Oncology,12,36,48
+2025Q3,Other,Cialis,7,247,254
+2025Q3,Other,Forteo,25,31,56
+2025Q3,Other,Humatrope,10,6,16
+2025Q3,Other,Other,4,8,12
+2025Q4,Cardiometabolic Health,Basaglar,54,91,145
+2025Q4,Cardiometabolic Health,Humalog,319,209,529
+2025Q4,Cardiometabolic Health,Humulin,120,60,180
+2025Q4,Cardiometabolic Health,Jardiance,466,302,768
+2025Q4,Cardiometabolic Health,Mounjaro,4143,3267,7409
+2025Q4,Cardiometabolic Health,Trajenta,3,76,79
+2025Q4,Cardiometabolic Health,Trulicity,693,344,1037
+2025Q4,Cardiometabolic Health,Zepbound,4231,31,4261
+2025Q4,Cardiometabolic Health,Other Cardiometabolic Health,28,56,84
+2025Q4,Immunology,Ebglyss,83,51,134
+2025Q4,Immunology,Olumiant,66,202,267
+2025Q4,Immunology,Omvoh,39,50,88
+2025Q4,Immunology,Taltz,724,327,1051
+2025Q4,Neuroscience,Cymbalta,0,3,3
+2025Q4,Neuroscience,Emgality,162,84,246
+2025Q4,Neuroscience,Kisunla,78,30,109
+2025Q4,Neuroscience,Reyvow,8,7,16
+2025Q4,Neuroscience,Other Neuroscience,71,15,86
+2025Q4,Oncology,Alimta,10,21,32
+2025Q4,Oncology,Cyramza,113,149,262
+2025Q4,Oncology,Elunate,0,32,32
+2025Q4,Oncology,Erbitux,177,19,196
+2025Q4,Oncology,Inluriyo,14,0,14
+2025Q4,Oncology,Jaypirca,113,34,148
+2025Q4,Oncology,Retevmo,77,51,128
+2025Q4,Oncology,Tyvyt,0,134,134
+2025Q4,Oncology,Verzenio,997,608,1604
+2025Q4,Oncology,Other Oncology,11,48,59
+2025Q4,Other,Cialis,7,65,72
+2025Q4,Other,Forteo,43,31,75
+2025Q4,Other,Humatrope,8,5,13
+2025Q4,Other,Other,19,13,32
+2026Q1,Cardiometabolic Health,Basaglar,110,96,206
+2026Q1,Cardiometabolic Health,Foundayo,0,0,0
+2026Q1,Cardiometabolic Health,Humalog,231,211,442
+2026Q1,Cardiometabolic Health,Humulin,106,53,160
+2026Q1,Cardiometabolic Health,Jardiance,512,602,1114
+2026Q1,Cardiometabolic Health,Mounjaro,4232,4430,8662
+2026Q1,Cardiometabolic Health,Trajenta,0,76,76
+2026Q1,Cardiometabolic Health,Trulicity,600,318,919
+2026Q1,Cardiometabolic Health,Zepbound,4134,26,4160
+2026Q1,Cardiometabolic Health,Other Cardiometabolic Health,-2,24,22
+2026Q1,Immunology,Ebglyss,105,40,145
+2026Q1,Immunology,Olumiant,60,185,246
+2026Q1,Immunology,Omvoh,36,44,80
+2026Q1,Immunology,Taltz,417,315,733
+2026Q1,Neuroscience,Emgality,136,37,174
+2026Q1,Neuroscience,Kisunla,84,40,124
+2026Q1,Neuroscience,Reyvow,5,0,5
+2026Q1,Neuroscience,Other Neuroscience,67,12,79
+2026Q1,Oncology,Alimta,10,24,35
+2026Q1,Oncology,Cyramza,109,121,231
+2026Q1,Oncology,Elunate,0,26,26
+2026Q1,Oncology,Erbitux,165,13,178
+2026Q1,Oncology,Inluriyo,35,0,35
+2026Q1,Oncology,Jaypirca,118,46,165
+2026Q1,Oncology,Retevmo,71,59,130
+2026Q1,Oncology,Tyvyt,0,120,120
+2026Q1,Oncology,Verzenio,706,596,1302
+2026Q1,Oncology,Other Oncology,12,35,48
+2026Q1,Other,Cialis,4,87,91
+2026Q1,Other,Forteo,40,33,73
+2026Q1,Other,Other,12,11,23
+2026Q2,Cardiometabolic Health,Basaglar,64,79,143
+2026Q2,Cardiometabolic Health,Foundayo,67,31,98
+2026Q2,Cardiometabolic Health,Humalog,195,215,410
+2026Q2,Cardiometabolic Health,Humulin,103,50,153
+2026Q2,Cardiometabolic Health,Jardiance,616,615,1232
+2026Q2,Cardiometabolic Health,Mounjaro,4791,5152,9943
+2026Q2,Cardiometabolic Health,Trajenta,0,73,73
+2026Q2,Cardiometabolic Health,Trulicity,908,312,1219
+2026Q2,Cardiometabolic Health,Zepbound,4873,55,4928
+2026Q2,Cardiometabolic Health,Other Cardiometabolic Health,125,29,154
+2026Q2,Immunology,Ebglyss,149,52,201
+2026Q2,Immunology,Olumiant,55,204,258
+2026Q2,Immunology,Omvoh,48,53,102
+2026Q2,Immunology,Taltz,539,317,856
+2026Q2,Neuroscience,Emgality,139,52,191
+2026Q2,Neuroscience,Kisunla,117,50,167
+2026Q2,Neuroscience,Reyvow,2,0,2
+2026Q2,Neuroscience,Other Neuroscience,67,2,69
+2026Q2,Oncology,Alimta,1,10,11
+2026Q2,Oncology,Cyramza,112,145,256
+2026Q2,Oncology,Elunate,0,31,31
+2026Q2,Oncology,Erbitux,191,24,215
+2026Q2,Oncology,Inluriyo,75,0,75
+2026Q2,Oncology,Jaypirca,152,41,192
+2026Q2,Oncology,Retevmo,84,60,144
+2026Q2,Oncology,Tyvyt,0,130,130
+2026Q2,Oncology,Verzenio,845,629,1474
+2026Q2,Oncology,Other Oncology,13,27,42
+2026Q2,Other,Cialis,3,66,69
+2026Q2,Other,Forteo,13,33,46
+2026Q2,Other,Other,68,23,90
+2026Q3,Cardiometabolic Health,Basaglar,64,80,144
+2026Q3,Cardiometabolic Health,Foundayo,124,59,184
+2026Q3,Cardiometabolic Health,Humalog,400,194,593
+2026Q3,Cardiometabolic Health,Humulin,113,50,164
+2026Q3,Cardiometabolic Health,Jardiance,781,796,1578
+2026Q3,Cardiometabolic Health,Mounjaro,4998,5725,10723
+2026Q3,Cardiometabolic Health,Trajenta,0,38,38
+2026Q3,Cardiometabolic Health,Trulicity,601,302,904
+2026Q3,Cardiometabolic Health,Zepbound,5267,86,5352
+2026Q3,Cardiometabolic Health,Other Cardiometabolic Health,26,58,84
+2026Q3,Immunology,Ebglyss,144,58,202
+2026Q3,Immunology,Olumiant,67,197,263
+2026Q3,Immunology,Omvoh,51,63,114
+2026Q3,Immunology,Taltz,539,316,856
+2026Q3,Neuroscience,Emgality,182,4,186
+2026Q3,Neuroscience,Kisunla,132,62,193
+2026Q3,Neuroscience,Reyvow,-1,-2,-2
+2026Q3,Neuroscience,Other Neuroscience,71,-5,67
+2026Q3,Oncology,Alimta,-1,8,7
+2026Q3,Oncology,Cyramza,103,123,226
+2026Q3,Oncology,Elunate,0,32,32
+2026Q3,Oncology,Erbitux,182,16,199
+2026Q3,Oncology,Inluriyo,72,1,73
+2026Q3,Oncology,Jaypirca,160,68,228
+2026Q3,Oncology,Retevmo,82,65,147
+2026Q3,Oncology,Tyvyt,0,124,124
+2026Q3,Oncology,Verzenio,897,614,1511
+2026Q3,Oncology,Other Oncology,23,31,53
+2026Q3,Other,Cialis,5,64,69
+2026Q3,Other,Forteo,20,25,45
+2026Q3,Other,Other,32,8,40

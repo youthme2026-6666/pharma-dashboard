@@ -1,0 +1,435 @@
+<meta name="dash-one-writer">
+<style>
+  /* 布局：顶部标题与核心指标，下面按“趋势 → 结构 → 去向 → 增长 → 产品 → 报表 → 事件”分卡片，窄屏时全部单列。 */
+  .ly-page { display: grid; gap: var(--cds-gap-lg); max-width: 84rem; margin-inline: auto; font-family: var(--font-anthropic-sans); color: var(--color-fg); }
+  .ly-page p, .ly-page h1, .ly-page h2, .ly-page h3, .ly-page ul, .ly-page dl, .ly-page dd { margin: 0; }
+  .ly-page .ly-num, .ly-page .ly-kpi-num, .ly-page b { font-variant-numeric: tabular-nums; }
+  .ly-page b { font-weight: var(--cds-font-weight-medium); }
+  .ly-up { color: var(--color-ok); }
+  .ly-down { color: var(--color-bad); }
+  .ly-muted { color: var(--color-fg-muted); }
+
+  .ly-head { display: flex; flex-wrap: wrap; gap: var(--cds-gap-md) var(--cds-gap-xl); justify-content: space-between; align-items: flex-end; }
+  .ly-head-main { flex: 1 1 32rem; min-width: 0; display: grid; gap: var(--cds-gap-sm); }
+  .ly-eyebrow { color: var(--color-fg-muted); font-size: var(--cds-font-size-caption); letter-spacing: 0.02em; }
+  .ly-title { font-family: var(--font-anthropic-serif); font-weight: 400; font-size: var(--cds-font-size-title); line-height: 1.2; text-wrap: balance; }
+  .ly-take { max-width: 48rem; font-size: var(--cds-font-size-body); line-height: 1.75; }
+  .ly-head-ctrl { display: grid; gap: var(--cds-gap-xs); justify-items: start; min-width: 0; }
+  .ly-ctrl-label, .ly-range { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); }
+  .ly-qrow { display: flex; flex-wrap: wrap; gap: var(--cds-gap-sm); align-items: center; }
+  .ly-qsel { min-width: 7rem; }
+
+  .ly-btn, .ly-seg button, .ly-chips button { appearance: none; border: 0; background: transparent; color: var(--color-fg-muted); font: inherit; font-size: var(--cds-font-size-caption); line-height: 1.4; padding: var(--cds-pad-xs) var(--cds-pad-sm); cursor: pointer; }
+  .ly-btn { border: 1px solid var(--color-border-line); border-radius: var(--cds-radius); color: var(--color-fg); }
+  .ly-seg { display: inline-flex; flex-wrap: wrap; border: 1px solid var(--color-border-line); border-radius: var(--cds-radius); overflow: hidden; }
+  .ly-seg button + button { border-left: 1px solid var(--color-border-line); }
+  .ly-seg button[aria-pressed="true"] { background: var(--color-bg); color: var(--color-fg); font-weight: var(--cds-font-weight-medium); }
+  .ly-btn:focus-visible, .ly-seg button:focus-visible, .ly-chips button:focus-visible, .ly-stoggle:focus-visible, .ly-slink:focus-visible, .ly-mixrow:focus-visible { outline: 2px solid var(--color-fg); outline-offset: 1px; }
+  .ly-check { display: inline-flex; gap: var(--cds-gap-xs); align-items: center; font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); cursor: pointer; }
+
+  .ly-kpis { display: grid; gap: var(--cds-gap-md); grid-template-columns: repeat(auto-fit, minmax(min(100%, 11rem), 1fr)); }
+  .ly-kpi { background: var(--color-panel); border: 1px solid var(--color-border-line); border-radius: var(--cds-radius); padding: var(--cds-pad-md) var(--cds-pad-lg); display: grid; gap: var(--cds-gap-xs); align-content: start; min-width: 0; }
+  .ly-kpi-label { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); }
+  .ly-kpi-value { display: flex; flex-wrap: wrap; align-items: baseline; gap: var(--cds-gap-xs); min-width: 0; }
+  .ly-kpi-num { font-family: var(--font-anthropic-serif); font-weight: 400; font-size: var(--cds-font-size-title); line-height: 1.15; }
+  .ly-kpi-unit, .ly-kpi-delta, .ly-kpi-sub { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); }
+  .ly-kpi-delta span.ly-up, .ly-kpi-delta span.ly-down { font-weight: var(--cds-font-weight-medium); }
+  .ly-spark { height: 36px; min-height: 36px; margin-top: var(--cds-gap-xs); }
+
+  .ly-row { display: grid; gap: var(--cds-gap-md); grid-template-columns: repeat(auto-fit, minmax(min(100%, 26rem), 1fr)); }
+  .ly-row-trend { grid-template-columns: minmax(0, 2fr) minmax(0, 1fr); }
+  @media (max-width: 64rem) { .ly-row-trend { grid-template-columns: minmax(0, 1fr); } }
+  .ly-card { background: var(--color-panel); border: 1px solid var(--color-border-line); border-radius: var(--cds-radius); padding: var(--cds-pad-lg); min-width: 0; display: flex; flex-direction: column; gap: var(--cds-gap-sm); }
+  .ly-card-head { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: var(--cds-gap-sm); }
+  .ly-card-title { font-size: var(--cds-font-size-heading); font-weight: var(--cds-font-weight-medium); }
+  .ly-card-note { color: var(--color-fg-muted); font-size: var(--cds-font-size-caption); line-height: 1.65; max-width: 64rem; }
+  .ly-sub { margin-top: var(--cds-gap-sm); font-size: var(--cds-font-size-body); font-weight: var(--cds-font-weight-medium); }
+  .ly-ctrls { display: flex; flex-wrap: wrap; gap: var(--cds-gap-sm); align-items: center; }
+
+  .ly-chart { position: relative; min-width: 0; }
+  .ly-chart-trend { min-height: 300px; }
+  .ly-chart-prv { min-height: 240px; }
+  .ly-chart-heat { min-height: 200px; }
+  .ly-chart-tree { min-height: 340px; }
+  .ly-chart-pchart { min-height: 190px; }
+  .ly-svg { display: block; }
+  .ly-tick { font-size: var(--cds-font-size-caption); fill: var(--color-fg-muted); font-variant-numeric: tabular-nums; }
+  .ly-heat-label:hover { fill: var(--color-fg); }
+  .ly-tree-label { font-size: var(--cds-font-size-caption); fill: var(--color-bg); font-weight: 600; pointer-events: none; }
+  .ly-tree-value { font-size: var(--cds-font-size-caption); fill: var(--color-bg); pointer-events: none; font-variant-numeric: tabular-nums; }
+  .ly-legend { display: flex; flex-wrap: wrap; gap: var(--cds-gap-xs) var(--cds-gap-md); min-height: 1.2rem; font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); }
+  .ly-leg { display: inline-flex; align-items: center; gap: 0.35rem; }
+  .ly-leg[hidden] { display: none; }
+  .ly-leg-note { font-style: italic; }
+  .ly-sw { display: inline-block; flex: none; width: 0.65rem; height: 0.65rem; border-radius: 2px; }
+  .ly-sw-none { background: transparent; }
+  .ly-sw-line { height: 2px; width: 0.9rem; background: var(--color-fg); border-radius: 1px; }
+
+  .ly-tip { position: absolute; z-index: 5; pointer-events: none; max-width: 19rem; background: var(--cds-surface-popover); border: 1px solid var(--cds-border); border-radius: var(--cds-radius); box-shadow: var(--cds-shadow-popover); padding: var(--cds-pad-xs) var(--cds-pad-sm); font-size: var(--cds-font-size-caption); line-height: 1.5; color: var(--color-fg); }
+  .ly-tip-head { color: var(--cds-text-secondary); margin-bottom: 2px; }
+  .ly-tip-row { display: grid; grid-template-columns: 0.65rem minmax(0, 1fr) auto; gap: 0.4rem; align-items: center; }
+  .ly-tip-val { font-variant-numeric: tabular-nums; text-align: right; }
+  .ly-tip-sub { margin-top: 4px; color: var(--cds-text-secondary); }
+  .ly-tip-ev { color: var(--color-fg); }
+
+  .ly-failed { display: flex; align-items: center; justify-content: center; gap: var(--cds-gap-xs); min-height: inherit; color: var(--color-fg-muted); font-size: var(--cds-font-size-caption); }
+  .ly-failed-dot { width: 0.375rem; height: 0.375rem; border-radius: 50%; background: var(--color-bad); }
+  .ly-page [data-dash-source-state=empty] { color: transparent; }
+  .ly-page [data-dash-source-state=refreshing] { opacity: 0.5; transition: opacity var(--cds-dur-slow); }
+
+  .ly-mix { display: grid; gap: var(--cds-gap-md); justify-items: stretch; }
+  .ly-donut { width: 100%; max-width: 12.5rem; justify-self: center; min-height: 10rem; }
+  .ly-donut path { transition: opacity var(--cds-dur-slow); cursor: default; }
+  .ly-donut path.ly-dim { opacity: 0.3; }
+  .ly-donut-num { font-family: var(--font-anthropic-serif); font-size: 1.6rem; fill: var(--color-fg); font-variant-numeric: tabular-nums; }
+  .ly-donut-cap { font-size: var(--cds-font-size-caption); fill: var(--color-fg-muted); }
+  .ly-mixrow { display: grid; grid-template-columns: 0.65rem minmax(0, 1fr) 4rem 3.6rem 4rem; gap: var(--cds-gap-sm); align-items: center; width: 100%; padding: 5px 2px; border: 0; border-bottom: 1px solid var(--color-border-line); background: transparent; color: inherit; font: inherit; font-size: var(--cds-font-size-caption); text-align: left; transition: opacity var(--cds-dur-slow); }
+  .ly-mixrow .ly-num { text-align: right; }
+  button.ly-mixrow { cursor: pointer; }
+  button.ly-mixrow:hover .ly-mixname { text-decoration: underline; }
+  .ly-mixrow.ly-dim { opacity: 0.4; }
+  .ly-mixhead { color: var(--color-fg-muted); border-bottom-color: var(--color-fg-muted); }
+  .ly-mixhead span:nth-child(n+3) { text-align: right; }
+  .ly-mixname { overflow-wrap: anywhere; }
+
+  .ly-flowbar { position: relative; display: flex; height: 2.4rem; border-radius: var(--cds-radius); overflow: hidden; background: var(--color-bg); margin-top: var(--cds-gap-xs); }
+  .ly-flowseg { height: 100%; display: flex; align-items: center; justify-content: center; min-width: 0; overflow: hidden; white-space: nowrap; font-size: var(--cds-font-size-caption); color: var(--color-bg); font-weight: 600; transition: opacity var(--cds-dur-slow); }
+  .ly-flowseg.ly-dim, .ly-flowrow.ly-dim { opacity: 0.35; }
+  .ly-flowover { position: absolute; top: 0; bottom: 0; pointer-events: none; background-image: repeating-linear-gradient(135deg, transparent 0 5px, color-mix(in srgb, var(--color-fg) 40%, transparent) 5px 7px); }
+  .ly-flowtick { position: absolute; top: 0; bottom: 0; width: 2px; margin-left: -1px; background: var(--color-fg); pointer-events: none; }
+  .ly-flowlegend { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 14rem), 1fr)); gap: 2px var(--cds-gap-lg); margin-top: var(--cds-gap-md); }
+  .ly-flowrow { display: grid; grid-template-columns: 0.65rem minmax(0, 1fr) auto 5.2rem; gap: var(--cds-gap-sm); align-items: center; padding: 4px 0; border-bottom: 1px solid var(--color-border-line); font-size: var(--cds-font-size-caption); transition: opacity var(--cds-dur-slow); }
+  .ly-flowrow .ly-num { text-align: right; }
+  .ly-flowper { color: var(--color-fg-muted); }
+  .ly-flownote { margin-top: var(--cds-gap-sm); font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); line-height: 1.6; }
+
+  .ly-bskpis { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 9.5rem), 1fr)); gap: var(--cds-gap-sm) var(--cds-gap-md); }
+  .ly-bskpi { display: grid; gap: 2px; align-content: start; min-width: 0; }
+  .ly-bskpi .ly-kpi-num { font-size: var(--cds-font-size-heading); }
+  .ly-bsrow { display: grid; grid-template-columns: 5.5rem minmax(0, 1fr); gap: var(--cds-gap-sm); align-items: center; margin-top: var(--cds-gap-sm); }
+  .ly-bslabel { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); }
+  .ly-bsbar { margin-top: 0; }
+  .ly-bslegend { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 18rem), 1fr)); gap: var(--cds-gap-xs) var(--cds-gap-xl); margin-top: var(--cds-gap-md); }
+  .ly-bscol { display: grid; align-content: start; }
+  .ly-bscol-title { font-size: var(--cds-font-size-caption); font-weight: var(--cds-font-weight-medium); padding-bottom: 4px; border-bottom: 1px solid var(--color-fg-muted); }
+  .ly-chart-bstrend { min-height: 260px; }
+  .ly-seg button:disabled { opacity: 0.4; cursor: not-allowed; }
+  .ly-psel { min-width: 7.5rem; }
+  @media (max-width: 40rem) { .ly-bsrow { grid-template-columns: minmax(0, 1fr); } }
+
+  .ly-pill { display: inline-flex; align-items: center; gap: 0.35rem; font-size: var(--cds-font-size-caption); color: var(--color-fg); padding: 2px 8px; border-radius: 999px; border: 1px solid var(--ly-pill, var(--color-border-line)); }
+  .ly-pstats { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 8rem), 1fr)); gap: var(--cds-gap-sm) var(--cds-gap-md); }
+  .ly-small .ly-kpi-num, .ly-kpi-value.ly-small { font-size: var(--cds-font-size-body); }
+  .ly-plist { list-style: none; padding: 0; display: grid; gap: 6px; font-size: var(--cds-font-size-caption); }
+  .ly-pev { display: grid; grid-template-columns: 5.6rem minmax(0, 1fr); gap: var(--cds-gap-sm); }
+  .ly-pev-date { color: var(--color-fg-muted); font-variant-numeric: tabular-nums; }
+  .ly-pev-link, .ly-etable a { color: inherit; text-decoration: underline; text-decoration-color: var(--color-border-line); text-underline-offset: 2px; }
+  .ly-pev-link:hover, .ly-etable a:hover { text-decoration-color: var(--color-fg); }
+  .ly-pempty { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); }
+
+  .ly-srow { display: grid; grid-template-columns: minmax(0, 1fr) 6.2rem 4.6rem 4.8rem; gap: var(--cds-gap-sm); align-items: baseline; padding: 6px 0; border-bottom: 1px solid var(--color-border-line); font-size: var(--cds-font-size-caption); }
+  .ly-srow > :not(:first-child) { text-align: right; }
+  .ly-shead { color: var(--color-fg-muted); border-bottom-color: var(--color-fg-muted); }
+  .ly-srow-sum { font-weight: var(--cds-font-weight-medium); }
+  .ly-srow-l1 .ly-slabel { padding-left: 1rem; }
+  .ly-srow-l2 .ly-slabel { padding-left: 2.3rem; }
+  .ly-slabel { min-width: 0; display: flex; flex-wrap: wrap; align-items: baseline; gap: 2px var(--cds-gap-sm); overflow-wrap: anywhere; }
+  .ly-sng { font-weight: 400; color: var(--color-fg-muted); font-variant-numeric: tabular-nums; }
+  .ly-stoggle, .ly-slink { appearance: none; border: 0; background: transparent; color: inherit; font: inherit; padding: 0; cursor: pointer; text-align: left; display: inline-flex; gap: 0.3rem; align-items: baseline; }
+  .ly-slink { color: var(--color-fg-muted); }
+  .ly-slink:hover, .ly-stoggle:hover { text-decoration: underline; }
+  .ly-caret { display: inline-block; width: 0.8rem; color: var(--color-fg-muted); }
+
+  .ly-chips { display: flex; flex-wrap: wrap; gap: var(--cds-gap-xs); }
+  .ly-chips button { display: inline-flex; align-items: center; gap: 0.35rem; border: 1px solid var(--color-border-line); border-radius: 999px; }
+  .ly-chips button[aria-pressed="true"] { background: var(--color-bg); color: var(--color-fg); border-color: var(--color-fg-muted); }
+  .ly-glyph { display: inline-flex; width: 10px; height: 10px; }
+  .ly-tablebox { max-height: 27rem; overflow: auto; border: 1px solid var(--color-border-line); border-radius: var(--cds-radius); }
+  .ly-etable { width: 100%; border-collapse: collapse; font-size: var(--cds-font-size-caption); }
+  .ly-etable th { position: sticky; top: 0; z-index: 1; background: var(--color-panel); text-align: left; font-weight: var(--cds-font-weight-medium); color: var(--color-fg-muted); padding: 6px 8px; border-bottom: 1px solid var(--color-border-line); white-space: nowrap; }
+  .ly-etable td { padding: 6px 8px; border-bottom: 1px solid var(--color-border-line); vertical-align: top; line-height: 1.5; }
+  .ly-etable td:nth-child(-n+3) { white-space: nowrap; font-variant-numeric: tabular-nums; }
+  .ly-etable tbody tr { cursor: pointer; }
+  .ly-etable tbody tr:hover td { background: color-mix(in srgb, var(--color-fg) 4%, transparent); }
+  .ly-etable tbody tr.ly-hl td { background: color-mix(in srgb, var(--color-fg) 8%, transparent); }
+  @media (max-width: 40rem) { .ly-etable th:nth-child(2), .ly-etable td:nth-child(2), .ly-etable th:nth-child(4), .ly-etable td:nth-child(4) { display: none; } }
+
+  .ly-notes { background: var(--color-panel); border: 1px solid var(--color-border-line); border-radius: var(--cds-radius); padding: var(--cds-pad-md) var(--cds-pad-lg); font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); line-height: 1.65; }
+  .ly-notes summary { cursor: pointer; color: var(--color-fg); font-size: var(--cds-font-size-body); font-weight: var(--cds-font-weight-medium); }
+  .ly-notes dl { display: grid; grid-template-columns: max-content minmax(0, 1fr); gap: var(--cds-gap-xs) var(--cds-gap-md); margin-top: var(--cds-gap-md); }
+  .ly-notes dt { color: var(--color-fg); }
+  .ly-notes-sub { margin-top: var(--cds-gap-md); color: var(--color-fg); }
+  .ly-notes ul { padding-left: 1.2rem; margin-top: var(--cds-gap-xs); }
+  @media (max-width: 40rem) { .ly-notes dl { grid-template-columns: minmax(0, 1fr); } .ly-mixrow { grid-template-columns: 0.65rem minmax(0, 1fr) 3.6rem 3.4rem 3.6rem; } .ly-srow { grid-template-columns: minmax(0, 1fr) 5rem 3.8rem 4rem; } }
+</style>
+
+<div class="ly-page" lang="zh-CN">
+  <header class="ly-head" id="overview">
+    <div class="ly-head-main">
+      <p class="ly-eyebrow">Eli Lilly and Company · NYSE: LLY · 季度财务，金额为美元</p>
+      <h1 class="ly-title">礼来财务看板</h1>
+      <p class="ly-take"><span data-draw="qtext" data-k="sel" data-source="kpi">—</span>，营收 <b data-draw="kpinum" data-k="revenue_yi">—</b> 亿美元，同比 <b data-draw="kpidelta" data-k="revenue_yoy">—</b>；替尔泊肽（Mounjaro 和 Zepbound）占总营收的 <b data-draw="mixnum" data-k="tirz_share">—</b>，营业利润率 <b data-draw="kpinum" data-k="op_margin">—</b>。</p>
+    </div>
+    <div class="ly-head-ctrl">
+      <span class="ly-ctrl-label" id="ly-per-label">查看期间</span>
+      <div class="ly-qrow" role="group" aria-labelledby="ly-per-label">
+        <select id="ly-year" class="dash-select ly-qsel" data-draw="ysel" data-source="kpi" aria-label="年份"></select>
+        <select id="ly-period" class="dash-select ly-psel" data-draw="psel" data-source="kpi" aria-label="全年或季度"></select>
+        <button type="button" class="ly-btn ly-latest" hidden>回到最新季度</button>
+      </div>
+      <p class="ly-range">数据范围 <span data-draw="qtext" data-k="range" data-source="kpi">—</span>。可以按年份看全年（当年为年初至今），也可以看单个季度；点击图表里的季度或年份，整页都会切换过去。</p>
+    </div>
+  </header>
+
+  <section class="ly-kpis" id="kpis" aria-label="核心指标">
+    <div class="ly-kpi" id="kpi-revenue">
+      <p class="ly-kpi-label">营收</p>
+      <p class="ly-kpi-value"><span class="ly-kpi-num" data-draw="kpinum" data-k="revenue_yi">—</span><span class="ly-kpi-unit">亿美元</span></p>
+      <p class="ly-kpi-delta">同比 <span data-draw="kpidelta" data-k="revenue_yoy">—</span></p>
+      <div class="ly-spark" data-draw="spark" data-k="revenue_yi" data-source="kpi"></div>
+    </div>
+    <div class="ly-kpi" id="kpi-gross">
+      <p class="ly-kpi-label">毛利率</p>
+      <p class="ly-kpi-value"><span class="ly-kpi-num" data-draw="kpinum" data-k="gross_margin">—</span></p>
+      <p class="ly-kpi-delta">同比 <span data-draw="kpidelta" data-k="gross_margin_pp">—</span> 个百分点</p>
+      <div class="ly-spark" data-draw="spark" data-k="gross_margin" data-source="kpi"></div>
+    </div>
+    <div class="ly-kpi" id="kpi-rnd">
+      <p class="ly-kpi-label">研发费用率</p>
+      <p class="ly-kpi-value"><span class="ly-kpi-num" data-draw="kpinum" data-k="rnd_ratio">—</span></p>
+      <p class="ly-kpi-delta">同比 <span data-draw="kpidelta" data-k="rnd_ratio_pp">—</span> 个百分点 · 研发投入 <span data-draw="kpinum" data-k="rnd_yi">—</span> 亿美元</p>
+      <div class="ly-spark" data-draw="spark" data-k="rnd_ratio" data-source="kpi"></div>
+    </div>
+    <div class="ly-kpi" id="kpi-op">
+      <p class="ly-kpi-label">营业利润率</p>
+      <p class="ly-kpi-value"><span class="ly-kpi-num" data-draw="kpinum" data-k="op_margin">—</span></p>
+      <p class="ly-kpi-delta">同比 <span data-draw="kpidelta" data-k="op_margin_pp">—</span> 个百分点 · 外购在研 <span data-draw="kpinum" data-k="acquired_iprd_yi">—</span> 亿美元</p>
+      <div class="ly-spark" data-draw="spark" data-k="op_margin" data-source="kpi"></div>
+    </div>
+    <div class="ly-kpi" id="kpi-net">
+      <p class="ly-kpi-label">净利润</p>
+      <p class="ly-kpi-value"><span class="ly-kpi-num" data-draw="kpinum" data-k="net_income_yi">—</span><span class="ly-kpi-unit">亿美元</span></p>
+      <p class="ly-kpi-delta">同比 <span data-draw="kpidelta" data-k="net_income_yoy">—</span></p>
+      <div class="ly-spark" data-draw="spark" data-k="net_income_yi" data-source="kpi"></div>
+    </div>
+    <div class="ly-kpi" id="kpi-eps">
+      <p class="ly-kpi-label">稀释每股收益</p>
+      <p class="ly-kpi-value"><span class="ly-kpi-num" data-draw="kpinum" data-k="eps">—</span><span class="ly-kpi-unit">美元</span></p>
+      <p class="ly-kpi-delta">同比 <span data-draw="kpidelta" data-k="eps_yoy">—</span> · 非 GAAP <span data-draw="kpinum" data-k="eps_ng">—</span> 美元</p>
+      <div class="ly-spark" data-draw="spark" data-k="eps" data-source="kpi"></div>
+    </div>
+  </section>
+
+  <section class="ly-row ly-row-trend">
+    <article class="ly-card" id="trend">
+      <div class="ly-card-head">
+        <h2 class="ly-card-title">收入趋势</h2>
+        <div class="ly-ctrls">
+          <div class="ly-seg" role="group" aria-label="分组方式">
+            <button type="button" data-param="tv" data-value="area">按领域</button>
+            <button type="button" data-param="tv" data-value="series">按产品</button>
+          </div>
+          <div class="ly-seg" role="group" aria-label="显示口径">
+            <button type="button" data-param="tm" data-value="total">总额</button>
+            <button type="button" data-param="tm" data-value="delta">同比变化</button>
+          </div>
+          <div class="ly-seg" role="group" aria-label="周期">
+            <button type="button" data-param="tg" data-value="q">季度</button>
+            <button type="button" data-param="tg" data-value="y">年度</button>
+          </div>
+          <label class="ly-check"><input type="checkbox" id="ly-margin" data-param-check="ol">营业利润率</label>
+        </div>
+      </div>
+      <p class="ly-card-note">每根柱子是一个季度（或一年）的收入。“同比变化”显示每一组比去年同期多了或少了多少，向下的部分是减少，横线是合计变化。柱子上方的小记号是当季的关键事件：圆点为获批，菱形为并购，方块为业绩说明，三角为定价与可及，星形为临床，十字为产能。悬停查看明细，点击柱子把整页切换到该季度（年度柱子切换到该年）。</p>
+      <div class="ly-legend" data-draw="trendlegend" data-source="area_p series_p"></div>
+      <div class="ly-chart ly-chart-trend" data-draw="trend" data-source="area_p series_p kpi events"></div>
+    </article>
+
+    <article class="ly-card" id="mix">
+      <div class="ly-card-head">
+        <h2 class="ly-card-title">收入构成</h2>
+        <div class="ly-seg" role="group" aria-label="构成维度">
+          <button type="button" data-param="cv" data-value="area">领域</button>
+          <button type="button" data-param="cv" data-value="product">产品</button>
+          <button type="button" data-param="cv" data-value="region">地区</button>
+        </div>
+      </div>
+      <p class="ly-card-note"><span data-draw="qtext" data-k="view" data-source="kpi">—</span>的收入由哪些部分组成。悬停左侧趋势图的柱子可以预览其他季度；在“产品”视图里点击一行查看该产品。</p>
+      <div class="ly-mix">
+        <div class="ly-donut" data-draw="mixdonut" data-source="area_p series_p region_p kpi"></div>
+        <div>
+          <div class="ly-mixrow ly-mixhead" aria-hidden="true"><span></span><span>名称</span><span>亿美元</span><span>占比</span><span>同比</span></div>
+          <div data-draw="mixlist" data-source="area_p series_p region_p"></div>
+        </div>
+      </div>
+    </article>
+  </section>
+
+  <article class="ly-card" id="flow">
+    <div class="ly-card-head"><h2 class="ly-card-title">营收去向</h2></div>
+    <p class="ly-card-note"><span data-draw="qtext" data-k="view" data-source="kpi">—</span>的营收按利润表拆开：先付营业成本和各项费用，再交所得税，剩下的是净利润。外购在研项目（IPR&amp;D）是收购或授权引进在研药物时一次性计入的费用，所以季度之间波动很大。右栏是这一项占营收的比例。</p>
+    <div class="ly-chart" data-draw="flow" data-source="cost_flow"></div>
+  </article>
+
+  <article class="ly-card" id="balance">
+    <div class="ly-card-head">
+      <h2 class="ly-card-title">资产负债表</h2>
+      <span class="ly-card-note">截至 <span data-draw="bsasof">—</span></span>
+    </div>
+    <p class="ly-card-note">季度视图取当季末，年度视图取年末（当年未满四个季度时取最近一个季度末）。同比是与去年同一时点相比；有息负债为短期借款与长期债务之和，净负债再减去现金及短期投资。</p>
+    <div class="ly-bskpis">
+      <div class="ly-bskpi"><p class="ly-kpi-label">总资产</p><p class="ly-kpi-value"><span class="ly-kpi-num" data-draw="bsnum" data-k="total_assets_yi">—</span><span class="ly-kpi-unit">亿美元</span></p><p class="ly-kpi-delta">同比 <span data-draw="bsdelta" data-k="total_assets_yoy">—</span></p></div>
+      <div class="ly-bskpi"><p class="ly-kpi-label">现金及短期投资</p><p class="ly-kpi-value"><span class="ly-kpi-num" data-draw="bsnum" data-k="cash_yi">—</span><span class="ly-kpi-unit">亿美元</span></p><p class="ly-kpi-delta">同比 <span data-draw="bsdelta" data-k="cash_yoy">—</span></p></div>
+      <div class="ly-bskpi"><p class="ly-kpi-label">有息负债</p><p class="ly-kpi-value"><span class="ly-kpi-num" data-draw="bsnum" data-k="debt_yi">—</span><span class="ly-kpi-unit">亿美元</span></p><p class="ly-kpi-delta">同比 <span data-draw="bsdelta" data-k="debt_yoy">—</span> · 净负债 <span data-draw="bsnum" data-k="net_debt_yi">—</span> 亿</p></div>
+      <div class="ly-bskpi"><p class="ly-kpi-label">股东权益</p><p class="ly-kpi-value"><span class="ly-kpi-num" data-draw="bsnum" data-k="equity_yi">—</span><span class="ly-kpi-unit">亿美元</span></p><p class="ly-kpi-delta">同比 <span data-draw="bsdelta" data-k="equity_yoy">—</span></p></div>
+      <div class="ly-bskpi"><p class="ly-kpi-label">资产负债率</p><p class="ly-kpi-value"><span class="ly-kpi-num" data-draw="bsnum" data-k="liab_ratio">—</span></p><p class="ly-kpi-delta">同比 <span data-draw="bsdelta" data-k="liab_ratio_pp">—</span> 个百分点</p></div>
+      <div class="ly-bskpi"><p class="ly-kpi-label">流动比率</p><p class="ly-kpi-value"><span class="ly-kpi-num" data-draw="bsnum" data-k="current_ratio">—</span><span class="ly-kpi-unit">倍</span></p><p class="ly-kpi-delta">同比 <span data-draw="bsdelta" data-k="current_ratio_chg">—</span></p></div>
+    </div>
+    <div class="ly-chart" data-draw="bsbars" data-source="bs_lines"></div>
+  </article>
+
+  <section class="ly-row">
+    <article class="ly-card" id="balance-trend">
+      <div class="ly-card-head">
+        <h2 class="ly-card-title">资产负债结构趋势</h2>
+        <div class="ly-seg" role="group" aria-label="结构">
+          <button type="button" data-param="bsv" data-value="assets">资产</button>
+          <button type="button" data-param="bsv" data-value="claims">负债与权益</button>
+        </div>
+      </div>
+      <p class="ly-card-note">每根柱子是一个季度末的资产（或负债与股东权益）构成，单位亿美元；折线是资产负债率。点击柱子把整页切换到该季度。</p>
+      <div class="ly-legend" data-draw="bslegend" data-source="bs_lines"></div>
+      <div class="ly-chart ly-chart-bstrend" data-draw="bstrend" data-source="bs_lines bs_kpi"></div>
+    </article>
+    <article class="ly-card" id="balance-statement">
+      <div class="ly-card-head">
+        <h2 class="ly-card-title">资产负债表浏览</h2>
+        <div class="ly-seg" role="group" aria-label="对比基准">
+          <button type="button" data-param="cmp" data-value="yoy">比去年同期</button>
+          <button type="button" data-param="cmp" data-value="qoq">比上季度末</button>
+        </div>
+      </div>
+      <p class="ly-card-note"><span data-draw="qtext" data-k="sel" data-source="kpi">—</span>，单位百万美元。点开各分组查看明细；“其他”类由合计数减去已列项目得出，所以每个分组都能配平。</p>
+      <div class="ly-srow ly-shead" aria-hidden="true"><span>项目</span><span>金额</span><span>占总资产</span><span>变化</span></div>
+      <div data-draw="bsstmt" data-source="bs_lines"></div>
+    </article>
+  </section>
+
+  <article class="ly-card" id="growth">
+    <div class="ly-card-head">
+      <h2 class="ly-card-title">增长从哪里来</h2>
+      <div class="ly-seg" role="group" aria-label="地区" data-draw="rgsel" data-source="prv_p"></div>
+    </div>
+    <p class="ly-card-note">礼来把收入的同比增速拆成三部分：销量、价格（净价变化）和汇率。柱子是三部分各自的贡献，折线是合计增速；礼来未给出数值的季度标为 NM。</p>
+    <div class="ly-legend">
+      <span class="ly-leg"><span class="ly-sw" data-draw="swatch" data-k="0"></span>销量</span>
+      <span class="ly-leg"><span class="ly-sw" data-draw="swatch" data-k="3"></span>价格</span>
+      <span class="ly-leg"><span class="ly-sw" data-draw="swatch" data-k="6"></span>汇率</span>
+      <span class="ly-leg"><span class="ly-sw ly-sw-line"></span>合计增速</span>
+    </div>
+    <div class="ly-chart ly-chart-prv" data-draw="prv" data-source="prv_p"></div>
+    <h3 class="ly-sub">各地区：<span data-draw="qtext" data-k="sel" data-source="kpi">—</span></h3>
+    <div class="ly-chart" data-draw="prvreg" data-source="prv_p"></div>
+  </article>
+
+  <article class="ly-card" id="heat">
+    <div class="ly-card-head">
+      <h2 class="ly-card-title">产品热力图</h2>
+      <div class="ly-seg" role="group" aria-label="热力图口径">
+        <button type="button" data-param="hm" data-value="rev">收入</button>
+        <button type="button" data-param="hm" data-value="yoy">同比增速</button>
+      </div>
+    </div>
+    <p class="ly-card-note">每行一个产品（最近 <span data-draw="heatwin">—</span> 个季度收入合计不少于 <span data-draw="heatmin">—</span> 亿美元），每格一个季度。“收入”模式下，颜色深浅按该产品自己最高的季度收入换算，可以看出每个产品的生命周期；“同比增速”模式下绿色为增长、红色为下降。点击格子查看该产品和季度。</p>
+    <div class="ly-chart ly-chart-heat" data-draw="heat" data-source="product_p"></div>
+  </article>
+
+  <section class="ly-row">
+    <article class="ly-card" id="tree">
+      <div class="ly-card-head"><h2 class="ly-card-title">产品版图</h2></div>
+      <p class="ly-card-note"><span data-draw="qtext" data-k="sel" data-source="kpi">—</span>各产品收入的相对大小，按治疗领域分组。点击方块查看产品详情。</p>
+      <div class="ly-chart ly-chart-tree" data-draw="tree" data-source="product_p"></div>
+    </article>
+
+    <article class="ly-card" id="product">
+      <div class="ly-card-head">
+        <h2 class="ly-card-title">产品详情：<span data-draw="pname">—</span></h2>
+        <span class="ly-pill" data-draw="parea" data-source="product_p">—</span>
+      </div>
+      <div class="ly-pstats">
+        <div><p class="ly-kpi-label">当季收入</p><p class="ly-kpi-value"><span class="ly-kpi-num" data-draw="pnum" data-k="total_yi">—</span><span class="ly-kpi-unit">亿美元</span></p></div>
+        <div><p class="ly-kpi-label">同比</p><p class="ly-kpi-value"><span class="ly-kpi-num" data-draw="pnum" data-k="yoy">—</span></p></div>
+        <div><p class="ly-kpi-label">占总营收</p><p class="ly-kpi-value"><span class="ly-kpi-num" data-draw="pnum" data-k="share">—</span></p></div>
+        <div><p class="ly-kpi-label">美国 / 国际（百万美元）</p><p class="ly-kpi-value ly-small"><span class="ly-num" data-draw="pnum" data-k="us">—</span> / <span class="ly-num" data-draw="pnum" data-k="intl">—</span></p></div>
+      </div>
+      <div class="ly-legend">
+        <span class="ly-leg"><span class="ly-sw" data-draw="swatch" data-k="0"></span>美国</span>
+        <span class="ly-leg"><span class="ly-sw" data-draw="swatch" data-k="2"></span>国际</span>
+        <span class="ly-leg" data-draw="pwhole" data-source="product_p" hidden></span>
+      </div>
+      <div class="ly-chart ly-chart-pchart" data-draw="pchart" data-source="product_p events"></div>
+      <h3 class="ly-sub">相关事件</h3>
+      <ul class="ly-plist" data-draw="pevents" data-source="events"></ul>
+      <p class="ly-pempty" hidden>暂无收录的相关事件。</p>
+    </article>
+  </section>
+
+  <section class="ly-row">
+    <article class="ly-card" id="statement">
+      <div class="ly-card-head">
+        <h2 class="ly-card-title">利润表浏览</h2>
+        <div class="ly-seg" role="group" aria-label="对比基准">
+          <button type="button" data-param="cmp" data-value="yoy">比去年同期</button>
+          <button type="button" data-param="cmp" data-value="qoq">比上季度</button>
+        </div>
+      </div>
+      <p class="ly-card-note"><span data-draw="qtext" data-k="sel" data-source="kpi">—</span>，GAAP 口径，单位百万美元（每股收益为美元）。点开“营收”可以逐级看到治疗领域和产品；标着“非 GAAP”的是礼来自己公布的调整后数字。年度视图用礼来公布的全年（或年初至今）数字，只与上年相同月数比较。基数为负时不计算变化率。</p>
+      <div class="ly-srow ly-shead" aria-hidden="true"><span>项目</span><span>金额</span><span>占营收</span><span>变化</span></div>
+      <div data-draw="stmt" data-source="is_lines area_p product_p"></div>
+    </article>
+
+    <article class="ly-card" id="events">
+      <div class="ly-card-head"><h2 class="ly-card-title">关键事件</h2></div>
+      <div class="ly-chips" role="group" aria-label="事件类型">
+        <button type="button" data-param="et" data-value="全部">全部 <span data-draw="ecount" data-k="全部">—</span></button>
+        <button type="button" data-param="et" data-value="获批"><span class="ly-glyph" data-draw="glyph" data-k="获批"></span>获批 <span data-draw="ecount" data-k="获批">—</span></button>
+        <button type="button" data-param="et" data-value="并购"><span class="ly-glyph" data-draw="glyph" data-k="并购"></span>并购 <span data-draw="ecount" data-k="并购">—</span></button>
+        <button type="button" data-param="et" data-value="业绩说明"><span class="ly-glyph" data-draw="glyph" data-k="业绩说明"></span>业绩说明 <span data-draw="ecount" data-k="业绩说明">—</span></button>
+        <button type="button" data-param="et" data-value="定价与可及"><span class="ly-glyph" data-draw="glyph" data-k="定价与可及"></span>定价与可及 <span data-draw="ecount" data-k="定价与可及">—</span></button>
+        <button type="button" data-param="et" data-value="临床"><span class="ly-glyph" data-draw="glyph" data-k="临床"></span>临床 <span data-draw="ecount" data-k="临床">—</span></button>
+        <button type="button" data-param="et" data-value="产能"><span class="ly-glyph" data-draw="glyph" data-k="产能"></span>产能 <span data-draw="ecount" data-k="产能">—</span></button>
+      </div>
+      <p class="ly-card-note">取自礼来官网新闻稿，所选季度的事件会高亮。标题链接到原文；点击一行把整页切换到该季度。</p>
+      <div class="ly-tablebox">
+        <table class="ly-etable" data-source="events" data-row-key="id">
+          <thead><tr><th data-field="date">日期</th><th data-field="quarter">季度</th><th data-field="type">类型</th><th data-field="product">产品</th><th data-field="title">事件</th></tr></thead>
+          <tbody data-draw="erows"></tbody>
+        </table>
+      </div>
+    </article>
+  </section>
+
+  <details class="ly-notes" id="notes">
+    <summary>数据来源与口径</summary>
+    <dl>
+      <dt>来源</dt><dd>礼来投资者关系网站每季度发布的 Financial Workbook：利润表取自各季度的 Income Statement 页，分产品收入取自各年最后一份 Workbook 的 Revenue 页，价格、汇率与销量拆分取自 PRV 页。关键事件取自礼来官网新闻稿。</dd>
+      <dt>口径</dt><dd>金额为 GAAP 口径、百万美元；“亿美元”是换算后的显示单位。非 GAAP 数字是礼来自己公布的调整后口径。</dd>
+      <dt>治疗领域</dt><dd>礼来早年把心血管代谢领域称为 Diabetes，后来改称 Cardiometabolic Health；这里统一使用新名称。产品名去掉了原表的脚注标记。</dd>
+      <dt>外购在研项目</dt><dd>Acquired IPR&amp;D and development milestones：收购或授权引进尚未获批的在研药物时一次性计入的费用。</dd>
+      <dt>价格、汇率、销量</dt><dd>礼来对收入同比增速的官方拆分，三者之和约等于合计增速；NM 表示礼来没有给出有意义的数值。</dd>
+      <dt>一次性收入</dt><dd>部分季度包含出售产品权益或里程碑款带来的一次性收入，见关键事件里的“业绩说明”。</dd>
+      <dt>年度口径</dt><dd>利润表和价格、汇率、销量拆分用礼来公布的全年数字，当年未满四个季度时用年初至今的数字，只与上年相同月数比较；分产品收入按季度加总。</dd>
+      <dt>资产负债表</dt><dd>取自礼来每季度 10-Q 和每年 10-K 的合并资产负债表（个别季度的转换文件缺表时取同一份申报的 XBRL 数据）。科目归为固定的几大类，各类“其他”由合计数减去已列项目得出。</dd>
+      <dt>自动更新</dt><dd>礼来的财务数据表无法自动下载，所以从 <span data-draw="secfrom" data-source="product_p">—</span> 起，新季度改由程序从礼来向美国证监会（SEC）提交的 10-Q、10-K 和 8-K 业绩新闻稿读取，逐项核对通过后才写入。SEC 只单列少数大产品，其余并入各领域的“(combined)”项；新闻稿里的重点产品单独列出，但只有合计、没有美国与国际的拆分；地区只分美国、美国以外和全球；第四季度的价格、汇率、销量拆分从新闻稿正文读取，读不出时只给合计增速。关键事件由 GPT 检索礼来官网新闻稿，经规则核对后收录。</dd>
+    </dl>
+    <p class="ly-notes-sub">尚未包含</p>
+    <ul>
+      <li>现金流量表</li>
+      <li>研发管线进展</li>
+      <li>股价与估值</li>
+    </ul>
+  </details>
+</div>
+
+<script src="calcs.js"></script>
+<script src="app.js"></script>
