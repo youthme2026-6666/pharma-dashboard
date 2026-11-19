@@ -1,11 +1,21 @@
 {
   "cik": "0001178670",
-  "code_hash": "a3ea769cc45e",
+  "code_hash": "d4adc7d82799",
   "fiscal_year_end": "1231",
   "form_type": "10-K",
   "identity_checked": "2026-11-09",
-  "last_check": "2026-11-09",
+  "last_check": "2026-11-19",
+  "mapping": {},
+  "mapping_tried": {},
   "name": "ALNYLAM PHARMACEUTICALS, INC.",
+  "names_zh": {
+    "product|Amvuttra": "AMVUTTRA",
+    "product|Collaborations": "合作净收入",
+    "product|GIVLAARI": "GIVLAARI",
+    "product|ONPATTRO": "ONPATTRO",
+    "product|OXLUMO": "OXLUMO",
+    "product|Royalty": "特许权使用费收入"
+  },
   "periods": 28,
   "product_groups": {
     "Amvuttra": "Rare Disease",
