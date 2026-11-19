@@ -258,6 +258,58 @@ class TestOperatingFromCalc(unittest.TestCase):
         self.assertEqual(S.problems("income", rows["income"]), [])
 
 
+class TestGroupHarmonize(unittest.TestCase):
+    """收入构成分组跨期间统一（sec.harmonize_groups）。"""
+
+    @staticmethod
+    def rows(spec):
+        out = []
+        for fy, fp, end, member, group in spec:
+            out.append({"fiscal_year": fy, "fiscal_period": fp, "period_end": end, "axis": "product", "member": member,
+                        "name_en": member, "group": group, "value": 1.0})
+        return out
+
+    def test_renamed_groups_and_member_case(self):
+        """美敦力：事业部改名（旧组的产品后来都归到同一个新组）；成员名只差大小写的统一成最近的写法。"""
+        rows = self.rows([
+            ("2021", "Q1", "2020-07-31", "CardiacRhythmandHeartFailure", "Cardiac & Vascular Group"),
+            ("2021", "Q1", "2020-07-31", "CoronaryandStructuralHeart", "Cardiac & Vascular Group"),
+            ("2022", "Q1", "2021-07-30", "CardiacRhythmAndHeartFailure", "Cardiovascular"),
+            ("2022", "Q1", "2021-07-30", "Neuromodulation", "Neuroscience"),
+            ("2021", "Q1", "2020-07-31", "Neuromodulation", "Restorative Therapies Group"),
+        ])
+        notes = A.harmonize_groups(rows, pharma=False)
+        self.assertEqual({r["group"] for r in rows if r["member"].lower().startswith("cardiac")}, {"Cardiovascular"})
+        self.assertEqual([r["group"] for r in rows if r["member"] == "CoronaryandStructuralHeart"], ["Cardiovascular"])
+        self.assertEqual({r["member"] for r in rows if r["member"].lower().startswith("cardiac")}, {"CardiacRhythmAndHeartFailure"})
+        self.assertEqual({r["group"] for r in rows if r["member"] == "Neuromodulation"}, {"Neuroscience"})
+        self.assertIn("Cardiac & Vascular Group → Cardiovascular", " ".join(notes))
+
+    def test_pharma_switching_schemes_keeps_areas_only(self):
+        """百时美施贵宝：同一产品时而归治疗领域、时而归“在售产品 / 增长组合”——只留治疗领域，其余等 GPT 归类。"""
+        rows = self.rows([
+            ("2021", "FY", "2021-12-31", "Opdivo", "Oncology"),
+            ("2022", "Q3", "2022-09-30", "Opdivo", "In-Line Products"),
+            ("2025", "Q1", "2025-03-31", "Opdivo", "Growth Portfolio"),
+            ("2025", "Q1", "2025-03-31", "Cobenfy", "Growth Portfolio"),
+        ])
+        A.harmonize_groups(rows, pharma=True)
+        self.assertEqual({r["group"] for r in rows if r["member"] == "Opdivo"}, {"Oncology"})
+        self.assertEqual([r["group"] for r in rows if r["member"] == "Cobenfy"], [""])
+
+    def test_pharma_consistent_own_groups_kept(self):
+        """吉利德一直按 HIV / 丙肝分组：不动。"""
+        rows = self.rows([("2021", "Q1", "2021-03-31", "Biktarvy", "HIV"), ("2026", "Q1", "2026-03-31", "Biktarvy", "HIV"),
+                          ("2026", "Q1", "2026-03-31", "Trodelvy", "Oncology")])
+        self.assertEqual(A.harmonize_groups(rows, pharma=True), [])
+        self.assertEqual({r["group"] for r in rows if r["member"] == "Biktarvy"}, {"HIV"})
+
+    def test_case_variants_in_same_period_not_merged(self):
+        rows = self.rows([("2026", "Q1", "2026-03-31", "Xa", "G"), ("2026", "Q1", "2026-03-31", "XA", "G")])
+        A.harmonize_groups(rows, pharma=False)
+        self.assertEqual(sorted(r["member"] for r in rows), ["XA", "Xa"])
+
+
 class TestBreakdown(unittest.TestCase):
     """XBRL 实例 -> 收入构成。"""
 

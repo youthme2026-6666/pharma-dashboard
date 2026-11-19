@@ -398,6 +398,65 @@ FIXED_ZH = {X.OTHER_MEMBER: "其他（未单列）", X.OTHER_REVENUE: "其他收
 CJK = re.compile(r"[\u3400-\u9fff]")
 
 
+def harmonize_groups(seg_rows, pharma):
+    """让同一产品在所有期间归同一组（公司改过分组方式或给事业部改过名时，历史期间按现在的结构）。规则都是确定的：
+    1. 药企有产品在不同期间时而归治疗领域（AREAS）、时而归别的分组（例如百时美施贵宝的“在售产品 / 增长组合 / 传统组合”、
+       按收入类型的分组）时，说明公司换过分组方式：这家公司只按治疗领域归组，其他分组去掉，没有领域的产品之后由 GPT 归类
+       （经核对）。一直用自己的分组（例如吉利德的 HIV / 丙肝）的不动。
+    2. 改名：旧组的产品后来都归到同一个新组（旧组最后出现在新组第一次出现之前），旧组名一律换成新组名。
+    3. 每个产品取最近一期申报里的组，用到它的所有期间。
+    4. 成员名只差大小写的（公司改过科目名的写法），统一成最近一期的写法。
+    返回 [说明]。"""
+    notes = []
+    prod = [r for r in seg_rows if r["axis"] == "product" and r["member"] not in FIXED_ZH]
+    seen = {}
+    for r in prod:
+        if r["group"]:
+            seen.setdefault(r["member"].lower(), set()).add(r["group"] in AREAS)
+    if pharma and any(len(v) == 2 for v in seen.values()):
+        dropped = sorted({r["group"] for r in prod if r["group"] and r["group"] not in AREAS})
+        for r in prod:
+            if r["group"] not in AREAS:
+                r["group"] = ""
+        if dropped:
+            notes.append("药企产品只按治疗领域归组，去掉申报里的其他分组：%s" % "、".join(dropped))
+    key = lambda r: r["member"].lower()
+    by = {}
+    for r in prod:
+        by.setdefault(key(r), []).append(r)
+    span = {}            # 组 -> (第一次, 最后一次)
+    for r in prod:
+        if r["group"]:
+            a, b = span.get(r["group"], (r["period_end"], r["period_end"]))
+            span[r["group"]] = (min(a, r["period_end"]), max(b, r["period_end"]))
+    succ = {}
+    for rows in by.values():
+        seq = sorted((r["period_end"], r["group"]) for r in rows if r["group"])
+        for (d1, g1), (d2, g2) in zip(seq, seq[1:]):
+            if g1 != g2 and span[g1][1] < span[g2][0]:
+                succ.setdefault(g1, set()).add(g2)
+    rename = {g1: next(iter(g2)) for g1, g2 in succ.items() if len(g2) == 1}
+    if rename:
+        for r in prod:
+            r["group"] = rename.get(r["group"], r["group"])
+        notes.append("分组改名后按新名：%s" % "；".join("%s → %s" % kv for kv in sorted(rename.items())))
+    changed = 0
+    for rows in by.values():
+        latest = max(rows, key=lambda r: r["period_end"])
+        grouped = [r for r in rows if r["group"]]
+        g = max(grouped, key=lambda r: r["period_end"])["group"] if grouped else ""
+        periods = [(r["fiscal_year"], r["fiscal_period"]) for r in rows]
+        same_name = len(set(periods)) == len(periods)       # 两种写法出现在同一期间时不合并成员名
+        for r in rows:
+            m = latest["member"] if same_name else r["member"]
+            if r["group"] != g or r["member"] != m:
+                changed += 1
+            r["group"], r["member"] = g, m
+    if changed:
+        notes.append("同一产品各期间统一为最近一期的分组和成员名（%d 行）" % changed)
+    return notes
+
+
 def gpt_labels(gpt, company, items, groups):
     """收入构成成员的中文名，以及产品的组（治疗领域或业务线）。items: [(键, 方向, 英文名, 要不要组)]。返回 {键: {name_zh, group}}（未核对）。"""
     instructions = (
@@ -584,8 +643,13 @@ class Run:
         """收入构成成员的中文名和产品的组：以前判定过的直接用，新成员让 GPT 判断（逐个核对），记在 state 里。"""
         names = dict(self.state.get("names_zh") or {})
         groups = dict(self.state.get("product_groups") or {})
+        pharma = bool(set(self.co.get("categories") or []) & PHARMA)
+        for r in seg_rows:                         # 以前 GPT 归过类的先填上，再统一各期间
+            if r["axis"] == "product" and not r["group"] and r["member"] in groups:
+                r["group"] = groups[r["member"]]
+        hnotes = harmonize_groups(seg_rows, pharma)
         seg_names = sorted({r["name_en"] for r in seg_rows if r["axis"] == "segment" and r["member"] not in FIXED_ZH})
-        if set(self.co.get("categories") or []) & PHARMA:
+        if pharma:
             allowed = AREAS
         else:
             allowed = seg_names + ["Other"] if len(seg_names) >= 2 else []
@@ -615,9 +679,13 @@ class Run:
             self.res.notes.append(("GPT 判定（已核对）", ["收入构成成员中文名 %d 个、产品归组 %d 个%s" % (
                 got_n, got_g, "；%d 处没通过核对，留空" % bad if bad else "")]))
         for r in seg_rows:
-            r["name_zh"] = FIXED_ZH.get(r["member"]) or names.get("%s|%s" % (r["axis"], r["member"]), "")
             if r["axis"] == "product" and not r["group"]:
                 r["group"] = groups.get(r["member"], "")
+        harmonize_groups(seg_rows, pharma)         # GPT 新归的组也统一到各期间
+        for r in seg_rows:
+            r["name_zh"] = FIXED_ZH.get(r["member"]) or names.get("%s|%s" % (r["axis"], r["member"]), "")
+        if hnotes:
+            self.res.notes.append(("收入构成分组", hnotes))
         return seg_rows
 
     def map_extensions(self, facts, built):
