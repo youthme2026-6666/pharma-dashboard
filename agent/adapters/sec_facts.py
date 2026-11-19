@@ -15,7 +15,9 @@ us-gaap 标准科目，每个数带期间、申报编号（accn）和申报日�
   三个季度之和与年初至今对不上（说明这一年中间有重述），改用“首次申报”的一套数；都对不上就不推算第四季度并提醒。
 - 推算（都是原文列出的数之间的恒等关系）：没单列毛利时，毛利 = 营收 − 营业成本；没单列营业利润、但列了营业外收支合计时，
   营业利润 = 税前利润 − 营业外收支合计；没单列总负债时，总负债 = 负债和权益合计 − 权益合计；销售费用和管理费用分列时 SG&A 为两者之和；
-  没单列合并净利润时，净利润 = 归母净利润 + 少数股东损益。
+  没单列合并净利润时，净利润 = 归母净利润 + 少数股东损益；列了毛利、没单列营业成本时，营业成本 = 营收 − 毛利；
+  没有少数股东权益时，归母权益 = 权益合计。
+- 公司自定义科目（不在 companyfacts 里）：从每份申报的 XBRL 实例补进来（键 “ext:前缀:本地名”），经核对的覆盖映射才会用到。
 - 净利润 ≠ 税前利润 − 所得税、差额恰好是原文列出的税后项目（终止经营损益、税后列示的权益法投资损益）时：净利润照原文，
   所得税留空（统一格式没有放税后项目的列，留空表示这一期不能用“税前 − 所得税”核对），并在报告里列出；差额解释不了就判为错误。
 - 金额换算成百万（股数为百万股，每股收益不变）。四舍五入的容差：每个数最多差半个舍入单位，舍入单位从数值本身推断
@@ -331,6 +333,8 @@ def income_values(m, key, vintage, accn=None):
         out["sga"] = aux["ga"] + aux["selling"] if aux["selling"] is not None else aux["ga"]
     if out["gross_profit"] is None and out["revenue"] is not None and out["cost_of_sales"] is not None:
         out["gross_profit"] = out["revenue"] - out["cost_of_sales"]
+    if out["cost_of_sales"] is None and out["revenue"] is not None and out["gross_profit"] is not None:
+        out["cost_of_sales"] = out["revenue"] - out["gross_profit"]       # 列了毛利、没单列营业成本时
     if out["operating_income"] is None and out["pretax_income"] is not None and aux["nonoperating"] is not None:
         out["operating_income"] = out["pretax_income"] - aux["nonoperating"]
     if out["net_income"] is None and out["net_income_parent"] is not None:
@@ -358,6 +362,8 @@ def balance_values(m, end, vintage):
     le = m.get("liabilities_and_equity", key, vintage, accn)
     if out["total_equity"] is None and out["equity_parent"] is not None:
         out["total_equity"] = out["equity_parent"]
+    if out["equity_parent"] is None and out["total_equity"] is not None and m.f.pick(["MinorityInterest"], key, vintage, accn) is None:
+        out["equity_parent"] = out["total_equity"]       # 这份申报没有少数股东权益：归母权益 = 权益合计
     if out["cash_and_sti"] is None and out["cash"] is not None:     # 这份申报没列短期投资时，现金及短期投资 = 现金
         out["cash_and_sti"] = out["cash"] + out["short_term_investments"] if out["short_term_investments"] is not None else out["cash"]
     if out["total_liabilities"] is None and le is not None and out["total_equity"] is not None:

@@ -26,7 +26,7 @@ from . import sec_xbrl as X
 from .base import Result
 
 FIRST_YEAR = 2021                 # 从 2021 财年开始补数据
-EXTRACT_VERSION = 3               # 收入构成提取规则的版本；改了提取规则就加 1，旧申报会重新下载、重新拆
+EXTRACT_VERSION = 4               # 收入构成提取规则的版本；改了提取规则就加 1，旧申报会重新下载、重新拆
 TICKERS_URL = "https://www.sec.gov/files/company_tickers.json"
 SEG_FILE = "sec_segments.json"
 LLY = {"id": "lly", "cik": "0000059478", "ticker": "LLY"}
@@ -194,10 +194,12 @@ def extract_filing(sec, cik, filing, statement_revenue, exclude):
                   [[m["member"], m["qname"], m["name"], m["group"], round(m["value"], 6), round(m["half"], 6), m["basis"]]
                    for m in b["members"]]]
             for fam, b in axes.items()}
+    plain = X.plain_facts(inst)
+    out["ext_labels"] = {tag: X.best_label(labels, tag[4:]) for tag in plain if tag.startswith("ext:")}
     out["warns"] = warns[:20]
     out["pending"] = [{"period": "%s|%s" % p["period"], "family": p["family"], "total": p["total"], "total_half": p["total_half"],
                        "members": p["members"]} for p in pending][:6]
-    return out, X.plain_facts(inst)
+    return out, plain
 
 
 # ---------------- 收入构成 -> 统一格式 ----------------
@@ -367,35 +369,90 @@ def verify_aggregates(item, exclude):
     return True, ""
 
 
-def gpt_groups(gpt, company, products, areas):
-    """产品归到治疗领域。products: [(成员科目, 名称)]。返回 {成员科目: 领域}（未核对）。"""
-    instructions = ("给医药公司的每个产品或收入项目选一个治疗领域，只能从给定领域里选；不是具体药品的收入（合作收入、特许权使用费、"
-                    "其他收入）选 Other。只输出 JSON。")
-    user = {"company": company.get("name_en"), "areas": areas, "items": [{"id": q, "name": n} for q, n in products],
-            "output_format": {"groups": [{"id": "<item id>", "area": "<one of areas>"}]}}
-    schema = {"type": "object", "additionalProperties": False, "required": ["groups"],
-              "properties": {"groups": {"type": "array", "items": {"type": "object", "additionalProperties": False,
-                                                                   "required": ["id", "area"],
-                                                                   "properties": {"id": {"type": "string"}, "area": {"type": "string"}}}}}}
-    r = gpt.respond(instructions, json.dumps(user, ensure_ascii=False), schema=schema, max_tokens=4000)
-    return {g["id"]: g["area"] for g in ((r.get("data") or {}).get("groups") or []) if isinstance(g, dict)}
+PHARMA = {"big_pharma_us", "big_pharma_eu", "rna", "cell_therapy", "gene_rare", "china_innovative"}
+FIXED_ZH = {X.OTHER_MEMBER: "其他（未单列）", X.OTHER_REVENUE: "其他收入"}
+CJK = re.compile(r"[\u3400-\u9fff]")
 
 
-def verify_groups(products, proposed, areas):
-    """每个产品恰好一个领域，领域在给定清单里。返回 (通过的 {成员: 领域}, 问题列表)。"""
-    ok, probs = {}, []
-    ids = {q for q, n in products}
-    for q, area in proposed.items():
-        if q not in ids:
-            probs.append("未知的产品 %s" % q)
-        elif area not in areas:
-            probs.append("%s 的领域 %s 不在清单里" % (q, area))
+def gpt_labels(gpt, company, items, groups):
+    """收入构成成员的中文名，以及产品的组（治疗领域或业务线）。items: [(键, 方向, 英文名, 要不要组)]。返回 {键: {name_zh, group}}（未核对）。"""
+    instructions = (
+        "给美国上市医药公司 XBRL 收入构成里的每个成员写中文名，必要时归组。中文名：药品和器械用中国大陆通用的中文商品名或通用名"
+        "（拿不准就保留英文原名，不要编造）；地区、业务分部、收入类型直接意译；不超过 20 个汉字。"
+        "need_group 为 true 的成员再从给定的 groups 里选一个组（产品所属的治疗领域或业务线），合作收入、特许权使用费、其他收入选 Other（如果 groups 里有）；"
+        "need_group 为 false 的 group 填空字符串。只输出 JSON。")
+    user = {"company": company.get("name_en"), "groups": groups,
+            "items": [{"id": k, "axis": a, "name": n, "need_group": bool(g)} for k, a, n, g in items],
+            "output_format": {"items": [{"id": "<item id>", "name_zh": "中文名", "group": "<one of groups or empty>"}]}}
+    schema = {"type": "object", "additionalProperties": False, "required": ["items"],
+              "properties": {"items": {"type": "array", "items": {
+                  "type": "object", "additionalProperties": False, "required": ["id", "name_zh", "group"],
+                  "properties": {"id": {"type": "string"}, "name_zh": {"type": "string"}, "group": {"type": "string"}}}}}}
+    r = gpt.respond(instructions, json.dumps(user, ensure_ascii=False), schema=schema, max_tokens=8000)
+    return {x["id"]: x for x in ((r.get("data") or {}).get("items") or []) if isinstance(x, dict) and x.get("id")}
+
+
+def verify_labels(items, proposed, groups):
+    """逐个核对：中文名一行、不超过 40 个字，含汉字或就是英文原名；要组的组必须在给定清单里，不要组的组为空。
+    返回 ({键: 中文名}, {键: 组}, 不通过的个数)。"""
+    names, grp, bad = {}, {}, 0
+    for k, axis, name, need_group in items:
+        p = proposed.get(k)
+        if not p:
+            bad += 1
+            continue
+        zh = " ".join(str(p.get("name_zh") or "").split())
+        if zh and len(zh) <= 40 and (CJK.search(zh) or zh.lower() == " ".join(name.split()).lower()):
+            names[k] = zh
         else:
-            ok[q] = area
-    missing = ids - set(ok)
-    if missing:
-        probs.append("%d 个产品没有归类" % len(missing))
-    return (ok if not probs else {}), probs
+            bad += 1
+        g = str(p.get("group") or "")
+        if need_group:
+            if g in groups:
+                grp[k] = g
+            else:
+                bad += 1
+    return names, grp, bad
+
+
+# 公司自定义科目能补的字段：(所在报表, 标签里必须有的词, 中文说明)
+EXT_FIELDS = {
+    "cost_of_sales": ("income", r"\bcost of\b", "营业成本（销售成本）"),
+    "rnd": ("income", r"research|development", "研发费用"),
+    "sga": ("income", r"selling|general and administrative|marketing", "销售、一般及管理费用"),
+    "acquired_iprd": ("income", r"in-?process|\bIPR&?D\b|acquired", "外购在研项目费用"),
+    "receivables": ("balance", r"receivable", "应收账款"),
+    "capex": ("cashflow", r"property|equipment|capital expenditure", "资本开支（购建固定资产）"),
+}
+EXT_EXCLUDE = re.compile(r"\btotal\b|income tax|deferred|percentage|per share", re.I)
+
+
+def plausible(field, row):
+    """填进来的数是否说得通（与同一行的其他数比较）。"""
+    v = row.get(field)
+    if v is None:
+        return True
+    if field == "cost_of_sales":
+        return 0 <= v <= (row.get("revenue") or 0) + 0.5
+    if field in ("rnd", "sga", "capex"):
+        return v > 0
+    if field == "acquired_iprd":
+        return v >= 0
+    if field == "receivables":
+        return 0 <= v <= (row.get("total_current_assets") or float("inf"))
+    return True
+
+
+def gpt_pick_concept(gpt, company, field, desc, cands):
+    """几个自定义科目都像时，让 GPT 选出对应这一行的那个。cands: [{id, label, value}]。返回科目或 ""（未核对）。"""
+    instructions = ("你在给美国上市公司的财务报表做科目映射。下面是这家公司 XBRL 里的自定义科目（公司自己的标签和最近一期的数，百万美元）。"
+                    "选出就是“%s”这一行本身的那个科目（不要合计，不要其中的一部分）；都不是就返回空字符串。只输出 JSON。" % desc)
+    user = {"company": company.get("name_en"), "field": field, "candidates": cands,
+            "output_format": {"concept": "<candidate id or empty>", "reason": "一句话"}}
+    schema = {"type": "object", "additionalProperties": False, "required": ["concept", "reason"],
+              "properties": {"concept": {"type": "string"}, "reason": {"type": "string"}}}
+    r = gpt.respond(instructions, json.dumps(user, ensure_ascii=False), schema=schema, max_tokens=1500)
+    return str((r.get("data") or {}).get("concept") or "")
 
 
 # ---------------- 一家公司 ----------------
@@ -447,7 +504,7 @@ class Run:
             extra = []
             for tag, periods in plain.items():
                 for (start, end), (val, kind) in periods.items():
-                    if missing or (tag in ("CostOfGoodsAndServicesSold", "CostOfRevenue") and
+                    if missing or tag.startswith("ext:") or (tag in ("CostOfGoodsAndServicesSold", "CostOfRevenue") and
                                    not any(r[1] == fl["accn"] for r in self.f.by_tag.get(tag, {}).get((start, end), []))):
                         extra.append([tag, start, end, val, kind])
             if missing:
@@ -494,30 +551,97 @@ class Run:
                     ext["v"] = 0          # 有待判定的申报重新拆
         return changed
 
-    def classify(self, seg_rows):
-        """没有组的产品，让 GPT 归到治疗领域（只对医药类公司），核对通过才用。"""
-        cats = set(self.co.get("categories") or [])
-        if not cats & {"big_pharma_us", "big_pharma_eu", "rna", "cell_therapy", "gene_rare", "china_innovative"}:
-            return {}
+    def label_members(self, seg_rows):
+        """收入构成成员的中文名和产品的组：以前判定过的直接用，新成员让 GPT 判断（逐个核对），记在 state 里。"""
+        names = dict(self.state.get("names_zh") or {})
         groups = dict(self.state.get("product_groups") or {})
+        seg_names = sorted({r["name_en"] for r in seg_rows if r["axis"] == "segment" and r["member"] not in FIXED_ZH})
+        if set(self.co.get("categories") or []) & PHARMA:
+            allowed = AREAS
+        else:
+            allowed = seg_names + ["Other"] if len(seg_names) >= 2 else []
         todo = {}
         for r in seg_rows:
-            if r["axis"] == "product" and not r["group"] and r["member"] not in groups and not r["member"].startswith("Other"):
-                todo[r["member"]] = r["name_en"]
+            if r["member"] in FIXED_ZH:
+                continue
+            k = "%s|%s" % (r["axis"], r["member"])
+            need_group = bool(r["axis"] == "product" and not r["group"] and allowed and r["member"] not in groups)
+            if k not in names or need_group:
+                todo[k] = (k, r["axis"], r["name_en"], need_group)
         gpt = self.ctx.gpt
         if todo and gpt is not None and self.ctx.gpt_ok("classify"):
-            items = sorted(todo.items())
-            try:
-                ok, probs = verify_groups(items, gpt_groups(gpt, self.co, items, AREAS), AREAS)
-                if ok:
-                    groups.update(ok)
-                    self.state["product_groups"] = groups
-                    self.res.notes.append(("GPT 判定（已核对）", ["%d 个产品归入治疗领域" % len(ok)]))
-                else:
-                    self.res.warnings.append("GPT 给产品归类没有通过核对：%s" % "；".join(probs[:3]))
-            except Exception as e:  # GPT 偶发失败只提醒
-                self.res.warnings.append("GPT 给产品归类失败：%s" % e)
-        return groups
+            items = sorted(todo.values())
+            got_n, got_g, bad = 0, 0, 0
+            for i in range(0, len(items), 120):
+                part = items[i:i + 120]
+                try:
+                    zh, grp, b = verify_labels(part, gpt_labels(gpt, self.co, part, allowed), allowed)
+                except Exception as e:  # GPT 偶发失败只提醒
+                    self.res.warnings.append("GPT 给收入构成成员命名、归类失败：%s" % e)
+                    break
+                names.update(zh)
+                groups.update({k.split("|", 1)[1]: g for k, g in grp.items()})
+                got_n, got_g, bad = got_n + len(zh), got_g + len(grp), bad + b
+            self.state["names_zh"], self.state["product_groups"] = names, groups
+            self.res.notes.append(("GPT 判定（已核对）", ["收入构成成员中文名 %d 个、产品归组 %d 个%s" % (
+                got_n, got_g, "；%d 处没通过核对，留空" % bad if bad else "")]))
+        for r in seg_rows:
+            r["name_zh"] = FIXED_ZH.get(r["member"]) or names.get("%s|%s" % (r["axis"], r["member"]), "")
+            if r["axis"] == "product" and not r["group"]:
+                r["group"] = groups.get(r["member"], "")
+        return seg_rows
+
+    def map_extensions(self, facts, built):
+        """大半期间都空着的字段，看看公司自定义科目里有没有这一行：标签里要有对应的词，几个都像时让 GPT 选；
+        用上以后新填进来的数都要说得通、统一格式核对照样通过，才记进 state.json 的 mapping。返回是否有新映射。"""
+        labels = {}
+        for ext in (self.seg.get("filings") or {}).values():
+            labels.update(ext.get("ext_labels") or {})
+        if not labels:
+            return False
+        mapping = self.state.setdefault("mapping", {})
+        tried = self.state.setdefault("mapping_tried", {})
+        rows, _ = F.split_tol(built.rows)
+        changed = False
+        for field, (stmt, kw, desc) in EXT_FIELDS.items():
+            rs = rows[stmt]
+            if field in mapping or not rs or sum(1 for r in rs if r.get(field) is None) * 2 < len(rs):
+                continue
+            cands = sorted(t for t, lab in labels.items() if t in facts.by_tag and re.search(kw, lab, re.I)
+                           and not EXT_EXCLUDE.search(lab))
+            sig = ",".join(cands)
+            if not cands or tried.get(field) == sig:
+                continue
+            tried[field] = sig
+            pick = cands[0] if len(cands) == 1 else ""
+            if len(cands) > 1 and self.ctx.gpt is not None and self.ctx.gpt_ok("mapping"):
+                info = []
+                for t in cands:
+                    latest = max(((k[1], recs) for k, recs in facts.by_tag[t].items()), key=lambda x: x[0])
+                    info.append({"id": t, "label": labels[t], "value": round(latest[1][-1][3] / 1e6, 3)})
+                try:
+                    pick = gpt_pick_concept(self.ctx.gpt, self.co, field, desc, info)
+                except Exception as e:  # GPT 偶发失败只提醒
+                    self.res.warnings.append("GPT 选科目失败：%s" % e)
+                    continue
+            if pick not in cands:
+                continue
+            trial = dict(mapping, **{field: [pick]})
+            b2 = F.build_statements(facts, FIRST_YEAR, trial)
+            r2, _ = F.split_tol(b2.rows)
+            filled = sum(1 for r in r2[stmt] if r.get(field) is not None) - sum(1 for r in rs if r.get(field) is not None)
+            from ..core import schema as S
+            bad = [r for r in r2[stmt] if not plausible(field, r)]
+            probs = S.problems(stmt, r2[stmt])
+            if filled > 0 and not bad and not probs and len(b2.errors) <= len(built.errors):
+                mapping[field] = [pick]
+                changed = True
+                self.res.notes.append(("科目映射（已核对）", ["%s ← 公司自定义科目 %s（“%s”），补上 %d 期" % (
+                    field, pick[4:], labels[pick], filled)]))
+            else:
+                self.res.warnings.append("%s 想用自定义科目 %s（“%s”），但核对没通过（%s），不采用" % (
+                    field, pick[4:], labels[pick], "数值不合理 %d 期" % len(bad) if bad else ("；".join(probs[:2]) or "没补上新数")))
+        return changed
 
     def save(self):
         self.ctx.save_state(self.cid, self.state)
@@ -556,12 +680,11 @@ def build(company, ctx, sec, res, write_state=True, force=False):
     if any(ext.get("extra") for ext in run.seg["filings"].values()):
         facts = run.facts(refresh=False)
         built = F.build_statements(facts, FIRST_YEAR, run.state.get("mapping"))
+    if run.map_extensions(facts, built):
+        built = F.build_statements(facts, FIRST_YEAR, run.state.get("mapping"))
     rows, tols = F.split_tol(built.rows)
-    groups = run.classify([])
-    seg_rows, seg_notes, seg_probs = build_segments(built, run.seg, facts.currency, groups)
-    new_groups = run.classify(seg_rows)
-    if new_groups != groups:
-        seg_rows, seg_notes, seg_probs = build_segments(built, run.seg, facts.currency, new_groups)
+    seg_rows, seg_notes, seg_probs = build_segments(built, run.seg, facts.currency)
+    seg_rows = run.label_members(seg_rows)
     rows["segments"] = seg_rows
     # 核对
     from ..core import schema as S

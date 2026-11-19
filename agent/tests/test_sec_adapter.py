@@ -370,24 +370,69 @@ class TestAdapter(unittest.TestCase):
         self.assertTrue(res.ok, res.errors)
         self.assertTrue(self.ctx().load_state("amgn")["backtest"]["ok"])
 
-    def test_gpt_groups_are_checked(self):
-        items = [("Repatha", "Repatha"), ("Prolia", "Prolia")]
-        ok, probs = A.verify_groups(items, {"Repatha": "Cardiovascular", "Prolia": "Bone health"}, A.AREAS)
-        self.assertEqual(ok, {})
-        self.assertTrue(probs)
-        ok, probs = A.verify_groups(items, {"Repatha": "Cardiovascular", "Prolia": "Other"}, A.AREAS)
-        self.assertEqual((ok, probs), ({"Repatha": "Cardiovascular", "Prolia": "Other"}, []))
+    def test_gpt_labels_are_checked(self):
+        items = [("product|Repatha", "product", "Repatha", True), ("product|Prolia", "product", "Prolia", True),
+                 ("geography|US", "geography", "U.S.", False), ("product|Foo", "product", "Foo", True)]
+        proposed = {"product|Repatha": {"name_zh": "瑞百安", "group": "Cardiovascular"},
+                    "product|Prolia": {"name_zh": "Prolia", "group": "Bone health"},          # 组不在清单里
+                    "geography|US": {"name_zh": "美国", "group": ""},
+                    "product|Foo": {"name_zh": "a very long made up name that is clearly not chinese", "group": "Other"}}
+        names, groups, bad = A.verify_labels(items, proposed, A.AREAS)
+        self.assertEqual(names, {"product|Repatha": "瑞百安", "product|Prolia": "Prolia", "geography|US": "美国"})
+        self.assertEqual(groups, {"product|Repatha": "Cardiovascular", "product|Foo": "Other"})
+        self.assertEqual(bad, 2)
 
-    def test_gpt_classifies_products_once(self):
-        gpt = FakeGPT(lambda req: {"groups": [{"id": i["id"], "area": "Other" if "Other" in i["name"] else "Cardiovascular"}
-                                              for i in req["items"]]})
+    def test_gpt_names_and_groups_once(self):
+        def answer(req):
+            return {"items": [{"id": i["id"], "name_zh": "中文" + i["name"][:3],
+                               "group": ("Other" if "Other" in i["name"] else "Cardiovascular") if i["need_group"] else ""}
+                              for i in req["items"]]}
+        gpt = FakeGPT(answer)
         ctx = self.ctx(gpt)
         res = A.update(RG.get(self.reg, "amgn"), ctx)
         self.assertTrue(res.ok, res.errors)
-        prod = [r for r in res.rows["segments"] if r["axis"] == "product"]
-        self.assertTrue(prod and all(r["group"] for r in prod if not r["member"].startswith("Other")))
-        self.assertEqual(gpt.usage["calls"], 1)
-        self.assertTrue(ctx.load_state("amgn")["product_groups"])
+        seg = res.rows["segments"]
+        self.assertTrue(seg and all(r["name_zh"] for r in seg))
+        self.assertTrue(all(r["group"] for r in seg if r["axis"] == "product"))
+        calls = gpt.usage["calls"]
+        st = ctx.load_state("amgn")
+        self.assertTrue(st["names_zh"] and st["product_groups"])
+        res2 = A.backtest(RG.get(self.reg, "amgn"), ctx)          # 以前判定过的直接用，不再问 GPT
+        self.assertTrue(res2.ok, res2.errors)
+        self.assertEqual(gpt.usage["calls"], calls)
+
+
+class TestCompanySpecificLines(unittest.TestCase):
+    """公司自定义科目：经核对的映射才用；推算的恒等关系。"""
+
+    def facts(self):
+        def fact(start, end, val, accn, form="10-Q", filed="2026-05-01"):
+            return {"start": start, "end": end, "val": val, "accn": accn, "fy": 2026, "fp": "Q1", "form": form, "filed": filed}
+        cf = {"cik": 1, "entityName": "X", "facts": {"us-gaap": {
+            "Revenues": {"label": "", "units": {"USD": [fact("2025-01-01", "2025-12-31", 1000e6, "a-1", "10-K", "2026-02-01"),
+                                                       fact("2026-01-01", "2026-03-31", 300e6, "a-2")]}},
+            "GrossProfit": {"label": "", "units": {"USD": [fact("2026-01-01", "2026-03-31", 210e6, "a-2")]}},
+        }}}
+        f = F.Facts(cf)
+        f.add_instance("a-1", "10-K", "2026-02-01", {"ext:x:CostOfProductSold": {("2025-01-01", "2025-12-31"): (400e6, "money")}})
+        return f
+
+    def test_identities_and_mapping(self):
+        built = F.build_statements(self.facts(), 2021)
+        rows, _ = F.split_tol(built.rows)
+        q1 = row(rows["income"], "2026", "Q1")
+        self.assertEqual(q1["cost_of_sales"], 90.0)                  # 营业成本 = 营收 − 毛利
+        fy = row(rows["income"], "2025", "FY")
+        self.assertIsNone(fy["cost_of_sales"])
+        built = F.build_statements(self.facts(), 2021, {"cost_of_sales": ["ext:x:CostOfProductSold"]})
+        fy = row(F.split_tol(built.rows)[0]["income"], "2025", "FY")
+        self.assertEqual((fy["cost_of_sales"], fy["gross_profit"]), (400.0, 600.0))
+
+    def test_plausibility(self):
+        self.assertTrue(A.plausible("cost_of_sales", {"cost_of_sales": 40, "revenue": 100}))
+        self.assertFalse(A.plausible("cost_of_sales", {"cost_of_sales": 140, "revenue": 100}))
+        self.assertFalse(A.plausible("rnd", {"rnd": -3}))
+        self.assertFalse(A.plausible("receivables", {"receivables": 50, "total_current_assets": 40}))
 
 
 if __name__ == "__main__":

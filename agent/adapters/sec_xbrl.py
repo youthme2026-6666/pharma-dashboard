@@ -505,13 +505,23 @@ def _groups_from_children(sel, mem, children, labels):
     return groups
 
 
+EXT_CONCEPT = re.compile(r"Cost|Research|Development|InProcess|Iprd|IPRD|Acquired|Receivable|PropertyPlant|CapitalExpenditure|"
+                         r"Selling|Marketing|GeneralAndAdministrative", re.I)
+
+
 def plain_facts(inst):
-    """不带维度的 us-gaap 数（companyfacts 漏了某份申报时用来补）+ 只按“产品/服务”标准成员拆开、没有合计的营业成本之和。
+    """不带维度的 us-gaap 数（companyfacts 漏了某份申报时用来补）+ 只按“产品/服务”标准成员拆开、没有合计的营业成本之和
+    + 公司自定义科目里可能对应利润表、应收账款、资本开支的不带维度的数（键为 “ext:前缀:本地名”，companyfacts 里没有它们）。
     返回 {科目: {(start, end): (值, 单位种类)}}。"""
     out = {}
     split = {}
     for r in inst.fact_rows():
         c = r["concept"]
+        prefix = c.split(":", 1)[0]
+        if prefix not in ("us-gaap", "dei", "srt", "country", "ecd", "stpr") and not r["dims"] and EXT_CONCEPT.search(c) \
+                and len(r["unit"] or "") == 3:
+            out.setdefault("ext:" + c, {}).setdefault((r["start"], r["end"]), (r["value"], "money"))
+            continue
         if not c.startswith("us-gaap:"):
             continue
         tag = c.split(":", 1)[1]
