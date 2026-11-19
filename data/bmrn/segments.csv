@@ -171,7 +171,7 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2025,Q2,2025-06-30,3,product,KUVAN,KUVAN,可凡,Rare Disease,27.034,USD,millions,reported,SEC 10-Q 0001048477-26-000016
 2025,Q2,2025-06-30,3,product,NAGLAZYME,NAGLAZYME,纳加酶,Rare Disease,128.867,USD,millions,reported,SEC 10-Q 0001048477-26-000016
 2025,Q2,2025-06-30,3,product,PALYNZIQ,PALYNZIQ,帕林孜,Rare Disease,105.938,USD,millions,reported,SEC 10-Q 0001048477-26-000016
-2025,Q2,2025-06-30,3,product,POMBILITIOPFOLDA,POMBILITI + OPFOLDA,,Rare Disease,0,USD,millions,reported,SEC 10-Q 0001048477-26-000016
+2025,Q2,2025-06-30,3,product,POMBILITIOPFOLDA,POMBILITI + OPFOLDA,POMBILITI + OPFOLDA,Rare Disease,0,USD,millions,reported,SEC 10-Q 0001048477-26-000016
 2025,Q2,2025-06-30,3,product,VIMIZIM,VIMIZIM,维米津,Rare Disease,215.424,USD,millions,reported,SEC 10-Q 0001048477-26-000016
 2025,Q2,2025-06-30,3,product,VOXZOGO,VOXZOGO,Voxzogo,Rare Disease,221.391,USD,millions,reported,SEC 10-Q 0001048477-26-000016
 2025,Q3,2025-09-30,3,product,ROCTAVIAN,ROCTAVIAN,Roctavian基因疗法,Hematology,3.18,USD,millions,reported,SEC 10-Q 0001048477-26-000023
@@ -182,7 +182,7 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2025,Q3,2025-09-30,3,product,KUVAN,KUVAN,可凡,Rare Disease,24.025,USD,millions,reported,SEC 10-Q 0001048477-26-000023
 2025,Q3,2025-09-30,3,product,NAGLAZYME,NAGLAZYME,纳加酶,Rare Disease,122.025,USD,millions,reported,SEC 10-Q 0001048477-26-000023
 2025,Q3,2025-09-30,3,product,PALYNZIQ,PALYNZIQ,帕林孜,Rare Disease,108.778,USD,millions,reported,SEC 10-Q 0001048477-26-000023
-2025,Q3,2025-09-30,3,product,POMBILITIOPFOLDA,POMBILITI + OPFOLDA,,Rare Disease,0,USD,millions,reported,SEC 10-Q 0001048477-26-000023
+2025,Q3,2025-09-30,3,product,POMBILITIOPFOLDA,POMBILITI + OPFOLDA,POMBILITI + OPFOLDA,Rare Disease,0,USD,millions,reported,SEC 10-Q 0001048477-26-000023
 2025,Q3,2025-09-30,3,product,VIMIZIM,VIMIZIM,维米津,Rare Disease,182.755,USD,millions,reported,SEC 10-Q 0001048477-26-000023
 2025,Q3,2025-09-30,3,product,VOXZOGO,VOXZOGO,Voxzogo,Rare Disease,218.387,USD,millions,reported,SEC 10-Q 0001048477-26-000023
 2025,Q4,2025-12-31,3,product,ROCTAVIAN,ROCTAVIAN,Roctavian基因疗法,Hematology,12.751,USD,millions,derived,SEC 10-K 0001048477-26-000004 − 10-Q 0001048477-25-000107
@@ -220,7 +220,7 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2026,Q2,2026-06-30,3,product,KUVAN,KUVAN,可凡,Rare Disease,24.444,USD,millions,reported,SEC 10-Q 0001048477-26-000016
 2026,Q2,2026-06-30,3,product,NAGLAZYME,NAGLAZYME,纳加酶,Rare Disease,135.255,USD,millions,reported,SEC 10-Q 0001048477-26-000016
 2026,Q2,2026-06-30,3,product,PALYNZIQ,PALYNZIQ,帕林孜,Rare Disease,135.167,USD,millions,reported,SEC 10-Q 0001048477-26-000016
-2026,Q2,2026-06-30,3,product,POMBILITIOPFOLDA,POMBILITI + OPFOLDA,,Rare Disease,30.258,USD,millions,reported,SEC 10-Q 0001048477-26-000016
+2026,Q2,2026-06-30,3,product,POMBILITIOPFOLDA,POMBILITI + OPFOLDA,POMBILITI + OPFOLDA,Rare Disease,30.258,USD,millions,reported,SEC 10-Q 0001048477-26-000016
 2026,Q2,2026-06-30,3,product,VIMIZIM,VIMIZIM,维米津,Rare Disease,194.371,USD,millions,reported,SEC 10-Q 0001048477-26-000016
 2026,Q2,2026-06-30,3,product,VOXZOGO,VOXZOGO,Voxzogo,Rare Disease,252.528,USD,millions,reported,SEC 10-Q 0001048477-26-000016
 2026,Q3,2026-09-30,3,product,ROCTAVIAN,ROCTAVIAN,Roctavian基因疗法,Hematology,0.738,USD,millions,reported,SEC 10-Q 0001048477-26-000023
@@ -231,6 +231,6 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2026,Q3,2026-09-30,3,product,KUVAN,KUVAN,可凡,Rare Disease,22.947,USD,millions,reported,SEC 10-Q 0001048477-26-000023
 2026,Q3,2026-09-30,3,product,NAGLAZYME,NAGLAZYME,纳加酶,Rare Disease,107.824,USD,millions,reported,SEC 10-Q 0001048477-26-000023
 2026,Q3,2026-09-30,3,product,PALYNZIQ,PALYNZIQ,帕林孜,Rare Disease,111.035,USD,millions,reported,SEC 10-Q 0001048477-26-000023
-2026,Q3,2026-09-30,3,product,POMBILITIOPFOLDA,POMBILITI + OPFOLDA,,Rare Disease,48.585,USD,millions,reported,SEC 10-Q 0001048477-26-000023
+2026,Q3,2026-09-30,3,product,POMBILITIOPFOLDA,POMBILITI + OPFOLDA,POMBILITI + OPFOLDA,Rare Disease,48.585,USD,millions,reported,SEC 10-Q 0001048477-26-000023
 2026,Q3,2026-09-30,3,product,VIMIZIM,VIMIZIM,维米津,Rare Disease,215.796,USD,millions,reported,SEC 10-Q 0001048477-26-000023
 2026,Q3,2026-09-30,3,product,VOXZOGO,VOXZOGO,Voxzogo,Rare Disease,245.014,USD,millions,reported,SEC 10-Q 0001048477-26-000023

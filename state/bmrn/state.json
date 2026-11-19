@@ -1,6 +1,6 @@
 {
   "cik": "0001048477",
-  "code_hash": "d4adc7d82799",
+  "code_hash": "9fe20e28ff23",
   "fiscal_year_end": "1231",
   "form_type": "10-K",
   "identity_checked": "2026-11-09",
@@ -21,6 +21,7 @@
     "product|KUVAN": "可凡",
     "product|NAGLAZYME": "纳加酶",
     "product|PALYNZIQ": "帕林孜",
+    "product|POMBILITIOPFOLDA": "POMBILITI + OPFOLDA",
     "product|Product": "产品收入",
     "product|ROCTAVIAN": "Roctavian基因疗法",
     "product|RoyaltyAndOther": "特许权及其他收入",
