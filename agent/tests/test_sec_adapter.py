@@ -186,6 +186,78 @@ class TestStatements(unittest.TestCase):
         self.assertIn("2023 Q2 revenue", cmp["mismatches"][0])
 
 
+class TestOperatingFromCalc(unittest.TestCase):
+    """原文没单列营业利润（强生、默沙东、辉瑞、百时美施贵宝）时，按申报的计算链接库推算。
+    样本 opcalc/ 是手写的小申报（不是 SEC 真实数据）：税前利润 = 营收 − 成本费用合计 + 利息收入 − 利息费用，
+    成本费用合计里含公司自定义的“其他（收益）扣除净额”（营业外）和“其他营业费用”（营业内）；另有所得税附注里的“境内 + 境外”。"""
+
+    def load(self):
+        d = os.path.join(FIX, "opcalc")
+        with open(os.path.join(d, "xco-20260930_htm.xml"), "rb") as f:
+            inst = X.Instance(f.read())
+        with open(os.path.join(d, "xco-20260930_lab.xml"), "rb") as f:
+            labels = X.parse_labels(f.read())
+        with open(os.path.join(d, "xco-20260930_cal.xml"), "rb") as f:
+            calc = X.parse_calculations(f.read())
+        return inst, labels, calc
+
+    def test_derives_and_checks_each_period(self):
+        inst, labels, calc = self.load()
+        got, nonop = X.operating_from_calc(inst, calc, labels)
+        # 10000 − 3000 − 2500 − 2000 − 200（其他营业费用留在营业利润里）
+        self.assertAlmostEqual(got[("2026-07-01", "2026-09-30")] / 1e6, 2300.0)
+        self.assertAlmostEqual(got[("2026-01-01", "2026-09-30")] / 1e6, 6900.0)    # 成本费用合计没有数：用组成项之和
+        self.assertNotIn(("2025-07-01", "2025-09-30"), got)       # 组成项之和 1700 ≠ 税前利润 1800：不推算
+        self.assertEqual(nonop, ["us-gaap:InterestExpenseNonoperating", "us-gaap:InvestmentIncomeInterest",
+                                 "xco:OtherIncomeDeductionsNet"])
+
+    def test_tax_note_alone_is_not_used(self):
+        inst, labels, calc = self.load()
+        only_tax = {r: t for r, t in calc.items() if "IncomeTaxes" in r}
+        self.assertEqual(X.operating_from_calc(inst, only_tax, labels), ({}, []))
+
+    def test_nonoperating_labels(self):
+        lab = lambda t: {"x:A": {"http://www.xbrl.org/2003/role/label": t}}
+        self.assertTrue(X.is_nonoperating("x:A", lab("Other (income)/expense, net")))
+        self.assertTrue(X.is_nonoperating("x:A", lab("Other income (deductions) — net")))
+        self.assertTrue(X.is_nonoperating("x:A", lab("Interest income and other")))
+        self.assertTrue(X.is_nonoperating("x:A", lab("Total nonoperating income")))
+        self.assertFalse(X.is_nonoperating("x:A", lab("Other operating expense, net")))
+        self.assertFalse(X.is_nonoperating("x:A", lab("Restructuring and other charges")))
+        self.assertFalse(X.is_nonoperating("us-gaap:OtherCostAndExpenseOperating", {}))
+        self.assertTrue(X.is_nonoperating("us-gaap:OtherNonoperatingIncomeExpense", {}))
+
+    def test_extract_operating_downloads_calc(self):
+        sec = FakeSEC()
+        got, nonop = A.extract_operating(sec, 1, "0000000001-26-000001")
+        self.assertAlmostEqual(got[("2026-07-01", "2026-09-30")] / 1e6, 2300.0)
+        self.assertTrue(any(u.endswith("_cal.xml") for u in sec.requests))
+
+    def test_statement_marks_derived(self):
+        """强生不列营业利润：申报里推算的数只用在同一份申报的那一行，出处注明“推算”，第四季度 = 全年 − 9 个月也注明。"""
+        facts = F.Facts(fixture("jnj_companyfacts.json"))
+        built = F.build_statements(facts, 2021)
+        rows, _ = F.split_tol(built.rows)
+        self.assertIsNone(row(rows["income"], "2025", "Q3")["operating_income"])
+        extra = {}
+        for p in ("Q3", "9M", "FY"):
+            u = built.used[("2025", p)]
+            pt = facts.pick(F.INCOME_MAP[7][1], (u["start"], u["end"]), "latest", u["accn"])
+            extra.setdefault(u["accn"], {})[(u["start"], u["end"])] = (pt[0] + 500e6, "money")
+        for accn, periods in extra.items():
+            facts.add_instance(accn, "", "", {"calc:OperatingIncomeLoss": periods})
+        built = F.build_statements(facts, 2021)
+        rows, _ = F.split_tol(built.rows)
+        q3, q4 = row(rows["income"], "2025", "Q3"), row(rows["income"], "2025", "Q4")
+        self.assertAlmostEqual(q3["operating_income"], q3["pretax_income"] + 500)
+        self.assertAlmostEqual(q4["operating_income"], q4["pretax_income"])          # 两边都 +500，相减抵掉
+        self.assertIn("营业利润为推算", q3["source"])
+        self.assertIn("营业利润为推算", q4["source"])
+        self.assertNotIn("营业利润为推算", row(rows["income"], "2025", "Q1")["source"])
+        self.assertIn("营业利润为推算", " ".join(built.notes))
+        self.assertEqual(S.problems("income", rows["income"]), [])
+
+
 class TestBreakdown(unittest.TestCase):
     """XBRL 实例 -> 收入构成。"""
 

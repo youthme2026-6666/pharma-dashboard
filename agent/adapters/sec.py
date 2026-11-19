@@ -158,7 +158,7 @@ def periodic_filings(subs, facts, first_start):
 
 # ---------------- 每份申报的收入构成 ----------------
 def filing_files(sec, cik, accn):
-    """申报目录里的 XBRL 实例、标签链接库、定义链接库（没有单独的链接库文件时用内嵌链接库的 .xsd）。"""
+    """申报目录里的 XBRL 实例、标签链接库、定义链接库、计算链接库（没有单独的链接库文件时用内嵌链接库的 .xsd）。"""
     folder = "https://www.sec.gov/Archives/edgar/data/%d/%s/" % (int(cik), accn.replace("-", ""))
     idx = sec.json(folder + "index.json")
     names = [it.get("name", "") for it in (idx.get("directory") or {}).get("item") or []]
@@ -166,7 +166,28 @@ def filing_files(sec, cik, accn):
     xsd = [n for n in names if n.endswith(".xsd")]
     lab = [n for n in names if n.endswith("_lab.xml")] or xsd
     deff = [n for n in names if n.endswith("_def.xml")] or xsd
-    return folder, (inst or [None])[0], (lab or [None])[0], (deff or [None])[0]
+    cal = [n for n in names if n.endswith("_cal.xml")] or xsd
+    return folder, (inst or [None])[0], (lab or [None])[0], (deff or [None])[0], (cal or [None])[0]
+
+
+OP_TAG = "calc:OperatingIncomeLoss"      # 从计算链接库推算的营业利润（sec_facts 的 operating_calc）
+
+
+def operating_extra(sec, folder, cal_name, inst, labels):
+    """原文没单列营业利润时用的推算数。返回 ({(start, end): 值（元）}, 营业外科目)。"""
+    if not cal_name:
+        return {}, []
+    return X.operating_from_calc(inst, X.parse_calculations(sec.get(folder + cal_name)), labels)
+
+
+def extract_operating(sec, cik, accn):
+    """已经拆过收入构成的旧申报：只补算营业利润（下载实例、标签和计算链接库）。"""
+    folder, inst_name, lab_name, _, cal_name = filing_files(sec, cik, accn)
+    if not inst_name or not cal_name:
+        return {}, []
+    inst = X.Instance(sec.get(folder + inst_name))
+    labels = X.parse_labels(sec.get(folder + lab_name)) if lab_name else {}
+    return operating_extra(sec, folder, cal_name, inst, labels)
 
 
 def _period_end(inst, filing):
@@ -178,7 +199,7 @@ def extract_filing(sec, cik, filing, statement_revenue, exclude):
     """下载并拆一份申报。返回 (提取结果, 实例里的不带维度数 {科目: {(start, end): (值, 种类)}})。
     提取结果：{v, form, filed, period_end, periods: {"start|end": {方向: [方法, 科目, 总数, [[member, qname, name, group, value, half, basis]]]}},
               warns: [...], pending: [...]}"""
-    folder, inst_name, lab_name, def_name = filing_files(sec, cik, filing["accn"])
+    folder, inst_name, lab_name, def_name, cal_name = filing_files(sec, cik, filing["accn"])
     out = {"v": EXTRACT_VERSION, "form": filing["form"], "filed": filing["filed"], "periods": {}, "warns": [], "pending": []}
     if not inst_name:
         out["warns"].append("申报里没有 XBRL 实例")
@@ -195,6 +216,9 @@ def extract_filing(sec, cik, filing, statement_revenue, exclude):
                    for m in b["members"]]]
             for fam, b in axes.items()}
     plain = X.plain_facts(inst)
+    op, out["op"] = operating_extra(sec, folder, cal_name, inst, labels)
+    if op:
+        plain[OP_TAG] = {k: (v, "money") for k, v in op.items()}
     out["ext_labels"] = {tag: X.best_label(labels, tag[4:]) for tag in plain if tag.startswith("ext:")}
     out["warns"] = warns[:20]
     out["pending"] = [{"period": "%s|%s" % p["period"], "family": p["family"], "total": p["total"], "total_half": p["total_half"],
@@ -486,8 +510,9 @@ class Run:
                 self.f.add_instance(accn, ext.get("form", ""), ext.get("filed", ""), extra)
         return self.f
 
-    def segments(self, filings, built):
-        """处理还没拆过（或提取规则改过）的申报。返回本次新处理的申报数。"""
+    def segments(self, filings, built, need_op=False):
+        """处理还没拆过（或提取规则改过）的申报；need_op（有期间没有营业利润）时，旧申报没补算过营业利润的补算。
+        返回本次新处理的申报数。"""
         done = self.seg.setdefault("filings", {})
         exclude = {k: set(v) for k, v in (self.state.get("segment_exclude") or {}).items()}
         stmt_rev = {}
@@ -498,13 +523,17 @@ class Run:
         for fl in filings:
             old = done.get(fl["accn"])
             if old and old.get("v") == EXTRACT_VERSION:
+                if need_op and "op" not in old:
+                    op, old["op"] = extract_operating(self.sec, self.info["cik"], fl["accn"])
+                    old["extra"] = [e for e in old.get("extra") or [] if e[0] != OP_TAG] + [
+                        [OP_TAG, start, end, val, "money"] for (start, end), val in sorted(op.items())]
                 continue
             ext, plain = extract_filing(self.sec, self.info["cik"], fl, stmt_rev, exclude)
             missing = fl["accn"] not in self.f.filings
             extra = []
             for tag, periods in plain.items():
                 for (start, end), (val, kind) in periods.items():
-                    if missing or tag.startswith("ext:") or (tag in ("CostOfGoodsAndServicesSold", "CostOfRevenue") and
+                    if missing or tag.startswith(("ext:", "calc:")) or (tag in ("CostOfGoodsAndServicesSold", "CostOfRevenue") and
                                    not any(r[1] == fl["accn"] for r in self.f.by_tag.get(tag, {}).get((start, end), []))):
                         extra.append([tag, start, end, val, kind])
             if missing:
@@ -674,9 +703,10 @@ def build(company, ctx, sec, res, write_state=True, force=False):
         if write_state:
             run.save()
         return None
-    n = run.segments(filings, built)
+    need_op = any(r.get("operating_income") is None and r.get("pretax_income") is not None for r in built.rows["income"])
+    n = run.segments(filings, built, need_op)
     if run.resolve_pending():
-        n += run.segments(filings, built)
+        n += run.segments(filings, built, need_op)
     if any(ext.get("extra") for ext in run.seg["filings"].values()):
         facts = run.facts(refresh=False)
         built = F.build_statements(facts, FIRST_YEAR, run.state.get("mapping"))

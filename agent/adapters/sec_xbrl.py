@@ -207,6 +207,29 @@ def parse_definitions(data):
     return children
 
 
+def parse_calculations(data):
+    """计算链接库（或内嵌的 .xsd）-> {角色: {父科目: [(子科目, 权重)]}}（summation-item 关系，XBRL 2.1 和计算 1.1 都认）。"""
+    out = {}
+    root = ET.parse(_as_file(data)).getroot()
+    for link in root.iter("{%s}calculationLink" % LINK):
+        role = link.get("{%s}role" % XLINK) or ""
+        locs = {}
+        for el in link:
+            if _local(el.tag) == "loc":
+                locs[el.get("{%s}label" % XLINK)] = _href_concept(el.get("{%s}href" % XLINK) or "")
+        tree = out.setdefault(role, {})
+        for el in link:
+            if _local(el.tag) == "calculationArc" and (el.get("{%s}arcrole" % XLINK) or "").endswith("summation-item"):
+                fr, to = locs.get(el.get("{%s}from" % XLINK)), locs.get(el.get("{%s}to" % XLINK))
+                try:
+                    w = float(el.get("weight") or "1")
+                except ValueError:
+                    continue
+                if fr and to and all(c != to for c, _ in tree.setdefault(fr, [])):
+                    tree[fr].append((to, w))
+    return out
+
+
 def best_label(labels, concept):
     """名称：优先简短标签，其次标准标签；去掉结尾的“[Member]”；都没有就把科目名拆成词。"""
     roles = labels.get(concept) or {}
@@ -535,3 +558,104 @@ def plain_facts(inst):
         if set(parts) == {"us-gaap:ProductMember", "us-gaap:ServiceMember"} and (start, end) not in out.get(tag, {}):
             out.setdefault(tag, {})[(start, end)] = (sum(parts.values()), "money")
     return out
+
+
+# ---------------- 营业利润（原文没单列时，从计算链接库推算） ----------------
+PRETAX_CONCEPTS = ("us-gaap:IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                   "us-gaap:IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments")
+# 营业外项目：利息收支、投资收益、其他营业外收支（含“其他（收益）费用净额”这类合并行）
+NONOP_CONCEPTS = {"us-gaap:" + c for c in (
+    "NonoperatingIncomeExpense", "OtherNonoperatingIncomeExpense", "OtherNonoperatingIncome", "OtherNonoperatingExpense",
+    "InterestExpense", "InterestExpenseNonoperating", "InterestExpenseDebt", "InterestExpenseOther", "InterestIncomeExpenseNet",
+    "InterestIncomeExpenseNonoperatingNet", "InterestAndOtherIncome", "InvestmentIncomeInterest", "InvestmentIncomeInterestAndDividend",
+    "InterestIncomeOther", "InvestmentIncomeNonoperating", "InterestAndDividendIncomeOperating", "OtherNonoperatingIncomeExpenseNet")}
+# 公司自定义科目按标签判断：“其他（收益）/费用/扣除净额”“利息收入/费用”“营业外”，但不能是“其他营业费用”
+NONOP_LABEL = re.compile(r"non-?operating|interest (income|expense)|^other \(?(income|expense|deductions?)", re.I)
+OPERATING_LABEL = re.compile(r"(?<!non)(?<!non-)operating", re.I)
+
+
+def is_nonoperating(concept, labels):
+    if concept in NONOP_CONCEPTS:
+        return True
+    if concept.startswith(("us-gaap:", "srt:")):
+        return False
+    lab = best_label(labels, concept)
+    return bool(NONOP_LABEL.search(lab)) and not OPERATING_LABEL.search(lab)
+
+
+def operating_from_calc(inst, calc, labels):
+    """原文没单列营业利润时：在利润表的计算关系里找税前利润的组成项，营业利润 = 税前利润 − 其中的营业外项目。
+    每个期间都要核对：税前利润（以及展开过的小计）= 各组成项按权重之和（容差：每项半个舍入单位），不成立的期间不推算。
+    返回 ({(start, end): 营业利润（元）}, 用到的营业外科目 [科目]）。"""
+    vals, half = {}, {}
+    for r in inst.fact_rows():
+        if r["dims"] or r["start"] is None or r["value"] is None:
+            continue
+        k = (r["concept"], r["start"], r["end"])
+        if k not in vals:
+            vals[k] = r["value"]
+            half[k] = half_unit(r.get("decimals"), r["value"]) * 1e6
+
+    def walk(tree, c, w, nonop):
+        """c 下面（按权重展开）的营业外项目 -> 累计权重；只展开含营业外项目的小计。"""
+        if is_nonoperating(c, labels):
+            nonop[c] = nonop.get(c, 0) + w
+            return
+        for ch, cw in tree.get(c, []):
+            walk(tree, ch, w * cw, nonop)
+
+    best = None      # 税前利润的组成项里有营业外项目的那张表（利润表；所得税附注里“境内 + 境外”那种不算）
+    for role in sorted(calc, key=lambda r: (not re.search(r"income|operations|earnings", r, re.I), r)):
+        tree = calc[role]
+        for pt in PRETAX_CONCEPTS:
+            if pt in tree and best is None:
+                nonop = {}
+                walk(tree, pt, 1.0, nonop)
+                if nonop:
+                    best = (tree, pt, nonop)
+    if best is None:
+        return {}, []
+    tree, pt, nonop = best
+    expanded = [pt] + sorted(c for c in _calc_below(tree, pt) if c in tree and not is_nonoperating(c, labels)
+                             and any(n in _calc_below(tree, c) for n in nonop))
+
+    def value(c, start, end):
+        """(数, 半个舍入单位之和)：有原文数用原文数；只在计算关系里出现的小计用组成项之和；都没有为 None。"""
+        k = (c, start, end)
+        if k in vals:
+            return vals[k], half[k]
+        if c in tree and not is_nonoperating(c, labels):
+            got = [(value(ch, start, end), w) for ch, w in tree[c]]
+            if any(x is not None for x, _ in got):
+                return sum(x[0] * w for x, w in got if x is not None), sum(x[1] for x, _ in got if x is not None)
+        return None
+
+    out = {}
+    for (c, start, end), v in vals.items():
+        if c != pt:
+            continue
+        ok = True
+        for parent in expanded:
+            if (parent, start, end) not in vals:
+                continue
+            got = [(value(ch, start, end), w) for ch, w in tree[parent]]
+            got = [(x, w) for x, w in got if x is not None]
+            s = sum(x[0] * w for x, w in got)
+            tol = half[(parent, start, end)] + sum(x[1] for x, _ in got)
+            if not got or abs(s - vals[(parent, start, end)]) > tol + 1e-6:
+                ok = False
+                break
+        parts = [(vals[(c2, start, end)], w) for c2, w in nonop.items() if (c2, start, end) in vals]
+        if ok and parts:
+            out[(start, end)] = v - sum(x * w for x, w in parts)
+    return out, sorted(nonop)
+
+
+def _calc_below(tree, c, seen=None):
+    """计算关系里 c 下面的所有科目。"""
+    seen = set() if seen is None else seen
+    for ch, _ in tree.get(c, []):
+        if ch not in seen:
+            seen.add(ch)
+            _calc_below(tree, ch, seen)
+    return seen

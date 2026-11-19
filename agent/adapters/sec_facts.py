@@ -14,7 +14,8 @@ us-gaap 标准科目，每个数带期间、申报编号（accn）和申报日�
   季度和年初至今取最新申报，全年取年初至今 9 个月那份申报之后的第一份 10-K（保证全年和 9 个月是同一批申报口径）；
   三个季度之和与年初至今对不上（说明这一年中间有重述），改用“首次申报”的一套数；都对不上就不推算第四季度并提醒。
 - 推算（都是原文列出的数之间的恒等关系）：没单列毛利时，毛利 = 营收 − 营业成本；没单列营业利润、但列了营业外收支合计时，
-  营业利润 = 税前利润 − 营业外收支合计；没单列总负债时，总负债 = 负债和权益合计 − 权益合计；销售费用和管理费用分列时 SG&A 为两者之和；
+  营业利润 = 税前利润 − 营业外收支合计；营业外收支也没合计时，按申报的计算链接库：营业利润 = 税前利润 − 它的营业外组成项
+  （利息收支、其他（收益）费用净额等；每期核对组成项之和 = 税前利润，出处列注明“营业利润为推算”）；没单列总负债时，总负债 = 负债和权益合计 − 权益合计；销售费用和管理费用分列时 SG&A 为两者之和；
   没单列合并净利润时，净利润 = 归母净利润 + 少数股东损益；列了毛利、没单列营业成本时，营业成本 = 营收 − 毛利；
   没有少数股东权益时，归母权益 = 权益合计。
 - 公司自定义科目（不在 companyfacts 里）：从每份申报的 XBRL 实例补进来（键 “ext:前缀:本地名”），经核对的覆盖映射才会用到。
@@ -54,6 +55,7 @@ AUX_MAP = [
     ("selling", ["SellingAndMarketingExpense", "SellingExpense"]),
     ("ga", ["GeneralAndAdministrativeExpense"]),
     ("nonoperating", ["NonoperatingIncomeExpense"]),
+    ("operating_calc", ["calc:OperatingIncomeLoss"]),      # 从申报的计算链接库推算的营业利润（见 sec_xbrl.operating_from_calc）
     ("nci", ["NetIncomeLossAttributableToNoncontrollingInterest"]),
     ("discontinued", ["IncomeLossFromDiscontinuedOperationsNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
                       "IncomeLossFromDiscontinuedOperationsNetOfTax",
@@ -328,7 +330,8 @@ def income_values(m, key, vintage, accn=None):
     if accn is None:
         return None
     out = {field: m.get(field, key, vintage, accn) for field in INCOME_FIELDS}
-    aux = {k: m.get(k, key, vintage, accn) for k in ("selling", "ga", "nonoperating", "nci", "discontinued", "equity_method")}
+    aux = {k: m.get(k, key, vintage, accn) for k in ("selling", "ga", "nonoperating", "operating_calc", "nci", "discontinued",
+                                                     "equity_method")}
     if out["sga"] is None and aux["ga"] is not None:
         out["sga"] = aux["ga"] + aux["selling"] if aux["selling"] is not None else aux["ga"]
     if out["gross_profit"] is None and out["revenue"] is not None and out["cost_of_sales"] is not None:
@@ -337,6 +340,9 @@ def income_values(m, key, vintage, accn=None):
         out["cost_of_sales"] = out["revenue"] - out["gross_profit"]       # 列了毛利、没单列营业成本时
     if out["operating_income"] is None and out["pretax_income"] is not None and aux["nonoperating"] is not None:
         out["operating_income"] = out["pretax_income"] - aux["nonoperating"]
+    if out["operating_income"] is None and aux["operating_calc"] is not None:
+        out["operating_income"] = aux["operating_calc"]      # 原文没单列营业利润、也没列营业外收支合计：按计算链接库推算
+        out["_op_calc"] = True
     if out["net_income"] is None and out["net_income_parent"] is not None:
         out["net_income"] = out["net_income_parent"] + aux["nci"] if aux["nci"] is not None else out["net_income_parent"]
     out["_discontinued"], out["_equity_method"] = aux["discontinued"], aux["equity_method"]
@@ -442,6 +448,8 @@ def _merge(primary, secondary):
             if not k.startswith("_") and row.get(k) is None and v is not None:
                 row[k] = v
                 row["_filled"] = secondary[p]["_accn"]
+                if k == "operating_income" and secondary[p].get("_op_calc"):
+                    row["_op_calc"] = True
         out[p] = row
     return out
 
@@ -502,7 +510,7 @@ def build_statements(facts, first_year=2021, overrides=None):
     m = Mapper(facts, overrides)
     cur = facts.currency
     income, cashflow, notes, warns, errors = [], [], [], [], []
-    vintage_used, after_tax_rows, used = {}, [], {}
+    vintage_used, after_tax_rows, used, op_calc_rows = {}, [], {}, []
     cal = fiscal_calendar(facts, first_year)
     anchor = m.anchor_tags("income_fallback" if m.no_revenue else "income")
     for fy in cal:
@@ -541,17 +549,18 @@ def build_statements(facts, first_year=2021, overrides=None):
             if q in vals:
                 row = _row_base(lab, q, per[q][0], per[q][1], 3, cur, "reported",
                                 _src(facts, [vals[q]["_accn"]], [vals[q].get("_filled")]))
-                income.append(_fill_income(row, vals[q], after_tax_rows, errors))
+                income.append(_fill_income(row, vals[q], after_tax_rows, errors, op_calc_rows))
         if "FY" in vals:
             fyv = vals["FY"]
             row = _row_base(lab, "FY", per["FY"][0], per["FY"][1], 12, cur, "reported", _src(facts, [fyv["_accn"]], [fyv.get("_filled")]))
-            income.append(_fill_income(row, fyv, after_tax_rows, errors))
+            income.append(_fill_income(row, fyv, after_tax_rows, errors, op_calc_rows))
             if "9M" in vals:
                 nine = vals["9M"]
                 q4 = {}
                 for field in ADDITIVE_INCOME:
                     a, b = fyv.get(field), nine.get(field)
                     q4[field] = a - b if a is not None and b is not None else None
+                q4["_op_calc"] = bool(fyv.get("_op_calc") or nine.get("_op_calc"))
                 for field in ("_discontinued", "_equity_method"):     # 税后项目只在第四季度出现时，前三季度没有这一行
                     a, b = fyv.get(field), nine.get(field)
                     q4[field] = a - b if a is not None and b is not None else a
@@ -563,7 +572,7 @@ def build_statements(facts, first_year=2021, overrides=None):
                 q4["shares_diluted"] = rep.get("shares_diluted") if rep else None
                 row = _row_base(lab, "Q4", q4key[0], q4key[1], 3, cur, "derived",
                                 _src(facts, [fyv["_accn"], nine["_accn"]], [fyv.get("_filled"), nine.get("_filled")]))
-                income.append(_fill_income(row, q4, after_tax_rows, errors))
+                income.append(_fill_income(row, q4, after_tax_rows, errors, op_calc_rows))
         # 现金流量表：同一财年用同一套申报口径（全年同样取 9 个月那份申报之后的第一份 10-K）
         cper = year_periods(facts, m.anchor_tags("cashflow"), fy)
         cvals = {}
@@ -606,6 +615,9 @@ def build_statements(facts, first_year=2021, overrides=None):
         notes.append("%s 财年的数后来被重述过，用最新申报（含重述）的一套数" % "、".join(later))
     if first:
         notes.append("%s 财年在年中有重述、最新申报的季度和年初至今对不上，用首次申报的一套数" % "、".join(first))
+    if op_calc_rows:
+        notes.append("原文没单列营业利润的 %d 期，营业利润为推算：税前利润 − 申报计算链接库里税前利润的营业外组成项（利息收支、"
+                     "其他（收益）费用净额等），每期都核对过组成项之和 = 税前利润" % len(op_calc_rows))
     if after_tax_rows:
         notes.append("净利润含终止经营或税后列示的权益法投资损益、不等于“税前利润 − 所得税”的期间，所得税留空：%s" % "、".join(after_tax_rows))
     b = Built()
@@ -614,13 +626,17 @@ def build_statements(facts, first_year=2021, overrides=None):
     return b
 
 
-def _fill_income(row, vals, after_tax_rows, errors):
+def _fill_income(row, vals, after_tax_rows, errors, op_calc_rows=None):
     row["_tol"] = {}
     for field in INCOME_FIELDS:
         v = vals.get(field)
         row[field] = _num(v)
         if v is not None:
             row["_tol"][field] = v.tol
+    if vals.get("_op_calc") and row.get("operating_income") is not None:
+        row["source"] += "；营业利润为推算（税前利润 − 营业外项目）"
+        if op_calc_rows is not None:
+            op_calc_rows.append("%s %s" % (row["fiscal_year"], row["fiscal_period"]))
     pt, tax, ni = vals.get("pretax_income"), vals.get("income_tax"), vals.get("net_income")
     if None in (pt, tax, ni):
         return row
