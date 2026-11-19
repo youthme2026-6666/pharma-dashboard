@@ -3,22 +3,22 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2021,Q1,2021-03-31,3,product,BotoxCosmetic,Botox Cosmetic,保妥适美容,Aesthetics,477,USD,millions,reported,SEC 10-Q 0001551152-21-000016
 2021,Q1,2021-03-31,3,product,JuvedermCollection,Juvederm Collection,乔雅登系列,Aesthetics,321,USD,millions,reported,SEC 10-Q 0001551152-21-000016
 2021,Q1,2021-03-31,3,product,OtherAesthetics,Other Aesthetics,其他医美产品,Aesthetics,343,USD,millions,reported,SEC 10-Q 0001551152-21-000016
-2021,Q1,2021-03-31,3,product,AlphaganCombigan,Alphagan/Combigan,Alphagan/Combigan,Eye Care,118,USD,millions,reported,SEC 10-Q 0001551152-21-000016
-2021,Q1,2021-03-31,3,product,LumiganGanfort,Lumigan/Ganfort,Lumigan/Ganfort,Eye Care,143,USD,millions,reported,SEC 10-Q 0001551152-21-000016
-2021,Q1,2021-03-31,3,product,OtherEyeCare,Other Eye Care,其他眼科产品,Eye Care,276,USD,millions,reported,SEC 10-Q 0001551152-21-000016
-2021,Q1,2021-03-31,3,product,Restasis,Restasis,Restasis,Eye Care,280,USD,millions,reported,SEC 10-Q 0001551152-21-000016
-2021,Q1,2021-03-31,3,product,Imbruvica,Imbruvica,亿珂,Hematologic Oncology,1268,USD,millions,reported,SEC 10-Q 0001551152-21-000016
-2021,Q1,2021-03-31,3,product,VENCLEXTA,Venclexta,唯可来,Hematologic Oncology,405,USD,millions,reported,SEC 10-Q 0001551152-21-000016
 2021,Q1,2021-03-31,3,product,HUMIRA,Humira,修美乐,Immunology,4867,USD,millions,reported,SEC 10-Q 0001551152-21-000016
 2021,Q1,2021-03-31,3,product,RINVOQ,Rinvoq,润尔服,Immunology,303,USD,millions,reported,SEC 10-Q 0001551152-21-000016
 2021,Q1,2021-03-31,3,product,SKYRIZI,Skyrizi,喜达诺,Immunology,574,USD,millions,reported,SEC 10-Q 0001551152-21-000016
+2021,Q1,2021-03-31,3,product,MAVYRET,Mavyret,美维乐（Mavyret）,Infectious Disease,415,USD,millions,reported,SEC 10-Q 0001551152-21-000016
 2021,Q1,2021-03-31,3,product,BotoxTherapeutic,Botox Therapeutic,保妥适治疗,Neuroscience,532,USD,millions,reported,SEC 10-Q 0001551152-21-000016
 2021,Q1,2021-03-31,3,product,Duodopa,Duodopa,多巴乐,Neuroscience,129,USD,millions,reported,SEC 10-Q 0001551152-21-000016
 2021,Q1,2021-03-31,3,product,OtherNeuroscience,Other Neuroscience,其他神经科学产品,Neuroscience,160,USD,millions,reported,SEC 10-Q 0001551152-21-000016
+2021,Q1,2021-03-31,3,product,Imbruvica,Imbruvica,亿珂,Oncology,1268,USD,millions,reported,SEC 10-Q 0001551152-21-000016
+2021,Q1,2021-03-31,3,product,Lupron,Lupron,鲁普罗林（Lupron）,Oncology,213,USD,millions,reported,SEC 10-Q 0001551152-21-000016
+2021,Q1,2021-03-31,3,product,VENCLEXTA,Venclexta,唯可来,Oncology,405,USD,millions,reported,SEC 10-Q 0001551152-21-000016
+2021,Q1,2021-03-31,3,product,AlphaganCombigan,Alphagan/Combigan,Alphagan/Combigan 眼科药物,Ophthalmology,118,USD,millions,reported,SEC 10-Q 0001551152-21-000016
+2021,Q1,2021-03-31,3,product,LumiganGanfort,Lumigan/Ganfort,Lumigan/Ganfort 眼科药物,Ophthalmology,143,USD,millions,reported,SEC 10-Q 0001551152-21-000016
+2021,Q1,2021-03-31,3,product,OtherEyeCare,Other Eye Care,其他眼科护理产品,Ophthalmology,276,USD,millions,reported,SEC 10-Q 0001551152-21-000016
+2021,Q1,2021-03-31,3,product,Restasis,Restasis,润洁滴眼液（Restasis）,Ophthalmology,280,USD,millions,reported,SEC 10-Q 0001551152-21-000016
+2021,Q1,2021-03-31,3,product,LinzessConstella,Linzess/Constella,林泽®（Linzess）,Other,222,USD,millions,reported,SEC 10-Q 0001551152-21-000016
 2021,Q1,2021-03-31,3,product,OtherProducts,All other (a),其他所有产品,Other,892,USD,millions,reported,SEC 10-Q 0001551152-21-000016
-2021,Q1,2021-03-31,3,product,LinzessConstella,Linzess/Constella,利那洛肽,Other Key Products,222,USD,millions,reported,SEC 10-Q 0001551152-21-000016
-2021,Q1,2021-03-31,3,product,Lupron,Lupron,Lupron,Other Key Products,213,USD,millions,reported,SEC 10-Q 0001551152-21-000016
-2021,Q1,2021-03-31,3,product,MAVYRET,Mavyret,迈锐捷,Other Key Products,415,USD,millions,reported,SEC 10-Q 0001551152-21-000016
 2021,Q1,2021-03-31,3,product,LoLoestrin,Lo Loestrin,Lo Loestrin,Women's Health,104,USD,millions,reported,SEC 10-Q 0001551152-21-000016
 2021,Q1,2021-03-31,3,product,OrilissaOriahnn,Orilissa/Oriahnn,Orilissa/Oriahnn,Women's Health,30,USD,millions,reported,SEC 10-Q 0001551152-21-000016
 2021,Q1,2021-03-31,3,product,OtherWomensHealth,Other Women's Health,其他女性健康产品,Women's Health,46,USD,millions,reported,SEC 10-Q 0001551152-21-000016
@@ -26,22 +26,22 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2021,Q2,2021-06-30,3,product,BotoxCosmetic,Botox Cosmetic,保妥适美容,Aesthetics,584,USD,millions,reported,SEC 10-Q 0001551152-21-000025
 2021,Q2,2021-06-30,3,product,JuvedermCollection,Juvederm Collection,乔雅登系列,Aesthetics,428,USD,millions,reported,SEC 10-Q 0001551152-21-000025
 2021,Q2,2021-06-30,3,product,OtherAesthetics,Other Aesthetics,其他医美产品,Aesthetics,422,USD,millions,reported,SEC 10-Q 0001551152-21-000025
-2021,Q2,2021-06-30,3,product,AlphaganCombigan,Alphagan/Combigan,Alphagan/Combigan,Eye Care,142,USD,millions,reported,SEC 10-Q 0001551152-21-000025
-2021,Q2,2021-06-30,3,product,LumiganGanfort,Lumigan/Ganfort,Lumigan/Ganfort,Eye Care,149,USD,millions,reported,SEC 10-Q 0001551152-21-000025
-2021,Q2,2021-06-30,3,product,OtherEyeCare,Other Eye Care,其他眼科产品,Eye Care,301,USD,millions,reported,SEC 10-Q 0001551152-21-000025
-2021,Q2,2021-06-30,3,product,Restasis,Restasis,Restasis,Eye Care,327,USD,millions,reported,SEC 10-Q 0001551152-21-000025
-2021,Q2,2021-06-30,3,product,Imbruvica,Imbruvica,亿珂,Hematologic Oncology,1381,USD,millions,reported,SEC 10-Q 0001551152-21-000025
-2021,Q2,2021-06-30,3,product,VENCLEXTA,Venclexta,唯可来,Hematologic Oncology,435,USD,millions,reported,SEC 10-Q 0001551152-21-000025
 2021,Q2,2021-06-30,3,product,HUMIRA,Humira,修美乐,Immunology,5068,USD,millions,reported,SEC 10-Q 0001551152-21-000025
 2021,Q2,2021-06-30,3,product,RINVOQ,Rinvoq,润尔服,Immunology,378,USD,millions,reported,SEC 10-Q 0001551152-21-000025
 2021,Q2,2021-06-30,3,product,SKYRIZI,Skyrizi,喜达诺,Immunology,674,USD,millions,reported,SEC 10-Q 0001551152-21-000025
+2021,Q2,2021-06-30,3,product,MAVYRET,Mavyret,美维乐（Mavyret）,Infectious Disease,442,USD,millions,reported,SEC 10-Q 0001551152-21-000025
 2021,Q2,2021-06-30,3,product,BotoxTherapeutic,Botox Therapeutic,保妥适治疗,Neuroscience,603,USD,millions,reported,SEC 10-Q 0001551152-21-000025
 2021,Q2,2021-06-30,3,product,Duodopa,Duodopa,多巴乐,Neuroscience,127,USD,millions,reported,SEC 10-Q 0001551152-21-000025
 2021,Q2,2021-06-30,3,product,OtherNeuroscience,Other Neuroscience,其他神经科学产品,Neuroscience,171,USD,millions,reported,SEC 10-Q 0001551152-21-000025
+2021,Q2,2021-06-30,3,product,Imbruvica,Imbruvica,亿珂,Oncology,1381,USD,millions,reported,SEC 10-Q 0001551152-21-000025
+2021,Q2,2021-06-30,3,product,Lupron,Lupron,鲁普罗林（Lupron）,Oncology,198,USD,millions,reported,SEC 10-Q 0001551152-21-000025
+2021,Q2,2021-06-30,3,product,VENCLEXTA,Venclexta,唯可来,Oncology,435,USD,millions,reported,SEC 10-Q 0001551152-21-000025
+2021,Q2,2021-06-30,3,product,AlphaganCombigan,Alphagan/Combigan,Alphagan/Combigan 眼科药物,Ophthalmology,142,USD,millions,reported,SEC 10-Q 0001551152-21-000025
+2021,Q2,2021-06-30,3,product,LumiganGanfort,Lumigan/Ganfort,Lumigan/Ganfort 眼科药物,Ophthalmology,149,USD,millions,reported,SEC 10-Q 0001551152-21-000025
+2021,Q2,2021-06-30,3,product,OtherEyeCare,Other Eye Care,其他眼科护理产品,Ophthalmology,301,USD,millions,reported,SEC 10-Q 0001551152-21-000025
+2021,Q2,2021-06-30,3,product,Restasis,Restasis,润洁滴眼液（Restasis）,Ophthalmology,327,USD,millions,reported,SEC 10-Q 0001551152-21-000025
+2021,Q2,2021-06-30,3,product,LinzessConstella,Linzess/Constella,林泽®（Linzess）,Other,268,USD,millions,reported,SEC 10-Q 0001551152-21-000025
 2021,Q2,2021-06-30,3,product,OtherProducts,All other,其他所有产品,Other,640,USD,millions,reported,SEC 10-Q 0001551152-21-000025
-2021,Q2,2021-06-30,3,product,LinzessConstella,Linzess/Constella,利那洛肽,Other Key Products,268,USD,millions,reported,SEC 10-Q 0001551152-21-000025
-2021,Q2,2021-06-30,3,product,Lupron,Lupron,Lupron,Other Key Products,198,USD,millions,reported,SEC 10-Q 0001551152-21-000025
-2021,Q2,2021-06-30,3,product,MAVYRET,Mavyret,迈锐捷,Other Key Products,442,USD,millions,reported,SEC 10-Q 0001551152-21-000025
 2021,Q2,2021-06-30,3,product,LoLoestrin,Lo Loestrin,Lo Loestrin,Women's Health,98,USD,millions,reported,SEC 10-Q 0001551152-21-000025
 2021,Q2,2021-06-30,3,product,OrilissaOriahnn,Orilissa/Oriahnn,Orilissa/Oriahnn,Women's Health,38,USD,millions,reported,SEC 10-Q 0001551152-21-000025
 2021,Q2,2021-06-30,3,product,OtherWomensHealth,Other Women's Health,其他女性健康产品,Women's Health,55,USD,millions,reported,SEC 10-Q 0001551152-21-000025
@@ -49,22 +49,22 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2021,Q3,2021-09-30,3,product,BotoxCosmetic,Botox Cosmetic,保妥适美容,Aesthetics,545,USD,millions,reported,SEC 10-Q 0001551152-21-000031
 2021,Q3,2021-09-30,3,product,JuvedermCollection,Juvederm Collection,乔雅登系列,Aesthetics,354,USD,millions,reported,SEC 10-Q 0001551152-21-000031
 2021,Q3,2021-09-30,3,product,OtherAesthetics,Other Aesthetics,其他医美产品,Aesthetics,352,USD,millions,reported,SEC 10-Q 0001551152-21-000031
-2021,Q3,2021-09-30,3,product,AlphaganCombigan,Alphagan/Combigan,Alphagan/Combigan,Eye Care,128,USD,millions,reported,SEC 10-Q 0001551152-21-000031
-2021,Q3,2021-09-30,3,product,LumiganGanfort,Lumigan/Ganfort,Lumigan/Ganfort,Eye Care,138,USD,millions,reported,SEC 10-Q 0001551152-21-000031
-2021,Q3,2021-09-30,3,product,OtherEyeCare,Other Eye Care,其他眼科产品,Eye Care,286,USD,millions,reported,SEC 10-Q 0001551152-21-000031
-2021,Q3,2021-09-30,3,product,Restasis,Restasis,Restasis,Eye Care,319,USD,millions,reported,SEC 10-Q 0001551152-21-000031
-2021,Q3,2021-09-30,3,product,Imbruvica,Imbruvica,亿珂,Hematologic Oncology,1374,USD,millions,reported,SEC 10-Q 0001551152-21-000031
-2021,Q3,2021-09-30,3,product,VENCLEXTA,Venclexta,唯可来,Hematologic Oncology,492,USD,millions,reported,SEC 10-Q 0001551152-21-000031
 2021,Q3,2021-09-30,3,product,HUMIRA,Humira,修美乐,Immunology,5425,USD,millions,reported,SEC 10-Q 0001551152-21-000031
 2021,Q3,2021-09-30,3,product,RINVOQ,Rinvoq,润尔服,Immunology,453,USD,millions,reported,SEC 10-Q 0001551152-21-000031
 2021,Q3,2021-09-30,3,product,SKYRIZI,Skyrizi,喜达诺,Immunology,796,USD,millions,reported,SEC 10-Q 0001551152-21-000031
+2021,Q3,2021-09-30,3,product,MAVYRET,Mavyret,美维乐（Mavyret）,Infectious Disease,426,USD,millions,reported,SEC 10-Q 0001551152-21-000031
 2021,Q3,2021-09-30,3,product,BotoxTherapeutic,Botox Therapeutic,保妥适治疗,Neuroscience,645,USD,millions,reported,SEC 10-Q 0001551152-21-000031
 2021,Q3,2021-09-30,3,product,Duodopa,Duodopa,多巴乐,Neuroscience,127,USD,millions,reported,SEC 10-Q 0001551152-21-000031
 2021,Q3,2021-09-30,3,product,OtherNeuroscience,Other Neuroscience,其他神经科学产品,Neuroscience,171,USD,millions,reported,SEC 10-Q 0001551152-21-000031
+2021,Q3,2021-09-30,3,product,Imbruvica,Imbruvica,亿珂,Oncology,1374,USD,millions,reported,SEC 10-Q 0001551152-21-000031
+2021,Q3,2021-09-30,3,product,Lupron,Lupron,鲁普罗林（Lupron）,Oncology,180,USD,millions,reported,SEC 10-Q 0001551152-21-000031
+2021,Q3,2021-09-30,3,product,VENCLEXTA,Venclexta,唯可来,Oncology,492,USD,millions,reported,SEC 10-Q 0001551152-21-000031
+2021,Q3,2021-09-30,3,product,AlphaganCombigan,Alphagan/Combigan,Alphagan/Combigan 眼科药物,Ophthalmology,128,USD,millions,reported,SEC 10-Q 0001551152-21-000031
+2021,Q3,2021-09-30,3,product,LumiganGanfort,Lumigan/Ganfort,Lumigan/Ganfort 眼科药物,Ophthalmology,138,USD,millions,reported,SEC 10-Q 0001551152-21-000031
+2021,Q3,2021-09-30,3,product,OtherEyeCare,Other Eye Care,其他眼科护理产品,Ophthalmology,286,USD,millions,reported,SEC 10-Q 0001551152-21-000031
+2021,Q3,2021-09-30,3,product,Restasis,Restasis,润洁滴眼液（Restasis）,Ophthalmology,319,USD,millions,reported,SEC 10-Q 0001551152-21-000031
+2021,Q3,2021-09-30,3,product,LinzessConstella,Linzess/Constella,林泽®（Linzess）,Other,261,USD,millions,reported,SEC 10-Q 0001551152-21-000031
 2021,Q3,2021-09-30,3,product,OtherProducts,All other,其他所有产品,Other,547,USD,millions,reported,SEC 10-Q 0001551152-21-000031
-2021,Q3,2021-09-30,3,product,LinzessConstella,Linzess/Constella,利那洛肽,Other Key Products,261,USD,millions,reported,SEC 10-Q 0001551152-21-000031
-2021,Q3,2021-09-30,3,product,Lupron,Lupron,Lupron,Other Key Products,180,USD,millions,reported,SEC 10-Q 0001551152-21-000031
-2021,Q3,2021-09-30,3,product,MAVYRET,Mavyret,迈锐捷,Other Key Products,426,USD,millions,reported,SEC 10-Q 0001551152-21-000031
 2021,Q3,2021-09-30,3,product,LoLoestrin,Lo Loestrin,Lo Loestrin,Women's Health,107,USD,millions,reported,SEC 10-Q 0001551152-21-000031
 2021,Q3,2021-09-30,3,product,OrilissaOriahnn,Orilissa/Oriahnn,Orilissa/Oriahnn,Women's Health,38,USD,millions,reported,SEC 10-Q 0001551152-21-000031
 2021,Q3,2021-09-30,3,product,OtherWomensHealth,Other Women's Health,其他女性健康产品,Women's Health,57,USD,millions,reported,SEC 10-Q 0001551152-21-000031
@@ -72,22 +72,22 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2021,Q4,2021-12-31,3,product,BotoxCosmetic,Botox Cosmetic,保妥适美容,Aesthetics,626,USD,millions,derived,SEC 10-K 0001551152-22-000007 − 10-Q 0001551152-21-000031
 2021,Q4,2021-12-31,3,product,JuvedermCollection,Juvederm Collection,乔雅登系列,Aesthetics,432,USD,millions,derived,SEC 10-K 0001551152-22-000007 − 10-Q 0001551152-21-000031
 2021,Q4,2021-12-31,3,product,OtherAesthetics,Other Aesthetics,其他医美产品,Aesthetics,349,USD,millions,derived,SEC 10-K 0001551152-22-000007 − 10-Q 0001551152-21-000031
-2021,Q4,2021-12-31,3,product,AlphaganCombigan,Alphagan/Combigan,Alphagan/Combigan,Eye Care,141,USD,millions,derived,SEC 10-K 0001551152-22-000007 − 10-Q 0001551152-21-000031
-2021,Q4,2021-12-31,3,product,LumiganGanfort,Lumigan/Ganfort,Lumigan/Ganfort,Eye Care,149,USD,millions,derived,SEC 10-K 0001551152-22-000007 − 10-Q 0001551152-21-000031
-2021,Q4,2021-12-31,3,product,OtherEyeCare,Other Eye Care,其他眼科产品,Eye Care,306,USD,millions,derived,SEC 10-K 0001551152-22-000007 − 10-Q 0001551152-21-000031
-2021,Q4,2021-12-31,3,product,Restasis,Restasis,Restasis,Eye Care,364,USD,millions,derived,SEC 10-K 0001551152-22-000007 − 10-Q 0001551152-21-000031
-2021,Q4,2021-12-31,3,product,Imbruvica,Imbruvica,亿珂,Hematologic Oncology,1385,USD,millions,derived,SEC 10-K 0001551152-22-000007 − 10-Q 0001551152-21-000031
-2021,Q4,2021-12-31,3,product,VENCLEXTA,Venclexta,唯可来,Hematologic Oncology,488,USD,millions,derived,SEC 10-K 0001551152-22-000007 − 10-Q 0001551152-21-000031
 2021,Q4,2021-12-31,3,product,HUMIRA,Humira,修美乐,Immunology,5334,USD,millions,derived,SEC 10-K 0001551152-22-000007 − 10-Q 0001551152-21-000031
 2021,Q4,2021-12-31,3,product,RINVOQ,Rinvoq,润尔服,Immunology,517,USD,millions,derived,SEC 10-K 0001551152-22-000007 − 10-Q 0001551152-21-000031
 2021,Q4,2021-12-31,3,product,SKYRIZI,Skyrizi,喜达诺,Immunology,895,USD,millions,derived,SEC 10-K 0001551152-22-000007 − 10-Q 0001551152-21-000031
+2021,Q4,2021-12-31,3,product,MAVYRET,Mavyret,美维乐（Mavyret）,Infectious Disease,427,USD,millions,derived,SEC 10-K 0001551152-22-000007 − 10-Q 0001551152-21-000031
 2021,Q4,2021-12-31,3,product,BotoxTherapeutic,Botox Therapeutic,保妥适治疗,Neuroscience,671,USD,millions,derived,SEC 10-K 0001551152-22-000007 − 10-Q 0001551152-21-000031
 2021,Q4,2021-12-31,3,product,Duodopa,Duodopa,多巴乐,Neuroscience,128,USD,millions,derived,SEC 10-K 0001551152-22-000007 − 10-Q 0001551152-21-000031
 2021,Q4,2021-12-31,3,product,OtherNeuroscience,Other Neuroscience,其他神经科学产品,Neuroscience,183,USD,millions,derived,SEC 10-K 0001551152-22-000007 − 10-Q 0001551152-21-000031
+2021,Q4,2021-12-31,3,product,Imbruvica,Imbruvica,亿珂,Oncology,1385,USD,millions,derived,SEC 10-K 0001551152-22-000007 − 10-Q 0001551152-21-000031
+2021,Q4,2021-12-31,3,product,Lupron,Lupron,鲁普罗林（Lupron）,Oncology,192,USD,millions,derived,SEC 10-K 0001551152-22-000007 − 10-Q 0001551152-21-000031
+2021,Q4,2021-12-31,3,product,VENCLEXTA,Venclexta,唯可来,Oncology,488,USD,millions,derived,SEC 10-K 0001551152-22-000007 − 10-Q 0001551152-21-000031
+2021,Q4,2021-12-31,3,product,AlphaganCombigan,Alphagan/Combigan,Alphagan/Combigan 眼科药物,Ophthalmology,141,USD,millions,derived,SEC 10-K 0001551152-22-000007 − 10-Q 0001551152-21-000031
+2021,Q4,2021-12-31,3,product,LumiganGanfort,Lumigan/Ganfort,Lumigan/Ganfort 眼科药物,Ophthalmology,149,USD,millions,derived,SEC 10-K 0001551152-22-000007 − 10-Q 0001551152-21-000031
+2021,Q4,2021-12-31,3,product,OtherEyeCare,Other Eye Care,其他眼科护理产品,Ophthalmology,306,USD,millions,derived,SEC 10-K 0001551152-22-000007 − 10-Q 0001551152-21-000031
+2021,Q4,2021-12-31,3,product,Restasis,Restasis,润洁滴眼液（Restasis）,Ophthalmology,364,USD,millions,derived,SEC 10-K 0001551152-22-000007 − 10-Q 0001551152-21-000031
+2021,Q4,2021-12-31,3,product,LinzessConstella,Linzess/Constella,林泽®（Linzess）,Other,287,USD,millions,derived,SEC 10-K 0001551152-22-000007 − 10-Q 0001551152-21-000031
 2021,Q4,2021-12-31,3,product,OtherProducts,All other,其他所有产品,Other,594,USD,millions,derived,SEC 10-K 0001551152-22-000007 − 10-Q 0001551152-21-000031
-2021,Q4,2021-12-31,3,product,LinzessConstella,Linzess/Constella,利那洛肽,Other Key Products,287,USD,millions,derived,SEC 10-K 0001551152-22-000007 − 10-Q 0001551152-21-000031
-2021,Q4,2021-12-31,3,product,Lupron,Lupron,Lupron,Other Key Products,192,USD,millions,derived,SEC 10-K 0001551152-22-000007 − 10-Q 0001551152-21-000031
-2021,Q4,2021-12-31,3,product,MAVYRET,Mavyret,迈锐捷,Other Key Products,427,USD,millions,derived,SEC 10-K 0001551152-22-000007 − 10-Q 0001551152-21-000031
 2021,Q4,2021-12-31,3,product,LoLoestrin,Lo Loestrin,Lo Loestrin,Women's Health,128,USD,millions,derived,SEC 10-K 0001551152-22-000007 − 10-Q 0001551152-21-000031
 2021,Q4,2021-12-31,3,product,OrilissaOriahnn,Orilissa/Oriahnn,Orilissa/Oriahnn,Women's Health,39,USD,millions,derived,SEC 10-K 0001551152-22-000007 − 10-Q 0001551152-21-000031
 2021,Q4,2021-12-31,3,product,OtherWomensHealth,Other Women's Health,其他女性健康产品,Women's Health,56,USD,millions,derived,SEC 10-K 0001551152-22-000007 − 10-Q 0001551152-21-000031
@@ -107,22 +107,22 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2021,FY,2021-12-31,12,product,BotoxCosmetic,Botox Cosmetic,保妥适美容,Aesthetics,2232,USD,millions,reported,SEC 10-K 0001551152-22-000007
 2021,FY,2021-12-31,12,product,JuvedermCollection,Juvederm Collection,乔雅登系列,Aesthetics,1535,USD,millions,reported,SEC 10-K 0001551152-22-000007
 2021,FY,2021-12-31,12,product,OtherAesthetics,Other Aesthetics,其他医美产品,Aesthetics,1466,USD,millions,reported,SEC 10-K 0001551152-22-000007
-2021,FY,2021-12-31,12,product,AlphaganCombigan,Alphagan/Combigan,Alphagan/Combigan,Eye Care,529,USD,millions,reported,SEC 10-K 0001551152-22-000007
-2021,FY,2021-12-31,12,product,LumiganGanfort,Lumigan/Ganfort,Lumigan/Ganfort,Eye Care,579,USD,millions,reported,SEC 10-K 0001551152-22-000007
-2021,FY,2021-12-31,12,product,OtherEyeCare,Other Eye Care,其他眼科产品,Eye Care,1169,USD,millions,reported,SEC 10-K 0001551152-22-000007
-2021,FY,2021-12-31,12,product,Restasis,Restasis,Restasis,Eye Care,1290,USD,millions,reported,SEC 10-K 0001551152-22-000007
-2021,FY,2021-12-31,12,product,Imbruvica,Imbruvica,亿珂,Hematologic Oncology,5408,USD,millions,reported,SEC 10-K 0001551152-22-000007
-2021,FY,2021-12-31,12,product,VENCLEXTA,Venclexta,唯可来,Hematologic Oncology,1820,USD,millions,reported,SEC 10-K 0001551152-22-000007
 2021,FY,2021-12-31,12,product,HUMIRA,Humira,修美乐,Immunology,20694,USD,millions,reported,SEC 10-K 0001551152-22-000007
 2021,FY,2021-12-31,12,product,RINVOQ,Rinvoq,润尔服,Immunology,1651,USD,millions,reported,SEC 10-K 0001551152-22-000007
 2021,FY,2021-12-31,12,product,SKYRIZI,Skyrizi,喜达诺,Immunology,2939,USD,millions,reported,SEC 10-K 0001551152-22-000007
+2021,FY,2021-12-31,12,product,MAVYRET,Mavyret,美维乐（Mavyret）,Infectious Disease,1710,USD,millions,reported,SEC 10-K 0001551152-22-000007
 2021,FY,2021-12-31,12,product,BotoxTherapeutic,Botox Therapeutic,保妥适治疗,Neuroscience,2451,USD,millions,reported,SEC 10-K 0001551152-22-000007
 2021,FY,2021-12-31,12,product,Duodopa,Duodopa,多巴乐,Neuroscience,511,USD,millions,reported,SEC 10-K 0001551152-22-000007
 2021,FY,2021-12-31,12,product,OtherNeuroscience,Other Neuroscience,其他神经科学产品,Neuroscience,685,USD,millions,reported,SEC 10-K 0001551152-22-000007
+2021,FY,2021-12-31,12,product,Imbruvica,Imbruvica,亿珂,Oncology,5408,USD,millions,reported,SEC 10-K 0001551152-22-000007
+2021,FY,2021-12-31,12,product,Lupron,Lupron,鲁普罗林（Lupron）,Oncology,783,USD,millions,reported,SEC 10-K 0001551152-22-000007
+2021,FY,2021-12-31,12,product,VENCLEXTA,Venclexta,唯可来,Oncology,1820,USD,millions,reported,SEC 10-K 0001551152-22-000007
+2021,FY,2021-12-31,12,product,AlphaganCombigan,Alphagan/Combigan,Alphagan/Combigan 眼科药物,Ophthalmology,529,USD,millions,reported,SEC 10-K 0001551152-22-000007
+2021,FY,2021-12-31,12,product,LumiganGanfort,Lumigan/Ganfort,Lumigan/Ganfort 眼科药物,Ophthalmology,579,USD,millions,reported,SEC 10-K 0001551152-22-000007
+2021,FY,2021-12-31,12,product,OtherEyeCare,Other Eye Care,其他眼科护理产品,Ophthalmology,1169,USD,millions,reported,SEC 10-K 0001551152-22-000007
+2021,FY,2021-12-31,12,product,Restasis,Restasis,润洁滴眼液（Restasis）,Ophthalmology,1290,USD,millions,reported,SEC 10-K 0001551152-22-000007
+2021,FY,2021-12-31,12,product,LinzessConstella,Linzess/Constella,林泽®（Linzess）,Other,1038,USD,millions,reported,SEC 10-K 0001551152-22-000007
 2021,FY,2021-12-31,12,product,OtherProducts,All other,其他所有产品,Other,2673,USD,millions,reported,SEC 10-K 0001551152-22-000007
-2021,FY,2021-12-31,12,product,LinzessConstella,Linzess/Constella,利那洛肽,Other Key Products,1038,USD,millions,reported,SEC 10-K 0001551152-22-000007
-2021,FY,2021-12-31,12,product,Lupron,Lupron,Lupron,Other Key Products,783,USD,millions,reported,SEC 10-K 0001551152-22-000007
-2021,FY,2021-12-31,12,product,MAVYRET,Mavyret,迈锐捷,Other Key Products,1710,USD,millions,reported,SEC 10-K 0001551152-22-000007
 2021,FY,2021-12-31,12,product,LoLoestrin,Lo Loestrin,Lo Loestrin,Women's Health,437,USD,millions,reported,SEC 10-K 0001551152-22-000007
 2021,FY,2021-12-31,12,product,OrilissaOriahnn,Orilissa/Oriahnn,Orilissa/Oriahnn,Women's Health,145,USD,millions,reported,SEC 10-K 0001551152-22-000007
 2021,FY,2021-12-31,12,product,OtherWomensHealth,Other Women's Health,其他女性健康产品,Women's Health,214,USD,millions,reported,SEC 10-K 0001551152-22-000007
@@ -130,82 +130,78 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2022,Q1,2022-03-31,3,product,BotoxCosmetic,Botox Cosmetic,保妥适美容,Aesthetics,641,USD,millions,reported,SEC 10-Q 0001551152-23-000023
 2022,Q1,2022-03-31,3,product,JuvedermCollection,Juvederm Collection,乔雅登系列,Aesthetics,410,USD,millions,reported,SEC 10-Q 0001551152-23-000023
 2022,Q1,2022-03-31,3,product,OtherAesthetics,Other Aesthetics,其他医美产品,Aesthetics,323,USD,millions,reported,SEC 10-Q 0001551152-23-000023
-2022,Q1,2022-03-31,3,product,AlphaganCombigan,Alphagan/Combigan,Alphagan/Combigan,Eye Care,107,USD,millions,reported,SEC 10-Q 0001551152-23-000023
-2022,Q1,2022-03-31,3,product,LumiganGanfort,Lumigan/Ganfort,Lumigan/Ganfort,Eye Care,140,USD,millions,reported,SEC 10-Q 0001551152-23-000023
-2022,Q1,2022-03-31,3,product,OtherEyeCare,Other Eye Care,其他眼科产品,Eye Care,171,USD,millions,reported,SEC 10-Q 0001551152-23-000023
-2022,Q1,2022-03-31,3,product,Ozurdex,Ozurdex,欧舒达,Eye Care,107,USD,millions,reported,SEC 10-Q 0001551152-23-000023
-2022,Q1,2022-03-31,3,product,Restasis,Restasis,Restasis,Eye Care,246,USD,millions,reported,SEC 10-Q 0001551152-23-000023
-2022,Q1,2022-03-31,3,product,Imbruvica,Imbruvica,亿珂,Hematologic Oncology,1173,USD,millions,reported,SEC 10-Q 0001551152-23-000023
-2022,Q1,2022-03-31,3,product,VENCLEXTA,Venclexta,唯可来,Hematologic Oncology,473,USD,millions,reported,SEC 10-Q 0001551152-23-000023
 2022,Q1,2022-03-31,3,product,HUMIRA,Humira,修美乐,Immunology,4736,USD,millions,reported,SEC 10-Q 0001551152-23-000023
 2022,Q1,2022-03-31,3,product,RINVOQ,Rinvoq,润尔服,Immunology,465,USD,millions,reported,SEC 10-Q 0001551152-23-000023
 2022,Q1,2022-03-31,3,product,SKYRIZI,Skyrizi,喜达诺,Immunology,940,USD,millions,reported,SEC 10-Q 0001551152-23-000023
+2022,Q1,2022-03-31,3,product,MAVYRET,Mavyret,美维乐（Mavyret）,Infectious Disease,380,USD,millions,reported,SEC 10-Q 0001551152-23-000023
 2022,Q1,2022-03-31,3,product,BotoxTherapeutic,Botox Therapeutic,保妥适治疗,Neuroscience,614,USD,millions,reported,SEC 10-Q 0001551152-23-000023
 2022,Q1,2022-03-31,3,product,Duodopa,Duodopa,多巴乐,Neuroscience,121,USD,millions,reported,SEC 10-Q 0001551152-23-000023
 2022,Q1,2022-03-31,3,product,OtherNeuroscience,Other Neuroscience,其他神经科学产品,Neuroscience,177,USD,millions,reported,SEC 10-Q 0001551152-23-000023
 2022,Q1,2022-03-31,3,product,Ubrelvy,Ubrelvy,Ubrelvy,Neuroscience,138,USD,millions,reported,SEC 10-Q 0001551152-23-000023
 2022,Q1,2022-03-31,3,product,Vraylar,Vraylar,Vraylar,Neuroscience,427,USD,millions,reported,SEC 10-Q 0001551152-23-000023
+2022,Q1,2022-03-31,3,product,Imbruvica,Imbruvica,亿珂,Oncology,1173,USD,millions,reported,SEC 10-Q 0001551152-23-000023
+2022,Q1,2022-03-31,3,product,VENCLEXTA,Venclexta,唯可来,Oncology,473,USD,millions,reported,SEC 10-Q 0001551152-23-000023
+2022,Q1,2022-03-31,3,product,AlphaganCombigan,Alphagan/Combigan,Alphagan/Combigan 眼科药物,Ophthalmology,107,USD,millions,reported,SEC 10-Q 0001551152-23-000023
+2022,Q1,2022-03-31,3,product,LumiganGanfort,Lumigan/Ganfort,Lumigan/Ganfort 眼科药物,Ophthalmology,140,USD,millions,reported,SEC 10-Q 0001551152-23-000023
+2022,Q1,2022-03-31,3,product,OtherEyeCare,Other Eye Care,其他眼科护理产品,Ophthalmology,171,USD,millions,reported,SEC 10-Q 0001551152-23-000023
+2022,Q1,2022-03-31,3,product,Ozurdex,Ozurdex,奥舒适（Ozurdex）,Ophthalmology,107,USD,millions,reported,SEC 10-Q 0001551152-23-000023
+2022,Q1,2022-03-31,3,product,Restasis,Restasis,润洁滴眼液（Restasis）,Ophthalmology,246,USD,millions,reported,SEC 10-Q 0001551152-23-000023
+2022,Q1,2022-03-31,3,product,LinzessConstella,Linzess/Constella,林泽®（Linzess）,Other,240,USD,millions,reported,SEC 10-Q 0001551152-23-000023
 2022,Q1,2022-03-31,3,product,OtherProducts,All other,其他所有产品,Other,1211,USD,millions,reported,SEC 10-Q 0001551152-23-000023
-2022,Q1,2022-03-31,3,product,LinzessConstella,Linzess/Constella,利那洛肽,Other Key Products,240,USD,millions,reported,SEC 10-Q 0001551152-23-000023
-2022,Q1,2022-03-31,3,product,MAVYRET,Mavyret,迈锐捷,Other Key Products,380,USD,millions,reported,SEC 10-Q 0001551152-23-000023
 2022,Q2,2022-06-30,3,product,OtherNotItemized,Other (not itemized),其他（未单列）,,318,USD,millions,derived,SEC 10-Q 0001551152-23-000033
 2022,Q2,2022-06-30,3,product,BotoxCosmetic,Botox Cosmetic,保妥适美容,Aesthetics,695,USD,millions,reported,SEC 10-Q 0001551152-23-000033
 2022,Q2,2022-06-30,3,product,JuvedermCollection,Juvederm Collection,乔雅登系列,Aesthetics,344,USD,millions,reported,SEC 10-Q 0001551152-23-000033
 2022,Q2,2022-06-30,3,product,OtherAesthetics,Other Aesthetics,其他医美产品,Aesthetics,332,USD,millions,reported,SEC 10-Q 0001551152-23-000033
-2022,Q2,2022-06-30,3,product,AlphaganCombigan,Alphagan/Combigan,Alphagan/Combigan,Eye Care,92,USD,millions,reported,SEC 10-Q 0001551152-23-000033
-2022,Q2,2022-06-30,3,product,LumiganGanfort,Lumigan/Ganfort,Lumigan/Ganfort,Eye Care,130,USD,millions,reported,SEC 10-Q 0001551152-23-000033
-2022,Q2,2022-06-30,3,product,OtherEyeCare,Other Eye Care,其他眼科产品,Eye Care,217,USD,millions,reported,SEC 10-Q 0001551152-23-000033
-2022,Q2,2022-06-30,3,product,Ozurdex,Ozurdex,欧舒达,Eye Care,110,USD,millions,reported,SEC 10-Q 0001551152-23-000033
-2022,Q2,2022-06-30,3,product,Restasis,Restasis,Restasis,Eye Care,168,USD,millions,reported,SEC 10-Q 0001551152-23-000033
-2022,Q2,2022-06-30,3,product,Imbruvica,Imbruvica,亿珂,Hematologic Oncology,1145,USD,millions,reported,SEC 10-Q 0001551152-23-000033
-2022,Q2,2022-06-30,3,product,VENCLEXTA,Venclexta,唯可来,Hematologic Oncology,505,USD,millions,reported,SEC 10-Q 0001551152-23-000033
 2022,Q2,2022-06-30,3,product,HUMIRA,Humira,修美乐,Immunology,5363,USD,millions,reported,SEC 10-Q 0001551152-23-000033
 2022,Q2,2022-06-30,3,product,RINVOQ,Rinvoq,润尔服,Immunology,592,USD,millions,reported,SEC 10-Q 0001551152-23-000033
 2022,Q2,2022-06-30,3,product,SKYRIZI,Skyrizi,喜达诺,Immunology,1252,USD,millions,reported,SEC 10-Q 0001551152-23-000033
+2022,Q2,2022-06-30,3,product,MAVYRET,Mavyret,美维乐（Mavyret）,Infectious Disease,398,USD,millions,reported,SEC 10-Q 0001551152-23-000033
 2022,Q2,2022-06-30,3,product,BotoxTherapeutic,Botox Therapeutic,保妥适治疗,Neuroscience,678,USD,millions,reported,SEC 10-Q 0001551152-23-000033
 2022,Q2,2022-06-30,3,product,Duodopa,Duodopa,多巴乐,Neuroscience,120,USD,millions,reported,SEC 10-Q 0001551152-23-000033
 2022,Q2,2022-06-30,3,product,OtherNeuroscience,Other Neuroscience,其他神经科学产品,Neuroscience,150,USD,millions,reported,SEC 10-Q 0001551152-23-000033
 2022,Q2,2022-06-30,3,product,Qulipta,Qulipta,Qulipta,Neuroscience,33,USD,millions,reported,SEC 10-Q 0001551152-23-000033
 2022,Q2,2022-06-30,3,product,Ubrelvy,Ubrelvy,Ubrelvy,Neuroscience,185,USD,millions,reported,SEC 10-Q 0001551152-23-000033
 2022,Q2,2022-06-30,3,product,Vraylar,Vraylar,Vraylar,Neuroscience,492,USD,millions,reported,SEC 10-Q 0001551152-23-000033
+2022,Q2,2022-06-30,3,product,Imbruvica,Imbruvica,亿珂,Oncology,1145,USD,millions,reported,SEC 10-Q 0001551152-23-000033
+2022,Q2,2022-06-30,3,product,VENCLEXTA,Venclexta,唯可来,Oncology,505,USD,millions,reported,SEC 10-Q 0001551152-23-000033
+2022,Q2,2022-06-30,3,product,AlphaganCombigan,Alphagan/Combigan,Alphagan/Combigan 眼科药物,Ophthalmology,92,USD,millions,reported,SEC 10-Q 0001551152-23-000033
+2022,Q2,2022-06-30,3,product,LumiganGanfort,Lumigan/Ganfort,Lumigan/Ganfort 眼科药物,Ophthalmology,130,USD,millions,reported,SEC 10-Q 0001551152-23-000033
+2022,Q2,2022-06-30,3,product,OtherEyeCare,Other Eye Care,其他眼科护理产品,Ophthalmology,217,USD,millions,reported,SEC 10-Q 0001551152-23-000033
+2022,Q2,2022-06-30,3,product,Ozurdex,Ozurdex,奥舒适（Ozurdex）,Ophthalmology,110,USD,millions,reported,SEC 10-Q 0001551152-23-000033
+2022,Q2,2022-06-30,3,product,Restasis,Restasis,润洁滴眼液（Restasis）,Ophthalmology,168,USD,millions,reported,SEC 10-Q 0001551152-23-000033
+2022,Q2,2022-06-30,3,product,LinzessConstella,Linzess/Constella,林泽®（Linzess）,Other,255,USD,millions,reported,SEC 10-Q 0001551152-23-000033
 2022,Q2,2022-06-30,3,product,OtherProducts,All other,其他所有产品,Other,1009,USD,millions,reported,SEC 10-Q 0001551152-23-000033
-2022,Q2,2022-06-30,3,product,LinzessConstella,Linzess/Constella,利那洛肽,Other Key Products,255,USD,millions,reported,SEC 10-Q 0001551152-23-000033
-2022,Q2,2022-06-30,3,product,MAVYRET,Mavyret,迈锐捷,Other Key Products,398,USD,millions,reported,SEC 10-Q 0001551152-23-000033
 2022,Q3,2022-09-30,3,product,OtherNotItemized,Other (not itemized),其他（未单列）,,336,USD,millions,derived,SEC 10-Q 0001551152-23-000045
 2022,Q3,2022-09-30,3,product,BotoxCosmetic,Botox Cosmetic,保妥适美容,Aesthetics,637,USD,millions,reported,SEC 10-Q 0001551152-23-000045
 2022,Q3,2022-09-30,3,product,JuvedermCollection,Juvederm Collection,乔雅登系列,Aesthetics,352,USD,millions,reported,SEC 10-Q 0001551152-23-000045
 2022,Q3,2022-09-30,3,product,OtherAesthetics,Other Aesthetics,其他医美产品,Aesthetics,312,USD,millions,reported,SEC 10-Q 0001551152-23-000045
-2022,Q3,2022-09-30,3,product,AlphaganCombigan,Alphagan/Combigan,Alphagan/Combigan,Eye Care,73,USD,millions,reported,SEC 10-Q 0001551152-23-000045
-2022,Q3,2022-09-30,3,product,LumiganGanfort,Lumigan/Ganfort,Lumigan/Ganfort,Eye Care,121,USD,millions,reported,SEC 10-Q 0001551152-23-000045
-2022,Q3,2022-09-30,3,product,OtherEyeCare,Other Eye Care,其他眼科产品,Eye Care,181,USD,millions,reported,SEC 10-Q 0001551152-23-000045
-2022,Q3,2022-09-30,3,product,Ozurdex,Ozurdex,欧舒达,Eye Care,106,USD,millions,reported,SEC 10-Q 0001551152-23-000045
-2022,Q3,2022-09-30,3,product,Restasis,Restasis,Restasis,Eye Care,142,USD,millions,reported,SEC 10-Q 0001551152-23-000045
-2022,Q3,2022-09-30,3,product,Imbruvica,Imbruvica,亿珂,Hematologic Oncology,1135,USD,millions,reported,SEC 10-Q 0001551152-23-000045
-2022,Q3,2022-09-30,3,product,VENCLEXTA,Venclexta,唯可来,Hematologic Oncology,515,USD,millions,reported,SEC 10-Q 0001551152-23-000045
 2022,Q3,2022-09-30,3,product,HUMIRA,Humira,修美乐,Immunology,5559,USD,millions,reported,SEC 10-Q 0001551152-23-000045
 2022,Q3,2022-09-30,3,product,RINVOQ,Rinvoq,润尔服,Immunology,695,USD,millions,reported,SEC 10-Q 0001551152-23-000045
 2022,Q3,2022-09-30,3,product,SKYRIZI,Skyrizi,喜达诺,Immunology,1397,USD,millions,reported,SEC 10-Q 0001551152-23-000045
+2022,Q3,2022-09-30,3,product,MAVYRET,Mavyret,美维乐（Mavyret）,Infectious Disease,383,USD,millions,reported,SEC 10-Q 0001551152-23-000045
 2022,Q3,2022-09-30,3,product,BotoxTherapeutic,Botox Therapeutic,保妥适治疗,Neuroscience,699,USD,millions,reported,SEC 10-Q 0001551152-23-000045
 2022,Q3,2022-09-30,3,product,Duodopa,Duodopa,多巴乐,Neuroscience,110,USD,millions,reported,SEC 10-Q 0001551152-23-000045
 2022,Q3,2022-09-30,3,product,OtherNeuroscience,Other Neuroscience,其他神经科学产品,Neuroscience,87,USD,millions,reported,SEC 10-Q 0001551152-23-000045
 2022,Q3,2022-09-30,3,product,Qulipta,Qulipta,Qulipta,Neuroscience,62,USD,millions,reported,SEC 10-Q 0001551152-23-000045
 2022,Q3,2022-09-30,3,product,Ubrelvy,Ubrelvy,Ubrelvy,Neuroscience,160,USD,millions,reported,SEC 10-Q 0001551152-23-000045
 2022,Q3,2022-09-30,3,product,Vraylar,Vraylar,Vraylar,Neuroscience,554,USD,millions,reported,SEC 10-Q 0001551152-23-000045
+2022,Q3,2022-09-30,3,product,Imbruvica,Imbruvica,亿珂,Oncology,1135,USD,millions,reported,SEC 10-Q 0001551152-23-000045
+2022,Q3,2022-09-30,3,product,VENCLEXTA,Venclexta,唯可来,Oncology,515,USD,millions,reported,SEC 10-Q 0001551152-23-000045
+2022,Q3,2022-09-30,3,product,AlphaganCombigan,Alphagan/Combigan,Alphagan/Combigan 眼科药物,Ophthalmology,73,USD,millions,reported,SEC 10-Q 0001551152-23-000045
+2022,Q3,2022-09-30,3,product,LumiganGanfort,Lumigan/Ganfort,Lumigan/Ganfort 眼科药物,Ophthalmology,121,USD,millions,reported,SEC 10-Q 0001551152-23-000045
+2022,Q3,2022-09-30,3,product,OtherEyeCare,Other Eye Care,其他眼科护理产品,Ophthalmology,181,USD,millions,reported,SEC 10-Q 0001551152-23-000045
+2022,Q3,2022-09-30,3,product,Ozurdex,Ozurdex,奥舒适（Ozurdex）,Ophthalmology,106,USD,millions,reported,SEC 10-Q 0001551152-23-000045
+2022,Q3,2022-09-30,3,product,Restasis,Restasis,润洁滴眼液（Restasis）,Ophthalmology,142,USD,millions,reported,SEC 10-Q 0001551152-23-000045
+2022,Q3,2022-09-30,3,product,LinzessConstella,Linzess/Constella,林泽®（Linzess）,Other,271,USD,millions,reported,SEC 10-Q 0001551152-23-000045
 2022,Q3,2022-09-30,3,product,OtherProducts,All other,其他所有产品,Other,925,USD,millions,reported,SEC 10-Q 0001551152-23-000045
-2022,Q3,2022-09-30,3,product,LinzessConstella,Linzess/Constella,利那洛肽,Other Key Products,271,USD,millions,reported,SEC 10-Q 0001551152-23-000045
-2022,Q3,2022-09-30,3,product,MAVYRET,Mavyret,迈锐捷,Other Key Products,383,USD,millions,reported,SEC 10-Q 0001551152-23-000045
 2022,Q4,2022-12-31,3,product,OtherNotItemized,Other (not itemized),其他（未单列）,,337,USD,millions,derived,SEC 10-K 0001551152-24-000011 − 10-Q 0001551152-23-000045
 2022,Q4,2022-12-31,3,product,BotoxCosmetic,Botox Cosmetic,保妥适美容,Aesthetics,642,USD,millions,derived,SEC 10-K 0001551152-24-000011 − 10-Q 0001551152-23-000045
 2022,Q4,2022-12-31,3,product,JuvedermCollection,Juvederm Collection,乔雅登系列,Aesthetics,322,USD,millions,derived,SEC 10-K 0001551152-24-000011 − 10-Q 0001551152-23-000045
 2022,Q4,2022-12-31,3,product,OtherAesthetics,Other Aesthetics,其他医美产品,Aesthetics,323,USD,millions,derived,SEC 10-K 0001551152-24-000011 − 10-Q 0001551152-23-000045
-2022,Q4,2022-12-31,3,product,AlphaganCombigan,Alphagan/Combigan,Alphagan/Combigan,Eye Care,74,USD,millions,derived,SEC 10-K 0001551152-24-000011 − 10-Q 0001551152-23-000045
-2022,Q4,2022-12-31,3,product,LumiganGanfort,Lumigan/Ganfort,Lumigan/Ganfort,Eye Care,123,USD,millions,derived,SEC 10-K 0001551152-24-000011 − 10-Q 0001551152-23-000045
-2022,Q4,2022-12-31,3,product,OtherEyeCare,Other Eye Care,其他眼科产品,Eye Care,178,USD,millions,derived,SEC 10-K 0001551152-24-000011 − 10-Q 0001551152-23-000045
-2022,Q4,2022-12-31,3,product,Ozurdex,Ozurdex,欧舒达,Eye Care,105,USD,millions,derived,SEC 10-K 0001551152-24-000011 − 10-Q 0001551152-23-000045
-2022,Q4,2022-12-31,3,product,Restasis,Restasis,Restasis,Eye Care,110,USD,millions,derived,SEC 10-K 0001551152-24-000011 − 10-Q 0001551152-23-000045
 2022,Q4,2022-12-31,3,product,HUMIRA,Humira,修美乐,Immunology,5579,USD,millions,derived,SEC 10-K 0001551152-24-000011 − 10-Q 0001551152-23-000045
 2022,Q4,2022-12-31,3,product,RINVOQ,Rinvoq,润尔服,Immunology,770,USD,millions,derived,SEC 10-K 0001551152-24-000011 − 10-Q 0001551152-23-000045
 2022,Q4,2022-12-31,3,product,SKYRIZI,Skyrizi,喜达诺,Immunology,1576,USD,millions,derived,SEC 10-K 0001551152-24-000011 − 10-Q 0001551152-23-000045
+2022,Q4,2022-12-31,3,product,MAVYRET,Mavyret,美维乐（Mavyret）,Infectious Disease,380,USD,millions,derived,SEC 10-K 0001551152-24-000011 − 10-Q 0001551152-23-000045
 2022,Q4,2022-12-31,3,product,BotoxTherapeutic,Botox Therapeutic,保妥适治疗,Neuroscience,728,USD,millions,derived,SEC 10-K 0001551152-24-000011 − 10-Q 0001551152-23-000045
 2022,Q4,2022-12-31,3,product,Duodopa,Duodopa,多巴乐,Neuroscience,107,USD,millions,derived,SEC 10-K 0001551152-24-000011 − 10-Q 0001551152-23-000045
 2022,Q4,2022-12-31,3,product,OtherNeuroscience,Other Neuroscience,其他神经科学产品,Neuroscience,61,USD,millions,derived,SEC 10-K 0001551152-24-000011 − 10-Q 0001551152-23-000045
@@ -214,9 +210,13 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2022,Q4,2022-12-31,3,product,Vraylar,Vraylar,Vraylar,Neuroscience,565,USD,millions,derived,SEC 10-K 0001551152-24-000011 − 10-Q 0001551152-23-000045
 2022,Q4,2022-12-31,3,product,Imbruvica,Imbruvica,亿珂,Oncology,1115,USD,millions,derived,SEC 10-K 0001551152-24-000011 − 10-Q 0001551152-23-000045
 2022,Q4,2022-12-31,3,product,VENCLEXTA,Venclexta,唯可来,Oncology,516,USD,millions,derived,SEC 10-K 0001551152-24-000011 − 10-Q 0001551152-23-000045
+2022,Q4,2022-12-31,3,product,AlphaganCombigan,Alphagan/Combigan,Alphagan/Combigan 眼科药物,Ophthalmology,74,USD,millions,derived,SEC 10-K 0001551152-24-000011 − 10-Q 0001551152-23-000045
+2022,Q4,2022-12-31,3,product,LumiganGanfort,Lumigan/Ganfort,Lumigan/Ganfort 眼科药物,Ophthalmology,123,USD,millions,derived,SEC 10-K 0001551152-24-000011 − 10-Q 0001551152-23-000045
+2022,Q4,2022-12-31,3,product,OtherEyeCare,Other Eye Care,其他眼科护理产品,Ophthalmology,178,USD,millions,derived,SEC 10-K 0001551152-24-000011 − 10-Q 0001551152-23-000045
+2022,Q4,2022-12-31,3,product,Ozurdex,Ozurdex,奥舒适（Ozurdex）,Ophthalmology,105,USD,millions,derived,SEC 10-K 0001551152-24-000011 − 10-Q 0001551152-23-000045
+2022,Q4,2022-12-31,3,product,Restasis,Restasis,润洁滴眼液（Restasis）,Ophthalmology,110,USD,millions,derived,SEC 10-K 0001551152-24-000011 − 10-Q 0001551152-23-000045
+2022,Q4,2022-12-31,3,product,LinzessConstella,Linzess/Constella,林泽®（Linzess）,Other,269,USD,millions,derived,SEC 10-K 0001551152-24-000011 − 10-Q 0001551152-23-000045
 2022,Q4,2022-12-31,3,product,OtherProducts,All other,其他所有产品,Other,992,USD,millions,derived,SEC 10-K 0001551152-24-000011 − 10-Q 0001551152-23-000045
-2022,Q4,2022-12-31,3,product,LinzessConstella,Linzess/Constella,利那洛肽,Other Key Products,269,USD,millions,derived,SEC 10-K 0001551152-24-000011 − 10-Q 0001551152-23-000045
-2022,Q4,2022-12-31,3,product,MAVYRET,Mavyret,迈锐捷,Other Key Products,380,USD,millions,derived,SEC 10-K 0001551152-24-000011 − 10-Q 0001551152-23-000045
 2022,FY,2022-12-31,12,geography,AU,Australia,澳大利亚,,508,USD,millions,reported,SEC 10-K 0001551152-23-000011
 2022,FY,2022-12-31,12,geography,BR,Brazil,巴西,,430,USD,millions,reported,SEC 10-K 0001551152-23-000011
 2022,FY,2022-12-31,12,geography,CA,Canada,加拿大,,1159,USD,millions,reported,SEC 10-K 0001551152-23-000011
@@ -233,14 +233,10 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2022,FY,2022-12-31,12,product,BotoxCosmetic,Botox Cosmetic,保妥适美容,Aesthetics,2615,USD,millions,reported,SEC 10-K 0001551152-24-000011
 2022,FY,2022-12-31,12,product,JuvedermCollection,Juvederm Collection,乔雅登系列,Aesthetics,1428,USD,millions,reported,SEC 10-K 0001551152-24-000011
 2022,FY,2022-12-31,12,product,OtherAesthetics,Other Aesthetics,其他医美产品,Aesthetics,1290,USD,millions,reported,SEC 10-K 0001551152-24-000011
-2022,FY,2022-12-31,12,product,AlphaganCombigan,Alphagan/Combigan,Alphagan/Combigan,Eye Care,346,USD,millions,reported,SEC 10-K 0001551152-24-000011
-2022,FY,2022-12-31,12,product,LumiganGanfort,Lumigan/Ganfort,Lumigan/Ganfort,Eye Care,514,USD,millions,reported,SEC 10-K 0001551152-24-000011
-2022,FY,2022-12-31,12,product,OtherEyeCare,Other Eye Care,其他眼科产品,Eye Care,747,USD,millions,reported,SEC 10-K 0001551152-24-000011
-2022,FY,2022-12-31,12,product,Ozurdex,Ozurdex,欧舒达,Eye Care,428,USD,millions,reported,SEC 10-K 0001551152-24-000011
-2022,FY,2022-12-31,12,product,Restasis,Restasis,Restasis,Eye Care,666,USD,millions,reported,SEC 10-K 0001551152-24-000011
 2022,FY,2022-12-31,12,product,HUMIRA,Humira,修美乐,Immunology,21237,USD,millions,reported,SEC 10-K 0001551152-24-000011
 2022,FY,2022-12-31,12,product,RINVOQ,Rinvoq,润尔服,Immunology,2522,USD,millions,reported,SEC 10-K 0001551152-24-000011
 2022,FY,2022-12-31,12,product,SKYRIZI,Skyrizi,喜达诺,Immunology,5165,USD,millions,reported,SEC 10-K 0001551152-24-000011
+2022,FY,2022-12-31,12,product,MAVYRET,Mavyret,美维乐（Mavyret）,Infectious Disease,1541,USD,millions,reported,SEC 10-K 0001551152-24-000011
 2022,FY,2022-12-31,12,product,BotoxTherapeutic,Botox Therapeutic,保妥适治疗,Neuroscience,2719,USD,millions,reported,SEC 10-K 0001551152-24-000011
 2022,FY,2022-12-31,12,product,Duodopa,Duodopa,多巴乐,Neuroscience,458,USD,millions,reported,SEC 10-K 0001551152-24-000011
 2022,FY,2022-12-31,12,product,OtherNeuroscience,Other Neuroscience,其他神经科学产品,Neuroscience,475,USD,millions,reported,SEC 10-K 0001551152-24-000011
@@ -249,93 +245,93 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2022,FY,2022-12-31,12,product,Vraylar,Vraylar,Vraylar,Neuroscience,2038,USD,millions,reported,SEC 10-K 0001551152-24-000011
 2022,FY,2022-12-31,12,product,Imbruvica,Imbruvica,亿珂,Oncology,4568,USD,millions,reported,SEC 10-K 0001551152-24-000011
 2022,FY,2022-12-31,12,product,VENCLEXTA,Venclexta,唯可来,Oncology,2009,USD,millions,reported,SEC 10-K 0001551152-24-000011
+2022,FY,2022-12-31,12,product,AlphaganCombigan,Alphagan/Combigan,Alphagan/Combigan 眼科药物,Ophthalmology,346,USD,millions,reported,SEC 10-K 0001551152-24-000011
+2022,FY,2022-12-31,12,product,LumiganGanfort,Lumigan/Ganfort,Lumigan/Ganfort 眼科药物,Ophthalmology,514,USD,millions,reported,SEC 10-K 0001551152-24-000011
+2022,FY,2022-12-31,12,product,OtherEyeCare,Other Eye Care,其他眼科护理产品,Ophthalmology,747,USD,millions,reported,SEC 10-K 0001551152-24-000011
+2022,FY,2022-12-31,12,product,Ozurdex,Ozurdex,奥舒适（Ozurdex）,Ophthalmology,428,USD,millions,reported,SEC 10-K 0001551152-24-000011
+2022,FY,2022-12-31,12,product,Restasis,Restasis,润洁滴眼液（Restasis）,Ophthalmology,666,USD,millions,reported,SEC 10-K 0001551152-24-000011
+2022,FY,2022-12-31,12,product,LinzessConstella,Linzess/Constella,林泽®（Linzess）,Other,1035,USD,millions,reported,SEC 10-K 0001551152-24-000011
 2022,FY,2022-12-31,12,product,OtherProducts,All other,其他所有产品,Other,4137,USD,millions,reported,SEC 10-K 0001551152-24-000011
-2022,FY,2022-12-31,12,product,LinzessConstella,Linzess/Constella,利那洛肽,Other Key Products,1035,USD,millions,reported,SEC 10-K 0001551152-24-000011
-2022,FY,2022-12-31,12,product,MAVYRET,Mavyret,迈锐捷,Other Key Products,1541,USD,millions,reported,SEC 10-K 0001551152-24-000011
 2023,Q1,2023-03-31,3,product,OtherNotItemized,Other (not itemized),其他（未单列）,,305,USD,millions,derived,SEC 10-Q 0001551152-24-000020
 2023,Q1,2023-03-31,3,product,BotoxCosmetic,Botox Cosmetic,保妥适美容,Aesthetics,659,USD,millions,reported,SEC 10-Q 0001551152-24-000020
 2023,Q1,2023-03-31,3,product,JuvedermCollection,Juvederm Collection,乔雅登系列,Aesthetics,355,USD,millions,reported,SEC 10-Q 0001551152-24-000020
 2023,Q1,2023-03-31,3,product,OtherAesthetics,Other Aesthetics,其他医美产品,Aesthetics,286,USD,millions,reported,SEC 10-Q 0001551152-24-000020
-2023,Q1,2023-03-31,3,product,AlphaganCombigan,Alphagan/Combigan,Alphagan/Combigan,Eye Care,71,USD,millions,reported,SEC 10-Q 0001551152-24-000020
-2023,Q1,2023-03-31,3,product,LumiganGanfort,Lumigan/Ganfort,Lumigan/Ganfort,Eye Care,130,USD,millions,reported,SEC 10-Q 0001551152-24-000020
-2023,Q1,2023-03-31,3,product,OtherEyeCare,Other Eye Care,其他眼科产品,Eye Care,200,USD,millions,reported,SEC 10-Q 0001551152-24-000020
-2023,Q1,2023-03-31,3,product,Ozurdex,Ozurdex,欧舒达,Eye Care,115,USD,millions,reported,SEC 10-Q 0001551152-24-000020
-2023,Q1,2023-03-31,3,product,Restasis,Restasis,Restasis,Eye Care,92,USD,millions,reported,SEC 10-Q 0001551152-24-000020
-2023,Q1,2023-03-31,3,product,Epkinly,Epkinly,Epkinly,Hematologic Oncology,0,USD,millions,reported,SEC 10-Q 0001551152-24-000020
-2023,Q1,2023-03-31,3,product,Imbruvica,Imbruvica,亿珂,Hematologic Oncology,878,USD,millions,reported,SEC 10-Q 0001551152-24-000020
-2023,Q1,2023-03-31,3,product,VENCLEXTA,Venclexta,唯可来,Hematologic Oncology,538,USD,millions,reported,SEC 10-Q 0001551152-24-000020
 2023,Q1,2023-03-31,3,product,HUMIRA,Humira,修美乐,Immunology,3541,USD,millions,reported,SEC 10-Q 0001551152-24-000020
 2023,Q1,2023-03-31,3,product,RINVOQ,Rinvoq,润尔服,Immunology,686,USD,millions,reported,SEC 10-Q 0001551152-24-000020
 2023,Q1,2023-03-31,3,product,SKYRIZI,Skyrizi,喜达诺,Immunology,1360,USD,millions,reported,SEC 10-Q 0001551152-24-000020
+2023,Q1,2023-03-31,3,product,MAVYRET,Mavyret,美维乐（Mavyret）,Infectious Disease,364,USD,millions,reported,SEC 10-Q 0001551152-24-000020
 2023,Q1,2023-03-31,3,product,BotoxTherapeutic,Botox Therapeutic,保妥适治疗,Neuroscience,719,USD,millions,reported,SEC 10-Q 0001551152-24-000020
 2023,Q1,2023-03-31,3,product,Duodopa,Duodopa,多巴乐,Neuroscience,118,USD,millions,reported,SEC 10-Q 0001551152-24-000020
 2023,Q1,2023-03-31,3,product,OtherNeuroscience,Other Neuroscience,其他神经科学产品,Neuroscience,79,USD,millions,reported,SEC 10-Q 0001551152-24-000020
 2023,Q1,2023-03-31,3,product,Qulipta,Qulipta,Qulipta,Neuroscience,66,USD,millions,reported,SEC 10-Q 0001551152-24-000020
 2023,Q1,2023-03-31,3,product,Ubrelvy,Ubrelvy,Ubrelvy,Neuroscience,152,USD,millions,reported,SEC 10-Q 0001551152-24-000020
 2023,Q1,2023-03-31,3,product,Vraylar,Vraylar,Vraylar,Neuroscience,561,USD,millions,reported,SEC 10-Q 0001551152-24-000020
+2023,Q1,2023-03-31,3,product,Epkinly,Epkinly,Epkinly,Oncology,0,USD,millions,reported,SEC 10-Q 0001551152-24-000020
+2023,Q1,2023-03-31,3,product,Imbruvica,Imbruvica,亿珂,Oncology,878,USD,millions,reported,SEC 10-Q 0001551152-24-000020
+2023,Q1,2023-03-31,3,product,VENCLEXTA,Venclexta,唯可来,Oncology,538,USD,millions,reported,SEC 10-Q 0001551152-24-000020
+2023,Q1,2023-03-31,3,product,AlphaganCombigan,Alphagan/Combigan,Alphagan/Combigan 眼科药物,Ophthalmology,71,USD,millions,reported,SEC 10-Q 0001551152-24-000020
+2023,Q1,2023-03-31,3,product,LumiganGanfort,Lumigan/Ganfort,Lumigan/Ganfort 眼科药物,Ophthalmology,130,USD,millions,reported,SEC 10-Q 0001551152-24-000020
+2023,Q1,2023-03-31,3,product,OtherEyeCare,Other Eye Care,其他眼科护理产品,Ophthalmology,200,USD,millions,reported,SEC 10-Q 0001551152-24-000020
+2023,Q1,2023-03-31,3,product,Ozurdex,Ozurdex,奥舒适（Ozurdex）,Ophthalmology,115,USD,millions,reported,SEC 10-Q 0001551152-24-000020
+2023,Q1,2023-03-31,3,product,Restasis,Restasis,润洁滴眼液（Restasis）,Ophthalmology,92,USD,millions,reported,SEC 10-Q 0001551152-24-000020
+2023,Q1,2023-03-31,3,product,LinzessConstella,Linzess/Constella,林泽®（Linzess）,Other,259,USD,millions,reported,SEC 10-Q 0001551152-24-000020
 2023,Q1,2023-03-31,3,product,OtherProducts,All other,其他所有产品,Other,691,USD,millions,reported,SEC 10-Q 0001551152-24-000020
-2023,Q1,2023-03-31,3,product,LinzessConstella,Linzess/Constella,利那洛肽,Other Key Products,259,USD,millions,reported,SEC 10-Q 0001551152-24-000020
-2023,Q1,2023-03-31,3,product,MAVYRET,Mavyret,迈锐捷,Other Key Products,364,USD,millions,reported,SEC 10-Q 0001551152-24-000020
 2023,Q2,2023-06-30,3,product,OtherNotItemized,Other (not itemized),其他（未单列）,,282,USD,millions,derived,SEC 10-Q 0001551152-24-000031
 2023,Q2,2023-06-30,3,product,BotoxCosmetic,Botox Cosmetic,保妥适美容,Aesthetics,685,USD,millions,reported,SEC 10-Q 0001551152-24-000031
 2023,Q2,2023-06-30,3,product,JuvedermCollection,Juvederm Collection,乔雅登系列,Aesthetics,368,USD,millions,reported,SEC 10-Q 0001551152-24-000031
 2023,Q2,2023-06-30,3,product,OtherAesthetics,Other Aesthetics,其他医美产品,Aesthetics,331,USD,millions,reported,SEC 10-Q 0001551152-24-000031
-2023,Q2,2023-06-30,3,product,AlphaganCombigan,Alphagan/Combigan,Alphagan/Combigan,Eye Care,65,USD,millions,reported,SEC 10-Q 0001551152-24-000031
-2023,Q2,2023-06-30,3,product,LumiganGanfort,Lumigan/Ganfort,Lumigan/Ganfort,Eye Care,119,USD,millions,reported,SEC 10-Q 0001551152-24-000031
-2023,Q2,2023-06-30,3,product,OtherEyeCare,Other Eye Care,其他眼科产品,Eye Care,215,USD,millions,reported,SEC 10-Q 0001551152-24-000031
-2023,Q2,2023-06-30,3,product,Ozurdex,Ozurdex,欧舒达,Eye Care,119,USD,millions,reported,SEC 10-Q 0001551152-24-000031
-2023,Q2,2023-06-30,3,product,Restasis,Restasis,Restasis,Eye Care,99,USD,millions,reported,SEC 10-Q 0001551152-24-000031
-2023,Q2,2023-06-30,3,product,Epkinly,Epkinly,Epkinly,Hematologic Oncology,0,USD,millions,reported,SEC 10-Q 0001551152-24-000031
-2023,Q2,2023-06-30,3,product,Imbruvica,Imbruvica,亿珂,Hematologic Oncology,907,USD,millions,reported,SEC 10-Q 0001551152-24-000031
-2023,Q2,2023-06-30,3,product,VENCLEXTA,Venclexta,唯可来,Hematologic Oncology,571,USD,millions,reported,SEC 10-Q 0001551152-24-000031
 2023,Q2,2023-06-30,3,product,HUMIRA,Humira,修美乐,Immunology,4012,USD,millions,reported,SEC 10-Q 0001551152-24-000031
 2023,Q2,2023-06-30,3,product,RINVOQ,Rinvoq,润尔服,Immunology,918,USD,millions,reported,SEC 10-Q 0001551152-24-000031
 2023,Q2,2023-06-30,3,product,SKYRIZI,Skyrizi,喜达诺,Immunology,1883,USD,millions,reported,SEC 10-Q 0001551152-24-000031
+2023,Q2,2023-06-30,3,product,MAVYRET,Mavyret,美维乐（Mavyret）,Infectious Disease,387,USD,millions,reported,SEC 10-Q 0001551152-24-000031
 2023,Q2,2023-06-30,3,product,BotoxTherapeutic,Botox Therapeutic,保妥适治疗,Neuroscience,748,USD,millions,reported,SEC 10-Q 0001551152-24-000031
 2023,Q2,2023-06-30,3,product,Duodopa,Duodopa,多巴乐,Neuroscience,117,USD,millions,reported,SEC 10-Q 0001551152-24-000031
 2023,Q2,2023-06-30,3,product,OtherNeuroscience,Other Neuroscience,其他神经科学产品,Neuroscience,70,USD,millions,reported,SEC 10-Q 0001551152-24-000031
 2023,Q2,2023-06-30,3,product,Qulipta,Qulipta,Qulipta,Neuroscience,96,USD,millions,reported,SEC 10-Q 0001551152-24-000031
 2023,Q2,2023-06-30,3,product,Ubrelvy,Ubrelvy,Ubrelvy,Neuroscience,196,USD,millions,reported,SEC 10-Q 0001551152-24-000031
 2023,Q2,2023-06-30,3,product,Vraylar,Vraylar,Vraylar,Neuroscience,658,USD,millions,reported,SEC 10-Q 0001551152-24-000031
+2023,Q2,2023-06-30,3,product,Epkinly,Epkinly,Epkinly,Oncology,0,USD,millions,reported,SEC 10-Q 0001551152-24-000031
+2023,Q2,2023-06-30,3,product,Imbruvica,Imbruvica,亿珂,Oncology,907,USD,millions,reported,SEC 10-Q 0001551152-24-000031
+2023,Q2,2023-06-30,3,product,VENCLEXTA,Venclexta,唯可来,Oncology,571,USD,millions,reported,SEC 10-Q 0001551152-24-000031
+2023,Q2,2023-06-30,3,product,AlphaganCombigan,Alphagan/Combigan,Alphagan/Combigan 眼科药物,Ophthalmology,65,USD,millions,reported,SEC 10-Q 0001551152-24-000031
+2023,Q2,2023-06-30,3,product,LumiganGanfort,Lumigan/Ganfort,Lumigan/Ganfort 眼科药物,Ophthalmology,119,USD,millions,reported,SEC 10-Q 0001551152-24-000031
+2023,Q2,2023-06-30,3,product,OtherEyeCare,Other Eye Care,其他眼科护理产品,Ophthalmology,215,USD,millions,reported,SEC 10-Q 0001551152-24-000031
+2023,Q2,2023-06-30,3,product,Ozurdex,Ozurdex,奥舒适（Ozurdex）,Ophthalmology,119,USD,millions,reported,SEC 10-Q 0001551152-24-000031
+2023,Q2,2023-06-30,3,product,Restasis,Restasis,润洁滴眼液（Restasis）,Ophthalmology,99,USD,millions,reported,SEC 10-Q 0001551152-24-000031
+2023,Q2,2023-06-30,3,product,LinzessConstella,Linzess/Constella,林泽®（Linzess）,Other,278,USD,millions,reported,SEC 10-Q 0001551152-24-000031
 2023,Q2,2023-06-30,3,product,OtherProducts,All other,其他所有产品,Other,741,USD,millions,reported,SEC 10-Q 0001551152-24-000031
-2023,Q2,2023-06-30,3,product,LinzessConstella,Linzess/Constella,利那洛肽,Other Key Products,278,USD,millions,reported,SEC 10-Q 0001551152-24-000031
-2023,Q2,2023-06-30,3,product,MAVYRET,Mavyret,迈锐捷,Other Key Products,387,USD,millions,reported,SEC 10-Q 0001551152-24-000031
 2023,Q3,2023-09-30,3,product,OtherNotItemized,Other (not itemized),其他（未单列）,,305,USD,millions,derived,SEC 10-Q 0001551152-24-000040
 2023,Q3,2023-09-30,3,product,BotoxCosmetic,Botox Cosmetic,保妥适美容,Aesthetics,620,USD,millions,reported,SEC 10-Q 0001551152-24-000040
 2023,Q3,2023-09-30,3,product,JuvedermCollection,Juvederm Collection,乔雅登系列,Aesthetics,321,USD,millions,reported,SEC 10-Q 0001551152-24-000040
 2023,Q3,2023-09-30,3,product,OtherAesthetics,Other Aesthetics,其他医美产品,Aesthetics,298,USD,millions,reported,SEC 10-Q 0001551152-24-000040
-2023,Q3,2023-09-30,3,product,AlphaganCombigan,Alphagan/Combigan,Alphagan/Combigan,Eye Care,70,USD,millions,reported,SEC 10-Q 0001551152-24-000040
-2023,Q3,2023-09-30,3,product,LumiganGanfort,Lumigan/Ganfort,Lumigan/Ganfort,Eye Care,91,USD,millions,reported,SEC 10-Q 0001551152-24-000040
-2023,Q3,2023-09-30,3,product,OtherEyeCare,Other Eye Care,其他眼科产品,Eye Care,207,USD,millions,reported,SEC 10-Q 0001551152-24-000040
-2023,Q3,2023-09-30,3,product,Ozurdex,Ozurdex,欧舒达,Eye Care,120,USD,millions,reported,SEC 10-Q 0001551152-24-000040
-2023,Q3,2023-09-30,3,product,Restasis,Restasis,Restasis,Eye Care,117,USD,millions,reported,SEC 10-Q 0001551152-24-000040
-2023,Q3,2023-09-30,3,product,Epkinly,Epkinly,Epkinly,Hematologic Oncology,14,USD,millions,reported,SEC 10-Q 0001551152-24-000040
-2023,Q3,2023-09-30,3,product,Imbruvica,Imbruvica,亿珂,Hematologic Oncology,908,USD,millions,reported,SEC 10-Q 0001551152-24-000040
-2023,Q3,2023-09-30,3,product,VENCLEXTA,Venclexta,唯可来,Hematologic Oncology,590,USD,millions,reported,SEC 10-Q 0001551152-24-000040
 2023,Q3,2023-09-30,3,product,HUMIRA,Humira,修美乐,Immunology,3547,USD,millions,reported,SEC 10-Q 0001551152-24-000040
 2023,Q3,2023-09-30,3,product,RINVOQ,Rinvoq,润尔服,Immunology,1110,USD,millions,reported,SEC 10-Q 0001551152-24-000040
 2023,Q3,2023-09-30,3,product,SKYRIZI,Skyrizi,喜达诺,Immunology,2126,USD,millions,reported,SEC 10-Q 0001551152-24-000040
+2023,Q3,2023-09-30,3,product,MAVYRET,Mavyret,美维乐（Mavyret）,Infectious Disease,370,USD,millions,reported,SEC 10-Q 0001551152-24-000040
 2023,Q3,2023-09-30,3,product,BotoxTherapeutic,Botox Therapeutic,保妥适治疗,Neuroscience,748,USD,millions,reported,SEC 10-Q 0001551152-24-000040
 2023,Q3,2023-09-30,3,product,Duodopa,Duodopa,多巴乐,Neuroscience,118,USD,millions,reported,SEC 10-Q 0001551152-24-000040
 2023,Q3,2023-09-30,3,product,OtherNeuroscience,Other Neuroscience,其他神经科学产品,Neuroscience,61,USD,millions,reported,SEC 10-Q 0001551152-24-000040
 2023,Q3,2023-09-30,3,product,Qulipta,Qulipta,Qulipta,Neuroscience,132,USD,millions,reported,SEC 10-Q 0001551152-24-000040
 2023,Q3,2023-09-30,3,product,Ubrelvy,Ubrelvy,Ubrelvy,Neuroscience,233,USD,millions,reported,SEC 10-Q 0001551152-24-000040
 2023,Q3,2023-09-30,3,product,Vraylar,Vraylar,Vraylar,Neuroscience,751,USD,millions,reported,SEC 10-Q 0001551152-24-000040
+2023,Q3,2023-09-30,3,product,Epkinly,Epkinly,Epkinly,Oncology,14,USD,millions,reported,SEC 10-Q 0001551152-24-000040
+2023,Q3,2023-09-30,3,product,Imbruvica,Imbruvica,亿珂,Oncology,908,USD,millions,reported,SEC 10-Q 0001551152-24-000040
+2023,Q3,2023-09-30,3,product,VENCLEXTA,Venclexta,唯可来,Oncology,590,USD,millions,reported,SEC 10-Q 0001551152-24-000040
+2023,Q3,2023-09-30,3,product,AlphaganCombigan,Alphagan/Combigan,Alphagan/Combigan 眼科药物,Ophthalmology,70,USD,millions,reported,SEC 10-Q 0001551152-24-000040
+2023,Q3,2023-09-30,3,product,LumiganGanfort,Lumigan/Ganfort,Lumigan/Ganfort 眼科药物,Ophthalmology,91,USD,millions,reported,SEC 10-Q 0001551152-24-000040
+2023,Q3,2023-09-30,3,product,OtherEyeCare,Other Eye Care,其他眼科护理产品,Ophthalmology,207,USD,millions,reported,SEC 10-Q 0001551152-24-000040
+2023,Q3,2023-09-30,3,product,Ozurdex,Ozurdex,奥舒适（Ozurdex）,Ophthalmology,120,USD,millions,reported,SEC 10-Q 0001551152-24-000040
+2023,Q3,2023-09-30,3,product,Restasis,Restasis,润洁滴眼液（Restasis）,Ophthalmology,117,USD,millions,reported,SEC 10-Q 0001551152-24-000040
+2023,Q3,2023-09-30,3,product,LinzessConstella,Linzess/Constella,林泽®（Linzess）,Other,288,USD,millions,reported,SEC 10-Q 0001551152-24-000040
 2023,Q3,2023-09-30,3,product,OtherProducts,All other,其他所有产品,Other,782,USD,millions,reported,SEC 10-Q 0001551152-24-000040
-2023,Q3,2023-09-30,3,product,LinzessConstella,Linzess/Constella,利那洛肽,Other Key Products,288,USD,millions,reported,SEC 10-Q 0001551152-24-000040
-2023,Q3,2023-09-30,3,product,MAVYRET,Mavyret,迈锐捷,Other Key Products,370,USD,millions,reported,SEC 10-Q 0001551152-24-000040
 2023,Q4,2023-12-31,3,product,OtherNotItemized,Other (not itemized),其他（未单列）,,376,USD,millions,derived,SEC 10-K 0001551152-24-000011 − 10-Q 0001551152-24-000040
 2023,Q4,2023-12-31,3,product,BotoxCosmetic,Botox Cosmetic,保妥适美容,Aesthetics,718,USD,millions,derived,SEC 10-K 0001551152-24-000011 − 10-Q 0001551152-24-000040
 2023,Q4,2023-12-31,3,product,JuvedermCollection,Juvederm Collection,乔雅登系列,Aesthetics,334,USD,millions,derived,SEC 10-K 0001551152-24-000011 − 10-Q 0001551152-24-000040
 2023,Q4,2023-12-31,3,product,OtherAesthetics,Other Aesthetics,其他医美产品,Aesthetics,319,USD,millions,derived,SEC 10-K 0001551152-24-000011 − 10-Q 0001551152-24-000040
-2023,Q4,2023-12-31,3,product,AlphaganCombigan,Alphagan/Combigan,Alphagan/Combigan,Eye Care,66,USD,millions,derived,SEC 10-K 0001551152-24-000011 − 10-Q 0001551152-24-000040
-2023,Q4,2023-12-31,3,product,LumiganGanfort,Lumigan/Ganfort,Lumigan/Ganfort,Eye Care,92,USD,millions,derived,SEC 10-K 0001551152-24-000011 − 10-Q 0001551152-24-000040
-2023,Q4,2023-12-31,3,product,OtherEyeCare,Other Eye Care,其他眼科产品,Eye Care,181,USD,millions,derived,SEC 10-K 0001551152-24-000011 − 10-Q 0001551152-24-000040
-2023,Q4,2023-12-31,3,product,Ozurdex,Ozurdex,欧舒达,Eye Care,118,USD,millions,derived,SEC 10-K 0001551152-24-000011 − 10-Q 0001551152-24-000040
-2023,Q4,2023-12-31,3,product,Restasis,Restasis,Restasis,Eye Care,128,USD,millions,derived,SEC 10-K 0001551152-24-000011 − 10-Q 0001551152-24-000040
 2023,Q4,2023-12-31,3,product,HUMIRA,Humira,修美乐,Immunology,3304,USD,millions,derived,SEC 10-K 0001551152-24-000011 − 10-Q 0001551152-24-000040
 2023,Q4,2023-12-31,3,product,RINVOQ,Rinvoq,润尔服,Immunology,1255,USD,millions,derived,SEC 10-K 0001551152-24-000011 − 10-Q 0001551152-24-000040
 2023,Q4,2023-12-31,3,product,SKYRIZI,Skyrizi,喜达诺,Immunology,2394,USD,millions,derived,SEC 10-K 0001551152-24-000011 − 10-Q 0001551152-24-000040
+2023,Q4,2023-12-31,3,product,MAVYRET,Mavyret,美维乐（Mavyret）,Infectious Disease,309,USD,millions,derived,SEC 10-K 0001551152-24-000011 − 10-Q 0001551152-24-000040
 2023,Q4,2023-12-31,3,product,BotoxTherapeutic,Botox Therapeutic,保妥适治疗,Neuroscience,776,USD,millions,derived,SEC 10-K 0001551152-24-000011 − 10-Q 0001551152-24-000040
 2023,Q4,2023-12-31,3,product,Duodopa,Duodopa,多巴乐,Neuroscience,115,USD,millions,derived,SEC 10-K 0001551152-24-000011 − 10-Q 0001551152-24-000040
 2023,Q4,2023-12-31,3,product,OtherNeuroscience,Other Neuroscience,其他神经科学产品,Neuroscience,66,USD,millions,derived,SEC 10-K 0001551152-24-000011 − 10-Q 0001551152-24-000040
@@ -345,9 +341,13 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2023,Q4,2023-12-31,3,product,Epkinly,Epkinly,Epkinly,Oncology,17,USD,millions,derived,SEC 10-K 0001551152-24-000011 − 10-Q 0001551152-24-000040
 2023,Q4,2023-12-31,3,product,Imbruvica,Imbruvica,亿珂,Oncology,903,USD,millions,derived,SEC 10-K 0001551152-24-000011 − 10-Q 0001551152-24-000040
 2023,Q4,2023-12-31,3,product,VENCLEXTA,Venclexta,唯可来,Oncology,589,USD,millions,derived,SEC 10-K 0001551152-24-000011 − 10-Q 0001551152-24-000040
+2023,Q4,2023-12-31,3,product,AlphaganCombigan,Alphagan/Combigan,Alphagan/Combigan 眼科药物,Ophthalmology,66,USD,millions,derived,SEC 10-K 0001551152-24-000011 − 10-Q 0001551152-24-000040
+2023,Q4,2023-12-31,3,product,LumiganGanfort,Lumigan/Ganfort,Lumigan/Ganfort 眼科药物,Ophthalmology,92,USD,millions,derived,SEC 10-K 0001551152-24-000011 − 10-Q 0001551152-24-000040
+2023,Q4,2023-12-31,3,product,OtherEyeCare,Other Eye Care,其他眼科护理产品,Ophthalmology,181,USD,millions,derived,SEC 10-K 0001551152-24-000011 − 10-Q 0001551152-24-000040
+2023,Q4,2023-12-31,3,product,Ozurdex,Ozurdex,奥舒适（Ozurdex）,Ophthalmology,118,USD,millions,derived,SEC 10-K 0001551152-24-000011 − 10-Q 0001551152-24-000040
+2023,Q4,2023-12-31,3,product,Restasis,Restasis,润洁滴眼液（Restasis）,Ophthalmology,128,USD,millions,derived,SEC 10-K 0001551152-24-000011 − 10-Q 0001551152-24-000040
+2023,Q4,2023-12-31,3,product,LinzessConstella,Linzess/Constella,林泽®（Linzess）,Other,283,USD,millions,derived,SEC 10-K 0001551152-24-000011 − 10-Q 0001551152-24-000040
 2023,Q4,2023-12-31,3,product,OtherProducts,All other,其他所有产品,Other,821,USD,millions,derived,SEC 10-K 0001551152-24-000011 − 10-Q 0001551152-24-000040
-2023,Q4,2023-12-31,3,product,LinzessConstella,Linzess/Constella,利那洛肽,Other Key Products,283,USD,millions,derived,SEC 10-K 0001551152-24-000011 − 10-Q 0001551152-24-000040
-2023,Q4,2023-12-31,3,product,MAVYRET,Mavyret,迈锐捷,Other Key Products,309,USD,millions,derived,SEC 10-K 0001551152-24-000011 − 10-Q 0001551152-24-000040
 2023,FY,2023-12-31,12,geography,AU,Australia,澳大利亚,,472,USD,millions,reported,SEC 10-K 0001551152-24-000011
 2023,FY,2023-12-31,12,geography,BR,Brazil,巴西,,439,USD,millions,reported,SEC 10-K 0001551152-24-000011
 2023,FY,2023-12-31,12,geography,CA,Canada,加拿大,,1076,USD,millions,reported,SEC 10-K 0001551152-24-000011
@@ -364,14 +364,10 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2023,FY,2023-12-31,12,product,BotoxCosmetic,Botox Cosmetic,保妥适美容,Aesthetics,2682,USD,millions,reported,SEC 10-K 0001551152-24-000011
 2023,FY,2023-12-31,12,product,JuvedermCollection,Juvederm Collection,乔雅登系列,Aesthetics,1378,USD,millions,reported,SEC 10-K 0001551152-24-000011
 2023,FY,2023-12-31,12,product,OtherAesthetics,Other Aesthetics,其他医美产品,Aesthetics,1234,USD,millions,reported,SEC 10-K 0001551152-24-000011
-2023,FY,2023-12-31,12,product,AlphaganCombigan,Alphagan/Combigan,Alphagan/Combigan,Eye Care,272,USD,millions,reported,SEC 10-K 0001551152-24-000011
-2023,FY,2023-12-31,12,product,LumiganGanfort,Lumigan/Ganfort,Lumigan/Ganfort,Eye Care,432,USD,millions,reported,SEC 10-K 0001551152-24-000011
-2023,FY,2023-12-31,12,product,OtherEyeCare,Other Eye Care,其他眼科产品,Eye Care,803,USD,millions,reported,SEC 10-K 0001551152-24-000011
-2023,FY,2023-12-31,12,product,Ozurdex,Ozurdex,欧舒达,Eye Care,472,USD,millions,reported,SEC 10-K 0001551152-24-000011
-2023,FY,2023-12-31,12,product,Restasis,Restasis,Restasis,Eye Care,436,USD,millions,reported,SEC 10-K 0001551152-24-000011
 2023,FY,2023-12-31,12,product,HUMIRA,Humira,修美乐,Immunology,14404,USD,millions,reported,SEC 10-K 0001551152-24-000011
 2023,FY,2023-12-31,12,product,RINVOQ,Rinvoq,润尔服,Immunology,3969,USD,millions,reported,SEC 10-K 0001551152-24-000011
 2023,FY,2023-12-31,12,product,SKYRIZI,Skyrizi,喜达诺,Immunology,7763,USD,millions,reported,SEC 10-K 0001551152-24-000011
+2023,FY,2023-12-31,12,product,MAVYRET,Mavyret,美维乐（Mavyret）,Infectious Disease,1430,USD,millions,reported,SEC 10-K 0001551152-24-000011
 2023,FY,2023-12-31,12,product,BotoxTherapeutic,Botox Therapeutic,保妥适治疗,Neuroscience,2991,USD,millions,reported,SEC 10-K 0001551152-24-000011
 2023,FY,2023-12-31,12,product,Duodopa,Duodopa,多巴乐,Neuroscience,468,USD,millions,reported,SEC 10-K 0001551152-24-000011
 2023,FY,2023-12-31,12,product,OtherNeuroscience,Other Neuroscience,其他神经科学产品,Neuroscience,276,USD,millions,reported,SEC 10-K 0001551152-24-000011
@@ -381,20 +377,21 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2023,FY,2023-12-31,12,product,Epkinly,Epkinly,Epkinly,Oncology,31,USD,millions,reported,SEC 10-K 0001551152-24-000011
 2023,FY,2023-12-31,12,product,Imbruvica,Imbruvica,亿珂,Oncology,3596,USD,millions,reported,SEC 10-K 0001551152-24-000011
 2023,FY,2023-12-31,12,product,VENCLEXTA,Venclexta,唯可来,Oncology,2288,USD,millions,reported,SEC 10-K 0001551152-24-000011
+2023,FY,2023-12-31,12,product,AlphaganCombigan,Alphagan/Combigan,Alphagan/Combigan 眼科药物,Ophthalmology,272,USD,millions,reported,SEC 10-K 0001551152-24-000011
+2023,FY,2023-12-31,12,product,LumiganGanfort,Lumigan/Ganfort,Lumigan/Ganfort 眼科药物,Ophthalmology,432,USD,millions,reported,SEC 10-K 0001551152-24-000011
+2023,FY,2023-12-31,12,product,OtherEyeCare,Other Eye Care,其他眼科护理产品,Ophthalmology,803,USD,millions,reported,SEC 10-K 0001551152-24-000011
+2023,FY,2023-12-31,12,product,Ozurdex,Ozurdex,奥舒适（Ozurdex）,Ophthalmology,472,USD,millions,reported,SEC 10-K 0001551152-24-000011
+2023,FY,2023-12-31,12,product,Restasis,Restasis,润洁滴眼液（Restasis）,Ophthalmology,436,USD,millions,reported,SEC 10-K 0001551152-24-000011
+2023,FY,2023-12-31,12,product,LinzessConstella,Linzess/Constella,林泽®（Linzess）,Other,1108,USD,millions,reported,SEC 10-K 0001551152-24-000011
 2023,FY,2023-12-31,12,product,OtherProducts,All other,其他所有产品,Other,3035,USD,millions,reported,SEC 10-K 0001551152-24-000011
-2023,FY,2023-12-31,12,product,LinzessConstella,Linzess/Constella,利那洛肽,Other Key Products,1108,USD,millions,reported,SEC 10-K 0001551152-24-000011
-2023,FY,2023-12-31,12,product,MAVYRET,Mavyret,迈锐捷,Other Key Products,1430,USD,millions,reported,SEC 10-K 0001551152-24-000011
 2024,Q1,2024-03-31,3,product,OtherNotItemized,Other (not itemized),其他（未单列）,,285,USD,millions,derived,SEC 10-Q 0001551152-25-000029
 2024,Q1,2024-03-31,3,product,BotoxCosmetic,Botox Cosmetic,保妥适美容,Aesthetics,633,USD,millions,reported,SEC 10-Q 0001551152-25-000029
 2024,Q1,2024-03-31,3,product,JuvedermCollection,Juvederm Collection,乔雅登系列,Aesthetics,297,USD,millions,reported,SEC 10-Q 0001551152-25-000029
 2024,Q1,2024-03-31,3,product,OtherAesthetics,Other Aesthetics,其他医美产品,Aesthetics,319,USD,millions,reported,SEC 10-Q 0001551152-25-000029
-2024,Q1,2024-03-31,3,product,AlphaganCombigan,Alphagan/Combigan,Alphagan/Combigan,Eye Care,59,USD,millions,reported,SEC 10-Q 0001551152-25-000029
-2024,Q1,2024-03-31,3,product,LumiganGanfort,Lumigan/Ganfort,Lumigan/Ganfort,Eye Care,91,USD,millions,reported,SEC 10-Q 0001551152-25-000029
-2024,Q1,2024-03-31,3,product,OtherEyeCare,Other Eye Care,其他眼科产品,Eye Care,257,USD,millions,reported,SEC 10-Q 0001551152-25-000029
-2024,Q1,2024-03-31,3,product,Ozurdex,Ozurdex,欧舒达,Eye Care,131,USD,millions,reported,SEC 10-Q 0001551152-25-000029
 2024,Q1,2024-03-31,3,product,HUMIRA,Humira,修美乐,Immunology,2270,USD,millions,reported,SEC 10-Q 0001551152-25-000029
 2024,Q1,2024-03-31,3,product,RINVOQ,Rinvoq,润尔服,Immunology,1093,USD,millions,reported,SEC 10-Q 0001551152-25-000029
 2024,Q1,2024-03-31,3,product,SKYRIZI,Skyrizi,喜达诺,Immunology,2008,USD,millions,reported,SEC 10-Q 0001551152-25-000029
+2024,Q1,2024-03-31,3,product,MAVYRET,Mavyret,美维乐（Mavyret）,Infectious Disease,349,USD,millions,reported,SEC 10-Q 0001551152-25-000029
 2024,Q1,2024-03-31,3,product,BotoxTherapeutic,Botox Therapeutic,保妥适治疗,Neuroscience,748,USD,millions,reported,SEC 10-Q 0001551152-25-000029
 2024,Q1,2024-03-31,3,product,Duodopa,Duodopa,多巴乐,Neuroscience,115,USD,millions,reported,SEC 10-Q 0001551152-25-000029
 2024,Q1,2024-03-31,3,product,OtherNeuroscience,Other Neuroscience,其他神经科学产品,Neuroscience,65,USD,millions,reported,SEC 10-Q 0001551152-25-000029
@@ -406,20 +403,20 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2024,Q1,2024-03-31,3,product,Epkinly,Epkinly,Epkinly,Oncology,27,USD,millions,reported,SEC 10-Q 0001551152-25-000029
 2024,Q1,2024-03-31,3,product,Imbruvica,Imbruvica,亿珂,Oncology,838,USD,millions,reported,SEC 10-Q 0001551152-25-000029
 2024,Q1,2024-03-31,3,product,VENCLEXTA,Venclexta,唯可来,Oncology,614,USD,millions,reported,SEC 10-Q 0001551152-25-000029
+2024,Q1,2024-03-31,3,product,AlphaganCombigan,Alphagan/Combigan,Alphagan/Combigan 眼科药物,Ophthalmology,59,USD,millions,reported,SEC 10-Q 0001551152-25-000029
+2024,Q1,2024-03-31,3,product,LumiganGanfort,Lumigan/Ganfort,Lumigan/Ganfort 眼科药物,Ophthalmology,91,USD,millions,reported,SEC 10-Q 0001551152-25-000029
+2024,Q1,2024-03-31,3,product,OtherEyeCare,Other Eye Care,其他眼科护理产品,Ophthalmology,257,USD,millions,reported,SEC 10-Q 0001551152-25-000029
+2024,Q1,2024-03-31,3,product,Ozurdex,Ozurdex,奥舒适（Ozurdex）,Ophthalmology,131,USD,millions,reported,SEC 10-Q 0001551152-25-000029
+2024,Q1,2024-03-31,3,product,LinzessConstella,Linzess/Constella,林泽®（Linzess）,Other,266,USD,millions,reported,SEC 10-Q 0001551152-25-000029
 2024,Q1,2024-03-31,3,product,OtherProducts,All other,其他所有产品,Other,744,USD,millions,reported,SEC 10-Q 0001551152-25-000029
-2024,Q1,2024-03-31,3,product,LinzessConstella,Linzess/Constella,利那洛肽,Other Key Products,266,USD,millions,reported,SEC 10-Q 0001551152-25-000029
-2024,Q1,2024-03-31,3,product,MAVYRET,Mavyret,迈锐捷,Other Key Products,349,USD,millions,reported,SEC 10-Q 0001551152-25-000029
 2024,Q2,2024-06-30,3,product,OtherNotItemized,Other (not itemized),其他（未单列）,,372,USD,millions,derived,SEC 10-Q 0001551152-25-000040
 2024,Q2,2024-06-30,3,product,BotoxCosmetic,Botox Cosmetic,保妥适美容,Aesthetics,729,USD,millions,reported,SEC 10-Q 0001551152-25-000040
 2024,Q2,2024-06-30,3,product,JuvedermCollection,Juvederm Collection,乔雅登系列,Aesthetics,343,USD,millions,reported,SEC 10-Q 0001551152-25-000040
 2024,Q2,2024-06-30,3,product,OtherAesthetics,Other Aesthetics,其他医美产品,Aesthetics,318,USD,millions,reported,SEC 10-Q 0001551152-25-000040
-2024,Q2,2024-06-30,3,product,AlphaganCombigan,Alphagan/Combigan,Alphagan/Combigan,Eye Care,49,USD,millions,reported,SEC 10-Q 0001551152-25-000040
-2024,Q2,2024-06-30,3,product,LumiganGanfort,Lumigan/Ganfort,Lumigan/Ganfort,Eye Care,103,USD,millions,reported,SEC 10-Q 0001551152-25-000040
-2024,Q2,2024-06-30,3,product,OtherEyeCare,Other Eye Care,其他眼科产品,Eye Care,257,USD,millions,reported,SEC 10-Q 0001551152-25-000040
-2024,Q2,2024-06-30,3,product,Ozurdex,Ozurdex,欧舒达,Eye Care,124,USD,millions,reported,SEC 10-Q 0001551152-25-000040
 2024,Q2,2024-06-30,3,product,HUMIRA,Humira,修美乐,Immunology,2814,USD,millions,reported,SEC 10-Q 0001551152-25-000040
 2024,Q2,2024-06-30,3,product,RINVOQ,Rinvoq,润尔服,Immunology,1430,USD,millions,reported,SEC 10-Q 0001551152-25-000040
 2024,Q2,2024-06-30,3,product,SKYRIZI,Skyrizi,喜达诺,Immunology,2727,USD,millions,reported,SEC 10-Q 0001551152-25-000040
+2024,Q2,2024-06-30,3,product,MAVYRET,Mavyret,美维乐（Mavyret）,Infectious Disease,369,USD,millions,reported,SEC 10-Q 0001551152-25-000040
 2024,Q2,2024-06-30,3,product,BotoxTherapeutic,Botox Therapeutic,保妥适治疗,Neuroscience,814,USD,millions,reported,SEC 10-Q 0001551152-25-000040
 2024,Q2,2024-06-30,3,product,Duodopa,Duodopa,多巴乐,Neuroscience,113,USD,millions,reported,SEC 10-Q 0001551152-25-000040
 2024,Q2,2024-06-30,3,product,OtherNeuroscience,Other Neuroscience,其他神经科学产品,Neuroscience,62,USD,millions,reported,SEC 10-Q 0001551152-25-000040
@@ -431,20 +428,20 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2024,Q2,2024-06-30,3,product,Epkinly,Epkinly,Epkinly,Oncology,36,USD,millions,reported,SEC 10-Q 0001551152-25-000040
 2024,Q2,2024-06-30,3,product,Imbruvica,Imbruvica,亿珂,Oncology,833,USD,millions,reported,SEC 10-Q 0001551152-25-000040
 2024,Q2,2024-06-30,3,product,VENCLEXTA,Venclexta,唯可来,Oncology,637,USD,millions,reported,SEC 10-Q 0001551152-25-000040
+2024,Q2,2024-06-30,3,product,AlphaganCombigan,Alphagan/Combigan,Alphagan/Combigan 眼科药物,Ophthalmology,49,USD,millions,reported,SEC 10-Q 0001551152-25-000040
+2024,Q2,2024-06-30,3,product,LumiganGanfort,Lumigan/Ganfort,Lumigan/Ganfort 眼科药物,Ophthalmology,103,USD,millions,reported,SEC 10-Q 0001551152-25-000040
+2024,Q2,2024-06-30,3,product,OtherEyeCare,Other Eye Care,其他眼科护理产品,Ophthalmology,257,USD,millions,reported,SEC 10-Q 0001551152-25-000040
+2024,Q2,2024-06-30,3,product,Ozurdex,Ozurdex,奥舒适（Ozurdex）,Ophthalmology,124,USD,millions,reported,SEC 10-Q 0001551152-25-000040
+2024,Q2,2024-06-30,3,product,LinzessConstella,Linzess/Constella,林泽®（Linzess）,Other,221,USD,millions,reported,SEC 10-Q 0001551152-25-000040
 2024,Q2,2024-06-30,3,product,OtherProducts,All other,其他所有产品,Other,810,USD,millions,reported,SEC 10-Q 0001551152-25-000040
-2024,Q2,2024-06-30,3,product,LinzessConstella,Linzess/Constella,利那洛肽,Other Key Products,221,USD,millions,reported,SEC 10-Q 0001551152-25-000040
-2024,Q2,2024-06-30,3,product,MAVYRET,Mavyret,迈锐捷,Other Key Products,369,USD,millions,reported,SEC 10-Q 0001551152-25-000040
 2024,Q3,2024-09-30,3,product,OtherNotItemized,Other (not itemized),其他（未单列）,,338,USD,millions,derived,SEC 10-Q 0001551152-25-000049
 2024,Q3,2024-09-30,3,product,BotoxCosmetic,Botox Cosmetic,保妥适美容,Aesthetics,671,USD,millions,reported,SEC 10-Q 0001551152-25-000049
 2024,Q3,2024-09-30,3,product,JuvedermCollection,Juvederm Collection,乔雅登系列,Aesthetics,258,USD,millions,reported,SEC 10-Q 0001551152-25-000049
 2024,Q3,2024-09-30,3,product,OtherAesthetics,Other Aesthetics,其他医美产品,Aesthetics,310,USD,millions,reported,SEC 10-Q 0001551152-25-000049
-2024,Q3,2024-09-30,3,product,AlphaganCombigan,Alphagan/Combigan,Alphagan/Combigan,Eye Care,62,USD,millions,reported,SEC 10-Q 0001551152-25-000049
-2024,Q3,2024-09-30,3,product,LumiganGanfort,Lumigan/Ganfort,Lumigan/Ganfort,Eye Care,116,USD,millions,reported,SEC 10-Q 0001551152-25-000049
-2024,Q3,2024-09-30,3,product,OtherEyeCare,Other Eye Care,其他眼科产品,Eye Care,228,USD,millions,reported,SEC 10-Q 0001551152-25-000049
-2024,Q3,2024-09-30,3,product,Ozurdex,Ozurdex,欧舒达,Eye Care,119,USD,millions,reported,SEC 10-Q 0001551152-25-000049
 2024,Q3,2024-09-30,3,product,HUMIRA,Humira,修美乐,Immunology,2227,USD,millions,reported,SEC 10-Q 0001551152-25-000049
 2024,Q3,2024-09-30,3,product,RINVOQ,Rinvoq,润尔服,Immunology,1614,USD,millions,reported,SEC 10-Q 0001551152-25-000049
 2024,Q3,2024-09-30,3,product,SKYRIZI,Skyrizi,喜达诺,Immunology,3205,USD,millions,reported,SEC 10-Q 0001551152-25-000049
+2024,Q3,2024-09-30,3,product,MAVYRET,Mavyret,美维乐（Mavyret）,Infectious Disease,302,USD,millions,reported,SEC 10-Q 0001551152-25-000049
 2024,Q3,2024-09-30,3,product,BotoxTherapeutic,Botox Therapeutic,保妥适治疗,Neuroscience,848,USD,millions,reported,SEC 10-Q 0001551152-25-000049
 2024,Q3,2024-09-30,3,product,Duodopa,Duodopa,多巴乐,Neuroscience,111,USD,millions,reported,SEC 10-Q 0001551152-25-000049
 2024,Q3,2024-09-30,3,product,OtherNeuroscience,Other Neuroscience,其他神经科学产品,Neuroscience,56,USD,millions,reported,SEC 10-Q 0001551152-25-000049
@@ -456,20 +453,20 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2024,Q3,2024-09-30,3,product,Epkinly,Epkinly,Epkinly,Oncology,43,USD,millions,reported,SEC 10-Q 0001551152-25-000049
 2024,Q3,2024-09-30,3,product,Imbruvica,Imbruvica,亿珂,Oncology,828,USD,millions,reported,SEC 10-Q 0001551152-25-000049
 2024,Q3,2024-09-30,3,product,VENCLEXTA,Venclexta,唯可来,Oncology,677,USD,millions,reported,SEC 10-Q 0001551152-25-000049
+2024,Q3,2024-09-30,3,product,AlphaganCombigan,Alphagan/Combigan,Alphagan/Combigan 眼科药物,Ophthalmology,62,USD,millions,reported,SEC 10-Q 0001551152-25-000049
+2024,Q3,2024-09-30,3,product,LumiganGanfort,Lumigan/Ganfort,Lumigan/Ganfort 眼科药物,Ophthalmology,116,USD,millions,reported,SEC 10-Q 0001551152-25-000049
+2024,Q3,2024-09-30,3,product,OtherEyeCare,Other Eye Care,其他眼科护理产品,Ophthalmology,228,USD,millions,reported,SEC 10-Q 0001551152-25-000049
+2024,Q3,2024-09-30,3,product,Ozurdex,Ozurdex,奥舒适（Ozurdex）,Ophthalmology,119,USD,millions,reported,SEC 10-Q 0001551152-25-000049
+2024,Q3,2024-09-30,3,product,LinzessConstella,Linzess/Constella,林泽®（Linzess）,Other,234,USD,millions,reported,SEC 10-Q 0001551152-25-000049
 2024,Q3,2024-09-30,3,product,OtherProducts,All other,其他所有产品,Other,726,USD,millions,reported,SEC 10-Q 0001551152-25-000049
-2024,Q3,2024-09-30,3,product,LinzessConstella,Linzess/Constella,利那洛肽,Other Key Products,234,USD,millions,reported,SEC 10-Q 0001551152-25-000049
-2024,Q3,2024-09-30,3,product,MAVYRET,Mavyret,迈锐捷,Other Key Products,302,USD,millions,reported,SEC 10-Q 0001551152-25-000049
 2024,Q4,2024-12-31,3,product,OtherNotItemized,Other (not itemized),其他（未单列）,,388,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
 2024,Q4,2024-12-31,3,product,BotoxCosmetic,Botox Cosmetic,保妥适美容,Aesthetics,687,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
 2024,Q4,2024-12-31,3,product,JuvedermCollection,Juvederm Collection,乔雅登系列,Aesthetics,279,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
 2024,Q4,2024-12-31,3,product,OtherAesthetics,Other Aesthetics,其他医美产品,Aesthetics,332,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
-2024,Q4,2024-12-31,3,product,AlphaganCombigan,Alphagan/Combigan,Alphagan/Combigan,Eye Care,78,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
-2024,Q4,2024-12-31,3,product,LumiganGanfort,Lumigan/Ganfort,Lumigan/Ganfort,Eye Care,119,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
-2024,Q4,2024-12-31,3,product,OtherEyeCare,Other Eye Care,其他眼科产品,Eye Care,329,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
-2024,Q4,2024-12-31,3,product,Ozurdex,Ozurdex,欧舒达,Eye Care,120,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
 2024,Q4,2024-12-31,3,product,HUMIRA,Humira,修美乐,Immunology,1682,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
 2024,Q4,2024-12-31,3,product,RINVOQ,Rinvoq,润尔服,Immunology,1834,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
 2024,Q4,2024-12-31,3,product,SKYRIZI,Skyrizi,喜达诺,Immunology,3778,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
+2024,Q4,2024-12-31,3,product,MAVYRET,Mavyret,美维乐（Mavyret）,Infectious Disease,291,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
 2024,Q4,2024-12-31,3,product,BotoxTherapeutic,Botox Therapeutic,保妥适治疗,Neuroscience,873,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
 2024,Q4,2024-12-31,3,product,Duodopa,Duodopa,多巴乐,Neuroscience,108,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
 2024,Q4,2024-12-31,3,product,OtherNeuroscience,Other Neuroscience,其他神经科学产品,Neuroscience,56,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
@@ -481,9 +478,12 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2024,Q4,2024-12-31,3,product,Epkinly,Epkinly,Epkinly,Oncology,40,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
 2024,Q4,2024-12-31,3,product,Imbruvica,Imbruvica,亿珂,Oncology,848,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
 2024,Q4,2024-12-31,3,product,VENCLEXTA,Venclexta,唯可来,Oncology,655,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
+2024,Q4,2024-12-31,3,product,AlphaganCombigan,Alphagan/Combigan,Alphagan/Combigan 眼科药物,Ophthalmology,78,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
+2024,Q4,2024-12-31,3,product,LumiganGanfort,Lumigan/Ganfort,Lumigan/Ganfort 眼科药物,Ophthalmology,119,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
+2024,Q4,2024-12-31,3,product,OtherEyeCare,Other Eye Care,其他眼科护理产品,Ophthalmology,329,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
+2024,Q4,2024-12-31,3,product,Ozurdex,Ozurdex,奥舒适（Ozurdex）,Ophthalmology,120,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
+2024,Q4,2024-12-31,3,product,LinzessConstella,Linzess/Constella,林泽®（Linzess）,Other,233,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
 2024,Q4,2024-12-31,3,product,OtherProducts,All other,其他所有产品,Other,752,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
-2024,Q4,2024-12-31,3,product,LinzessConstella,Linzess/Constella,利那洛肽,Other Key Products,233,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
-2024,Q4,2024-12-31,3,product,MAVYRET,Mavyret,迈锐捷,Other Key Products,291,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
 2024,FY,2024-12-31,12,geography,AU,Australia,澳大利亚,,463,USD,millions,reported,SEC 10-K 0001551152-25-000020
 2024,FY,2024-12-31,12,geography,BR,Brazil,巴西,,464,USD,millions,reported,SEC 10-K 0001551152-25-000020
 2024,FY,2024-12-31,12,geography,CA,Canada,加拿大,,1088,USD,millions,reported,SEC 10-K 0001551152-25-000020
@@ -500,13 +500,10 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2024,FY,2024-12-31,12,product,BotoxCosmetic,Botox Cosmetic,保妥适美容,Aesthetics,2720,USD,millions,reported,SEC 10-K 0001551152-26-000008
 2024,FY,2024-12-31,12,product,JuvedermCollection,Juvederm Collection,乔雅登系列,Aesthetics,1177,USD,millions,reported,SEC 10-K 0001551152-26-000008
 2024,FY,2024-12-31,12,product,OtherAesthetics,Other Aesthetics,其他医美产品,Aesthetics,1279,USD,millions,reported,SEC 10-K 0001551152-26-000008
-2024,FY,2024-12-31,12,product,AlphaganCombigan,Alphagan/Combigan,Alphagan/Combigan,Eye Care,248,USD,millions,reported,SEC 10-K 0001551152-26-000008
-2024,FY,2024-12-31,12,product,LumiganGanfort,Lumigan/Ganfort,Lumigan/Ganfort,Eye Care,429,USD,millions,reported,SEC 10-K 0001551152-26-000008
-2024,FY,2024-12-31,12,product,OtherEyeCare,Other Eye Care,其他眼科产品,Eye Care,1071,USD,millions,reported,SEC 10-K 0001551152-26-000008
-2024,FY,2024-12-31,12,product,Ozurdex,Ozurdex,欧舒达,Eye Care,494,USD,millions,reported,SEC 10-K 0001551152-26-000008
 2024,FY,2024-12-31,12,product,HUMIRA,Humira,修美乐,Immunology,8993,USD,millions,reported,SEC 10-K 0001551152-26-000008
 2024,FY,2024-12-31,12,product,RINVOQ,Rinvoq,润尔服,Immunology,5971,USD,millions,reported,SEC 10-K 0001551152-26-000008
 2024,FY,2024-12-31,12,product,SKYRIZI,Skyrizi,喜达诺,Immunology,11718,USD,millions,reported,SEC 10-K 0001551152-26-000008
+2024,FY,2024-12-31,12,product,MAVYRET,Mavyret,美维乐（Mavyret）,Infectious Disease,1311,USD,millions,reported,SEC 10-K 0001551152-26-000008
 2024,FY,2024-12-31,12,product,BotoxTherapeutic,Botox Therapeutic,保妥适治疗,Neuroscience,3283,USD,millions,reported,SEC 10-K 0001551152-26-000008
 2024,FY,2024-12-31,12,product,Duodopa,Duodopa,多巴乐,Neuroscience,447,USD,millions,reported,SEC 10-K 0001551152-26-000008
 2024,FY,2024-12-31,12,product,OtherNeuroscience,Other Neuroscience,其他神经科学产品,Neuroscience,239,USD,millions,reported,SEC 10-K 0001551152-26-000008
@@ -518,20 +515,20 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2024,FY,2024-12-31,12,product,Epkinly,Epkinly,Epkinly,Oncology,146,USD,millions,reported,SEC 10-K 0001551152-26-000008
 2024,FY,2024-12-31,12,product,Imbruvica,Imbruvica,亿珂,Oncology,3347,USD,millions,reported,SEC 10-K 0001551152-26-000008
 2024,FY,2024-12-31,12,product,VENCLEXTA,Venclexta,唯可来,Oncology,2583,USD,millions,reported,SEC 10-K 0001551152-26-000008
+2024,FY,2024-12-31,12,product,AlphaganCombigan,Alphagan/Combigan,Alphagan/Combigan 眼科药物,Ophthalmology,248,USD,millions,reported,SEC 10-K 0001551152-26-000008
+2024,FY,2024-12-31,12,product,LumiganGanfort,Lumigan/Ganfort,Lumigan/Ganfort 眼科药物,Ophthalmology,429,USD,millions,reported,SEC 10-K 0001551152-26-000008
+2024,FY,2024-12-31,12,product,OtherEyeCare,Other Eye Care,其他眼科护理产品,Ophthalmology,1071,USD,millions,reported,SEC 10-K 0001551152-26-000008
+2024,FY,2024-12-31,12,product,Ozurdex,Ozurdex,奥舒适（Ozurdex）,Ophthalmology,494,USD,millions,reported,SEC 10-K 0001551152-26-000008
+2024,FY,2024-12-31,12,product,LinzessConstella,Linzess/Constella,林泽®（Linzess）,Other,954,USD,millions,reported,SEC 10-K 0001551152-26-000008
 2024,FY,2024-12-31,12,product,OtherProducts,All other,其他所有产品,Other,3032,USD,millions,reported,SEC 10-K 0001551152-26-000008
-2024,FY,2024-12-31,12,product,LinzessConstella,Linzess/Constella,利那洛肽,Other Key Products,954,USD,millions,reported,SEC 10-K 0001551152-26-000008
-2024,FY,2024-12-31,12,product,MAVYRET,Mavyret,迈锐捷,Other Key Products,1311,USD,millions,reported,SEC 10-K 0001551152-26-000008
 2025,Q1,2025-03-31,3,product,OtherNotItemized,Other (not itemized),其他（未单列）,,355,USD,millions,derived,SEC 10-Q 0001551152-25-000029
 2025,Q1,2025-03-31,3,product,BotoxCosmetic,Botox Cosmetic,保妥适美容,Aesthetics,556,USD,millions,reported,SEC 10-Q 0001551152-25-000029
 2025,Q1,2025-03-31,3,product,JuvedermCollection,Juvederm Collection,乔雅登系列,Aesthetics,231,USD,millions,reported,SEC 10-Q 0001551152-25-000029
 2025,Q1,2025-03-31,3,product,OtherAesthetics,Other Aesthetics,其他医美产品,Aesthetics,315,USD,millions,reported,SEC 10-Q 0001551152-25-000029
-2025,Q1,2025-03-31,3,product,AlphaganCombigan,Alphagan/Combigan,Alphagan/Combigan,Eye Care,60,USD,millions,reported,SEC 10-Q 0001551152-25-000029
-2025,Q1,2025-03-31,3,product,LumiganGanfort,Lumigan/Ganfort,Lumigan/Ganfort,Eye Care,106,USD,millions,reported,SEC 10-Q 0001551152-25-000029
-2025,Q1,2025-03-31,3,product,OtherEyeCare,Other Eye Care,其他眼科产品,Eye Care,217,USD,millions,reported,SEC 10-Q 0001551152-25-000029
-2025,Q1,2025-03-31,3,product,Ozurdex,Ozurdex,欧舒达,Eye Care,123,USD,millions,reported,SEC 10-Q 0001551152-25-000029
 2025,Q1,2025-03-31,3,product,HUMIRA,Humira,修美乐,Immunology,1121,USD,millions,reported,SEC 10-Q 0001551152-25-000029
 2025,Q1,2025-03-31,3,product,RINVOQ,Rinvoq,润尔服,Immunology,1718,USD,millions,reported,SEC 10-Q 0001551152-25-000029
 2025,Q1,2025-03-31,3,product,SKYRIZI,Skyrizi,喜达诺,Immunology,3425,USD,millions,reported,SEC 10-Q 0001551152-25-000029
+2025,Q1,2025-03-31,3,product,MAVYRET,Mavyret,美维乐（Mavyret）,Infectious Disease,306,USD,millions,reported,SEC 10-Q 0001551152-25-000029
 2025,Q1,2025-03-31,3,product,BotoxTherapeutic,Botox Therapeutic,保妥适治疗,Neuroscience,866,USD,millions,reported,SEC 10-Q 0001551152-25-000029
 2025,Q1,2025-03-31,3,product,Duodopa,Duodopa,多巴乐,Neuroscience,96,USD,millions,reported,SEC 10-Q 0001551152-25-000029
 2025,Q1,2025-03-31,3,product,OtherNeuroscience,Other Neuroscience,其他神经科学产品,Neuroscience,59,USD,millions,reported,SEC 10-Q 0001551152-25-000029
@@ -543,20 +540,20 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2025,Q1,2025-03-31,3,product,Epkinly,Epkinly,Epkinly,Oncology,51,USD,millions,reported,SEC 10-Q 0001551152-25-000029
 2025,Q1,2025-03-31,3,product,Imbruvica,Imbruvica,亿珂,Oncology,738,USD,millions,reported,SEC 10-Q 0001551152-25-000029
 2025,Q1,2025-03-31,3,product,VENCLEXTA,Venclexta,唯可来,Oncology,665,USD,millions,reported,SEC 10-Q 0001551152-25-000029
+2025,Q1,2025-03-31,3,product,AlphaganCombigan,Alphagan/Combigan,Alphagan/Combigan 眼科药物,Ophthalmology,60,USD,millions,reported,SEC 10-Q 0001551152-25-000029
+2025,Q1,2025-03-31,3,product,LumiganGanfort,Lumigan/Ganfort,Lumigan/Ganfort 眼科药物,Ophthalmology,106,USD,millions,reported,SEC 10-Q 0001551152-25-000029
+2025,Q1,2025-03-31,3,product,OtherEyeCare,Other Eye Care,其他眼科护理产品,Ophthalmology,217,USD,millions,reported,SEC 10-Q 0001551152-25-000029
+2025,Q1,2025-03-31,3,product,Ozurdex,Ozurdex,奥舒适（Ozurdex）,Ophthalmology,123,USD,millions,reported,SEC 10-Q 0001551152-25-000029
+2025,Q1,2025-03-31,3,product,LinzessConstella,Linzess/Constella,林泽®（Linzess）,Other,148,USD,millions,reported,SEC 10-Q 0001551152-25-000029
 2025,Q1,2025-03-31,3,product,OtherProducts,All other,其他所有产品,Other,747,USD,millions,reported,SEC 10-Q 0001551152-25-000029
-2025,Q1,2025-03-31,3,product,LinzessConstella,Linzess/Constella,利那洛肽,Other Key Products,148,USD,millions,reported,SEC 10-Q 0001551152-25-000029
-2025,Q1,2025-03-31,3,product,MAVYRET,Mavyret,迈锐捷,Other Key Products,306,USD,millions,reported,SEC 10-Q 0001551152-25-000029
 2025,Q2,2025-06-30,3,product,OtherNotItemized,Other (not itemized),其他（未单列）,,406,USD,millions,derived,SEC 10-Q 0001551152-25-000040
 2025,Q2,2025-06-30,3,product,BotoxCosmetic,Botox Cosmetic,保妥适美容,Aesthetics,692,USD,millions,reported,SEC 10-Q 0001551152-25-000040
 2025,Q2,2025-06-30,3,product,JuvedermCollection,Juvederm Collection,乔雅登系列,Aesthetics,260,USD,millions,reported,SEC 10-Q 0001551152-25-000040
 2025,Q2,2025-06-30,3,product,OtherAesthetics,Other Aesthetics,其他医美产品,Aesthetics,327,USD,millions,reported,SEC 10-Q 0001551152-25-000040
-2025,Q2,2025-06-30,3,product,AlphaganCombigan,Alphagan/Combigan,Alphagan/Combigan,Eye Care,36,USD,millions,reported,SEC 10-Q 0001551152-25-000040
-2025,Q2,2025-06-30,3,product,LumiganGanfort,Lumigan/Ganfort,Lumigan/Ganfort,Eye Care,103,USD,millions,reported,SEC 10-Q 0001551152-25-000040
-2025,Q2,2025-06-30,3,product,OtherEyeCare,Other Eye Care,其他眼科产品,Eye Care,250,USD,millions,reported,SEC 10-Q 0001551152-25-000040
-2025,Q2,2025-06-30,3,product,Ozurdex,Ozurdex,欧舒达,Eye Care,125,USD,millions,reported,SEC 10-Q 0001551152-25-000040
 2025,Q2,2025-06-30,3,product,HUMIRA,Humira,修美乐,Immunology,1180,USD,millions,reported,SEC 10-Q 0001551152-25-000040
 2025,Q2,2025-06-30,3,product,RINVOQ,Rinvoq,润尔服,Immunology,2028,USD,millions,reported,SEC 10-Q 0001551152-25-000040
 2025,Q2,2025-06-30,3,product,SKYRIZI,Skyrizi,喜达诺,Immunology,4423,USD,millions,reported,SEC 10-Q 0001551152-25-000040
+2025,Q2,2025-06-30,3,product,MAVYRET,Mavyret,美维乐（Mavyret）,Infectious Disease,375,USD,millions,reported,SEC 10-Q 0001551152-25-000040
 2025,Q2,2025-06-30,3,product,BotoxTherapeutic,Botox Therapeutic,保妥适治疗,Neuroscience,928,USD,millions,reported,SEC 10-Q 0001551152-25-000040
 2025,Q2,2025-06-30,3,product,Duodopa,Duodopa,多巴乐,Neuroscience,97,USD,millions,reported,SEC 10-Q 0001551152-25-000040
 2025,Q2,2025-06-30,3,product,OtherNeuroscience,Other Neuroscience,其他神经科学产品,Neuroscience,55,USD,millions,reported,SEC 10-Q 0001551152-25-000040
@@ -568,20 +565,20 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2025,Q2,2025-06-30,3,product,Epkinly,Epkinly,Epkinly,Oncology,70,USD,millions,reported,SEC 10-Q 0001551152-25-000040
 2025,Q2,2025-06-30,3,product,Imbruvica,Imbruvica,亿珂,Oncology,754,USD,millions,reported,SEC 10-Q 0001551152-25-000040
 2025,Q2,2025-06-30,3,product,VENCLEXTA,Venclexta,唯可来,Oncology,691,USD,millions,reported,SEC 10-Q 0001551152-25-000040
+2025,Q2,2025-06-30,3,product,AlphaganCombigan,Alphagan/Combigan,Alphagan/Combigan 眼科药物,Ophthalmology,36,USD,millions,reported,SEC 10-Q 0001551152-25-000040
+2025,Q2,2025-06-30,3,product,LumiganGanfort,Lumigan/Ganfort,Lumigan/Ganfort 眼科药物,Ophthalmology,103,USD,millions,reported,SEC 10-Q 0001551152-25-000040
+2025,Q2,2025-06-30,3,product,OtherEyeCare,Other Eye Care,其他眼科护理产品,Ophthalmology,250,USD,millions,reported,SEC 10-Q 0001551152-25-000040
+2025,Q2,2025-06-30,3,product,Ozurdex,Ozurdex,奥舒适（Ozurdex）,Ophthalmology,125,USD,millions,reported,SEC 10-Q 0001551152-25-000040
+2025,Q2,2025-06-30,3,product,LinzessConstella,Linzess/Constella,林泽®（Linzess）,Other,258,USD,millions,reported,SEC 10-Q 0001551152-25-000040
 2025,Q2,2025-06-30,3,product,OtherProducts,All other,其他所有产品,Other,603,USD,millions,reported,SEC 10-Q 0001551152-25-000040
-2025,Q2,2025-06-30,3,product,LinzessConstella,Linzess/Constella,利那洛肽,Other Key Products,258,USD,millions,reported,SEC 10-Q 0001551152-25-000040
-2025,Q2,2025-06-30,3,product,MAVYRET,Mavyret,迈锐捷,Other Key Products,375,USD,millions,reported,SEC 10-Q 0001551152-25-000040
 2025,Q3,2025-09-30,3,product,OtherNotItemized,Other (not itemized),其他（未单列）,,379,USD,millions,derived,SEC 10-Q 0001551152-25-000049
 2025,Q3,2025-09-30,3,product,BotoxCosmetic,Botox Cosmetic,保妥适美容,Aesthetics,637,USD,millions,reported,SEC 10-Q 0001551152-25-000049
 2025,Q3,2025-09-30,3,product,JuvedermCollection,Juvederm Collection,乔雅登系列,Aesthetics,253,USD,millions,reported,SEC 10-Q 0001551152-25-000049
 2025,Q3,2025-09-30,3,product,OtherAesthetics,Other Aesthetics,其他医美产品,Aesthetics,303,USD,millions,reported,SEC 10-Q 0001551152-25-000049
-2025,Q3,2025-09-30,3,product,AlphaganCombigan,Alphagan/Combigan,Alphagan/Combigan,Eye Care,47,USD,millions,reported,SEC 10-Q 0001551152-25-000049
-2025,Q3,2025-09-30,3,product,LumiganGanfort,Lumigan/Ganfort,Lumigan/Ganfort,Eye Care,97,USD,millions,reported,SEC 10-Q 0001551152-25-000049
-2025,Q3,2025-09-30,3,product,OtherEyeCare,Other Eye Care,其他眼科产品,Eye Care,248,USD,millions,reported,SEC 10-Q 0001551152-25-000049
-2025,Q3,2025-09-30,3,product,Ozurdex,Ozurdex,欧舒达,Eye Care,117,USD,millions,reported,SEC 10-Q 0001551152-25-000049
 2025,Q3,2025-09-30,3,product,HUMIRA,Humira,修美乐,Immunology,993,USD,millions,reported,SEC 10-Q 0001551152-25-000049
 2025,Q3,2025-09-30,3,product,RINVOQ,Rinvoq,润尔服,Immunology,2184,USD,millions,reported,SEC 10-Q 0001551152-25-000049
 2025,Q3,2025-09-30,3,product,SKYRIZI,Skyrizi,喜达诺,Immunology,4708,USD,millions,reported,SEC 10-Q 0001551152-25-000049
+2025,Q3,2025-09-30,3,product,MAVYRET,Mavyret,美维乐（Mavyret）,Infectious Disease,312,USD,millions,reported,SEC 10-Q 0001551152-25-000049
 2025,Q3,2025-09-30,3,product,BotoxTherapeutic,Botox Therapeutic,保妥适治疗,Neuroscience,985,USD,millions,reported,SEC 10-Q 0001551152-25-000049
 2025,Q3,2025-09-30,3,product,Duodopa,Duodopa,多巴乐,Neuroscience,96,USD,millions,reported,SEC 10-Q 0001551152-25-000049
 2025,Q3,2025-09-30,3,product,OtherNeuroscience,Other Neuroscience,其他神经科学产品,Neuroscience,46,USD,millions,reported,SEC 10-Q 0001551152-25-000049
@@ -593,20 +590,20 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2025,Q3,2025-09-30,3,product,Epkinly,Epkinly,Epkinly,Oncology,69,USD,millions,reported,SEC 10-Q 0001551152-25-000049
 2025,Q3,2025-09-30,3,product,Imbruvica,Imbruvica,亿珂,Oncology,706,USD,millions,reported,SEC 10-Q 0001551152-25-000049
 2025,Q3,2025-09-30,3,product,VENCLEXTA,Venclexta,唯可来,Oncology,726,USD,millions,reported,SEC 10-Q 0001551152-25-000049
+2025,Q3,2025-09-30,3,product,AlphaganCombigan,Alphagan/Combigan,Alphagan/Combigan 眼科药物,Ophthalmology,47,USD,millions,reported,SEC 10-Q 0001551152-25-000049
+2025,Q3,2025-09-30,3,product,LumiganGanfort,Lumigan/Ganfort,Lumigan/Ganfort 眼科药物,Ophthalmology,97,USD,millions,reported,SEC 10-Q 0001551152-25-000049
+2025,Q3,2025-09-30,3,product,OtherEyeCare,Other Eye Care,其他眼科护理产品,Ophthalmology,248,USD,millions,reported,SEC 10-Q 0001551152-25-000049
+2025,Q3,2025-09-30,3,product,Ozurdex,Ozurdex,奥舒适（Ozurdex）,Ophthalmology,117,USD,millions,reported,SEC 10-Q 0001551152-25-000049
+2025,Q3,2025-09-30,3,product,LinzessConstella,Linzess/Constella,林泽®（Linzess）,Other,326,USD,millions,reported,SEC 10-Q 0001551152-25-000049
 2025,Q3,2025-09-30,3,product,OtherProducts,All other,其他所有产品,Other,660,USD,millions,reported,SEC 10-Q 0001551152-25-000049
-2025,Q3,2025-09-30,3,product,LinzessConstella,Linzess/Constella,利那洛肽,Other Key Products,326,USD,millions,reported,SEC 10-Q 0001551152-25-000049
-2025,Q3,2025-09-30,3,product,MAVYRET,Mavyret,迈锐捷,Other Key Products,312,USD,millions,reported,SEC 10-Q 0001551152-25-000049
 2025,Q4,2025-12-31,3,product,OtherNotItemized,Other (not itemized),其他（未单列）,,405,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
 2025,Q4,2025-12-31,3,product,BotoxCosmetic,Botox Cosmetic,保妥适美容,Aesthetics,717,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
 2025,Q4,2025-12-31,3,product,JuvedermCollection,Juvederm Collection,乔雅登系列,Aesthetics,249,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
 2025,Q4,2025-12-31,3,product,OtherAesthetics,Other Aesthetics,其他医美产品,Aesthetics,320,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
-2025,Q4,2025-12-31,3,product,AlphaganCombigan,Alphagan/Combigan,Alphagan/Combigan,Eye Care,54,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
-2025,Q4,2025-12-31,3,product,LumiganGanfort,Lumigan/Ganfort,Lumigan/Ganfort,Eye Care,104,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
-2025,Q4,2025-12-31,3,product,OtherEyeCare,Other Eye Care,其他眼科产品,Eye Care,294,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
-2025,Q4,2025-12-31,3,product,Ozurdex,Ozurdex,欧舒达,Eye Care,128,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
 2025,Q4,2025-12-31,3,product,HUMIRA,Humira,修美乐,Immunology,1246,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
 2025,Q4,2025-12-31,3,product,RINVOQ,Rinvoq,润尔服,Immunology,2374,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
 2025,Q4,2025-12-31,3,product,SKYRIZI,Skyrizi,喜达诺,Immunology,5006,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
+2025,Q4,2025-12-31,3,product,MAVYRET,Mavyret,美维乐（Mavyret）,Infectious Disease,324,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
 2025,Q4,2025-12-31,3,product,BotoxTherapeutic,Botox Therapeutic,保妥适治疗,Neuroscience,990,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
 2025,Q4,2025-12-31,3,product,Duodopa,Duodopa,多巴乐,Neuroscience,92,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
 2025,Q4,2025-12-31,3,product,OtherNeuroscience,Other Neuroscience,其他神经科学产品,Neuroscience,47,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
@@ -618,9 +615,12 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2025,Q4,2025-12-31,3,product,Epkinly,Epkinly,Epkinly,Oncology,81,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
 2025,Q4,2025-12-31,3,product,Imbruvica,Imbruvica,亿珂,Oncology,671,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
 2025,Q4,2025-12-31,3,product,VENCLEXTA,Venclexta,唯可来,Oncology,710,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
+2025,Q4,2025-12-31,3,product,AlphaganCombigan,Alphagan/Combigan,Alphagan/Combigan 眼科药物,Ophthalmology,54,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
+2025,Q4,2025-12-31,3,product,LumiganGanfort,Lumigan/Ganfort,Lumigan/Ganfort 眼科药物,Ophthalmology,104,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
+2025,Q4,2025-12-31,3,product,OtherEyeCare,Other Eye Care,其他眼科护理产品,Ophthalmology,294,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
+2025,Q4,2025-12-31,3,product,Ozurdex,Ozurdex,奥舒适（Ozurdex）,Ophthalmology,128,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
+2025,Q4,2025-12-31,3,product,LinzessConstella,Linzess/Constella,林泽®（Linzess）,Other,175,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
 2025,Q4,2025-12-31,3,product,OtherProducts,All other,其他所有产品,Other,617,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
-2025,Q4,2025-12-31,3,product,LinzessConstella,Linzess/Constella,利那洛肽,Other Key Products,175,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
-2025,Q4,2025-12-31,3,product,MAVYRET,Mavyret,迈锐捷,Other Key Products,324,USD,millions,derived,SEC 10-K 0001551152-26-000008 − 10-Q 0001551152-25-000049
 2025,FY,2025-12-31,12,geography,AU,Australia,澳大利亚,,459,USD,millions,reported,SEC 10-K 0001551152-26-000008
 2025,FY,2025-12-31,12,geography,BR,Brazil,巴西,,478,USD,millions,reported,SEC 10-K 0001551152-26-000008
 2025,FY,2025-12-31,12,geography,CA,Canada,加拿大,,1222,USD,millions,reported,SEC 10-K 0001551152-26-000008
@@ -637,13 +637,10 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2025,FY,2025-12-31,12,product,BotoxCosmetic,Botox Cosmetic,保妥适美容,Aesthetics,2602,USD,millions,reported,SEC 10-K 0001551152-26-000008
 2025,FY,2025-12-31,12,product,JuvedermCollection,Juvederm Collection,乔雅登系列,Aesthetics,993,USD,millions,reported,SEC 10-K 0001551152-26-000008
 2025,FY,2025-12-31,12,product,OtherAesthetics,Other Aesthetics,其他医美产品,Aesthetics,1265,USD,millions,reported,SEC 10-K 0001551152-26-000008
-2025,FY,2025-12-31,12,product,AlphaganCombigan,Alphagan/Combigan,Alphagan/Combigan,Eye Care,197,USD,millions,reported,SEC 10-K 0001551152-26-000008
-2025,FY,2025-12-31,12,product,LumiganGanfort,Lumigan/Ganfort,Lumigan/Ganfort,Eye Care,410,USD,millions,reported,SEC 10-K 0001551152-26-000008
-2025,FY,2025-12-31,12,product,OtherEyeCare,Other Eye Care,其他眼科产品,Eye Care,1009,USD,millions,reported,SEC 10-K 0001551152-26-000008
-2025,FY,2025-12-31,12,product,Ozurdex,Ozurdex,欧舒达,Eye Care,493,USD,millions,reported,SEC 10-K 0001551152-26-000008
 2025,FY,2025-12-31,12,product,HUMIRA,Humira,修美乐,Immunology,4540,USD,millions,reported,SEC 10-K 0001551152-26-000008
 2025,FY,2025-12-31,12,product,RINVOQ,Rinvoq,润尔服,Immunology,8304,USD,millions,reported,SEC 10-K 0001551152-26-000008
 2025,FY,2025-12-31,12,product,SKYRIZI,Skyrizi,喜达诺,Immunology,17562,USD,millions,reported,SEC 10-K 0001551152-26-000008
+2025,FY,2025-12-31,12,product,MAVYRET,Mavyret,美维乐（Mavyret）,Infectious Disease,1317,USD,millions,reported,SEC 10-K 0001551152-26-000008
 2025,FY,2025-12-31,12,product,BotoxTherapeutic,Botox Therapeutic,保妥适治疗,Neuroscience,3769,USD,millions,reported,SEC 10-K 0001551152-26-000008
 2025,FY,2025-12-31,12,product,Duodopa,Duodopa,多巴乐,Neuroscience,381,USD,millions,reported,SEC 10-K 0001551152-26-000008
 2025,FY,2025-12-31,12,product,OtherNeuroscience,Other Neuroscience,其他神经科学产品,Neuroscience,207,USD,millions,reported,SEC 10-K 0001551152-26-000008
@@ -655,9 +652,12 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2025,FY,2025-12-31,12,product,Epkinly,Epkinly,Epkinly,Oncology,271,USD,millions,reported,SEC 10-K 0001551152-26-000008
 2025,FY,2025-12-31,12,product,Imbruvica,Imbruvica,亿珂,Oncology,2869,USD,millions,reported,SEC 10-K 0001551152-26-000008
 2025,FY,2025-12-31,12,product,VENCLEXTA,Venclexta,唯可来,Oncology,2792,USD,millions,reported,SEC 10-K 0001551152-26-000008
+2025,FY,2025-12-31,12,product,AlphaganCombigan,Alphagan/Combigan,Alphagan/Combigan 眼科药物,Ophthalmology,197,USD,millions,reported,SEC 10-K 0001551152-26-000008
+2025,FY,2025-12-31,12,product,LumiganGanfort,Lumigan/Ganfort,Lumigan/Ganfort 眼科药物,Ophthalmology,410,USD,millions,reported,SEC 10-K 0001551152-26-000008
+2025,FY,2025-12-31,12,product,OtherEyeCare,Other Eye Care,其他眼科护理产品,Ophthalmology,1009,USD,millions,reported,SEC 10-K 0001551152-26-000008
+2025,FY,2025-12-31,12,product,Ozurdex,Ozurdex,奥舒适（Ozurdex）,Ophthalmology,493,USD,millions,reported,SEC 10-K 0001551152-26-000008
+2025,FY,2025-12-31,12,product,LinzessConstella,Linzess/Constella,林泽®（Linzess）,Other,907,USD,millions,reported,SEC 10-K 0001551152-26-000008
 2025,FY,2025-12-31,12,product,OtherProducts,All other,其他所有产品,Other,2627,USD,millions,reported,SEC 10-K 0001551152-26-000008
-2025,FY,2025-12-31,12,product,LinzessConstella,Linzess/Constella,利那洛肽,Other Key Products,907,USD,millions,reported,SEC 10-K 0001551152-26-000008
-2025,FY,2025-12-31,12,product,MAVYRET,Mavyret,迈锐捷,Other Key Products,1317,USD,millions,reported,SEC 10-K 0001551152-26-000008
 2026,Q1,2026-03-31,3,product,OtherNotItemized,Other (not itemized),其他（未单列）,,385,USD,millions,derived,SEC 10-Q 0001551152-26-000017
 2026,Q1,2026-03-31,3,product,BotoxCosmetic,Botox Cosmetic,保妥适美容,Aesthetics,668,USD,millions,reported,SEC 10-Q 0001551152-26-000017
 2026,Q1,2026-03-31,3,product,JuvedermCollection,Juvederm Collection,乔雅登系列,Aesthetics,232,USD,millions,reported,SEC 10-Q 0001551152-26-000017
@@ -665,6 +665,7 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2026,Q1,2026-03-31,3,product,HUMIRA,Humira,修美乐,Immunology,688,USD,millions,reported,SEC 10-Q 0001551152-26-000017
 2026,Q1,2026-03-31,3,product,RINVOQ,Rinvoq,润尔服,Immunology,2119,USD,millions,reported,SEC 10-Q 0001551152-26-000017
 2026,Q1,2026-03-31,3,product,SKYRIZI,Skyrizi,喜达诺,Immunology,4483,USD,millions,reported,SEC 10-Q 0001551152-26-000017
+2026,Q1,2026-03-31,3,product,MAVYRET,Mavyret,美维乐（Mavyret）,Infectious Disease,351,USD,millions,reported,SEC 10-Q 0001551152-26-000017
 2026,Q1,2026-03-31,3,product,BotoxTherapeutic,Botox Therapeutic,保妥适治疗,Neuroscience,1009,USD,millions,reported,SEC 10-Q 0001551152-26-000017
 2026,Q1,2026-03-31,3,product,OtherNeuroscience,Other Neuroscience,其他神经科学产品,Neuroscience,125,USD,millions,reported,SEC 10-Q 0001551152-26-000017
 2026,Q1,2026-03-31,3,product,Qulipta,Qulipta,Qulipta,Neuroscience,296,USD,millions,reported,SEC 10-Q 0001551152-26-000017
@@ -675,9 +676,8 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2026,Q1,2026-03-31,3,product,Epkinly,Epkinly,Epkinly,Oncology,83,USD,millions,reported,SEC 10-Q 0001551152-26-000017
 2026,Q1,2026-03-31,3,product,Imbruvica,Imbruvica,亿珂,Oncology,556,USD,millions,reported,SEC 10-Q 0001551152-26-000017
 2026,Q1,2026-03-31,3,product,VENCLEXTA,Venclexta,唯可来,Oncology,770,USD,millions,reported,SEC 10-Q 0001551152-26-000017
+2026,Q1,2026-03-31,3,product,LinzessConstella,Linzess,林泽®（Linzess）,Other,283,USD,millions,reported,SEC 10-Q 0001551152-26-000017
 2026,Q1,2026-03-31,3,product,OtherProducts,All other,其他所有产品,Other,1025,USD,millions,reported,SEC 10-Q 0001551152-26-000017
-2026,Q1,2026-03-31,3,product,LinzessConstella,Linzess,利那洛肽,Other Key Products,283,USD,millions,reported,SEC 10-Q 0001551152-26-000017
-2026,Q1,2026-03-31,3,product,MAVYRET,Mavyret,迈锐捷,Other Key Products,351,USD,millions,reported,SEC 10-Q 0001551152-26-000017
 2026,Q2,2026-06-30,3,product,OtherNotItemized,Other (not itemized),其他（未单列）,,378,USD,millions,derived,SEC 10-Q 0001551152-26-000026
 2026,Q2,2026-06-30,3,product,BotoxCosmetic,Botox Cosmetic,保妥适美容,Aesthetics,728,USD,millions,reported,SEC 10-Q 0001551152-26-000026
 2026,Q2,2026-06-30,3,product,JuvedermCollection,Juvederm Collection,乔雅登系列,Aesthetics,245,USD,millions,reported,SEC 10-Q 0001551152-26-000026
@@ -685,6 +685,7 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2026,Q2,2026-06-30,3,product,HUMIRA,Humira,修美乐,Immunology,756,USD,millions,reported,SEC 10-Q 0001551152-26-000026
 2026,Q2,2026-06-30,3,product,RINVOQ,Rinvoq,润尔服,Immunology,2525,USD,millions,reported,SEC 10-Q 0001551152-26-000026
 2026,Q2,2026-06-30,3,product,SKYRIZI,Skyrizi,喜达诺,Immunology,5505,USD,millions,reported,SEC 10-Q 0001551152-26-000026
+2026,Q2,2026-06-30,3,product,MAVYRET,Mavyret,美维乐（Mavyret）,Infectious Disease,295,USD,millions,reported,SEC 10-Q 0001551152-26-000026
 2026,Q2,2026-06-30,3,product,BotoxTherapeutic,Botox Therapeutic,保妥适治疗,Neuroscience,1042,USD,millions,reported,SEC 10-Q 0001551152-26-000026
 2026,Q2,2026-06-30,3,product,OtherNeuroscience,Other Neuroscience,其他神经科学产品,Neuroscience,117,USD,millions,reported,SEC 10-Q 0001551152-26-000026
 2026,Q2,2026-06-30,3,product,Qulipta,Qulipta,Qulipta,Neuroscience,350,USD,millions,reported,SEC 10-Q 0001551152-26-000026
@@ -695,9 +696,8 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2026,Q2,2026-06-30,3,product,Epkinly,Epkinly,Epkinly,Oncology,103,USD,millions,reported,SEC 10-Q 0001551152-26-000026
 2026,Q2,2026-06-30,3,product,Imbruvica,Imbruvica,亿珂,Oncology,532,USD,millions,reported,SEC 10-Q 0001551152-26-000026
 2026,Q2,2026-06-30,3,product,VENCLEXTA,Venclexta,唯可来,Oncology,771,USD,millions,reported,SEC 10-Q 0001551152-26-000026
+2026,Q2,2026-06-30,3,product,LinzessConstella,Linzess,林泽®（Linzess）,Other,295,USD,millions,reported,SEC 10-Q 0001551152-26-000026
 2026,Q2,2026-06-30,3,product,OtherProducts,All other,其他所有产品,Other,1109,USD,millions,reported,SEC 10-Q 0001551152-26-000026
-2026,Q2,2026-06-30,3,product,LinzessConstella,Linzess,利那洛肽,Other Key Products,295,USD,millions,reported,SEC 10-Q 0001551152-26-000026
-2026,Q2,2026-06-30,3,product,MAVYRET,Mavyret,迈锐捷,Other Key Products,295,USD,millions,reported,SEC 10-Q 0001551152-26-000026
 2026,Q3,2026-09-30,3,product,OtherNotItemized,Other (not itemized),其他（未单列）,,400,USD,millions,derived,SEC 10-Q 0001551152-26-000037
 2026,Q3,2026-09-30,3,product,BotoxCosmetic,Botox Cosmetic,保妥适美容,Aesthetics,669,USD,millions,reported,SEC 10-Q 0001551152-26-000037
 2026,Q3,2026-09-30,3,product,JuvedermCollection,Juvederm Collection,乔雅登系列,Aesthetics,222,USD,millions,reported,SEC 10-Q 0001551152-26-000037
@@ -705,6 +705,7 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2026,Q3,2026-09-30,3,product,HUMIRA,Humira,修美乐,Immunology,683,USD,millions,reported,SEC 10-Q 0001551152-26-000037
 2026,Q3,2026-09-30,3,product,RINVOQ,Rinvoq,润尔服,Immunology,2706,USD,millions,reported,SEC 10-Q 0001551152-26-000037
 2026,Q3,2026-09-30,3,product,SKYRIZI,Skyrizi,喜达诺,Immunology,5776,USD,millions,reported,SEC 10-Q 0001551152-26-000037
+2026,Q3,2026-09-30,3,product,MAVYRET,Mavyret,美维乐（Mavyret）,Infectious Disease,265,USD,millions,reported,SEC 10-Q 0001551152-26-000037
 2026,Q3,2026-09-30,3,product,BotoxTherapeutic,Botox Therapeutic,保妥适治疗,Neuroscience,1080,USD,millions,reported,SEC 10-Q 0001551152-26-000037
 2026,Q3,2026-09-30,3,product,OtherNeuroscience,Other Neuroscience,其他神经科学产品,Neuroscience,108,USD,millions,reported,SEC 10-Q 0001551152-26-000037
 2026,Q3,2026-09-30,3,product,Qulipta,Qulipta,Qulipta,Neuroscience,398,USD,millions,reported,SEC 10-Q 0001551152-26-000037
@@ -715,6 +716,5 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2026,Q3,2026-09-30,3,product,Epkinly,Epkinly,Epkinly,Oncology,108,USD,millions,reported,SEC 10-Q 0001551152-26-000037
 2026,Q3,2026-09-30,3,product,Imbruvica,Imbruvica,亿珂,Oncology,522,USD,millions,reported,SEC 10-Q 0001551152-26-000037
 2026,Q3,2026-09-30,3,product,VENCLEXTA,Venclexta,唯可来,Oncology,803,USD,millions,reported,SEC 10-Q 0001551152-26-000037
+2026,Q3,2026-09-30,3,product,LinzessConstella,Linzess,林泽®（Linzess）,Other,339,USD,millions,reported,SEC 10-Q 0001551152-26-000037
 2026,Q3,2026-09-30,3,product,OtherProducts,All other,其他所有产品,Other,1013,USD,millions,reported,SEC 10-Q 0001551152-26-000037
-2026,Q3,2026-09-30,3,product,LinzessConstella,Linzess,利那洛肽,Other Key Products,339,USD,millions,reported,SEC 10-Q 0001551152-26-000037
-2026,Q3,2026-09-30,3,product,MAVYRET,Mavyret,迈锐捷,Other Key Products,265,USD,millions,reported,SEC 10-Q 0001551152-26-000037

@@ -3,14 +3,14 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2021,Q1,2020-07-31,3,geography,MiddleEastAfricaLatinAmericaEasternEuropeandAsiaExcludingJapanandKorea,Emerging Markets,新兴市场,,981,USD,millions,reported,SEC 10-Q 0001613103-20-000033
 2021,Q1,2020-07-31,3,geography,US,United States,美国,,3351,USD,millions,reported,SEC 10-Q 0001613103-20-000033
 2021,Q1,2020-07-31,3,product,OtherNotItemized,Other (not itemized),其他（未单列）,,564,USD,millions,derived,SEC 10-Q 0001613103-20-000033
-2021,Q1,2020-07-31,3,product,AorticPeripheralandVenousDivision,"Aortic, Peripheral, & Venous",主动脉周围静脉业务,Cardiac & Vascular Group,405,USD,millions,reported,SEC 10-Q 0001613103-20-000033
-2021,Q1,2020-07-31,3,product,CardiacRhythmandHeartFailureDivision,Cardiac Rhythm & Heart Failure,心律与心力衰竭业务,Cardiac & Vascular Group,1247,USD,millions,reported,SEC 10-Q 0001613103-20-000033
-2021,Q1,2020-07-31,3,product,CoronaryandStructuralHeartDivision,Coronary & Structural Heart,冠脉与结构性心脏业务,Cardiac & Vascular Group,780,USD,millions,reported,SEC 10-Q 0001613103-20-000033
-2021,Q1,2020-07-31,3,product,RespiratoryGastrointestinalandRenalDivision,"Respiratory, Gastrointestinal, & Renal",呼吸胃肠与肾脏业务,Minimally Invasive Therapies Group,720,USD,millions,reported,SEC 10-Q 0001613103-20-000033
-2021,Q1,2020-07-31,3,product,SurgicalInnovationsDivision,Surgical Innovations,外科创新业务,Minimally Invasive Therapies Group,1080,USD,millions,reported,SEC 10-Q 0001613103-20-000033
-2021,Q1,2020-07-31,3,product,CranialAndSpinalTechnologiesDivision,Cranial & Spinal Technologies,颅脑与脊柱技术业务,Restorative Therapies Group,944,USD,millions,reported,SEC 10-Q 0001613103-20-000033
-2021,Q1,2020-07-31,3,product,NeuromodulationDivision,Neuromodulation,神经调控业务,Restorative Therapies Group,314,USD,millions,reported,SEC 10-Q 0001613103-20-000033
-2021,Q1,2020-07-31,3,product,SpecialtyTherapiesDivision,Specialty Therapies,专科治疗业务,Restorative Therapies Group,453,USD,millions,reported,SEC 10-Q 0001613103-20-000033
+2021,Q1,2020-07-31,3,product,AorticPeripheralandVenousDivision,"Aortic, Peripheral, & Venous",主动脉周围静脉业务,Cardiovascular,405,USD,millions,reported,SEC 10-Q 0001613103-20-000033
+2021,Q1,2020-07-31,3,product,CardiacRhythmAndHeartFailureDivision,Cardiac Rhythm & Heart Failure,心律与心力衰竭业务,Cardiovascular,1247,USD,millions,reported,SEC 10-Q 0001613103-20-000033
+2021,Q1,2020-07-31,3,product,CoronaryandStructuralHeartDivision,Coronary & Structural Heart,冠脉与结构性心脏业务,Cardiovascular,780,USD,millions,reported,SEC 10-Q 0001613103-20-000033
+2021,Q1,2020-07-31,3,product,RespiratoryGastrointestinalAndRenalDivision,"Respiratory, Gastrointestinal, & Renal",呼吸胃肠与肾脏业务,Medical Surgical,720,USD,millions,reported,SEC 10-Q 0001613103-20-000033
+2021,Q1,2020-07-31,3,product,SurgicalInnovationsDivision,Surgical Innovations,外科创新业务,Medical Surgical,1080,USD,millions,reported,SEC 10-Q 0001613103-20-000033
+2021,Q1,2020-07-31,3,product,CranialAndSpinalTechnologiesDivision,Cranial & Spinal Technologies,颅脑与脊柱技术业务,Neuroscience,944,USD,millions,reported,SEC 10-Q 0001613103-20-000033
+2021,Q1,2020-07-31,3,product,NeuromodulationDivision,Neuromodulation,神经调控业务,Neuroscience,314,USD,millions,reported,SEC 10-Q 0001613103-20-000033
+2021,Q1,2020-07-31,3,product,SpecialtyTherapiesDivision,Specialty Therapies,专科治疗业务,Neuroscience,453,USD,millions,reported,SEC 10-Q 0001613103-20-000033
 2021,Q1,2020-07-31,3,segment,CardiacAndVascularGroup,Cardiac & Vascular Group,心脏与血管集团,,2433,USD,millions,reported,SEC 10-Q 0001613103-20-000033
 2021,Q1,2020-07-31,3,segment,DiabetesGroup,Diabetes Group,糖尿病事业部,,562,USD,millions,reported,SEC 10-Q 0001613103-20-000033
 2021,Q1,2020-07-31,3,segment,MinimallyInvasiveTherapiesGroup,Minimally Invasive Therapies Group,微创治疗集团,,1801,USD,millions,reported,SEC 10-Q 0001613103-20-000033
@@ -19,14 +19,14 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2021,Q2,2020-10-30,3,geography,MiddleEastAfricaLatinAmericaEasternEuropeandAsiaExcludingJapanandKorea,Emerging Markets,新兴市场,,1147,USD,millions,reported,SEC 10-Q 0001613103-20-000051
 2021,Q2,2020-10-30,3,geography,US,United States,美国,,4054,USD,millions,reported,SEC 10-Q 0001613103-20-000051
 2021,Q2,2020-10-30,3,product,OtherNotItemized,Other (not itemized),其他（未单列）,,573,USD,millions,derived,SEC 10-Q 0001613103-20-000051
-2021,Q2,2020-10-30,3,product,AorticPeripheralandVenousDivision,"Aortic, Peripheral, & Venous",主动脉周围静脉业务,Cardiac & Vascular Group,468,USD,millions,reported,SEC 10-Q 0001613103-20-000051
-2021,Q2,2020-10-30,3,product,CardiacRhythmandHeartFailureDivision,Cardiac Rhythm & Heart Failure,心律与心力衰竭业务,Cardiac & Vascular Group,1426,USD,millions,reported,SEC 10-Q 0001613103-20-000051
-2021,Q2,2020-10-30,3,product,CoronaryandStructuralHeartDivision,Coronary & Structural Heart,冠脉与结构性心脏业务,Cardiac & Vascular Group,831,USD,millions,reported,SEC 10-Q 0001613103-20-000051
-2021,Q2,2020-10-30,3,product,RespiratoryGastrointestinalandRenalDivision,"Respiratory, Gastrointestinal, & Renal",呼吸胃肠与肾脏业务,Minimally Invasive Therapies Group,893,USD,millions,reported,SEC 10-Q 0001613103-20-000051
-2021,Q2,2020-10-30,3,product,SurgicalInnovationsDivision,Surgical Innovations,外科创新业务,Minimally Invasive Therapies Group,1393,USD,millions,reported,SEC 10-Q 0001613103-20-000051
-2021,Q2,2020-10-30,3,product,CranialAndSpinalTechnologiesDivision,Cranial & Spinal Technologies,颅脑与脊柱技术业务,Restorative Therapies Group,1071,USD,millions,reported,SEC 10-Q 0001613103-20-000051
-2021,Q2,2020-10-30,3,product,NeuromodulationDivision,Neuromodulation,神经调控业务,Restorative Therapies Group,411,USD,millions,reported,SEC 10-Q 0001613103-20-000051
-2021,Q2,2020-10-30,3,product,SpecialtyTherapiesDivision,Specialty Therapies,专科治疗业务,Restorative Therapies Group,581,USD,millions,reported,SEC 10-Q 0001613103-20-000051
+2021,Q2,2020-10-30,3,product,AorticPeripheralandVenousDivision,"Aortic, Peripheral, & Venous",主动脉周围静脉业务,Cardiovascular,468,USD,millions,reported,SEC 10-Q 0001613103-20-000051
+2021,Q2,2020-10-30,3,product,CardiacRhythmAndHeartFailureDivision,Cardiac Rhythm & Heart Failure,心律与心力衰竭业务,Cardiovascular,1426,USD,millions,reported,SEC 10-Q 0001613103-20-000051
+2021,Q2,2020-10-30,3,product,CoronaryandStructuralHeartDivision,Coronary & Structural Heart,冠脉与结构性心脏业务,Cardiovascular,831,USD,millions,reported,SEC 10-Q 0001613103-20-000051
+2021,Q2,2020-10-30,3,product,RespiratoryGastrointestinalAndRenalDivision,"Respiratory, Gastrointestinal, & Renal",呼吸胃肠与肾脏业务,Medical Surgical,893,USD,millions,reported,SEC 10-Q 0001613103-20-000051
+2021,Q2,2020-10-30,3,product,SurgicalInnovationsDivision,Surgical Innovations,外科创新业务,Medical Surgical,1393,USD,millions,reported,SEC 10-Q 0001613103-20-000051
+2021,Q2,2020-10-30,3,product,CranialAndSpinalTechnologiesDivision,Cranial & Spinal Technologies,颅脑与脊柱技术业务,Neuroscience,1071,USD,millions,reported,SEC 10-Q 0001613103-20-000051
+2021,Q2,2020-10-30,3,product,NeuromodulationDivision,Neuromodulation,神经调控业务,Neuroscience,411,USD,millions,reported,SEC 10-Q 0001613103-20-000051
+2021,Q2,2020-10-30,3,product,SpecialtyTherapiesDivision,Specialty Therapies,专科治疗业务,Neuroscience,581,USD,millions,reported,SEC 10-Q 0001613103-20-000051
 2021,Q2,2020-10-30,3,segment,CardiacAndVascularGroup,Cardiac & Vascular Group,心脏与血管集团,,2725,USD,millions,reported,SEC 10-Q 0001613103-20-000051
 2021,Q2,2020-10-30,3,segment,DiabetesGroup,Diabetes Group,糖尿病事业部,,574,USD,millions,reported,SEC 10-Q 0001613103-20-000051
 2021,Q2,2020-10-30,3,segment,MinimallyInvasiveTherapiesGroup,Minimally Invasive Therapies Group,微创治疗集团,,2285,USD,millions,reported,SEC 10-Q 0001613103-20-000051
@@ -35,14 +35,14 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2021,Q3,2021-01-29,3,geography,MiddleEastAfricaLatinAmericaEasternEuropeandAsiaExcludingJapanandKorea,Emerging Markets,新兴市场,,1314,USD,millions,reported,SEC 10-Q 0001613103-21-000009
 2021,Q3,2021-01-29,3,geography,US,United States,美国,,3939,USD,millions,reported,SEC 10-Q 0001613103-21-000009
 2021,Q3,2021-01-29,3,product,OtherNotItemized,Other (not itemized),其他（未单列）,,630,USD,millions,derived,SEC 10-Q 0001613103-21-000009
-2021,Q3,2021-01-29,3,product,AorticPeripheralandVenousDivision,"Aortic, Peripheral, & Venous",主动脉周围静脉业务,Cardiac & Vascular Group,463,USD,millions,reported,SEC 10-Q 0001613103-21-000009
-2021,Q3,2021-01-29,3,product,CardiacRhythmandHeartFailureDivision,Cardiac Rhythm & Heart Failure,心律与心力衰竭业务,Cardiac & Vascular Group,1371,USD,millions,reported,SEC 10-Q 0001613103-21-000009
-2021,Q3,2021-01-29,3,product,CoronaryandStructuralHeartDivision,Coronary & Structural Heart,冠脉与结构性心脏业务,Cardiac & Vascular Group,873,USD,millions,reported,SEC 10-Q 0001613103-21-000009
-2021,Q3,2021-01-29,3,product,RespiratoryGastrointestinalandRenalDivision,"Respiratory, Gastrointestinal, & Renal",呼吸胃肠与肾脏业务,Minimally Invasive Therapies Group,890,USD,millions,reported,SEC 10-Q 0001613103-21-000009
-2021,Q3,2021-01-29,3,product,SurgicalInnovationsDivision,Surgical Innovations,外科创新业务,Minimally Invasive Therapies Group,1423,USD,millions,reported,SEC 10-Q 0001613103-21-000009
-2021,Q3,2021-01-29,3,product,CranialAndSpinalTechnologiesDivision,Cranial & Spinal Technologies,颅脑与脊柱技术业务,Restorative Therapies Group,1081,USD,millions,reported,SEC 10-Q 0001613103-21-000009
-2021,Q3,2021-01-29,3,product,NeuromodulationDivision,Neuromodulation,神经调控业务,Restorative Therapies Group,426,USD,millions,reported,SEC 10-Q 0001613103-21-000009
-2021,Q3,2021-01-29,3,product,SpecialtyTherapiesDivision,Specialty Therapies,专科治疗业务,Restorative Therapies Group,618,USD,millions,reported,SEC 10-Q 0001613103-21-000009
+2021,Q3,2021-01-29,3,product,AorticPeripheralandVenousDivision,"Aortic, Peripheral, & Venous",主动脉周围静脉业务,Cardiovascular,463,USD,millions,reported,SEC 10-Q 0001613103-21-000009
+2021,Q3,2021-01-29,3,product,CardiacRhythmAndHeartFailureDivision,Cardiac Rhythm & Heart Failure,心律与心力衰竭业务,Cardiovascular,1371,USD,millions,reported,SEC 10-Q 0001613103-21-000009
+2021,Q3,2021-01-29,3,product,CoronaryandStructuralHeartDivision,Coronary & Structural Heart,冠脉与结构性心脏业务,Cardiovascular,873,USD,millions,reported,SEC 10-Q 0001613103-21-000009
+2021,Q3,2021-01-29,3,product,RespiratoryGastrointestinalAndRenalDivision,"Respiratory, Gastrointestinal, & Renal",呼吸胃肠与肾脏业务,Medical Surgical,890,USD,millions,reported,SEC 10-Q 0001613103-21-000009
+2021,Q3,2021-01-29,3,product,SurgicalInnovationsDivision,Surgical Innovations,外科创新业务,Medical Surgical,1423,USD,millions,reported,SEC 10-Q 0001613103-21-000009
+2021,Q3,2021-01-29,3,product,CranialAndSpinalTechnologiesDivision,Cranial & Spinal Technologies,颅脑与脊柱技术业务,Neuroscience,1081,USD,millions,reported,SEC 10-Q 0001613103-21-000009
+2021,Q3,2021-01-29,3,product,NeuromodulationDivision,Neuromodulation,神经调控业务,Neuroscience,426,USD,millions,reported,SEC 10-Q 0001613103-21-000009
+2021,Q3,2021-01-29,3,product,SpecialtyTherapiesDivision,Specialty Therapies,专科治疗业务,Neuroscience,618,USD,millions,reported,SEC 10-Q 0001613103-21-000009
 2021,Q3,2021-01-29,3,segment,CardiacAndVascularGroup,Cardiac & Vascular Group,心脏与血管集团,,2707,USD,millions,reported,SEC 10-Q 0001613103-21-000009
 2021,Q3,2021-01-29,3,segment,DiabetesGroup,Diabetes Group,糖尿病事业部,,630,USD,millions,reported,SEC 10-Q 0001613103-21-000009
 2021,Q3,2021-01-29,3,segment,MinimallyInvasiveTherapiesGroup,Minimally Invasive Therapies Group,微创治疗集团,,2313,USD,millions,reported,SEC 10-Q 0001613103-21-000009
@@ -51,7 +51,7 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2021,Q4,2021-04-30,3,geography,MiddleEastAfricaLatinAmericaEasternEuropeandAsiaExcludingJapanandKorea,Emerging Markets,新兴市场,,1334,USD,millions,derived,SEC 10-K 0001613103-21-000027 − 10-Q 0001613103-21-000009
 2021,Q4,2021-04-30,3,geography,US,U.S. Pension Benefits,美国,,4182,USD,millions,derived,SEC 10-K 0001613103-21-000027 − 10-Q 0001613103-21-000009
 2021,Q4,2021-04-30,3,product,OtherNotItemized,Other (not itemized),其他（未单列）,,1444,USD,millions,derived,SEC 10-K 0001613103-21-000027 − 10-Q 0001613103-22-000011
-2021,Q4,2021-04-30,3,product,CardiacRhythmandHeartFailureDivision,Cardiac Rhythm & Heart Failure,心律与心力衰竭业务,Cardiovascular,1539,USD,millions,derived,SEC 10-K 0001613103-21-000027 − 10-Q 0001613103-22-000011
+2021,Q4,2021-04-30,3,product,CardiacRhythmAndHeartFailureDivision,Cardiac Rhythm & Heart Failure,心律与心力衰竭业务,Cardiovascular,1539,USD,millions,derived,SEC 10-K 0001613103-21-000027 − 10-Q 0001613103-22-000011
 2021,Q4,2021-04-30,3,product,CoronaryAndPeripheralVascularDivision,Coronary & Peripheral Vascular,冠脉与外周血管业务,Cardiovascular,624,USD,millions,derived,SEC 10-K 0001613103-21-000027 − 10-Q 0001613103-22-000011
 2021,Q4,2021-04-30,3,product,StructuralHeartAndAorticDivision,Structural Heart & Aortic,结构性心脏与主动脉,Cardiovascular,744,USD,millions,derived,SEC 10-K 0001613103-21-000027 − 10-Q 0001613103-22-000011
 2021,Q4,2021-04-30,3,product,SurgicalInnovationsDivision,Surgical Innovations,外科创新业务,Medical Surgical,1542,USD,millions,derived,SEC 10-K 0001613103-21-000027 − 10-Q 0001613103-22-000011
@@ -62,7 +62,7 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2021,FY,2021-04-30,12,geography,MiddleEastAfricaLatinAmericaEasternEuropeandAsiaExcludingJapanandKorea,Emerging Markets,新兴市场,,4777,USD,millions,reported,SEC 10-K 0001613103-21-000027
 2021,FY,2021-04-30,12,geography,US,U.S. Pension Benefits,美国,,15526,USD,millions,reported,SEC 10-K 0001613103-21-000027
 2021,FY,2021-04-30,12,product,OtherNotItemized,Other (not itemized),其他（未单列）,,2413,USD,millions,derived,SEC 10-K 0001613103-21-000027
-2021,FY,2021-04-30,12,product,CardiacRhythmandHeartFailureDivision,Cardiac Rhythm & Heart Failure,心律与心力衰竭业务,Cardiovascular,5584,USD,millions,reported,SEC 10-K 0001613103-21-000027
+2021,FY,2021-04-30,12,product,CardiacRhythmAndHeartFailureDivision,Cardiac Rhythm & Heart Failure,心律与心力衰竭业务,Cardiovascular,5584,USD,millions,reported,SEC 10-K 0001613103-21-000027
 2021,FY,2021-04-30,12,product,CoronaryAndPeripheralVascularDivision,Coronary & Peripheral Vascular,冠脉与外周血管业务,Cardiovascular,2354,USD,millions,reported,SEC 10-K 0001613103-21-000027
 2021,FY,2021-04-30,12,product,StructuralHeartAndAorticDivision,Structural Heart & Aortic,结构性心脏与主动脉,Cardiovascular,2834,USD,millions,reported,SEC 10-K 0001613103-21-000027
 2021,FY,2021-04-30,12,product,RespiratoryGastrointestinalAndRenalDivision,"Respiratory, Gastrointestinal, & Renal",呼吸胃肠与肾脏业务,Medical Surgical,3298,USD,millions,reported,SEC 10-K 0001613103-21-000027
@@ -78,10 +78,10 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2022,Q1,2021-07-30,3,geography,MiddleEastAfricaLatinAmericaEasternEuropeandAsiaExcludingJapanandKorea,Emerging Markets,新兴市场,,1286,USD,millions,reported,SEC 10-Q 0001613103-21-000042
 2022,Q1,2021-07-30,3,geography,US,United States,美国,,4101,USD,millions,reported,SEC 10-Q 0001613103-21-000042
 2022,Q1,2021-07-30,3,product,OtherNotItemized,Other (not itemized),其他（未单列）,,571,USD,millions,derived,SEC 10-Q 0001613103-21-000042
-2022,Q1,2021-07-30,3,product,CardiacRhythmandHeartFailureDivision,Cardiac Rhythm & Heart Failure,心律与心力衰竭业务,Cardiovascular,1483,USD,millions,reported,SEC 10-Q 0001613103-21-000042
+2022,Q1,2021-07-30,3,product,CardiacRhythmAndHeartFailureDivision,Cardiac Rhythm & Heart Failure,心律与心力衰竭业务,Cardiovascular,1483,USD,millions,reported,SEC 10-Q 0001613103-21-000042
 2022,Q1,2021-07-30,3,product,CoronaryAndPeripheralVascularDivision,Coronary & Peripheral Vascular,冠脉与外周血管业务,Cardiovascular,620,USD,millions,reported,SEC 10-Q 0001613103-21-000042
 2022,Q1,2021-07-30,3,product,StructuralHeartAndAorticDivision,Structural Heart & Aortic,结构性心脏与主动脉,Cardiovascular,787,USD,millions,reported,SEC 10-Q 0001613103-21-000042
-2022,Q1,2021-07-30,3,product,RespiratoryGastrointestinalandRenalDivision,"Respiratory, Gastrointestinal, & Renal",呼吸胃肠与肾脏业务,Medical Surgical,768,USD,millions,reported,SEC 10-Q 0001613103-21-000042
+2022,Q1,2021-07-30,3,product,RespiratoryGastrointestinalAndRenalDivision,"Respiratory, Gastrointestinal, & Renal",呼吸胃肠与肾脏业务,Medical Surgical,768,USD,millions,reported,SEC 10-Q 0001613103-21-000042
 2022,Q1,2021-07-30,3,product,SurgicalInnovationsDivision,Surgical Innovations,外科创新业务,Medical Surgical,1554,USD,millions,reported,SEC 10-Q 0001613103-21-000042
 2022,Q1,2021-07-30,3,product,CranialAndSpinalTechnologiesDivision,Cranial & Spinal Technologies,颅脑与脊柱技术业务,Neuroscience,1123,USD,millions,reported,SEC 10-Q 0001613103-21-000042
 2022,Q1,2021-07-30,3,product,NeuromodulationDivision,Neuromodulation,神经调控业务,Neuroscience,440,USD,millions,reported,SEC 10-Q 0001613103-21-000042
@@ -94,10 +94,10 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2022,Q2,2021-10-29,3,geography,MiddleEastAfricaLatinAmericaEasternEuropeandAsiaExcludingJapanandKorea,Emerging Markets,新兴市场,,1372,USD,millions,reported,SEC 10-Q 0001613103-21-000062
 2022,Q2,2021-10-29,3,geography,US,United States,美国,,3997,USD,millions,reported,SEC 10-Q 0001613103-21-000062
 2022,Q2,2021-10-29,3,product,OtherNotItemized,Other (not itemized),其他（未单列）,,585,USD,millions,derived,SEC 10-Q 0001613103-21-000062
-2022,Q2,2021-10-29,3,product,CardiacRhythmandHeartFailureDivision,Cardiac Rhythm & Heart Failure,心律与心力衰竭业务,Cardiovascular,1471,USD,millions,reported,SEC 10-Q 0001613103-21-000062
+2022,Q2,2021-10-29,3,product,CardiacRhythmAndHeartFailureDivision,Cardiac Rhythm & Heart Failure,心律与心力衰竭业务,Cardiovascular,1471,USD,millions,reported,SEC 10-Q 0001613103-21-000062
 2022,Q2,2021-10-29,3,product,CoronaryAndPeripheralVascularDivision,Coronary & Peripheral Vascular,冠脉与外周血管业务,Cardiovascular,606,USD,millions,reported,SEC 10-Q 0001613103-21-000062
 2022,Q2,2021-10-29,3,product,StructuralHeartAndAorticDivision,Structural Heart & Aortic,结构性心脏与主动脉,Cardiovascular,750,USD,millions,reported,SEC 10-Q 0001613103-21-000062
-2022,Q2,2021-10-29,3,product,RespiratoryGastrointestinalandRenalDivision,"Respiratory, Gastrointestinal, & Renal",呼吸胃肠与肾脏业务,Medical Surgical,802,USD,millions,reported,SEC 10-Q 0001613103-21-000062
+2022,Q2,2021-10-29,3,product,RespiratoryGastrointestinalAndRenalDivision,"Respiratory, Gastrointestinal, & Renal",呼吸胃肠与肾脏业务,Medical Surgical,802,USD,millions,reported,SEC 10-Q 0001613103-21-000062
 2022,Q2,2021-10-29,3,product,SurgicalInnovationsDivision,Surgical Innovations,外科创新业务,Medical Surgical,1497,USD,millions,reported,SEC 10-Q 0001613103-21-000062
 2022,Q2,2021-10-29,3,product,CranialAndSpinalTechnologiesDivision,Cranial & Spinal Technologies,颅脑与脊柱技术业务,Neuroscience,1067,USD,millions,reported,SEC 10-Q 0001613103-21-000062
 2022,Q2,2021-10-29,3,product,NeuromodulationDivision,Neuromodulation,神经调控业务,Neuroscience,435,USD,millions,reported,SEC 10-Q 0001613103-21-000062
@@ -110,10 +110,10 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2022,Q3,2022-01-28,3,geography,MiddleEastAfricaLatinAmericaEasternEuropeandAsiaExcludingJapanandKorea,Emerging Markets,新兴市场,,1385,USD,millions,reported,SEC 10-Q 0001613103-22-000011
 2022,Q3,2022-01-28,3,geography,US,United States,美国,,3939,USD,millions,reported,SEC 10-Q 0001613103-22-000011
 2022,Q3,2022-01-28,3,product,OtherNotItemized,Other (not itemized),其他（未单列）,,584,USD,millions,derived,SEC 10-Q 0001613103-22-000011
-2022,Q3,2022-01-28,3,product,CardiacRhythmandHeartFailureDivision,Cardiac Rhythm & Heart Failure,心律与心力衰竭业务,Cardiovascular,1402,USD,millions,reported,SEC 10-Q 0001613103-22-000011
+2022,Q3,2022-01-28,3,product,CardiacRhythmAndHeartFailureDivision,Cardiac Rhythm & Heart Failure,心律与心力衰竭业务,Cardiovascular,1402,USD,millions,reported,SEC 10-Q 0001613103-22-000011
 2022,Q3,2022-01-28,3,product,CoronaryAndPeripheralVascularDivision,Coronary & Peripheral Vascular,冠脉与外周血管业务,Cardiovascular,603,USD,millions,reported,SEC 10-Q 0001613103-22-000011
 2022,Q3,2022-01-28,3,product,StructuralHeartAndAorticDivision,Structural Heart & Aortic,结构性心脏与主动脉,Cardiovascular,740,USD,millions,reported,SEC 10-Q 0001613103-22-000011
-2022,Q3,2022-01-28,3,product,RespiratoryGastrointestinalandRenalDivision,"Respiratory, Gastrointestinal, & Renal",呼吸胃肠与肾脏业务,Medical Surgical,771,USD,millions,reported,SEC 10-Q 0001613103-22-000011
+2022,Q3,2022-01-28,3,product,RespiratoryGastrointestinalAndRenalDivision,"Respiratory, Gastrointestinal, & Renal",呼吸胃肠与肾脏业务,Medical Surgical,771,USD,millions,reported,SEC 10-Q 0001613103-22-000011
 2022,Q3,2022-01-28,3,product,SurgicalInnovationsDivision,Surgical Innovations,外科创新业务,Medical Surgical,1519,USD,millions,reported,SEC 10-Q 0001613103-22-000011
 2022,Q3,2022-01-28,3,product,CranialAndSpinalTechnologiesDivision,Cranial & Spinal Technologies,颅脑与脊柱技术业务,Neuroscience,1102,USD,millions,reported,SEC 10-Q 0001613103-22-000011
 2022,Q3,2022-01-28,3,product,NeuromodulationDivision,Neuromodulation,神经调控业务,Neuroscience,409,USD,millions,reported,SEC 10-Q 0001613103-22-000011
@@ -126,7 +126,7 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2022,Q4,2022-04-29,3,geography,MiddleEastAfricaLatinAmericaEasternEuropeandAsiaExcludingJapanandKorea,Emerging Markets,新兴市场,,1383,USD,millions,derived,SEC 10-K 0001613103-22-000023 − 10-Q 0001613103-22-000011
 2022,Q4,2022-04-29,3,geography,US,U.S. Pension Benefits,美国,,4097,USD,millions,derived,SEC 10-K 0001613103-22-000023 − 10-Q 0001613103-22-000011
 2022,Q4,2022-04-29,3,product,OtherNotItemized,Other (not itemized),其他（未单列）,,1340,USD,millions,derived,SEC 10-K 0001613103-22-000023 − 10-Q 0001613103-22-000011
-2022,Q4,2022-04-29,3,product,CardiacRhythmandHeartFailureDivision,Cardiac Rhythm & Heart Failure,心律与心力衰竭业务,Cardiovascular,1552,USD,millions,derived,SEC 10-K 0001613103-22-000023 − 10-Q 0001613103-22-000011
+2022,Q4,2022-04-29,3,product,CardiacRhythmAndHeartFailureDivision,Cardiac Rhythm & Heart Failure,心律与心力衰竭业务,Cardiovascular,1552,USD,millions,derived,SEC 10-K 0001613103-22-000023 − 10-Q 0001613103-22-000011
 2022,Q4,2022-04-29,3,product,CoronaryAndPeripheralVascularDivision,Coronary & Peripheral Vascular,冠脉与外周血管业务,Cardiovascular,631,USD,millions,derived,SEC 10-K 0001613103-22-000023 − 10-Q 0001613103-22-000011
 2022,Q4,2022-04-29,3,product,StructuralHeartAndAorticDivision,Structural Heart & Aortic,结构性心脏与主动脉,Cardiovascular,778,USD,millions,derived,SEC 10-K 0001613103-22-000023 − 10-Q 0001613103-22-000011
 2022,Q4,2022-04-29,3,product,SurgicalInnovationsDivision,Surgical Innovations,外科创新业务,Medical Surgical,1490,USD,millions,derived,SEC 10-K 0001613103-22-000023 − 10-Q 0001613103-22-000011
@@ -142,7 +142,7 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2022,FY,2022-04-29,12,geography,MiddleEastAfricaLatinAmericaEasternEuropeandAsiaExcludingJapanandKorea,Emerging Markets,新兴市场,,5426,USD,millions,reported,SEC 10-K 0001613103-22-000023
 2022,FY,2022-04-29,12,geography,US,U.S. Pension Benefits,美国,,16135,USD,millions,reported,SEC 10-K 0001613103-22-000023
 2022,FY,2022-04-29,12,product,OtherNotItemized,Other (not itemized),其他（未单列）,,2339,USD,millions,derived,SEC 10-K 0001613103-22-000023
-2022,FY,2022-04-29,12,product,CardiacRhythmandHeartFailureDivision,Cardiac Rhythm & Heart Failure,心律与心力衰竭业务,Cardiovascular,5908,USD,millions,reported,SEC 10-K 0001613103-22-000023
+2022,FY,2022-04-29,12,product,CardiacRhythmAndHeartFailureDivision,Cardiac Rhythm & Heart Failure,心律与心力衰竭业务,Cardiovascular,5908,USD,millions,reported,SEC 10-K 0001613103-22-000023
 2022,FY,2022-04-29,12,product,CoronaryAndPeripheralVascularDivision,Coronary & Peripheral Vascular,冠脉与外周血管业务,Cardiovascular,2460,USD,millions,reported,SEC 10-K 0001613103-22-000023
 2022,FY,2022-04-29,12,product,StructuralHeartAndAorticDivision,Structural Heart & Aortic,结构性心脏与主动脉,Cardiovascular,3055,USD,millions,reported,SEC 10-K 0001613103-22-000023
 2022,FY,2022-04-29,12,product,RespiratoryGastrointestinalAndRenalDivision,"Respiratory, Gastrointestinal, & Renal",呼吸胃肠与肾脏业务,Medical Surgical,3081,USD,millions,reported,SEC 10-K 0001613103-22-000023
@@ -159,10 +159,10 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2023,Q1,2022-07-29,3,geography,MiddleEastAfricaLatinAmericaEasternEuropeandAsiaExcludingJapanandKorea,Emerging Markets,新兴市场,,1276,USD,millions,reported,SEC 10-Q 0001613103-22-000046
 2023,Q1,2022-07-29,3,geography,US,UNITED STATES,美国,,3766,USD,millions,reported,SEC 10-Q 0001613103-22-000046
 2023,Q1,2022-07-29,3,product,OtherNotItemized,Other (not itemized),其他（未单列）,,541,USD,millions,derived,SEC 10-Q 0001613103-22-000046
-2023,Q1,2022-07-29,3,product,CardiacRhythmandHeartFailureDivision,Cardiac Rhythm & Heart Failure,心律与心力衰竭业务,Cardiovascular,1393,USD,millions,reported,SEC 10-Q 0001613103-22-000046
+2023,Q1,2022-07-29,3,product,CardiacRhythmAndHeartFailureDivision,Cardiac Rhythm & Heart Failure,心律与心力衰竭业务,Cardiovascular,1393,USD,millions,reported,SEC 10-Q 0001613103-22-000046
 2023,Q1,2022-07-29,3,product,CoronaryAndPeripheralVascularDivision,Coronary & Peripheral Vascular,冠脉与外周血管业务,Cardiovascular,579,USD,millions,reported,SEC 10-Q 0001613103-22-000046
 2023,Q1,2022-07-29,3,product,StructuralHeartAndAorticDivision,Structural Heart & Aortic,结构性心脏与主动脉,Cardiovascular,741,USD,millions,reported,SEC 10-Q 0001613103-22-000046
-2023,Q1,2022-07-29,3,product,RespiratoryGastrointestinalandRenalDivision,"Respiratory, Gastrointestinal, & Renal",呼吸胃肠与肾脏业务,Medical Surgical,664,USD,millions,reported,SEC 10-Q 0001613103-22-000046
+2023,Q1,2022-07-29,3,product,RespiratoryGastrointestinalAndRenalDivision,"Respiratory, Gastrointestinal, & Renal",呼吸胃肠与肾脏业务,Medical Surgical,664,USD,millions,reported,SEC 10-Q 0001613103-22-000046
 2023,Q1,2022-07-29,3,product,SurgicalInnovationsDivision,Surgical Innovations,外科创新业务,Medical Surgical,1338,USD,millions,reported,SEC 10-Q 0001613103-22-000046
 2023,Q1,2022-07-29,3,product,CranialAndSpinalTechnologiesDivision,Cranial & Spinal Technologies,颅脑与脊柱技术业务,Neuroscience,1043,USD,millions,reported,SEC 10-Q 0001613103-22-000046
 2023,Q1,2022-07-29,3,product,NeuromodulationDivision,Neuromodulation,神经调控业务,Neuroscience,405,USD,millions,reported,SEC 10-Q 0001613103-22-000046
@@ -176,10 +176,10 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2023,Q2,2022-10-28,3,geography,MiddleEastAfricaLatinAmericaEasternEuropeandAsiaExcludingJapanandKorea,Emerging Markets,新兴市场,,1359,USD,millions,reported,SEC 10-Q 0001613103-22-000063
 2023,Q2,2022-10-28,3,geography,US,UNITED STATES,美国,,4069,USD,millions,reported,SEC 10-Q 0001613103-22-000063
 2023,Q2,2022-10-28,3,product,OtherNotItemized,Other (not itemized),其他（未单列）,,558,USD,millions,derived,SEC 10-Q 0001613103-22-000063
-2023,Q2,2022-10-28,3,product,CardiacRhythmandHeartFailureDivision,Cardiac Rhythm & Heart Failure,心律与心力衰竭业务,Cardiovascular,1431,USD,millions,reported,SEC 10-Q 0001613103-22-000063
+2023,Q2,2022-10-28,3,product,CardiacRhythmAndHeartFailureDivision,Cardiac Rhythm & Heart Failure,心律与心力衰竭业务,Cardiovascular,1431,USD,millions,reported,SEC 10-Q 0001613103-22-000063
 2023,Q2,2022-10-28,3,product,CoronaryAndPeripheralVascularDivision,Coronary & Peripheral Vascular,冠脉与外周血管业务,Cardiovascular,584,USD,millions,reported,SEC 10-Q 0001613103-22-000063
 2023,Q2,2022-10-28,3,product,StructuralHeartAndAorticDivision,Structural Heart & Aortic,结构性心脏与主动脉,Cardiovascular,757,USD,millions,reported,SEC 10-Q 0001613103-22-000063
-2023,Q2,2022-10-28,3,product,RespiratoryGastrointestinalandRenalDivision,"Respiratory, Gastrointestinal, & Renal",呼吸胃肠与肾脏业务,Medical Surgical,671,USD,millions,reported,SEC 10-Q 0001613103-22-000063
+2023,Q2,2022-10-28,3,product,RespiratoryGastrointestinalAndRenalDivision,"Respiratory, Gastrointestinal, & Renal",呼吸胃肠与肾脏业务,Medical Surgical,671,USD,millions,reported,SEC 10-Q 0001613103-22-000063
 2023,Q2,2022-10-28,3,product,SurgicalInnovationsDivision,Surgical Innovations,外科创新业务,Medical Surgical,1398,USD,millions,reported,SEC 10-Q 0001613103-22-000063
 2023,Q2,2022-10-28,3,product,CranialAndSpinalTechnologiesDivision,Cranial & Spinal Technologies,颅脑与脊柱技术业务,Neuroscience,1081,USD,millions,reported,SEC 10-Q 0001613103-22-000063
 2023,Q2,2022-10-28,3,product,NeuromodulationDivision,Neuromodulation,神经调控业务,Neuroscience,419,USD,millions,reported,SEC 10-Q 0001613103-22-000063
@@ -193,10 +193,10 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2023,Q3,2023-01-27,3,geography,MiddleEastAfricaLatinAmericaEasternEuropeandAsiaExcludingJapanandKorea,Emerging Markets,新兴市场,,1371,USD,millions,reported,SEC 10-Q 0001613103-23-000008
 2023,Q3,2023-01-27,3,geography,US,UNITED STATES,美国,,4062,USD,millions,reported,SEC 10-Q 0001613103-23-000008
 2023,Q3,2023-01-27,3,product,OtherNotItemized,Other (not itemized),其他（未单列）,,571,USD,millions,derived,SEC 10-Q 0001613103-23-000008
-2023,Q3,2023-01-27,3,product,CardiacRhythmandHeartFailureDivision,Cardiac Rhythm & Heart Failure,心律与心力衰竭业务,Cardiovascular,1431,USD,millions,reported,SEC 10-Q 0001613103-23-000008
+2023,Q3,2023-01-27,3,product,CardiacRhythmAndHeartFailureDivision,Cardiac Rhythm & Heart Failure,心律与心力衰竭业务,Cardiovascular,1431,USD,millions,reported,SEC 10-Q 0001613103-23-000008
 2023,Q3,2023-01-27,3,product,CoronaryAndPeripheralVascularDivision,Coronary & Peripheral Vascular,冠脉与外周血管业务,Cardiovascular,581,USD,millions,reported,SEC 10-Q 0001613103-23-000008
 2023,Q3,2023-01-27,3,product,StructuralHeartAndAorticDivision,Structural Heart & Aortic,结构性心脏与主动脉,Cardiovascular,760,USD,millions,reported,SEC 10-Q 0001613103-23-000008
-2023,Q3,2023-01-27,3,product,RespiratoryGastrointestinalandRenalDivision,"Respiratory, Gastrointestinal, & Renal",呼吸胃肠与肾脏业务,Medical Surgical,712,USD,millions,reported,SEC 10-Q 0001613103-23-000008
+2023,Q3,2023-01-27,3,product,RespiratoryGastrointestinalAndRenalDivision,"Respiratory, Gastrointestinal, & Renal",呼吸胃肠与肾脏业务,Medical Surgical,712,USD,millions,reported,SEC 10-Q 0001613103-23-000008
 2023,Q3,2023-01-27,3,product,SurgicalInnovationsDivision,Surgical Innovations,外科创新业务,Medical Surgical,1425,USD,millions,reported,SEC 10-Q 0001613103-23-000008
 2023,Q3,2023-01-27,3,product,CranialAndSpinalTechnologiesDivision,Cranial & Spinal Technologies,颅脑与脊柱技术业务,Neuroscience,1128,USD,millions,reported,SEC 10-Q 0001613103-23-000008
 2023,Q3,2023-01-27,3,product,NeuromodulationDivision,Neuromodulation,神经调控业务,Neuroscience,420,USD,millions,reported,SEC 10-Q 0001613103-23-000008
@@ -210,7 +210,7 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2023,Q4,2023-04-28,3,geography,MiddleEastAfricaLatinAmericaEasternEuropeandAsiaExcludingJapanandKorea,Emerging Markets,新兴市场,,1440,USD,millions,derived,SEC 10-K 0001613103-23-000040 − 10-Q 0001613103-23-000008
 2023,Q4,2023-04-28,3,geography,US,UNITED STATES,美国,,4476,USD,millions,derived,SEC 10-K 0001613103-23-000040 − 10-Q 0001613103-23-000008
 2023,Q4,2023-04-28,3,product,OtherNotItemized,Other (not itemized),其他（未单列）,,1319,USD,millions,derived,SEC 10-K 0001613103-23-000040 − 10-Q 0001613103-23-000008
-2023,Q4,2023-04-28,3,product,CardiacRhythmandHeartFailureDivision,Cardiac Rhythm & Heart Failure,心律与心力衰竭业务,Cardiovascular,1580,USD,millions,derived,SEC 10-K 0001613103-23-000040 − 10-Q 0001613103-23-000008
+2023,Q4,2023-04-28,3,product,CardiacRhythmAndHeartFailureDivision,Cardiac Rhythm & Heart Failure,心律与心力衰竭业务,Cardiovascular,1580,USD,millions,derived,SEC 10-K 0001613103-23-000040 − 10-Q 0001613103-23-000008
 2023,Q4,2023-04-28,3,product,CoronaryAndPeripheralVascularDivision,Coronary & Peripheral Vascular,冠脉与外周血管业务,Cardiovascular,631,USD,millions,derived,SEC 10-K 0001613103-23-000040 − 10-Q 0001613103-23-000008
 2023,Q4,2023-04-28,3,product,StructuralHeartAndAorticDivision,Structural Heart & Aortic,结构性心脏与主动脉,Cardiovascular,1104,USD,millions,derived,SEC 10-K 0001613103-23-000040 − 10-Q 0001613103-23-000008
 2023,Q4,2023-04-28,3,product,SurgicalInnovationsDivision,Surgical Innovations,外科创新业务,Medical Surgical,1501,USD,millions,derived,SEC 10-K 0001613103-23-000040 − 10-Q 0001613103-23-000008
@@ -226,7 +226,7 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2023,FY,2023-04-28,12,geography,MiddleEastAfricaLatinAmericaEasternEuropeandAsiaExcludingJapanandKorea,Emerging Markets,新兴市场,,5446,USD,millions,reported,SEC 10-K 0001613103-23-000040
 2023,FY,2023-04-28,12,geography,US,UNITED STATES,美国,,16373,USD,millions,reported,SEC 10-K 0001613103-23-000040
 2023,FY,2023-04-28,12,product,OtherNotItemized,Other (not itemized),其他（未单列）,,2262,USD,millions,derived,SEC 10-K 0001613103-23-000040
-2023,FY,2023-04-28,12,product,CardiacRhythmandHeartFailureDivision,Cardiac Rhythm & Heart Failure,心律与心力衰竭业务,Cardiovascular,5835,USD,millions,reported,SEC 10-K 0001613103-23-000040
+2023,FY,2023-04-28,12,product,CardiacRhythmAndHeartFailureDivision,Cardiac Rhythm & Heart Failure,心律与心力衰竭业务,Cardiovascular,5835,USD,millions,reported,SEC 10-K 0001613103-23-000040
 2023,FY,2023-04-28,12,product,CoronaryAndPeripheralVascularDivision,Coronary & Peripheral Vascular,冠脉与外周血管业务,Cardiovascular,2375,USD,millions,reported,SEC 10-K 0001613103-23-000040
 2023,FY,2023-04-28,12,product,StructuralHeartAndAorticDivision,Structural Heart & Aortic,结构性心脏与主动脉,Cardiovascular,3363,USD,millions,reported,SEC 10-K 0001613103-23-000040
 2023,FY,2023-04-28,12,product,RespiratoryGastrointestinalAndRenalDivision,"Respiratory, Gastrointestinal, & Renal",呼吸胃肠与肾脏业务,Medical Surgical,2770,USD,millions,reported,SEC 10-K 0001613103-23-000040
@@ -243,7 +243,7 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2024,Q1,2023-07-28,3,geography,MiddleEastAfricaLatinAmericaEasternEuropeandAsiaExcludingJapanandKorea,Emerging Markets,新兴市场,,1314,USD,millions,reported,SEC 10-Q 0001613103-23-000128
 2024,Q1,2023-07-28,3,geography,US,UNITED STATES,美国,,3924,USD,millions,reported,SEC 10-Q 0001613103-23-000128
 2024,Q1,2023-07-28,3,product,OtherNotItemized,Other (not itemized),其他（未单列）,,596,USD,millions,derived,SEC 10-Q 0001613103-23-000128
-2024,Q1,2023-07-28,3,product,CardiacRhythmandHeartFailureDivision,Cardiac Rhythm & Heart Failure,心律与心力衰竭业务,Cardiovascular,1446,USD,millions,reported,SEC 10-Q 0001613103-23-000128
+2024,Q1,2023-07-28,3,product,CardiacRhythmAndHeartFailureDivision,Cardiac Rhythm & Heart Failure,心律与心力衰竭业务,Cardiovascular,1446,USD,millions,reported,SEC 10-Q 0001613103-23-000128
 2024,Q1,2023-07-28,3,product,CoronaryAndPeripheralVascularDivision,Coronary & Peripheral Vascular,冠脉与外周血管业务,Cardiovascular,589,USD,millions,reported,SEC 10-Q 0001613103-23-000128
 2024,Q1,2023-07-28,3,product,StructuralHeartAndAorticDivision,Structural Heart & Aortic,结构性心脏与主动脉,Cardiovascular,814,USD,millions,reported,SEC 10-Q 0001613103-23-000128
 2024,Q1,2023-07-28,3,product,PatientMonitoringAndRespiratoryInterventions,Patient Monitoring & Respiratory Interventions,病人监护与呼吸介入,Medical Surgical,493,USD,millions,reported,SEC 10-Q 0001613103-23-000128
@@ -260,7 +260,7 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2024,Q2,2023-10-27,3,geography,MiddleEastAfricaLatinAmericaEasternEuropeandAsiaExcludingJapanandKorea,Emerging Markets,新兴市场,,1441,USD,millions,reported,SEC 10-Q 0001613103-23-000149
 2024,Q2,2023-10-27,3,geography,US,UNITED STATES,美国,,4175,USD,millions,reported,SEC 10-Q 0001613103-23-000149
 2024,Q2,2023-10-27,3,product,OtherNotItemized,Other (not itemized),其他（未单列）,,630,USD,millions,derived,SEC 10-Q 0001613103-23-000149
-2024,Q2,2023-10-27,3,product,CardiacRhythmandHeartFailureDivision,Cardiac Rhythm & Heart Failure,心律与心力衰竭业务,Cardiovascular,1492,USD,millions,reported,SEC 10-Q 0001613103-23-000149
+2024,Q2,2023-10-27,3,product,CardiacRhythmAndHeartFailureDivision,Cardiac Rhythm & Heart Failure,心律与心力衰竭业务,Cardiovascular,1492,USD,millions,reported,SEC 10-Q 0001613103-23-000149
 2024,Q2,2023-10-27,3,product,CoronaryAndPeripheralVascularDivision,Coronary & Peripheral Vascular,冠脉与外周血管业务,Cardiovascular,613,USD,millions,reported,SEC 10-Q 0001613103-23-000149
 2024,Q2,2023-10-27,3,product,StructuralHeartAndAorticDivision,Structural Heart & Aortic,结构性心脏与主动脉,Cardiovascular,819,USD,millions,reported,SEC 10-Q 0001613103-23-000149
 2024,Q2,2023-10-27,3,product,PatientMonitoringAndRespiratoryInterventions,Patient Monitoring & Respiratory Interventions,病人监护与呼吸介入,Medical Surgical,501,USD,millions,reported,SEC 10-Q 0001613103-23-000149
@@ -277,7 +277,7 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2024,Q3,2024-01-26,3,geography,MiddleEastAfricaLatinAmericaEasternEuropeandAsiaExcludingJapanandKorea,Emerging Markets,新兴市场,,1495,USD,millions,reported,SEC 10-Q 0001613103-24-000011
 2024,Q3,2024-01-26,3,geography,US,UNITED STATES,美国,,4120,USD,millions,reported,SEC 10-Q 0001613103-24-000011
 2024,Q3,2024-01-26,3,product,OtherNotItemized,Other (not itemized),其他（未单列）,,657,USD,millions,derived,SEC 10-Q 0001613103-24-000011
-2024,Q3,2024-01-26,3,product,CardiacRhythmandHeartFailureDivision,Cardiac Rhythm & Heart Failure,心律与心力衰竭业务,Cardiovascular,1470,USD,millions,reported,SEC 10-Q 0001613103-24-000011
+2024,Q3,2024-01-26,3,product,CardiacRhythmAndHeartFailureDivision,Cardiac Rhythm & Heart Failure,心律与心力衰竭业务,Cardiovascular,1470,USD,millions,reported,SEC 10-Q 0001613103-24-000011
 2024,Q3,2024-01-26,3,product,CoronaryAndPeripheralVascularDivision,Coronary & Peripheral Vascular,冠脉与外周血管业务,Cardiovascular,616,USD,millions,reported,SEC 10-Q 0001613103-24-000011
 2024,Q3,2024-01-26,3,product,StructuralHeartAndAorticDivision,Structural Heart & Aortic,结构性心脏与主动脉,Cardiovascular,843,USD,millions,reported,SEC 10-Q 0001613103-24-000011
 2024,Q3,2024-01-26,3,product,PatientMonitoringAndRespiratoryInterventions,Patient Monitoring & Respiratory Interventions,病人监护与呼吸介入,Medical Surgical,532,USD,millions,reported,SEC 10-Q 0001613103-24-000011

@@ -46,25 +46,25 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2021,Q3,2021-09-30,3,geography,OtherRegion,Other Region,其他地区,,276,USD,millions,reported,SEC 10-Q 0000014272-21-000224
 2021,Q3,2021-09-30,3,geography,RestOfWorld,Rest Of World,世界其他地区,,1391,USD,millions,reported,SEC 10-Q 0000014272-21-000224
 2021,Q3,2021-09-30,3,geography,US,UNITED STATES,美国,,7296,USD,millions,reported,SEC 10-Q 0000014272-21-000224
-2021,Q3,2021-09-30,3,product,Eliquis,Eliquis,Eliquis,In-Line Products,2413,USD,millions,reported,SEC 10-Q 0000014272-22-000196
-2021,Q3,2021-09-30,3,product,Empliciti,Empliciti,Empliciti,In-Line Products,82,USD,millions,reported,SEC 10-Q 0000014272-22-000196
-2021,Q3,2021-09-30,3,product,MatureAndOtherBrands,Mature and other products,成熟及其他产品,In-Line Products,480,USD,millions,reported,SEC 10-Q 0000014272-22-000196
-2021,Q3,2021-09-30,3,product,Opdivo,Opdivo,Opdivo,In-Line Products,1905,USD,millions,reported,SEC 10-Q 0000014272-22-000196
-2021,Q3,2021-09-30,3,product,Orencia,Orencia,Orencia,In-Line Products,870,USD,millions,reported,SEC 10-Q 0000014272-22-000196
-2021,Q3,2021-09-30,3,product,PomalystImnovid,Pomalyst/Imnovid,Pomalyst/Imnovid,In-Line Products,851,USD,millions,reported,SEC 10-Q 0000014272-22-000196
-2021,Q3,2021-09-30,3,product,Sprycel,Sprycel,Sprycel,In-Line Products,551,USD,millions,reported,SEC 10-Q 0000014272-22-000196
-2021,Q3,2021-09-30,3,product,Yervoy,Yervoy,Yervoy,In-Line Products,515,USD,millions,reported,SEC 10-Q 0000014272-22-000196
-2021,Q3,2021-09-30,3,product,Abecma,Abecma,Abecma,New Product Portfolio,71,USD,millions,reported,SEC 10-Q 0000014272-22-000196
-2021,Q3,2021-09-30,3,product,Breyanzi,Breyanzi,Breyanzi,New Product Portfolio,30,USD,millions,reported,SEC 10-Q 0000014272-22-000196
-2021,Q3,2021-09-30,3,product,Camzyos,Camzyos,Camzyos,New Product Portfolio,0,USD,millions,reported,SEC 10-Q 0000014272-22-000196
-2021,Q3,2021-09-30,3,product,Inrebic,Inrebic,Inrebic,New Product Portfolio,22,USD,millions,reported,SEC 10-Q 0000014272-22-000196
-2021,Q3,2021-09-30,3,product,Onureg,Onureg,Onureg,New Product Portfolio,21,USD,millions,reported,SEC 10-Q 0000014272-22-000196
-2021,Q3,2021-09-30,3,product,Opdualag,Opdualag,Opdualag,New Product Portfolio,0,USD,millions,reported,SEC 10-Q 0000014272-22-000196
-2021,Q3,2021-09-30,3,product,Reblozyl,Reblozyl,Reblozyl,New Product Portfolio,160,USD,millions,reported,SEC 10-Q 0000014272-22-000196
-2021,Q3,2021-09-30,3,product,Sotyktu,Sotyktu,Sotyktu,New Product Portfolio,0,USD,millions,reported,SEC 10-Q 0000014272-22-000196
-2021,Q3,2021-09-30,3,product,Zeposia,Zeposia,Zeposia,New Product Portfolio,40,USD,millions,reported,SEC 10-Q 0000014272-22-000196
-2021,Q3,2021-09-30,3,product,Abraxane,Abraxane,Abraxane,Recent LOE Products,266,USD,millions,reported,SEC 10-Q 0000014272-22-000196
-2021,Q3,2021-09-30,3,product,Revlimid,Revlimid,Revlimid,Recent LOE Products,3347,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2021,Q3,2021-09-30,3,product,Camzyos,Camzyos,Camzyos,Cardiovascular,0,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2021,Q3,2021-09-30,3,product,Eliquis,Eliquis,Eliquis,Cardiovascular,2413,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2021,Q3,2021-09-30,3,product,MatureAndOtherBrands,Mature and other products,成熟及其他产品,Established Products,480,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2021,Q3,2021-09-30,3,product,Reblozyl,Reblozyl,Reblozyl,Hematology,160,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2021,Q3,2021-09-30,3,product,Orencia,Orencia,Orencia,Immunology,870,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2021,Q3,2021-09-30,3,product,Sotyktu,Sotyktu,Sotyktu,Immunology,0,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2021,Q3,2021-09-30,3,product,Zeposia,Zeposia,Zeposia,Immunology,40,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2021,Q3,2021-09-30,3,product,Abecma,Abecma,Abecma,Oncology,71,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2021,Q3,2021-09-30,3,product,Abraxane,Abraxane,Abraxane,Oncology,266,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2021,Q3,2021-09-30,3,product,Breyanzi,Breyanzi,Breyanzi,Oncology,30,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2021,Q3,2021-09-30,3,product,Empliciti,Empliciti,Empliciti,Oncology,82,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2021,Q3,2021-09-30,3,product,Inrebic,Inrebic,Inrebic,Oncology,22,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2021,Q3,2021-09-30,3,product,Onureg,Onureg,Onureg,Oncology,21,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2021,Q3,2021-09-30,3,product,Opdivo,Opdivo,Opdivo,Oncology,1905,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2021,Q3,2021-09-30,3,product,Opdualag,Opdualag,Opdualag,Oncology,0,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2021,Q3,2021-09-30,3,product,PomalystImnovid,Pomalyst/Imnovid,Pomalyst/Imnovid,Oncology,851,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2021,Q3,2021-09-30,3,product,Revlimid,Revlimid,Revlimid,Oncology,3347,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2021,Q3,2021-09-30,3,product,Sprycel,Sprycel,Sprycel,Oncology,551,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2021,Q3,2021-09-30,3,product,Yervoy,Yervoy,Yervoy,Oncology,515,USD,millions,reported,SEC 10-Q 0000014272-22-000196
 2021,Q4,2021-12-31,3,geography,International,International,国际地区,,4244,USD,millions,derived,SEC 10-K 0000014272-24-000044 − 10-Q 0000014272-22-000196
 2021,Q4,2021-12-31,3,geography,OtherRegion,Other,其他地区,,221,USD,millions,derived,SEC 10-K 0000014272-24-000044 − 10-Q 0000014272-22-000196
 2021,Q4,2021-12-31,3,geography,US,United States,美国,,7520,USD,millions,derived,SEC 10-K 0000014272-24-000044 − 10-Q 0000014272-22-000196
@@ -132,25 +132,25 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2022,Q3,2022-09-30,3,geography,International,International,国际地区,,3062,USD,millions,reported,SEC 10-Q 0000014272-22-000196
 2022,Q3,2022-09-30,3,geography,OtherRegion,Other Region,其他地区,,215,USD,millions,reported,SEC 10-Q 0000014272-22-000196
 2022,Q3,2022-09-30,3,geography,US,United States,美国,,7941,USD,millions,reported,SEC 10-Q 0000014272-22-000196
-2022,Q3,2022-09-30,3,product,Eliquis,Eliquis,Eliquis,In-Line Products,2655,USD,millions,reported,SEC 10-Q 0000014272-22-000196
-2022,Q3,2022-09-30,3,product,Empliciti,Empliciti,Empliciti,In-Line Products,73,USD,millions,reported,SEC 10-Q 0000014272-22-000196
-2022,Q3,2022-09-30,3,product,MatureAndOtherBrands,Mature and other products,成熟及其他产品,In-Line Products,441,USD,millions,reported,SEC 10-Q 0000014272-22-000196
-2022,Q3,2022-09-30,3,product,Opdivo,Opdivo,Opdivo,In-Line Products,2047,USD,millions,reported,SEC 10-Q 0000014272-22-000196
-2022,Q3,2022-09-30,3,product,Orencia,Orencia,Orencia,In-Line Products,883,USD,millions,reported,SEC 10-Q 0000014272-22-000196
-2022,Q3,2022-09-30,3,product,PomalystImnovid,Pomalyst/Imnovid,Pomalyst/Imnovid,In-Line Products,886,USD,millions,reported,SEC 10-Q 0000014272-22-000196
-2022,Q3,2022-09-30,3,product,Sprycel,Sprycel,Sprycel,In-Line Products,560,USD,millions,reported,SEC 10-Q 0000014272-22-000196
-2022,Q3,2022-09-30,3,product,Yervoy,Yervoy,Yervoy,In-Line Products,523,USD,millions,reported,SEC 10-Q 0000014272-22-000196
-2022,Q3,2022-09-30,3,product,Abecma,Abecma,Abecma,New Product Portfolio,107,USD,millions,reported,SEC 10-Q 0000014272-22-000196
-2022,Q3,2022-09-30,3,product,Breyanzi,Breyanzi,Breyanzi,New Product Portfolio,44,USD,millions,reported,SEC 10-Q 0000014272-22-000196
-2022,Q3,2022-09-30,3,product,Camzyos,Camzyos,Camzyos,New Product Portfolio,5,USD,millions,reported,SEC 10-Q 0000014272-22-000196
-2022,Q3,2022-09-30,3,product,Inrebic,Inrebic,Inrebic,New Product Portfolio,21,USD,millions,reported,SEC 10-Q 0000014272-22-000196
-2022,Q3,2022-09-30,3,product,Onureg,Onureg,Onureg,New Product Portfolio,32,USD,millions,reported,SEC 10-Q 0000014272-22-000196
-2022,Q3,2022-09-30,3,product,Opdualag,Opdualag,Opdualag,New Product Portfolio,84,USD,millions,reported,SEC 10-Q 0000014272-22-000196
-2022,Q3,2022-09-30,3,product,Reblozyl,Reblozyl,Reblozyl,New Product Portfolio,190,USD,millions,reported,SEC 10-Q 0000014272-22-000196
-2022,Q3,2022-09-30,3,product,Sotyktu,Sotyktu,Sotyktu,New Product Portfolio,1,USD,millions,reported,SEC 10-Q 0000014272-22-000196
-2022,Q3,2022-09-30,3,product,Zeposia,Zeposia,Zeposia,New Product Portfolio,69,USD,millions,reported,SEC 10-Q 0000014272-22-000196
-2022,Q3,2022-09-30,3,product,Abraxane,Abraxane,Abraxane,Recent LOE Products,177,USD,millions,reported,SEC 10-Q 0000014272-22-000196
-2022,Q3,2022-09-30,3,product,Revlimid,Revlimid,Revlimid,Recent LOE Products,2420,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2022,Q3,2022-09-30,3,product,Camzyos,Camzyos,Camzyos,Cardiovascular,5,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2022,Q3,2022-09-30,3,product,Eliquis,Eliquis,Eliquis,Cardiovascular,2655,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2022,Q3,2022-09-30,3,product,MatureAndOtherBrands,Mature and other products,成熟及其他产品,Established Products,441,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2022,Q3,2022-09-30,3,product,Reblozyl,Reblozyl,Reblozyl,Hematology,190,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2022,Q3,2022-09-30,3,product,Orencia,Orencia,Orencia,Immunology,883,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2022,Q3,2022-09-30,3,product,Sotyktu,Sotyktu,Sotyktu,Immunology,1,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2022,Q3,2022-09-30,3,product,Zeposia,Zeposia,Zeposia,Immunology,69,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2022,Q3,2022-09-30,3,product,Abecma,Abecma,Abecma,Oncology,107,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2022,Q3,2022-09-30,3,product,Abraxane,Abraxane,Abraxane,Oncology,177,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2022,Q3,2022-09-30,3,product,Breyanzi,Breyanzi,Breyanzi,Oncology,44,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2022,Q3,2022-09-30,3,product,Empliciti,Empliciti,Empliciti,Oncology,73,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2022,Q3,2022-09-30,3,product,Inrebic,Inrebic,Inrebic,Oncology,21,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2022,Q3,2022-09-30,3,product,Onureg,Onureg,Onureg,Oncology,32,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2022,Q3,2022-09-30,3,product,Opdivo,Opdivo,Opdivo,Oncology,2047,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2022,Q3,2022-09-30,3,product,Opdualag,Opdualag,Opdualag,Oncology,84,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2022,Q3,2022-09-30,3,product,PomalystImnovid,Pomalyst/Imnovid,Pomalyst/Imnovid,Oncology,886,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2022,Q3,2022-09-30,3,product,Revlimid,Revlimid,Revlimid,Oncology,2420,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2022,Q3,2022-09-30,3,product,Sprycel,Sprycel,Sprycel,Oncology,560,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2022,Q3,2022-09-30,3,product,Yervoy,Yervoy,Yervoy,Oncology,523,USD,millions,reported,SEC 10-Q 0000014272-22-000196
 2022,Q4,2022-12-31,3,geography,International,International,国际地区,,3281,USD,millions,derived,SEC 10-K 0000014272-24-000044 − 10-Q 0000014272-22-000196
 2022,Q4,2022-12-31,3,geography,OtherRegion,Other,其他地区,,200,USD,millions,derived,SEC 10-K 0000014272-24-000044 − 10-Q 0000014272-22-000196
 2022,Q4,2022-12-31,3,geography,US,United States,美国,,7925,USD,millions,derived,SEC 10-K 0000014272-24-000044 − 10-Q 0000014272-22-000196
@@ -190,71 +190,71 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2025,Q1,2025-03-31,3,geography,International,International,国际地区,,3110,USD,millions,reported,SEC 10-Q 0000014272-25-000091
 2025,Q1,2025-03-31,3,geography,OtherRegion,Other,其他地区,,218,USD,millions,reported,SEC 10-Q 0000014272-25-000091
 2025,Q1,2025-03-31,3,geography,US,United States,美国,,7873,USD,millions,reported,SEC 10-Q 0000014272-25-000091
-2025,Q1,2025-03-31,3,product,Breyanzi,Breyanzi,Breyanzi,Growth Portfolio,263,USD,millions,reported,SEC 10-Q 0000014272-26-000010
-2025,Q1,2025-03-31,3,product,Camzyos,Camzyos,Camzyos,Growth Portfolio,159,USD,millions,reported,SEC 10-Q 0000014272-26-000010
-2025,Q1,2025-03-31,3,product,Cobenfy,Cobenfy,Cobenfy,Growth Portfolio,27,USD,millions,reported,SEC 10-Q 0000014272-26-000010
-2025,Q1,2025-03-31,3,product,Krazati,Krazati,Krazati,Growth Portfolio,48,USD,millions,reported,SEC 10-Q 0000014272-26-000010
-2025,Q1,2025-03-31,3,product,Opdivo,Opdivo,Opdivo,Growth Portfolio,2265,USD,millions,reported,SEC 10-Q 0000014272-26-000010
-2025,Q1,2025-03-31,3,product,OpdivoOvantig,Opdivo Qvantig,Opdivo Qvantig,Growth Portfolio,9,USD,millions,reported,SEC 10-Q 0000014272-26-000010
-2025,Q1,2025-03-31,3,product,Opdualag,Opdualag,Opdualag,Growth Portfolio,252,USD,millions,reported,SEC 10-Q 0000014272-26-000010
-2025,Q1,2025-03-31,3,product,Orencia,Orencia,Orencia,Growth Portfolio,770,USD,millions,reported,SEC 10-Q 0000014272-26-000010
-2025,Q1,2025-03-31,3,product,OtherGrowthBrands,Other Growth products,其他增长型产品,Growth Portfolio,507,USD,millions,reported,SEC 10-Q 0000014272-26-000010
-2025,Q1,2025-03-31,3,product,Reblozyl,Reblozyl,Reblozyl,Growth Portfolio,478,USD,millions,reported,SEC 10-Q 0000014272-26-000010
-2025,Q1,2025-03-31,3,product,Sotyktu,Sotyktu,Sotyktu,Growth Portfolio,55,USD,millions,reported,SEC 10-Q 0000014272-26-000010
-2025,Q1,2025-03-31,3,product,Yervoy,Yervoy,Yervoy,Growth Portfolio,624,USD,millions,reported,SEC 10-Q 0000014272-26-000010
-2025,Q1,2025-03-31,3,product,Zeposia,Zeposia,Zeposia,Growth Portfolio,107,USD,millions,reported,SEC 10-Q 0000014272-26-000010
-2025,Q1,2025-03-31,3,product,Abraxane,Abraxane,Abraxane,Legacy Portfolio,105,USD,millions,reported,SEC 10-Q 0000014272-26-000010
-2025,Q1,2025-03-31,3,product,Eliquis,Eliquis,Eliquis,Legacy Portfolio,3565,USD,millions,reported,SEC 10-Q 0000014272-26-000010
-2025,Q1,2025-03-31,3,product,OtherLegacyBrands,Other Legacy products,其他传统产品,Legacy Portfolio,199,USD,millions,reported,SEC 10-Q 0000014272-26-000010
-2025,Q1,2025-03-31,3,product,PomalystImnovid,Pomalyst/Imnovid,Pomalyst/Imnovid,Legacy Portfolio,658,USD,millions,reported,SEC 10-Q 0000014272-26-000010
-2025,Q1,2025-03-31,3,product,Revlimid,Revlimid,Revlimid,Legacy Portfolio,936,USD,millions,reported,SEC 10-Q 0000014272-26-000010
-2025,Q1,2025-03-31,3,product,Sprycel,Sprycel,Sprycel,Legacy Portfolio,175,USD,millions,reported,SEC 10-Q 0000014272-26-000010
+2025,Q1,2025-03-31,3,product,Camzyos,Camzyos,Camzyos,Cardiovascular,159,USD,millions,reported,SEC 10-Q 0000014272-26-000010
+2025,Q1,2025-03-31,3,product,Eliquis,Eliquis,Eliquis,Cardiovascular,3565,USD,millions,reported,SEC 10-Q 0000014272-26-000010
+2025,Q1,2025-03-31,3,product,OtherLegacyBrands,Other Legacy products,其他传统产品,Established Products,199,USD,millions,reported,SEC 10-Q 0000014272-26-000010
+2025,Q1,2025-03-31,3,product,Reblozyl,Reblozyl,Reblozyl,Hematology,478,USD,millions,reported,SEC 10-Q 0000014272-26-000010
+2025,Q1,2025-03-31,3,product,Orencia,Orencia,Orencia,Immunology,770,USD,millions,reported,SEC 10-Q 0000014272-26-000010
+2025,Q1,2025-03-31,3,product,Sotyktu,Sotyktu,Sotyktu,Immunology,55,USD,millions,reported,SEC 10-Q 0000014272-26-000010
+2025,Q1,2025-03-31,3,product,Zeposia,Zeposia,Zeposia,Immunology,107,USD,millions,reported,SEC 10-Q 0000014272-26-000010
+2025,Q1,2025-03-31,3,product,Cobenfy,Cobenfy,Cobenfy,Neuroscience,27,USD,millions,reported,SEC 10-Q 0000014272-26-000010
+2025,Q1,2025-03-31,3,product,Abraxane,Abraxane,Abraxane,Oncology,105,USD,millions,reported,SEC 10-Q 0000014272-26-000010
+2025,Q1,2025-03-31,3,product,Breyanzi,Breyanzi,Breyanzi,Oncology,263,USD,millions,reported,SEC 10-Q 0000014272-26-000010
+2025,Q1,2025-03-31,3,product,Krazati,Krazati,Krazati,Oncology,48,USD,millions,reported,SEC 10-Q 0000014272-26-000010
+2025,Q1,2025-03-31,3,product,Opdivo,Opdivo,Opdivo,Oncology,2265,USD,millions,reported,SEC 10-Q 0000014272-26-000010
+2025,Q1,2025-03-31,3,product,OpdivoOvantig,Opdivo Qvantig,Opdivo Qvantig,Oncology,9,USD,millions,reported,SEC 10-Q 0000014272-26-000010
+2025,Q1,2025-03-31,3,product,Opdualag,Opdualag,Opdualag,Oncology,252,USD,millions,reported,SEC 10-Q 0000014272-26-000010
+2025,Q1,2025-03-31,3,product,PomalystImnovid,Pomalyst/Imnovid,Pomalyst/Imnovid,Oncology,658,USD,millions,reported,SEC 10-Q 0000014272-26-000010
+2025,Q1,2025-03-31,3,product,Revlimid,Revlimid,Revlimid,Oncology,936,USD,millions,reported,SEC 10-Q 0000014272-26-000010
+2025,Q1,2025-03-31,3,product,Sprycel,Sprycel,Sprycel,Oncology,175,USD,millions,reported,SEC 10-Q 0000014272-26-000010
+2025,Q1,2025-03-31,3,product,Yervoy,Yervoy,Yervoy,Oncology,624,USD,millions,reported,SEC 10-Q 0000014272-26-000010
+2025,Q1,2025-03-31,3,product,OtherGrowthBrands,Other Growth products,其他成长型产品,Other,507,USD,millions,reported,SEC 10-Q 0000014272-26-000010
 2025,Q1,2025-03-31,3,product,OtherRevenueHedgingActivities,Other revenue,其他收入,Other,0,USD,millions,reported,SEC 10-Q 0000014272-26-000010
 2025,Q2,2025-06-30,3,geography,NonUs,International,美国以外地区,,3481,USD,millions,reported,SEC 10-Q 0000014272-25-000131
 2025,Q2,2025-06-30,3,geography,OtherRegion,Other,其他地区,,270,USD,millions,reported,SEC 10-Q 0000014272-25-000131
 2025,Q2,2025-06-30,3,geography,US,United States,美国,,8519,USD,millions,reported,SEC 10-Q 0000014272-25-000131
-2025,Q2,2025-06-30,3,product,Breyanzi,Breyanzi,Breyanzi,Growth Portfolio,344,USD,millions,reported,SEC 10-Q 0000014272-26-000020
-2025,Q2,2025-06-30,3,product,Camzyos,Camzyos,Camzyos,Growth Portfolio,260,USD,millions,reported,SEC 10-Q 0000014272-26-000020
-2025,Q2,2025-06-30,3,product,Cobenfy,Cobenfy,Cobenfy,Growth Portfolio,35,USD,millions,reported,SEC 10-Q 0000014272-26-000020
-2025,Q2,2025-06-30,3,product,Krazati,Krazati,Krazati,Growth Portfolio,48,USD,millions,reported,SEC 10-Q 0000014272-26-000020
-2025,Q2,2025-06-30,3,product,Opdivo,Opdivo,Opdivo,Growth Portfolio,2560,USD,millions,reported,SEC 10-Q 0000014272-26-000020
-2025,Q2,2025-06-30,3,product,OpdivoOvantig,Opdivo Qvantig,Opdivo Qvantig,Growth Portfolio,30,USD,millions,reported,SEC 10-Q 0000014272-26-000020
-2025,Q2,2025-06-30,3,product,Opdualag,Opdualag,Opdualag,Growth Portfolio,284,USD,millions,reported,SEC 10-Q 0000014272-26-000020
-2025,Q2,2025-06-30,3,product,Orencia,Orencia,Orencia,Growth Portfolio,963,USD,millions,reported,SEC 10-Q 0000014272-26-000020
-2025,Q2,2025-06-30,3,product,OtherGrowthBrands,Other Growth products,其他增长型产品,Growth Portfolio,557,USD,millions,reported,SEC 10-Q 0000014272-26-000020
-2025,Q2,2025-06-30,3,product,Reblozyl,Reblozyl,Reblozyl,Growth Portfolio,568,USD,millions,reported,SEC 10-Q 0000014272-26-000020
-2025,Q2,2025-06-30,3,product,Sotyktu,Sotyktu,Sotyktu,Growth Portfolio,70,USD,millions,reported,SEC 10-Q 0000014272-26-000020
-2025,Q2,2025-06-30,3,product,Yervoy,Yervoy,Yervoy,Growth Portfolio,728,USD,millions,reported,SEC 10-Q 0000014272-26-000020
-2025,Q2,2025-06-30,3,product,Zeposia,Zeposia,Zeposia,Growth Portfolio,150,USD,millions,reported,SEC 10-Q 0000014272-26-000020
-2025,Q2,2025-06-30,3,product,Abraxane,Abraxane,Abraxane,Legacy Portfolio,105,USD,millions,reported,SEC 10-Q 0000014272-26-000020
-2025,Q2,2025-06-30,3,product,Eliquis,Eliquis,Eliquis,Legacy Portfolio,3680,USD,millions,reported,SEC 10-Q 0000014272-26-000020
-2025,Q2,2025-06-30,3,product,OtherLegacyBrands,Other Legacy products,其他传统产品,Legacy Portfolio,223,USD,millions,reported,SEC 10-Q 0000014272-26-000020
-2025,Q2,2025-06-30,3,product,PomalystImnovid,Pomalyst/Imnovid,Pomalyst/Imnovid,Legacy Portfolio,708,USD,millions,reported,SEC 10-Q 0000014272-26-000020
-2025,Q2,2025-06-30,3,product,Revlimid,Revlimid,Revlimid,Legacy Portfolio,838,USD,millions,reported,SEC 10-Q 0000014272-26-000020
-2025,Q2,2025-06-30,3,product,Sprycel,Sprycel,Sprycel,Legacy Portfolio,120,USD,millions,reported,SEC 10-Q 0000014272-26-000020
+2025,Q2,2025-06-30,3,product,Camzyos,Camzyos,Camzyos,Cardiovascular,260,USD,millions,reported,SEC 10-Q 0000014272-26-000020
+2025,Q2,2025-06-30,3,product,Eliquis,Eliquis,Eliquis,Cardiovascular,3680,USD,millions,reported,SEC 10-Q 0000014272-26-000020
+2025,Q2,2025-06-30,3,product,OtherLegacyBrands,Other Legacy products,其他传统产品,Established Products,223,USD,millions,reported,SEC 10-Q 0000014272-26-000020
+2025,Q2,2025-06-30,3,product,Reblozyl,Reblozyl,Reblozyl,Hematology,568,USD,millions,reported,SEC 10-Q 0000014272-26-000020
+2025,Q2,2025-06-30,3,product,Orencia,Orencia,Orencia,Immunology,963,USD,millions,reported,SEC 10-Q 0000014272-26-000020
+2025,Q2,2025-06-30,3,product,Sotyktu,Sotyktu,Sotyktu,Immunology,70,USD,millions,reported,SEC 10-Q 0000014272-26-000020
+2025,Q2,2025-06-30,3,product,Zeposia,Zeposia,Zeposia,Immunology,150,USD,millions,reported,SEC 10-Q 0000014272-26-000020
+2025,Q2,2025-06-30,3,product,Cobenfy,Cobenfy,Cobenfy,Neuroscience,35,USD,millions,reported,SEC 10-Q 0000014272-26-000020
+2025,Q2,2025-06-30,3,product,Abraxane,Abraxane,Abraxane,Oncology,105,USD,millions,reported,SEC 10-Q 0000014272-26-000020
+2025,Q2,2025-06-30,3,product,Breyanzi,Breyanzi,Breyanzi,Oncology,344,USD,millions,reported,SEC 10-Q 0000014272-26-000020
+2025,Q2,2025-06-30,3,product,Krazati,Krazati,Krazati,Oncology,48,USD,millions,reported,SEC 10-Q 0000014272-26-000020
+2025,Q2,2025-06-30,3,product,Opdivo,Opdivo,Opdivo,Oncology,2560,USD,millions,reported,SEC 10-Q 0000014272-26-000020
+2025,Q2,2025-06-30,3,product,OpdivoOvantig,Opdivo Qvantig,Opdivo Qvantig,Oncology,30,USD,millions,reported,SEC 10-Q 0000014272-26-000020
+2025,Q2,2025-06-30,3,product,Opdualag,Opdualag,Opdualag,Oncology,284,USD,millions,reported,SEC 10-Q 0000014272-26-000020
+2025,Q2,2025-06-30,3,product,PomalystImnovid,Pomalyst/Imnovid,Pomalyst/Imnovid,Oncology,708,USD,millions,reported,SEC 10-Q 0000014272-26-000020
+2025,Q2,2025-06-30,3,product,Revlimid,Revlimid,Revlimid,Oncology,838,USD,millions,reported,SEC 10-Q 0000014272-26-000020
+2025,Q2,2025-06-30,3,product,Sprycel,Sprycel,Sprycel,Oncology,120,USD,millions,reported,SEC 10-Q 0000014272-26-000020
+2025,Q2,2025-06-30,3,product,Yervoy,Yervoy,Yervoy,Oncology,728,USD,millions,reported,SEC 10-Q 0000014272-26-000020
+2025,Q2,2025-06-30,3,product,OtherGrowthBrands,Other Growth products,其他成长型产品,Other,557,USD,millions,reported,SEC 10-Q 0000014272-26-000020
 2025,Q2,2025-06-30,3,product,OtherRevenueHedgingActivities,Other revenue,其他收入,Other,0,USD,millions,reported,SEC 10-Q 0000014272-26-000020
 2025,Q3,2025-09-30,3,geography,NonUs,International,美国以外地区,,3602,USD,millions,reported,SEC 10-Q 0000014272-25-000149
 2025,Q3,2025-09-30,3,geography,OtherRegion,Other,其他地区,,290,USD,millions,reported,SEC 10-Q 0000014272-25-000149
 2025,Q3,2025-09-30,3,geography,US,United States,美国,,8329,USD,millions,reported,SEC 10-Q 0000014272-25-000149
-2025,Q3,2025-09-30,3,product,Breyanzi,Breyanzi,Breyanzi,Growth Portfolio,359,USD,millions,reported,SEC 10-Q 0000014272-26-000024
-2025,Q3,2025-09-30,3,product,Camzyos,Camzyos,Camzyos,Growth Portfolio,296,USD,millions,reported,SEC 10-Q 0000014272-26-000024
-2025,Q3,2025-09-30,3,product,Cobenfy,Cobenfy,Cobenfy,Growth Portfolio,43,USD,millions,reported,SEC 10-Q 0000014272-26-000024
-2025,Q3,2025-09-30,3,product,Krazati,Krazati,Krazati,Growth Portfolio,53,USD,millions,reported,SEC 10-Q 0000014272-26-000024
-2025,Q3,2025-09-30,3,product,Opdivo,Opdivo,Opdivo,Growth Portfolio,2532,USD,millions,reported,SEC 10-Q 0000014272-26-000024
-2025,Q3,2025-09-30,3,product,OpdivoOvantig,Opdivo Qvantig,Opdivo Qvantig,Growth Portfolio,67,USD,millions,reported,SEC 10-Q 0000014272-26-000024
-2025,Q3,2025-09-30,3,product,Opdualag,Opdualag,Opdualag,Growth Portfolio,299,USD,millions,reported,SEC 10-Q 0000014272-26-000024
-2025,Q3,2025-09-30,3,product,Orencia,Orencia,Orencia,Growth Portfolio,964,USD,millions,reported,SEC 10-Q 0000014272-26-000024
-2025,Q3,2025-09-30,3,product,OtherGrowthBrands,Other Growth products,其他增长型产品,Growth Portfolio,651,USD,millions,reported,SEC 10-Q 0000014272-26-000024
-2025,Q3,2025-09-30,3,product,Reblozyl,Reblozyl,Reblozyl,Growth Portfolio,615,USD,millions,reported,SEC 10-Q 0000014272-26-000024
-2025,Q3,2025-09-30,3,product,Sotyktu,Sotyktu,Sotyktu,Growth Portfolio,80,USD,millions,reported,SEC 10-Q 0000014272-26-000024
-2025,Q3,2025-09-30,3,product,Yervoy,Yervoy,Yervoy,Growth Portfolio,739,USD,millions,reported,SEC 10-Q 0000014272-26-000024
-2025,Q3,2025-09-30,3,product,Zeposia,Zeposia,Zeposia,Growth Portfolio,161,USD,millions,reported,SEC 10-Q 0000014272-26-000024
-2025,Q3,2025-09-30,3,product,Abraxane,Abraxane,Abraxane,Legacy Portfolio,74,USD,millions,reported,SEC 10-Q 0000014272-26-000024
-2025,Q3,2025-09-30,3,product,Eliquis,Eliquis,Eliquis,Legacy Portfolio,3746,USD,millions,reported,SEC 10-Q 0000014272-26-000024
-2025,Q3,2025-09-30,3,product,OtherLegacyBrands,Other Legacy products,其他传统产品,Legacy Portfolio,177,USD,millions,reported,SEC 10-Q 0000014272-26-000024
-2025,Q3,2025-09-30,3,product,PomalystImnovid,Pomalyst/Imnovid,Pomalyst/Imnovid,Legacy Portfolio,675,USD,millions,reported,SEC 10-Q 0000014272-26-000024
-2025,Q3,2025-09-30,3,product,Revlimid,Revlimid,Revlimid,Legacy Portfolio,575,USD,millions,reported,SEC 10-Q 0000014272-26-000024
-2025,Q3,2025-09-30,3,product,Sprycel,Sprycel,Sprycel,Legacy Portfolio,119,USD,millions,reported,SEC 10-Q 0000014272-26-000024
+2025,Q3,2025-09-30,3,product,Camzyos,Camzyos,Camzyos,Cardiovascular,296,USD,millions,reported,SEC 10-Q 0000014272-26-000024
+2025,Q3,2025-09-30,3,product,Eliquis,Eliquis,Eliquis,Cardiovascular,3746,USD,millions,reported,SEC 10-Q 0000014272-26-000024
+2025,Q3,2025-09-30,3,product,OtherLegacyBrands,Other Legacy products,其他传统产品,Established Products,177,USD,millions,reported,SEC 10-Q 0000014272-26-000024
+2025,Q3,2025-09-30,3,product,Reblozyl,Reblozyl,Reblozyl,Hematology,615,USD,millions,reported,SEC 10-Q 0000014272-26-000024
+2025,Q3,2025-09-30,3,product,Orencia,Orencia,Orencia,Immunology,964,USD,millions,reported,SEC 10-Q 0000014272-26-000024
+2025,Q3,2025-09-30,3,product,Sotyktu,Sotyktu,Sotyktu,Immunology,80,USD,millions,reported,SEC 10-Q 0000014272-26-000024
+2025,Q3,2025-09-30,3,product,Zeposia,Zeposia,Zeposia,Immunology,161,USD,millions,reported,SEC 10-Q 0000014272-26-000024
+2025,Q3,2025-09-30,3,product,Cobenfy,Cobenfy,Cobenfy,Neuroscience,43,USD,millions,reported,SEC 10-Q 0000014272-26-000024
+2025,Q3,2025-09-30,3,product,Abraxane,Abraxane,Abraxane,Oncology,74,USD,millions,reported,SEC 10-Q 0000014272-26-000024
+2025,Q3,2025-09-30,3,product,Breyanzi,Breyanzi,Breyanzi,Oncology,359,USD,millions,reported,SEC 10-Q 0000014272-26-000024
+2025,Q3,2025-09-30,3,product,Krazati,Krazati,Krazati,Oncology,53,USD,millions,reported,SEC 10-Q 0000014272-26-000024
+2025,Q3,2025-09-30,3,product,Opdivo,Opdivo,Opdivo,Oncology,2532,USD,millions,reported,SEC 10-Q 0000014272-26-000024
+2025,Q3,2025-09-30,3,product,OpdivoOvantig,Opdivo Qvantig,Opdivo Qvantig,Oncology,67,USD,millions,reported,SEC 10-Q 0000014272-26-000024
+2025,Q3,2025-09-30,3,product,Opdualag,Opdualag,Opdualag,Oncology,299,USD,millions,reported,SEC 10-Q 0000014272-26-000024
+2025,Q3,2025-09-30,3,product,PomalystImnovid,Pomalyst/Imnovid,Pomalyst/Imnovid,Oncology,675,USD,millions,reported,SEC 10-Q 0000014272-26-000024
+2025,Q3,2025-09-30,3,product,Revlimid,Revlimid,Revlimid,Oncology,575,USD,millions,reported,SEC 10-Q 0000014272-26-000024
+2025,Q3,2025-09-30,3,product,Sprycel,Sprycel,Sprycel,Oncology,119,USD,millions,reported,SEC 10-Q 0000014272-26-000024
+2025,Q3,2025-09-30,3,product,Yervoy,Yervoy,Yervoy,Oncology,739,USD,millions,reported,SEC 10-Q 0000014272-26-000024
+2025,Q3,2025-09-30,3,product,OtherGrowthBrands,Other Growth products,其他成长型产品,Other,651,USD,millions,reported,SEC 10-Q 0000014272-26-000024
 2025,Q3,2025-09-30,3,product,OtherRevenueHedgingActivities,Other revenue,其他收入,Other,0,USD,millions,reported,SEC 10-Q 0000014272-26-000024
 2025,Q4,2025-12-31,3,geography,NonUs,International,美国以外地区,,3635,USD,millions,derived,SEC 10-K 0000014272-26-000004 − 10-Q 0000014272-25-000149
 2025,Q4,2025-12-31,3,geography,OtherRegion,Other,其他地区,,309,USD,millions,derived,SEC 10-K 0000014272-26-000004 − 10-Q 0000014272-25-000149
@@ -265,69 +265,69 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2026,Q1,2026-03-31,3,geography,NonUs,International,美国以外地区,,3444,USD,millions,reported,SEC 10-Q 0000014272-26-000010
 2026,Q1,2026-03-31,3,geography,OtherRegion,Other,其他地区,,257,USD,millions,reported,SEC 10-Q 0000014272-26-000010
 2026,Q1,2026-03-31,3,geography,US,United States,美国,,7788,USD,millions,reported,SEC 10-Q 0000014272-26-000010
-2026,Q1,2026-03-31,3,product,Breyanzi,Breyanzi,Breyanzi,Growth Portfolio,411,USD,millions,reported,SEC 10-Q 0000014272-26-000010
-2026,Q1,2026-03-31,3,product,Camzyos,Camzyos,Camzyos,Growth Portfolio,314,USD,millions,reported,SEC 10-Q 0000014272-26-000010
-2026,Q1,2026-03-31,3,product,Cobenfy,Cobenfy,Cobenfy,Growth Portfolio,56,USD,millions,reported,SEC 10-Q 0000014272-26-000010
-2026,Q1,2026-03-31,3,product,Krazati,Krazati,Krazati,Growth Portfolio,50,USD,millions,reported,SEC 10-Q 0000014272-26-000010
-2026,Q1,2026-03-31,3,product,Opdivo,Opdivo,Opdivo,Growth Portfolio,2146,USD,millions,reported,SEC 10-Q 0000014272-26-000010
-2026,Q1,2026-03-31,3,product,OpdivoOvantig,Opdivo Qvantig,Opdivo Qvantig,Growth Portfolio,163,USD,millions,reported,SEC 10-Q 0000014272-26-000010
-2026,Q1,2026-03-31,3,product,Opdualag,Opdualag,Opdualag,Growth Portfolio,295,USD,millions,reported,SEC 10-Q 0000014272-26-000010
-2026,Q1,2026-03-31,3,product,Orencia,Orencia,Orencia,Growth Portfolio,818,USD,millions,reported,SEC 10-Q 0000014272-26-000010
-2026,Q1,2026-03-31,3,product,OtherGrowthBrands,Other Growth products,其他增长型产品,Growth Portfolio,581,USD,millions,reported,SEC 10-Q 0000014272-26-000010
-2026,Q1,2026-03-31,3,product,Reblozyl,Reblozyl,Reblozyl,Growth Portfolio,555,USD,millions,reported,SEC 10-Q 0000014272-26-000010
-2026,Q1,2026-03-31,3,product,Sotyktu,Sotyktu,Sotyktu,Growth Portfolio,69,USD,millions,reported,SEC 10-Q 0000014272-26-000010
-2026,Q1,2026-03-31,3,product,Yervoy,Yervoy,Yervoy,Growth Portfolio,651,USD,millions,reported,SEC 10-Q 0000014272-26-000010
-2026,Q1,2026-03-31,3,product,Zeposia,Zeposia,Zeposia,Growth Portfolio,118,USD,millions,reported,SEC 10-Q 0000014272-26-000010
-2026,Q1,2026-03-31,3,product,Abraxane,Abraxane,Abraxane,Legacy Portfolio,50,USD,millions,reported,SEC 10-Q 0000014272-26-000010
-2026,Q1,2026-03-31,3,product,Eliquis,Eliquis,Eliquis,Legacy Portfolio,4137,USD,millions,reported,SEC 10-Q 0000014272-26-000010
-2026,Q1,2026-03-31,3,product,OtherLegacyBrands,Other Legacy products,其他传统产品,Legacy Portfolio,156,USD,millions,reported,SEC 10-Q 0000014272-26-000010
-2026,Q1,2026-03-31,3,product,PomalystImnovid,Pomalyst/Imnovid,Pomalyst/Imnovid,Legacy Portfolio,513,USD,millions,reported,SEC 10-Q 0000014272-26-000010
-2026,Q1,2026-03-31,3,product,Revlimid,Revlimid,Revlimid,Legacy Portfolio,349,USD,millions,reported,SEC 10-Q 0000014272-26-000010
-2026,Q1,2026-03-31,3,product,Sprycel,Sprycel,Sprycel,Legacy Portfolio,73,USD,millions,reported,SEC 10-Q 0000014272-26-000010
+2026,Q1,2026-03-31,3,product,Camzyos,Camzyos,Camzyos,Cardiovascular,314,USD,millions,reported,SEC 10-Q 0000014272-26-000010
+2026,Q1,2026-03-31,3,product,Eliquis,Eliquis,Eliquis,Cardiovascular,4137,USD,millions,reported,SEC 10-Q 0000014272-26-000010
+2026,Q1,2026-03-31,3,product,OtherLegacyBrands,Other Legacy products,其他传统产品,Established Products,156,USD,millions,reported,SEC 10-Q 0000014272-26-000010
+2026,Q1,2026-03-31,3,product,Reblozyl,Reblozyl,Reblozyl,Hematology,555,USD,millions,reported,SEC 10-Q 0000014272-26-000010
+2026,Q1,2026-03-31,3,product,Orencia,Orencia,Orencia,Immunology,818,USD,millions,reported,SEC 10-Q 0000014272-26-000010
+2026,Q1,2026-03-31,3,product,Sotyktu,Sotyktu,Sotyktu,Immunology,69,USD,millions,reported,SEC 10-Q 0000014272-26-000010
+2026,Q1,2026-03-31,3,product,Zeposia,Zeposia,Zeposia,Immunology,118,USD,millions,reported,SEC 10-Q 0000014272-26-000010
+2026,Q1,2026-03-31,3,product,Cobenfy,Cobenfy,Cobenfy,Neuroscience,56,USD,millions,reported,SEC 10-Q 0000014272-26-000010
+2026,Q1,2026-03-31,3,product,Abraxane,Abraxane,Abraxane,Oncology,50,USD,millions,reported,SEC 10-Q 0000014272-26-000010
+2026,Q1,2026-03-31,3,product,Breyanzi,Breyanzi,Breyanzi,Oncology,411,USD,millions,reported,SEC 10-Q 0000014272-26-000010
+2026,Q1,2026-03-31,3,product,Krazati,Krazati,Krazati,Oncology,50,USD,millions,reported,SEC 10-Q 0000014272-26-000010
+2026,Q1,2026-03-31,3,product,Opdivo,Opdivo,Opdivo,Oncology,2146,USD,millions,reported,SEC 10-Q 0000014272-26-000010
+2026,Q1,2026-03-31,3,product,OpdivoOvantig,Opdivo Qvantig,Opdivo Qvantig,Oncology,163,USD,millions,reported,SEC 10-Q 0000014272-26-000010
+2026,Q1,2026-03-31,3,product,Opdualag,Opdualag,Opdualag,Oncology,295,USD,millions,reported,SEC 10-Q 0000014272-26-000010
+2026,Q1,2026-03-31,3,product,PomalystImnovid,Pomalyst/Imnovid,Pomalyst/Imnovid,Oncology,513,USD,millions,reported,SEC 10-Q 0000014272-26-000010
+2026,Q1,2026-03-31,3,product,Revlimid,Revlimid,Revlimid,Oncology,349,USD,millions,reported,SEC 10-Q 0000014272-26-000010
+2026,Q1,2026-03-31,3,product,Sprycel,Sprycel,Sprycel,Oncology,73,USD,millions,reported,SEC 10-Q 0000014272-26-000010
+2026,Q1,2026-03-31,3,product,Yervoy,Yervoy,Yervoy,Oncology,651,USD,millions,reported,SEC 10-Q 0000014272-26-000010
+2026,Q1,2026-03-31,3,product,OtherGrowthBrands,Other Growth products,其他成长型产品,Other,581,USD,millions,reported,SEC 10-Q 0000014272-26-000010
 2026,Q1,2026-03-31,3,product,OtherRevenueHedgingActivities,Other revenue,其他收入,Other,-15,USD,millions,reported,SEC 10-Q 0000014272-26-000010
 2026,Q2,2026-06-30,3,geography,NonUs,International,美国以外地区,,3664,USD,millions,reported,SEC 10-Q 0000014272-26-000020
 2026,Q2,2026-06-30,3,geography,OtherRegion,Other,其他地区,,318,USD,millions,reported,SEC 10-Q 0000014272-26-000020
 2026,Q2,2026-06-30,3,geography,US,United States,美国,,8991,USD,millions,reported,SEC 10-Q 0000014272-26-000020
-2026,Q2,2026-06-30,3,product,Breyanzi,Breyanzi,Breyanzi,Growth Portfolio,484,USD,millions,reported,SEC 10-Q 0000014272-26-000020
-2026,Q2,2026-06-30,3,product,Camzyos,Camzyos,Camzyos,Growth Portfolio,416,USD,millions,reported,SEC 10-Q 0000014272-26-000020
-2026,Q2,2026-06-30,3,product,Cobenfy,Cobenfy,Cobenfy,Growth Portfolio,63,USD,millions,reported,SEC 10-Q 0000014272-26-000020
-2026,Q2,2026-06-30,3,product,Krazati,Krazati,Krazati,Growth Portfolio,55,USD,millions,reported,SEC 10-Q 0000014272-26-000020
-2026,Q2,2026-06-30,3,product,Opdivo,Opdivo,Opdivo,Growth Portfolio,2485,USD,millions,reported,SEC 10-Q 0000014272-26-000020
-2026,Q2,2026-06-30,3,product,OpdivoOvantig,Opdivo Qvantig,Opdivo Qvantig,Growth Portfolio,261,USD,millions,reported,SEC 10-Q 0000014272-26-000020
-2026,Q2,2026-06-30,3,product,Opdualag,Opdualag,Opdualag,Growth Portfolio,349,USD,millions,reported,SEC 10-Q 0000014272-26-000020
-2026,Q2,2026-06-30,3,product,Orencia,Orencia,Orencia,Growth Portfolio,1034,USD,millions,reported,SEC 10-Q 0000014272-26-000020
-2026,Q2,2026-06-30,3,product,OtherGrowthBrands,Other Growth products,其他增长型产品,Growth Portfolio,653,USD,millions,reported,SEC 10-Q 0000014272-26-000020
-2026,Q2,2026-06-30,3,product,Reblozyl,Reblozyl,Reblozyl,Growth Portfolio,735,USD,millions,reported,SEC 10-Q 0000014272-26-000020
-2026,Q2,2026-06-30,3,product,Sotyktu,Sotyktu,Sotyktu,Growth Portfolio,87,USD,millions,reported,SEC 10-Q 0000014272-26-000020
-2026,Q2,2026-06-30,3,product,Yervoy,Yervoy,Yervoy,Growth Portfolio,769,USD,millions,reported,SEC 10-Q 0000014272-26-000020
-2026,Q2,2026-06-30,3,product,Zeposia,Zeposia,Zeposia,Growth Portfolio,169,USD,millions,reported,SEC 10-Q 0000014272-26-000020
-2026,Q2,2026-06-30,3,product,Abraxane,Abraxane,Abraxane,Legacy Portfolio,55,USD,millions,reported,SEC 10-Q 0000014272-26-000020
-2026,Q2,2026-06-30,3,product,Eliquis,Eliquis,Eliquis,Legacy Portfolio,4481,USD,millions,reported,SEC 10-Q 0000014272-26-000020
-2026,Q2,2026-06-30,3,product,OtherLegacyBrands,Other Legacy products,其他传统产品,Legacy Portfolio,170,USD,millions,reported,SEC 10-Q 0000014272-26-000020
-2026,Q2,2026-06-30,3,product,PomalystImnovid,Pomalyst/Imnovid,Pomalyst/Imnovid,Legacy Portfolio,204,USD,millions,reported,SEC 10-Q 0000014272-26-000020
-2026,Q2,2026-06-30,3,product,Revlimid,Revlimid,Revlimid,Legacy Portfolio,425,USD,millions,reported,SEC 10-Q 0000014272-26-000020
-2026,Q2,2026-06-30,3,product,Sprycel,Sprycel,Sprycel,Legacy Portfolio,88,USD,millions,reported,SEC 10-Q 0000014272-26-000020
+2026,Q2,2026-06-30,3,product,Camzyos,Camzyos,Camzyos,Cardiovascular,416,USD,millions,reported,SEC 10-Q 0000014272-26-000020
+2026,Q2,2026-06-30,3,product,Eliquis,Eliquis,Eliquis,Cardiovascular,4481,USD,millions,reported,SEC 10-Q 0000014272-26-000020
+2026,Q2,2026-06-30,3,product,OtherLegacyBrands,Other Legacy products,其他传统产品,Established Products,170,USD,millions,reported,SEC 10-Q 0000014272-26-000020
+2026,Q2,2026-06-30,3,product,Reblozyl,Reblozyl,Reblozyl,Hematology,735,USD,millions,reported,SEC 10-Q 0000014272-26-000020
+2026,Q2,2026-06-30,3,product,Orencia,Orencia,Orencia,Immunology,1034,USD,millions,reported,SEC 10-Q 0000014272-26-000020
+2026,Q2,2026-06-30,3,product,Sotyktu,Sotyktu,Sotyktu,Immunology,87,USD,millions,reported,SEC 10-Q 0000014272-26-000020
+2026,Q2,2026-06-30,3,product,Zeposia,Zeposia,Zeposia,Immunology,169,USD,millions,reported,SEC 10-Q 0000014272-26-000020
+2026,Q2,2026-06-30,3,product,Cobenfy,Cobenfy,Cobenfy,Neuroscience,63,USD,millions,reported,SEC 10-Q 0000014272-26-000020
+2026,Q2,2026-06-30,3,product,Abraxane,Abraxane,Abraxane,Oncology,55,USD,millions,reported,SEC 10-Q 0000014272-26-000020
+2026,Q2,2026-06-30,3,product,Breyanzi,Breyanzi,Breyanzi,Oncology,484,USD,millions,reported,SEC 10-Q 0000014272-26-000020
+2026,Q2,2026-06-30,3,product,Krazati,Krazati,Krazati,Oncology,55,USD,millions,reported,SEC 10-Q 0000014272-26-000020
+2026,Q2,2026-06-30,3,product,Opdivo,Opdivo,Opdivo,Oncology,2485,USD,millions,reported,SEC 10-Q 0000014272-26-000020
+2026,Q2,2026-06-30,3,product,OpdivoOvantig,Opdivo Qvantig,Opdivo Qvantig,Oncology,261,USD,millions,reported,SEC 10-Q 0000014272-26-000020
+2026,Q2,2026-06-30,3,product,Opdualag,Opdualag,Opdualag,Oncology,349,USD,millions,reported,SEC 10-Q 0000014272-26-000020
+2026,Q2,2026-06-30,3,product,PomalystImnovid,Pomalyst/Imnovid,Pomalyst/Imnovid,Oncology,204,USD,millions,reported,SEC 10-Q 0000014272-26-000020
+2026,Q2,2026-06-30,3,product,Revlimid,Revlimid,Revlimid,Oncology,425,USD,millions,reported,SEC 10-Q 0000014272-26-000020
+2026,Q2,2026-06-30,3,product,Sprycel,Sprycel,Sprycel,Oncology,88,USD,millions,reported,SEC 10-Q 0000014272-26-000020
+2026,Q2,2026-06-30,3,product,Yervoy,Yervoy,Yervoy,Oncology,769,USD,millions,reported,SEC 10-Q 0000014272-26-000020
+2026,Q2,2026-06-30,3,product,OtherGrowthBrands,Other Growth products,其他成长型产品,Other,653,USD,millions,reported,SEC 10-Q 0000014272-26-000020
 2026,Q2,2026-06-30,3,product,OtherRevenueHedgingActivities,Other revenue,其他收入,Other,-9,USD,millions,reported,SEC 10-Q 0000014272-26-000020
 2026,Q3,2026-09-30,3,geography,NonUs,International,美国以外地区,,3592,USD,millions,reported,SEC 10-Q 0000014272-26-000024
 2026,Q3,2026-09-30,3,geography,OtherRegion,Other,其他地区,,403,USD,millions,reported,SEC 10-Q 0000014272-26-000024
 2026,Q3,2026-09-30,3,geography,US,United States,美国,,9074,USD,millions,reported,SEC 10-Q 0000014272-26-000024
-2026,Q3,2026-09-30,3,product,Breyanzi,Breyanzi,Breyanzi,Growth Portfolio,526,USD,millions,reported,SEC 10-Q 0000014272-26-000024
-2026,Q3,2026-09-30,3,product,Camzyos,Camzyos,Camzyos,Growth Portfolio,420,USD,millions,reported,SEC 10-Q 0000014272-26-000024
-2026,Q3,2026-09-30,3,product,Cobenfy,Cobenfy,Cobenfy,Growth Portfolio,57,USD,millions,reported,SEC 10-Q 0000014272-26-000024
-2026,Q3,2026-09-30,3,product,Krazati,Krazati,Krazati,Growth Portfolio,58,USD,millions,reported,SEC 10-Q 0000014272-26-000024
-2026,Q3,2026-09-30,3,product,Opdivo,Opdivo,Opdivo,Growth Portfolio,2374,USD,millions,reported,SEC 10-Q 0000014272-26-000024
-2026,Q3,2026-09-30,3,product,OpdivoOvantig,Opdivo Qvantig,Opdivo Qvantig,Growth Portfolio,334,USD,millions,reported,SEC 10-Q 0000014272-26-000024
-2026,Q3,2026-09-30,3,product,Opdualag,Opdualag,Opdualag,Growth Portfolio,367,USD,millions,reported,SEC 10-Q 0000014272-26-000024
-2026,Q3,2026-09-30,3,product,Orencia,Orencia,Orencia,Growth Portfolio,983,USD,millions,reported,SEC 10-Q 0000014272-26-000024
-2026,Q3,2026-09-30,3,product,OtherGrowthBrands,Other Growth products,其他增长型产品,Growth Portfolio,731,USD,millions,reported,SEC 10-Q 0000014272-26-000024
-2026,Q3,2026-09-30,3,product,Reblozyl,Reblozyl,Reblozyl,Growth Portfolio,750,USD,millions,reported,SEC 10-Q 0000014272-26-000024
-2026,Q3,2026-09-30,3,product,Sotyktu,Sotyktu,Sotyktu,Growth Portfolio,100,USD,millions,reported,SEC 10-Q 0000014272-26-000024
-2026,Q3,2026-09-30,3,product,Yervoy,Yervoy,Yervoy,Growth Portfolio,793,USD,millions,reported,SEC 10-Q 0000014272-26-000024
-2026,Q3,2026-09-30,3,product,Zeposia,Zeposia,Zeposia,Growth Portfolio,168,USD,millions,reported,SEC 10-Q 0000014272-26-000024
-2026,Q3,2026-09-30,3,product,Abraxane,Abraxane,Abraxane,Legacy Portfolio,65,USD,millions,reported,SEC 10-Q 0000014272-26-000024
-2026,Q3,2026-09-30,3,product,Eliquis,Eliquis,Eliquis,Legacy Portfolio,4690,USD,millions,reported,SEC 10-Q 0000014272-26-000024
-2026,Q3,2026-09-30,3,product,OtherLegacyBrands,Other Legacy products,其他传统产品,Legacy Portfolio,154,USD,millions,reported,SEC 10-Q 0000014272-26-000024
-2026,Q3,2026-09-30,3,product,PomalystImnovid,Pomalyst/Imnovid,Pomalyst/Imnovid,Legacy Portfolio,130,USD,millions,reported,SEC 10-Q 0000014272-26-000024
-2026,Q3,2026-09-30,3,product,Revlimid,Revlimid,Revlimid,Legacy Portfolio,303,USD,millions,reported,SEC 10-Q 0000014272-26-000024
-2026,Q3,2026-09-30,3,product,Sprycel,Sprycel,Sprycel,Legacy Portfolio,73,USD,millions,reported,SEC 10-Q 0000014272-26-000024
+2026,Q3,2026-09-30,3,product,Camzyos,Camzyos,Camzyos,Cardiovascular,420,USD,millions,reported,SEC 10-Q 0000014272-26-000024
+2026,Q3,2026-09-30,3,product,Eliquis,Eliquis,Eliquis,Cardiovascular,4690,USD,millions,reported,SEC 10-Q 0000014272-26-000024
+2026,Q3,2026-09-30,3,product,OtherLegacyBrands,Other Legacy products,其他传统产品,Established Products,154,USD,millions,reported,SEC 10-Q 0000014272-26-000024
+2026,Q3,2026-09-30,3,product,Reblozyl,Reblozyl,Reblozyl,Hematology,750,USD,millions,reported,SEC 10-Q 0000014272-26-000024
+2026,Q3,2026-09-30,3,product,Orencia,Orencia,Orencia,Immunology,983,USD,millions,reported,SEC 10-Q 0000014272-26-000024
+2026,Q3,2026-09-30,3,product,Sotyktu,Sotyktu,Sotyktu,Immunology,100,USD,millions,reported,SEC 10-Q 0000014272-26-000024
+2026,Q3,2026-09-30,3,product,Zeposia,Zeposia,Zeposia,Immunology,168,USD,millions,reported,SEC 10-Q 0000014272-26-000024
+2026,Q3,2026-09-30,3,product,Cobenfy,Cobenfy,Cobenfy,Neuroscience,57,USD,millions,reported,SEC 10-Q 0000014272-26-000024
+2026,Q3,2026-09-30,3,product,Abraxane,Abraxane,Abraxane,Oncology,65,USD,millions,reported,SEC 10-Q 0000014272-26-000024
+2026,Q3,2026-09-30,3,product,Breyanzi,Breyanzi,Breyanzi,Oncology,526,USD,millions,reported,SEC 10-Q 0000014272-26-000024
+2026,Q3,2026-09-30,3,product,Krazati,Krazati,Krazati,Oncology,58,USD,millions,reported,SEC 10-Q 0000014272-26-000024
+2026,Q3,2026-09-30,3,product,Opdivo,Opdivo,Opdivo,Oncology,2374,USD,millions,reported,SEC 10-Q 0000014272-26-000024
+2026,Q3,2026-09-30,3,product,OpdivoOvantig,Opdivo Qvantig,Opdivo Qvantig,Oncology,334,USD,millions,reported,SEC 10-Q 0000014272-26-000024
+2026,Q3,2026-09-30,3,product,Opdualag,Opdualag,Opdualag,Oncology,367,USD,millions,reported,SEC 10-Q 0000014272-26-000024
+2026,Q3,2026-09-30,3,product,PomalystImnovid,Pomalyst/Imnovid,Pomalyst/Imnovid,Oncology,130,USD,millions,reported,SEC 10-Q 0000014272-26-000024
+2026,Q3,2026-09-30,3,product,Revlimid,Revlimid,Revlimid,Oncology,303,USD,millions,reported,SEC 10-Q 0000014272-26-000024
+2026,Q3,2026-09-30,3,product,Sprycel,Sprycel,Sprycel,Oncology,73,USD,millions,reported,SEC 10-Q 0000014272-26-000024
+2026,Q3,2026-09-30,3,product,Yervoy,Yervoy,Yervoy,Oncology,793,USD,millions,reported,SEC 10-Q 0000014272-26-000024
+2026,Q3,2026-09-30,3,product,OtherGrowthBrands,Other Growth products,其他成长型产品,Other,731,USD,millions,reported,SEC 10-Q 0000014272-26-000024
 2026,Q3,2026-09-30,3,product,OtherRevenueHedgingActivities,Other revenue,其他收入,Other,-7,USD,millions,reported,SEC 10-Q 0000014272-26-000024

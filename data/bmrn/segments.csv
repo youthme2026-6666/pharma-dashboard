@@ -22,30 +22,30 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2021,FY,2021-12-31,12,product,RoyaltyAndOther,Royalty and Other Revenues,特许权及其他收入,Other,62.777,USD,millions,reported,SEC 10-K 0001048477-22-000012
 2021,FY,2021-12-31,12,product,Product,Product,产品收入,Rare Disease,1783.498,USD,millions,reported,SEC 10-K 0001048477-22-000012
 2022,Q1,2022-03-31,3,product,RoyaltyAndOther,Royalty and other revenues,特许权及其他收入,Other,13.834,USD,millions,reported,SEC 10-Q 0001048477-23-000020
+2022,Q1,2022-03-31,3,product,ALDURAZYME,ALDURAZYME,安溶酶,Rare Disease,24.382,USD,millions,reported,SEC 10-Q 0001048477-23-000020
+2022,Q1,2022-03-31,3,product,BRINEURA,BRINEURA,布林尤拉,Rare Disease,36.173,USD,millions,reported,SEC 10-Q 0001048477-23-000020
 2022,Q1,2022-03-31,3,product,KUVAN,KUVAN,可凡,Rare Disease,59.337,USD,millions,reported,SEC 10-Q 0001048477-23-000020
+2022,Q1,2022-03-31,3,product,NAGLAZYME,NAGLAZYME,纳加酶,Rare Disease,128.031,USD,millions,reported,SEC 10-Q 0001048477-23-000020
+2022,Q1,2022-03-31,3,product,PALYNZIQ,PALYNZIQ,帕林孜,Rare Disease,54.885,USD,millions,reported,SEC 10-Q 0001048477-23-000020
+2022,Q1,2022-03-31,3,product,VIMIZIM,VIMIZIM,维米津,Rare Disease,183.059,USD,millions,reported,SEC 10-Q 0001048477-23-000020
 2022,Q1,2022-03-31,3,product,VOXZOGO,Voxzogo,Voxzogo,Rare Disease,19.658,USD,millions,reported,SEC 10-Q 0001048477-23-000020
-2022,Q1,2022-03-31,3,product,ALDURAZYME,ALDURAZYME,安溶酶,enzyme product revenues,24.382,USD,millions,reported,SEC 10-Q 0001048477-23-000020
-2022,Q1,2022-03-31,3,product,BRINEURA,BRINEURA,布林尤拉,enzyme product revenues,36.173,USD,millions,reported,SEC 10-Q 0001048477-23-000020
-2022,Q1,2022-03-31,3,product,NAGLAZYME,NAGLAZYME,纳加酶,enzyme product revenues,128.031,USD,millions,reported,SEC 10-Q 0001048477-23-000020
-2022,Q1,2022-03-31,3,product,PALYNZIQ,PALYNZIQ,帕林孜,enzyme product revenues,54.885,USD,millions,reported,SEC 10-Q 0001048477-23-000020
-2022,Q1,2022-03-31,3,product,VIMIZIM,VIMIZIM,维米津,enzyme product revenues,183.059,USD,millions,reported,SEC 10-Q 0001048477-23-000020
 2022,Q2,2022-06-30,3,product,RoyaltyAndOther,Royalty and other revenues,特许权及其他收入,Other,16.138,USD,millions,reported,SEC 10-Q 0001048477-23-000029
+2022,Q2,2022-06-30,3,product,ALDURAZYME,ALDURAZYME,安溶酶,Rare Disease,37.327,USD,millions,reported,SEC 10-Q 0001048477-23-000029
+2022,Q2,2022-06-30,3,product,BRINEURA,BRINEURA,布林尤拉,Rare Disease,37.725,USD,millions,reported,SEC 10-Q 0001048477-23-000029
 2022,Q2,2022-06-30,3,product,KUVAN,KUVAN,可凡,Rare Disease,57.602,USD,millions,reported,SEC 10-Q 0001048477-23-000029
+2022,Q2,2022-06-30,3,product,NAGLAZYME,NAGLAZYME,纳加酶,Rare Disease,115.783,USD,millions,reported,SEC 10-Q 0001048477-23-000029
+2022,Q2,2022-06-30,3,product,PALYNZIQ,PALYNZIQ,帕林孜,Rare Disease,61.643,USD,millions,reported,SEC 10-Q 0001048477-23-000029
+2022,Q2,2022-06-30,3,product,VIMIZIM,VIMIZIM,维米津,Rare Disease,173.206,USD,millions,reported,SEC 10-Q 0001048477-23-000029
 2022,Q2,2022-06-30,3,product,VOXZOGO,VOXZOGO,Voxzogo,Rare Disease,34.374,USD,millions,reported,SEC 10-Q 0001048477-23-000029
-2022,Q2,2022-06-30,3,product,ALDURAZYME,ALDURAZYME,安溶酶,enzyme product revenues,37.327,USD,millions,reported,SEC 10-Q 0001048477-23-000029
-2022,Q2,2022-06-30,3,product,BRINEURA,BRINEURA,布林尤拉,enzyme product revenues,37.725,USD,millions,reported,SEC 10-Q 0001048477-23-000029
-2022,Q2,2022-06-30,3,product,NAGLAZYME,NAGLAZYME,纳加酶,enzyme product revenues,115.783,USD,millions,reported,SEC 10-Q 0001048477-23-000029
-2022,Q2,2022-06-30,3,product,PALYNZIQ,PALYNZIQ,帕林孜,enzyme product revenues,61.643,USD,millions,reported,SEC 10-Q 0001048477-23-000029
-2022,Q2,2022-06-30,3,product,VIMIZIM,VIMIZIM,维米津,enzyme product revenues,173.206,USD,millions,reported,SEC 10-Q 0001048477-23-000029
 2022,Q3,2022-09-30,3,product,ROCTAVIAN,ROCTAVIAN,Roctavian基因疗法,Hematology,0,USD,millions,reported,SEC 10-Q 0001048477-23-000044
 2022,Q3,2022-09-30,3,product,RoyaltyAndOther,Royalty and other revenues,特许权及其他收入,Other,11.996,USD,millions,reported,SEC 10-Q 0001048477-23-000044
+2022,Q3,2022-09-30,3,product,ALDURAZYME,ALDURAZYME,安溶酶,Rare Disease,29.046,USD,millions,reported,SEC 10-Q 0001048477-23-000044
+2022,Q3,2022-09-30,3,product,BRINEURA,BRINEURA,布林尤拉,Rare Disease,37.793,USD,millions,reported,SEC 10-Q 0001048477-23-000044
 2022,Q3,2022-09-30,3,product,KUVAN,KUVAN,可凡,Rare Disease,57.038,USD,millions,reported,SEC 10-Q 0001048477-23-000044
+2022,Q3,2022-09-30,3,product,NAGLAZYME,NAGLAZYME,纳加酶,Rare Disease,99.506,USD,millions,reported,SEC 10-Q 0001048477-23-000044
+2022,Q3,2022-09-30,3,product,PALYNZIQ,PALYNZIQ,帕林孜,Rare Disease,66.206,USD,millions,reported,SEC 10-Q 0001048477-23-000044
+2022,Q3,2022-09-30,3,product,VIMIZIM,VIMIZIM,维米津,Rare Disease,155.47,USD,millions,reported,SEC 10-Q 0001048477-23-000044
 2022,Q3,2022-09-30,3,product,VOXZOGO,VOXZOGO,Voxzogo,Rare Disease,48.289,USD,millions,reported,SEC 10-Q 0001048477-23-000044
-2022,Q3,2022-09-30,3,product,ALDURAZYME,ALDURAZYME,安溶酶,enzyme product revenues,29.046,USD,millions,reported,SEC 10-Q 0001048477-23-000044
-2022,Q3,2022-09-30,3,product,BRINEURA,BRINEURA,布林尤拉,enzyme product revenues,37.793,USD,millions,reported,SEC 10-Q 0001048477-23-000044
-2022,Q3,2022-09-30,3,product,NAGLAZYME,NAGLAZYME,纳加酶,enzyme product revenues,99.506,USD,millions,reported,SEC 10-Q 0001048477-23-000044
-2022,Q3,2022-09-30,3,product,PALYNZIQ,PALYNZIQ,帕林孜,enzyme product revenues,66.206,USD,millions,reported,SEC 10-Q 0001048477-23-000044
-2022,Q3,2022-09-30,3,product,VIMIZIM,VIMIZIM,维米津,enzyme product revenues,155.47,USD,millions,reported,SEC 10-Q 0001048477-23-000044
 2022,Q4,2022-12-31,3,product,ROCTAVIAN,ROCTAVIAN,Roctavian基因疗法,Hematology,0,USD,millions,derived,SEC 10-K 0001048477-25-000007 − 10-Q 0001048477-23-000044
 2022,Q4,2022-12-31,3,product,RoyaltyAndOther,Royalty and other revenues,特许权及其他收入,Other,12.046,USD,millions,derived,SEC 10-K 0001048477-25-000007 − 10-Q 0001048477-23-000044
 2022,Q4,2022-12-31,3,product,ALDURAZYME,ALDURAZYME,安溶酶,Rare Disease,37.667,USD,millions,derived,SEC 10-K 0001048477-25-000007 − 10-Q 0001048477-23-000044

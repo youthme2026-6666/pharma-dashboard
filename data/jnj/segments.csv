@@ -133,9 +133,9 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2023,Q4,2023-12-31,3,product,Neuroscience,Neuroscience,神经科学,Innovative Medicine,1801,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-23-000102
 2023,Q4,2023-12-31,3,product,Oncology,Oncology,肿瘤学,Innovative Medicine,4618,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-23-000102
 2023,Q4,2023-12-31,3,product,PulmonaryHypertension,Pulmonary Hypertension,肺动脉高压,Innovative Medicine,1017,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-23-000102
-2023,Q4,2023-12-31,3,product,Orthopaedics,Orthopaedics,骨科,MedTech,2268,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-23-000102
-2023,Q4,2023-12-31,3,product,Surgery,Surgery,外科手术,MedTech,2530,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-23-000102
-2023,Q4,2023-12-31,3,product,Vision,Vision,眼科视力,MedTech,1208,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-23-000102
+2023,Q4,2023-12-31,3,product,Orthopaedics,Orthopaedics,骨科,MEDTECH,2268,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-23-000102
+2023,Q4,2023-12-31,3,product,Surgery,Surgery,外科手术,MEDTECH,2530,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-23-000102
+2023,Q4,2023-12-31,3,product,Vision,Vision,眼科视力,MEDTECH,1208,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-23-000102
 2023,Q4,2023-12-31,3,segment,InnovativeMedicine,Innovative Medicine,创新药物,,13722,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-24-000096
 2023,Q4,2023-12-31,3,segment,MedTech,MedTech,医疗技术,,7673,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-24-000096
 2023,FY,2023-12-31,12,geography,AsiaPacificAfrica,"Asia-Pacific, Africa",亚太及非洲,,13756,USD,millions,reported,SEC 10-K 0000200406-25-000038
@@ -148,10 +148,10 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2023,FY,2023-12-31,12,product,Neuroscience,Neuroscience,神经科学,Innovative Medicine,7140,USD,millions,reported,SEC 10-K 0000200406-25-000038
 2023,FY,2023-12-31,12,product,Oncology,Oncology,肿瘤学,Innovative Medicine,17661,USD,millions,reported,SEC 10-K 0000200406-25-000038
 2023,FY,2023-12-31,12,product,PulmonaryHypertension,Pulmonary Hypertension,肺动脉高压,Innovative Medicine,3815,USD,millions,reported,SEC 10-K 0000200406-25-000038
+2023,FY,2023-12-31,12,product,Orthopaedics,Orthopaedics,骨科,MEDTECH,8942,USD,millions,reported,SEC 10-K 0000200406-25-000038
+2023,FY,2023-12-31,12,product,Surgery,Surgery,外科手术,MEDTECH,10037,USD,millions,reported,SEC 10-K 0000200406-25-000038
+2023,FY,2023-12-31,12,product,Vision,Vision,眼科视力,MEDTECH,5072,USD,millions,reported,SEC 10-K 0000200406-25-000038
 2023,FY,2023-12-31,12,product,Cardiovascular,Cardiovascular,心血管,MedTech,6350,USD,millions,reported,SEC 10-K 0000200406-25-000038
-2023,FY,2023-12-31,12,product,Orthopaedics,Orthopaedics,骨科,MedTech,8942,USD,millions,reported,SEC 10-K 0000200406-25-000038
-2023,FY,2023-12-31,12,product,Surgery,Surgery,外科手术,MedTech,10037,USD,millions,reported,SEC 10-K 0000200406-25-000038
-2023,FY,2023-12-31,12,product,Vision,Vision,眼科视力,MedTech,5072,USD,millions,reported,SEC 10-K 0000200406-25-000038
 2023,FY,2023-12-31,12,segment,InnovativeMedicine,Innovative Medicine,创新药物,,54759,USD,millions,reported,SEC 10-K 0000200406-25-000038
 2023,FY,2023-12-31,12,segment,MedTech,MedTech,医疗技术,,30400,USD,millions,reported,SEC 10-K 0000200406-25-000038
 2024,Q1,2024-03-31,3,geography,AsiaPacificAfrica,"Asia-Pacific, Africa",亚太及非洲,,3406,USD,millions,reported,SEC 10-Q 0000200406-24-000049
@@ -209,9 +209,9 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2024,Q4,2024-12-29,3,product,Neuroscience,Neuroscience,神经科学,Innovative Medicine,1775,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-24-000096
 2024,Q4,2024-12-29,3,product,Oncology,Oncology,肿瘤学,Innovative Medicine,5497,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-24-000096
 2024,Q4,2024-12-29,3,product,PulmonaryHypertension,Pulmonary Hypertension,肺动脉高压,Innovative Medicine,1092,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-24-000096
-2024,Q4,2024-12-29,3,product,Orthopaedics,Orthopaedics,骨科,MedTech,2315,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-24-000096
-2024,Q4,2024-12-29,3,product,Surgery,Surgery,外科手术,MedTech,2507,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-24-000096
-2024,Q4,2024-12-29,3,product,Vision,Vision,眼科视力,MedTech,1303,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-24-000096
+2024,Q4,2024-12-29,3,product,Orthopaedics,Orthopaedics,骨科,MEDTECH,2315,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-24-000096
+2024,Q4,2024-12-29,3,product,Surgery,Surgery,外科手术,MEDTECH,2507,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-24-000096
+2024,Q4,2024-12-29,3,product,Vision,Vision,眼科视力,MEDTECH,1303,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-24-000096
 2024,Q4,2024-12-29,3,segment,InnovativeMedicine,Innovative Medicine,创新药物,,14332,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-24-000096
 2024,Q4,2024-12-29,3,segment,MedTech,MedTech,医疗技术,,8188,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-24-000096
 2024,FY,2024-12-29,12,geography,AsiaPacificAfrica,"Asia-Pacific, Africa",亚太及非洲,,13593,USD,millions,reported,SEC 10-K 0000200406-25-000038
@@ -224,10 +224,10 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2024,FY,2024-12-29,12,product,Neuroscience,Neuroscience,神经科学,Innovative Medicine,7115,USD,millions,reported,SEC 10-K 0000200406-25-000038
 2024,FY,2024-12-29,12,product,Oncology,Oncology,肿瘤学,Innovative Medicine,20781,USD,millions,reported,SEC 10-K 0000200406-25-000038
 2024,FY,2024-12-29,12,product,PulmonaryHypertension,Pulmonary Hypertension,肺动脉高压,Innovative Medicine,4282,USD,millions,reported,SEC 10-K 0000200406-25-000038
+2024,FY,2024-12-29,12,product,Orthopaedics,Orthopaedics,骨科,MEDTECH,9158,USD,millions,reported,SEC 10-K 0000200406-25-000038
+2024,FY,2024-12-29,12,product,Surgery,Surgery,外科手术,MEDTECH,9845,USD,millions,reported,SEC 10-K 0000200406-25-000038
+2024,FY,2024-12-29,12,product,Vision,Vision,眼科视力,MEDTECH,5146,USD,millions,reported,SEC 10-K 0000200406-25-000038
 2024,FY,2024-12-29,12,product,Cardiovascular,Cardiovascular,心血管,MedTech,7707,USD,millions,reported,SEC 10-K 0000200406-25-000038
-2024,FY,2024-12-29,12,product,Orthopaedics,Orthopaedics,骨科,MedTech,9158,USD,millions,reported,SEC 10-K 0000200406-25-000038
-2024,FY,2024-12-29,12,product,Surgery,Surgery,外科手术,MedTech,9845,USD,millions,reported,SEC 10-K 0000200406-25-000038
-2024,FY,2024-12-29,12,product,Vision,Vision,眼科视力,MedTech,5146,USD,millions,reported,SEC 10-K 0000200406-25-000038
 2024,FY,2024-12-29,12,segment,InnovativeMedicine,Innovative Medicine,创新药物,,56964,USD,millions,reported,SEC 10-K 0000200406-25-000038
 2024,FY,2024-12-29,12,segment,MedTech,MedTech,医疗技术,,31857,USD,millions,reported,SEC 10-K 0000200406-25-000038
 2025,Q1,2025-03-30,3,geography,AsiaPacificAfrica,"Asia-Pacific, Africa",亚太及非洲,,3311,USD,millions,reported,SEC 10-Q 0000200406-25-000119
@@ -298,9 +298,9 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2025,Q4,2025-12-28,3,product,Neuroscience,Neuroscience,神经科学,Innovative Medicine,2115,USD,millions,derived,SEC 10-K 0000200406-26-000016 − 10-Q 0000200406-25-000209
 2025,Q4,2025-12-28,3,product,Oncology,Oncology,肿瘤学,Innovative Medicine,6861,USD,millions,derived,SEC 10-K 0000200406-26-000016 − 10-Q 0000200406-25-000209
 2025,Q4,2025-12-28,3,product,PulmonaryHypertension,Pulmonary Hypertension,肺动脉高压,Innovative Medicine,1184,USD,millions,derived,SEC 10-K 0000200406-26-000016 − 10-Q 0000200406-25-000209
-2025,Q4,2025-12-28,3,product,Orthopaedics,Orthopaedics,骨科,MedTech,2438,USD,millions,derived,SEC 10-K 0000200406-26-000016 − 10-Q 0000200406-25-000209
-2025,Q4,2025-12-28,3,product,Surgery,Surgery,外科手术,MedTech,2644,USD,millions,derived,SEC 10-K 0000200406-26-000016 − 10-Q 0000200406-25-000209
-2025,Q4,2025-12-28,3,product,Vision,Vision,眼科视力,MedTech,1420,USD,millions,derived,SEC 10-K 0000200406-26-000016 − 10-Q 0000200406-25-000209
+2025,Q4,2025-12-28,3,product,Orthopaedics,Orthopaedics,骨科,MEDTECH,2438,USD,millions,derived,SEC 10-K 0000200406-26-000016 − 10-Q 0000200406-25-000209
+2025,Q4,2025-12-28,3,product,Surgery,Surgery,外科手术,MEDTECH,2644,USD,millions,derived,SEC 10-K 0000200406-26-000016 − 10-Q 0000200406-25-000209
+2025,Q4,2025-12-28,3,product,Vision,Vision,眼科视力,MEDTECH,1420,USD,millions,derived,SEC 10-K 0000200406-26-000016 − 10-Q 0000200406-25-000209
 2025,Q4,2025-12-28,3,segment,InnovativeMedicine,Innovative Medicine,创新药物,,15763,USD,millions,derived,SEC 10-K 0000200406-26-000016 − 10-Q 0000200406-25-000209
 2025,Q4,2025-12-28,3,segment,MedTech,MedTech,医疗技术,,8801,USD,millions,derived,SEC 10-K 0000200406-26-000016 − 10-Q 0000200406-25-000209
 2025,FY,2025-12-28,12,geography,AsiaPacificAfrica,"Asia-Pacific, Africa",亚太及非洲,,14031,USD,millions,reported,SEC 10-K 0000200406-26-000016
@@ -313,10 +313,10 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2025,FY,2025-12-28,12,product,Neuroscience,Neuroscience,神经科学,Innovative Medicine,7837,USD,millions,reported,SEC 10-K 0000200406-26-000016
 2025,FY,2025-12-28,12,product,Oncology,Oncology,肿瘤学,Innovative Medicine,25380,USD,millions,reported,SEC 10-K 0000200406-26-000016
 2025,FY,2025-12-28,12,product,PulmonaryHypertension,Pulmonary Hypertension,肺动脉高压,Innovative Medicine,4437,USD,millions,reported,SEC 10-K 0000200406-26-000016
+2025,FY,2025-12-28,12,product,Orthopaedics,Orthopaedics,骨科,MEDTECH,9258,USD,millions,reported,SEC 10-K 0000200406-26-000016
+2025,FY,2025-12-28,12,product,Surgery,Surgery,外科手术,MEDTECH,10137,USD,millions,reported,SEC 10-K 0000200406-26-000016
+2025,FY,2025-12-28,12,product,Vision,Vision,眼科视力,MEDTECH,5468,USD,millions,reported,SEC 10-K 0000200406-26-000016
 2025,FY,2025-12-28,12,product,Cardiovascular,Cardiovascular,心血管,MedTech,8928,USD,millions,reported,SEC 10-K 0000200406-26-000016
-2025,FY,2025-12-28,12,product,Orthopaedics,Orthopaedics,骨科,MedTech,9258,USD,millions,reported,SEC 10-K 0000200406-26-000016
-2025,FY,2025-12-28,12,product,Surgery,Surgery,外科手术,MedTech,10137,USD,millions,reported,SEC 10-K 0000200406-26-000016
-2025,FY,2025-12-28,12,product,Vision,Vision,眼科视力,MedTech,5468,USD,millions,reported,SEC 10-K 0000200406-26-000016
 2025,FY,2025-12-28,12,segment,InnovativeMedicine,Innovative Medicine,创新药物,,60401,USD,millions,reported,SEC 10-K 0000200406-26-000016
 2025,FY,2025-12-28,12,segment,MedTech,MedTech,医疗技术,,33792,USD,millions,reported,SEC 10-K 0000200406-26-000016
 2026,Q1,2026-03-29,3,geography,AsiaPacificAfrica,"Asia-Pacific, Africa",亚太及非洲,,3591,USD,millions,reported,SEC 10-Q 0000200406-26-000087

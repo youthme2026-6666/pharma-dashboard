@@ -45,7 +45,7 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2021,Q4,2021-12-31,3,product,ProductAndServiceOther,Other revenues,其他收入,Other,575,USD,millions,derived,SEC 10-K 0000318154-24-000011 − 10-Q 0000318154-22-000055
 2021,FY,2021-12-31,12,geography,NonUs,ROW,美国以外地区,,7785,USD,millions,reported,SEC 10-K 0000318154-22-000010
 2021,FY,2021-12-31,12,geography,US,US,美国,,18194,USD,millions,reported,SEC 10-K 0000318154-22-000010
-2021,FY,2021-12-31,12,product,Evenity,EVENITY,宜倍泰,Cardiometabolic Health,530,USD,millions,reported,SEC 10-K 0000318154-24-000011
+2021,FY,2021-12-31,12,product,EVENITY,EVENITY,宜倍泰,Cardiometabolic Health,530,USD,millions,reported,SEC 10-K 0000318154-24-000011
 2021,FY,2021-12-31,12,product,KRYSTEXXA,KRYSTEXXA,KRYSTEXXA,Cardiometabolic Health,0,USD,millions,reported,SEC 10-K 0000318154-24-000011
 2021,FY,2021-12-31,12,product,Prolia,Prolia,普罗力,Cardiometabolic Health,3248,USD,millions,reported,SEC 10-K 0000318154-24-000011
 2021,FY,2021-12-31,12,product,Repathaevolocumab,Repatha,瑞百安,Cardiovascular,1117,USD,millions,reported,SEC 10-K 0000318154-24-000011
@@ -367,7 +367,7 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2025,FY,2025-12-31,12,product,Enbrel,ENBREL,恩利,Immunology,2226,USD,millions,reported,SEC 10-K 0000318154-26-000010
 2025,FY,2025-12-31,12,product,Otezla,Otezla,奥泰乐,Immunology,2265,USD,millions,reported,SEC 10-K 0000318154-26-000010
 2025,FY,2025-12-31,12,product,BLINCYTO,BLINCYTO,倍灵舒,Oncology,1559,USD,millions,reported,SEC 10-K 0000318154-26-000010
-2025,FY,2025-12-31,12,product,KYPROLIS,KYPROLIS,凯珀瑞,Oncology,1412,USD,millions,reported,SEC 10-K 0000318154-26-000010
+2025,FY,2025-12-31,12,product,Kyprolis,KYPROLIS,凯珀瑞,Oncology,1412,USD,millions,reported,SEC 10-K 0000318154-26-000010
 2025,FY,2025-12-31,12,product,Vectibix,Vectibix,唯可比,Oncology,1175,USD,millions,reported,SEC 10-K 0000318154-26-000010
 2025,FY,2025-12-31,12,product,Xgeva,XGEVA,喜治骨,Oncology,2084,USD,millions,reported,SEC 10-K 0000318154-26-000010
 2025,FY,2025-12-31,12,product,TEPEZZA,TEPEZZA,TEPEZZA,Ophthalmology,1903,USD,millions,reported,SEC 10-K 0000318154-26-000010

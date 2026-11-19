@@ -1,6 +1,6 @@
 {
   "cik": "0001651308",
-  "code_hash": "9fe20e28ff23",
+  "code_hash": "56ab6f194598",
   "fiscal_year_end": "1231",
   "form_type": "10-K",
   "identity_checked": "2026-11-09",
@@ -23,7 +23,7 @@
     "geography|US": "美国",
     "product|ABRAXANE": "白蛋白紫杉醇",
     "product|Abraxane": "白蛋白紫杉醇",
-    "product|BAITUOWEI": "百陀维",
+    "product|BAITUOWEI": "BAITUOWEI",
     "product|BLINCYTO": "倍林妥欧",
     "product|BRUKINSA": "百悦泽",
     "product|Brukinsa": "百悦泽",
@@ -51,6 +51,7 @@
   "product_groups": {
     "ABRAXANE": "Oncology",
     "Abraxane": "Oncology",
+    "BAITUOWEI": "Oncology",
     "BLINCYTO": "Oncology",
     "BRUKINSA": "Oncology",
     "Brukinsa": "Oncology",
