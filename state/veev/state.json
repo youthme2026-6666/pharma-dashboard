@@ -5,13 +5,34 @@
     "ok": true
   },
   "cik": "0001393052",
-  "code_hash": "a3ea769cc45e",
+  "code_hash": "d4adc7d82799",
   "fiscal_year_end": "0131",
   "form_type": "10-K",
   "identity_checked": "2026-11-09",
-  "last_check": "2026-11-09",
+  "last_check": "2026-11-19",
+  "mapping": {},
+  "mapping_tried": {
+    "capex": "ext:veev:FinanceLeasePropertyAndEquipmentCost,ext:veev:FinanceLeasePropertyPlantAndEquipmentNet,ext:veev:IncreaseDecreaseInCapitalExpendituresIncurredButNotYetPaid"
+  },
   "name": "VEEVA SYSTEMS INC",
+  "names_zh": {
+    "geography|AsiaPacific": "亚太地区",
+    "geography|Europe": "欧洲",
+    "geography|MiddleEastAfricaAndLatinAmerica": "中东、非洲和拉丁美洲",
+    "geography|NorthAmerica": "北美",
+    "geography|OtherInternational": "其他国际地区",
+    "geography|RestOfWorld": "其他地区",
+    "product|ProfessionalServicesVeevaCommercialCloud": "商业解决方案专业服务",
+    "product|ProfessionalServicesVeevaResearchAndDevelopment": "研发解决方案专业服务",
+    "product|ProfessionalServicesVeevaResearchAndDevelopmentAndQualitySolutions": "研发与质量解决方案专业服务",
+    "product|ProfessionalServicesVeevaVault": "Veeva Vault 专业服务",
+    "product|SubscriptionServicesVeevaCommercialCloud": "商业解决方案订阅服务",
+    "product|SubscriptionServicesVeevaResearchAndDevelopment": "研发解决方案订阅服务",
+    "product|SubscriptionServicesVeevaResearchAndDevelopmentAndQualitySolutions": "研发与质量解决方案订阅服务",
+    "product|SubscriptionServicesVeevaVault": "Veeva Vault 订阅服务"
+  },
   "periods": 32,
+  "product_groups": {},
   "segment_exclude": {},
   "sic": "Services-Prepackaged Software",
   "ticker": "VEEV"

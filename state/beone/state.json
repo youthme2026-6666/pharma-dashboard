@@ -1,11 +1,52 @@
 {
   "cik": "0001651308",
-  "code_hash": "a3ea769cc45e",
+  "code_hash": "d4adc7d82799",
   "fiscal_year_end": "1231",
   "form_type": "10-K",
   "identity_checked": "2026-11-09",
-  "last_check": "2026-11-09",
+  "last_check": "2026-11-19",
+  "mapping": {
+    "acquired_iprd": [
+      "ext:bgne:AcquiredInProcessResearchAndDevelopment"
+    ]
+  },
+  "mapping_tried": {
+    "acquired_iprd": "ext:bgne:AcquiredInProcessResearchAndDevelopment,ext:bgne:AcquiredInProcessResearchAndDevelopmentButNotYetPaid,ext:bgne:PaymentsToPurchaseInProcessResearchAndDevelopment"
+  },
   "name": "BeOne Medicines Ltd.",
+  "names_zh": {
+    "geography|AllOtherCountriesExceptChinaAndUnitedStatesOfAmerica": "其他国家（除中美）",
+    "geography|AllOtherCountriesExceptChinaUnitedStatesOfAmericaAndSwitzerland": "其他国家（除中美瑞）",
+    "geography|AllOtherCountriesExceptTheUnitedStatesOfAmericaChinaAndEurope": "其他国家（除中美欧）",
+    "geography|CN": "中国",
+    "geography|Europe": "欧洲",
+    "geography|US": "美国",
+    "product|ABRAXANE": "白蛋白紫杉醇",
+    "product|Abraxane": "白蛋白紫杉醇",
+    "product|BAITUOWEI": "百陀维",
+    "product|BLINCYTO": "倍林妥欧",
+    "product|BRUKINSA": "百悦泽",
+    "product|Brukinsa": "百悦泽",
+    "product|CollaborationReimbursementOfResearchAndDevelopmentCosts": "研发成本报销收入",
+    "product|CollaborationResearchAndDevelopmentService": "研发服务收入",
+    "product|KYPROLIS": "科普瑞思",
+    "product|License": "许可收入",
+    "product|MaterialRightsRevenue": "重大权利收入",
+    "product|Other": "其他收入",
+    "product|POBEVCY": "泊维喜",
+    "product|Pamiparib": "帕米帕利",
+    "product|Product": "产品净收入",
+    "product|REVLIMID": "来那度胺",
+    "product|Revlimid": "来那度胺",
+    "product|RightToAccessIntellectualPropertyRevenue": "知识产权使用权收入",
+    "product|TEVIMBRA": "替维莫德",
+    "product|Tevimbra": "替维莫德",
+    "product|Tislelizumab": "替雷利珠单抗",
+    "product|VIDAZA": "阿扎胞苷",
+    "product|Vidaza": "阿扎胞苷",
+    "product|XGEVA": "消浆炎",
+    "product|Xgeva": "消浆炎"
+  },
   "periods": 28,
   "product_groups": {
     "ABRAXANE": "Oncology",

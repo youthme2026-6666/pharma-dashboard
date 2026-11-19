@@ -1,11 +1,23 @@
 {
   "cik": "0001674416",
-  "code_hash": "a3ea769cc45e",
+  "code_hash": "d4adc7d82799",
   "fiscal_year_end": "1231",
   "form_type": "10-K",
   "identity_checked": "2026-11-09",
-  "last_check": "2026-11-09",
+  "last_check": "2026-11-19",
+  "mapping": {
+    "acquired_iprd": [
+      "ext:crsp:AcquiredIn-ProcessResearchAndDevelopmentExpense"
+    ]
+  },
+  "mapping_tried": {
+    "acquired_iprd": "ext:crsp:AcquiredIn-ProcessResearchAndDevelopmentCosts,ext:crsp:AcquiredIn-ProcessResearchAndDevelopmentExpense,ext:crsp:AcquiredIn-ProcessResearchAndDevelopmentExpenseRelatedToIssuanceOfCommonShares,ext:crsp:AcquiredInProcessResearchAndDevelopment,ext:crsp:AcquiredInProcessResearchAndDevelopmentPreviouslyIncludedInResearchAndDevelopment"
+  },
   "name": "CRISPR Therapeutics AG",
+  "names_zh": {
+    "product|CollaborationRevenue": "合作收入",
+    "product|Grant": "资助收入"
+  },
   "periods": 28,
   "product_groups": {
     "CollaborationRevenue": "Other",

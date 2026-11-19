@@ -1,11 +1,29 @@
 {
   "cik": "0000873303",
-  "code_hash": "a3ea769cc45e",
+  "code_hash": "d4adc7d82799",
   "fiscal_year_end": "1231",
   "form_type": "10-K",
   "identity_checked": "2026-11-09",
-  "last_check": "2026-11-09",
+  "last_check": "2026-11-19",
+  "mapping": {
+    "cost_of_sales": [
+      "ext:srpt:CostOfGoodsSoldExcludingAmortization"
+    ]
+  },
+  "mapping_tried": {
+    "acquired_iprd": "ext:srpt:AcquiredInProcessResearchAndDevelopment",
+    "cost_of_sales": "ext:srpt:CostOfGoodsSoldExcludingAmortization"
+  },
   "name": "Sarepta Therapeutics, Inc.",
+  "names_zh": {
+    "geography|NonUs": "美国以外地区",
+    "geography|US": "美国",
+    "product|AMONDYSFourtyFive": "AMONDYS 45",
+    "product|EXONDYSFiftyOne": "EXONDYS 51",
+    "product|Elevidys": "ELEVIDYS",
+    "product|PmoProducts": "PMO 产品",
+    "product|VYONDYSFiftyThree": "VYONDYS 53"
+  },
   "periods": 28,
   "product_groups": {
     "AMONDYSFourtyFive": "Rare Disease",

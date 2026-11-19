@@ -1,11 +1,32 @@
 {
   "cik": "0001048477",
-  "code_hash": "a3ea769cc45e",
+  "code_hash": "d4adc7d82799",
   "fiscal_year_end": "1231",
   "form_type": "10-K",
   "identity_checked": "2026-11-09",
-  "last_check": "2026-11-09",
+  "last_check": "2026-11-19",
+  "mapping": {},
+  "mapping_tried": {
+    "acquired_iprd": "ext:bmrn:InProcessResearchAndDevelopmentExpenseAcquiredInAssetAcquisitions,ext:bmrn:PaymentsForAssetAcquisitionsNetOfCashAcquired"
+  },
   "name": "BIOMARIN PHARMACEUTICAL INC",
+  "names_zh": {
+    "geography|Europe": "欧洲",
+    "geography|LatinAmerica": "拉丁美洲",
+    "geography|RestOfWorld": "世界其他地区",
+    "geography|US": "美国",
+    "product|ALDURAZYME": "安溶酶",
+    "product|BRINEURA": "布林尤拉",
+    "product|GALAFOLD": "加拉福德",
+    "product|KUVAN": "可凡",
+    "product|NAGLAZYME": "纳加酶",
+    "product|PALYNZIQ": "帕林孜",
+    "product|Product": "产品收入",
+    "product|ROCTAVIAN": "Roctavian基因疗法",
+    "product|RoyaltyAndOther": "特许权及其他收入",
+    "product|VIMIZIM": "维米津",
+    "product|VOXZOGO": "Voxzogo"
+  },
   "periods": 28,
   "product_groups": {
     "ALDURAZYME": "Rare Disease",

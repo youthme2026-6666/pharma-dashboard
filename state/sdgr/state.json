@@ -1,12 +1,36 @@
 {
   "cik": "0001490978",
-  "code_hash": "a3ea769cc45e",
+  "code_hash": "d4adc7d82799",
   "fiscal_year_end": "1231",
   "form_type": "10-K",
   "identity_checked": "2026-11-09",
-  "last_check": "2026-11-09",
+  "last_check": "2026-11-19",
+  "mapping": {},
+  "mapping_tried": {},
   "name": "Schrodinger, Inc.",
+  "names_zh": {
+    "geography|APAC": "亚太地区",
+    "geography|EMEA": "欧洲中东及非洲",
+    "geography|Europe": "欧洲",
+    "geography|JP": "日本",
+    "geography|NonUs": "其他地区",
+    "geography|US": "美国",
+    "product|DrugDiscovery": "药物发现业务",
+    "product|HostedSoftware": "托管软件",
+    "product|Maintenance": "软件维护服务",
+    "product|OnPremiseSoftware": "本地部署软件",
+    "product|ProfessionalServices": "专业服务",
+    "segment|DrugDiscoverySegment": "药物发现分部",
+    "segment|SoftwareSegment": "软件分部"
+  },
   "periods": 28,
+  "product_groups": {
+    "DrugDiscovery": "Drug Discovery",
+    "HostedSoftware": "Software",
+    "Maintenance": "Software",
+    "OnPremiseSoftware": "Software",
+    "ProfessionalServices": "Other"
+  },
   "segment_exclude": {
     "product": [
       "sdgr:ContributionMember",

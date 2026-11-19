@@ -5,13 +5,47 @@
     "ok": true
   },
   "cik": "0000200406",
-  "code_hash": "a3ea769cc45e",
+  "code_hash": "d4adc7d82799",
   "fiscal_year_end": "0103",
   "form_type": "10-K",
   "identity_checked": "2026-11-09",
-  "last_check": "2026-11-09",
+  "last_check": "2026-11-19",
+  "mapping": {
+    "acquired_iprd": [
+      "ext:jnj:InProcessResearchAndDevelopmentCharge"
+    ]
+  },
+  "mapping_tried": {
+    "acquired_iprd": "ext:jnj:InProcessResearchAndDevelopmentCharge,ext:jnj:PaymentsToAcquiredInProcessResearchAndDevelopmentAssets,ext:jnj:PaymentsToSettleConvertibleDebtAcquired,ext:jnj:ResearchAndDevelopmentInProcess1,ext:jnj:SettlementOfConvertibleDebtAcquiredFromShockwave,ext:jnj:TreasuryStockValueAcquiredCostMethodNetOfExciseTax"
+  },
   "name": "JOHNSON & JOHNSON",
+  "names_zh": {
+    "geography|AsiaPacificAfrica": "亚太及非洲",
+    "geography|Europe": "欧洲",
+    "geography|US": "美国",
+    "geography|WesternHemisphereExcludingUS": "西半球（不含美国）",
+    "product|Abiomed": "ABIOMED心脏支持设备",
+    "product|Cardiovascular": "心血管",
+    "product|CardiovascularMetabolismOther": "心血管/代谢及其他",
+    "product|Electrophysiology": "心脏电生理",
+    "product|Immunology": "免疫学",
+    "product|InfectiousDiseases": "传染病",
+    "product|Neuroscience": "神经科学",
+    "product|Oncology": "肿瘤学",
+    "product|Orthopaedics": "骨科",
+    "product|OtherCardiovascular": "其他心血管",
+    "product|PulmonaryHypertension": "肺动脉高压",
+    "product|Shockwave": "Shockwave介入设备",
+    "product|Surgery": "外科手术",
+    "product|Vision": "眼科视力",
+    "segment|Consumer": "消费者健康",
+    "segment|InnovativeMedicine": "创新药物",
+    "segment|MedTech": "医疗技术",
+    "segment|MedicalDevices": "医疗技术(3)",
+    "segment|Pharmaceutical": "制药"
+  },
   "periods": 28,
+  "product_groups": {},
   "segment_exclude": {},
   "sic": "Pharmaceutical Preparations",
   "ticker": "JNJ"

@@ -1,12 +1,22 @@
 {
   "cik": "0001035267",
-  "code_hash": "a3ea769cc45e",
+  "code_hash": "d4adc7d82799",
   "fiscal_year_end": "1231",
   "form_type": "10-K",
   "identity_checked": "2026-11-09",
-  "last_check": "2026-11-09",
+  "last_check": "2026-11-19",
+  "mapping": {},
+  "mapping_tried": {},
   "name": "INTUITIVE SURGICAL INC",
+  "names_zh": {
+    "geography|GeographicDistributionDomestic": "美国",
+    "geography|GeographicDistributionForeign": "美国以外地区",
+    "product|InstrumentsandAccessories": "器械及配件",
+    "product|Services": "服务",
+    "product|Systems": "手术系统"
+  },
   "periods": 28,
+  "product_groups": {},
   "segment_exclude": {
     "product": [
       "us-gaap:ProductMember",

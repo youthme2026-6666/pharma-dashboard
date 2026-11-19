@@ -1,17 +1,49 @@
 {
   "cik": "0000874015",
-  "code_hash": "a3ea769cc45e",
+  "code_hash": "d4adc7d82799",
   "fiscal_year_end": "1231",
   "form_type": "10-K",
   "identity_checked": "2026-11-09",
-  "last_check": "2026-11-09",
+  "last_check": "2026-11-19",
+  "mapping": {
+    "rnd": [
+      "ext:ions:ResearchDevelopmentAndPatentExpense"
+    ]
+  },
+  "mapping_tried": {
+    "receivables": "ext:ions:MaximumAmountOfPaymentsReceivableForAdditionalMilestones",
+    "rnd": "ext:ions:AccruedClinicalDevelopmentExpenses,ext:ions:DeferredTaxAssetsCapitalizedResearchAndDevelopmentExpenses,ext:ions:ResearchDevelopmentAndPatentExpense"
+  },
   "name": "IONIS PHARMACEUTICALS INC",
+  "names_zh": {
+    "product|CollaborativeAgreementRevenue": "合作协议收入",
+    "product|DAWNZERASales": "DAWNZERA 净销售额",
+    "product|DawnzeraSales": "DAWNZERA 销售收入",
+    "product|DawnzeraSalesNet": "DAWNZERA 净销售额",
+    "product|EplontersenJointDevelopmentRevenue": "Eplontersen 联合开发收入",
+    "product|LicensingAndOtherRoyalties": "许可及其他特许权使用费",
+    "product|Other": "其他收入",
+    "product|OtherCommercial": "其他商业收入",
+    "product|OtherCommercialRevenue": "其他商业收入",
+    "product|OtherRoyalties": "其他特许权使用费",
+    "product|Product": "TEGSEDI 和 WAYLIVRA 净收入",
+    "product|SpinrazaRoyalties": "SPINRAZA 特许权使用费",
+    "product|TegsediAndWaylivra": "TEGSEDI 和 WAYLIVRA 净收入",
+    "product|Tryngolza": "TRYNGOLZA 净销售额",
+    "product|TryngolzaSales": "TRYNGOLZA 销售收入",
+    "product|TryngolzaSalesNet": "TRYNGOLZA 净销售额",
+    "product|WainuaJointDevelopmentRevenue": "WAINUA 联合开发收入",
+    "product|WainuaRoyalties": "WAINUA 特许权使用费",
+    "product|WainusRoyalties": "WAINUA 特许权使用费",
+    "product|ZanvastroSalesNet": "ZANVASTRO 净销售额"
+  },
   "periods": 28,
   "product_groups": {
     "CollaborativeAgreementRevenue": "Other",
     "DAWNZERASales": "Cardiometabolic Health",
     "DawnzeraSales": "Cardiometabolic Health",
     "Ion859": "Cardiometabolic Health",
+    "OtherCommercial": "Other",
     "ResearchAndDevelopmentRevenue": "Other",
     "ResearchAndDevelopmentRevenueUnderCollaborativeAgreements": "Other",
     "SpinrazaRoyalties": "Rare Disease",
