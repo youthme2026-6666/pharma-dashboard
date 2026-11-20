@@ -310,6 +310,64 @@ class TestGroupHarmonize(unittest.TestCase):
         self.assertEqual(sorted(r["member"] for r in rows), ["XA", "Xa"])
 
 
+class TestMemberRenames(unittest.TestCase):
+    """成员改科目名（sec.member_renames / apply_renames）：Ionis 把 Eplontersen 改成 WAINUA、改正拼错的 WainusRoyalties。"""
+
+    @staticmethod
+    def filing(filed, per, members):
+        return {"filed": filed, "period_end": per.split("|")[1], "periods": {per: {"product": [
+            "x", "us-gaap:Revenue", sum(v for _, _, v in members),
+            [[m, "ions:%sMember" % m, lab, "", v, 0.0005, "reported"] for m, lab, v in members]]}}}
+
+    def filings(self):
+        fy22 = "2022-01-01|2022-12-31"
+        return {
+            "a": self.filing("2023-02-22", fy22, [("EplontersenJointDevelopmentRevenue", "Eplontersen Joint Development Revenue", 76.787),
+                                                   ("Pifeltro", "Pifeltro", 5.0), ("Spinraza", "SPINRAZA", 200.0)]),
+            "b": self.filing("2024-02-21", fy22, [("WainuaJointDevelopmentRevenue", "WAINUA Joint Development Revenue", 76.787),
+                                                   ("AllianceRevenueKoselugo", "Alliance revenue - Koselugo", 5.0), ("Spinraza", "SPINRAZA", 200.0)]),
+            "c": self.filing("2025-10-29", "2025-07-01|2025-09-30", [("WainusRoyalties", "WAINUA Royalties", 13.32)]),
+            "d": self.filing("2026-11-09", "2025-07-01|2025-09-30", [("WainuaRoyalties", "WAINUA Royalties", 13.32)]),
+        }
+
+    def test_renames_need_same_value_and_label(self):
+        ren = A.member_renames(self.filings())["product"]
+        self.assertEqual(ren["EplontersenJointDevelopmentRevenue"], "WainuaJointDevelopmentRevenue")
+        self.assertEqual(ren["WainusRoyalties"], "WainuaRoyalties")
+        self.assertNotIn("Pifeltro", ren)              # 数碰巧一样、名字完全不同：不是改名
+
+    def test_apply_renames(self):
+        rows = [{"fiscal_year": "2022", "fiscal_period": "FY", "period_end": "2022-12-31", "axis": "product",
+                 "member": "EplontersenJointDevelopmentRevenue", "name_en": "Eplontersen Joint Development Revenue", "group": ""},
+                {"fiscal_year": "2023", "fiscal_period": "FY", "period_end": "2023-12-31", "axis": "product",
+                 "member": "WainuaJointDevelopmentRevenue", "name_en": "WAINUA Joint Development Revenue", "group": ""}]
+        merged = A.apply_renames(rows, {"product": {"EplontersenJointDevelopmentRevenue": "WainuaJointDevelopmentRevenue"}})
+        self.assertEqual(merged, [("product", "WainuaJointDevelopmentRevenue", ["EplontersenJointDevelopmentRevenue"])])
+        self.assertEqual({(r["member"], r["name_en"]) for r in rows}, {("WainuaJointDevelopmentRevenue", "WAINUA Joint Development Revenue")})
+
+    def test_both_names_in_same_period_not_merged(self):
+        rows = [{"fiscal_year": "2022", "fiscal_period": "FY", "period_end": "2022-12-31", "axis": "product", "member": m,
+                 "name_en": m, "group": ""} for m in ("Old", "New")]
+        self.assertEqual(A.apply_renames(rows, {"product": {"Old": "New"}}), [])
+        self.assertEqual(sorted(r["member"] for r in rows), ["New", "Old"])
+
+    def test_label_members_uses_group_of_longest_name(self):
+        """改名前后 GPT 各归过一次类（WAINUA Royalties：旧写法 罕见病、新写法 心血管代谢）：用覆盖期间多的那个。"""
+        run = object.__new__(A.Run)
+        run.state = {"names_zh": {"product|WainuaRoyalties": "WAINUA 特许权使用费"},
+                     "product_groups": {"WainusRoyalties": "Rare Disease", "WainuaRoyalties": "Cardiometabolic Health"}}
+        run.co = {"categories": ["rna"], "name_en": "Ionis"}
+        run.seg = {"filings": {k: v for k, v in self.filings().items() if k in "cd"}}
+        run.ctx = type("C", (), {"gpt": None})()
+        run.res = type("R", (), {"notes": [], "warnings": []})()
+        rows = [{"fiscal_year": "2025", "fiscal_period": q, "period_end": e, "axis": "product", "member": "WainusRoyalties",
+                 "name_en": "WAINUA Royalties", "group": "", "name_zh": ""} for q, e in (("Q1", "2025-03-31"), ("Q2", "2025-06-30"))]
+        rows.append({"fiscal_year": "2025", "fiscal_period": "Q3", "period_end": "2025-09-30", "axis": "product",
+                     "member": "WainuaRoyalties", "name_en": "WAINUA Royalties", "group": "", "name_zh": ""})
+        run.label_members(rows)
+        self.assertEqual({(r["member"], r["group"]) for r in rows}, {("WainuaRoyalties", "Rare Disease")})
+
+
 class TestBreakdown(unittest.TestCase):
     """XBRL 实例 -> 收入构成。"""
 

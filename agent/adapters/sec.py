@@ -398,6 +398,83 @@ FIXED_ZH = {X.OTHER_MEMBER: "其他（未单列）", X.OTHER_REVENUE: "其他收
 CJK = re.compile(r"[\u3400-\u9fff]")
 
 
+def _same_label(a, b):
+    """英文名相同（不计大小写和标点），或词数相同、只有一个词不同、至少两个词相同。"""
+    wa, wb = re.findall(r"[a-z0-9]+", (a or "").lower()), re.findall(r"[a-z0-9]+", (b or "").lower())
+    if wa == wb:
+        return bool(wa)
+    if len(wa) != len(wb):
+        return False
+    diff = sum(1 for x, y in zip(wa, wb) if x != y)
+    return diff == 1 and len(wa) - diff >= 2
+
+
+def member_renames(filings):
+    """公司改了收入构成成员的科目名（例如 Ionis 把 Eplontersen 改成商品名 WAINUA、把拼错的 WainusRoyalties 改正）：
+    新申报里同一期间、同一方向，旧名不见了、新名出现了，两者的数相同（非零、在容差内、一一对应），而且英文名相同或只换了
+    一个词（至少两个词相同，例如 “Eplontersen Joint Development Revenue” → “WAINUA Joint Development Revenue”），就认定是改名。
+    只看数相同不够（几个小产品的数可能碰巧一样）。旧名在新申报里不能再出现，新名在旧申报里也不能出现。返回 {方向: {旧名: 新名}}（已顺着连续改名接到最新的名字）。"""
+    seq = sorted(filings.values(), key=lambda f: (f.get("filed") or "", f.get("period_end") or ""))
+    used = []                                      # 每份申报：{方向: {期间: {成员: (数, 容差)}}}
+    for f in seq:
+        d = {}
+        for per, axes in (f.get("periods") or {}).items():
+            for axis, b in axes.items():
+                ms = {m[0]: (m[4], m[5], m[2]) for m in b[3] if m[0] not in FIXED_ZH and m[4] is not None}
+                d.setdefault(axis, {})[per] = ms
+        used.append(d)
+    names = [{axis: set().union(*per.values()) for axis, per in d.items()} for d in used]
+    found, bad = {}, set()
+    for j in range(1, len(seq)):
+        for i in range(j):
+            for axis, pers in used[j].items():
+                old_all, new_all = names[i].get(axis, set()), names[j][axis]
+                for per, new in pers.items():
+                    old = used[i].get(axis, {}).get(per)
+                    if not old:
+                        continue
+                    gone = {m: v for m, v in old.items() if m not in new_all and v[0]}
+                    came = {m: v for m, v in new.items() if m not in old_all and v[0]}
+                    for a, (va, ta, la) in gone.items():
+                        hit = [b for b, (vb, tb, _) in came.items() if abs(va - vb) <= ta + tb]
+                        back = [x for x, (vx, tx, _) in gone.items() if hit and abs(vx - came[hit[0]][0]) <= tx + came[hit[0]][1]]
+                        if len(hit) == 1 and back == [a] and _same_label(la, came[hit[0]][2]):
+                            prev = found.setdefault(axis, {}).setdefault(a, hit[0])
+                            if prev != hit[0]:
+                                bad.add((axis, a))
+    out = {}
+    for axis, ren in found.items():
+        ren = {a: b for a, b in ren.items() if (axis, a) not in bad}
+        for a in list(ren):
+            b, hops = ren[a], 0
+            while b in ren and hops < 10:
+                b, hops = ren[b], hops + 1
+            ren[a] = b
+        if ren:
+            out[axis] = ren
+    return out
+
+
+def apply_renames(seg_rows, renames):
+    """把改过名的成员接到新名上（改名后两个名字出现在同一期间的不接）。返回 [(方向, 新名, [旧名…])]。"""
+    merged = []
+    for axis, ren in renames.items():
+        rows = [r for r in seg_rows if r["axis"] == axis]
+        for b in set(ren.values()):
+            olds = sorted(a for a, t in ren.items() if t == b)
+            fam = [r for r in rows if r["member"] in olds or r["member"] == b]
+            periods = [(r["fiscal_year"], r["fiscal_period"]) for r in fam]
+            if len(set(periods)) != len(periods):
+                continue
+            latest = max(fam, key=lambda r: r["period_end"]) if fam else None
+            for r in fam:
+                r["member"] = b
+                if latest is not None:
+                    r["name_en"] = latest["name_en"]
+            merged.append((axis, b, olds))
+    return sorted(merged)
+
+
 def harmonize_groups(seg_rows, pharma):
     """让同一产品在所有期间归同一组（公司改过分组方式或给事业部改过名时，历史期间按现在的结构）。规则都是确定的：
     1. 药企有产品在不同期间时而归治疗领域（AREAS）、时而归别的分组（例如百时美施贵宝的“在售产品 / 增长组合 / 传统组合”、
@@ -644,10 +721,21 @@ class Run:
         names = dict(self.state.get("names_zh") or {})
         groups = dict(self.state.get("product_groups") or {})
         pharma = bool(set(self.co.get("categories") or []) & PHARMA)
+        count = {}
+        for r in seg_rows:
+            count[(r["axis"], r["member"])] = count.get((r["axis"], r["member"]), 0) + 1
+        merged = apply_renames(seg_rows, member_renames(self.seg.get("filings") or {}))
+        for axis, b, olds in merged:               # 改名前后 GPT 各归过一次类时，用覆盖期间最多的那个名字的归类
+            fam = [m for m in olds + [b] if m in groups]
+            if axis == "product" and fam:
+                groups[b] = groups[max(fam, key=lambda m: (count.get((axis, m), 0), m == b))]
         for r in seg_rows:                         # 以前 GPT 归过类的先填上，再统一各期间
             if r["axis"] == "product" and not r["group"] and r["member"] in groups:
                 r["group"] = groups[r["member"]]
         hnotes = harmonize_groups(seg_rows, pharma)
+        if merged:
+            hnotes.insert(0, "成员改过科目名的接到新名上：%s" % "；".join(
+                "%s → %s" % ("、".join(olds), b) for _, b, olds in merged))
         seg_names = sorted({r["name_en"] for r in seg_rows if r["axis"] == "segment" and r["member"] not in FIXED_ZH})
         if pharma:
             allowed = AREAS
