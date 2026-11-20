@@ -1,7 +1,7 @@
 fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,value,currency,unit,basis,source
-2021,Q1,2021-04-02,3,geography,Highgrowthmarkets,High-growth markets,高速增长市场,,2095,USD,millions,reported,SEC 10-Q 0000313616-21-000059
+2021,Q1,2021-04-02,3,geography,HighGrowthMarkets,High-growth markets,高速增长市场,,2095,USD,millions,reported,SEC 10-Q 0000313616-21-000059
 2021,Q1,2021-04-02,3,geography,NorthAmerica,North America,北美地区,,2727,USD,millions,reported,SEC 10-Q 0000313616-21-000059
-2021,Q1,2021-04-02,3,geography,Otherdevelopedmarkets,Other developed markets,其他发达市场,,372,USD,millions,reported,SEC 10-Q 0000313616-21-000059
+2021,Q1,2021-04-02,3,geography,OtherDevelopedMarkets,Other developed markets,其他发达市场,,372,USD,millions,reported,SEC 10-Q 0000313616-21-000059
 2021,Q1,2021-04-02,3,geography,WesternEurope,Western Europe,西欧地区,,1664,USD,millions,reported,SEC 10-Q 0000313616-21-000059
 2021,Q1,2021-04-02,3,product,Diagnostics/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,一次性收入,Diagnostics,276,USD,millions,reported,SEC 10-Q 0000313616-21-000059
 2021,Q1,2021-04-02,3,product,Diagnostics/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,经常性收入,Diagnostics,1902,USD,millions,reported,SEC 10-Q 0000313616-21-000059
@@ -9,12 +9,12 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2021,Q1,2021-04-02,3,product,EnvironmentalAppliedSolutions/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,经常性收入,Environmental & Applied Solutions,648,USD,millions,reported,SEC 10-Q 0000313616-21-000059
 2021,Q1,2021-04-02,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,一次性收入,Life Sciences,1017,USD,millions,reported,SEC 10-Q 0000313616-21-000059
 2021,Q1,2021-04-02,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,经常性收入,Life Sciences,2529,USD,millions,reported,SEC 10-Q 0000313616-21-000059
-2021,Q1,2021-04-02,3,segment,Diagnostics,Diagnostics,诊断业务,,2178,USD,millions,reported,SEC 10-Q 0000313616-21-000059
+2021,Q1,2021-04-02,3,segment,DiagnosticsSegment,Diagnostics,诊断业务,,2178,USD,millions,reported,SEC 10-Q 0000313616-21-000059
 2021,Q1,2021-04-02,3,segment,EnvironmentalAppliedSolutions,Environmental & Applied Solutions,环境与应用解决方案,,1134,USD,millions,reported,SEC 10-Q 0000313616-21-000059
-2021,Q1,2021-04-02,3,segment,LifeSciences,Life Sciences,生命科学,,3546,USD,millions,reported,SEC 10-Q 0000313616-21-000059
-2021,Q2,2021-07-02,3,geography,Highgrowthmarkets,High-growth markets,高速增长市场,,2282,USD,millions,reported,SEC 10-Q 0000313616-21-000098
+2021,Q1,2021-04-02,3,segment,LifeSciencesSegment,Life Sciences,生命科学业务,,3546,USD,millions,reported,SEC 10-Q 0000313616-21-000059
+2021,Q2,2021-07-02,3,geography,HighGrowthMarkets,High-growth markets,高速增长市场,,2282,USD,millions,reported,SEC 10-Q 0000313616-21-000098
 2021,Q2,2021-07-02,3,geography,NorthAmerica,North America,北美地区,,2816,USD,millions,reported,SEC 10-Q 0000313616-21-000098
-2021,Q2,2021-07-02,3,geography,Otherdevelopedmarkets,Other developed markets,其他发达市场,,350,USD,millions,reported,SEC 10-Q 0000313616-21-000098
+2021,Q2,2021-07-02,3,geography,OtherDevelopedMarkets,Other developed markets,其他发达市场,,350,USD,millions,reported,SEC 10-Q 0000313616-21-000098
 2021,Q2,2021-07-02,3,geography,WesternEurope,Western Europe,西欧地区,,1770,USD,millions,reported,SEC 10-Q 0000313616-21-000098
 2021,Q2,2021-07-02,3,product,Diagnostics/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,一次性收入,Diagnostics,314,USD,millions,reported,SEC 10-Q 0000313616-21-000098
 2021,Q2,2021-07-02,3,product,Diagnostics/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,经常性收入,Diagnostics,2022,USD,millions,reported,SEC 10-Q 0000313616-21-000098
@@ -22,12 +22,12 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2021,Q2,2021-07-02,3,product,EnvironmentalAppliedSolutions/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,经常性收入,Environmental & Applied Solutions,658,USD,millions,reported,SEC 10-Q 0000313616-21-000098
 2021,Q2,2021-07-02,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,一次性收入,Life Sciences,1094,USD,millions,reported,SEC 10-Q 0000313616-21-000098
 2021,Q2,2021-07-02,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,经常性收入,Life Sciences,2640,USD,millions,reported,SEC 10-Q 0000313616-21-000098
-2021,Q2,2021-07-02,3,segment,Diagnostics,Diagnostics,诊断业务,,2336,USD,millions,reported,SEC 10-Q 0000313616-21-000098
+2021,Q2,2021-07-02,3,segment,DiagnosticsSegment,Diagnostics,诊断业务,,2336,USD,millions,reported,SEC 10-Q 0000313616-21-000098
 2021,Q2,2021-07-02,3,segment,EnvironmentalAppliedSolutions,Environmental & Applied Solutions,环境与应用解决方案,,1148,USD,millions,reported,SEC 10-Q 0000313616-21-000098
-2021,Q2,2021-07-02,3,segment,LifeSciences,Life Sciences,生命科学,,3734,USD,millions,reported,SEC 10-Q 0000313616-21-000098
-2021,Q3,2021-10-01,3,geography,Highgrowthmarkets,High-growth markets,高速增长市场,,2318,USD,millions,reported,SEC 10-Q 0000313616-21-000110
+2021,Q2,2021-07-02,3,segment,LifeSciencesSegment,Life Sciences,生命科学业务,,3734,USD,millions,reported,SEC 10-Q 0000313616-21-000098
+2021,Q3,2021-10-01,3,geography,HighGrowthMarkets,High-growth markets,高速增长市场,,2318,USD,millions,reported,SEC 10-Q 0000313616-21-000110
 2021,Q3,2021-10-01,3,geography,NorthAmerica,North America,北美地区,,2886,USD,millions,reported,SEC 10-Q 0000313616-21-000110
-2021,Q3,2021-10-01,3,geography,Otherdevelopedmarkets,Other developed markets,其他发达市场,,356,USD,millions,reported,SEC 10-Q 0000313616-21-000110
+2021,Q3,2021-10-01,3,geography,OtherDevelopedMarkets,Other developed markets,其他发达市场,,356,USD,millions,reported,SEC 10-Q 0000313616-21-000110
 2021,Q3,2021-10-01,3,geography,WesternEurope,Western Europe,西欧地区,,1669,USD,millions,reported,SEC 10-Q 0000313616-21-000110
 2021,Q3,2021-10-01,3,product,Diagnostics/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,一次性收入,Diagnostics,299,USD,millions,reported,SEC 10-Q 0000313616-21-000110
 2021,Q3,2021-10-01,3,product,Diagnostics/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,经常性收入,Diagnostics,2150,USD,millions,reported,SEC 10-Q 0000313616-21-000110
@@ -35,12 +35,12 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2021,Q3,2021-10-01,3,product,EnvironmentalAppliedSolutions/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,经常性收入,Environmental & Applied Solutions,678,USD,millions,reported,SEC 10-Q 0000313616-21-000110
 2021,Q3,2021-10-01,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,一次性收入,Life Sciences,1041,USD,millions,reported,SEC 10-Q 0000313616-21-000110
 2021,Q3,2021-10-01,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,经常性收入,Life Sciences,2591,USD,millions,reported,SEC 10-Q 0000313616-21-000110
-2021,Q3,2021-10-01,3,segment,Diagnostics,Diagnostics,诊断业务,,2449,USD,millions,reported,SEC 10-Q 0000313616-21-000110
+2021,Q3,2021-10-01,3,segment,DiagnosticsSegment,Diagnostics,诊断业务,,2449,USD,millions,reported,SEC 10-Q 0000313616-21-000110
 2021,Q3,2021-10-01,3,segment,EnvironmentalAppliedSolutions,Environmental & Applied Solutions,环境与应用解决方案,,1148,USD,millions,reported,SEC 10-Q 0000313616-21-000110
-2021,Q3,2021-10-01,3,segment,LifeSciences,Life Sciences,生命科学,,3632,USD,millions,reported,SEC 10-Q 0000313616-21-000110
-2021,Q4,2021-12-31,3,geography,Highgrowthmarkets,High-growth markets,高速增长市场,,2489,USD,millions,derived,SEC 10-K 0000313616-22-000061 − 10-Q 0000313616-21-000110
+2021,Q3,2021-10-01,3,segment,LifeSciencesSegment,Life Sciences,生命科学业务,,3632,USD,millions,reported,SEC 10-Q 0000313616-21-000110
+2021,Q4,2021-12-31,3,geography,HighGrowthMarkets,High-growth markets,高速增长市场,,2489,USD,millions,derived,SEC 10-K 0000313616-22-000061 − 10-Q 0000313616-21-000110
 2021,Q4,2021-12-31,3,geography,NorthAmerica,North America,北美地区,,3400,USD,millions,derived,SEC 10-K 0000313616-22-000061 − 10-Q 0000313616-21-000110
-2021,Q4,2021-12-31,3,geography,Otherdevelopedmarkets,Other developed markets,其他发达市场,,397,USD,millions,derived,SEC 10-K 0000313616-22-000061 − 10-Q 0000313616-21-000110
+2021,Q4,2021-12-31,3,geography,OtherDevelopedMarkets,Other developed markets,其他发达市场,,397,USD,millions,derived,SEC 10-K 0000313616-22-000061 − 10-Q 0000313616-21-000110
 2021,Q4,2021-12-31,3,geography,WesternEurope,Western Europe,西欧地区,,1862,USD,millions,derived,SEC 10-K 0000313616-22-000061 − 10-Q 0000313616-21-000110
 2021,Q4,2021-12-31,3,product,Diagnostics/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring,一次性收入,Diagnostics,348,USD,millions,derived,SEC 10-K 0000313616-22-000061 − 10-Q 0000313616-21-000110
 2021,Q4,2021-12-31,3,product,Diagnostics/RevenuefromContractwithCustomerMeasurementRecurring,Recurring,经常性收入,Diagnostics,2533,USD,millions,derived,SEC 10-K 0000313616-22-000061 − 10-Q 0000313616-21-000110
@@ -48,12 +48,12 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2021,Q4,2021-12-31,3,product,EnvironmentalAppliedSolutions/RevenuefromContractwithCustomerMeasurementRecurring,Recurring,经常性收入,Environmental & Applied Solutions,676,USD,millions,derived,SEC 10-K 0000313616-22-000061 − 10-Q 0000313616-21-000110
 2021,Q4,2021-12-31,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring,一次性收入,Life Sciences,1278,USD,millions,derived,SEC 10-K 0000313616-22-000061 − 10-Q 0000313616-21-000110
 2021,Q4,2021-12-31,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementRecurring,Recurring,经常性收入,Life Sciences,2768,USD,millions,derived,SEC 10-K 0000313616-22-000061 − 10-Q 0000313616-21-000110
-2021,Q4,2021-12-31,3,segment,Diagnostics,Diagnostics,诊断业务,,2881,USD,millions,derived,SEC 10-K 0000313616-22-000061 − 10-Q 0000313616-21-000110
+2021,Q4,2021-12-31,3,segment,DiagnosticsSegment,Diagnostics,诊断业务,,2881,USD,millions,derived,SEC 10-K 0000313616-22-000061 − 10-Q 0000313616-21-000110
 2021,Q4,2021-12-31,3,segment,EnvironmentalAppliedSolutions,Environmental & Applied Solutions,环境与应用解决方案,,1221,USD,millions,derived,SEC 10-K 0000313616-22-000061 − 10-Q 0000313616-21-000110
-2021,Q4,2021-12-31,3,segment,LifeSciences,Life Sciences,生命科学,,4046,USD,millions,derived,SEC 10-K 0000313616-22-000061 − 10-Q 0000313616-21-000110
-2021,FY,2021-12-31,12,geography,Highgrowthmarkets,High-growth markets,高速增长市场,,9184,USD,millions,reported,SEC 10-K 0000313616-22-000061
+2021,Q4,2021-12-31,3,segment,LifeSciencesSegment,Life Sciences,生命科学业务,,4046,USD,millions,derived,SEC 10-K 0000313616-22-000061 − 10-Q 0000313616-21-000110
+2021,FY,2021-12-31,12,geography,HighGrowthMarkets,High-growth markets,高速增长市场,,9184,USD,millions,reported,SEC 10-K 0000313616-22-000061
 2021,FY,2021-12-31,12,geography,NorthAmerica,North America,北美地区,,11829,USD,millions,reported,SEC 10-K 0000313616-22-000061
-2021,FY,2021-12-31,12,geography,Otherdevelopedmarkets,Other developed markets,其他发达市场,,1475,USD,millions,reported,SEC 10-K 0000313616-22-000061
+2021,FY,2021-12-31,12,geography,OtherDevelopedMarkets,Other developed markets,其他发达市场,,1475,USD,millions,reported,SEC 10-K 0000313616-22-000061
 2021,FY,2021-12-31,12,geography,WesternEurope,Western Europe,西欧地区,,6965,USD,millions,reported,SEC 10-K 0000313616-22-000061
 2021,FY,2021-12-31,12,product,Diagnostics/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring,一次性收入,Diagnostics,1237,USD,millions,reported,SEC 10-K 0000313616-22-000061
 2021,FY,2021-12-31,12,product,Diagnostics/RevenuefromContractwithCustomerMeasurementRecurring,Recurring,经常性收入,Diagnostics,8607,USD,millions,reported,SEC 10-K 0000313616-22-000061
@@ -61,12 +61,12 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2021,FY,2021-12-31,12,product,EnvironmentalAppliedSolutions/RevenuefromContractwithCustomerMeasurementRecurring,Recurring,经常性收入,Environmental & Applied Solutions,2660,USD,millions,reported,SEC 10-K 0000313616-22-000061
 2021,FY,2021-12-31,12,product,LifeSciences/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring,一次性收入,Life Sciences,4430,USD,millions,reported,SEC 10-K 0000313616-22-000061
 2021,FY,2021-12-31,12,product,LifeSciences/RevenuefromContractwithCustomerMeasurementRecurring,Recurring,经常性收入,Life Sciences,10528,USD,millions,reported,SEC 10-K 0000313616-22-000061
-2021,FY,2021-12-31,12,segment,Diagnostics,Diagnostics,诊断业务,,9844,USD,millions,reported,SEC 10-K 0000313616-22-000061
+2021,FY,2021-12-31,12,segment,DiagnosticsSegment,Diagnostics,诊断业务,,9844,USD,millions,reported,SEC 10-K 0000313616-22-000061
 2021,FY,2021-12-31,12,segment,EnvironmentalAppliedSolutions,Environmental & Applied Solutions,环境与应用解决方案,,4651,USD,millions,reported,SEC 10-K 0000313616-22-000061
-2021,FY,2021-12-31,12,segment,LifeSciences,Life Sciences,生命科学,,14958,USD,millions,reported,SEC 10-K 0000313616-22-000061
-2022,Q1,2022-04-01,3,geography,Highgrowthmarkets,High-growth markets,高速增长市场,,2128,USD,millions,reported,SEC 10-Q 0000313616-22-000107
+2021,FY,2021-12-31,12,segment,LifeSciencesSegment,Life Sciences,生命科学业务,,14958,USD,millions,reported,SEC 10-K 0000313616-22-000061
+2022,Q1,2022-04-01,3,geography,HighGrowthMarkets,High-growth markets,高速增长市场,,2128,USD,millions,reported,SEC 10-Q 0000313616-22-000107
 2022,Q1,2022-04-01,3,geography,NorthAmerica,North America,北美地区,,3354,USD,millions,reported,SEC 10-Q 0000313616-22-000107
-2022,Q1,2022-04-01,3,geography,Otherdevelopedmarkets,Other developed markets,其他发达市场,,378,USD,millions,reported,SEC 10-Q 0000313616-22-000107
+2022,Q1,2022-04-01,3,geography,OtherDevelopedMarkets,Other developed markets,其他发达市场,,378,USD,millions,reported,SEC 10-Q 0000313616-22-000107
 2022,Q1,2022-04-01,3,geography,WesternEurope,Western Europe,西欧地区,,1828,USD,millions,reported,SEC 10-Q 0000313616-22-000107
 2022,Q1,2022-04-01,3,product,Biotechnology/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,一次性收入,Biotechnology,415,USD,millions,reported,SEC 10-Q 0000313616-23-000125
 2022,Q1,2022-04-01,3,product,Biotechnology/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,经常性收入,Biotechnology,1801,USD,millions,reported,SEC 10-Q 0000313616-23-000125
@@ -77,12 +77,12 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2022,Q1,2022-04-01,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,一次性收入,Life Sciences,629,USD,millions,reported,SEC 10-Q 0000313616-23-000125
 2022,Q1,2022-04-01,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,经常性收入,Life Sciences,1037,USD,millions,reported,SEC 10-Q 0000313616-23-000125
 2022,Q1,2022-04-01,3,segment,BiotechnologySegment,Biotechnology,生物技术业务,,2216,USD,millions,reported,SEC 10-Q 0000313616-23-000125
-2022,Q1,2022-04-01,3,segment,Diagnostics,Diagnostics,诊断业务,,2644,USD,millions,reported,SEC 10-Q 0000313616-23-000125
+2022,Q1,2022-04-01,3,segment,DiagnosticsSegment,Diagnostics,诊断业务,,2644,USD,millions,reported,SEC 10-Q 0000313616-23-000125
 2022,Q1,2022-04-01,3,segment,EnvironmentalAppliedSolutions,Environmental & Applied Solutions,环境与应用解决方案,,1162,USD,millions,reported,SEC 10-Q 0000313616-23-000125
-2022,Q1,2022-04-01,3,segment,LifeSciences,Life Sciences,生命科学,,1666,USD,millions,reported,SEC 10-Q 0000313616-23-000125
-2022,Q2,2022-07-01,3,geography,Highgrowthmarkets,High-growth markets,高速增长市场,,2332,USD,millions,reported,SEC 10-Q 0000313616-22-000171
+2022,Q1,2022-04-01,3,segment,LifeSciencesSegment,Life Sciences,生命科学业务,,1666,USD,millions,reported,SEC 10-Q 0000313616-23-000125
+2022,Q2,2022-07-01,3,geography,HighGrowthMarkets,High-growth markets,高速增长市场,,2332,USD,millions,reported,SEC 10-Q 0000313616-22-000171
 2022,Q2,2022-07-01,3,geography,NorthAmerica,North America,北美地区,,3382,USD,millions,reported,SEC 10-Q 0000313616-22-000171
-2022,Q2,2022-07-01,3,geography,Otherdevelopedmarkets,Other developed markets,其他发达市场,,346,USD,millions,reported,SEC 10-Q 0000313616-22-000171
+2022,Q2,2022-07-01,3,geography,OtherDevelopedMarkets,Other developed markets,其他发达市场,,346,USD,millions,reported,SEC 10-Q 0000313616-22-000171
 2022,Q2,2022-07-01,3,geography,WesternEurope,Western Europe,西欧地区,,1691,USD,millions,reported,SEC 10-Q 0000313616-22-000171
 2022,Q2,2022-07-01,3,product,Biotechnology/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,一次性收入,Biotechnology,462,USD,millions,reported,SEC 10-Q 0000313616-23-000214
 2022,Q2,2022-07-01,3,product,Biotechnology/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,经常性收入,Biotechnology,1804,USD,millions,reported,SEC 10-Q 0000313616-23-000214
@@ -93,12 +93,12 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2022,Q2,2022-07-01,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,一次性收入,Life Sciences,633,USD,millions,reported,SEC 10-Q 0000313616-23-000214
 2022,Q2,2022-07-01,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,经常性收入,Life Sciences,1068,USD,millions,reported,SEC 10-Q 0000313616-23-000214
 2022,Q2,2022-07-01,3,segment,BiotechnologySegment,Biotechnology,生物技术业务,,2266,USD,millions,reported,SEC 10-Q 0000313616-23-000214
-2022,Q2,2022-07-01,3,segment,Diagnostics,Diagnostics,诊断业务,,2561,USD,millions,reported,SEC 10-Q 0000313616-23-000214
+2022,Q2,2022-07-01,3,segment,DiagnosticsSegment,Diagnostics,诊断业务,,2561,USD,millions,reported,SEC 10-Q 0000313616-23-000214
 2022,Q2,2022-07-01,3,segment,EnvironmentalAppliedSolutions,Environmental & Applied Solutions,环境与应用解决方案,,1223,USD,millions,reported,SEC 10-Q 0000313616-23-000214
-2022,Q2,2022-07-01,3,segment,LifeSciences,Life Sciences,生命科学,,1701,USD,millions,reported,SEC 10-Q 0000313616-23-000214
-2022,Q3,2022-09-30,3,geography,Highgrowthmarkets,High-growth markets,高速增长市场,,2303,USD,millions,reported,SEC 10-Q 0000313616-22-000223
+2022,Q2,2022-07-01,3,segment,LifeSciencesSegment,Life Sciences,生命科学业务,,1701,USD,millions,reported,SEC 10-Q 0000313616-23-000214
+2022,Q3,2022-09-30,3,geography,HighGrowthMarkets,High-growth markets,高速增长市场,,2303,USD,millions,reported,SEC 10-Q 0000313616-22-000223
 2022,Q3,2022-09-30,3,geography,NorthAmerica,North America,北美地区,,3480,USD,millions,reported,SEC 10-Q 0000313616-22-000223
-2022,Q3,2022-09-30,3,geography,Otherdevelopedmarkets,Other developed markets,其他发达市场,,339,USD,millions,reported,SEC 10-Q 0000313616-22-000223
+2022,Q3,2022-09-30,3,geography,OtherDevelopedMarkets,Other developed markets,其他发达市场,,339,USD,millions,reported,SEC 10-Q 0000313616-22-000223
 2022,Q3,2022-09-30,3,geography,WesternEurope,Western Europe,西欧地区,,1541,USD,millions,reported,SEC 10-Q 0000313616-22-000223
 2022,Q3,2022-09-30,3,product,Biotechnology/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,一次性收入,Biotechnology,391,USD,millions,reported,SEC 10-Q 0000313616-23-000256
 2022,Q3,2022-09-30,3,product,Biotechnology/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,经常性收入,Biotechnology,1662,USD,millions,reported,SEC 10-Q 0000313616-23-000256
@@ -109,12 +109,12 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2022,Q3,2022-09-30,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,一次性收入,Life Sciences,685,USD,millions,reported,SEC 10-Q 0000313616-23-000256
 2022,Q3,2022-09-30,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,经常性收入,Life Sciences,1038,USD,millions,reported,SEC 10-Q 0000313616-23-000256
 2022,Q3,2022-09-30,3,segment,BiotechnologySegment,Biotechnology,生物技术业务,,2053,USD,millions,reported,SEC 10-Q 0000313616-23-000256
-2022,Q3,2022-09-30,3,segment,Diagnostics,Diagnostics,诊断业务,,2679,USD,millions,reported,SEC 10-Q 0000313616-23-000256
+2022,Q3,2022-09-30,3,segment,DiagnosticsSegment,Diagnostics,诊断业务,,2679,USD,millions,reported,SEC 10-Q 0000313616-23-000256
 2022,Q3,2022-09-30,3,segment,EnvironmentalAppliedSolutions,Environmental & Applied Solutions,环境与应用解决方案,,1208,USD,millions,reported,SEC 10-Q 0000313616-23-000256
-2022,Q3,2022-09-30,3,segment,LifeSciences,Life Sciences,生命科学,,1723,USD,millions,reported,SEC 10-Q 0000313616-23-000256
-2022,Q4,2022-12-31,3,geography,Highgrowthmarkets,High-growth markets,高速增长市场,,2363,USD,millions,derived,SEC 10-K 0000313616-23-000087 − 10-Q 0000313616-22-000223
+2022,Q3,2022-09-30,3,segment,LifeSciencesSegment,Life Sciences,生命科学业务,,1723,USD,millions,reported,SEC 10-Q 0000313616-23-000256
+2022,Q4,2022-12-31,3,geography,HighGrowthMarkets,High-growth markets,高速增长市场,,2363,USD,millions,derived,SEC 10-K 0000313616-23-000087 − 10-Q 0000313616-22-000223
 2022,Q4,2022-12-31,3,geography,NorthAmerica,North America,北美地区,,3752,USD,millions,derived,SEC 10-K 0000313616-23-000087 − 10-Q 0000313616-22-000223
-2022,Q4,2022-12-31,3,geography,Otherdevelopedmarkets,Other developed markets,其他发达市场,,404,USD,millions,derived,SEC 10-K 0000313616-23-000087 − 10-Q 0000313616-22-000223
+2022,Q4,2022-12-31,3,geography,OtherDevelopedMarkets,Other developed markets,其他发达市场,,404,USD,millions,derived,SEC 10-K 0000313616-23-000087 − 10-Q 0000313616-22-000223
 2022,Q4,2022-12-31,3,geography,WesternEurope,Western Europe,西欧地区,,1850,USD,millions,derived,SEC 10-K 0000313616-23-000087 − 10-Q 0000313616-22-000223
 2022,Q4,2022-12-31,3,product,Biotechnology/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring,一次性收入,Biotechnology,532,USD,millions,derived,SEC 10-K 0000313616-23-000087 − 10-Q 0000313616-23-000256
 2022,Q4,2022-12-31,3,product,Biotechnology/RevenuefromContractwithCustomerMeasurementRecurring,Recurring,经常性收入,Biotechnology,1691,USD,millions,derived,SEC 10-K 0000313616-23-000087 − 10-Q 0000313616-23-000256
@@ -124,9 +124,9 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2022,Q4,2022-12-31,3,product,EnvironmentalAppliedSolutions/RevenuefromContractwithCustomerMeasurementRecurring,Recurring,经常性收入,Environmental & Applied Solutions,703,USD,millions,derived,SEC 10-K 0000313616-23-000087 − 10-Q 0000313616-23-000256
 2022,Q4,2022-12-31,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring,一次性收入,Life Sciences,869,USD,millions,derived,SEC 10-K 0000313616-23-000087 − 10-Q 0000313616-23-000256
 2022,Q4,2022-12-31,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementRecurring,Recurring,经常性收入,Life Sciences,1077,USD,millions,derived,SEC 10-K 0000313616-23-000087 − 10-Q 0000313616-23-000256
-2022,FY,2022-12-31,12,geography,Highgrowthmarkets,High-growth markets,高速增长市场,,9126,USD,millions,reported,SEC 10-K 0000313616-23-000087
+2022,FY,2022-12-31,12,geography,HighGrowthMarkets,High-growth markets,高速增长市场,,9126,USD,millions,reported,SEC 10-K 0000313616-23-000087
 2022,FY,2022-12-31,12,geography,NorthAmerica,North America,北美地区,,13968,USD,millions,reported,SEC 10-K 0000313616-23-000087
-2022,FY,2022-12-31,12,geography,Otherdevelopedmarkets,Other developed markets,其他发达市场,,1467,USD,millions,reported,SEC 10-K 0000313616-23-000087
+2022,FY,2022-12-31,12,geography,OtherDevelopedMarkets,Other developed markets,其他发达市场,,1467,USD,millions,reported,SEC 10-K 0000313616-23-000087
 2022,FY,2022-12-31,12,geography,WesternEurope,Western Europe,西欧地区,,6910,USD,millions,reported,SEC 10-K 0000313616-23-000087
 2022,FY,2022-12-31,12,product,Biotechnology/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring,一次性收入,Biotechnology,1800,USD,millions,reported,SEC 10-K 0000313616-23-000087
 2022,FY,2022-12-31,12,product,Biotechnology/RevenuefromContractwithCustomerMeasurementRecurring,Recurring,经常性收入,Biotechnology,6958,USD,millions,reported,SEC 10-K 0000313616-23-000087
@@ -136,13 +136,13 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2022,FY,2022-12-31,12,product,EnvironmentalAppliedSolutions/RevenuefromContractwithCustomerMeasurementRecurring,Recurring,经常性收入,Environmental & Applied Solutions,2841,USD,millions,reported,SEC 10-K 0000313616-23-000087
 2022,FY,2022-12-31,12,product,LifeSciences/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring,一次性收入,Life Sciences,2816,USD,millions,reported,SEC 10-K 0000313616-23-000087
 2022,FY,2022-12-31,12,product,LifeSciences/RevenuefromContractwithCustomerMeasurementRecurring,Recurring,经常性收入,Life Sciences,4220,USD,millions,reported,SEC 10-K 0000313616-23-000087
-2022,FY,2022-12-31,12,segment,Biotechnology,Biotechnology,生物技术,,8758,USD,millions,reported,SEC 10-K 0000313616-23-000087
-2022,FY,2022-12-31,12,segment,Diagnostics,Diagnostics,诊断业务,,10849,USD,millions,reported,SEC 10-K 0000313616-23-000087
+2022,FY,2022-12-31,12,segment,BiotechnologySegment,Biotechnology,生物技术业务,,8758,USD,millions,reported,SEC 10-K 0000313616-23-000087
+2022,FY,2022-12-31,12,segment,DiagnosticsSegment,Diagnostics,诊断业务,,10849,USD,millions,reported,SEC 10-K 0000313616-23-000087
 2022,FY,2022-12-31,12,segment,EnvironmentalAppliedSolutions,Environmental & Applied Solutions,环境与应用解决方案,,4828,USD,millions,reported,SEC 10-K 0000313616-23-000087
-2022,FY,2022-12-31,12,segment,LifeSciences,Life Sciences,生命科学,,7036,USD,millions,reported,SEC 10-K 0000313616-23-000087
-2023,Q1,2023-03-31,3,geography,Highgrowthmarkets,High-growth markets,高速增长市场,,1744,USD,millions,reported,SEC 10-Q 0000313616-24-000102
+2022,FY,2022-12-31,12,segment,LifeSciencesSegment,Life Sciences,生命科学业务,,7036,USD,millions,reported,SEC 10-K 0000313616-23-000087
+2023,Q1,2023-03-31,3,geography,HighGrowthMarkets,High-growth markets,高速增长市场,,1744,USD,millions,reported,SEC 10-Q 0000313616-24-000102
 2023,Q1,2023-03-31,3,geography,NorthAmerica,North America,北美地区,,2450,USD,millions,reported,SEC 10-Q 0000313616-24-000102
-2023,Q1,2023-03-31,3,geography,Otherdevelopedmarkets,Other developed markets,其他发达市场,,324,USD,millions,reported,SEC 10-Q 0000313616-24-000102
+2023,Q1,2023-03-31,3,geography,OtherDevelopedMarkets,Other developed markets,其他发达市场,,324,USD,millions,reported,SEC 10-Q 0000313616-24-000102
 2023,Q1,2023-03-31,3,geography,WesternEurope,Western Europe,西欧地区,,1431,USD,millions,reported,SEC 10-Q 0000313616-24-000102
 2023,Q1,2023-03-31,3,product,Biotechnology/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,一次性收入,Biotechnology,353,USD,millions,reported,SEC 10-Q 0000313616-24-000102
 2023,Q1,2023-03-31,3,product,Biotechnology/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,经常性收入,Biotechnology,1511,USD,millions,reported,SEC 10-Q 0000313616-24-000102
@@ -151,11 +151,11 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2023,Q1,2023-03-31,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,一次性收入,Life Sciences,670,USD,millions,reported,SEC 10-Q 0000313616-24-000102
 2023,Q1,2023-03-31,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,经常性收入,Life Sciences,1039,USD,millions,reported,SEC 10-Q 0000313616-24-000102
 2023,Q1,2023-03-31,3,segment,BiotechnologySegment,Biotechnology,生物技术业务,,1864,USD,millions,reported,SEC 10-Q 0000313616-24-000102
-2023,Q1,2023-03-31,3,segment,Diagnostics,Diagnostics,诊断业务,,2376,USD,millions,reported,SEC 10-Q 0000313616-24-000102
-2023,Q1,2023-03-31,3,segment,LifeSciences,Life Sciences,生命科学,,1709,USD,millions,reported,SEC 10-Q 0000313616-24-000102
-2023,Q2,2023-06-30,3,geography,Highgrowthmarkets,High-growth markets,高速增长市场,,1842,USD,millions,reported,SEC 10-Q 0000313616-24-000186
+2023,Q1,2023-03-31,3,segment,DiagnosticsSegment,Diagnostics,诊断业务,,2376,USD,millions,reported,SEC 10-Q 0000313616-24-000102
+2023,Q1,2023-03-31,3,segment,LifeSciencesSegment,Life Sciences,生命科学业务,,1709,USD,millions,reported,SEC 10-Q 0000313616-24-000102
+2023,Q2,2023-06-30,3,geography,HighGrowthMarkets,High-growth markets,高速增长市场,,1842,USD,millions,reported,SEC 10-Q 0000313616-24-000186
 2023,Q2,2023-06-30,3,geography,NorthAmerica,North America,北美地区,,2350,USD,millions,reported,SEC 10-Q 0000313616-24-000186
-2023,Q2,2023-06-30,3,geography,Otherdevelopedmarkets,Other developed markets,其他发达市场,,296,USD,millions,reported,SEC 10-Q 0000313616-24-000186
+2023,Q2,2023-06-30,3,geography,OtherDevelopedMarkets,Other developed markets,其他发达市场,,296,USD,millions,reported,SEC 10-Q 0000313616-24-000186
 2023,Q2,2023-06-30,3,geography,WesternEurope,Western Europe,西欧地区,,1424,USD,millions,reported,SEC 10-Q 0000313616-24-000186
 2023,Q2,2023-06-30,3,product,Biotechnology/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,一次性收入,Biotechnology,351,USD,millions,reported,SEC 10-Q 0000313616-24-000186
 2023,Q2,2023-06-30,3,product,Biotechnology/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,经常性收入,Biotechnology,1534,USD,millions,reported,SEC 10-Q 0000313616-24-000186
@@ -164,11 +164,11 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2023,Q2,2023-06-30,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,一次性收入,Life Sciences,692,USD,millions,reported,SEC 10-Q 0000313616-24-000186
 2023,Q2,2023-06-30,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,经常性收入,Life Sciences,1104,USD,millions,reported,SEC 10-Q 0000313616-24-000186
 2023,Q2,2023-06-30,3,segment,BiotechnologySegment,Biotechnology,生物技术业务,,1885,USD,millions,reported,SEC 10-Q 0000313616-24-000186
-2023,Q2,2023-06-30,3,segment,Diagnostics,Diagnostics,诊断业务,,2231,USD,millions,reported,SEC 10-Q 0000313616-24-000186
-2023,Q2,2023-06-30,3,segment,LifeSciences,Life Sciences,生命科学,,1796,USD,millions,reported,SEC 10-Q 0000313616-24-000186
-2023,Q3,2023-09-29,3,geography,Highgrowthmarkets,High-growth markets,高速增长市场,,1751,USD,millions,reported,SEC 10-Q 0000313616-24-000220
+2023,Q2,2023-06-30,3,segment,DiagnosticsSegment,Diagnostics,诊断业务,,2231,USD,millions,reported,SEC 10-Q 0000313616-24-000186
+2023,Q2,2023-06-30,3,segment,LifeSciencesSegment,Life Sciences,生命科学业务,,1796,USD,millions,reported,SEC 10-Q 0000313616-24-000186
+2023,Q3,2023-09-29,3,geography,HighGrowthMarkets,High-growth markets,高速增长市场,,1751,USD,millions,reported,SEC 10-Q 0000313616-24-000220
 2023,Q3,2023-09-29,3,geography,NorthAmerica,North America,北美地区,,2375,USD,millions,reported,SEC 10-Q 0000313616-24-000220
-2023,Q3,2023-09-29,3,geography,Otherdevelopedmarkets,Other developed markets,其他发达市场,,300,USD,millions,reported,SEC 10-Q 0000313616-24-000220
+2023,Q3,2023-09-29,3,geography,OtherDevelopedMarkets,Other developed markets,其他发达市场,,300,USD,millions,reported,SEC 10-Q 0000313616-24-000220
 2023,Q3,2023-09-29,3,geography,WesternEurope,Western Europe,西欧地区,,1198,USD,millions,reported,SEC 10-Q 0000313616-24-000220
 2023,Q3,2023-09-29,3,product,Biotechnology/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,一次性收入,Biotechnology,274,USD,millions,reported,SEC 10-Q 0000313616-24-000220
 2023,Q3,2023-09-29,3,product,Biotechnology/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,经常性收入,Biotechnology,1390,USD,millions,reported,SEC 10-Q 0000313616-24-000220
@@ -177,11 +177,11 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2023,Q3,2023-09-29,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,一次性收入,Life Sciences,644,USD,millions,reported,SEC 10-Q 0000313616-24-000220
 2023,Q3,2023-09-29,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,经常性收入,Life Sciences,1062,USD,millions,reported,SEC 10-Q 0000313616-24-000220
 2023,Q3,2023-09-29,3,segment,BiotechnologySegment,Biotechnology,生物技术业务,,1664,USD,millions,reported,SEC 10-Q 0000313616-24-000220
-2023,Q3,2023-09-29,3,segment,Diagnostics,Diagnostics,诊断业务,,2254,USD,millions,reported,SEC 10-Q 0000313616-24-000220
-2023,Q3,2023-09-29,3,segment,LifeSciences,Life Sciences,生命科学,,1706,USD,millions,reported,SEC 10-Q 0000313616-24-000220
-2023,Q4,2023-12-31,3,geography,Highgrowthmarkets,High-growth markets,高速增长市场,,1854,USD,millions,derived,SEC 10-K 0000313616-24-000052 − 10-Q 0000313616-24-000220
+2023,Q3,2023-09-29,3,segment,DiagnosticsSegment,Diagnostics,诊断业务,,2254,USD,millions,reported,SEC 10-Q 0000313616-24-000220
+2023,Q3,2023-09-29,3,segment,LifeSciencesSegment,Life Sciences,生命科学业务,,1706,USD,millions,reported,SEC 10-Q 0000313616-24-000220
+2023,Q4,2023-12-31,3,geography,HighGrowthMarkets,High-growth markets,高速增长市场,,1854,USD,millions,derived,SEC 10-K 0000313616-24-000052 − 10-Q 0000313616-24-000220
 2023,Q4,2023-12-31,3,geography,NorthAmerica,North America,北美地区,,2786,USD,millions,derived,SEC 10-K 0000313616-24-000052 − 10-Q 0000313616-24-000220
-2023,Q4,2023-12-31,3,geography,Otherdevelopedmarkets,Other developed markets,其他发达市场,,350,USD,millions,derived,SEC 10-K 0000313616-24-000052 − 10-Q 0000313616-24-000220
+2023,Q4,2023-12-31,3,geography,OtherDevelopedMarkets,Other developed markets,其他发达市场,,350,USD,millions,derived,SEC 10-K 0000313616-24-000052 − 10-Q 0000313616-24-000220
 2023,Q4,2023-12-31,3,geography,WesternEurope,Western Europe,西欧地区,,1415,USD,millions,derived,SEC 10-K 0000313616-24-000052 − 10-Q 0000313616-24-000220
 2023,Q4,2023-12-31,3,product,Biotechnology/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring,一次性收入,Biotechnology,297,USD,millions,derived,SEC 10-K 0000313616-25-000043 − 10-Q 0000313616-24-000220
 2023,Q4,2023-12-31,3,product,Biotechnology/RevenuefromContractwithCustomerMeasurementRecurring,Recurring,经常性收入,Biotechnology,1462,USD,millions,derived,SEC 10-K 0000313616-25-000043 − 10-Q 0000313616-24-000220
@@ -189,9 +189,9 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2023,Q4,2023-12-31,3,product,Diagnostics/RevenuefromContractwithCustomerMeasurementRecurring,Recurring,经常性收入,Diagnostics,2369,USD,millions,derived,SEC 10-K 0000313616-25-000043 − 10-Q 0000313616-24-000220
 2023,Q4,2023-12-31,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring,一次性收入,Life Sciences,775,USD,millions,derived,SEC 10-K 0000313616-25-000043 − 10-Q 0000313616-24-000220
 2023,Q4,2023-12-31,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementRecurring,Recurring,经常性收入,Life Sciences,1155,USD,millions,derived,SEC 10-K 0000313616-25-000043 − 10-Q 0000313616-24-000220
-2023,FY,2023-12-31,12,geography,Highgrowthmarkets,High-growth markets,高速增长市场,,7191,USD,millions,reported,SEC 10-K 0000313616-24-000052
+2023,FY,2023-12-31,12,geography,HighGrowthMarkets,High-growth markets,高速增长市场,,7191,USD,millions,reported,SEC 10-K 0000313616-24-000052
 2023,FY,2023-12-31,12,geography,NorthAmerica,North America,北美地区,,9961,USD,millions,reported,SEC 10-K 0000313616-24-000052
-2023,FY,2023-12-31,12,geography,Otherdevelopedmarkets,Other developed markets,其他发达市场,,1270,USD,millions,reported,SEC 10-K 0000313616-24-000052
+2023,FY,2023-12-31,12,geography,OtherDevelopedMarkets,Other developed markets,其他发达市场,,1270,USD,millions,reported,SEC 10-K 0000313616-24-000052
 2023,FY,2023-12-31,12,geography,WesternEurope,Western Europe,西欧地区,,5468,USD,millions,reported,SEC 10-K 0000313616-24-000052
 2023,FY,2023-12-31,12,product,Biotechnology/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring,一次性收入,Biotechnology,1275,USD,millions,reported,SEC 10-K 0000313616-25-000043
 2023,FY,2023-12-31,12,product,Biotechnology/RevenuefromContractwithCustomerMeasurementRecurring,Recurring,经常性收入,Biotechnology,5897,USD,millions,reported,SEC 10-K 0000313616-25-000043
@@ -199,12 +199,12 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2023,FY,2023-12-31,12,product,Diagnostics/RevenuefromContractwithCustomerMeasurementRecurring,Recurring,经常性收入,Diagnostics,8425,USD,millions,reported,SEC 10-K 0000313616-25-000043
 2023,FY,2023-12-31,12,product,LifeSciences/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring,一次性收入,Life Sciences,2781,USD,millions,reported,SEC 10-K 0000313616-25-000043
 2023,FY,2023-12-31,12,product,LifeSciences/RevenuefromContractwithCustomerMeasurementRecurring,Recurring,经常性收入,Life Sciences,4360,USD,millions,reported,SEC 10-K 0000313616-25-000043
-2023,FY,2023-12-31,12,segment,Biotechnology,Biotechnology,生物技术,,7172,USD,millions,reported,SEC 10-K 0000313616-25-000043
-2023,FY,2023-12-31,12,segment,Diagnostics,Diagnostics,诊断业务,,9577,USD,millions,reported,SEC 10-K 0000313616-25-000043
-2023,FY,2023-12-31,12,segment,LifeSciences,Life Sciences,生命科学,,7141,USD,millions,reported,SEC 10-K 0000313616-25-000043
-2024,Q1,2024-03-29,3,geography,Highgrowthmarkets,High-growth markets,高速增长市场,,1537,USD,millions,reported,SEC 10-Q 0000313616-24-000102
+2023,FY,2023-12-31,12,segment,BiotechnologySegment,Biotechnology,生物技术业务,,7172,USD,millions,reported,SEC 10-K 0000313616-25-000043
+2023,FY,2023-12-31,12,segment,DiagnosticsSegment,Diagnostics,诊断业务,,9577,USD,millions,reported,SEC 10-K 0000313616-25-000043
+2023,FY,2023-12-31,12,segment,LifeSciencesSegment,Life Sciences,生命科学业务,,7141,USD,millions,reported,SEC 10-K 0000313616-25-000043
+2024,Q1,2024-03-29,3,geography,HighGrowthMarkets,High-growth markets,高速增长市场,,1537,USD,millions,reported,SEC 10-Q 0000313616-24-000102
 2024,Q1,2024-03-29,3,geography,NorthAmerica,North America,北美地区,,2632,USD,millions,reported,SEC 10-Q 0000313616-24-000102
-2024,Q1,2024-03-29,3,geography,Otherdevelopedmarkets,Other developed markets,其他发达市场,,303,USD,millions,reported,SEC 10-Q 0000313616-24-000102
+2024,Q1,2024-03-29,3,geography,OtherDevelopedMarkets,Other developed markets,其他发达市场,,303,USD,millions,reported,SEC 10-Q 0000313616-24-000102
 2024,Q1,2024-03-29,3,geography,WesternEurope,Western Europe,西欧地区,,1324,USD,millions,reported,SEC 10-Q 0000313616-24-000102
 2024,Q1,2024-03-29,3,product,Biotechnology/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,一次性收入,Biotechnology,215,USD,millions,reported,SEC 10-Q 0000313616-24-000102
 2024,Q1,2024-03-29,3,product,Biotechnology/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,经常性收入,Biotechnology,1309,USD,millions,reported,SEC 10-Q 0000313616-24-000102
@@ -213,11 +213,11 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2024,Q1,2024-03-29,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,一次性收入,Life Sciences,553,USD,millions,reported,SEC 10-Q 0000313616-24-000102
 2024,Q1,2024-03-29,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,经常性收入,Life Sciences,1192,USD,millions,reported,SEC 10-Q 0000313616-24-000102
 2024,Q1,2024-03-29,3,segment,BiotechnologySegment,Biotechnology,生物技术业务,,1524,USD,millions,reported,SEC 10-Q 0000313616-24-000102
-2024,Q1,2024-03-29,3,segment,Diagnostics,Diagnostics,诊断业务,,2527,USD,millions,reported,SEC 10-Q 0000313616-24-000102
-2024,Q1,2024-03-29,3,segment,LifeSciences,Life Sciences,生命科学,,1745,USD,millions,reported,SEC 10-Q 0000313616-24-000102
-2024,Q2,2024-06-28,3,geography,Highgrowthmarkets,High-growth markets,高速增长市场,,1696,USD,millions,reported,SEC 10-Q 0000313616-24-000186
+2024,Q1,2024-03-29,3,segment,DiagnosticsSegment,Diagnostics,诊断业务,,2527,USD,millions,reported,SEC 10-Q 0000313616-24-000102
+2024,Q1,2024-03-29,3,segment,LifeSciencesSegment,Life Sciences,生命科学业务,,1745,USD,millions,reported,SEC 10-Q 0000313616-24-000102
+2024,Q2,2024-06-28,3,geography,HighGrowthMarkets,High-growth markets,高速增长市场,,1696,USD,millions,reported,SEC 10-Q 0000313616-24-000186
 2024,Q2,2024-06-28,3,geography,NorthAmerica,North America,北美地区,,2434,USD,millions,reported,SEC 10-Q 0000313616-24-000186
-2024,Q2,2024-06-28,3,geography,Otherdevelopedmarkets,Other developed markets,其他发达市场,,292,USD,millions,reported,SEC 10-Q 0000313616-24-000186
+2024,Q2,2024-06-28,3,geography,OtherDevelopedMarkets,Other developed markets,其他发达市场,,292,USD,millions,reported,SEC 10-Q 0000313616-24-000186
 2024,Q2,2024-06-28,3,geography,WesternEurope,Western Europe,西欧地区,,1321,USD,millions,reported,SEC 10-Q 0000313616-24-000186
 2024,Q2,2024-06-28,3,product,Biotechnology/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,一次性收入,Biotechnology,235,USD,millions,reported,SEC 10-Q 0000313616-24-000186
 2024,Q2,2024-06-28,3,product,Biotechnology/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,经常性收入,Biotechnology,1478,USD,millions,reported,SEC 10-Q 0000313616-24-000186
@@ -226,11 +226,11 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2024,Q2,2024-06-28,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,一次性收入,Life Sciences,562,USD,millions,reported,SEC 10-Q 0000313616-24-000186
 2024,Q2,2024-06-28,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,经常性收入,Life Sciences,1208,USD,millions,reported,SEC 10-Q 0000313616-24-000186
 2024,Q2,2024-06-28,3,segment,BiotechnologySegment,Biotechnology,生物技术业务,,1713,USD,millions,reported,SEC 10-Q 0000313616-24-000186
-2024,Q2,2024-06-28,3,segment,Diagnostics,Diagnostics,诊断业务,,2260,USD,millions,reported,SEC 10-Q 0000313616-24-000186
-2024,Q2,2024-06-28,3,segment,LifeSciences,Life Sciences,生命科学,,1770,USD,millions,reported,SEC 10-Q 0000313616-24-000186
-2024,Q3,2024-09-27,3,geography,Highgrowthmarkets,High-growth markets,高速增长市场,,1723,USD,millions,reported,SEC 10-Q 0000313616-24-000220
+2024,Q2,2024-06-28,3,segment,DiagnosticsSegment,Diagnostics,诊断业务,,2260,USD,millions,reported,SEC 10-Q 0000313616-24-000186
+2024,Q2,2024-06-28,3,segment,LifeSciencesSegment,Life Sciences,生命科学业务,,1770,USD,millions,reported,SEC 10-Q 0000313616-24-000186
+2024,Q3,2024-09-27,3,geography,HighGrowthMarkets,High-growth markets,高速增长市场,,1723,USD,millions,reported,SEC 10-Q 0000313616-24-000220
 2024,Q3,2024-09-27,3,geography,NorthAmerica,North America,北美地区,,2456,USD,millions,reported,SEC 10-Q 0000313616-24-000220
-2024,Q3,2024-09-27,3,geography,Otherdevelopedmarkets,Other developed markets,其他发达市场,,299,USD,millions,reported,SEC 10-Q 0000313616-24-000220
+2024,Q3,2024-09-27,3,geography,OtherDevelopedMarkets,Other developed markets,其他发达市场,,299,USD,millions,reported,SEC 10-Q 0000313616-24-000220
 2024,Q3,2024-09-27,3,geography,WesternEurope,Western Europe,西欧地区,,1320,USD,millions,reported,SEC 10-Q 0000313616-24-000220
 2024,Q3,2024-09-27,3,product,Biotechnology/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,一次性收入,Biotechnology,231,USD,millions,reported,SEC 10-Q 0000313616-24-000220
 2024,Q3,2024-09-27,3,product,Biotechnology/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,经常性收入,Biotechnology,1422,USD,millions,reported,SEC 10-Q 0000313616-24-000220
@@ -239,8 +239,8 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2024,Q3,2024-09-27,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,一次性收入,Life Sciences,554,USD,millions,reported,SEC 10-Q 0000313616-24-000220
 2024,Q3,2024-09-27,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,经常性收入,Life Sciences,1228,USD,millions,reported,SEC 10-Q 0000313616-24-000220
 2024,Q3,2024-09-27,3,segment,BiotechnologySegment,Biotechnology,生物技术业务,,1653,USD,millions,reported,SEC 10-Q 0000313616-24-000220
-2024,Q3,2024-09-27,3,segment,Diagnostics,Diagnostics,诊断业务,,2363,USD,millions,reported,SEC 10-Q 0000313616-24-000220
-2024,Q3,2024-09-27,3,segment,LifeSciences,Life Sciences,生命科学,,1782,USD,millions,reported,SEC 10-Q 0000313616-24-000220
+2024,Q3,2024-09-27,3,segment,DiagnosticsSegment,Diagnostics,诊断业务,,2363,USD,millions,reported,SEC 10-Q 0000313616-24-000220
+2024,Q3,2024-09-27,3,segment,LifeSciencesSegment,Life Sciences,生命科学业务,,1782,USD,millions,reported,SEC 10-Q 0000313616-24-000220
 2024,Q4,2024-12-31,3,geography,HighGrowthMarkets,High-growth markets,高速增长市场,,1914,USD,millions,derived,SEC 10-K 0000313616-25-000043 − 10-Q 0000313616-25-000182
 2024,Q4,2024-12-31,3,geography,NorthAmerica,North America,北美地区,,2773,USD,millions,derived,SEC 10-K 0000313616-25-000043 − 10-Q 0000313616-25-000182
 2024,Q4,2024-12-31,3,geography,OtherDevelopedMarkets,Other developed markets,其他发达市场,,359,USD,millions,derived,SEC 10-K 0000313616-25-000043 − 10-Q 0000313616-25-000182
@@ -261,9 +261,9 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2024,FY,2024-12-31,12,product,Diagnostics/RevenuefromContractwithCustomerMeasurementRecurring,Recurring,经常性收入,Diagnostics,8719,USD,millions,reported,SEC 10-K 0000313616-25-000043
 2024,FY,2024-12-31,12,product,LifeSciences/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring,一次性收入,Life Sciences,2440,USD,millions,reported,SEC 10-K 0000313616-25-000043
 2024,FY,2024-12-31,12,product,LifeSciences/RevenuefromContractwithCustomerMeasurementRecurring,Recurring,经常性收入,Life Sciences,4889,USD,millions,reported,SEC 10-K 0000313616-25-000043
-2024,FY,2024-12-31,12,segment,Biotechnology,Biotechnology,生物技术,,6759,USD,millions,reported,SEC 10-K 0000313616-25-000043
-2024,FY,2024-12-31,12,segment,Diagnostics,Diagnostics,诊断业务,,9787,USD,millions,reported,SEC 10-K 0000313616-25-000043
-2024,FY,2024-12-31,12,segment,LifeSciences,Life Sciences,生命科学,,7329,USD,millions,reported,SEC 10-K 0000313616-25-000043
+2024,FY,2024-12-31,12,segment,BiotechnologySegment,Biotechnology,生物技术业务,,6759,USD,millions,reported,SEC 10-K 0000313616-25-000043
+2024,FY,2024-12-31,12,segment,DiagnosticsSegment,Diagnostics,诊断业务,,9787,USD,millions,reported,SEC 10-K 0000313616-25-000043
+2024,FY,2024-12-31,12,segment,LifeSciencesSegment,Life Sciences,生命科学业务,,7329,USD,millions,reported,SEC 10-K 0000313616-25-000043
 2025,Q1,2025-03-28,3,geography,HighGrowthMarkets,High-growth markets,高速增长市场,,1537,USD,millions,reported,SEC 10-Q 0000313616-25-000088
 2025,Q1,2025-03-28,3,geography,NorthAmerica,North America,北美地区,,2582,USD,millions,reported,SEC 10-Q 0000313616-25-000088
 2025,Q1,2025-03-28,3,geography,OtherDevelopedMarkets,Other developed markets,其他发达市场,,278,USD,millions,reported,SEC 10-Q 0000313616-25-000088
@@ -275,8 +275,8 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2025,Q1,2025-03-28,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,一次性收入,Life Sciences,544,USD,millions,reported,SEC 10-Q 0000313616-25-000088
 2025,Q1,2025-03-28,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,经常性收入,Life Sciences,1136,USD,millions,reported,SEC 10-Q 0000313616-25-000088
 2025,Q1,2025-03-28,3,segment,BiotechnologySegment,Biotechnology,生物技术业务,,1612,USD,millions,reported,SEC 10-Q 0000313616-25-000088
-2025,Q1,2025-03-28,3,segment,Diagnostics,Diagnostics,诊断业务,,2449,USD,millions,reported,SEC 10-Q 0000313616-25-000088
-2025,Q1,2025-03-28,3,segment,LifeSciences,Life Sciences,生命科学,,1680,USD,millions,reported,SEC 10-Q 0000313616-25-000088
+2025,Q1,2025-03-28,3,segment,DiagnosticsSegment,Diagnostics,诊断业务,,2449,USD,millions,reported,SEC 10-Q 0000313616-25-000088
+2025,Q1,2025-03-28,3,segment,LifeSciencesSegment,Life Sciences,生命科学业务,,1680,USD,millions,reported,SEC 10-Q 0000313616-25-000088
 2025,Q2,2025-06-27,3,geography,HighGrowthMarkets,High-growth markets,高速增长市场,,1697,USD,millions,reported,SEC 10-Q 0000313616-25-000153
 2025,Q2,2025-06-27,3,geography,NorthAmerica,North America,北美地区,,2438,USD,millions,reported,SEC 10-Q 0000313616-25-000153
 2025,Q2,2025-06-27,3,geography,OtherDevelopedMarkets,Other developed markets,其他发达市场,,294,USD,millions,reported,SEC 10-Q 0000313616-25-000153
@@ -288,8 +288,8 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2025,Q2,2025-06-27,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,一次性收入,Life Sciences,563,USD,millions,reported,SEC 10-Q 0000313616-25-000153
 2025,Q2,2025-06-27,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,经常性收入,Life Sciences,1214,USD,millions,reported,SEC 10-Q 0000313616-25-000153
 2025,Q2,2025-06-27,3,segment,BiotechnologySegment,Biotechnology,生物技术业务,,1850,USD,millions,reported,SEC 10-Q 0000313616-25-000153
-2025,Q2,2025-06-27,3,segment,Diagnostics,Diagnostics,诊断业务,,2309,USD,millions,reported,SEC 10-Q 0000313616-25-000153
-2025,Q2,2025-06-27,3,segment,LifeSciences,Life Sciences,生命科学,,1777,USD,millions,reported,SEC 10-Q 0000313616-25-000153
+2025,Q2,2025-06-27,3,segment,DiagnosticsSegment,Diagnostics,诊断业务,,2309,USD,millions,reported,SEC 10-Q 0000313616-25-000153
+2025,Q2,2025-06-27,3,segment,LifeSciencesSegment,Life Sciences,生命科学业务,,1777,USD,millions,reported,SEC 10-Q 0000313616-25-000153
 2025,Q3,2025-09-26,3,geography,HighGrowthMarkets,High-growth markets,高速增长市场,,1761,USD,millions,reported,SEC 10-Q 0000313616-25-000182
 2025,Q3,2025-09-26,3,geography,NorthAmerica,North America,北美地区,,2580,USD,millions,reported,SEC 10-Q 0000313616-25-000182
 2025,Q3,2025-09-26,3,geography,OtherDevelopedMarkets,Other developed markets,其他发达市场,,316,USD,millions,reported,SEC 10-Q 0000313616-25-000182
@@ -301,8 +301,8 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2025,Q3,2025-09-26,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementNonrecurring,Nonrecurring revenue,一次性收入,Life Sciences,576,USD,millions,reported,SEC 10-Q 0000313616-25-000182
 2025,Q3,2025-09-26,3,product,LifeSciences/RevenuefromContractwithCustomerMeasurementRecurring,Recurring revenue,经常性收入,Life Sciences,1216,USD,millions,reported,SEC 10-Q 0000313616-25-000182
 2025,Q3,2025-09-26,3,segment,BiotechnologySegment,Biotechnology,生物技术业务,,1798,USD,millions,reported,SEC 10-Q 0000313616-25-000182
-2025,Q3,2025-09-26,3,segment,Diagnostics,Diagnostics,诊断业务,,2463,USD,millions,reported,SEC 10-Q 0000313616-25-000182
-2025,Q3,2025-09-26,3,segment,LifeSciences,Life Sciences,生命科学,,1792,USD,millions,reported,SEC 10-Q 0000313616-25-000182
+2025,Q3,2025-09-26,3,segment,DiagnosticsSegment,Diagnostics,诊断业务,,2463,USD,millions,reported,SEC 10-Q 0000313616-25-000182
+2025,Q3,2025-09-26,3,segment,LifeSciencesSegment,Life Sciences,生命科学业务,,1792,USD,millions,reported,SEC 10-Q 0000313616-25-000182
 2025,Q4,2025-12-31,3,geography,HighGrowthMarkets,High-growth markets,高速增长市场,,2027,USD,millions,derived,SEC 10-K 0000313616-26-000062 − 10-Q 0000313616-25-000182
 2025,Q4,2025-12-31,3,geography,NorthAmerica,North America,北美地区,,2756,USD,millions,derived,SEC 10-K 0000313616-26-000062 − 10-Q 0000313616-25-000182
 2025,Q4,2025-12-31,3,geography,OtherDevelopedMarkets,Other developed markets,其他发达市场,,364,USD,millions,derived,SEC 10-K 0000313616-26-000062 − 10-Q 0000313616-25-000182

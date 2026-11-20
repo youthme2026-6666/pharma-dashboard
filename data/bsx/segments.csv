@@ -7,8 +7,8 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2021,Q1,2021-03-31,3,product,GlobalEndoscopyEndoReportingUnit,Global Endoscopy (Endo) Reporting Unit,全球内镜业务单元,MedSurg,499,USD,millions,reported,SEC 10-Q 0000885725-22-000013
 2021,Q1,2021-03-31,3,product,GlobalUrologyandPelvicHealthReportingUnit,Global Urology (Uro) Reporting Unit,全球泌尿和盆底健康业务单元,MedSurg,361,USD,millions,reported,SEC 10-Q 0000885725-22-000013
 2021,Q1,2021-03-31,3,product,SpecialtyPharmaceuticals,Specialty Pharmaceuticals,特殊制药产品,Other,13,USD,millions,reported,SEC 10-Q 0000885725-22-000013
-2021,Q1,2021-03-31,3,product,CardiacRhythmManagement,Global CRM Reporting Unit,心律管理产品,Rhythm and Neuro,469,USD,millions,reported,SEC 10-Q 0000885725-22-000013
-2021,Q1,2021-03-31,3,product,ElectrophysiologyEP,Global Electrophysiology (EP) Reporting Unit,电生理产品,Rhythm and Neuro,83,USD,millions,reported,SEC 10-Q 0000885725-22-000013
+2021,Q1,2021-03-31,3,product,CardiacRhythmManagement,Cardiac Rhythm Management,心律管理产品,Rhythm and Neuro,469,USD,millions,reported,SEC 10-Q 0000885725-22-000013
+2021,Q1,2021-03-31,3,product,ElectrophysiologyEP,Electrophysiology,电生理产品,Rhythm and Neuro,83,USD,millions,reported,SEC 10-Q 0000885725-22-000013
 2021,Q1,2021-03-31,3,product,GlobalNeuromodulationNmReportingUnit,Global Neuromodulation (NM) Reporting Unit,全球神经调控业务单元,Rhythm and Neuro,198,USD,millions,reported,SEC 10-Q 0000885725-22-000013
 2021,Q2,2021-06-30,3,geography,NonUs,International,国际市场（除美国）,,1277,USD,millions,reported,SEC 10-Q 0000885725-21-000036
 2021,Q2,2021-06-30,3,geography,US,United States,美国,,1800,USD,millions,reported,SEC 10-Q 0000885725-21-000036
@@ -45,8 +45,8 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2021,Q4,2021-12-31,3,product,GlobalEndoscopyEndoReportingUnit,Global Endoscopy (Endo) Reporting Unit,全球内镜业务单元,MedSurg,558,USD,millions,derived,SEC 10-K 0000885725-22-000006 − 10-Q 0000885725-21-000052
 2021,Q4,2021-12-31,3,product,GlobalUrologyandPelvicHealthReportingUnit,Global Urology and Pelvic Health Reporting Unit,全球泌尿和盆底健康业务单元,MedSurg,441,USD,millions,derived,SEC 10-K 0000885725-22-000006 − 10-Q 0000885725-21-000052
 2021,Q4,2021-12-31,3,product,SpecialtyPharmaceuticals,Specialty Pharmaceuticals,特殊制药产品,Other,0,USD,millions,derived,SEC 10-K 0000885725-22-000006 − 10-Q 0000885725-21-000052
-2021,Q4,2021-12-31,3,product,GlobalCrmReportingUnit,Global CRM Reporting Unit,全球心律管理业务单元,Rhythm and Neuro,514,USD,millions,derived,SEC 10-K 0000885725-22-000006 − 10-Q 0000885725-21-000052
-2021,Q4,2021-12-31,3,product,GlobalElectrophysiologyEpReportingUnit,Global Electrophysiology (EP) Reporting Unit,全球电生理业务单元,Rhythm and Neuro,100,USD,millions,derived,SEC 10-K 0000885725-22-000006 − 10-Q 0000885725-21-000052
+2021,Q4,2021-12-31,3,product,CardiacRhythmManagement,Cardiac Rhythm Management,心律管理产品,Rhythm and Neuro,514,USD,millions,derived,SEC 10-K 0000885725-22-000006 − 10-Q 0000885725-21-000052
+2021,Q4,2021-12-31,3,product,ElectrophysiologyEP,Electrophysiology,电生理产品,Rhythm and Neuro,100,USD,millions,derived,SEC 10-K 0000885725-22-000006 − 10-Q 0000885725-21-000052
 2021,Q4,2021-12-31,3,product,GlobalNeuromodulationNmReportingUnit,Global Neuromodulation (NM) Reporting Unit,全球神经调控业务单元,Rhythm and Neuro,243,USD,millions,derived,SEC 10-K 0000885725-22-000006 − 10-Q 0000885725-21-000052
 2021,FY,2021-12-31,12,geography,NonUs,Non-US,国际市场（除美国）,,4978,USD,millions,reported,SEC 10-K 0000885725-22-000006
 2021,FY,2021-12-31,12,geography,US,United States,美国,,6911,USD,millions,reported,SEC 10-K 0000885725-22-000006
@@ -55,8 +55,8 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2021,FY,2021-12-31,12,product,GlobalEndoscopyEndoReportingUnit,Global Endoscopy (Endo) Reporting Unit,全球内镜业务单元,MedSurg,2141,USD,millions,reported,SEC 10-K 0000885725-22-000006
 2021,FY,2021-12-31,12,product,GlobalUrologyandPelvicHealthReportingUnit,Global Urology and Pelvic Health Reporting Unit,全球泌尿和盆底健康业务单元,MedSurg,1583,USD,millions,reported,SEC 10-K 0000885725-22-000006
 2021,FY,2021-12-31,12,product,SpecialtyPharmaceuticals,Specialty Pharmaceuticals,特殊制药产品,Other,13,USD,millions,reported,SEC 10-K 0000885725-22-000006
-2021,FY,2021-12-31,12,product,GlobalCrmReportingUnit,Global CRM Reporting Unit,全球心律管理业务单元,Rhythm and Neuro,2019,USD,millions,reported,SEC 10-K 0000885725-22-000006
-2021,FY,2021-12-31,12,product,GlobalElectrophysiologyEpReportingUnit,Global Electrophysiology (EP) Reporting Unit,全球电生理业务单元,Rhythm and Neuro,365,USD,millions,reported,SEC 10-K 0000885725-22-000006
+2021,FY,2021-12-31,12,product,CardiacRhythmManagement,Cardiac Rhythm Management,心律管理产品,Rhythm and Neuro,2019,USD,millions,reported,SEC 10-K 0000885725-22-000006
+2021,FY,2021-12-31,12,product,ElectrophysiologyEP,Electrophysiology,电生理产品,Rhythm and Neuro,365,USD,millions,reported,SEC 10-K 0000885725-22-000006
 2021,FY,2021-12-31,12,product,GlobalNeuromodulationNmReportingUnit,Global Neuromodulation (NM) Reporting Unit,全球神经调控业务单元,Rhythm and Neuro,909,USD,millions,reported,SEC 10-K 0000885725-22-000006
 2021,FY,2021-12-31,12,segment,Cardiovascular,Cardiovascular,心血管业务,,7242,USD,millions,reported,SEC 10-K 0000885725-24-000017
 2021,FY,2021-12-31,12,segment,Medsurg,MedSurg,内外科业务,,4633,USD,millions,reported,SEC 10-K 0000885725-24-000017
@@ -69,8 +69,8 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2022,Q1,2022-03-31,3,product,GlobalEndoscopyEndoReportingUnit,Global Endoscopy (Endo) Reporting Unit,全球内镜业务单元,MedSurg,531,USD,millions,reported,SEC 10-Q 0000885725-22-000013
 2022,Q1,2022-03-31,3,product,GlobalUrologyandPelvicHealthReportingUnit,Global Urology (Uro) Reporting Unit,全球泌尿和盆底健康业务单元,MedSurg,413,USD,millions,reported,SEC 10-Q 0000885725-22-000013
 2022,Q1,2022-03-31,3,product,SpecialtyPharmaceuticals,Specialty Pharmaceuticals,特殊制药产品,Other,0,USD,millions,reported,SEC 10-Q 0000885725-22-000013
-2022,Q1,2022-03-31,3,product,CardiacRhythmManagement,Global CRM Reporting Unit,心律管理产品,Rhythm and Neuro,519,USD,millions,reported,SEC 10-Q 0000885725-22-000013
-2022,Q1,2022-03-31,3,product,ElectrophysiologyEP,Global Electrophysiology (EP) Reporting Unit,电生理产品,Rhythm and Neuro,118,USD,millions,reported,SEC 10-Q 0000885725-22-000013
+2022,Q1,2022-03-31,3,product,CardiacRhythmManagement,Cardiac Rhythm Management,心律管理产品,Rhythm and Neuro,519,USD,millions,reported,SEC 10-Q 0000885725-22-000013
+2022,Q1,2022-03-31,3,product,ElectrophysiologyEP,Electrophysiology,电生理产品,Rhythm and Neuro,118,USD,millions,reported,SEC 10-Q 0000885725-22-000013
 2022,Q1,2022-03-31,3,product,GlobalNeuromodulationNmReportingUnit,Global Neuromodulation (NM) Reporting Unit,全球神经调控业务单元,Rhythm and Neuro,209,USD,millions,reported,SEC 10-Q 0000885725-22-000013
 2022,Q1,2022-03-31,3,segment,Cardiovascular,Cardiovascular,心血管业务,,1873,USD,millions,reported,SEC 10-Q 0000885725-22-000013
 2022,Q1,2022-03-31,3,segment,Medsurg,MedSurg,内外科业务,,1153,USD,millions,reported,SEC 10-Q 0000885725-22-000013
@@ -107,7 +107,7 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2022,FY,2022-12-31,12,product,GlobalUrologyandPelvicHealthReportingUnit,Global Urology and Pelvic Health Reporting Unit,全球泌尿和盆底健康业务单元,MedSurg,1773,USD,millions,reported,SEC 10-K 0000885725-23-000008
 2022,FY,2022-12-31,12,product,Other,Other,其他收入,Other,-60,USD,millions,reported,SEC 10-K 0000885725-23-000008
 2022,FY,2022-12-31,12,product,CardiacRhythmManagement,Cardiac Rhythm Management,心律管理产品,Rhythm and Neuro,2100,USD,millions,reported,SEC 10-K 0000885725-23-000008
-2022,FY,2022-12-31,12,product,ElectrophysiologyEP,Electrophysiology (EP),电生理产品,Rhythm and Neuro,585,USD,millions,reported,SEC 10-K 0000885725-23-000008
+2022,FY,2022-12-31,12,product,ElectrophysiologyEP,Electrophysiology,电生理产品,Rhythm and Neuro,585,USD,millions,reported,SEC 10-K 0000885725-23-000008
 2022,FY,2022-12-31,12,product,GlobalNeuromodulationNmReportingUnit,Global Neuromodulation (NM) Reporting Unit,全球神经调控业务单元,Rhythm and Neuro,917,USD,millions,reported,SEC 10-K 0000885725-23-000008
 2023,Q1,2023-03-31,3,geography,NonUs,International,国际市场（除美国）,,1386,USD,millions,reported,SEC 10-Q 0000885725-23-000026
 2023,Q1,2023-03-31,3,geography,US,United States,美国,,2003,USD,millions,reported,SEC 10-Q 0000885725-23-000026
@@ -151,7 +151,7 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2023,Q4,2023-12-31,3,product,GlobalEndoscopyEndoReportingUnit,Global Endoscopy (Endo) Reporting Unit,全球内镜业务单元,MedSurg,646,USD,millions,derived,SEC 10-K 0000885725-24-000017 − 10-Q 0000885725-23-000048
 2023,Q4,2023-12-31,3,product,GlobalUrologyandPelvicHealthReportingUnit,Global Urology and Pelvic Health Reporting Unit,全球泌尿和盆底健康业务单元,MedSurg,527,USD,millions,derived,SEC 10-K 0000885725-24-000017 − 10-Q 0000885725-23-000048
 2023,Q4,2023-12-31,3,product,CardiacRhythmManagement,Cardiac Rhythm Management,心律管理产品,Rhythm and Neuro,553,USD,millions,derived,SEC 10-K 0000885725-24-000017 − 10-Q 0000885725-23-000048
-2023,Q4,2023-12-31,3,product,ElectrophysiologyEP,Electrophysiology (EP),电生理产品,Rhythm and Neuro,240,USD,millions,derived,SEC 10-K 0000885725-24-000017 − 10-Q 0000885725-23-000048
+2023,Q4,2023-12-31,3,product,ElectrophysiologyEP,Electrophysiology,电生理产品,Rhythm and Neuro,240,USD,millions,derived,SEC 10-K 0000885725-24-000017 − 10-Q 0000885725-23-000048
 2023,Q4,2023-12-31,3,product,GlobalNeuromodulationNmReportingUnit,Global Neuromodulation (NM) Reporting Unit,全球神经调控业务单元,Rhythm and Neuro,268,USD,millions,derived,SEC 10-K 0000885725-24-000017 − 10-Q 0000885725-23-000048
 2023,Q4,2023-12-31,3,segment,Cardiovascular,Cardiovascular,心血管业务,,2285,USD,millions,derived,SEC 10-K 0000885725-24-000017 − 10-Q 0000885725-23-000048
 2023,Q4,2023-12-31,3,segment,Medsurg,MedSurg,内外科业务,,1441,USD,millions,derived,SEC 10-K 0000885725-24-000017 − 10-Q 0000885725-23-000048
@@ -165,7 +165,7 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2023,FY,2023-12-31,12,product,GlobalEndoscopyEndoReportingUnit,Global Endoscopy (Endo) Reporting Unit,全球内镜业务单元,MedSurg,2482,USD,millions,reported,SEC 10-K 0000885725-24-000017
 2023,FY,2023-12-31,12,product,GlobalUrologyandPelvicHealthReportingUnit,Global Urology and Pelvic Health Reporting Unit,全球泌尿和盆底健康业务单元,MedSurg,1964,USD,millions,reported,SEC 10-K 0000885725-24-000017
 2023,FY,2023-12-31,12,product,CardiacRhythmManagement,Cardiac Rhythm Management,心律管理产品,Rhythm and Neuro,2218,USD,millions,reported,SEC 10-K 0000885725-24-000017
-2023,FY,2023-12-31,12,product,ElectrophysiologyEP,Electrophysiology (EP),电生理产品,Rhythm and Neuro,800,USD,millions,reported,SEC 10-K 0000885725-24-000017
+2023,FY,2023-12-31,12,product,ElectrophysiologyEP,Electrophysiology,电生理产品,Rhythm and Neuro,800,USD,millions,reported,SEC 10-K 0000885725-24-000017
 2023,FY,2023-12-31,12,product,GlobalNeuromodulationNmReportingUnit,Global Neuromodulation (NM) Reporting Unit,全球神经调控业务单元,Rhythm and Neuro,976,USD,millions,reported,SEC 10-K 0000885725-24-000017
 2023,FY,2023-12-31,12,segment,Cardiovascular,Cardiovascular,心血管业务,,8819,USD,millions,reported,SEC 10-K 0000885725-24-000017
 2023,FY,2023-12-31,12,segment,Medsurg,MedSurg,内外科业务,,5422,USD,millions,reported,SEC 10-K 0000885725-24-000017
@@ -211,7 +211,7 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2024,Q4,2024-12-31,3,product,GlobalEndoscopyEndoReportingUnit,Global Endoscopy (Endo) Reporting Unit,全球内镜业务单元,MedSurg,691,USD,millions,derived,SEC 10-K 0000885725-25-000011 − 10-Q 0000885725-24-000073
 2024,Q4,2024-12-31,3,product,GlobalUrologyandPelvicHealthReportingUnit,Global Urology and Pelvic Health Reporting Unit,全球泌尿和盆底健康业务单元,MedSurg,630,USD,millions,derived,SEC 10-K 0000885725-25-000011 − 10-Q 0000885725-24-000073
 2024,Q4,2024-12-31,3,product,CardiacRhythmManagement,Cardiac Rhythm Management,心律管理产品,Rhythm and Neuro,566,USD,millions,derived,SEC 10-K 0000885725-25-000011 − 10-Q 0000885725-24-000073
-2024,Q4,2024-12-31,3,product,ElectrophysiologyEP,Electrophysiology (EP),电生理产品,Rhythm and Neuro,649,USD,millions,derived,SEC 10-K 0000885725-25-000011 − 10-Q 0000885725-24-000073
+2024,Q4,2024-12-31,3,product,ElectrophysiologyEP,Electrophysiology,电生理产品,Rhythm and Neuro,649,USD,millions,derived,SEC 10-K 0000885725-25-000011 − 10-Q 0000885725-24-000073
 2024,Q4,2024-12-31,3,product,GlobalNeuromodulationNmReportingUnit,Global Neuromodulation (NM) Reporting Unit,全球神经调控业务单元,Rhythm and Neuro,299,USD,millions,derived,SEC 10-K 0000885725-25-000011 − 10-Q 0000885725-24-000073
 2024,Q4,2024-12-31,3,segment,Cardiovascular,Cardiovascular,心血管业务,,2942,USD,millions,derived,SEC 10-K 0000885725-25-000011 − 10-Q 0000885725-24-000073
 2024,Q4,2024-12-31,3,segment,Medsurg,MedSurg,内外科业务,,1620,USD,millions,derived,SEC 10-K 0000885725-25-000011 − 10-Q 0000885725-24-000073
@@ -225,7 +225,7 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2024,FY,2024-12-31,12,product,GlobalEndoscopyEndoReportingUnit,Global Endoscopy (Endo) Reporting Unit,全球内镜业务单元,MedSurg,2687,USD,millions,reported,SEC 10-K 0000885725-25-000011
 2024,FY,2024-12-31,12,product,GlobalUrologyandPelvicHealthReportingUnit,Global Urology and Pelvic Health Reporting Unit,全球泌尿和盆底健康业务单元,MedSurg,2200,USD,millions,reported,SEC 10-K 0000885725-25-000011
 2024,FY,2024-12-31,12,product,CardiacRhythmManagement,Cardiac Rhythm Management,心律管理产品,Rhythm and Neuro,2279,USD,millions,reported,SEC 10-K 0000885725-25-000011
-2024,FY,2024-12-31,12,product,ElectrophysiologyEP,Electrophysiology (EP),电生理产品,Rhythm and Neuro,1904,USD,millions,reported,SEC 10-K 0000885725-25-000011
+2024,FY,2024-12-31,12,product,ElectrophysiologyEP,Electrophysiology,电生理产品,Rhythm and Neuro,1904,USD,millions,reported,SEC 10-K 0000885725-25-000011
 2024,FY,2024-12-31,12,product,GlobalNeuromodulationNmReportingUnit,Global Neuromodulation (NM) Reporting Unit,全球神经调控业务单元,Rhythm and Neuro,1106,USD,millions,reported,SEC 10-K 0000885725-25-000011
 2024,FY,2024-12-31,12,segment,Cardiovascular,Cardiovascular,心血管业务,,10755,USD,millions,reported,SEC 10-K 0000885725-25-000011
 2024,FY,2024-12-31,12,segment,Medsurg,MedSurg,内外科业务,,5993,USD,millions,reported,SEC 10-K 0000885725-25-000011

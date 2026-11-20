@@ -65,10 +65,10 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2021,Q3,2021-09-30,3,product,Revlimid,Revlimid,Revlimid,Oncology,3347,USD,millions,reported,SEC 10-Q 0000014272-22-000196
 2021,Q3,2021-09-30,3,product,Sprycel,Sprycel,Sprycel,Oncology,551,USD,millions,reported,SEC 10-Q 0000014272-22-000196
 2021,Q3,2021-09-30,3,product,Yervoy,Yervoy,Yervoy,Oncology,515,USD,millions,reported,SEC 10-Q 0000014272-22-000196
-2021,Q4,2021-12-31,3,geography,International,International,国际地区,,4244,USD,millions,derived,SEC 10-K 0000014272-24-000044 − 10-Q 0000014272-22-000196
+2021,Q4,2021-12-31,3,geography,NonUs,International,美国以外地区,,4244,USD,millions,derived,SEC 10-K 0000014272-24-000044 − 10-Q 0000014272-22-000196
 2021,Q4,2021-12-31,3,geography,OtherRegion,Other,其他地区,,221,USD,millions,derived,SEC 10-K 0000014272-24-000044 − 10-Q 0000014272-22-000196
 2021,Q4,2021-12-31,3,geography,US,United States,美国,,7520,USD,millions,derived,SEC 10-K 0000014272-24-000044 − 10-Q 0000014272-22-000196
-2021,FY,2021-12-31,12,geography,International,International,国际地区,,16319,USD,millions,reported,SEC 10-K 0000014272-24-000044
+2021,FY,2021-12-31,12,geography,NonUs,International,美国以外地区,,16319,USD,millions,reported,SEC 10-K 0000014272-24-000044
 2021,FY,2021-12-31,12,geography,OtherRegion,Other,其他地区,,852,USD,millions,reported,SEC 10-K 0000014272-24-000044
 2021,FY,2021-12-31,12,geography,US,United States,美国,,29214,USD,millions,reported,SEC 10-K 0000014272-24-000044
 2021,FY,2021-12-31,12,product,Eliquis,Eliquis,Eliquis,Cardiovascular,10762,USD,millions,reported,SEC 10-K 0000014272-22-000051
@@ -108,7 +108,7 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2022,Q1,2022-03-31,3,product,Revlimid,Revlimid,Revlimid,Oncology,2797,USD,millions,reported,SEC 10-Q 0000014272-22-000114
 2022,Q1,2022-03-31,3,product,Sprycel,Sprycel,Sprycel,Oncology,483,USD,millions,reported,SEC 10-Q 0000014272-22-000114
 2022,Q1,2022-03-31,3,product,Yervoy,Yervoy,Yervoy,Oncology,515,USD,millions,reported,SEC 10-Q 0000014272-22-000114
-2022,Q2,2022-06-30,3,geography,International,International,国际地区,,3427,USD,millions,reported,SEC 10-Q 0000014272-22-000166
+2022,Q2,2022-06-30,3,geography,NonUs,International,美国以外地区,,3427,USD,millions,reported,SEC 10-Q 0000014272-22-000166
 2022,Q2,2022-06-30,3,geography,OtherRegion,Other Region,其他地区,,192,USD,millions,reported,SEC 10-Q 0000014272-22-000166
 2022,Q2,2022-06-30,3,geography,US,United States,美国,,8268,USD,millions,reported,SEC 10-Q 0000014272-22-000166
 2022,Q2,2022-06-30,3,product,Camzyos,Camzyos,Camzyos,Cardiovascular,3,USD,millions,reported,SEC 10-Q 0000014272-22-000166
@@ -129,7 +129,7 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2022,Q2,2022-06-30,3,product,Revlimid,Revlimid,Revlimid,Oncology,2501,USD,millions,reported,SEC 10-Q 0000014272-22-000166
 2022,Q2,2022-06-30,3,product,Sprycel,Sprycel,Sprycel,Oncology,544,USD,millions,reported,SEC 10-Q 0000014272-22-000166
 2022,Q2,2022-06-30,3,product,Yervoy,Yervoy,Yervoy,Oncology,525,USD,millions,reported,SEC 10-Q 0000014272-22-000166
-2022,Q3,2022-09-30,3,geography,International,International,国际地区,,3062,USD,millions,reported,SEC 10-Q 0000014272-22-000196
+2022,Q3,2022-09-30,3,geography,NonUs,International,美国以外地区,,3062,USD,millions,reported,SEC 10-Q 0000014272-22-000196
 2022,Q3,2022-09-30,3,geography,OtherRegion,Other Region,其他地区,,215,USD,millions,reported,SEC 10-Q 0000014272-22-000196
 2022,Q3,2022-09-30,3,geography,US,United States,美国,,7941,USD,millions,reported,SEC 10-Q 0000014272-22-000196
 2022,Q3,2022-09-30,3,product,Camzyos,Camzyos,Camzyos,Cardiovascular,5,USD,millions,reported,SEC 10-Q 0000014272-22-000196
@@ -151,34 +151,34 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2022,Q3,2022-09-30,3,product,Revlimid,Revlimid,Revlimid,Oncology,2420,USD,millions,reported,SEC 10-Q 0000014272-22-000196
 2022,Q3,2022-09-30,3,product,Sprycel,Sprycel,Sprycel,Oncology,560,USD,millions,reported,SEC 10-Q 0000014272-22-000196
 2022,Q3,2022-09-30,3,product,Yervoy,Yervoy,Yervoy,Oncology,523,USD,millions,reported,SEC 10-Q 0000014272-22-000196
-2022,Q4,2022-12-31,3,geography,International,International,国际地区,,3281,USD,millions,derived,SEC 10-K 0000014272-24-000044 − 10-Q 0000014272-22-000196
+2022,Q4,2022-12-31,3,geography,NonUs,International,美国以外地区,,3281,USD,millions,derived,SEC 10-K 0000014272-24-000044 − 10-Q 0000014272-22-000196
 2022,Q4,2022-12-31,3,geography,OtherRegion,Other,其他地区,,200,USD,millions,derived,SEC 10-K 0000014272-24-000044 − 10-Q 0000014272-22-000196
 2022,Q4,2022-12-31,3,geography,US,United States,美国,,7925,USD,millions,derived,SEC 10-K 0000014272-24-000044 − 10-Q 0000014272-22-000196
-2022,FY,2022-12-31,12,geography,International,International,国际地区,,13497,USD,millions,reported,SEC 10-K 0000014272-24-000044
+2022,FY,2022-12-31,12,geography,NonUs,International,美国以外地区,,13497,USD,millions,reported,SEC 10-K 0000014272-24-000044
 2022,FY,2022-12-31,12,geography,OtherRegion,Other,其他地区,,834,USD,millions,reported,SEC 10-K 0000014272-24-000044
 2022,FY,2022-12-31,12,geography,US,United States,美国,,31828,USD,millions,reported,SEC 10-K 0000014272-24-000044
-2023,Q1,2023-03-31,3,geography,International,International,国际地区,,3149,USD,millions,reported,SEC 10-Q 0000014272-23-000104
+2023,Q1,2023-03-31,3,geography,NonUs,International,美国以外地区,,3149,USD,millions,reported,SEC 10-Q 0000014272-23-000104
 2023,Q1,2023-03-31,3,geography,OtherRegion,Other,其他地区,,155,USD,millions,reported,SEC 10-Q 0000014272-23-000104
 2023,Q1,2023-03-31,3,geography,US,United States,美国,,8033,USD,millions,reported,SEC 10-Q 0000014272-23-000104
-2023,Q2,2023-06-30,3,geography,International,International,国际地区,,3160,USD,millions,reported,SEC 10-Q 0000014272-23-000152
+2023,Q2,2023-06-30,3,geography,NonUs,International,美国以外地区,,3160,USD,millions,reported,SEC 10-Q 0000014272-23-000152
 2023,Q2,2023-06-30,3,geography,OtherRegion,Other,其他地区,,175,USD,millions,reported,SEC 10-Q 0000014272-23-000152
 2023,Q2,2023-06-30,3,geography,US,United States,美国,,7891,USD,millions,reported,SEC 10-Q 0000014272-23-000152
-2023,Q3,2023-09-30,3,geography,International,International,国际地区,,3153,USD,millions,reported,SEC 10-Q 0000014272-23-000181
+2023,Q3,2023-09-30,3,geography,NonUs,International,美国以外地区,,3153,USD,millions,reported,SEC 10-Q 0000014272-23-000181
 2023,Q3,2023-09-30,3,geography,OtherRegion,Other,其他地区,,185,USD,millions,reported,SEC 10-Q 0000014272-23-000181
 2023,Q3,2023-09-30,3,geography,US,United States,美国,,7628,USD,millions,reported,SEC 10-Q 0000014272-23-000181
-2023,Q4,2023-12-31,3,geography,International,International,国际地区,,3290,USD,millions,derived,SEC 10-K 0000014272-24-000044 − 10-Q 0000014272-23-000181
+2023,Q4,2023-12-31,3,geography,NonUs,International,美国以外地区,,3290,USD,millions,derived,SEC 10-K 0000014272-24-000044 − 10-Q 0000014272-23-000181
 2023,Q4,2023-12-31,3,geography,OtherRegion,Other,其他地区,,184,USD,millions,derived,SEC 10-K 0000014272-24-000044 − 10-Q 0000014272-23-000181
 2023,Q4,2023-12-31,3,geography,US,United States,美国,,8003,USD,millions,derived,SEC 10-K 0000014272-24-000044 − 10-Q 0000014272-23-000181
-2023,FY,2023-12-31,12,geography,International,International,国际地区,,12752,USD,millions,reported,SEC 10-K 0000014272-24-000044
+2023,FY,2023-12-31,12,geography,NonUs,International,美国以外地区,,12752,USD,millions,reported,SEC 10-K 0000014272-24-000044
 2023,FY,2023-12-31,12,geography,OtherRegion,Other,其他地区,,699,USD,millions,reported,SEC 10-K 0000014272-24-000044
 2023,FY,2023-12-31,12,geography,US,United States,美国,,31555,USD,millions,reported,SEC 10-K 0000014272-24-000044
-2024,Q1,2024-03-31,3,geography,International,International,国际地区,,3190,USD,millions,reported,SEC 10-Q 0000014272-24-000096
+2024,Q1,2024-03-31,3,geography,NonUs,International,美国以外地区,,3190,USD,millions,reported,SEC 10-Q 0000014272-24-000096
 2024,Q1,2024-03-31,3,geography,OtherRegion,Other,其他地区,,199,USD,millions,reported,SEC 10-Q 0000014272-24-000096
 2024,Q1,2024-03-31,3,geography,US,United States,美国,,8476,USD,millions,reported,SEC 10-Q 0000014272-24-000096
-2024,Q2,2024-06-30,3,geography,International,International,国际地区,,3224,USD,millions,reported,SEC 10-Q 0000014272-24-000123
+2024,Q2,2024-06-30,3,geography,NonUs,International,美国以外地区,,3224,USD,millions,reported,SEC 10-Q 0000014272-24-000123
 2024,Q2,2024-06-30,3,geography,OtherRegion,Other,其他地区,,176,USD,millions,reported,SEC 10-Q 0000014272-24-000123
 2024,Q2,2024-06-30,3,geography,US,United States,美国,,8801,USD,millions,reported,SEC 10-Q 0000014272-24-000123
-2024,Q3,2024-09-30,3,geography,International,International,国际地区,,3389,USD,millions,reported,SEC 10-Q 0000014272-24-000147
+2024,Q3,2024-09-30,3,geography,NonUs,International,美国以外地区,,3389,USD,millions,reported,SEC 10-Q 0000014272-24-000147
 2024,Q3,2024-09-30,3,geography,OtherRegion,Other,其他地区,,271,USD,millions,reported,SEC 10-Q 0000014272-24-000147
 2024,Q3,2024-09-30,3,geography,US,United States,美国,,8232,USD,millions,reported,SEC 10-Q 0000014272-24-000147
 2024,Q4,2024-12-31,3,geography,NonUs,International,美国以外地区,,3396,USD,millions,derived,SEC 10-K 0000014272-25-000039 − 10-Q 0000014272-25-000149
@@ -187,7 +187,7 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2024,FY,2024-12-31,12,geography,NonUs,International,美国以外地区,,13199,USD,millions,reported,SEC 10-K 0000014272-25-000039
 2024,FY,2024-12-31,12,geography,OtherRegion,Other,其他地区,,996,USD,millions,reported,SEC 10-K 0000014272-25-000039
 2024,FY,2024-12-31,12,geography,US,United States,美国,,34105,USD,millions,reported,SEC 10-K 0000014272-25-000039
-2025,Q1,2025-03-31,3,geography,International,International,国际地区,,3110,USD,millions,reported,SEC 10-Q 0000014272-25-000091
+2025,Q1,2025-03-31,3,geography,NonUs,International,美国以外地区,,3110,USD,millions,reported,SEC 10-Q 0000014272-25-000091
 2025,Q1,2025-03-31,3,geography,OtherRegion,Other,其他地区,,218,USD,millions,reported,SEC 10-Q 0000014272-25-000091
 2025,Q1,2025-03-31,3,geography,US,United States,美国,,7873,USD,millions,reported,SEC 10-Q 0000014272-25-000091
 2025,Q1,2025-03-31,3,product,Camzyos,Camzyos,Camzyos,Cardiovascular,159,USD,millions,reported,SEC 10-Q 0000014272-26-000010

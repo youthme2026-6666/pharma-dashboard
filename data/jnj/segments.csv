@@ -4,56 +4,56 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2021,Q1,2021-04-04,3,geography,US,United States,美国,,11111,USD,millions,reported,SEC 10-Q 0000200406-21-000036
 2021,Q1,2021-04-04,3,geography,WesternHemisphereExcludingUS,"Western Hemisphere, excluding U.S.",西半球（不含美国）,,1424,USD,millions,reported,SEC 10-Q 0000200406-21-000036
 2021,Q1,2021-04-04,3,segment,Consumer,Consumer Health,消费者健康,,3543,USD,millions,reported,SEC 10-Q 0000200406-21-000036
-2021,Q1,2021-04-04,3,segment,MedicalDevices,MEDICAL DEVICES,医疗技术(3),,6579,USD,millions,reported,SEC 10-Q 0000200406-21-000036
+2021,Q1,2021-04-04,3,segment,MedTech,MEDTECH,医疗技术,,6579,USD,millions,reported,SEC 10-Q 0000200406-21-000036
 2021,Q1,2021-04-04,3,segment,Pharmaceutical,PHARMACEUTICAL,制药,,12199,USD,millions,reported,SEC 10-Q 0000200406-21-000036
 2021,Q2,2021-07-04,3,geography,AsiaPacificAfrica,"Asia-Pacific, Africa",亚太及非洲,,4358,USD,millions,reported,SEC 10-Q 0000200406-21-000057
 2021,Q2,2021-07-04,3,geography,Europe,Europe,欧洲,,5668,USD,millions,reported,SEC 10-Q 0000200406-21-000057
 2021,Q2,2021-07-04,3,geography,US,United States,美国,,11919,USD,millions,reported,SEC 10-Q 0000200406-21-000057
 2021,Q2,2021-07-04,3,geography,WesternHemisphereExcludingUS,"Western Hemisphere, excluding U.S.",西半球（不含美国）,,1367,USD,millions,reported,SEC 10-Q 0000200406-21-000057
 2021,Q2,2021-07-04,3,segment,Consumer,Consumer Health,消费者健康,,3735,USD,millions,reported,SEC 10-Q 0000200406-21-000057
-2021,Q2,2021-07-04,3,segment,MedicalDevices,MEDICAL DEVICES,医疗技术(3),,6978,USD,millions,reported,SEC 10-Q 0000200406-21-000057
+2021,Q2,2021-07-04,3,segment,MedTech,MEDTECH,医疗技术,,6978,USD,millions,reported,SEC 10-Q 0000200406-21-000057
 2021,Q2,2021-07-04,3,segment,Pharmaceutical,PHARMACEUTICAL,制药,,12599,USD,millions,reported,SEC 10-Q 0000200406-21-000057
 2021,Q3,2021-10-03,3,geography,AsiaPacificAfrica,"Asia-Pacific, Africa",亚太及非洲,,4288,USD,millions,reported,SEC 10-Q 0000200406-21-000070
 2021,Q3,2021-10-03,3,geography,Europe,Europe,欧洲,,5587,USD,millions,reported,SEC 10-Q 0000200406-21-000070
 2021,Q3,2021-10-03,3,geography,US,United States,美国,,11963,USD,millions,reported,SEC 10-Q 0000200406-21-000070
 2021,Q3,2021-10-03,3,geography,WesternHemisphereExcludingUS,"Western Hemisphere, excluding U.S.",西半球（不含美国）,,1500,USD,millions,reported,SEC 10-Q 0000200406-21-000070
 2021,Q3,2021-10-03,3,segment,Consumer,Consumer Health,消费者健康,,3700,USD,millions,reported,SEC 10-Q 0000200406-21-000070
-2021,Q3,2021-10-03,3,segment,MedicalDevices,MEDICAL DEVICES,医疗技术(3),,6644,USD,millions,reported,SEC 10-Q 0000200406-21-000070
+2021,Q3,2021-10-03,3,segment,MedTech,MEDTECH,医疗技术,,6644,USD,millions,reported,SEC 10-Q 0000200406-21-000070
 2021,Q3,2021-10-03,3,segment,Pharmaceutical,PHARMACEUTICAL,制药,,12994,USD,millions,reported,SEC 10-Q 0000200406-21-000070
 2021,Q4,2022-01-02,3,geography,AsiaPacificAfrica,"Asia-Pacific, Africa",亚太及非洲,,4257,USD,millions,derived,SEC 10-K 0000200406-22-000022 − 10-Q 0000200406-21-000070
 2021,Q4,2022-01-02,3,geography,Europe,Europe,欧洲,,6925,USD,millions,derived,SEC 10-K 0000200406-22-000022 − 10-Q 0000200406-21-000070
 2021,Q4,2022-01-02,3,geography,US,United States,美国,,12163,USD,millions,derived,SEC 10-K 0000200406-22-000022 − 10-Q 0000200406-21-000070
 2021,Q4,2022-01-02,3,geography,WesternHemisphereExcludingUS,Western Hemisphere excluding U.S.,西半球（不含美国）,,1459,USD,millions,derived,SEC 10-K 0000200406-22-000022 − 10-Q 0000200406-21-000070
 2021,Q4,2022-01-02,3,segment,Consumer,Consumer Health,消费者健康,,3657,USD,millions,derived,SEC 10-K 0000200406-22-000022 − 10-Q 0000200406-21-000070
-2021,Q4,2022-01-02,3,segment,MedicalDevices,Medical Devices,医疗技术(3),,6859,USD,millions,derived,SEC 10-K 0000200406-22-000022 − 10-Q 0000200406-21-000070
+2021,Q4,2022-01-02,3,segment,MedTech,MEDTECH,医疗技术,,6859,USD,millions,derived,SEC 10-K 0000200406-22-000022 − 10-Q 0000200406-21-000070
 2021,Q4,2022-01-02,3,segment,Pharmaceutical,Pharmaceutical,制药,,14288,USD,millions,derived,SEC 10-K 0000200406-22-000022 − 10-Q 0000200406-21-000070
 2021,FY,2022-01-02,12,geography,AsiaPacificAfrica,"Asia-Pacific, Africa",亚太及非洲,,17275,USD,millions,reported,SEC 10-K 0000200406-22-000022
 2021,FY,2022-01-02,12,geography,Europe,Europe,欧洲,,23594,USD,millions,reported,SEC 10-K 0000200406-22-000022
 2021,FY,2022-01-02,12,geography,US,United States,美国,,47156,USD,millions,reported,SEC 10-K 0000200406-22-000022
 2021,FY,2022-01-02,12,geography,WesternHemisphereExcludingUS,Western Hemisphere excluding U.S.,西半球（不含美国）,,5750,USD,millions,reported,SEC 10-K 0000200406-22-000022
 2021,FY,2022-01-02,12,segment,Consumer,Consumer Health,消费者健康,,14635,USD,millions,reported,SEC 10-K 0000200406-22-000022
-2021,FY,2022-01-02,12,segment,MedicalDevices,Medical Devices,医疗技术(3),,27060,USD,millions,reported,SEC 10-K 0000200406-22-000022
+2021,FY,2022-01-02,12,segment,MedTech,MEDTECH,医疗技术,,27060,USD,millions,reported,SEC 10-K 0000200406-22-000022
 2021,FY,2022-01-02,12,segment,Pharmaceutical,Pharmaceutical,制药,,52080,USD,millions,reported,SEC 10-K 0000200406-22-000022
 2022,Q1,2022-04-03,3,geography,AsiaPacificAfrica,"Asia-Pacific, Africa",亚太及非洲,,4506,USD,millions,reported,SEC 10-Q 0000200406-22-000048
 2022,Q1,2022-04-03,3,geography,Europe,Europe,欧洲,,6024,USD,millions,reported,SEC 10-Q 0000200406-22-000048
 2022,Q1,2022-04-03,3,geography,US,United States,美国,,11414,USD,millions,reported,SEC 10-Q 0000200406-22-000048
 2022,Q1,2022-04-03,3,geography,WesternHemisphereExcludingUS,"Western Hemisphere, excluding U.S.",西半球（不含美国）,,1482,USD,millions,reported,SEC 10-Q 0000200406-22-000048
 2022,Q1,2022-04-03,3,segment,Consumer,CONSUMER HEALTH,消费者健康,,3586,USD,millions,reported,SEC 10-Q 0000200406-22-000048
-2022,Q1,2022-04-03,3,segment,MedicalDevices,MEDTECH(3),医疗技术(3),,6971,USD,millions,reported,SEC 10-Q 0000200406-22-000048
+2022,Q1,2022-04-03,3,segment,MedTech,MEDTECH,医疗技术,,6971,USD,millions,reported,SEC 10-Q 0000200406-22-000048
 2022,Q1,2022-04-03,3,segment,Pharmaceutical,PHARMACEUTICAL,制药,,12869,USD,millions,reported,SEC 10-Q 0000200406-22-000048
 2022,Q2,2022-07-03,3,geography,AsiaPacificAfrica,"Asia-Pacific, Africa",亚太及非洲,,4202,USD,millions,reported,SEC 10-Q 0000200406-22-000071
 2022,Q2,2022-07-03,3,geography,Europe,Europe,欧洲,,6085,USD,millions,reported,SEC 10-Q 0000200406-22-000071
 2022,Q2,2022-07-03,3,geography,US,United States,美国,,12197,USD,millions,reported,SEC 10-Q 0000200406-22-000071
 2022,Q2,2022-07-03,3,geography,WesternHemisphereExcludingUS,"Western Hemisphere, excluding U.S.",西半球（不含美国）,,1536,USD,millions,reported,SEC 10-Q 0000200406-22-000071
 2022,Q2,2022-07-03,3,segment,Consumer,CONSUMER HEALTH (1),消费者健康,,3805,USD,millions,reported,SEC 10-Q 0000200406-22-000071
-2022,Q2,2022-07-03,3,segment,MedicalDevices,MEDTECH(3),医疗技术(3),,6898,USD,millions,reported,SEC 10-Q 0000200406-22-000071
+2022,Q2,2022-07-03,3,segment,MedTech,MEDTECH,医疗技术,,6898,USD,millions,reported,SEC 10-Q 0000200406-22-000071
 2022,Q2,2022-07-03,3,segment,Pharmaceutical,PHARMACEUTICAL(1),制药,,13317,USD,millions,reported,SEC 10-Q 0000200406-22-000071
 2022,Q3,2022-10-02,3,geography,AsiaPacificAfrica,"Asia-Pacific, Africa",亚太及非洲,,4252,USD,millions,reported,SEC 10-Q 0000200406-22-000086
 2022,Q3,2022-10-02,3,geography,Europe,Europe,欧洲,,5524,USD,millions,reported,SEC 10-Q 0000200406-22-000086
 2022,Q3,2022-10-02,3,geography,US,United States,美国,,12453,USD,millions,reported,SEC 10-Q 0000200406-22-000086
 2022,Q3,2022-10-02,3,geography,WesternHemisphereExcludingUS,"Western Hemisphere, excluding U.S.",西半球（不含美国）,,1562,USD,millions,reported,SEC 10-Q 0000200406-22-000086
 2022,Q3,2022-10-02,3,segment,Consumer,CONSUMER HEALTH (1),消费者健康,,3795,USD,millions,reported,SEC 10-Q 0000200406-22-000086
-2022,Q3,2022-10-02,3,segment,MedicalDevices,MEDTECH(3),医疗技术(3),,6782,USD,millions,reported,SEC 10-Q 0000200406-22-000086
+2022,Q3,2022-10-02,3,segment,MedTech,MEDTECH,医疗技术,,6782,USD,millions,reported,SEC 10-Q 0000200406-22-000086
 2022,Q3,2022-10-02,3,segment,Pharmaceutical,PHARMACEUTICAL(1),制药,,13214,USD,millions,reported,SEC 10-Q 0000200406-22-000086
 2022,Q4,2023-01-01,3,geography,AsiaPacificAfrica,"Asia-Pacific, Africa",亚太及非洲,,3829,USD,millions,derived,SEC 10-K 0000200406-23-000016 − 10-Q 0000200406-22-000086
 2022,Q4,2023-01-01,3,geography,Europe,Europe,欧洲,,5816,USD,millions,derived,SEC 10-K 0000200406-23-000016 − 10-Q 0000200406-22-000086
@@ -64,7 +64,7 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2022,FY,2023-01-01,12,geography,US,United States,美国,,48580,USD,millions,reported,SEC 10-K 0000200406-23-000016
 2022,FY,2023-01-01,12,geography,WesternHemisphereExcludingUS,Western Hemisphere excluding U.S.,西半球（不含美国）,,6125,USD,millions,reported,SEC 10-K 0000200406-23-000016
 2022,FY,2023-01-01,12,segment,Consumer,Consumer Health,消费者健康,,14953,USD,millions,reported,SEC 10-K 0000200406-23-000016
-2022,FY,2023-01-01,12,segment,MedTech,Medical Devices,医疗技术,,27427,USD,millions,reported,SEC 10-K 0000200406-23-000016
+2022,FY,2023-01-01,12,segment,MedTech,MEDTECH,医疗技术,,27427,USD,millions,reported,SEC 10-K 0000200406-23-000016
 2022,FY,2023-01-01,12,segment,Pharmaceutical,Pharmaceutical,制药,,52563,USD,millions,reported,SEC 10-K 0000200406-23-000016
 2023,Q1,2023-04-02,3,geography,AsiaPacificAfrica,"Asia-Pacific, Africa",亚太及非洲,,3446,USD,millions,reported,SEC 10-Q 0000200406-24-000049
 2023,Q1,2023-04-02,3,geography,Europe,Europe,欧洲,,5590,USD,millions,reported,SEC 10-Q 0000200406-24-000049
@@ -137,7 +137,7 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2023,Q4,2023-12-31,3,product,Surgery,Surgery,外科手术,MEDTECH,2530,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-23-000102
 2023,Q4,2023-12-31,3,product,Vision,Vision,眼科视力,MEDTECH,1208,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-23-000102
 2023,Q4,2023-12-31,3,segment,InnovativeMedicine,Innovative Medicine,创新药物,,13722,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-24-000096
-2023,Q4,2023-12-31,3,segment,MedTech,MedTech,医疗技术,,7673,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-24-000096
+2023,Q4,2023-12-31,3,segment,MedTech,MEDTECH,医疗技术,,7673,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-24-000096
 2023,FY,2023-12-31,12,geography,AsiaPacificAfrica,"Asia-Pacific, Africa",亚太及非洲,,13756,USD,millions,reported,SEC 10-K 0000200406-25-000038
 2023,FY,2023-12-31,12,geography,Europe,Europe,欧洲,,20410,USD,millions,reported,SEC 10-K 0000200406-25-000038
 2023,FY,2023-12-31,12,geography,US,United States,美国,,46444,USD,millions,reported,SEC 10-K 0000200406-25-000038
@@ -153,7 +153,7 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2023,FY,2023-12-31,12,product,Vision,Vision,眼科视力,MEDTECH,5072,USD,millions,reported,SEC 10-K 0000200406-25-000038
 2023,FY,2023-12-31,12,product,Cardiovascular,Cardiovascular,心血管,MedTech,6350,USD,millions,reported,SEC 10-K 0000200406-25-000038
 2023,FY,2023-12-31,12,segment,InnovativeMedicine,Innovative Medicine,创新药物,,54759,USD,millions,reported,SEC 10-K 0000200406-25-000038
-2023,FY,2023-12-31,12,segment,MedTech,MedTech,医疗技术,,30400,USD,millions,reported,SEC 10-K 0000200406-25-000038
+2023,FY,2023-12-31,12,segment,MedTech,MEDTECH,医疗技术,,30400,USD,millions,reported,SEC 10-K 0000200406-25-000038
 2024,Q1,2024-03-31,3,geography,AsiaPacificAfrica,"Asia-Pacific, Africa",亚太及非洲,,3406,USD,millions,reported,SEC 10-Q 0000200406-24-000049
 2024,Q1,2024-03-31,3,geography,Europe,Europe,欧洲,,5163,USD,millions,reported,SEC 10-Q 0000200406-24-000049
 2024,Q1,2024-03-31,3,geography,US,United States,美国,,11620,USD,millions,reported,SEC 10-Q 0000200406-24-000049
@@ -213,7 +213,7 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2024,Q4,2024-12-29,3,product,Surgery,Surgery,外科手术,MEDTECH,2507,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-24-000096
 2024,Q4,2024-12-29,3,product,Vision,Vision,眼科视力,MEDTECH,1303,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-24-000096
 2024,Q4,2024-12-29,3,segment,InnovativeMedicine,Innovative Medicine,创新药物,,14332,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-24-000096
-2024,Q4,2024-12-29,3,segment,MedTech,MedTech,医疗技术,,8188,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-24-000096
+2024,Q4,2024-12-29,3,segment,MedTech,MEDTECH,医疗技术,,8188,USD,millions,derived,SEC 10-K 0000200406-25-000038 − 10-Q 0000200406-24-000096
 2024,FY,2024-12-29,12,geography,AsiaPacificAfrica,"Asia-Pacific, Africa",亚太及非洲,,13593,USD,millions,reported,SEC 10-K 0000200406-25-000038
 2024,FY,2024-12-29,12,geography,Europe,Europe,欧洲,,20212,USD,millions,reported,SEC 10-K 0000200406-25-000038
 2024,FY,2024-12-29,12,geography,US,United States,美国,,50302,USD,millions,reported,SEC 10-K 0000200406-25-000038
@@ -229,7 +229,7 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2024,FY,2024-12-29,12,product,Vision,Vision,眼科视力,MEDTECH,5146,USD,millions,reported,SEC 10-K 0000200406-25-000038
 2024,FY,2024-12-29,12,product,Cardiovascular,Cardiovascular,心血管,MedTech,7707,USD,millions,reported,SEC 10-K 0000200406-25-000038
 2024,FY,2024-12-29,12,segment,InnovativeMedicine,Innovative Medicine,创新药物,,56964,USD,millions,reported,SEC 10-K 0000200406-25-000038
-2024,FY,2024-12-29,12,segment,MedTech,MedTech,医疗技术,,31857,USD,millions,reported,SEC 10-K 0000200406-25-000038
+2024,FY,2024-12-29,12,segment,MedTech,MEDTECH,医疗技术,,31857,USD,millions,reported,SEC 10-K 0000200406-25-000038
 2025,Q1,2025-03-30,3,geography,AsiaPacificAfrica,"Asia-Pacific, Africa",亚太及非洲,,3311,USD,millions,reported,SEC 10-Q 0000200406-25-000119
 2025,Q1,2025-03-30,3,geography,Europe,Europe,欧洲,,5110,USD,millions,reported,SEC 10-Q 0000200406-25-000119
 2025,Q1,2025-03-30,3,geography,US,United States,美国,,12305,USD,millions,reported,SEC 10-Q 0000200406-25-000119
@@ -302,7 +302,7 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2025,Q4,2025-12-28,3,product,Surgery,Surgery,外科手术,MEDTECH,2644,USD,millions,derived,SEC 10-K 0000200406-26-000016 − 10-Q 0000200406-25-000209
 2025,Q4,2025-12-28,3,product,Vision,Vision,眼科视力,MEDTECH,1420,USD,millions,derived,SEC 10-K 0000200406-26-000016 − 10-Q 0000200406-25-000209
 2025,Q4,2025-12-28,3,segment,InnovativeMedicine,Innovative Medicine,创新药物,,15763,USD,millions,derived,SEC 10-K 0000200406-26-000016 − 10-Q 0000200406-25-000209
-2025,Q4,2025-12-28,3,segment,MedTech,MedTech,医疗技术,,8801,USD,millions,derived,SEC 10-K 0000200406-26-000016 − 10-Q 0000200406-25-000209
+2025,Q4,2025-12-28,3,segment,MedTech,MEDTECH,医疗技术,,8801,USD,millions,derived,SEC 10-K 0000200406-26-000016 − 10-Q 0000200406-25-000209
 2025,FY,2025-12-28,12,geography,AsiaPacificAfrica,"Asia-Pacific, Africa",亚太及非洲,,14031,USD,millions,reported,SEC 10-K 0000200406-26-000016
 2025,FY,2025-12-28,12,geography,Europe,Europe,欧洲,,21535,USD,millions,reported,SEC 10-K 0000200406-26-000016
 2025,FY,2025-12-28,12,geography,US,United States,美国,,53752,USD,millions,reported,SEC 10-K 0000200406-26-000016
@@ -318,7 +318,7 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2025,FY,2025-12-28,12,product,Vision,Vision,眼科视力,MEDTECH,5468,USD,millions,reported,SEC 10-K 0000200406-26-000016
 2025,FY,2025-12-28,12,product,Cardiovascular,Cardiovascular,心血管,MedTech,8928,USD,millions,reported,SEC 10-K 0000200406-26-000016
 2025,FY,2025-12-28,12,segment,InnovativeMedicine,Innovative Medicine,创新药物,,60401,USD,millions,reported,SEC 10-K 0000200406-26-000016
-2025,FY,2025-12-28,12,segment,MedTech,MedTech,医疗技术,,33792,USD,millions,reported,SEC 10-K 0000200406-26-000016
+2025,FY,2025-12-28,12,segment,MedTech,MEDTECH,医疗技术,,33792,USD,millions,reported,SEC 10-K 0000200406-26-000016
 2026,Q1,2026-03-29,3,geography,AsiaPacificAfrica,"Asia-Pacific, Africa",亚太及非洲,,3591,USD,millions,reported,SEC 10-Q 0000200406-26-000087
 2026,Q1,2026-03-29,3,geography,Europe,Europe,欧洲,,5848,USD,millions,reported,SEC 10-Q 0000200406-26-000087
 2026,Q1,2026-03-29,3,geography,US,United States,美国,,13330,USD,millions,reported,SEC 10-Q 0000200406-26-000087

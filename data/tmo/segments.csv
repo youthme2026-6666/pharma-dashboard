@@ -3,110 +3,110 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2021,Q1,2021-04-03,3,geography,Europe,Europe,欧洲,,2785,USD,millions,reported,SEC 10-Q 0000097745-22-000027
 2021,Q1,2021-04-03,3,geography,NorthAmerica,North America,北美地区,,5101,USD,millions,reported,SEC 10-Q 0000097745-22-000027
 2021,Q1,2021-04-03,3,geography,OtherRegions,Other Regions,其他地区,,311,USD,millions,reported,SEC 10-Q 0000097745-22-000027
-2021,Q1,2021-04-03,3,product,Instruments,Instruments,仪器设备,Analytical Instruments,1892,USD,millions,reported,SEC 10-Q 0000097745-22-000027
-2021,Q1,2021-04-03,3,product,Consumables,Consumables,耗材,Laboratory Products and Biopharma Services,5964,USD,millions,reported,SEC 10-Q 0000097745-22-000027
+2021,Q1,2021-04-03,3,product,ProductInstruments,Instruments,仪器设备,Analytical Instruments,1892,USD,millions,reported,SEC 10-Q 0000097745-22-000027
+2021,Q1,2021-04-03,3,product,ProductConsumables,Consumables,耗材,Laboratory Products and Biopharma Services,5964,USD,millions,reported,SEC 10-Q 0000097745-22-000027
 2021,Q1,2021-04-03,3,product,Service,Service,服务收入,Laboratory Products and Biopharma Services,2050,USD,millions,reported,SEC 10-Q 0000097745-22-000027
 2021,Q2,2021-07-03,3,geography,AsiaPacific,Asia Pacific,亚太地区,,1749,USD,millions,reported,SEC 10-Q 0000097745-22-000047
 2021,Q2,2021-07-03,3,geography,Europe,Europe,欧洲,,2695,USD,millions,reported,SEC 10-Q 0000097745-22-000047
 2021,Q2,2021-07-03,3,geography,NorthAmerica,North America,北美地区,,4529,USD,millions,reported,SEC 10-Q 0000097745-22-000047
 2021,Q2,2021-07-03,3,geography,OtherRegions,Other Regions,其他地区,,300,USD,millions,reported,SEC 10-Q 0000097745-22-000047
-2021,Q2,2021-07-03,3,product,Instruments,Instruments,仪器设备,Analytical Instruments,1842,USD,millions,reported,SEC 10-Q 0000097745-22-000047
-2021,Q2,2021-07-03,3,product,Consumables,Consumables,耗材,Laboratory Products and Biopharma Services,5372,USD,millions,reported,SEC 10-Q 0000097745-22-000047
+2021,Q2,2021-07-03,3,product,ProductInstruments,Instruments,仪器设备,Analytical Instruments,1842,USD,millions,reported,SEC 10-Q 0000097745-22-000047
+2021,Q2,2021-07-03,3,product,ProductConsumables,Consumables,耗材,Laboratory Products and Biopharma Services,5372,USD,millions,reported,SEC 10-Q 0000097745-22-000047
 2021,Q2,2021-07-03,3,product,Service,Service,服务收入,Laboratory Products and Biopharma Services,2059,USD,millions,reported,SEC 10-Q 0000097745-22-000047
 2021,Q3,2021-10-02,3,geography,AsiaPacific,Asia-Pacific,亚太地区,,1836,USD,millions,reported,SEC 10-Q 0000097745-22-000057
 2021,Q3,2021-10-02,3,geography,Europe,Europe,欧洲,,2557,USD,millions,reported,SEC 10-Q 0000097745-22-000057
 2021,Q3,2021-10-02,3,geography,NorthAmerica,North America,北美地区,,4662,USD,millions,reported,SEC 10-Q 0000097745-22-000057
 2021,Q3,2021-10-02,3,geography,OtherRegions,Other regions,其他地区,,275,USD,millions,reported,SEC 10-Q 0000097745-22-000057
-2021,Q3,2021-10-02,3,product,Instruments,Instruments,仪器设备,Analytical Instruments,1816,USD,millions,reported,SEC 10-Q 0000097745-22-000057
-2021,Q3,2021-10-02,3,product,Consumables,Consumables,耗材,Laboratory Products and Biopharma Services,5544,USD,millions,reported,SEC 10-Q 0000097745-22-000057
+2021,Q3,2021-10-02,3,product,ProductInstruments,Instruments,仪器设备,Analytical Instruments,1816,USD,millions,reported,SEC 10-Q 0000097745-22-000057
+2021,Q3,2021-10-02,3,product,ProductConsumables,Consumables,耗材,Laboratory Products and Biopharma Services,5544,USD,millions,reported,SEC 10-Q 0000097745-22-000057
 2021,Q3,2021-10-02,3,product,Service,Service revenues,服务收入,Laboratory Products and Biopharma Services,1970,USD,millions,reported,SEC 10-Q 0000097745-22-000057
 2021,Q4,2021-12-31,3,geography,AsiaPacific,Asia-Pacific,亚太地区,,1924,USD,millions,derived,SEC 10-K 0000097745-23-000008 − 10-Q 0000097745-22-000057
 2021,Q4,2021-12-31,3,geography,Europe,Europe,欧洲,,3097,USD,millions,derived,SEC 10-K 0000097745-23-000008 − 10-Q 0000097745-22-000057
 2021,Q4,2021-12-31,3,geography,NorthAmerica,North America,北美地区,,5367,USD,millions,derived,SEC 10-K 0000097745-23-000008 − 10-Q 0000097745-22-000057
 2021,Q4,2021-12-31,3,geography,OtherRegions,Other regions,其他地区,,314,USD,millions,derived,SEC 10-K 0000097745-23-000008 − 10-Q 0000097745-22-000057
-2021,Q4,2021-12-31,3,product,Instruments,Instruments,仪器设备,Analytical Instruments,2203,USD,millions,derived,SEC 10-K 0000097745-23-000008 − 10-Q 0000097745-22-000057
-2021,Q4,2021-12-31,3,product,Consumables,Consumables,耗材,Laboratory Products and Biopharma Services,5728,USD,millions,derived,SEC 10-K 0000097745-23-000008 − 10-Q 0000097745-22-000057
+2021,Q4,2021-12-31,3,product,ProductInstruments,Instruments,仪器设备,Analytical Instruments,2203,USD,millions,derived,SEC 10-K 0000097745-23-000008 − 10-Q 0000097745-22-000057
+2021,Q4,2021-12-31,3,product,ProductConsumables,Consumables,耗材,Laboratory Products and Biopharma Services,5728,USD,millions,derived,SEC 10-K 0000097745-23-000008 − 10-Q 0000097745-22-000057
 2021,Q4,2021-12-31,3,product,Service,Service revenues,服务收入,Laboratory Products and Biopharma Services,2771,USD,millions,derived,SEC 10-K 0000097745-23-000008 − 10-Q 0000097745-22-000057
 2021,FY,2021-12-31,12,geography,AsiaPacific,Asia-Pacific,亚太地区,,7218,USD,millions,reported,SEC 10-K 0000097745-23-000008
 2021,FY,2021-12-31,12,geography,Europe,Europe,欧洲,,11134,USD,millions,reported,SEC 10-K 0000097745-23-000008
 2021,FY,2021-12-31,12,geography,NorthAmerica,North America,北美地区,,19659,USD,millions,reported,SEC 10-K 0000097745-23-000008
 2021,FY,2021-12-31,12,geography,OtherRegions,Other regions,其他地区,,1200,USD,millions,reported,SEC 10-K 0000097745-23-000008
-2021,FY,2021-12-31,12,product,Instruments,Instruments,仪器设备,Analytical Instruments,7753,USD,millions,reported,SEC 10-K 0000097745-23-000008
-2021,FY,2021-12-31,12,product,Consumables,Consumables,耗材,Laboratory Products and Biopharma Services,22608,USD,millions,reported,SEC 10-K 0000097745-23-000008
+2021,FY,2021-12-31,12,product,ProductInstruments,Instruments,仪器设备,Analytical Instruments,7753,USD,millions,reported,SEC 10-K 0000097745-23-000008
+2021,FY,2021-12-31,12,product,ProductConsumables,Consumables,耗材,Laboratory Products and Biopharma Services,22608,USD,millions,reported,SEC 10-K 0000097745-23-000008
 2021,FY,2021-12-31,12,product,Service,Service revenues,服务收入,Laboratory Products and Biopharma Services,8850,USD,millions,reported,SEC 10-K 0000097745-23-000008
 2022,Q1,2022-04-02,3,geography,AsiaPacific,Asia Pacific,亚太地区,,2064,USD,millions,reported,SEC 10-Q 0000097745-22-000027
 2022,Q1,2022-04-02,3,geography,Europe,Europe,欧洲,,3050,USD,millions,reported,SEC 10-Q 0000097745-22-000027
 2022,Q1,2022-04-02,3,geography,NorthAmerica,North America,北美地区,,6323,USD,millions,reported,SEC 10-Q 0000097745-22-000027
 2022,Q1,2022-04-02,3,geography,OtherRegions,Other Regions,其他地区,,381,USD,millions,reported,SEC 10-Q 0000097745-22-000027
-2022,Q1,2022-04-02,3,product,Instruments,Instruments,仪器设备,Analytical Instruments,1907,USD,millions,reported,SEC 10-Q 0000097745-22-000027
-2022,Q1,2022-04-02,3,product,Consumables,Consumables,耗材,Laboratory Products and Biopharma Services,6110,USD,millions,reported,SEC 10-Q 0000097745-22-000027
+2022,Q1,2022-04-02,3,product,ProductInstruments,Instruments,仪器设备,Analytical Instruments,1907,USD,millions,reported,SEC 10-Q 0000097745-22-000027
+2022,Q1,2022-04-02,3,product,ProductConsumables,Consumables,耗材,Laboratory Products and Biopharma Services,6110,USD,millions,reported,SEC 10-Q 0000097745-22-000027
 2022,Q1,2022-04-02,3,product,Service,Service,服务收入,Laboratory Products and Biopharma Services,3801,USD,millions,reported,SEC 10-Q 0000097745-22-000027
 2022,Q2,2022-07-02,3,geography,AsiaPacific,Asia Pacific,亚太地区,,2042,USD,millions,reported,SEC 10-Q 0000097745-22-000047
 2022,Q2,2022-07-02,3,geography,Europe,Europe,欧洲,,2551,USD,millions,reported,SEC 10-Q 0000097745-22-000047
 2022,Q2,2022-07-02,3,geography,NorthAmerica,North America,北美地区,,6032,USD,millions,reported,SEC 10-Q 0000097745-22-000047
 2022,Q2,2022-07-02,3,geography,OtherRegions,Other Regions,其他地区,,345,USD,millions,reported,SEC 10-Q 0000097745-22-000047
-2022,Q2,2022-07-02,3,product,Instruments,Instruments,仪器设备,Analytical Instruments,2010,USD,millions,reported,SEC 10-Q 0000097745-22-000047
-2022,Q2,2022-07-02,3,product,Consumables,Consumables,耗材,Laboratory Products and Biopharma Services,4993,USD,millions,reported,SEC 10-Q 0000097745-22-000047
+2022,Q2,2022-07-02,3,product,ProductInstruments,Instruments,仪器设备,Analytical Instruments,2010,USD,millions,reported,SEC 10-Q 0000097745-22-000047
+2022,Q2,2022-07-02,3,product,ProductConsumables,Consumables,耗材,Laboratory Products and Biopharma Services,4993,USD,millions,reported,SEC 10-Q 0000097745-22-000047
 2022,Q2,2022-07-02,3,product,Service,Service,服务收入,Laboratory Products and Biopharma Services,3967,USD,millions,reported,SEC 10-Q 0000097745-22-000047
 2022,Q3,2022-10-01,3,geography,AsiaPacific,Asia-Pacific,亚太地区,,1971,USD,millions,reported,SEC 10-Q 0000097745-22-000057
 2022,Q3,2022-10-01,3,geography,Europe,Europe,欧洲,,2406,USD,millions,reported,SEC 10-Q 0000097745-22-000057
 2022,Q3,2022-10-01,3,geography,NorthAmerica,North America,北美地区,,5962,USD,millions,reported,SEC 10-Q 0000097745-22-000057
 2022,Q3,2022-10-01,3,geography,OtherRegions,Other regions,其他地区,,338,USD,millions,reported,SEC 10-Q 0000097745-22-000057
-2022,Q3,2022-10-01,3,product,Instruments,Instruments,仪器设备,Analytical Instruments,1932,USD,millions,reported,SEC 10-Q 0000097745-22-000057
-2022,Q3,2022-10-01,3,product,Consumables,Consumables,耗材,Laboratory Products and Biopharma Services,4651,USD,millions,reported,SEC 10-Q 0000097745-22-000057
+2022,Q3,2022-10-01,3,product,ProductInstruments,Instruments,仪器设备,Analytical Instruments,1932,USD,millions,reported,SEC 10-Q 0000097745-22-000057
+2022,Q3,2022-10-01,3,product,ProductConsumables,Consumables,耗材,Laboratory Products and Biopharma Services,4651,USD,millions,reported,SEC 10-Q 0000097745-22-000057
 2022,Q3,2022-10-01,3,product,Service,Service revenues,服务收入,Laboratory Products and Biopharma Services,4094,USD,millions,reported,SEC 10-Q 0000097745-22-000057
 2022,Q4,2022-12-31,3,geography,AsiaPacific,Asia-Pacific,亚太地区,,2038,USD,millions,derived,SEC 10-K 0000097745-23-000008 − 10-Q 0000097745-22-000057
 2022,Q4,2022-12-31,3,geography,Europe,Europe,欧洲,,2755,USD,millions,derived,SEC 10-K 0000097745-23-000008 − 10-Q 0000097745-22-000057
 2022,Q4,2022-12-31,3,geography,NorthAmerica,North America,北美地区,,6277,USD,millions,derived,SEC 10-K 0000097745-23-000008 − 10-Q 0000097745-22-000057
 2022,Q4,2022-12-31,3,geography,OtherRegions,Other regions,其他地区,,380,USD,millions,derived,SEC 10-K 0000097745-23-000008 − 10-Q 0000097745-22-000057
-2022,Q4,2022-12-31,3,product,Instruments,Instruments,仪器设备,Analytical Instruments,2075,USD,millions,derived,SEC 10-K 0000097745-23-000008 − 10-Q 0000097745-22-000057
-2022,Q4,2022-12-31,3,product,Consumables,Consumables,耗材,Laboratory Products and Biopharma Services,4870,USD,millions,derived,SEC 10-K 0000097745-23-000008 − 10-Q 0000097745-22-000057
+2022,Q4,2022-12-31,3,product,ProductInstruments,Instruments,仪器设备,Analytical Instruments,2075,USD,millions,derived,SEC 10-K 0000097745-23-000008 − 10-Q 0000097745-22-000057
+2022,Q4,2022-12-31,3,product,ProductConsumables,Consumables,耗材,Laboratory Products and Biopharma Services,4870,USD,millions,derived,SEC 10-K 0000097745-23-000008 − 10-Q 0000097745-22-000057
 2022,Q4,2022-12-31,3,product,Service,Service revenues,服务收入,Laboratory Products and Biopharma Services,4505,USD,millions,derived,SEC 10-K 0000097745-23-000008 − 10-Q 0000097745-22-000057
 2022,FY,2022-12-31,12,geography,AsiaPacific,Asia-Pacific,亚太地区,,8115,USD,millions,reported,SEC 10-K 0000097745-23-000008
 2022,FY,2022-12-31,12,geography,Europe,Europe,欧洲,,10762,USD,millions,reported,SEC 10-K 0000097745-23-000008
 2022,FY,2022-12-31,12,geography,NorthAmerica,North America,北美地区,,24594,USD,millions,reported,SEC 10-K 0000097745-23-000008
 2022,FY,2022-12-31,12,geography,OtherRegions,Other regions,其他地区,,1444,USD,millions,reported,SEC 10-K 0000097745-23-000008
-2022,FY,2022-12-31,12,product,Instruments,Instruments,仪器设备,Analytical Instruments,7924,USD,millions,reported,SEC 10-K 0000097745-23-000008
-2022,FY,2022-12-31,12,product,Consumables,Consumables,耗材,Laboratory Products and Biopharma Services,20624,USD,millions,reported,SEC 10-K 0000097745-23-000008
+2022,FY,2022-12-31,12,product,ProductInstruments,Instruments,仪器设备,Analytical Instruments,7924,USD,millions,reported,SEC 10-K 0000097745-23-000008
+2022,FY,2022-12-31,12,product,ProductConsumables,Consumables,耗材,Laboratory Products and Biopharma Services,20624,USD,millions,reported,SEC 10-K 0000097745-23-000008
 2022,FY,2022-12-31,12,product,Service,Service revenues,服务收入,Laboratory Products and Biopharma Services,16367,USD,millions,reported,SEC 10-K 0000097745-23-000008
 2022,FY,2022-12-31,12,segment,AnalyticalInstruments,Analytical Instruments,分析仪器,,6441,USD,millions,reported,SEC 10-K 0000097745-25-000010
-2022,FY,2022-12-31,12,segment,LaboratoryProductsandServices,Laboratory Products and Biopharma Services,实验室产品和生物制药服务,,22304,USD,millions,reported,SEC 10-K 0000097745-25-000010
+2022,FY,2022-12-31,12,segment,LaboratoryProductsAndBiopharmaServices,Laboratory Products and Biopharma Services,实验室产品和生物制药服务,,22304,USD,millions,reported,SEC 10-K 0000097745-25-000010
 2022,FY,2022-12-31,12,segment,LifeSciencesSolutions,Life Sciences Solutions,生命科学解决方案,,11565,USD,millions,reported,SEC 10-K 0000097745-25-000010
 2022,FY,2022-12-31,12,segment,SpecialtyDiagnostics,Specialty Diagnostics,专业诊断,,4604,USD,millions,reported,SEC 10-K 0000097745-25-000010
 2023,Q1,2023-04-01,3,geography,AsiaPacific,Asia-Pacific,亚太地区,,1986,USD,millions,reported,SEC 10-Q 0000097745-23-000033
 2023,Q1,2023-04-01,3,geography,Europe,Europe,欧洲,,2601,USD,millions,reported,SEC 10-Q 0000097745-23-000033
 2023,Q1,2023-04-01,3,geography,NorthAmerica,North America,北美地区,,5778,USD,millions,reported,SEC 10-Q 0000097745-23-000033
 2023,Q1,2023-04-01,3,geography,OtherRegions,Other regions,其他地区,,345,USD,millions,reported,SEC 10-Q 0000097745-23-000033
-2023,Q1,2023-04-01,3,product,Instruments,Instruments,仪器设备,Analytical Instruments,1898,USD,millions,reported,SEC 10-Q 0000097745-23-000033
-2023,Q1,2023-04-01,3,product,Consumables,Consumables,耗材,Laboratory Products and Biopharma Services,4506,USD,millions,reported,SEC 10-Q 0000097745-23-000033
+2023,Q1,2023-04-01,3,product,ProductInstruments,Instruments,仪器设备,Analytical Instruments,1898,USD,millions,reported,SEC 10-Q 0000097745-23-000033
+2023,Q1,2023-04-01,3,product,ProductConsumables,Consumables,耗材,Laboratory Products and Biopharma Services,4506,USD,millions,reported,SEC 10-Q 0000097745-23-000033
 2023,Q1,2023-04-01,3,product,Service,Service revenues,服务收入,Laboratory Products and Biopharma Services,4306,USD,millions,reported,SEC 10-Q 0000097745-23-000033
 2023,Q2,2023-07-01,3,geography,AsiaPacific,Asia-Pacific,亚太地区,,1902,USD,millions,reported,SEC 10-Q 0000097745-23-000059
 2023,Q2,2023-07-01,3,geography,Europe,Europe,欧洲,,2654,USD,millions,reported,SEC 10-Q 0000097745-23-000059
 2023,Q2,2023-07-01,3,geography,NorthAmerica,North America,北美地区,,5714,USD,millions,reported,SEC 10-Q 0000097745-23-000059
 2023,Q2,2023-07-01,3,geography,OtherRegions,Other regions,其他地区,,417,USD,millions,reported,SEC 10-Q 0000097745-23-000059
-2023,Q2,2023-07-01,3,product,Instruments,Instruments,仪器设备,Analytical Instruments,1838,USD,millions,reported,SEC 10-Q 0000097745-23-000059
-2023,Q2,2023-07-01,3,product,Consumables,Consumables,耗材,Laboratory Products and Biopharma Services,4433,USD,millions,reported,SEC 10-Q 0000097745-23-000059
+2023,Q2,2023-07-01,3,product,ProductInstruments,Instruments,仪器设备,Analytical Instruments,1838,USD,millions,reported,SEC 10-Q 0000097745-23-000059
+2023,Q2,2023-07-01,3,product,ProductConsumables,Consumables,耗材,Laboratory Products and Biopharma Services,4433,USD,millions,reported,SEC 10-Q 0000097745-23-000059
 2023,Q2,2023-07-01,3,product,Service,Service revenues,服务收入,Laboratory Products and Biopharma Services,4416,USD,millions,reported,SEC 10-Q 0000097745-23-000059
 2023,Q3,2023-09-30,3,geography,AsiaPacific,Asia-Pacific,亚太地区,,1913,USD,millions,reported,SEC 10-Q 0000097745-23-000069
 2023,Q3,2023-09-30,3,geography,Europe,Europe,欧洲,,2643,USD,millions,reported,SEC 10-Q 0000097745-23-000069
 2023,Q3,2023-09-30,3,geography,NorthAmerica,North America,北美地区,,5668,USD,millions,reported,SEC 10-Q 0000097745-23-000069
 2023,Q3,2023-09-30,3,geography,OtherRegions,Other regions,其他地区,,350,USD,millions,reported,SEC 10-Q 0000097745-23-000069
-2023,Q3,2023-09-30,3,product,Instruments,Instruments,仪器设备,Analytical Instruments,1868,USD,millions,reported,SEC 10-Q 0000097745-23-000069
-2023,Q3,2023-09-30,3,product,Consumables,Consumables,耗材,Laboratory Products and Biopharma Services,4289,USD,millions,reported,SEC 10-Q 0000097745-23-000069
+2023,Q3,2023-09-30,3,product,ProductInstruments,Instruments,仪器设备,Analytical Instruments,1868,USD,millions,reported,SEC 10-Q 0000097745-23-000069
+2023,Q3,2023-09-30,3,product,ProductConsumables,Consumables,耗材,Laboratory Products and Biopharma Services,4289,USD,millions,reported,SEC 10-Q 0000097745-23-000069
 2023,Q3,2023-09-30,3,product,Service,Service revenues,服务收入,Laboratory Products and Biopharma Services,4417,USD,millions,reported,SEC 10-Q 0000097745-23-000069
 2023,Q4,2023-12-31,3,geography,AsiaPacific,Asia-Pacific,亚太地区,,2072,USD,millions,derived,SEC 10-K 0000097745-24-000007 − 10-Q 0000097745-23-000069
 2023,Q4,2023-12-31,3,geography,Europe,Europe,欧洲,,2843,USD,millions,derived,SEC 10-K 0000097745-24-000007 − 10-Q 0000097745-23-000069
 2023,Q4,2023-12-31,3,geography,NorthAmerica,North America,北美地区,,5604,USD,millions,derived,SEC 10-K 0000097745-24-000007 − 10-Q 0000097745-23-000069
 2023,Q4,2023-12-31,3,geography,OtherRegions,Other regions,其他地区,,367,USD,millions,derived,SEC 10-K 0000097745-24-000007 − 10-Q 0000097745-23-000069
-2023,Q4,2023-12-31,3,product,Instruments,Instruments,仪器设备,Analytical Instruments,2042,USD,millions,derived,SEC 10-K 0000097745-24-000007 − 10-Q 0000097745-23-000069
-2023,Q4,2023-12-31,3,product,Consumables,Consumables,耗材,Laboratory Products and Biopharma Services,4369,USD,millions,derived,SEC 10-K 0000097745-24-000007 − 10-Q 0000097745-23-000069
+2023,Q4,2023-12-31,3,product,ProductInstruments,Instruments,仪器设备,Analytical Instruments,2042,USD,millions,derived,SEC 10-K 0000097745-24-000007 − 10-Q 0000097745-23-000069
+2023,Q4,2023-12-31,3,product,ProductConsumables,Consumables,耗材,Laboratory Products and Biopharma Services,4369,USD,millions,derived,SEC 10-K 0000097745-24-000007 − 10-Q 0000097745-23-000069
 2023,Q4,2023-12-31,3,product,Service,Service revenues,服务收入,Laboratory Products and Biopharma Services,4475,USD,millions,derived,SEC 10-K 0000097745-24-000007 − 10-Q 0000097745-23-000069
 2023,FY,2023-12-31,12,geography,AsiaPacific,Asia-Pacific,亚太地区,,7873,USD,millions,reported,SEC 10-K 0000097745-24-000007
 2023,FY,2023-12-31,12,geography,Europe,Europe,欧洲,,10741,USD,millions,reported,SEC 10-K 0000097745-24-000007
 2023,FY,2023-12-31,12,geography,NorthAmerica,North America,北美地区,,22764,USD,millions,reported,SEC 10-K 0000097745-24-000007
 2023,FY,2023-12-31,12,geography,OtherRegions,Other regions,其他地区,,1479,USD,millions,reported,SEC 10-K 0000097745-24-000007
-2023,FY,2023-12-31,12,product,Instruments,Instruments,仪器设备,Analytical Instruments,7646,USD,millions,reported,SEC 10-K 0000097745-24-000007
-2023,FY,2023-12-31,12,product,Consumables,Consumables,耗材,Laboratory Products and Biopharma Services,17597,USD,millions,reported,SEC 10-K 0000097745-24-000007
+2023,FY,2023-12-31,12,product,ProductInstruments,Instruments,仪器设备,Analytical Instruments,7646,USD,millions,reported,SEC 10-K 0000097745-24-000007
+2023,FY,2023-12-31,12,product,ProductConsumables,Consumables,耗材,Laboratory Products and Biopharma Services,17597,USD,millions,reported,SEC 10-K 0000097745-24-000007
 2023,FY,2023-12-31,12,product,Service,Service revenues,服务收入,Laboratory Products and Biopharma Services,17614,USD,millions,reported,SEC 10-K 0000097745-24-000007
 2023,FY,2023-12-31,12,segment,AnalyticalInstruments,Analytical Instruments,分析仪器,,7101,USD,millions,reported,SEC 10-K 0000097745-26-000018
 2023,FY,2023-12-31,12,segment,LaboratoryProductsAndBiopharmaServices,Laboratory Products and Biopharma Services,实验室产品和生物制药服务,,22888,USD,millions,reported,SEC 10-K 0000097745-26-000018
@@ -116,30 +116,30 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2024,Q1,2024-03-30,3,geography,Europe,Europe,欧洲,,2619,USD,millions,reported,SEC 10-Q 0000097745-24-000023
 2024,Q1,2024-03-30,3,geography,NorthAmerica,North America,北美地区,,5519,USD,millions,reported,SEC 10-Q 0000097745-24-000023
 2024,Q1,2024-03-30,3,geography,OtherRegions,Other regions,其他地区,,346,USD,millions,reported,SEC 10-Q 0000097745-24-000023
-2024,Q1,2024-03-30,3,product,Instruments,Instruments,仪器设备,Analytical Instruments,1627,USD,millions,reported,SEC 10-Q 0000097745-24-000023
-2024,Q1,2024-03-30,3,product,Consumables,Consumables,耗材,Laboratory Products and Biopharma Services,4328,USD,millions,reported,SEC 10-Q 0000097745-24-000023
+2024,Q1,2024-03-30,3,product,ProductInstruments,Instruments,仪器设备,Analytical Instruments,1627,USD,millions,reported,SEC 10-Q 0000097745-24-000023
+2024,Q1,2024-03-30,3,product,ProductConsumables,Consumables,耗材,Laboratory Products and Biopharma Services,4328,USD,millions,reported,SEC 10-Q 0000097745-24-000023
 2024,Q1,2024-03-30,3,product,Service,Service revenues,服务收入,Laboratory Products and Biopharma Services,4390,USD,millions,reported,SEC 10-Q 0000097745-24-000023
 2024,Q1,2024-03-30,3,segment,AnalyticalInstruments,Analytical Instruments,分析仪器,,1629,USD,millions,reported,SEC 10-Q 0000097745-25-000041
-2024,Q1,2024-03-30,3,segment,LaboratoryProductsandServices,Laboratory Products and Biopharma Services,实验室产品和生物制药服务,,5686,USD,millions,reported,SEC 10-Q 0000097745-25-000041
+2024,Q1,2024-03-30,3,segment,LaboratoryProductsAndBiopharmaServices,Laboratory Products and Biopharma Services,实验室产品和生物制药服务,,5686,USD,millions,reported,SEC 10-Q 0000097745-25-000041
 2024,Q1,2024-03-30,3,segment,LifeSciencesSolutions,Life Sciences Solutions,生命科学解决方案,,1930,USD,millions,reported,SEC 10-Q 0000097745-25-000041
 2024,Q1,2024-03-30,3,segment,SpecialtyDiagnostics,Specialty Diagnostics,专业诊断,,1099,USD,millions,reported,SEC 10-Q 0000097745-25-000041
 2024,Q2,2024-06-29,3,geography,AsiaPacific,Asia-Pacific,亚太地区,,1971,USD,millions,reported,SEC 10-Q 0000097745-24-000040
 2024,Q2,2024-06-29,3,geography,Europe,Europe,欧洲,,2663,USD,millions,reported,SEC 10-Q 0000097745-24-000040
 2024,Q2,2024-06-29,3,geography,NorthAmerica,North America,北美地区,,5529,USD,millions,reported,SEC 10-Q 0000097745-24-000040
 2024,Q2,2024-06-29,3,geography,OtherRegions,Other regions,其他地区,,379,USD,millions,reported,SEC 10-Q 0000097745-24-000040
-2024,Q2,2024-06-29,3,product,Instruments,Instruments,仪器设备,Analytical Instruments,1800,USD,millions,reported,SEC 10-Q 0000097745-24-000040
-2024,Q2,2024-06-29,3,product,Consumables,Consumables,耗材,Laboratory Products and Biopharma Services,4363,USD,millions,reported,SEC 10-Q 0000097745-24-000040
+2024,Q2,2024-06-29,3,product,ProductInstruments,Instruments,仪器设备,Analytical Instruments,1800,USD,millions,reported,SEC 10-Q 0000097745-24-000040
+2024,Q2,2024-06-29,3,product,ProductConsumables,Consumables,耗材,Laboratory Products and Biopharma Services,4363,USD,millions,reported,SEC 10-Q 0000097745-24-000040
 2024,Q2,2024-06-29,3,product,Service,Service revenues,服务收入,Laboratory Products and Biopharma Services,4378,USD,millions,reported,SEC 10-Q 0000097745-24-000040
 2024,Q2,2024-06-29,3,segment,AnalyticalInstruments,Analytical Instruments,分析仪器,,1727,USD,millions,reported,SEC 10-Q 0000097745-25-000101
-2024,Q2,2024-06-29,3,segment,LaboratoryProductsAndBiopharmaServicesSegment,Laboratory Products and Biopharma Services,实验室产品和生物制药服务分部,,5719,USD,millions,reported,SEC 10-Q 0000097745-25-000101
+2024,Q2,2024-06-29,3,segment,LaboratoryProductsAndBiopharmaServices,Laboratory Products and Biopharma Services,实验室产品和生物制药服务,,5719,USD,millions,reported,SEC 10-Q 0000097745-25-000101
 2024,Q2,2024-06-29,3,segment,LifeSciencesSolutions,Life Sciences Solutions,生命科学解决方案,,1996,USD,millions,reported,SEC 10-Q 0000097745-25-000101
 2024,Q2,2024-06-29,3,segment,SpecialtyDiagnostics,Specialty Diagnostics,专业诊断,,1100,USD,millions,reported,SEC 10-Q 0000097745-25-000101
 2024,Q3,2024-09-28,3,geography,AsiaPacific,Asia-Pacific,亚太地区,,1923,USD,millions,reported,SEC 10-Q 0000097745-24-000046
 2024,Q3,2024-09-28,3,geography,Europe,Europe,欧洲,,2686,USD,millions,reported,SEC 10-Q 0000097745-24-000046
 2024,Q3,2024-09-28,3,geography,NorthAmerica,North America,北美地区,,5591,USD,millions,reported,SEC 10-Q 0000097745-24-000046
 2024,Q3,2024-09-28,3,geography,OtherRegions,Other regions,其他地区,,397,USD,millions,reported,SEC 10-Q 0000097745-24-000046
-2024,Q3,2024-09-28,3,product,Instruments,Instruments,仪器设备,Analytical Instruments,1769,USD,millions,reported,SEC 10-Q 0000097745-24-000046
-2024,Q3,2024-09-28,3,product,Consumables,Consumables,耗材,Laboratory Products and Biopharma Services,4379,USD,millions,reported,SEC 10-Q 0000097745-24-000046
+2024,Q3,2024-09-28,3,product,ProductInstruments,Instruments,仪器设备,Analytical Instruments,1769,USD,millions,reported,SEC 10-Q 0000097745-24-000046
+2024,Q3,2024-09-28,3,product,ProductConsumables,Consumables,耗材,Laboratory Products and Biopharma Services,4379,USD,millions,reported,SEC 10-Q 0000097745-24-000046
 2024,Q3,2024-09-28,3,product,Service,Service revenues,服务收入,Laboratory Products and Biopharma Services,4450,USD,millions,reported,SEC 10-Q 0000097745-24-000046
 2024,Q3,2024-09-28,3,segment,AnalyticalInstruments,Analytical Instruments,分析仪器,,1776,USD,millions,reported,SEC 10-Q 0000097745-25-000159
 2024,Q3,2024-09-28,3,segment,LaboratoryProductsAndBiopharmaServices,Laboratory Products and Biopharma Services,实验室产品和生物制药服务,,5701,USD,millions,reported,SEC 10-Q 0000097745-25-000159
@@ -149,8 +149,8 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2024,Q4,2024-12-31,3,geography,Europe,Europe,欧洲,,2889,USD,millions,derived,SEC 10-K 0000097745-25-000010 − 10-Q 0000097745-24-000046
 2024,Q4,2024-12-31,3,geography,NorthAmerica,North America,北美地区,,5864,USD,millions,derived,SEC 10-K 0000097745-25-000010 − 10-Q 0000097745-24-000046
 2024,Q4,2024-12-31,3,geography,OtherRegions,Other regions,其他地区,,439,USD,millions,derived,SEC 10-K 0000097745-25-000010 − 10-Q 0000097745-24-000046
-2024,Q4,2024-12-31,3,product,Instruments,Instruments,仪器设备,Analytical Instruments,2250,USD,millions,derived,SEC 10-K 0000097745-25-000010 − 10-Q 0000097745-24-000046
-2024,Q4,2024-12-31,3,product,Consumables,Consumables,耗材,Laboratory Products and Biopharma Services,4517,USD,millions,derived,SEC 10-K 0000097745-25-000010 − 10-Q 0000097745-24-000046
+2024,Q4,2024-12-31,3,product,ProductInstruments,Instruments,仪器设备,Analytical Instruments,2250,USD,millions,derived,SEC 10-K 0000097745-25-000010 − 10-Q 0000097745-24-000046
+2024,Q4,2024-12-31,3,product,ProductConsumables,Consumables,耗材,Laboratory Products and Biopharma Services,4517,USD,millions,derived,SEC 10-K 0000097745-25-000010 − 10-Q 0000097745-24-000046
 2024,Q4,2024-12-31,3,product,Service,Service revenues,服务收入,Laboratory Products and Biopharma Services,4627,USD,millions,derived,SEC 10-K 0000097745-25-000010 − 10-Q 0000097745-24-000046
 2024,Q4,2024-12-31,3,segment,AnalyticalInstruments,Analytical Instruments,分析仪器,,2135,USD,millions,derived,SEC 10-K 0000097745-26-000018 − 10-Q 0000097745-25-000159
 2024,Q4,2024-12-31,3,segment,LaboratoryProductsAndBiopharmaServices,Laboratory Products and Biopharma Services,实验室产品和生物制药服务,,5896,USD,millions,derived,SEC 10-K 0000097745-26-000018 − 10-Q 0000097745-25-000159
@@ -160,8 +160,8 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2024,FY,2024-12-31,12,geography,Europe,Europe,欧洲,,10857,USD,millions,reported,SEC 10-K 0000097745-25-000010
 2024,FY,2024-12-31,12,geography,NorthAmerica,North America,北美地区,,22504,USD,millions,reported,SEC 10-K 0000097745-25-000010
 2024,FY,2024-12-31,12,geography,OtherRegions,Other regions,其他地区,,1561,USD,millions,reported,SEC 10-K 0000097745-25-000010
-2024,FY,2024-12-31,12,product,Instruments,Instruments,仪器设备,Analytical Instruments,7446,USD,millions,reported,SEC 10-K 0000097745-25-000010
-2024,FY,2024-12-31,12,product,Consumables,Consumables,耗材,Laboratory Products and Biopharma Services,17587,USD,millions,reported,SEC 10-K 0000097745-25-000010
+2024,FY,2024-12-31,12,product,ProductInstruments,Instruments,仪器设备,Analytical Instruments,7446,USD,millions,reported,SEC 10-K 0000097745-25-000010
+2024,FY,2024-12-31,12,product,ProductConsumables,Consumables,耗材,Laboratory Products and Biopharma Services,17587,USD,millions,reported,SEC 10-K 0000097745-25-000010
 2024,FY,2024-12-31,12,product,Service,Service revenues,服务收入,Laboratory Products and Biopharma Services,17845,USD,millions,reported,SEC 10-K 0000097745-25-000010
 2024,FY,2024-12-31,12,segment,AnalyticalInstruments,Analytical Instruments,分析仪器,,7267,USD,millions,reported,SEC 10-K 0000097745-26-000018
 2024,FY,2024-12-31,12,segment,LaboratoryProductsAndBiopharmaServices,Laboratory Products and Biopharma Services,实验室产品和生物制药服务,,23002,USD,millions,reported,SEC 10-K 0000097745-26-000018
@@ -171,30 +171,30 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2025,Q1,2025-03-29,3,geography,Europe,Europe,欧洲,,2624,USD,millions,reported,SEC 10-Q 0000097745-25-000041
 2025,Q1,2025-03-29,3,geography,NorthAmerica,North America,北美地区,,5513,USD,millions,reported,SEC 10-Q 0000097745-25-000041
 2025,Q1,2025-03-29,3,geography,OtherRegions,Other regions,其他地区,,337,USD,millions,reported,SEC 10-Q 0000097745-25-000041
-2025,Q1,2025-03-29,3,product,Instruments,Instruments,仪器设备,Analytical Instruments,1626,USD,millions,reported,SEC 10-Q 0000097745-25-000041
-2025,Q1,2025-03-29,3,product,Consumables,Consumables,耗材,Laboratory Products and Biopharma Services,4354,USD,millions,reported,SEC 10-Q 0000097745-25-000041
+2025,Q1,2025-03-29,3,product,ProductInstruments,Instruments,仪器设备,Analytical Instruments,1626,USD,millions,reported,SEC 10-Q 0000097745-25-000041
+2025,Q1,2025-03-29,3,product,ProductConsumables,Consumables,耗材,Laboratory Products and Biopharma Services,4354,USD,millions,reported,SEC 10-Q 0000097745-25-000041
 2025,Q1,2025-03-29,3,product,Service,Service revenues,服务收入,Laboratory Products and Biopharma Services,4384,USD,millions,reported,SEC 10-Q 0000097745-25-000041
 2025,Q1,2025-03-29,3,segment,AnalyticalInstruments,Analytical Instruments,分析仪器,,1677,USD,millions,reported,SEC 10-Q 0000097745-25-000041
-2025,Q1,2025-03-29,3,segment,LaboratoryProductsandServices,Laboratory Products and Biopharma Services,实验室产品和生物制药服务,,5603,USD,millions,reported,SEC 10-Q 0000097745-25-000041
+2025,Q1,2025-03-29,3,segment,LaboratoryProductsAndBiopharmaServices,Laboratory Products and Biopharma Services,实验室产品和生物制药服务,,5603,USD,millions,reported,SEC 10-Q 0000097745-25-000041
 2025,Q1,2025-03-29,3,segment,LifeSciencesSolutions,Life Sciences Solutions,生命科学解决方案,,1954,USD,millions,reported,SEC 10-Q 0000097745-25-000041
 2025,Q1,2025-03-29,3,segment,SpecialtyDiagnostics,Specialty Diagnostics,专业诊断,,1130,USD,millions,reported,SEC 10-Q 0000097745-25-000041
 2025,Q2,2025-06-28,3,geography,AsiaPacific,Asia-Pacific,亚太地区,,1920,USD,millions,reported,SEC 10-Q 0000097745-25-000101
 2025,Q2,2025-06-28,3,geography,Europe,Europe,欧洲,,2830,USD,millions,reported,SEC 10-Q 0000097745-25-000101
 2025,Q2,2025-06-28,3,geography,NorthAmerica,North America,北美地区,,5722,USD,millions,reported,SEC 10-Q 0000097745-25-000101
 2025,Q2,2025-06-28,3,geography,OtherRegions,Other regions,其他地区,,383,USD,millions,reported,SEC 10-Q 0000097745-25-000101
-2025,Q2,2025-06-28,3,product,Instruments,Instruments,仪器设备,Analytical Instruments,1644,USD,millions,reported,SEC 10-Q 0000097745-25-000101
-2025,Q2,2025-06-28,3,product,Consumables,Consumables,耗材,Laboratory Products and Biopharma Services,4606,USD,millions,reported,SEC 10-Q 0000097745-25-000101
+2025,Q2,2025-06-28,3,product,ProductInstruments,Instruments,仪器设备,Analytical Instruments,1644,USD,millions,reported,SEC 10-Q 0000097745-25-000101
+2025,Q2,2025-06-28,3,product,ProductConsumables,Consumables,耗材,Laboratory Products and Biopharma Services,4606,USD,millions,reported,SEC 10-Q 0000097745-25-000101
 2025,Q2,2025-06-28,3,product,Service,Service revenues,服务收入,Laboratory Products and Biopharma Services,4605,USD,millions,reported,SEC 10-Q 0000097745-25-000101
 2025,Q2,2025-06-28,3,segment,AnalyticalInstruments,Analytical Instruments,分析仪器,,1669,USD,millions,reported,SEC 10-Q 0000097745-25-000101
-2025,Q2,2025-06-28,3,segment,LaboratoryProductsAndBiopharmaServicesSegment,Laboratory Products and Biopharma Services,实验室产品和生物制药服务分部,,5953,USD,millions,reported,SEC 10-Q 0000097745-25-000101
+2025,Q2,2025-06-28,3,segment,LaboratoryProductsAndBiopharmaServices,Laboratory Products and Biopharma Services,实验室产品和生物制药服务,,5953,USD,millions,reported,SEC 10-Q 0000097745-25-000101
 2025,Q2,2025-06-28,3,segment,LifeSciencesSolutions,Life Sciences Solutions,生命科学解决方案,,2115,USD,millions,reported,SEC 10-Q 0000097745-25-000101
 2025,Q2,2025-06-28,3,segment,SpecialtyDiagnostics,Specialty Diagnostics,专业诊断,,1118,USD,millions,reported,SEC 10-Q 0000097745-25-000101
 2025,Q3,2025-09-27,3,geography,AsiaPacific,Asia-Pacific,亚太地区,,2013,USD,millions,reported,SEC 10-Q 0000097745-25-000159
 2025,Q3,2025-09-27,3,geography,Europe,Europe,欧洲,,3005,USD,millions,reported,SEC 10-Q 0000097745-25-000159
 2025,Q3,2025-09-27,3,geography,NorthAmerica,North America,北美地区,,5689,USD,millions,reported,SEC 10-Q 0000097745-25-000159
 2025,Q3,2025-09-27,3,geography,OtherRegions,Other regions,其他地区,,415,USD,millions,reported,SEC 10-Q 0000097745-25-000159
-2025,Q3,2025-09-27,3,product,Instruments,Instruments,仪器设备,Analytical Instruments,1811,USD,millions,reported,SEC 10-Q 0000097745-25-000159
-2025,Q3,2025-09-27,3,product,Consumables,Consumables,耗材,Laboratory Products and Biopharma Services,4679,USD,millions,reported,SEC 10-Q 0000097745-25-000159
+2025,Q3,2025-09-27,3,product,ProductInstruments,Instruments,仪器设备,Analytical Instruments,1811,USD,millions,reported,SEC 10-Q 0000097745-25-000159
+2025,Q3,2025-09-27,3,product,ProductConsumables,Consumables,耗材,Laboratory Products and Biopharma Services,4679,USD,millions,reported,SEC 10-Q 0000097745-25-000159
 2025,Q3,2025-09-27,3,product,Service,Service revenues,服务收入,Laboratory Products and Biopharma Services,4633,USD,millions,reported,SEC 10-Q 0000097745-25-000159
 2025,Q3,2025-09-27,3,segment,AnalyticalInstruments,Analytical Instruments,分析仪器,,1847,USD,millions,reported,SEC 10-Q 0000097745-25-000159
 2025,Q3,2025-09-27,3,segment,LaboratoryProductsAndBiopharmaServices,Laboratory Products and Biopharma Services,实验室产品和生物制药服务,,5927,USD,millions,reported,SEC 10-Q 0000097745-25-000159
@@ -204,8 +204,8 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2025,Q4,2025-12-31,3,geography,Europe,Europe,欧洲,,3367,USD,millions,derived,SEC 10-K 0000097745-26-000018 − 10-Q 0000097745-25-000159
 2025,Q4,2025-12-31,3,geography,NorthAmerica,North America,北美地区,,6109,USD,millions,derived,SEC 10-K 0000097745-26-000018 − 10-Q 0000097745-25-000159
 2025,Q4,2025-12-31,3,geography,OtherRegions,Other regions,其他地区,,462,USD,millions,derived,SEC 10-K 0000097745-26-000018 − 10-Q 0000097745-25-000159
-2025,Q4,2025-12-31,3,product,Instruments,Instruments,仪器设备,Analytical Instruments,2221,USD,millions,derived,SEC 10-K 0000097745-26-000018 − 10-Q 0000097745-25-000159
-2025,Q4,2025-12-31,3,product,Consumables,Consumables,耗材,Laboratory Products and Biopharma Services,5026,USD,millions,derived,SEC 10-K 0000097745-26-000018 − 10-Q 0000097745-25-000159
+2025,Q4,2025-12-31,3,product,ProductInstruments,Instruments,仪器设备,Analytical Instruments,2221,USD,millions,derived,SEC 10-K 0000097745-26-000018 − 10-Q 0000097745-25-000159
+2025,Q4,2025-12-31,3,product,ProductConsumables,Consumables,耗材,Laboratory Products and Biopharma Services,5026,USD,millions,derived,SEC 10-K 0000097745-26-000018 − 10-Q 0000097745-25-000159
 2025,Q4,2025-12-31,3,product,Service,Service revenues,服务收入,Laboratory Products and Biopharma Services,4969,USD,millions,derived,SEC 10-K 0000097745-26-000018 − 10-Q 0000097745-25-000159
 2025,Q4,2025-12-31,3,segment,AnalyticalInstruments,Analytical Instruments,分析仪器,,2160,USD,millions,derived,SEC 10-K 0000097745-26-000018 − 10-Q 0000097745-25-000159
 2025,Q4,2025-12-31,3,segment,LaboratoryProductsAndBiopharmaServices,Laboratory Products and Biopharma Services,实验室产品和生物制药服务,,6335,USD,millions,derived,SEC 10-K 0000097745-26-000018 − 10-Q 0000097745-25-000159
@@ -215,8 +215,8 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2025,FY,2025-12-31,12,geography,Europe,Europe,欧洲,,11826,USD,millions,reported,SEC 10-K 0000097745-26-000018
 2025,FY,2025-12-31,12,geography,NorthAmerica,North America,北美地区,,23033,USD,millions,reported,SEC 10-K 0000097745-26-000018
 2025,FY,2025-12-31,12,geography,OtherRegions,Other regions,其他地区,,1597,USD,millions,reported,SEC 10-K 0000097745-26-000018
-2025,FY,2025-12-31,12,product,Instruments,Instruments,仪器设备,Analytical Instruments,7301,USD,millions,reported,SEC 10-K 0000097745-26-000018
-2025,FY,2025-12-31,12,product,Consumables,Consumables,耗材,Laboratory Products and Biopharma Services,18664,USD,millions,reported,SEC 10-K 0000097745-26-000018
+2025,FY,2025-12-31,12,product,ProductInstruments,Instruments,仪器设备,Analytical Instruments,7301,USD,millions,reported,SEC 10-K 0000097745-26-000018
+2025,FY,2025-12-31,12,product,ProductConsumables,Consumables,耗材,Laboratory Products and Biopharma Services,18664,USD,millions,reported,SEC 10-K 0000097745-26-000018
 2025,FY,2025-12-31,12,product,Service,Service revenues,服务收入,Laboratory Products and Biopharma Services,18592,USD,millions,reported,SEC 10-K 0000097745-26-000018
 2025,FY,2025-12-31,12,segment,AnalyticalInstruments,Analytical Instruments,分析仪器,,7353,USD,millions,reported,SEC 10-K 0000097745-26-000018
 2025,FY,2025-12-31,12,segment,LaboratoryProductsAndBiopharmaServices,Laboratory Products and Biopharma Services,实验室产品和生物制药服务,,23818,USD,millions,reported,SEC 10-K 0000097745-26-000018
@@ -226,8 +226,8 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2026,Q1,2026-03-28,3,geography,Europe,Europe,欧洲,,2957,USD,millions,reported,SEC 10-Q 0000097745-26-000092
 2026,Q1,2026-03-28,3,geography,NorthAmerica,North America,北美地区,,5705,USD,millions,reported,SEC 10-Q 0000097745-26-000092
 2026,Q1,2026-03-28,3,geography,OtherRegions,Other regions,其他地区,,372,USD,millions,reported,SEC 10-Q 0000097745-26-000092
-2026,Q1,2026-03-28,3,product,Instruments,Instruments,仪器设备,Analytical Instruments,1555,USD,millions,reported,SEC 10-Q 0000097745-26-000092
-2026,Q1,2026-03-28,3,product,Consumables,Consumables,耗材,Laboratory Products and Biopharma Services,4722,USD,millions,reported,SEC 10-Q 0000097745-26-000092
+2026,Q1,2026-03-28,3,product,ProductInstruments,Instruments,仪器设备,Analytical Instruments,1555,USD,millions,reported,SEC 10-Q 0000097745-26-000092
+2026,Q1,2026-03-28,3,product,ProductConsumables,Consumables,耗材,Laboratory Products and Biopharma Services,4722,USD,millions,reported,SEC 10-Q 0000097745-26-000092
 2026,Q1,2026-03-28,3,product,Service,Service revenues,服务收入,Laboratory Products and Biopharma Services,4728,USD,millions,reported,SEC 10-Q 0000097745-26-000092
 2026,Q1,2026-03-28,3,segment,AnalyticalInstruments,Analytical Instruments,分析仪器,,1667,USD,millions,reported,SEC 10-Q 0000097745-26-000092
 2026,Q1,2026-03-28,3,segment,LaboratoryProductsAndBiopharmaServices,Laboratory Products and Biopharma Services,实验室产品和生物制药服务,,5995,USD,millions,reported,SEC 10-Q 0000097745-26-000092

@@ -1,15 +1,9 @@
 fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,value,currency,unit,basis,source
 2021,Q1,2021-03-31,3,geography,Europe,Europe,欧洲,,1336,USD,millions,reported,SEC 10-Q 0000882095-22-000013
-2021,Q1,2021-03-31,3,geography,OtherInternational,Other International,世界其他地区,,827,USD,millions,reported,SEC 10-Q 0000882095-22-000013
+2021,Q1,2021-03-31,3,geography,RestOfWorld,Rest of World,世界其他地区,,827,USD,millions,reported,SEC 10-Q 0000882095-22-000013
 2021,Q1,2021-03-31,3,geography,US,U.S.,美国,,4260,USD,millions,reported,SEC 10-Q 0000882095-22-000013
 2021,Q1,2021-03-31,3,product,CallTherapyProductsTecartus,Tecartus,Tecartus,Cell Therapy,31,USD,millions,reported,SEC 10-Q 0000882095-21-000013
-2021,Q1,2021-03-31,3,product,CellTherapyProductsYescarta,Yescarta,Yescarta,Cell Therapy,160,USD,millions,reported,SEC 10-Q 0000882095-21-000013
-2021,Q1,2021-03-31,3,product,HepatitisBVirusHepatitisDeltaVirusProductOther,Other HBV/HBD,其他乙肝/丁肝药物,HBV/HDV,8,USD,millions,reported,SEC 10-Q 0000882095-21-000013
-2021,Q1,2021-03-31,3,product,HepatitisBVirusHepatitisDeltaVirusProductVemlidy,Vemlidy,韦立得 Vemlidy,HBV/HDV,181,USD,millions,reported,SEC 10-Q 0000882095-21-000013
-2021,Q1,2021-03-31,3,product,HepatitisBVirusHepatitisDeltaVirusProductViread,Viread,韦瑞德 Viread,HBV/HDV,31,USD,millions,reported,SEC 10-Q 0000882095-21-000013
-2021,Q1,2021-03-31,3,product,HCVProductsLedipasvirSofosbuvir,Ledipasvir/Sofosbuvir,雷迪帕韦/索磷布韦,HCV,56,USD,millions,reported,SEC 10-Q 0000882095-21-000013
-2021,Q1,2021-03-31,3,product,HCVProductsSofosbuvirVelpatasvir,Sofosbuvir/Velpatasvir,索磷布韦/维帕他韦,HCV,381,USD,millions,reported,SEC 10-Q 0000882095-21-000013
-2021,Q1,2021-03-31,3,product,OtherHepatitisCVirusProducts,Other HCV,其他丙肝药物,HCV,73,USD,millions,reported,SEC 10-Q 0000882095-21-000013
+2021,Q1,2021-03-31,3,product,OtherProductsYescarta,Yescarta,Yescarta,Cell Therapy,160,USD,millions,reported,SEC 10-Q 0000882095-21-000013
 2021,Q1,2021-03-31,3,product,HIVProductsAtripla,Atripla,艾滋宁 Atripla,HIV,31,USD,millions,reported,SEC 10-Q 0000882095-21-000013
 2021,Q1,2021-03-31,3,product,HIVProductsBiktarvy,Biktarvy,必妥维 Biktarvy,HIV,1824,USD,millions,reported,SEC 10-Q 0000882095-21-000013
 2021,Q1,2021-03-31,3,product,HIVProductsCompleraEviplera,Complera/Eviplera,Complera/Eviplera,HIV,63,USD,millions,reported,SEC 10-Q 0000882095-21-000013
@@ -17,10 +11,16 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2021,Q1,2021-03-31,3,product,HIVProductsGenvoya,Genvoya,捷扶康 Genvoya,HIV,673,USD,millions,reported,SEC 10-Q 0000882095-21-000013
 2021,Q1,2021-03-31,3,product,HIVProductsOdefsey,Odefsey,Odefsey,HIV,367,USD,millions,reported,SEC 10-Q 0000882095-21-000013
 2021,Q1,2021-03-31,3,product,HIVProductsStribild,Stribild,欣愈尔 Stribild,HIV,46,USD,millions,reported,SEC 10-Q 0000882095-21-000013
+2021,Q1,2021-03-31,3,product,HIVProductsSymtuzaRevenueShare,Symtuza - Revenue share,Symtuza 分成收入,HIV,135,USD,millions,reported,SEC 10-Q 0000882095-21-000013
 2021,Q1,2021-03-31,3,product,HIVProductsTruvada,Truvada,特鲁瓦达 Truvada,HIV,135,USD,millions,reported,SEC 10-Q 0000882095-21-000013
 2021,Q1,2021-03-31,3,product,ProductsOtherHIV,Other HIV,其他艾滋病药物,HIV,17,USD,millions,reported,SEC 10-Q 0000882095-21-000013
-2021,Q1,2021-03-31,3,product,ProductsRevenueShareSymtuza,Revenue share - Symtuza,Symtuza 分成收入,HIV,135,USD,millions,reported,SEC 10-Q 0000882095-21-000013
 2021,Q1,2021-03-31,3,product,Veklury,Veklury,瑞德西韦 Veklury,Infectious Disease,1456,USD,millions,reported,SEC 10-Q 0000882095-21-000013
+2021,Q1,2021-03-31,3,product,HCVProductsLedipasvirSofosbuvir,Ledipasvir/Sofosbuvir,雷迪帕韦/索磷布韦,Liver Disease,56,USD,millions,reported,SEC 10-Q 0000882095-21-000013
+2021,Q1,2021-03-31,3,product,HepatitisBVirusHepatitisDeltaVirusProductOther,Other HBV/HBD,其他乙肝/丁肝药物,Liver Disease,8,USD,millions,reported,SEC 10-Q 0000882095-21-000013
+2021,Q1,2021-03-31,3,product,HepatitisBVirusHepatitisDeltaVirusProductViread,Viread,韦瑞德 Viread,Liver Disease,31,USD,millions,reported,SEC 10-Q 0000882095-21-000013
+2021,Q1,2021-03-31,3,product,LiverDiseaseProductsSofosbuvirVelpatasvir,Sofosbuvir/Velpatasvir,索磷布韦/维帕他韦,Liver Disease,381,USD,millions,reported,SEC 10-Q 0000882095-21-000013
+2021,Q1,2021-03-31,3,product,LiverDiseaseProductsVemlidy,Vemlidy,韦立得 Vemlidy,Liver Disease,181,USD,millions,reported,SEC 10-Q 0000882095-21-000013
+2021,Q1,2021-03-31,3,product,OtherHepatitisCVirusProducts,Other HCV,其他丙肝药物,Liver Disease,73,USD,millions,reported,SEC 10-Q 0000882095-21-000013
 2021,Q1,2021-03-31,3,product,Trodelvy,Trodelvy,Trodelvy,Oncology,72,USD,millions,reported,SEC 10-Q 0000882095-21-000013
 2021,Q1,2021-03-31,3,product,OtherProductsAmBisome,AmBisome,注射用两性霉素B脂质体,Other,121,USD,millions,reported,SEC 10-Q 0000882095-21-000013
 2021,Q1,2021-03-31,3,product,OtherProductsLetairis,Letairis,Letairis,Other,54,USD,millions,reported,SEC 10-Q 0000882095-21-000013
@@ -29,16 +29,10 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2021,Q1,2021-03-31,3,product,OtherProductsZydelig,Zydelig,则乐 Zydelig,Other,15,USD,millions,reported,SEC 10-Q 0000882095-21-000013
 2021,Q1,2021-03-31,3,product,RoyaltyContractAndOther,"Royalty, contract and other revenues",特许权及合同等收入,Other,83,USD,millions,reported,SEC 10-Q 0000882095-21-000013
 2021,Q2,2021-06-30,3,geography,Europe,Europe,欧洲,,1192,USD,millions,reported,SEC 10-Q 0000882095-22-000019
-2021,Q2,2021-06-30,3,geography,OtherInternational,Other International,世界其他地区,,792,USD,millions,reported,SEC 10-Q 0000882095-22-000019
+2021,Q2,2021-06-30,3,geography,RestOfWorld,Rest of World,世界其他地区,,792,USD,millions,reported,SEC 10-Q 0000882095-22-000019
 2021,Q2,2021-06-30,3,geography,US,U.S.,美国,,4233,USD,millions,reported,SEC 10-Q 0000882095-22-000019
 2021,Q2,2021-06-30,3,product,CellTherapyProductsTecartus,Tecartus,Tecartus,Cell Therapy,41,USD,millions,reported,SEC 10-Q 0000882095-21-000021
-2021,Q2,2021-06-30,3,product,CellTherapyProductsYescarta,Yescarta,Yescarta,Cell Therapy,178,USD,millions,reported,SEC 10-Q 0000882095-21-000021
-2021,Q2,2021-06-30,3,product,HepatitisBVirusHepatitisDeltaVirusProductOther,Other HBV/HBD,其他乙肝/丁肝药物,HBV/HDV,9,USD,millions,reported,SEC 10-Q 0000882095-21-000021
-2021,Q2,2021-06-30,3,product,HepatitisBVirusHepatitisDeltaVirusProductVemlidy,Vemlidy,韦立得 Vemlidy,HBV/HDV,200,USD,millions,reported,SEC 10-Q 0000882095-21-000021
-2021,Q2,2021-06-30,3,product,HepatitisBVirusHepatitisDeltaVirusProductViread,Viread,韦瑞德 Viread,HBV/HDV,28,USD,millions,reported,SEC 10-Q 0000882095-21-000021
-2021,Q2,2021-06-30,3,product,HCVProductsLedipasvirSofosbuvir,Ledipasvir/Sofosbuvir,雷迪帕韦/索磷布韦,HCV,62,USD,millions,reported,SEC 10-Q 0000882095-21-000021
-2021,Q2,2021-06-30,3,product,HCVProductsSofosbuvirVelpatasvir,Sofosbuvir/Velpatasvir,索磷布韦/维帕他韦,HCV,442,USD,millions,reported,SEC 10-Q 0000882095-21-000021
-2021,Q2,2021-06-30,3,product,OtherHepatitisCVirusProducts,Other HCV,其他丙肝药物,HCV,45,USD,millions,reported,SEC 10-Q 0000882095-21-000021
+2021,Q2,2021-06-30,3,product,OtherProductsYescarta,Yescarta,Yescarta,Cell Therapy,178,USD,millions,reported,SEC 10-Q 0000882095-21-000021
 2021,Q2,2021-06-30,3,product,HIVProductsAtripla,Atripla,艾滋宁 Atripla,HIV,60,USD,millions,reported,SEC 10-Q 0000882095-21-000021
 2021,Q2,2021-06-30,3,product,HIVProductsBiktarvy,Biktarvy,必妥维 Biktarvy,HIV,1994,USD,millions,reported,SEC 10-Q 0000882095-21-000021
 2021,Q2,2021-06-30,3,product,HIVProductsCompleraEviplera,Complera/Eviplera,Complera/Eviplera,HIV,62,USD,millions,reported,SEC 10-Q 0000882095-21-000021
@@ -46,10 +40,16 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2021,Q2,2021-06-30,3,product,HIVProductsGenvoya,Genvoya,捷扶康 Genvoya,HIV,706,USD,millions,reported,SEC 10-Q 0000882095-21-000021
 2021,Q2,2021-06-30,3,product,HIVProductsOdefsey,Odefsey,Odefsey,HIV,382,USD,millions,reported,SEC 10-Q 0000882095-21-000021
 2021,Q2,2021-06-30,3,product,HIVProductsStribild,Stribild,欣愈尔 Stribild,HIV,51,USD,millions,reported,SEC 10-Q 0000882095-21-000021
+2021,Q2,2021-06-30,3,product,HIVProductsSymtuzaRevenueShare,Symtuza - Revenue share,Symtuza 分成收入,HIV,129,USD,millions,reported,SEC 10-Q 0000882095-21-000021
 2021,Q2,2021-06-30,3,product,HIVProductsTruvada,Truvada,特鲁瓦达 Truvada,HIV,108,USD,millions,reported,SEC 10-Q 0000882095-21-000021
 2021,Q2,2021-06-30,3,product,ProductsOtherHIV,Other HIV,其他艾滋病药物,HIV,11,USD,millions,reported,SEC 10-Q 0000882095-21-000021
-2021,Q2,2021-06-30,3,product,ProductsRevenueShareSymtuza,Revenue share - Symtuza,Symtuza 分成收入,HIV,129,USD,millions,reported,SEC 10-Q 0000882095-21-000021
 2021,Q2,2021-06-30,3,product,Veklury,Veklury,瑞德西韦 Veklury,Infectious Disease,829,USD,millions,reported,SEC 10-Q 0000882095-21-000021
+2021,Q2,2021-06-30,3,product,HCVProductsLedipasvirSofosbuvir,Ledipasvir/Sofosbuvir,雷迪帕韦/索磷布韦,Liver Disease,62,USD,millions,reported,SEC 10-Q 0000882095-21-000021
+2021,Q2,2021-06-30,3,product,HepatitisBVirusHepatitisDeltaVirusProductOther,Other HBV/HBD,其他乙肝/丁肝药物,Liver Disease,9,USD,millions,reported,SEC 10-Q 0000882095-21-000021
+2021,Q2,2021-06-30,3,product,HepatitisBVirusHepatitisDeltaVirusProductViread,Viread,韦瑞德 Viread,Liver Disease,28,USD,millions,reported,SEC 10-Q 0000882095-21-000021
+2021,Q2,2021-06-30,3,product,LiverDiseaseProductsSofosbuvirVelpatasvir,Sofosbuvir/Velpatasvir,索磷布韦/维帕他韦,Liver Disease,442,USD,millions,reported,SEC 10-Q 0000882095-21-000021
+2021,Q2,2021-06-30,3,product,LiverDiseaseProductsVemlidy,Vemlidy,韦立得 Vemlidy,Liver Disease,200,USD,millions,reported,SEC 10-Q 0000882095-21-000021
+2021,Q2,2021-06-30,3,product,OtherHepatitisCVirusProducts,Other HCV,其他丙肝药物,Liver Disease,45,USD,millions,reported,SEC 10-Q 0000882095-21-000021
 2021,Q2,2021-06-30,3,product,Trodelvy,Trodelvy,Trodelvy,Oncology,89,USD,millions,reported,SEC 10-Q 0000882095-21-000021
 2021,Q2,2021-06-30,3,product,OtherProductsAmBisome,AmBisome,注射用两性霉素B脂质体,Other,156,USD,millions,reported,SEC 10-Q 0000882095-21-000021
 2021,Q2,2021-06-30,3,product,OtherProductsLetairis,Letairis,Letairis,Other,57,USD,millions,reported,SEC 10-Q 0000882095-21-000021
@@ -58,16 +58,10 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2021,Q2,2021-06-30,3,product,OtherProductsZydelig,Zydelig,则乐 Zydelig,Other,22,USD,millions,reported,SEC 10-Q 0000882095-21-000021
 2021,Q2,2021-06-30,3,product,RoyaltyContractAndOther,"Royalty, contract and other revenues",特许权及合同等收入,Other,65,USD,millions,reported,SEC 10-Q 0000882095-21-000021
 2021,Q3,2021-09-30,3,geography,Europe,Europe,欧洲,,1031,USD,millions,reported,SEC 10-Q 0000882095-22-000027
-2021,Q3,2021-09-30,3,geography,OtherInternational,Other International,世界其他地区,,881,USD,millions,reported,SEC 10-Q 0000882095-22-000027
+2021,Q3,2021-09-30,3,geography,RestOfWorld,Rest of World,世界其他地区,,881,USD,millions,reported,SEC 10-Q 0000882095-22-000027
 2021,Q3,2021-09-30,3,geography,US,U.S.,美国,,5509,USD,millions,reported,SEC 10-Q 0000882095-22-000027
 2021,Q3,2021-09-30,3,product,CellTherapyProductsTecartus,Tecartus,Tecartus,Cell Therapy,47,USD,millions,reported,SEC 10-Q 0000882095-21-000029
-2021,Q3,2021-09-30,3,product,CellTherapyProductsYescarta,Yescarta,Yescarta,Cell Therapy,175,USD,millions,reported,SEC 10-Q 0000882095-21-000029
-2021,Q3,2021-09-30,3,product,HepatitisBVirusHepatitisDeltaVirusProductOther,Other HBV/HBD,其他乙肝/丁肝药物,HBV/HDV,13,USD,millions,reported,SEC 10-Q 0000882095-21-000029
-2021,Q3,2021-09-30,3,product,HepatitisBVirusHepatitisDeltaVirusProductVemlidy,Vemlidy,韦立得 Vemlidy,HBV/HDV,208,USD,millions,reported,SEC 10-Q 0000882095-21-000029
-2021,Q3,2021-09-30,3,product,HepatitisBVirusHepatitisDeltaVirusProductViread,Viread,韦瑞德 Viread,HBV/HDV,26,USD,millions,reported,SEC 10-Q 0000882095-21-000029
-2021,Q3,2021-09-30,3,product,HCVProductsLedipasvirSofosbuvir,Ledipasvir/Sofosbuvir,雷迪帕韦/索磷布韦,HCV,45,USD,millions,reported,SEC 10-Q 0000882095-21-000029
-2021,Q3,2021-09-30,3,product,HCVProductsSofosbuvirVelpatasvir,Sofosbuvir/Velpatasvir,索磷布韦/维帕他韦,HCV,332,USD,millions,reported,SEC 10-Q 0000882095-21-000029
-2021,Q3,2021-09-30,3,product,OtherHepatitisCVirusProducts,Other HCV,其他丙肝药物,HCV,52,USD,millions,reported,SEC 10-Q 0000882095-21-000029
+2021,Q3,2021-09-30,3,product,OtherProductsYescarta,Yescarta,Yescarta,Cell Therapy,175,USD,millions,reported,SEC 10-Q 0000882095-21-000029
 2021,Q3,2021-09-30,3,product,HIVProductsAtripla,Atripla,艾滋宁 Atripla,HIV,27,USD,millions,reported,SEC 10-Q 0000882095-21-000029
 2021,Q3,2021-09-30,3,product,HIVProductsBiktarvy,Biktarvy,必妥维 Biktarvy,HIV,2276,USD,millions,reported,SEC 10-Q 0000882095-21-000029
 2021,Q3,2021-09-30,3,product,HIVProductsCompleraEviplera,Complera/Eviplera,Complera/Eviplera,HIV,64,USD,millions,reported,SEC 10-Q 0000882095-21-000029
@@ -75,10 +69,16 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2021,Q3,2021-09-30,3,product,HIVProductsGenvoya,Genvoya,捷扶康 Genvoya,HIV,744,USD,millions,reported,SEC 10-Q 0000882095-21-000029
 2021,Q3,2021-09-30,3,product,HIVProductsOdefsey,Odefsey,Odefsey,HIV,399,USD,millions,reported,SEC 10-Q 0000882095-21-000029
 2021,Q3,2021-09-30,3,product,HIVProductsStribild,Stribild,欣愈尔 Stribild,HIV,42,USD,millions,reported,SEC 10-Q 0000882095-21-000029
+2021,Q3,2021-09-30,3,product,HIVProductsSymtuzaRevenueShare,Symtuza - Revenue share,Symtuza 分成收入,HIV,130,USD,millions,reported,SEC 10-Q 0000882095-21-000029
 2021,Q3,2021-09-30,3,product,HIVProductsTruvada,Truvada,特鲁瓦达 Truvada,HIV,67,USD,millions,reported,SEC 10-Q 0000882095-21-000029
 2021,Q3,2021-09-30,3,product,ProductsOtherHIV,Other HIV,其他艾滋病药物,HIV,7,USD,millions,reported,SEC 10-Q 0000882095-21-000029
-2021,Q3,2021-09-30,3,product,ProductsRevenueShareSymtuza,Revenue share - Symtuza,Symtuza 分成收入,HIV,130,USD,millions,reported,SEC 10-Q 0000882095-21-000029
 2021,Q3,2021-09-30,3,product,Veklury,Veklury,瑞德西韦 Veklury,Infectious Disease,1923,USD,millions,reported,SEC 10-Q 0000882095-21-000029
+2021,Q3,2021-09-30,3,product,HCVProductsLedipasvirSofosbuvir,Ledipasvir/Sofosbuvir,雷迪帕韦/索磷布韦,Liver Disease,45,USD,millions,reported,SEC 10-Q 0000882095-21-000029
+2021,Q3,2021-09-30,3,product,HepatitisBVirusHepatitisDeltaVirusProductOther,Other HBV/HBD,其他乙肝/丁肝药物,Liver Disease,13,USD,millions,reported,SEC 10-Q 0000882095-21-000029
+2021,Q3,2021-09-30,3,product,HepatitisBVirusHepatitisDeltaVirusProductViread,Viread,韦瑞德 Viread,Liver Disease,26,USD,millions,reported,SEC 10-Q 0000882095-21-000029
+2021,Q3,2021-09-30,3,product,LiverDiseaseProductsSofosbuvirVelpatasvir,Sofosbuvir/Velpatasvir,索磷布韦/维帕他韦,Liver Disease,332,USD,millions,reported,SEC 10-Q 0000882095-21-000029
+2021,Q3,2021-09-30,3,product,LiverDiseaseProductsVemlidy,Vemlidy,韦立得 Vemlidy,Liver Disease,208,USD,millions,reported,SEC 10-Q 0000882095-21-000029
+2021,Q3,2021-09-30,3,product,OtherHepatitisCVirusProducts,Other HCV,其他丙肝药物,Liver Disease,52,USD,millions,reported,SEC 10-Q 0000882095-21-000029
 2021,Q3,2021-09-30,3,product,Trodelvy,Trodelvy,Trodelvy,Oncology,101,USD,millions,reported,SEC 10-Q 0000882095-21-000029
 2021,Q3,2021-09-30,3,product,OtherProductsAmBisome,AmBisome,注射用两性霉素B脂质体,Other,143,USD,millions,reported,SEC 10-Q 0000882095-21-000029
 2021,Q3,2021-09-30,3,product,OtherProductsLetairis,Letairis,Letairis,Other,46,USD,millions,reported,SEC 10-Q 0000882095-21-000029
@@ -86,15 +86,10 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2021,Q3,2021-09-30,3,product,OtherProductsZydelig,Zydelig,则乐 Zydelig,Other,13,USD,millions,reported,SEC 10-Q 0000882095-21-000029
 2021,Q3,2021-09-30,3,product,RoyaltyContractAndOther,"Royalty, contract and other revenues",特许权及合同等收入,Other,65,USD,millions,reported,SEC 10-Q 0000882095-21-000029
 2021,Q4,2021-12-31,3,geography,Europe,Europe,欧洲,,1315,USD,millions,derived,SEC 10-K 0000882095-23-000007 − 10-Q 0000882095-22-000027
-2021,Q4,2021-12-31,3,geography,OtherInternational,Other International,世界其他地区,,664,USD,millions,derived,SEC 10-K 0000882095-23-000007 − 10-Q 0000882095-22-000027
+2021,Q4,2021-12-31,3,geography,RestOfWorld,Rest of World,世界其他地区,,664,USD,millions,derived,SEC 10-K 0000882095-23-000007 − 10-Q 0000882095-22-000027
 2021,Q4,2021-12-31,3,geography,US,United States,美国,,5265,USD,millions,derived,SEC 10-K 0000882095-23-000007 − 10-Q 0000882095-22-000027
 2021,Q4,2021-12-31,3,product,OtherNotItemized,Other (not itemized),其他（未单列）,,219,USD,millions,derived,SEC 10-K 0000882095-22-000007 − 10-Q 0000882095-21-000029
 2021,Q4,2021-12-31,3,product,CellTherapyProductsTecartus,Tecartus,Tecartus,Cell Therapy,57,USD,millions,derived,SEC 10-K 0000882095-22-000007 − 10-Q 0000882095-21-000029
-2021,Q4,2021-12-31,3,product,HepatitisBVirusHepatitisDeltaVirusProductOther,Other HB/HDV,其他乙肝/丁肝药物,HBV/HDV,14,USD,millions,derived,SEC 10-K 0000882095-22-000007 − 10-Q 0000882095-21-000029
-2021,Q4,2021-12-31,3,product,HepatitisBVirusHepatitisDeltaVirusProductVemlidy,Vemlidy,韦立得 Vemlidy,HBV/HDV,225,USD,millions,derived,SEC 10-K 0000882095-22-000007 − 10-Q 0000882095-21-000029
-2021,Q4,2021-12-31,3,product,HepatitisBVirusHepatitisDeltaVirusProductViread,Viread,韦瑞德 Viread,HBV/HDV,26,USD,millions,derived,SEC 10-K 0000882095-22-000007 − 10-Q 0000882095-21-000029
-2021,Q4,2021-12-31,3,product,HCVProductsLedipasvirSofosbuvir,Ledipasvir/Sofosbuvir,雷迪帕韦/索磷布韦,HCV,49,USD,millions,derived,SEC 10-K 0000882095-22-000007 − 10-Q 0000882095-21-000029
-2021,Q4,2021-12-31,3,product,HCVProductsSofosbuvirVelpatasvir,Sofosbuvir/Velpatasvir,索磷布韦/维帕他韦,HCV,307,USD,millions,derived,SEC 10-K 0000882095-22-000007 − 10-Q 0000882095-21-000029
 2021,Q4,2021-12-31,3,product,HIVProductsAtripla,Atripla,艾滋宁 Atripla,HIV,27,USD,millions,derived,SEC 10-K 0000882095-22-000007 − 10-Q 0000882095-21-000029
 2021,Q4,2021-12-31,3,product,HIVProductsBiktarvy,Biktarvy,必妥维 Biktarvy,HIV,2530,USD,millions,derived,SEC 10-K 0000882095-22-000007 − 10-Q 0000882095-21-000029
 2021,Q4,2021-12-31,3,product,HIVProductsCompleraEviplera,Complera/Eviplera,Complera/Eviplera,HIV,69,USD,millions,derived,SEC 10-K 0000882095-22-000007 − 10-Q 0000882095-21-000029
@@ -102,10 +97,15 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2021,Q4,2021-12-31,3,product,HIVProductsGenvoya,Genvoya,捷扶康 Genvoya,HIV,756,USD,millions,derived,SEC 10-K 0000882095-22-000007 − 10-Q 0000882095-21-000029
 2021,Q4,2021-12-31,3,product,HIVProductsOdefsey,Odefsey,Odefsey,HIV,420,USD,millions,derived,SEC 10-K 0000882095-22-000007 − 10-Q 0000882095-21-000029
 2021,Q4,2021-12-31,3,product,HIVProductsStribild,Stribild,欣愈尔 Stribild,HIV,50,USD,millions,derived,SEC 10-K 0000882095-22-000007 − 10-Q 0000882095-21-000029
+2021,Q4,2021-12-31,3,product,HIVProductsSymtuzaRevenueShare,Symtuza - Revenue share,Symtuza 分成收入,HIV,137,USD,millions,derived,SEC 10-K 0000882095-22-000007 − 10-Q 0000882095-21-000029
 2021,Q4,2021-12-31,3,product,HIVProductsTruvada,Truvada,特鲁瓦达 Truvada,HIV,61,USD,millions,derived,SEC 10-K 0000882095-22-000007 − 10-Q 0000882095-21-000029
 2021,Q4,2021-12-31,3,product,ProductsOtherHIV,Other HIV,其他艾滋病药物,HIV,15,USD,millions,derived,SEC 10-K 0000882095-22-000007 − 10-Q 0000882095-21-000029
-2021,Q4,2021-12-31,3,product,ProductsRevenueShareSymtuza,Revenue share - Symtuza,Symtuza 分成收入,HIV,137,USD,millions,derived,SEC 10-K 0000882095-22-000007 − 10-Q 0000882095-21-000029
 2021,Q4,2021-12-31,3,product,Veklury,Veklury,瑞德西韦 Veklury,Infectious Disease,1357,USD,millions,derived,SEC 10-K 0000882095-22-000007 − 10-Q 0000882095-21-000029
+2021,Q4,2021-12-31,3,product,HCVProductsLedipasvirSofosbuvir,Ledipasvir/Sofosbuvir,雷迪帕韦/索磷布韦,Liver Disease,49,USD,millions,derived,SEC 10-K 0000882095-22-000007 − 10-Q 0000882095-21-000029
+2021,Q4,2021-12-31,3,product,HepatitisBVirusHepatitisDeltaVirusProductOther,Other HB/HDV,其他乙肝/丁肝药物,Liver Disease,14,USD,millions,derived,SEC 10-K 0000882095-22-000007 − 10-Q 0000882095-21-000029
+2021,Q4,2021-12-31,3,product,HepatitisBVirusHepatitisDeltaVirusProductViread,Viread,韦瑞德 Viread,Liver Disease,26,USD,millions,derived,SEC 10-K 0000882095-22-000007 − 10-Q 0000882095-21-000029
+2021,Q4,2021-12-31,3,product,LiverDiseaseProductsSofosbuvirVelpatasvir,Sofosbuvir/Velpatasvir,索磷布韦/维帕他韦,Liver Disease,307,USD,millions,derived,SEC 10-K 0000882095-22-000007 − 10-Q 0000882095-21-000029
+2021,Q4,2021-12-31,3,product,LiverDiseaseProductsVemlidy,Vemlidy,韦立得 Vemlidy,Liver Disease,225,USD,millions,derived,SEC 10-K 0000882095-22-000007 − 10-Q 0000882095-21-000029
 2021,Q4,2021-12-31,3,product,Trodelvy,Trodelvy,Trodelvy,Oncology,118,USD,millions,derived,SEC 10-K 0000882095-22-000007 − 10-Q 0000882095-21-000029
 2021,Q4,2021-12-31,3,product,OtherProductsAmBisome,AmBisome,注射用两性霉素B脂质体,Other,120,USD,millions,derived,SEC 10-K 0000882095-22-000007 − 10-Q 0000882095-21-000029
 2021,Q4,2021-12-31,3,product,OtherProductsLetairis,Letairis,Letairis,Other,49,USD,millions,derived,SEC 10-K 0000882095-22-000007 − 10-Q 0000882095-21-000029
@@ -114,16 +114,10 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2021,Q4,2021-12-31,3,product,OtherProductsZydelig,Zydelig,则乐 Zydelig,Other,12,USD,millions,derived,SEC 10-K 0000882095-22-000007 − 10-Q 0000882095-21-000029
 2021,Q4,2021-12-31,3,product,RoyaltyContractAndOther,"Royalty, contract and other revenues",特许权及合同等收入,Other,84,USD,millions,derived,SEC 10-K 0000882095-22-000007 − 10-Q 0000882095-21-000029
 2021,FY,2021-12-31,12,geography,Europe,Europe,欧洲,,4874,USD,millions,reported,SEC 10-K 0000882095-23-000007
-2021,FY,2021-12-31,12,geography,OtherInternational,Other International,世界其他地区,,3164,USD,millions,reported,SEC 10-K 0000882095-23-000007
+2021,FY,2021-12-31,12,geography,RestOfWorld,Rest of World,世界其他地区,,3164,USD,millions,reported,SEC 10-K 0000882095-23-000007
 2021,FY,2021-12-31,12,geography,US,United States,美国,,19267,USD,millions,reported,SEC 10-K 0000882095-23-000007
 2021,FY,2021-12-31,12,product,CellTherapyProductsTecartus,Tecartus,Tecartus,Cell Therapy,176,USD,millions,reported,SEC 10-K 0000882095-22-000007
 2021,FY,2021-12-31,12,product,OtherProductsYescarta,Yescarta,Yescarta,Cell Therapy,695,USD,millions,reported,SEC 10-K 0000882095-22-000007
-2021,FY,2021-12-31,12,product,HepatitisBVirusHepatitisDeltaVirusProductOther,Other HB/HDV,其他乙肝/丁肝药物,HBV/HDV,44,USD,millions,reported,SEC 10-K 0000882095-22-000007
-2021,FY,2021-12-31,12,product,HepatitisBVirusHepatitisDeltaVirusProductVemlidy,Vemlidy,韦立得 Vemlidy,HBV/HDV,814,USD,millions,reported,SEC 10-K 0000882095-22-000007
-2021,FY,2021-12-31,12,product,HepatitisBVirusHepatitisDeltaVirusProductViread,Viread,韦瑞德 Viread,HBV/HDV,111,USD,millions,reported,SEC 10-K 0000882095-22-000007
-2021,FY,2021-12-31,12,product,HCVProductsLedipasvirSofosbuvir,Ledipasvir/Sofosbuvir,雷迪帕韦/索磷布韦,HCV,212,USD,millions,reported,SEC 10-K 0000882095-22-000007
-2021,FY,2021-12-31,12,product,HCVProductsSofosbuvirVelpatasvir,Sofosbuvir/Velpatasvir,索磷布韦/维帕他韦,HCV,1462,USD,millions,reported,SEC 10-K 0000882095-22-000007
-2021,FY,2021-12-31,12,product,OtherHCV,Other HCV,其他丙肝药物,HCV,207,USD,millions,reported,SEC 10-K 0000882095-22-000007
 2021,FY,2021-12-31,12,product,HIVProductsAtripla,Atripla,艾滋宁 Atripla,HIV,145,USD,millions,reported,SEC 10-K 0000882095-22-000007
 2021,FY,2021-12-31,12,product,HIVProductsBiktarvy,Biktarvy,必妥维 Biktarvy,HIV,8624,USD,millions,reported,SEC 10-K 0000882095-22-000007
 2021,FY,2021-12-31,12,product,HIVProductsCompleraEviplera,Complera/Eviplera,Complera/Eviplera,HIV,258,USD,millions,reported,SEC 10-K 0000882095-22-000007
@@ -131,10 +125,16 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2021,FY,2021-12-31,12,product,HIVProductsGenvoya,Genvoya,捷扶康 Genvoya,HIV,2879,USD,millions,reported,SEC 10-K 0000882095-22-000007
 2021,FY,2021-12-31,12,product,HIVProductsOdefsey,Odefsey,Odefsey,HIV,1568,USD,millions,reported,SEC 10-K 0000882095-22-000007
 2021,FY,2021-12-31,12,product,HIVProductsStribild,Stribild,欣愈尔 Stribild,HIV,189,USD,millions,reported,SEC 10-K 0000882095-22-000007
+2021,FY,2021-12-31,12,product,HIVProductsSymtuzaRevenueShare,Symtuza - Revenue share,Symtuza 分成收入,HIV,531,USD,millions,reported,SEC 10-K 0000882095-22-000007
 2021,FY,2021-12-31,12,product,HIVProductsTruvada,Truvada,特鲁瓦达 Truvada,HIV,371,USD,millions,reported,SEC 10-K 0000882095-22-000007
 2021,FY,2021-12-31,12,product,ProductsOtherHIV,Other HIV,其他艾滋病药物,HIV,50,USD,millions,reported,SEC 10-K 0000882095-22-000007
-2021,FY,2021-12-31,12,product,ProductsRevenueShareSymtuza,Revenue share - Symtuza,Symtuza 分成收入,HIV,531,USD,millions,reported,SEC 10-K 0000882095-22-000007
 2021,FY,2021-12-31,12,product,Veklury,Veklury,瑞德西韦 Veklury,Infectious Disease,5565,USD,millions,reported,SEC 10-K 0000882095-22-000007
+2021,FY,2021-12-31,12,product,HCVProductsLedipasvirSofosbuvir,Ledipasvir/Sofosbuvir,雷迪帕韦/索磷布韦,Liver Disease,212,USD,millions,reported,SEC 10-K 0000882095-22-000007
+2021,FY,2021-12-31,12,product,HepatitisBVirusHepatitisDeltaVirusProductOther,Other HB/HDV,其他乙肝/丁肝药物,Liver Disease,44,USD,millions,reported,SEC 10-K 0000882095-22-000007
+2021,FY,2021-12-31,12,product,HepatitisBVirusHepatitisDeltaVirusProductViread,Viread,韦瑞德 Viread,Liver Disease,111,USD,millions,reported,SEC 10-K 0000882095-22-000007
+2021,FY,2021-12-31,12,product,LiverDiseaseProductsSofosbuvirVelpatasvir,Sofosbuvir/Velpatasvir,索磷布韦/维帕他韦,Liver Disease,1462,USD,millions,reported,SEC 10-K 0000882095-22-000007
+2021,FY,2021-12-31,12,product,LiverDiseaseProductsVemlidy,Vemlidy,韦立得 Vemlidy,Liver Disease,814,USD,millions,reported,SEC 10-K 0000882095-22-000007
+2021,FY,2021-12-31,12,product,OtherHCV,Other HCV,其他丙肝药物,Liver Disease,207,USD,millions,reported,SEC 10-K 0000882095-22-000007
 2021,FY,2021-12-31,12,product,Trodelvy,Trodelvy,Trodelvy,Oncology,380,USD,millions,reported,SEC 10-K 0000882095-22-000007
 2021,FY,2021-12-31,12,product,OtherProductsAmBisome,AmBisome,注射用两性霉素B脂质体,Other,540,USD,millions,reported,SEC 10-K 0000882095-22-000007
 2021,FY,2021-12-31,12,product,OtherProductsLetairis,Letairis,Letairis,Other,206,USD,millions,reported,SEC 10-K 0000882095-22-000007
@@ -143,274 +143,274 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2021,FY,2021-12-31,12,product,OtherProductsZydelig,Zydelig,则乐 Zydelig,Other,62,USD,millions,reported,SEC 10-K 0000882095-22-000007
 2021,FY,2021-12-31,12,product,RoyaltyContractAndOther,"Royalty, contract and other revenues",特许权及合同等收入,Other,297,USD,millions,reported,SEC 10-K 0000882095-22-000007
 2022,Q1,2022-03-31,3,geography,Europe,Europe,欧洲,,1202,USD,millions,reported,SEC 10-Q 0000882095-23-000017
-2022,Q1,2022-03-31,3,geography,OtherInternational,Other International,世界其他地区,,1033,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2022,Q1,2022-03-31,3,geography,RestOfWorld,Rest of World,世界其他地区,,1033,USD,millions,reported,SEC 10-Q 0000882095-23-000017
 2022,Q1,2022-03-31,3,geography,US,U.S.,美国,,4355,USD,millions,reported,SEC 10-Q 0000882095-23-000017
 2022,Q1,2022-03-31,3,product,CellTherapyProductsTecartus,Tecartus,Tecartus,Cell Therapy,63,USD,millions,reported,SEC 10-Q 0000882095-23-000017
-2022,Q1,2022-03-31,3,product,CellTherapyProductsYescarta,Yescarta,Yescarta,Cell Therapy,211,USD,millions,reported,SEC 10-Q 0000882095-23-000017
-2022,Q1,2022-03-31,3,product,HepatitisBVirusHepatitisDeltaVirusProductOther,Other HBV/HBD,其他乙肝/丁肝药物,HBV/HDV,13,USD,millions,reported,SEC 10-Q 0000882095-23-000017
-2022,Q1,2022-03-31,3,product,HepatitisBVirusHepatitisDeltaVirusProductVemlidy,Vemlidy,韦立得 Vemlidy,HBV/HDV,200,USD,millions,reported,SEC 10-Q 0000882095-23-000017
-2022,Q1,2022-03-31,3,product,HepatitisBVirusHepatitisDeltaVirusProductViread,Viread,韦瑞德 Viread,HBV/HDV,23,USD,millions,reported,SEC 10-Q 0000882095-23-000017
-2022,Q1,2022-03-31,3,product,HCVProductsLedipasvirSofosbuvir,Ledipasvir/Sofosbuvir,雷迪帕韦/索磷布韦,HCV,35,USD,millions,reported,SEC 10-Q 0000882095-23-000017
-2022,Q1,2022-03-31,3,product,HCVProductsSofosbuvirVelpatasvir,Sofosbuvir/Velpatasvir,索磷布韦/维帕他韦,HCV,330,USD,millions,reported,SEC 10-Q 0000882095-23-000017
-2022,Q1,2022-03-31,3,product,OtherHepatitisCVirusProducts,Other HCV,其他丙肝药物,HCV,34,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2022,Q1,2022-03-31,3,product,OtherProductsYescarta,Yescarta,Yescarta,Cell Therapy,211,USD,millions,reported,SEC 10-Q 0000882095-23-000017
 2022,Q1,2022-03-31,3,product,HIVProductsBiktarvy,Biktarvy,必妥维 Biktarvy,HIV,2151,USD,millions,reported,SEC 10-Q 0000882095-23-000017
 2022,Q1,2022-03-31,3,product,HIVProductsCompleraEviplera,Complera/Eviplera,Complera/Eviplera,HIV,44,USD,millions,reported,SEC 10-Q 0000882095-23-000017
 2022,Q1,2022-03-31,3,product,HIVProductsDescovy,Descovy,Descovy,HIV,374,USD,millions,reported,SEC 10-Q 0000882095-23-000017
 2022,Q1,2022-03-31,3,product,HIVProductsGenvoya,Genvoya,捷扶康 Genvoya,HIV,582,USD,millions,reported,SEC 10-Q 0000882095-23-000017
 2022,Q1,2022-03-31,3,product,HIVProductsOdefsey,Odefsey,Odefsey,HIV,339,USD,millions,reported,SEC 10-Q 0000882095-23-000017
 2022,Q1,2022-03-31,3,product,HIVProductsStribild,Stribild,欣愈尔 Stribild,HIV,32,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2022,Q1,2022-03-31,3,product,HIVProductsSymtuzaRevenueShare,Symtuza - Revenue share,Symtuza 分成收入,HIV,132,USD,millions,reported,SEC 10-Q 0000882095-23-000017
 2022,Q1,2022-03-31,3,product,HIVProductsTruvada,Truvada,特鲁瓦达 Truvada,HIV,38,USD,millions,reported,SEC 10-Q 0000882095-23-000017
 2022,Q1,2022-03-31,3,product,ProductsOtherHIV,Other HIV,其他艾滋病药物,HIV,14,USD,millions,reported,SEC 10-Q 0000882095-23-000017
-2022,Q1,2022-03-31,3,product,ProductsRevenueShareSymtuza,Revenue share - Symtuza,Symtuza 分成收入,HIV,132,USD,millions,reported,SEC 10-Q 0000882095-23-000017
 2022,Q1,2022-03-31,3,product,Veklury,Veklury,瑞德西韦 Veklury,Infectious Disease,1535,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2022,Q1,2022-03-31,3,product,HCVProductsLedipasvirSofosbuvir,Ledipasvir/Sofosbuvir,雷迪帕韦/索磷布韦,Liver Disease,35,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2022,Q1,2022-03-31,3,product,HepatitisBVirusHepatitisDeltaVirusProductOther,Other HBV/HBD,其他乙肝/丁肝药物,Liver Disease,13,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2022,Q1,2022-03-31,3,product,HepatitisBVirusHepatitisDeltaVirusProductViread,Viread,韦瑞德 Viread,Liver Disease,23,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2022,Q1,2022-03-31,3,product,LiverDiseaseProductsSofosbuvirVelpatasvir,Sofosbuvir/Velpatasvir,索磷布韦/维帕他韦,Liver Disease,330,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2022,Q1,2022-03-31,3,product,LiverDiseaseProductsVemlidy,Vemlidy,韦立得 Vemlidy,Liver Disease,200,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2022,Q1,2022-03-31,3,product,OtherHepatitisCVirusProducts,Other HCV,其他丙肝药物,Liver Disease,34,USD,millions,reported,SEC 10-Q 0000882095-23-000017
 2022,Q1,2022-03-31,3,product,Trodelvy,Trodelvy,Trodelvy,Oncology,146,USD,millions,reported,SEC 10-Q 0000882095-23-000017
 2022,Q1,2022-03-31,3,product,OtherProductsAmBisome,AmBisome,注射用两性霉素B脂质体,Other,144,USD,millions,reported,SEC 10-Q 0000882095-23-000017
 2022,Q1,2022-03-31,3,product,OtherProductsLetairis,Letairis,Letairis,Other,43,USD,millions,reported,SEC 10-Q 0000882095-23-000017
 2022,Q1,2022-03-31,3,product,OtherProductsOther,Other,其他产品,Other,50,USD,millions,reported,SEC 10-Q 0000882095-23-000017
 2022,Q1,2022-03-31,3,product,RoyaltyContractAndOther,"Royalty, contract and other revenues",特许权及合同等收入,Other,56,USD,millions,reported,SEC 10-Q 0000882095-23-000017
 2022,Q2,2022-06-30,3,geography,Europe,Europe,欧洲,,1076,USD,millions,reported,SEC 10-Q 0000882095-23-000025
-2022,Q2,2022-06-30,3,geography,OtherInternational,Other International,世界其他地区,,844,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2022,Q2,2022-06-30,3,geography,RestOfWorld,Rest of World,世界其他地区,,844,USD,millions,reported,SEC 10-Q 0000882095-23-000025
 2022,Q2,2022-06-30,3,geography,US,U.S.,美国,,4339,USD,millions,reported,SEC 10-Q 0000882095-23-000025
 2022,Q2,2022-06-30,3,product,CellTherapyProductsTecartus,Tecartus,Tecartus,Cell Therapy,73,USD,millions,reported,SEC 10-Q 0000882095-23-000025
-2022,Q2,2022-06-30,3,product,CellTherapyProductsYescarta,Yescarta,Yescarta,Cell Therapy,295,USD,millions,reported,SEC 10-Q 0000882095-23-000025
-2022,Q2,2022-06-30,3,product,HepatitisBVirusHepatitisDeltaVirusProductOther,Other HBV/HBD,其他乙肝/丁肝药物,HBV/HDV,16,USD,millions,reported,SEC 10-Q 0000882095-23-000025
-2022,Q2,2022-06-30,3,product,HepatitisBVirusHepatitisDeltaVirusProductVemlidy,Vemlidy,韦立得 Vemlidy,HBV/HDV,195,USD,millions,reported,SEC 10-Q 0000882095-23-000025
-2022,Q2,2022-06-30,3,product,HepatitisBVirusHepatitisDeltaVirusProductViread,Viread,韦瑞德 Viread,HBV/HDV,24,USD,millions,reported,SEC 10-Q 0000882095-23-000025
-2022,Q2,2022-06-30,3,product,HCVProductsLedipasvirSofosbuvir,Ledipasvir/Sofosbuvir,雷迪帕韦/索磷布韦,HCV,23,USD,millions,reported,SEC 10-Q 0000882095-23-000025
-2022,Q2,2022-06-30,3,product,HCVProductsSofosbuvirVelpatasvir,Sofosbuvir/Velpatasvir,索磷布韦/维帕他韦,HCV,376,USD,millions,reported,SEC 10-Q 0000882095-23-000025
-2022,Q2,2022-06-30,3,product,OtherHepatitisCVirusProducts,Other HCV,其他丙肝药物,HCV,49,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2022,Q2,2022-06-30,3,product,OtherProductsYescarta,Yescarta,Yescarta,Cell Therapy,295,USD,millions,reported,SEC 10-Q 0000882095-23-000025
 2022,Q2,2022-06-30,3,product,HIVProductsBiktarvy,Biktarvy,必妥维 Biktarvy,HIV,2556,USD,millions,reported,SEC 10-Q 0000882095-23-000025
 2022,Q2,2022-06-30,3,product,HIVProductsCompleraEviplera,Complera/Eviplera,Complera/Eviplera,HIV,54,USD,millions,reported,SEC 10-Q 0000882095-23-000025
 2022,Q2,2022-06-30,3,product,HIVProductsDescovy,Descovy,Descovy,HIV,460,USD,millions,reported,SEC 10-Q 0000882095-23-000025
 2022,Q2,2022-06-30,3,product,HIVProductsGenvoya,Genvoya,捷扶康 Genvoya,HIV,582,USD,millions,reported,SEC 10-Q 0000882095-23-000025
 2022,Q2,2022-06-30,3,product,HIVProductsOdefsey,Odefsey,Odefsey,HIV,364,USD,millions,reported,SEC 10-Q 0000882095-23-000025
 2022,Q2,2022-06-30,3,product,HIVProductsStribild,Stribild,欣愈尔 Stribild,HIV,33,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2022,Q2,2022-06-30,3,product,HIVProductsSymtuzaRevenueShare,Symtuza - Revenue share,Symtuza 分成收入,HIV,126,USD,millions,reported,SEC 10-Q 0000882095-23-000025
 2022,Q2,2022-06-30,3,product,HIVProductsTruvada,Truvada,特鲁瓦达 Truvada,HIV,34,USD,millions,reported,SEC 10-Q 0000882095-23-000025
 2022,Q2,2022-06-30,3,product,ProductsOtherHIV,Other HIV,其他艾滋病药物,HIV,18,USD,millions,reported,SEC 10-Q 0000882095-23-000025
-2022,Q2,2022-06-30,3,product,ProductsRevenueShareSymtuza,Revenue share - Symtuza,Symtuza 分成收入,HIV,126,USD,millions,reported,SEC 10-Q 0000882095-23-000025
 2022,Q2,2022-06-30,3,product,Veklury,Veklury,瑞德西韦 Veklury,Infectious Disease,445,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2022,Q2,2022-06-30,3,product,HCVProductsLedipasvirSofosbuvir,Ledipasvir/Sofosbuvir,雷迪帕韦/索磷布韦,Liver Disease,23,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2022,Q2,2022-06-30,3,product,HepatitisBVirusHepatitisDeltaVirusProductOther,Other HBV/HBD,其他乙肝/丁肝药物,Liver Disease,16,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2022,Q2,2022-06-30,3,product,HepatitisBVirusHepatitisDeltaVirusProductViread,Viread,韦瑞德 Viread,Liver Disease,24,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2022,Q2,2022-06-30,3,product,LiverDiseaseProductsSofosbuvirVelpatasvir,Sofosbuvir/Velpatasvir,索磷布韦/维帕他韦,Liver Disease,376,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2022,Q2,2022-06-30,3,product,LiverDiseaseProductsVemlidy,Vemlidy,韦立得 Vemlidy,Liver Disease,195,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2022,Q2,2022-06-30,3,product,OtherHepatitisCVirusProducts,Other HCV,其他丙肝药物,Liver Disease,49,USD,millions,reported,SEC 10-Q 0000882095-23-000025
 2022,Q2,2022-06-30,3,product,Trodelvy,Trodelvy,Trodelvy,Oncology,159,USD,millions,reported,SEC 10-Q 0000882095-23-000025
 2022,Q2,2022-06-30,3,product,OtherProductsAmBisome,AmBisome,注射用两性霉素B脂质体,Other,132,USD,millions,reported,SEC 10-Q 0000882095-23-000025
 2022,Q2,2022-06-30,3,product,OtherProductsLetairis,Letairis,Letairis,Other,49,USD,millions,reported,SEC 10-Q 0000882095-23-000025
 2022,Q2,2022-06-30,3,product,OtherProductsOther,Other,其他产品,Other,76,USD,millions,reported,SEC 10-Q 0000882095-23-000025
 2022,Q2,2022-06-30,3,product,RoyaltyContractAndOther,"Royalty, contract and other revenues",特许权及合同等收入,Other,122,USD,millions,reported,SEC 10-Q 0000882095-23-000025
 2022,Q3,2022-09-30,3,geography,Europe,Europe,欧洲,,1101,USD,millions,reported,SEC 10-Q 0000882095-23-000031
-2022,Q3,2022-09-30,3,geography,OtherInternational,Other International,世界其他地区,,1013,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2022,Q3,2022-09-30,3,geography,RestOfWorld,Rest of World,世界其他地区,,1013,USD,millions,reported,SEC 10-Q 0000882095-23-000031
 2022,Q3,2022-09-30,3,geography,US,U.S.,美国,,4928,USD,millions,reported,SEC 10-Q 0000882095-23-000031
 2022,Q3,2022-09-30,3,product,CellTherapyProductsTecartus,Tecartus,Tecartus,Cell Therapy,81,USD,millions,reported,SEC 10-Q 0000882095-23-000031
-2022,Q3,2022-09-30,3,product,CellTherapyProductsYescarta,Yescarta,Yescarta,Cell Therapy,317,USD,millions,reported,SEC 10-Q 0000882095-23-000031
-2022,Q3,2022-09-30,3,product,HepatitisBVirusHepatitisDeltaVirusProductOther,Other HBV/HBD,其他乙肝/丁肝药物,HBV/HDV,14,USD,millions,reported,SEC 10-Q 0000882095-23-000031
-2022,Q3,2022-09-30,3,product,HepatitisBVirusHepatitisDeltaVirusProductVemlidy,Vemlidy,韦立得 Vemlidy,HBV/HDV,228,USD,millions,reported,SEC 10-Q 0000882095-23-000031
-2022,Q3,2022-09-30,3,product,HepatitisBVirusHepatitisDeltaVirusProductViread,Viread,韦瑞德 Viread,HBV/HDV,22,USD,millions,reported,SEC 10-Q 0000882095-23-000031
-2022,Q3,2022-09-30,3,product,HCVProductsLedipasvirSofosbuvir,Ledipasvir/Sofosbuvir,雷迪帕韦/索磷布韦,HCV,25,USD,millions,reported,SEC 10-Q 0000882095-23-000031
-2022,Q3,2022-09-30,3,product,HCVProductsSofosbuvirVelpatasvir,Sofosbuvir/Velpatasvir,索磷布韦/维帕他韦,HCV,455,USD,millions,reported,SEC 10-Q 0000882095-23-000031
-2022,Q3,2022-09-30,3,product,OtherHepatitisCVirusProducts,Other HCV,其他丙肝药物,HCV,44,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2022,Q3,2022-09-30,3,product,OtherProductsYescarta,Yescarta,Yescarta,Cell Therapy,317,USD,millions,reported,SEC 10-Q 0000882095-23-000031
 2022,Q3,2022-09-30,3,product,HIVProductsBiktarvy,Biktarvy,必妥维 Biktarvy,HIV,2766,USD,millions,reported,SEC 10-Q 0000882095-23-000031
 2022,Q3,2022-09-30,3,product,HIVProductsCompleraEviplera,Complera/Eviplera,Complera/Eviplera,HIV,43,USD,millions,reported,SEC 10-Q 0000882095-23-000031
 2022,Q3,2022-09-30,3,product,HIVProductsDescovy,Descovy,Descovy,HIV,500,USD,millions,reported,SEC 10-Q 0000882095-23-000031
 2022,Q3,2022-09-30,3,product,HIVProductsGenvoya,Genvoya,捷扶康 Genvoya,HIV,600,USD,millions,reported,SEC 10-Q 0000882095-23-000031
 2022,Q3,2022-09-30,3,product,HIVProductsOdefsey,Odefsey,Odefsey,HIV,374,USD,millions,reported,SEC 10-Q 0000882095-23-000031
 2022,Q3,2022-09-30,3,product,HIVProductsStribild,Stribild,欣愈尔 Stribild,HIV,32,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2022,Q3,2022-09-30,3,product,HIVProductsSymtuzaRevenueShare,Symtuza - Revenue share,Symtuza 分成收入,HIV,130,USD,millions,reported,SEC 10-Q 0000882095-23-000031
 2022,Q3,2022-09-30,3,product,HIVProductsTruvada,Truvada,特鲁瓦达 Truvada,HIV,30,USD,millions,reported,SEC 10-Q 0000882095-23-000031
 2022,Q3,2022-09-30,3,product,ProductsOtherHIV,Other HIV,其他艾滋病药物,HIV,12,USD,millions,reported,SEC 10-Q 0000882095-23-000031
-2022,Q3,2022-09-30,3,product,ProductsRevenueShareSymtuza,Revenue share - Symtuza,Symtuza 分成收入,HIV,130,USD,millions,reported,SEC 10-Q 0000882095-23-000031
 2022,Q3,2022-09-30,3,product,Veklury,Veklury,瑞德西韦 Veklury,Infectious Disease,925,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2022,Q3,2022-09-30,3,product,HCVProductsLedipasvirSofosbuvir,Ledipasvir/Sofosbuvir,雷迪帕韦/索磷布韦,Liver Disease,25,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2022,Q3,2022-09-30,3,product,HepatitisBVirusHepatitisDeltaVirusProductOther,Other HBV/HBD,其他乙肝/丁肝药物,Liver Disease,14,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2022,Q3,2022-09-30,3,product,HepatitisBVirusHepatitisDeltaVirusProductViread,Viread,韦瑞德 Viread,Liver Disease,22,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2022,Q3,2022-09-30,3,product,LiverDiseaseProductsSofosbuvirVelpatasvir,Sofosbuvir/Velpatasvir,索磷布韦/维帕他韦,Liver Disease,455,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2022,Q3,2022-09-30,3,product,LiverDiseaseProductsVemlidy,Vemlidy,韦立得 Vemlidy,Liver Disease,228,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2022,Q3,2022-09-30,3,product,OtherHepatitisCVirusProducts,Other HCV,其他丙肝药物,Liver Disease,44,USD,millions,reported,SEC 10-Q 0000882095-23-000031
 2022,Q3,2022-09-30,3,product,Trodelvy,Trodelvy,Trodelvy,Oncology,180,USD,millions,reported,SEC 10-Q 0000882095-23-000031
 2022,Q3,2022-09-30,3,product,OtherProductsAmBisome,AmBisome,注射用两性霉素B脂质体,Other,105,USD,millions,reported,SEC 10-Q 0000882095-23-000031
 2022,Q3,2022-09-30,3,product,OtherProductsLetairis,Letairis,Letairis,Other,43,USD,millions,reported,SEC 10-Q 0000882095-23-000031
 2022,Q3,2022-09-30,3,product,OtherProductsOther,Other,其他产品,Other,52,USD,millions,reported,SEC 10-Q 0000882095-23-000031
 2022,Q3,2022-09-30,3,product,RoyaltyContractAndOther,"Royalty, contract and other revenues",特许权及合同等收入,Other,64,USD,millions,reported,SEC 10-Q 0000882095-23-000031
 2022,Q4,2022-12-31,3,geography,Europe,Europe,欧洲,,1091,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
-2022,Q4,2022-12-31,3,geography,OtherInternational,Other International,世界其他地区,,1037,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
+2022,Q4,2022-12-31,3,geography,RestOfWorld,Rest of World,世界其他地区,,1037,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
 2022,Q4,2022-12-31,3,geography,US,U.S.,美国,,5262,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
 2022,Q4,2022-12-31,3,product,OtherNotItemized,Other (not itemized),其他（未单列）,,376,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
 2022,Q4,2022-12-31,3,product,CellTherapyProductsTecartus,Tecartus,Tecartus,Cell Therapy,82,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
-2022,Q4,2022-12-31,3,product,HepatitisBVirusHepatitisDeltaVirusProductOther,Other HB/HDV,其他乙肝/丁肝药物,HBV/HDV,13,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
-2022,Q4,2022-12-31,3,product,HepatitisBVirusHepatitisDeltaVirusProductVemlidy,Vemlidy,韦立得 Vemlidy,HBV/HDV,220,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
-2022,Q4,2022-12-31,3,product,HepatitisBVirusHepatitisDeltaVirusProductViread,Viread,韦瑞德 Viread,HBV/HDV,22,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
-2022,Q4,2022-12-31,3,product,HCVProductsLedipasvirSofosbuvir,Ledipasvir/Sofosbuvir,雷迪帕韦/索磷布韦,HCV,32,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
-2022,Q4,2022-12-31,3,product,HCVProductsSofosbuvirVelpatasvir,Sofosbuvir/Velpatasvir,索磷布韦/维帕他韦,HCV,369,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
 2022,Q4,2022-12-31,3,product,HIVProductsBiktarvy,Biktarvy,必妥维 Biktarvy,HIV,2918,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
 2022,Q4,2022-12-31,3,product,HIVProductsCompleraEviplera,Complera/Eviplera,Complera/Eviplera,HIV,58,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
 2022,Q4,2022-12-31,3,product,HIVProductsDescovy,Descovy,Descovy,HIV,537,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
 2022,Q4,2022-12-31,3,product,HIVProductsGenvoya,Genvoya,捷扶康 Genvoya,HIV,640,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
 2022,Q4,2022-12-31,3,product,HIVProductsOdefsey,Odefsey,Odefsey,HIV,392,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
 2022,Q4,2022-12-31,3,product,HIVProductsStribild,Stribild,欣愈尔 Stribild,HIV,29,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
+2022,Q4,2022-12-31,3,product,HIVProductsSymtuzaRevenueShare,Symtuza - Revenue share,Symtuza 分成收入,HIV,142,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
 2022,Q4,2022-12-31,3,product,HIVProductsTruvada,Truvada,特鲁瓦达 Truvada,HIV,45,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
 2022,Q4,2022-12-31,3,product,ProductsOtherHIV,Other HIV,其他艾滋病药物,HIV,12,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
-2022,Q4,2022-12-31,3,product,ProductsRevenueShareSymtuza,Revenue share - Symtuza,Symtuza 分成收入,HIV,142,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
 2022,Q4,2022-12-31,3,product,Veklury,Veklury,瑞德西韦 Veklury,Infectious Disease,1000,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
+2022,Q4,2022-12-31,3,product,HCVProductsLedipasvirSofosbuvir,Ledipasvir/Sofosbuvir,雷迪帕韦/索磷布韦,Liver Disease,32,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
+2022,Q4,2022-12-31,3,product,HepatitisBVirusHepatitisDeltaVirusProductOther,Other HB/HDV,其他乙肝/丁肝药物,Liver Disease,13,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
+2022,Q4,2022-12-31,3,product,HepatitisBVirusHepatitisDeltaVirusProductViread,Viread,韦瑞德 Viread,Liver Disease,22,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
+2022,Q4,2022-12-31,3,product,LiverDiseaseProductsSofosbuvirVelpatasvir,Sofosbuvir/Velpatasvir,索磷布韦/维帕他韦,Liver Disease,369,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
+2022,Q4,2022-12-31,3,product,LiverDiseaseProductsVemlidy,Vemlidy,韦立得 Vemlidy,Liver Disease,220,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
 2022,Q4,2022-12-31,3,product,Trodelvy,Trodelvy,Trodelvy,Oncology,195,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
 2022,Q4,2022-12-31,3,product,OtherProductsAmBisome,AmBisome,注射用两性霉素B脂质体,Other,117,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
 2022,Q4,2022-12-31,3,product,OtherProductsLetairis,Letairis,Letairis,Other,61,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
 2022,Q4,2022-12-31,3,product,OtherProductsOther,Other,其他产品,Other,75,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
 2022,Q4,2022-12-31,3,product,RoyaltyContractAndOther,"Royalty, contract and other revenues",特许权及合同等收入,Other,57,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
 2022,FY,2022-12-31,12,geography,Europe,Europe,欧洲,,4469,USD,millions,reported,SEC 10-K 0000882095-24-000007
-2022,FY,2022-12-31,12,geography,OtherInternational,Other International,世界其他地区,,3928,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2022,FY,2022-12-31,12,geography,RestOfWorld,Rest of World,世界其他地区,,3928,USD,millions,reported,SEC 10-K 0000882095-24-000007
 2022,FY,2022-12-31,12,geography,US,U.S.,美国,,18884,USD,millions,reported,SEC 10-K 0000882095-24-000007
 2022,FY,2022-12-31,12,product,CellTherapyProductsTecartus,Tecartus,Tecartus,Cell Therapy,299,USD,millions,reported,SEC 10-K 0000882095-24-000007
 2022,FY,2022-12-31,12,product,OtherProductsYescarta,Yescarta,Yescarta,Cell Therapy,1160,USD,millions,reported,SEC 10-K 0000882095-24-000007
-2022,FY,2022-12-31,12,product,HepatitisBVirusHepatitisDeltaVirusProductOther,Other HB/HDV,其他乙肝/丁肝药物,HBV/HDV,55,USD,millions,reported,SEC 10-K 0000882095-24-000007
-2022,FY,2022-12-31,12,product,HepatitisBVirusHepatitisDeltaVirusProductVemlidy,Vemlidy,韦立得 Vemlidy,HBV/HDV,842,USD,millions,reported,SEC 10-K 0000882095-24-000007
-2022,FY,2022-12-31,12,product,HepatitisBVirusHepatitisDeltaVirusProductViread,Viread,韦瑞德 Viread,HBV/HDV,91,USD,millions,reported,SEC 10-K 0000882095-24-000007
-2022,FY,2022-12-31,12,product,HCVProductsLedipasvirSofosbuvir,Ledipasvir/Sofosbuvir,雷迪帕韦/索磷布韦,HCV,115,USD,millions,reported,SEC 10-K 0000882095-24-000007
-2022,FY,2022-12-31,12,product,HCVProductsSofosbuvirVelpatasvir,Sofosbuvir/Velpatasvir,索磷布韦/维帕他韦,HCV,1530,USD,millions,reported,SEC 10-K 0000882095-24-000007
-2022,FY,2022-12-31,12,product,OtherHCV,Other HCV,其他丙肝药物,HCV,166,USD,millions,reported,SEC 10-K 0000882095-24-000007
 2022,FY,2022-12-31,12,product,HIVProductsBiktarvy,Biktarvy,必妥维 Biktarvy,HIV,10390,USD,millions,reported,SEC 10-K 0000882095-24-000007
 2022,FY,2022-12-31,12,product,HIVProductsCompleraEviplera,Complera/Eviplera,Complera/Eviplera,HIV,200,USD,millions,reported,SEC 10-K 0000882095-24-000007
 2022,FY,2022-12-31,12,product,HIVProductsDescovy,Descovy,Descovy,HIV,1872,USD,millions,reported,SEC 10-K 0000882095-24-000007
 2022,FY,2022-12-31,12,product,HIVProductsGenvoya,Genvoya,捷扶康 Genvoya,HIV,2404,USD,millions,reported,SEC 10-K 0000882095-24-000007
 2022,FY,2022-12-31,12,product,HIVProductsOdefsey,Odefsey,Odefsey,HIV,1469,USD,millions,reported,SEC 10-K 0000882095-24-000007
 2022,FY,2022-12-31,12,product,HIVProductsStribild,Stribild,欣愈尔 Stribild,HIV,127,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2022,FY,2022-12-31,12,product,HIVProductsSymtuzaRevenueShare,Symtuza - Revenue share,Symtuza 分成收入,HIV,530,USD,millions,reported,SEC 10-K 0000882095-24-000007
 2022,FY,2022-12-31,12,product,HIVProductsTruvada,Truvada,特鲁瓦达 Truvada,HIV,147,USD,millions,reported,SEC 10-K 0000882095-24-000007
 2022,FY,2022-12-31,12,product,ProductsOtherHIV,Other HIV,其他艾滋病药物,HIV,57,USD,millions,reported,SEC 10-K 0000882095-24-000007
-2022,FY,2022-12-31,12,product,ProductsRevenueShareSymtuza,Revenue share - Symtuza,Symtuza 分成收入,HIV,530,USD,millions,reported,SEC 10-K 0000882095-24-000007
 2022,FY,2022-12-31,12,product,Veklury,Veklury,瑞德西韦 Veklury,Infectious Disease,3905,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2022,FY,2022-12-31,12,product,HCVProductsLedipasvirSofosbuvir,Ledipasvir/Sofosbuvir,雷迪帕韦/索磷布韦,Liver Disease,115,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2022,FY,2022-12-31,12,product,HepatitisBVirusHepatitisDeltaVirusProductOther,Other HB/HDV,其他乙肝/丁肝药物,Liver Disease,55,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2022,FY,2022-12-31,12,product,HepatitisBVirusHepatitisDeltaVirusProductViread,Viread,韦瑞德 Viread,Liver Disease,91,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2022,FY,2022-12-31,12,product,LiverDiseaseProductsSofosbuvirVelpatasvir,Sofosbuvir/Velpatasvir,索磷布韦/维帕他韦,Liver Disease,1530,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2022,FY,2022-12-31,12,product,LiverDiseaseProductsVemlidy,Vemlidy,韦立得 Vemlidy,Liver Disease,842,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2022,FY,2022-12-31,12,product,OtherHCV,Other HCV,其他丙肝药物,Liver Disease,166,USD,millions,reported,SEC 10-K 0000882095-24-000007
 2022,FY,2022-12-31,12,product,Trodelvy,Trodelvy,Trodelvy,Oncology,680,USD,millions,reported,SEC 10-K 0000882095-24-000007
 2022,FY,2022-12-31,12,product,OtherProductsAmBisome,AmBisome,注射用两性霉素B脂质体,Other,497,USD,millions,reported,SEC 10-K 0000882095-24-000007
 2022,FY,2022-12-31,12,product,OtherProductsLetairis,Letairis,Letairis,Other,196,USD,millions,reported,SEC 10-K 0000882095-24-000007
 2022,FY,2022-12-31,12,product,OtherProductsOther,Other,其他产品,Other,253,USD,millions,reported,SEC 10-K 0000882095-24-000007
 2022,FY,2022-12-31,12,product,RoyaltyContractAndOther,"Royalty, contract and other revenues",特许权及合同等收入,Other,299,USD,millions,reported,SEC 10-K 0000882095-24-000007
 2023,Q1,2023-03-31,3,geography,Europe,Europe,欧洲,,1079,USD,millions,reported,SEC 10-Q 0000882095-23-000017
-2023,Q1,2023-03-31,3,geography,OtherInternational,Other International,世界其他地区,,821,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2023,Q1,2023-03-31,3,geography,RestOfWorld,Rest of World,世界其他地区,,821,USD,millions,reported,SEC 10-Q 0000882095-23-000017
 2023,Q1,2023-03-31,3,geography,US,U.S.,美国,,4452,USD,millions,reported,SEC 10-Q 0000882095-23-000017
 2023,Q1,2023-03-31,3,product,CellTherapyProductsTecartus,Tecartus,Tecartus,Cell Therapy,89,USD,millions,reported,SEC 10-Q 0000882095-23-000017
-2023,Q1,2023-03-31,3,product,CellTherapyProductsYescarta,Yescarta,Yescarta,Cell Therapy,359,USD,millions,reported,SEC 10-Q 0000882095-23-000017
-2023,Q1,2023-03-31,3,product,HepatitisBVirusHepatitisDeltaVirusProductOther,Other HBV/HBD,其他乙肝/丁肝药物,HBV/HDV,11,USD,millions,reported,SEC 10-Q 0000882095-23-000017
-2023,Q1,2023-03-31,3,product,HepatitisBVirusHepatitisDeltaVirusProductVemlidy,Vemlidy,韦立得 Vemlidy,HBV/HDV,199,USD,millions,reported,SEC 10-Q 0000882095-23-000017
-2023,Q1,2023-03-31,3,product,HepatitisBVirusHepatitisDeltaVirusProductViread,Viread,韦瑞德 Viread,HBV/HDV,19,USD,millions,reported,SEC 10-Q 0000882095-23-000017
-2023,Q1,2023-03-31,3,product,HCVProductsLedipasvirSofosbuvir,Ledipasvir/Sofosbuvir,雷迪帕韦/索磷布韦,HCV,15,USD,millions,reported,SEC 10-Q 0000882095-23-000017
-2023,Q1,2023-03-31,3,product,HCVProductsSofosbuvirVelpatasvir,Sofosbuvir/Velpatasvir,索磷布韦/维帕他韦,HCV,385,USD,millions,reported,SEC 10-Q 0000882095-23-000017
-2023,Q1,2023-03-31,3,product,OtherHepatitisCVirusProducts,Other HCV,其他丙肝药物,HCV,45,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2023,Q1,2023-03-31,3,product,OtherProductsYescarta,Yescarta,Yescarta,Cell Therapy,359,USD,millions,reported,SEC 10-Q 0000882095-23-000017
 2023,Q1,2023-03-31,3,product,HIVProductsBiktarvy,Biktarvy,必妥维 Biktarvy,HIV,2677,USD,millions,reported,SEC 10-Q 0000882095-23-000017
 2023,Q1,2023-03-31,3,product,HIVProductsCompleraEviplera,Complera/Eviplera,Complera/Eviplera,HIV,39,USD,millions,reported,SEC 10-Q 0000882095-23-000017
 2023,Q1,2023-03-31,3,product,HIVProductsDescovy,Descovy,Descovy,HIV,449,USD,millions,reported,SEC 10-Q 0000882095-23-000017
 2023,Q1,2023-03-31,3,product,HIVProductsGenvoya,Genvoya,捷扶康 Genvoya,HIV,501,USD,millions,reported,SEC 10-Q 0000882095-23-000017
 2023,Q1,2023-03-31,3,product,HIVProductsOdefsey,Odefsey,Odefsey,HIV,317,USD,millions,reported,SEC 10-Q 0000882095-23-000017
 2023,Q1,2023-03-31,3,product,HIVProductsStribild,Stribild,欣愈尔 Stribild,HIV,28,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2023,Q1,2023-03-31,3,product,HIVProductsSymtuzaRevenueShare,Symtuza - Revenue share,Symtuza 分成收入,HIV,138,USD,millions,reported,SEC 10-Q 0000882095-23-000017
 2023,Q1,2023-03-31,3,product,HIVProductsTruvada,Truvada,特鲁瓦达 Truvada,HIV,32,USD,millions,reported,SEC 10-Q 0000882095-23-000017
 2023,Q1,2023-03-31,3,product,ProductsOtherHIV,Other HIV,其他艾滋病药物,HIV,9,USD,millions,reported,SEC 10-Q 0000882095-23-000017
-2023,Q1,2023-03-31,3,product,ProductsRevenueShareSymtuza,Revenue share - Symtuza,Symtuza 分成收入,HIV,138,USD,millions,reported,SEC 10-Q 0000882095-23-000017
 2023,Q1,2023-03-31,3,product,Veklury,Veklury,瑞德西韦 Veklury,Infectious Disease,573,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2023,Q1,2023-03-31,3,product,HCVProductsLedipasvirSofosbuvir,Ledipasvir/Sofosbuvir,雷迪帕韦/索磷布韦,Liver Disease,15,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2023,Q1,2023-03-31,3,product,HepatitisBVirusHepatitisDeltaVirusProductOther,Other HBV/HBD,其他乙肝/丁肝药物,Liver Disease,11,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2023,Q1,2023-03-31,3,product,HepatitisBVirusHepatitisDeltaVirusProductViread,Viread,韦瑞德 Viread,Liver Disease,19,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2023,Q1,2023-03-31,3,product,LiverDiseaseProductsSofosbuvirVelpatasvir,Sofosbuvir/Velpatasvir,索磷布韦/维帕他韦,Liver Disease,385,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2023,Q1,2023-03-31,3,product,LiverDiseaseProductsVemlidy,Vemlidy,韦立得 Vemlidy,Liver Disease,199,USD,millions,reported,SEC 10-Q 0000882095-23-000017
+2023,Q1,2023-03-31,3,product,OtherHepatitisCVirusProducts,Other HCV,其他丙肝药物,Liver Disease,45,USD,millions,reported,SEC 10-Q 0000882095-23-000017
 2023,Q1,2023-03-31,3,product,Trodelvy,Trodelvy,Trodelvy,Oncology,222,USD,millions,reported,SEC 10-Q 0000882095-23-000017
 2023,Q1,2023-03-31,3,product,OtherProductsAmBisome,AmBisome,注射用两性霉素B脂质体,Other,116,USD,millions,reported,SEC 10-Q 0000882095-23-000017
 2023,Q1,2023-03-31,3,product,OtherProductsLetairis,Letairis,Letairis,Other,32,USD,millions,reported,SEC 10-Q 0000882095-23-000017
 2023,Q1,2023-03-31,3,product,OtherProductsOther,Other,其他产品,Other,51,USD,millions,reported,SEC 10-Q 0000882095-23-000017
 2023,Q1,2023-03-31,3,product,RoyaltyContractAndOther,"Royalty, contract and other revenues",特许权及合同等收入,Other,46,USD,millions,reported,SEC 10-Q 0000882095-23-000017
 2023,Q2,2023-06-30,3,geography,Europe,Europe,欧洲,,1027,USD,millions,reported,SEC 10-Q 0000882095-23-000025
-2023,Q2,2023-06-30,3,geography,OtherInternational,Other International,世界其他地区,,789,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2023,Q2,2023-06-30,3,geography,RestOfWorld,Rest of World,世界其他地区,,789,USD,millions,reported,SEC 10-Q 0000882095-23-000025
 2023,Q2,2023-06-30,3,geography,US,U.S.,美国,,4784,USD,millions,reported,SEC 10-Q 0000882095-23-000025
 2023,Q2,2023-06-30,3,product,CellTherapyProductsTecartus,Tecartus,Tecartus,Cell Therapy,88,USD,millions,reported,SEC 10-Q 0000882095-23-000025
-2023,Q2,2023-06-30,3,product,CellTherapyProductsYescarta,Yescarta,Yescarta,Cell Therapy,380,USD,millions,reported,SEC 10-Q 0000882095-23-000025
-2023,Q2,2023-06-30,3,product,HepatitisBVirusHepatitisDeltaVirusProductOther,Other HBV/HBD,其他乙肝/丁肝药物,HBV/HDV,20,USD,millions,reported,SEC 10-Q 0000882095-23-000025
-2023,Q2,2023-06-30,3,product,HepatitisBVirusHepatitisDeltaVirusProductVemlidy,Vemlidy,韦立得 Vemlidy,HBV/HDV,219,USD,millions,reported,SEC 10-Q 0000882095-23-000025
-2023,Q2,2023-06-30,3,product,HepatitisBVirusHepatitisDeltaVirusProductViread,Viread,韦瑞德 Viread,HBV/HDV,21,USD,millions,reported,SEC 10-Q 0000882095-23-000025
-2023,Q2,2023-06-30,3,product,HCVProductsLedipasvirSofosbuvir,Ledipasvir/Sofosbuvir,雷迪帕韦/索磷布韦,HCV,15,USD,millions,reported,SEC 10-Q 0000882095-23-000025
-2023,Q2,2023-06-30,3,product,HCVProductsSofosbuvirVelpatasvir,Sofosbuvir/Velpatasvir,索磷布韦/维帕他韦,HCV,397,USD,millions,reported,SEC 10-Q 0000882095-23-000025
-2023,Q2,2023-06-30,3,product,OtherHepatitisCVirusProducts,Other HCV,其他丙肝药物,HCV,40,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2023,Q2,2023-06-30,3,product,OtherProductsYescarta,Yescarta,Yescarta,Cell Therapy,380,USD,millions,reported,SEC 10-Q 0000882095-23-000025
 2023,Q2,2023-06-30,3,product,HIVProductsBiktarvy,Biktarvy,必妥维 Biktarvy,HIV,2979,USD,millions,reported,SEC 10-Q 0000882095-23-000025
 2023,Q2,2023-06-30,3,product,HIVProductsCompleraEviplera,Complera/Eviplera,Complera/Eviplera,HIV,32,USD,millions,reported,SEC 10-Q 0000882095-23-000025
 2023,Q2,2023-06-30,3,product,HIVProductsDescovy,Descovy,Descovy,HIV,516,USD,millions,reported,SEC 10-Q 0000882095-23-000025
 2023,Q2,2023-06-30,3,product,HIVProductsGenvoya,Genvoya,捷扶康 Genvoya,HIV,540,USD,millions,reported,SEC 10-Q 0000882095-23-000025
 2023,Q2,2023-06-30,3,product,HIVProductsOdefsey,Odefsey,Odefsey,HIV,351,USD,millions,reported,SEC 10-Q 0000882095-23-000025
 2023,Q2,2023-06-30,3,product,HIVProductsStribild,Stribild,欣愈尔 Stribild,HIV,26,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2023,Q2,2023-06-30,3,product,HIVProductsSymtuzaRevenueShare,Symtuza - Revenue share,Symtuza 分成收入,HIV,120,USD,millions,reported,SEC 10-Q 0000882095-23-000025
 2023,Q2,2023-06-30,3,product,HIVProductsTruvada,Truvada,特鲁瓦达 Truvada,HIV,42,USD,millions,reported,SEC 10-Q 0000882095-23-000025
 2023,Q2,2023-06-30,3,product,ProductsOtherHIV,Other HIV,其他艾滋病药物,HIV,20,USD,millions,reported,SEC 10-Q 0000882095-23-000025
-2023,Q2,2023-06-30,3,product,ProductsRevenueShareSymtuza,Revenue share - Symtuza,Symtuza 分成收入,HIV,120,USD,millions,reported,SEC 10-Q 0000882095-23-000025
 2023,Q2,2023-06-30,3,product,Veklury,Veklury,瑞德西韦 Veklury,Infectious Disease,256,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2023,Q2,2023-06-30,3,product,HCVProductsLedipasvirSofosbuvir,Ledipasvir/Sofosbuvir,雷迪帕韦/索磷布韦,Liver Disease,15,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2023,Q2,2023-06-30,3,product,HepatitisBVirusHepatitisDeltaVirusProductOther,Other HBV/HBD,其他乙肝/丁肝药物,Liver Disease,20,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2023,Q2,2023-06-30,3,product,HepatitisBVirusHepatitisDeltaVirusProductViread,Viread,韦瑞德 Viread,Liver Disease,21,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2023,Q2,2023-06-30,3,product,LiverDiseaseProductsSofosbuvirVelpatasvir,Sofosbuvir/Velpatasvir,索磷布韦/维帕他韦,Liver Disease,397,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2023,Q2,2023-06-30,3,product,LiverDiseaseProductsVemlidy,Vemlidy,韦立得 Vemlidy,Liver Disease,219,USD,millions,reported,SEC 10-Q 0000882095-23-000025
+2023,Q2,2023-06-30,3,product,OtherHepatitisCVirusProducts,Other HCV,其他丙肝药物,Liver Disease,40,USD,millions,reported,SEC 10-Q 0000882095-23-000025
 2023,Q2,2023-06-30,3,product,Trodelvy,Trodelvy,Trodelvy,Oncology,260,USD,millions,reported,SEC 10-Q 0000882095-23-000025
 2023,Q2,2023-06-30,3,product,OtherProductsAmBisome,AmBisome,注射用两性霉素B脂质体,Other,151,USD,millions,reported,SEC 10-Q 0000882095-23-000025
 2023,Q2,2023-06-30,3,product,OtherProductsLetairis,Letairis,Letairis,Other,39,USD,millions,reported,SEC 10-Q 0000882095-23-000025
 2023,Q2,2023-06-30,3,product,OtherProductsOther,Other,其他产品,Other,53,USD,millions,reported,SEC 10-Q 0000882095-23-000025
 2023,Q2,2023-06-30,3,product,RoyaltyContractAndOther,"Royalty, contract and other revenues",特许权及合同等收入,Other,35,USD,millions,reported,SEC 10-Q 0000882095-23-000025
 2023,Q3,2023-09-30,3,geography,Europe,Europe,欧洲,,1040,USD,millions,reported,SEC 10-Q 0000882095-23-000031
-2023,Q3,2023-09-30,3,geography,OtherInternational,Other International,世界其他地区,,993,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2023,Q3,2023-09-30,3,geography,RestOfWorld,Rest of World,世界其他地区,,993,USD,millions,reported,SEC 10-Q 0000882095-23-000031
 2023,Q3,2023-09-30,3,geography,US,U.S.,美国,,5017,USD,millions,reported,SEC 10-Q 0000882095-23-000031
 2023,Q3,2023-09-30,3,product,CellTherapyProductsTecartus,Tecartus,Tecartus,Cell Therapy,96,USD,millions,reported,SEC 10-Q 0000882095-23-000031
-2023,Q3,2023-09-30,3,product,CellTherapyProductsYescarta,Yescarta,Yescarta,Cell Therapy,391,USD,millions,reported,SEC 10-Q 0000882095-23-000031
-2023,Q3,2023-09-30,3,product,HepatitisBVirusHepatitisDeltaVirusProductOther,Other HBV/HBD,其他乙肝/丁肝药物,HBV/HDV,20,USD,millions,reported,SEC 10-Q 0000882095-23-000031
-2023,Q3,2023-09-30,3,product,HepatitisBVirusHepatitisDeltaVirusProductVemlidy,Vemlidy,韦立得 Vemlidy,HBV/HDV,228,USD,millions,reported,SEC 10-Q 0000882095-23-000031
-2023,Q3,2023-09-30,3,product,HepatitisBVirusHepatitisDeltaVirusProductViread,Viread,韦瑞德 Viread,HBV/HDV,21,USD,millions,reported,SEC 10-Q 0000882095-23-000031
-2023,Q3,2023-09-30,3,product,HCVProductsLedipasvirSofosbuvir,Ledipasvir/Sofosbuvir,雷迪帕韦/索磷布韦,HCV,23,USD,millions,reported,SEC 10-Q 0000882095-23-000031
-2023,Q3,2023-09-30,3,product,HCVProductsSofosbuvirVelpatasvir,Sofosbuvir/Velpatasvir,索磷布韦/维帕他韦,HCV,377,USD,millions,reported,SEC 10-Q 0000882095-23-000031
-2023,Q3,2023-09-30,3,product,OtherHepatitisCVirusProducts,Other HCV,其他丙肝药物,HCV,38,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2023,Q3,2023-09-30,3,product,OtherProductsYescarta,Yescarta,Yescarta,Cell Therapy,391,USD,millions,reported,SEC 10-Q 0000882095-23-000031
 2023,Q3,2023-09-30,3,product,HIVProductsBiktarvy,Biktarvy,必妥维 Biktarvy,HIV,3085,USD,millions,reported,SEC 10-Q 0000882095-23-000031
 2023,Q3,2023-09-30,3,product,HIVProductsCompleraEviplera,Complera/Eviplera,Complera/Eviplera,HIV,34,USD,millions,reported,SEC 10-Q 0000882095-23-000031
 2023,Q3,2023-09-30,3,product,HIVProductsDescovy,Descovy,Descovy,HIV,511,USD,millions,reported,SEC 10-Q 0000882095-23-000031
 2023,Q3,2023-09-30,3,product,HIVProductsGenvoya,Genvoya,捷扶康 Genvoya,HIV,503,USD,millions,reported,SEC 10-Q 0000882095-23-000031
 2023,Q3,2023-09-30,3,product,HIVProductsOdefsey,Odefsey,Odefsey,HIV,343,USD,millions,reported,SEC 10-Q 0000882095-23-000031
 2023,Q3,2023-09-30,3,product,HIVProductsStribild,Stribild,欣愈尔 Stribild,HIV,25,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2023,Q3,2023-09-30,3,product,HIVProductsSymtuzaRevenueShare,Symtuza - Revenue share,Symtuza 分成收入,HIV,131,USD,millions,reported,SEC 10-Q 0000882095-23-000031
 2023,Q3,2023-09-30,3,product,HIVProductsTruvada,Truvada,特鲁瓦达 Truvada,HIV,22,USD,millions,reported,SEC 10-Q 0000882095-23-000031
 2023,Q3,2023-09-30,3,product,ProductsOtherHIV,Other HIV,其他艾滋病药物,HIV,13,USD,millions,reported,SEC 10-Q 0000882095-23-000031
-2023,Q3,2023-09-30,3,product,ProductsRevenueShareSymtuza,Revenue share - Symtuza,Symtuza 分成收入,HIV,131,USD,millions,reported,SEC 10-Q 0000882095-23-000031
 2023,Q3,2023-09-30,3,product,Veklury,Veklury,瑞德西韦 Veklury,Infectious Disease,636,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2023,Q3,2023-09-30,3,product,HCVProductsLedipasvirSofosbuvir,Ledipasvir/Sofosbuvir,雷迪帕韦/索磷布韦,Liver Disease,23,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2023,Q3,2023-09-30,3,product,HepatitisBVirusHepatitisDeltaVirusProductOther,Other HBV/HBD,其他乙肝/丁肝药物,Liver Disease,20,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2023,Q3,2023-09-30,3,product,HepatitisBVirusHepatitisDeltaVirusProductViread,Viread,韦瑞德 Viread,Liver Disease,21,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2023,Q3,2023-09-30,3,product,LiverDiseaseProductsSofosbuvirVelpatasvir,Sofosbuvir/Velpatasvir,索磷布韦/维帕他韦,Liver Disease,377,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2023,Q3,2023-09-30,3,product,LiverDiseaseProductsVemlidy,Vemlidy,韦立得 Vemlidy,Liver Disease,228,USD,millions,reported,SEC 10-Q 0000882095-23-000031
+2023,Q3,2023-09-30,3,product,OtherHepatitisCVirusProducts,Other HCV,其他丙肝药物,Liver Disease,38,USD,millions,reported,SEC 10-Q 0000882095-23-000031
 2023,Q3,2023-09-30,3,product,Trodelvy,Trodelvy,Trodelvy,Oncology,283,USD,millions,reported,SEC 10-Q 0000882095-23-000031
 2023,Q3,2023-09-30,3,product,OtherProductsAmBisome,AmBisome,注射用两性霉素B脂质体,Other,115,USD,millions,reported,SEC 10-Q 0000882095-23-000031
 2023,Q3,2023-09-30,3,product,OtherProductsLetairis,Letairis,Letairis,Other,36,USD,millions,reported,SEC 10-Q 0000882095-23-000031
 2023,Q3,2023-09-30,3,product,OtherProductsOther,Other,其他产品,Other,65,USD,millions,reported,SEC 10-Q 0000882095-23-000031
 2023,Q3,2023-09-30,3,product,RoyaltyContractAndOther,"Royalty, contract and other revenues",特许权及合同等收入,Other,56,USD,millions,reported,SEC 10-Q 0000882095-23-000031
 2023,Q4,2023-12-31,3,geography,Europe,Europe,欧洲,,1164,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
-2023,Q4,2023-12-31,3,geography,OtherInternational,Other International,世界其他地区,,765,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
+2023,Q4,2023-12-31,3,geography,RestOfWorld,Rest of World,世界其他地区,,765,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
 2023,Q4,2023-12-31,3,geography,US,U.S.,美国,,5185,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
 2023,Q4,2023-12-31,3,product,OtherNotItemized,Other (not itemized),其他（未单列）,,405,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
 2023,Q4,2023-12-31,3,product,CellTherapyProductsTecartus,Tecartus,Tecartus,Cell Therapy,98,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
-2023,Q4,2023-12-31,3,product,HepatitisBVirusHepatitisDeltaVirusProductOther,Other HB/HDV,其他乙肝/丁肝药物,HBV/HDV,21,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
-2023,Q4,2023-12-31,3,product,HepatitisBVirusHepatitisDeltaVirusProductVemlidy,Vemlidy,韦立得 Vemlidy,HBV/HDV,217,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
-2023,Q4,2023-12-31,3,product,HepatitisBVirusHepatitisDeltaVirusProductViread,Viread,韦瑞德 Viread,HBV/HDV,21,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
-2023,Q4,2023-12-31,3,product,HCVProductsLedipasvirSofosbuvir,Ledipasvir/Sofosbuvir,雷迪帕韦/索磷布韦,HCV,16,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
-2023,Q4,2023-12-31,3,product,HCVProductsSofosbuvirVelpatasvir,Sofosbuvir/Velpatasvir,索磷布韦/维帕他韦,HCV,378,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
 2023,Q4,2023-12-31,3,product,HIVProductsBiktarvy,Biktarvy,必妥维 Biktarvy,HIV,3109,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
 2023,Q4,2023-12-31,3,product,HIVProductsCompleraEviplera,Complera/Eviplera,Complera/Eviplera,HIV,25,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
 2023,Q4,2023-12-31,3,product,HIVProductsDescovy,Descovy,Descovy,HIV,510,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
 2023,Q4,2023-12-31,3,product,HIVProductsGenvoya,Genvoya,捷扶康 Genvoya,HIV,516,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
 2023,Q4,2023-12-31,3,product,HIVProductsOdefsey,Odefsey,Odefsey,HIV,339,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
 2023,Q4,2023-12-31,3,product,HIVProductsStribild,Stribild,欣愈尔 Stribild,HIV,22,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
+2023,Q4,2023-12-31,3,product,HIVProductsSymtuzaRevenueShare,Symtuza - Revenue share,Symtuza 分成收入,HIV,139,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
 2023,Q4,2023-12-31,3,product,HIVProductsTruvada,Truvada,特鲁瓦达 Truvada,HIV,17,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
 2023,Q4,2023-12-31,3,product,ProductsOtherHIV,Other HIV,其他艾滋病药物,HIV,15,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
-2023,Q4,2023-12-31,3,product,ProductsRevenueShareSymtuza,Revenue share - Symtuza,Symtuza 分成收入,HIV,139,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
 2023,Q4,2023-12-31,3,product,Veklury,Veklury,瑞德西韦 Veklury,Infectious Disease,719,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
+2023,Q4,2023-12-31,3,product,HCVProductsLedipasvirSofosbuvir,Ledipasvir/Sofosbuvir,雷迪帕韦/索磷布韦,Liver Disease,16,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
+2023,Q4,2023-12-31,3,product,HepatitisBVirusHepatitisDeltaVirusProductOther,Other HB/HDV,其他乙肝/丁肝药物,Liver Disease,21,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
+2023,Q4,2023-12-31,3,product,HepatitisBVirusHepatitisDeltaVirusProductViread,Viread,韦瑞德 Viread,Liver Disease,21,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
+2023,Q4,2023-12-31,3,product,LiverDiseaseProductsSofosbuvirVelpatasvir,Sofosbuvir/Velpatasvir,索磷布韦/维帕他韦,Liver Disease,378,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
+2023,Q4,2023-12-31,3,product,LiverDiseaseProductsVemlidy,Vemlidy,韦立得 Vemlidy,Liver Disease,217,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
 2023,Q4,2023-12-31,3,product,Trodelvy,Trodelvy,Trodelvy,Oncology,299,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
 2023,Q4,2023-12-31,3,product,OtherProductsAmBisome,AmBisome,注射用两性霉素B脂质体,Other,111,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
 2023,Q4,2023-12-31,3,product,OtherProductsLetairis,Letairis,Letairis,Other,36,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
 2023,Q4,2023-12-31,3,product,OtherProductsOther,Other,其他产品,Other,54,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
 2023,Q4,2023-12-31,3,product,RoyaltyContractAndOther,"Royalty, contract and other revenues",特许权及合同等收入,Other,44,USD,millions,derived,SEC 10-K 0000882095-24-000007 − 10-Q 0000882095-23-000031
 2023,FY,2023-12-31,12,geography,Europe,Europe,欧洲,,4310,USD,millions,reported,SEC 10-K 0000882095-24-000007
-2023,FY,2023-12-31,12,geography,OtherInternational,Other International,世界其他地区,,3368,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2023,FY,2023-12-31,12,geography,RestOfWorld,Rest of World,世界其他地区,,3368,USD,millions,reported,SEC 10-K 0000882095-24-000007
 2023,FY,2023-12-31,12,geography,US,U.S.,美国,,19438,USD,millions,reported,SEC 10-K 0000882095-24-000007
 2023,FY,2023-12-31,12,product,CellTherapyProductsTecartus,Tecartus,Tecartus,Cell Therapy,370,USD,millions,reported,SEC 10-K 0000882095-24-000007
 2023,FY,2023-12-31,12,product,OtherProductsYescarta,Yescarta,Yescarta,Cell Therapy,1498,USD,millions,reported,SEC 10-K 0000882095-24-000007
-2023,FY,2023-12-31,12,product,HepatitisBVirusHepatitisDeltaVirusProductOther,Other HB/HDV,其他乙肝/丁肝药物,HBV/HDV,72,USD,millions,reported,SEC 10-K 0000882095-24-000007
-2023,FY,2023-12-31,12,product,HepatitisBVirusHepatitisDeltaVirusProductVemlidy,Vemlidy,韦立得 Vemlidy,HBV/HDV,862,USD,millions,reported,SEC 10-K 0000882095-24-000007
-2023,FY,2023-12-31,12,product,HepatitisBVirusHepatitisDeltaVirusProductViread,Viread,韦瑞德 Viread,HBV/HDV,83,USD,millions,reported,SEC 10-K 0000882095-24-000007
-2023,FY,2023-12-31,12,product,HCVProductsLedipasvirSofosbuvir,Ledipasvir/Sofosbuvir,雷迪帕韦/索磷布韦,HCV,70,USD,millions,reported,SEC 10-K 0000882095-24-000007
-2023,FY,2023-12-31,12,product,HCVProductsSofosbuvirVelpatasvir,Sofosbuvir/Velpatasvir,索磷布韦/维帕他韦,HCV,1537,USD,millions,reported,SEC 10-K 0000882095-24-000007
-2023,FY,2023-12-31,12,product,OtherHCV,Other HCV,其他丙肝药物,HCV,160,USD,millions,reported,SEC 10-K 0000882095-24-000007
 2023,FY,2023-12-31,12,product,HIVProductsBiktarvy,Biktarvy,必妥维 Biktarvy,HIV,11850,USD,millions,reported,SEC 10-K 0000882095-24-000007
 2023,FY,2023-12-31,12,product,HIVProductsCompleraEviplera,Complera/Eviplera,Complera/Eviplera,HIV,129,USD,millions,reported,SEC 10-K 0000882095-24-000007
 2023,FY,2023-12-31,12,product,HIVProductsDescovy,Descovy,Descovy,HIV,1985,USD,millions,reported,SEC 10-K 0000882095-24-000007
 2023,FY,2023-12-31,12,product,HIVProductsGenvoya,Genvoya,捷扶康 Genvoya,HIV,2060,USD,millions,reported,SEC 10-K 0000882095-24-000007
 2023,FY,2023-12-31,12,product,HIVProductsOdefsey,Odefsey,Odefsey,HIV,1350,USD,millions,reported,SEC 10-K 0000882095-24-000007
 2023,FY,2023-12-31,12,product,HIVProductsStribild,Stribild,欣愈尔 Stribild,HIV,101,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2023,FY,2023-12-31,12,product,HIVProductsSymtuzaRevenueShare,Symtuza - Revenue share,Symtuza 分成收入,HIV,529,USD,millions,reported,SEC 10-K 0000882095-24-000007
 2023,FY,2023-12-31,12,product,HIVProductsTruvada,Truvada,特鲁瓦达 Truvada,HIV,114,USD,millions,reported,SEC 10-K 0000882095-24-000007
 2023,FY,2023-12-31,12,product,ProductsOtherHIV,Other HIV,其他艾滋病药物,HIV,56,USD,millions,reported,SEC 10-K 0000882095-24-000007
-2023,FY,2023-12-31,12,product,ProductsRevenueShareSymtuza,Revenue share - Symtuza,Symtuza 分成收入,HIV,529,USD,millions,reported,SEC 10-K 0000882095-24-000007
 2023,FY,2023-12-31,12,product,Veklury,Veklury,瑞德西韦 Veklury,Infectious Disease,2184,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2023,FY,2023-12-31,12,product,HCVProductsLedipasvirSofosbuvir,Ledipasvir/Sofosbuvir,雷迪帕韦/索磷布韦,Liver Disease,70,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2023,FY,2023-12-31,12,product,HepatitisBVirusHepatitisDeltaVirusProductOther,Other HB/HDV,其他乙肝/丁肝药物,Liver Disease,72,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2023,FY,2023-12-31,12,product,HepatitisBVirusHepatitisDeltaVirusProductViread,Viread,韦瑞德 Viread,Liver Disease,83,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2023,FY,2023-12-31,12,product,LiverDiseaseProductsSofosbuvirVelpatasvir,Sofosbuvir/Velpatasvir,索磷布韦/维帕他韦,Liver Disease,1537,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2023,FY,2023-12-31,12,product,LiverDiseaseProductsVemlidy,Vemlidy,韦立得 Vemlidy,Liver Disease,862,USD,millions,reported,SEC 10-K 0000882095-24-000007
+2023,FY,2023-12-31,12,product,OtherHCV,Other HCV,其他丙肝药物,Liver Disease,160,USD,millions,reported,SEC 10-K 0000882095-24-000007
 2023,FY,2023-12-31,12,product,Trodelvy,Trodelvy,Trodelvy,Oncology,1063,USD,millions,reported,SEC 10-K 0000882095-24-000007
 2023,FY,2023-12-31,12,product,OtherProductsAmBisome,AmBisome,注射用两性霉素B脂质体,Other,492,USD,millions,reported,SEC 10-K 0000882095-24-000007
 2023,FY,2023-12-31,12,product,OtherProductsLetairis,Letairis,Letairis,Other,142,USD,millions,reported,SEC 10-K 0000882095-24-000007
 2023,FY,2023-12-31,12,product,OtherProductsOther,Other,其他产品,Other,225,USD,millions,reported,SEC 10-K 0000882095-24-000007
 2023,FY,2023-12-31,12,product,RoyaltyContractAndOther,"Royalty, contract and other revenues",特许权及合同等收入,Other,182,USD,millions,reported,SEC 10-K 0000882095-24-000007
 2024,Q1,2024-03-31,3,geography,Europe,Europe,欧洲,,1159,USD,millions,reported,SEC 10-Q 0000882095-24-000013
-2024,Q1,2024-03-31,3,geography,OtherInternational,Rest of World,世界其他地区,,894,USD,millions,reported,SEC 10-Q 0000882095-24-000013
+2024,Q1,2024-03-31,3,geography,RestOfWorld,Rest of World,世界其他地区,,894,USD,millions,reported,SEC 10-Q 0000882095-24-000013
 2024,Q1,2024-03-31,3,geography,US,U.S.,美国,,4633,USD,millions,reported,SEC 10-Q 0000882095-24-000013
 2024,Q1,2024-03-31,3,product,CellTherapyProductsTecartus,Tecartus,Tecartus,Cell Therapy,100,USD,millions,reported,SEC 10-Q 0000882095-24-000013
-2024,Q1,2024-03-31,3,product,CellTherapyProductsYescarta,Yescarta,Yescarta,Cell Therapy,380,USD,millions,reported,SEC 10-Q 0000882095-24-000013
+2024,Q1,2024-03-31,3,product,OtherProductsYescarta,Yescarta,Yescarta,Cell Therapy,380,USD,millions,reported,SEC 10-Q 0000882095-24-000013
 2024,Q1,2024-03-31,3,product,HIVProductsBiktarvy,Biktarvy,必妥维 Biktarvy,HIV,2946,USD,millions,reported,SEC 10-Q 0000882095-24-000013
 2024,Q1,2024-03-31,3,product,HIVProductsDescovy,Descovy,Descovy,HIV,426,USD,millions,reported,SEC 10-Q 0000882095-24-000013
 2024,Q1,2024-03-31,3,product,HIVProductsGenvoya,Genvoya,捷扶康 Genvoya,HIV,403,USD,millions,reported,SEC 10-Q 0000882095-24-000013
 2024,Q1,2024-03-31,3,product,HIVProductsOdefsey,Odefsey,Odefsey,HIV,310,USD,millions,reported,SEC 10-Q 0000882095-24-000013
 2024,Q1,2024-03-31,3,product,HIVProductsOtherHIV,Other HIV,其他艾滋病药物,HIV,117,USD,millions,reported,SEC 10-Q 0000882095-24-000013
-2024,Q1,2024-03-31,3,product,HIVProductsRevenueShareSymtuza,Revenue share - Symtuza,Symtuza 分成收入,HIV,141,USD,millions,reported,SEC 10-Q 0000882095-24-000013
+2024,Q1,2024-03-31,3,product,HIVProductsSymtuzaRevenueShare,Symtuza - Revenue share,Symtuza 分成收入,HIV,141,USD,millions,reported,SEC 10-Q 0000882095-24-000013
 2024,Q1,2024-03-31,3,product,Veklury,Veklury,瑞德西韦 Veklury,Infectious Disease,555,USD,millions,reported,SEC 10-Q 0000882095-24-000013
 2024,Q1,2024-03-31,3,product,LiverDiseaseProductsOtherLiverDisease,Other Liver Disease,其他肝病产品,Liver Disease,107,USD,millions,reported,SEC 10-Q 0000882095-24-000013
 2024,Q1,2024-03-31,3,product,LiverDiseaseProductsSofosbuvirVelpatasvir,Sofosbuvir/Velpatasvir,索磷布韦/维帕他韦,Liver Disease,405,USD,millions,reported,SEC 10-Q 0000882095-24-000013
@@ -423,13 +423,13 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2024,Q2,2024-06-30,3,geography,RestOfWorld,Rest of World,世界其他地区,,879,USD,millions,reported,SEC 10-Q 0000882095-24-000022
 2024,Q2,2024-06-30,3,geography,US,U.S.,美国,,4941,USD,millions,reported,SEC 10-Q 0000882095-24-000022
 2024,Q2,2024-06-30,3,product,CellTherapyProductsTecartus,Tecartus,Tecartus,Cell Therapy,107,USD,millions,reported,SEC 10-Q 0000882095-24-000022
-2024,Q2,2024-06-30,3,product,CellTherapyProductsYescarta,Yescarta,Yescarta,Cell Therapy,414,USD,millions,reported,SEC 10-Q 0000882095-24-000022
+2024,Q2,2024-06-30,3,product,OtherProductsYescarta,Yescarta,Yescarta,Cell Therapy,414,USD,millions,reported,SEC 10-Q 0000882095-24-000022
 2024,Q2,2024-06-30,3,product,HIVProductsBiktarvy,Biktarvy,必妥维 Biktarvy,HIV,3232,USD,millions,reported,SEC 10-Q 0000882095-24-000022
 2024,Q2,2024-06-30,3,product,HIVProductsDescovy,Descovy,Descovy,HIV,485,USD,millions,reported,SEC 10-Q 0000882095-24-000022
 2024,Q2,2024-06-30,3,product,HIVProductsGenvoya,Genvoya,捷扶康 Genvoya,HIV,440,USD,millions,reported,SEC 10-Q 0000882095-24-000022
 2024,Q2,2024-06-30,3,product,HIVProductsOdefsey,Odefsey,Odefsey,HIV,315,USD,millions,reported,SEC 10-Q 0000882095-24-000022
 2024,Q2,2024-06-30,3,product,HIVProductsOtherHIV,Other HIV,其他艾滋病药物,HIV,105,USD,millions,reported,SEC 10-Q 0000882095-24-000022
-2024,Q2,2024-06-30,3,product,HIVProductsRevenueShareSymtuza,Revenue share - Symtuza,Symtuza 分成收入,HIV,168,USD,millions,reported,SEC 10-Q 0000882095-24-000022
+2024,Q2,2024-06-30,3,product,HIVProductsSymtuzaRevenueShare,Symtuza - Revenue share,Symtuza 分成收入,HIV,168,USD,millions,reported,SEC 10-Q 0000882095-24-000022
 2024,Q2,2024-06-30,3,product,Veklury,Veklury,瑞德西韦 Veklury,Infectious Disease,214,USD,millions,reported,SEC 10-Q 0000882095-24-000022
 2024,Q2,2024-06-30,3,product,LiverDiseaseProductsOtherLiverDisease,Other Liver Disease,其他肝病产品,Liver Disease,113,USD,millions,reported,SEC 10-Q 0000882095-24-000022
 2024,Q2,2024-06-30,3,product,LiverDiseaseProductsSofosbuvirVelpatasvir,Sofosbuvir/Velpatasvir,索磷布韦/维帕他韦,Liver Disease,476,USD,millions,reported,SEC 10-Q 0000882095-24-000022
@@ -442,13 +442,13 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2024,Q3,2024-09-30,3,geography,RestOfWorld,Rest of World,世界其他地区,,929,USD,millions,reported,SEC 10-Q 0000882095-24-000028
 2024,Q3,2024-09-30,3,geography,US,U.S.,美国,,5450,USD,millions,reported,SEC 10-Q 0000882095-24-000028
 2024,Q3,2024-09-30,3,product,CellTherapyProductsTecartus,Tecartus,Tecartus,Cell Therapy,98,USD,millions,reported,SEC 10-Q 0000882095-24-000028
-2024,Q3,2024-09-30,3,product,CellTherapyProductsYescarta,Yescarta,Yescarta,Cell Therapy,387,USD,millions,reported,SEC 10-Q 0000882095-24-000028
+2024,Q3,2024-09-30,3,product,OtherProductsYescarta,Yescarta,Yescarta,Cell Therapy,387,USD,millions,reported,SEC 10-Q 0000882095-24-000028
 2024,Q3,2024-09-30,3,product,HIVProductsBiktarvy,Biktarvy,必妥维 Biktarvy,HIV,3472,USD,millions,reported,SEC 10-Q 0000882095-24-000028
 2024,Q3,2024-09-30,3,product,HIVProductsDescovy,Descovy,Descovy,HIV,586,USD,millions,reported,SEC 10-Q 0000882095-24-000028
 2024,Q3,2024-09-30,3,product,HIVProductsGenvoya,Genvoya,捷扶康 Genvoya,HIV,449,USD,millions,reported,SEC 10-Q 0000882095-24-000028
 2024,Q3,2024-09-30,3,product,HIVProductsOdefsey,Odefsey,Odefsey,HIV,326,USD,millions,reported,SEC 10-Q 0000882095-24-000028
 2024,Q3,2024-09-30,3,product,HIVProductsOtherHIV,Other HIV,其他艾滋病药物,HIV,100,USD,millions,reported,SEC 10-Q 0000882095-24-000028
-2024,Q3,2024-09-30,3,product,HIVProductsRevenueShareSymtuza,Symtuza - Revenue share,Symtuza 分成收入,HIV,139,USD,millions,reported,SEC 10-Q 0000882095-24-000028
+2024,Q3,2024-09-30,3,product,HIVProductsSymtuzaRevenueShare,Symtuza - Revenue share,Symtuza 分成收入,HIV,139,USD,millions,reported,SEC 10-Q 0000882095-24-000028
 2024,Q3,2024-09-30,3,product,Veklury,Veklury,瑞德西韦 Veklury,Infectious Disease,692,USD,millions,reported,SEC 10-Q 0000882095-24-000028
 2024,Q3,2024-09-30,3,product,LiverDiseaseProductsOtherLiverDisease,Other Liver Disease,其他肝病产品,Liver Disease,116,USD,millions,reported,SEC 10-Q 0000882095-24-000028
 2024,Q3,2024-09-30,3,product,LiverDiseaseProductsSofosbuvirVelpatasvir,Sofosbuvir/Velpatasvir,索磷布韦/维帕他韦,Liver Disease,385,USD,millions,reported,SEC 10-Q 0000882095-24-000028

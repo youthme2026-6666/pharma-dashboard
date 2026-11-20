@@ -5,11 +5,11 @@
     "ok": true
   },
   "cik": "0001613103",
-  "code_hash": "56ab6f194598",
+  "code_hash": "dc69eec30536",
   "fiscal_year_end": "0424",
   "form_type": "10-K",
   "identity_checked": "2026-11-09",
-  "last_check": "2026-11-19",
+  "last_check": "2026-11-20",
   "mapping": {},
   "mapping_tried": {},
   "name": "Medtronic plc",
@@ -50,6 +50,7 @@
     "segment|NeuroscienceGroup": "神经科学事业部",
     "segment|NeurosciencePortfolio": "神经科学产品组合",
     "segment|Other": "其他分部",
+    "segment|OtherOperatingSegmentMisc": "其他经营分部",
     "segment|OtherOperatingSegmentsIncludingDiabetes": "其他经营分部含糖尿病",
     "segment|RestorativeTherapiesGroup": "修复治疗集团"
   },

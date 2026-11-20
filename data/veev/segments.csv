@@ -5,56 +5,56 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2021,Q1,2020-04-30,3,geography,RestOfWorld,Rest of world,其他地区,,9.735,USD,millions,reported,SEC 10-Q 0001628280-20-008982
 2021,Q1,2020-04-30,3,product,ProfessionalServicesVeevaVault,Veeva Vault,Veeva Vault 专业服务,,39.495,USD,millions,reported,SEC 10-Q 0001628280-20-008982
 2021,Q1,2020-04-30,3,product,SubscriptionServicesVeevaVault,Veeva Vault,Veeva Vault 订阅服务,,127.658,USD,millions,reported,SEC 10-Q 0001628280-20-008982
-2021,Q1,2020-04-30,3,product,ProfessionalServicesVeevaCommercialCloud,Veeva Commercial Cloud,商业解决方案专业服务,Professional services and other,27.376,USD,millions,reported,SEC 10-Q 0001628280-20-008982
-2021,Q1,2020-04-30,3,product,SubscriptionServicesVeevaCommercialCloud,Veeva Commercial Cloud,商业解决方案订阅服务,Subscription,142.577,USD,millions,reported,SEC 10-Q 0001628280-20-008982
+2021,Q1,2020-04-30,3,product,ProfessionalServicesVeevaCommercialCloud,Commercial Solutions,商业解决方案专业服务,Professional services and other,27.376,USD,millions,reported,SEC 10-Q 0001628280-20-008982
+2021,Q1,2020-04-30,3,product,SubscriptionServicesVeevaCommercialCloud,Commercial Solutions,商业解决方案订阅服务,Subscription,142.577,USD,millions,reported,SEC 10-Q 0001628280-20-008982
 2021,Q2,2020-07-31,3,geography,AsiaPacific,Asia Pacific,亚太地区,,44.569,USD,millions,reported,SEC 10-Q 0001628279-20-000207
 2021,Q2,2020-07-31,3,geography,Europe,Europe,欧洲,,98.395,USD,millions,reported,SEC 10-Q 0001628279-20-000207
 2021,Q2,2020-07-31,3,geography,NorthAmerica,North America,北美,,200.334,USD,millions,reported,SEC 10-Q 0001628279-20-000207
 2021,Q2,2020-07-31,3,geography,RestOfWorld,Rest of world,其他地区,,10.385,USD,millions,reported,SEC 10-Q 0001628279-20-000207
 2021,Q2,2020-07-31,3,product,ProfessionalServicesVeevaVault,Veeva Vault,Veeva Vault 专业服务,,43.563,USD,millions,reported,SEC 10-Q 0001628279-20-000207
 2021,Q2,2020-07-31,3,product,SubscriptionServicesVeevaVault,Veeva Vault,Veeva Vault 订阅服务,,138.687,USD,millions,reported,SEC 10-Q 0001628279-20-000207
-2021,Q2,2020-07-31,3,product,ProfessionalServicesVeevaCommercialCloud,Veeva Commercial Cloud,商业解决方案专业服务,Professional services and other,26.618,USD,millions,reported,SEC 10-Q 0001628279-20-000207
-2021,Q2,2020-07-31,3,product,SubscriptionServicesVeevaCommercialCloud,Veeva Commercial Cloud,商业解决方案订阅服务,Subscription,144.815,USD,millions,reported,SEC 10-Q 0001628279-20-000207
+2021,Q2,2020-07-31,3,product,ProfessionalServicesVeevaCommercialCloud,Commercial Solutions,商业解决方案专业服务,Professional services and other,26.618,USD,millions,reported,SEC 10-Q 0001628279-20-000207
+2021,Q2,2020-07-31,3,product,SubscriptionServicesVeevaCommercialCloud,Commercial Solutions,商业解决方案订阅服务,Subscription,144.815,USD,millions,reported,SEC 10-Q 0001628279-20-000207
 2021,Q3,2020-10-31,3,geography,AsiaPacific,Asia Pacific,亚太地区,,46.178,USD,millions,reported,SEC 10-Q 0001628280-20-017286
 2021,Q3,2020-10-31,3,geography,Europe,Europe,欧洲,,102.44,USD,millions,reported,SEC 10-Q 0001628280-20-017286
 2021,Q3,2020-10-31,3,geography,NorthAmerica,North America,北美,,218.11,USD,millions,reported,SEC 10-Q 0001628280-20-017286
 2021,Q3,2020-10-31,3,geography,RestOfWorld,Rest of world,其他地区,,10.791,USD,millions,reported,SEC 10-Q 0001628280-20-017286
 2021,Q3,2020-10-31,3,product,ProfessionalServicesVeevaVault,Veeva Vault,Veeva Vault 专业服务,,45.466,USD,millions,reported,SEC 10-Q 0001628280-20-017286
 2021,Q3,2020-10-31,3,product,SubscriptionServicesVeevaVault,Veeva Vault,Veeva Vault 订阅服务,,150.472,USD,millions,reported,SEC 10-Q 0001628280-20-017286
-2021,Q3,2020-10-31,3,product,ProfessionalServicesVeevaCommercialCloud,Veeva Commercial Cloud,商业解决方案专业服务,Professional services and other,29.115,USD,millions,reported,SEC 10-Q 0001628280-20-017286
-2021,Q3,2020-10-31,3,product,SubscriptionServicesVeevaCommercialCloud,Veeva Commercial Cloud,商业解决方案订阅服务,Subscription,152.466,USD,millions,reported,SEC 10-Q 0001628280-20-017286
+2021,Q3,2020-10-31,3,product,ProfessionalServicesVeevaCommercialCloud,Commercial Solutions,商业解决方案专业服务,Professional services and other,29.115,USD,millions,reported,SEC 10-Q 0001628280-20-017286
+2021,Q3,2020-10-31,3,product,SubscriptionServicesVeevaCommercialCloud,Commercial Solutions,商业解决方案订阅服务,Subscription,152.466,USD,millions,reported,SEC 10-Q 0001628280-20-017286
 2021,Q4,2021-01-31,3,geography,AsiaPacific,Asia Pacific,亚太地区,,50.809,USD,millions,derived,SEC 10-K 0001393052-21-000015 − 10-Q 0001393052-21-000040
 2021,Q4,2021-01-31,3,geography,Europe,Europe,欧洲,,110.533,USD,millions,derived,SEC 10-K 0001393052-21-000015 − 10-Q 0001393052-21-000040
 2021,Q4,2021-01-31,3,geography,MiddleEastAfricaAndLatinAmerica,"Middle East, Africa, and Latin America",中东、非洲和拉丁美洲,,11.328,USD,millions,derived,SEC 10-K 0001393052-21-000015 − 10-Q 0001393052-21-000040
 2021,Q4,2021-01-31,3,geography,NorthAmerica,North America,北美,,224.091,USD,millions,derived,SEC 10-K 0001393052-21-000015 − 10-Q 0001393052-21-000040
 2021,Q4,2021-01-31,3,product,ProfessionalServicesVeevaVault,Veeva Vault,Veeva Vault 专业服务,,43.561,USD,millions,derived,SEC 10-K 0001393052-21-000015 − 10-Q 0001628280-20-017286
 2021,Q4,2021-01-31,3,product,SubscriptionServicesVeevaVault,Veeva Vault,Veeva Vault 订阅服务,,163.435,USD,millions,derived,SEC 10-K 0001393052-21-000015 − 10-Q 0001628280-20-017286
-2021,Q4,2021-01-31,3,product,ProfessionalServicesVeevaCommercialCloud,Veeva Commercial Cloud,商业解决方案专业服务,Professional services and other,30.389,USD,millions,derived,SEC 10-K 0001393052-21-000015 − 10-Q 0001628280-20-017286
-2021,Q4,2021-01-31,3,product,SubscriptionServicesVeevaCommercialCloud,Veeva Commercial Cloud,商业解决方案订阅服务,Subscription,159.376,USD,millions,derived,SEC 10-K 0001393052-21-000015 − 10-Q 0001628280-20-017286
+2021,Q4,2021-01-31,3,product,ProfessionalServicesVeevaCommercialCloud,Commercial Solutions,商业解决方案专业服务,Professional services and other,30.389,USD,millions,derived,SEC 10-K 0001393052-21-000015 − 10-Q 0001628280-20-017286
+2021,Q4,2021-01-31,3,product,SubscriptionServicesVeevaCommercialCloud,Commercial Solutions,商业解决方案订阅服务,Subscription,159.376,USD,millions,derived,SEC 10-K 0001393052-21-000015 − 10-Q 0001628280-20-017286
 2021,FY,2021-01-31,12,geography,AsiaPacific,Asia Pacific,亚太地区,,183.848,USD,millions,reported,SEC 10-K 0001393052-21-000015
 2021,FY,2021-01-31,12,geography,Europe,Europe,欧洲,,400.79,USD,millions,reported,SEC 10-K 0001393052-21-000015
 2021,FY,2021-01-31,12,geography,MiddleEastAfricaAndLatinAmerica,"Middle East, Africa, and Latin America",中东、非洲和拉丁美洲,,42.239,USD,millions,reported,SEC 10-K 0001393052-21-000015
 2021,FY,2021-01-31,12,geography,NorthAmerica,North America,北美,,838.192,USD,millions,reported,SEC 10-K 0001393052-21-000015
 2021,FY,2021-01-31,12,product,ProfessionalServicesVeevaVault,Veeva Vault,Veeva Vault 专业服务,,172.085,USD,millions,reported,SEC 10-K 0001393052-21-000015
 2021,FY,2021-01-31,12,product,SubscriptionServicesVeevaVault,Veeva Vault,Veeva Vault 订阅服务,,580.252,USD,millions,reported,SEC 10-K 0001393052-21-000015
-2021,FY,2021-01-31,12,product,ProfessionalServicesVeevaCommercialCloud,Veeva Commercial Cloud,商业解决方案专业服务,Professional services and other,113.498,USD,millions,reported,SEC 10-K 0001393052-21-000015
-2021,FY,2021-01-31,12,product,SubscriptionServicesVeevaCommercialCloud,Veeva Commercial Cloud,商业解决方案订阅服务,Subscription,599.234,USD,millions,reported,SEC 10-K 0001393052-21-000015
+2021,FY,2021-01-31,12,product,ProfessionalServicesVeevaCommercialCloud,Commercial Solutions,商业解决方案专业服务,Professional services and other,113.498,USD,millions,reported,SEC 10-K 0001393052-21-000015
+2021,FY,2021-01-31,12,product,SubscriptionServicesVeevaCommercialCloud,Commercial Solutions,商业解决方案订阅服务,Subscription,599.234,USD,millions,reported,SEC 10-K 0001393052-21-000015
 2022,Q1,2021-04-30,3,geography,AsiaPacific,Asia Pacific,亚太地区,,53.632,USD,millions,reported,SEC 10-Q 0001393052-21-000028
 2022,Q1,2021-04-30,3,geography,Europe,Europe,欧洲,,121.304,USD,millions,reported,SEC 10-Q 0001393052-21-000028
 2022,Q1,2021-04-30,3,geography,MiddleEastAfricaAndLatinAmerica,"Middle East, Africa, and Latin America",中东、非洲和拉丁美洲,,12.337,USD,millions,reported,SEC 10-Q 0001393052-21-000028
 2022,Q1,2021-04-30,3,geography,NorthAmerica,North America,北美,,246.3,USD,millions,reported,SEC 10-Q 0001393052-21-000028
 2022,Q1,2021-04-30,3,product,ProfessionalServicesVeevaVault,Veeva Vault,Veeva Vault 专业服务,,56.428,USD,millions,reported,SEC 10-Q 0001393052-21-000028
 2022,Q1,2021-04-30,3,product,SubscriptionServicesVeevaVault,Veeva Vault,Veeva Vault 订阅服务,,172.661,USD,millions,reported,SEC 10-Q 0001393052-21-000028
-2022,Q1,2021-04-30,3,product,ProfessionalServicesVeevaCommercialCloud,Veeva Commercial Cloud,商业解决方案专业服务,Professional services and other,36.026,USD,millions,reported,SEC 10-Q 0001393052-21-000028
-2022,Q1,2021-04-30,3,product,SubscriptionServicesVeevaCommercialCloud,Veeva Commercial Cloud,商业解决方案订阅服务,Subscription,168.458,USD,millions,reported,SEC 10-Q 0001393052-21-000028
+2022,Q1,2021-04-30,3,product,ProfessionalServicesVeevaCommercialCloud,Commercial Solutions,商业解决方案专业服务,Professional services and other,36.026,USD,millions,reported,SEC 10-Q 0001393052-21-000028
+2022,Q1,2021-04-30,3,product,SubscriptionServicesVeevaCommercialCloud,Commercial Solutions,商业解决方案订阅服务,Subscription,168.458,USD,millions,reported,SEC 10-Q 0001393052-21-000028
 2022,Q2,2021-07-31,3,geography,AsiaPacific,Asia Pacific,亚太地区,,55.85,USD,millions,reported,SEC 10-Q 0001393052-21-000034
 2022,Q2,2021-07-31,3,geography,Europe,Europe,欧洲,,127.549,USD,millions,reported,SEC 10-Q 0001393052-21-000034
 2022,Q2,2021-07-31,3,geography,MiddleEastAfricaAndLatinAmerica,"Middle East, Africa, and Latin America",中东、非洲和拉丁美洲,,13.07,USD,millions,reported,SEC 10-Q 0001393052-21-000034
 2022,Q2,2021-07-31,3,geography,NorthAmerica,North America,北美,,259.125,USD,millions,reported,SEC 10-Q 0001393052-21-000034
 2022,Q2,2021-07-31,3,product,ProfessionalServicesVeevaVault,Veeva Vault,Veeva Vault 专业服务,,56.997,USD,millions,reported,SEC 10-Q 0001393052-21-000034
 2022,Q2,2021-07-31,3,product,SubscriptionServicesVeevaVault,Veeva Vault,Veeva Vault 订阅服务,,190.385,USD,millions,reported,SEC 10-Q 0001393052-21-000034
-2022,Q2,2021-07-31,3,product,ProfessionalServicesVeevaCommercialCloud,Veeva Commercial Cloud,商业解决方案专业服务,Professional services and other,32.161,USD,millions,reported,SEC 10-Q 0001393052-21-000034
-2022,Q2,2021-07-31,3,product,SubscriptionServicesVeevaCommercialCloud,Veeva Commercial Cloud,商业解决方案订阅服务,Subscription,176.051,USD,millions,reported,SEC 10-Q 0001393052-21-000034
+2022,Q2,2021-07-31,3,product,ProfessionalServicesVeevaCommercialCloud,Commercial Solutions,商业解决方案专业服务,Professional services and other,32.161,USD,millions,reported,SEC 10-Q 0001393052-21-000034
+2022,Q2,2021-07-31,3,product,SubscriptionServicesVeevaCommercialCloud,Commercial Solutions,商业解决方案订阅服务,Subscription,176.051,USD,millions,reported,SEC 10-Q 0001393052-21-000034
 2022,Q3,2021-10-31,3,geography,AsiaPacific,Asia Pacific,亚太地区,,57.837,USD,millions,reported,SEC 10-Q 0001393052-21-000040
 2022,Q3,2021-10-31,3,geography,Europe,Europe,欧洲,,128.032,USD,millions,reported,SEC 10-Q 0001393052-21-000040
 2022,Q3,2021-10-31,3,geography,MiddleEastAfricaAndLatinAmerica,"Middle East, Africa, and Latin America",中东、非洲和拉丁美洲,,13.077,USD,millions,reported,SEC 10-Q 0001393052-21-000040

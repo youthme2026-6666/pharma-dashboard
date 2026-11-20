@@ -1,111 +1,111 @@
 fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,value,currency,unit,basis,source
-2021,Q1,2021-03-31,3,product,EplontersenJointDevelopmentRevenue,Eplontersen Joint Development Revenue,Eplontersen 联合开发收入,Cardiometabolic Health,0,USD,millions,reported,SEC 10-Q 0000874015-22-000104
 2021,Q1,2021-03-31,3,product,CollaborativeAgreementRevenue,Collaborative Agreement Revenue,合作协议收入,Other,27.159,USD,millions,reported,SEC 10-Q 0000874015-22-000104
 2021,Q1,2021-03-31,3,product,LicensingAndOtherRoyalties,Licensing and Other Royalties,许可及其他特许权使用费,Other,4.624,USD,millions,reported,SEC 10-Q 0000874015-22-000104
-2021,Q1,2021-03-31,3,product,Product,"TEGSEDI and WAYLIVRA Revenue, Net",TEGSEDI 和 WAYLIVRA 净收入,Rare Disease,19.838,USD,millions,reported,SEC 10-Q 0000874015-22-000104
 2021,Q1,2021-03-31,3,product,SpinrazaRoyalties,SPINRAZA Royalties,SPINRAZA 特许权使用费,Rare Disease,59.986,USD,millions,reported,SEC 10-Q 0000874015-22-000104
-2021,Q2,2021-06-30,3,product,EplontersenJointDevelopmentRevenue,Eplontersen Joint Development Revenue,Eplontersen 联合开发收入,Cardiometabolic Health,0,USD,millions,reported,SEC 10-Q 0000874015-22-000148
+2021,Q1,2021-03-31,3,product,TegsediAndWaylivra,"TEGSEDI and WAYLIVRA Revenue, Net",TEGSEDI 和 WAYLIVRA 净收入,Rare Disease,19.838,USD,millions,reported,SEC 10-Q 0000874015-22-000104
+2021,Q1,2021-03-31,3,product,WainuaJointDevelopmentRevenue,WAINUA Joint Development Revenue,WAINUA 联合开发收入,Rare Disease,0,USD,millions,reported,SEC 10-Q 0000874015-22-000104
 2021,Q2,2021-06-30,3,product,CollaborativeAgreementRevenue,Collaborative Agreement Revenue,合作协议收入,Other,39.889,USD,millions,reported,SEC 10-Q 0000874015-22-000148
 2021,Q2,2021-06-30,3,product,LicensingAndOtherRoyalties,Licensing and Other Royalties,许可及其他特许权使用费,Other,2.149,USD,millions,reported,SEC 10-Q 0000874015-22-000148
-2021,Q2,2021-06-30,3,product,Product,"TEGSEDI and WAYLIVRA Revenue, Net",TEGSEDI 和 WAYLIVRA 净收入,Rare Disease,11.544,USD,millions,reported,SEC 10-Q 0000874015-22-000148
 2021,Q2,2021-06-30,3,product,SpinrazaRoyalties,SPINRAZA Royalties,SPINRAZA 特许权使用费,Rare Disease,72.168,USD,millions,reported,SEC 10-Q 0000874015-22-000148
-2021,Q3,2021-09-30,3,product,EplontersenJointDevelopmentRevenue,Eplontersen Joint Development Revenue,Eplontersen 联合开发收入,Cardiometabolic Health,0,USD,millions,reported,SEC 10-Q 0000874015-22-000168
+2021,Q2,2021-06-30,3,product,TegsediAndWaylivra,"TEGSEDI and WAYLIVRA Revenue, Net",TEGSEDI 和 WAYLIVRA 净收入,Rare Disease,11.544,USD,millions,reported,SEC 10-Q 0000874015-22-000148
+2021,Q2,2021-06-30,3,product,WainuaJointDevelopmentRevenue,WAINUA Joint Development Revenue,WAINUA 联合开发收入,Rare Disease,0,USD,millions,reported,SEC 10-Q 0000874015-22-000148
 2021,Q3,2021-09-30,3,product,CollaborativeAgreementRevenue,Collaborative Agreement Revenue,合作协议收入,Other,48.273,USD,millions,reported,SEC 10-Q 0000874015-22-000168
 2021,Q3,2021-09-30,3,product,LicensingAndOtherRoyalties,Licensing and Other Royalties,许可及其他特许权使用费,Other,2.729,USD,millions,reported,SEC 10-Q 0000874015-22-000168
-2021,Q3,2021-09-30,3,product,Product,"TEGSEDI and WAYLIVRA Revenue, Net",TEGSEDI 和 WAYLIVRA 净收入,Rare Disease,15.519,USD,millions,reported,SEC 10-Q 0000874015-22-000168
 2021,Q3,2021-09-30,3,product,SpinrazaRoyalties,SPINRAZA Royalties,SPINRAZA 特许权使用费,Rare Disease,66.572,USD,millions,reported,SEC 10-Q 0000874015-22-000168
-2021,Q4,2021-12-31,3,product,EplontersenJointDevelopmentRevenue,Eplontersen Joint Development Revenue,Eplontersen 联合开发收入,Cardiometabolic Health,0,USD,millions,derived,SEC 10-K 0000874015-23-000105 − 10-Q 0000874015-22-000168
+2021,Q3,2021-09-30,3,product,TegsediAndWaylivra,"TEGSEDI and WAYLIVRA Revenue, Net",TEGSEDI 和 WAYLIVRA 净收入,Rare Disease,15.519,USD,millions,reported,SEC 10-Q 0000874015-22-000168
+2021,Q3,2021-09-30,3,product,WainuaJointDevelopmentRevenue,WAINUA Joint Development Revenue,WAINUA 联合开发收入,Rare Disease,0,USD,millions,reported,SEC 10-Q 0000874015-22-000168
 2021,Q4,2021-12-31,3,product,CollaborativeAgreementRevenue,Collaborative Agreement Revenue,合作协议收入,Other,352.74,USD,millions,derived,SEC 10-K 0000874015-23-000105 − 10-Q 0000874015-22-000168
 2021,Q4,2021-12-31,3,product,LicensingAndOtherRoyalties,Licensing and Other Royalties,许可及其他特许权使用费,Other,9.617,USD,millions,derived,SEC 10-K 0000874015-23-000105 − 10-Q 0000874015-22-000168
-2021,Q4,2021-12-31,3,product,Product,"TEGSEDI and WAYLIVRA Revenue, Net",TEGSEDI 和 WAYLIVRA 净收入,Rare Disease,8.599,USD,millions,derived,SEC 10-K 0000874015-23-000105 − 10-Q 0000874015-22-000168
 2021,Q4,2021-12-31,3,product,SpinrazaRoyalties,SPINRAZA Royalties,SPINRAZA 特许权使用费,Rare Disease,69.05,USD,millions,derived,SEC 10-K 0000874015-23-000105 − 10-Q 0000874015-22-000168
-2021,FY,2021-12-31,12,product,EplontersenJointDevelopmentRevenue,Eplontersen Joint Development Revenue,Eplontersen 联合开发收入,Cardiometabolic Health,0,USD,millions,reported,SEC 10-K 0000874015-23-000105
+2021,Q4,2021-12-31,3,product,TegsediAndWaylivra,"TEGSEDI and WAYLIVRA Revenue, Net",TEGSEDI 和 WAYLIVRA 净收入,Rare Disease,8.599,USD,millions,derived,SEC 10-K 0000874015-23-000105 − 10-Q 0000874015-22-000168
+2021,Q4,2021-12-31,3,product,WainuaJointDevelopmentRevenue,WAINUA Joint Development Revenue,WAINUA 联合开发收入,Rare Disease,0,USD,millions,derived,SEC 10-K 0000874015-23-000105 − 10-Q 0000874015-22-000168
 2021,FY,2021-12-31,12,product,CollaborativeAgreementRevenue,Collaborative Agreement Revenue,合作协议收入,Other,468.061,USD,millions,reported,SEC 10-K 0000874015-23-000105
 2021,FY,2021-12-31,12,product,LicensingAndOtherRoyalties,Licensing and Other Royalties,许可及其他特许权使用费,Other,19.119,USD,millions,reported,SEC 10-K 0000874015-23-000105
-2021,FY,2021-12-31,12,product,Product,"TEGSEDI and WAYLIVRA Revenue, Net",TEGSEDI 和 WAYLIVRA 净收入,Rare Disease,55.5,USD,millions,reported,SEC 10-K 0000874015-23-000105
 2021,FY,2021-12-31,12,product,SpinrazaRoyalties,SPINRAZA Royalties,SPINRAZA 特许权使用费,Rare Disease,267.776,USD,millions,reported,SEC 10-K 0000874015-23-000105
-2022,Q1,2022-03-31,3,product,EplontersenJointDevelopmentRevenue,Eplontersen Joint Development Revenue,Eplontersen 联合开发收入,Cardiometabolic Health,19.85,USD,millions,reported,SEC 10-Q 0000874015-23-000136
+2021,FY,2021-12-31,12,product,TegsediAndWaylivra,"TEGSEDI and WAYLIVRA Revenue, Net",TEGSEDI 和 WAYLIVRA 净收入,Rare Disease,55.5,USD,millions,reported,SEC 10-K 0000874015-23-000105
+2021,FY,2021-12-31,12,product,WainuaJointDevelopmentRevenue,WAINUA Joint Development Revenue,WAINUA 联合开发收入,Rare Disease,0,USD,millions,reported,SEC 10-K 0000874015-23-000105
 2022,Q1,2022-03-31,3,product,CollaborativeAgreementRevenue,Collaborative Agreement Revenue,合作协议收入,Other,49.784,USD,millions,reported,SEC 10-Q 0000874015-23-000136
 2022,Q1,2022-03-31,3,product,LicensingAndOtherRoyalties,Licensing and Other Royalties,许可及其他特许权使用费,Other,12.307,USD,millions,reported,SEC 10-Q 0000874015-23-000136
-2022,Q1,2022-03-31,3,product,Product,"TEGSEDI and WAYLIVRA Revenue, Net",TEGSEDI 和 WAYLIVRA 净收入,Rare Disease,6.16,USD,millions,reported,SEC 10-Q 0000874015-23-000136
 2022,Q1,2022-03-31,3,product,SpinrazaRoyalties,SPINRAZA Royalties,SPINRAZA 特许权使用费,Rare Disease,53.818,USD,millions,reported,SEC 10-Q 0000874015-23-000136
-2022,Q2,2022-06-30,3,product,EplontersenJointDevelopmentRevenue,Eplontersen Joint Development Revenue,Eplontersen 联合开发收入,Cardiometabolic Health,17.36,USD,millions,reported,SEC 10-Q 0000874015-22-000148
+2022,Q1,2022-03-31,3,product,TegsediAndWaylivra,"TEGSEDI and WAYLIVRA Revenue, Net",TEGSEDI 和 WAYLIVRA 净收入,Rare Disease,6.16,USD,millions,reported,SEC 10-Q 0000874015-23-000136
+2022,Q1,2022-03-31,3,product,WainuaJointDevelopmentRevenue,WAINUA Joint Development Revenue,WAINUA 联合开发收入,Rare Disease,19.85,USD,millions,reported,SEC 10-Q 0000874015-23-000136
 2022,Q2,2022-06-30,3,product,CollaborativeAgreementRevenue,Collaborative Agreement Revenue,合作协议收入,Other,38.247,USD,millions,reported,SEC 10-Q 0000874015-22-000148
 2022,Q2,2022-06-30,3,product,LicensingAndOtherRoyalties,Licensing and Other Royalties,许可及其他特许权使用费,Other,8.171,USD,millions,reported,SEC 10-Q 0000874015-22-000148
-2022,Q2,2022-06-30,3,product,Product,"TEGSEDI and WAYLIVRA Revenue, Net",TEGSEDI 和 WAYLIVRA 净收入,Rare Disease,10.386,USD,millions,reported,SEC 10-Q 0000874015-22-000148
 2022,Q2,2022-06-30,3,product,SpinrazaRoyalties,SPINRAZA Royalties,SPINRAZA 特许权使用费,Rare Disease,59.627,USD,millions,reported,SEC 10-Q 0000874015-22-000148
-2022,Q3,2022-09-30,3,product,EplontersenJointDevelopmentRevenue,Eplontersen Joint Development Revenue,Eplontersen 联合开发收入,Cardiometabolic Health,18.107,USD,millions,reported,SEC 10-Q 0000874015-22-000168
+2022,Q2,2022-06-30,3,product,TegsediAndWaylivra,"TEGSEDI and WAYLIVRA Revenue, Net",TEGSEDI 和 WAYLIVRA 净收入,Rare Disease,10.386,USD,millions,reported,SEC 10-Q 0000874015-22-000148
+2022,Q2,2022-06-30,3,product,WainuaJointDevelopmentRevenue,WAINUA Joint Development Revenue,WAINUA 联合开发收入,Rare Disease,17.36,USD,millions,reported,SEC 10-Q 0000874015-22-000148
 2022,Q3,2022-09-30,3,product,CollaborativeAgreementRevenue,Collaborative Agreement Revenue,合作协议收入,Other,69.25,USD,millions,reported,SEC 10-Q 0000874015-22-000168
 2022,Q3,2022-09-30,3,product,LicensingAndOtherRoyalties,Licensing and Other Royalties,许可及其他特许权使用费,Other,4.843,USD,millions,reported,SEC 10-Q 0000874015-22-000168
-2022,Q3,2022-09-30,3,product,Product,"TEGSEDI and WAYLIVRA Revenue, Net",TEGSEDI 和 WAYLIVRA 净收入,Rare Disease,5.92,USD,millions,reported,SEC 10-Q 0000874015-22-000168
 2022,Q3,2022-09-30,3,product,SpinrazaRoyalties,SPINRAZA Royalties,SPINRAZA 特许权使用费,Rare Disease,61.647,USD,millions,reported,SEC 10-Q 0000874015-22-000168
-2022,Q4,2022-12-31,3,product,EplontersenJointDevelopmentRevenue,Eplontersen Joint Development Revenue,Eplontersen 联合开发收入,Cardiometabolic Health,21.47,USD,millions,derived,SEC 10-K 0000874015-23-000105 − 10-Q 0000874015-22-000168
+2022,Q3,2022-09-30,3,product,TegsediAndWaylivra,"TEGSEDI and WAYLIVRA Revenue, Net",TEGSEDI 和 WAYLIVRA 净收入,Rare Disease,5.92,USD,millions,reported,SEC 10-Q 0000874015-22-000168
+2022,Q3,2022-09-30,3,product,WainuaJointDevelopmentRevenue,WAINUA Joint Development Revenue,WAINUA 联合开发收入,Rare Disease,18.107,USD,millions,reported,SEC 10-Q 0000874015-22-000168
 2022,Q4,2022-12-31,3,product,CollaborativeAgreementRevenue,Collaborative Agreement Revenue,合作协议收入,Other,49.94,USD,millions,derived,SEC 10-K 0000874015-23-000105 − 10-Q 0000874015-22-000168
 2022,Q4,2022-12-31,3,product,LicensingAndOtherRoyalties,Licensing and Other Royalties,许可及其他特许权使用费,Other,5.673,USD,millions,derived,SEC 10-K 0000874015-23-000105 − 10-Q 0000874015-22-000168
-2022,Q4,2022-12-31,3,product,Product,"TEGSEDI and WAYLIVRA Revenue, Net",TEGSEDI 和 WAYLIVRA 净收入,Rare Disease,7.584,USD,millions,derived,SEC 10-K 0000874015-23-000105 − 10-Q 0000874015-22-000168
 2022,Q4,2022-12-31,3,product,SpinrazaRoyalties,SPINRAZA Royalties,SPINRAZA 特许权使用费,Rare Disease,67.222,USD,millions,derived,SEC 10-K 0000874015-23-000105 − 10-Q 0000874015-22-000168
-2022,FY,2022-12-31,12,product,EplontersenJointDevelopmentRevenue,Eplontersen Joint Development Revenue,Eplontersen 联合开发收入,Cardiometabolic Health,76.787,USD,millions,reported,SEC 10-K 0000874015-23-000105
+2022,Q4,2022-12-31,3,product,TegsediAndWaylivra,"TEGSEDI and WAYLIVRA Revenue, Net",TEGSEDI 和 WAYLIVRA 净收入,Rare Disease,7.584,USD,millions,derived,SEC 10-K 0000874015-23-000105 − 10-Q 0000874015-22-000168
+2022,Q4,2022-12-31,3,product,WainuaJointDevelopmentRevenue,WAINUA Joint Development Revenue,WAINUA 联合开发收入,Rare Disease,21.47,USD,millions,derived,SEC 10-K 0000874015-23-000105 − 10-Q 0000874015-22-000168
 2022,FY,2022-12-31,12,product,CollaborativeAgreementRevenue,Collaborative Agreement Revenue,合作协议收入,Other,207.222,USD,millions,reported,SEC 10-K 0000874015-23-000105
 2022,FY,2022-12-31,12,product,LicensingAndOtherRoyalties,Licensing and Other Royalties,许可及其他特许权使用费,Other,30.993,USD,millions,reported,SEC 10-K 0000874015-23-000105
-2022,FY,2022-12-31,12,product,Product,"TEGSEDI and WAYLIVRA Revenue, Net",TEGSEDI 和 WAYLIVRA 净收入,Rare Disease,30.051,USD,millions,reported,SEC 10-K 0000874015-23-000105
 2022,FY,2022-12-31,12,product,SpinrazaRoyalties,SPINRAZA Royalties,SPINRAZA 特许权使用费,Rare Disease,242.314,USD,millions,reported,SEC 10-K 0000874015-23-000105
+2022,FY,2022-12-31,12,product,TegsediAndWaylivra,"TEGSEDI and WAYLIVRA Revenue, Net",TEGSEDI 和 WAYLIVRA 净收入,Rare Disease,30.051,USD,millions,reported,SEC 10-K 0000874015-23-000105
+2022,FY,2022-12-31,12,product,WainuaJointDevelopmentRevenue,WAINUA Joint Development Revenue,WAINUA 联合开发收入,Rare Disease,76.787,USD,millions,reported,SEC 10-K 0000874015-23-000105
 2023,Q1,2023-03-31,3,product,CollaborativeAgreementRevenue,Collaborative Agreement Revenue,合作协议收入,Other,38.334,USD,millions,reported,SEC 10-Q 0000874015-24-000142
 2023,Q1,2023-03-31,3,product,LicensingAndOtherRoyalties,Licensing and Other Royalties,许可及其他特许权使用费,Other,11.043,USD,millions,reported,SEC 10-Q 0000874015-24-000142
-2023,Q1,2023-03-31,3,product,Product,"TEGSEDI and WAYLIVRA Revenue, Net",TEGSEDI 和 WAYLIVRA 净收入,Rare Disease,6.478,USD,millions,reported,SEC 10-Q 0000874015-24-000142
 2023,Q1,2023-03-31,3,product,SpinrazaRoyalties,SPINRAZA Royalties,SPINRAZA 特许权使用费,Rare Disease,50.247,USD,millions,reported,SEC 10-Q 0000874015-24-000142
+2023,Q1,2023-03-31,3,product,TegsediAndWaylivra,"TEGSEDI and WAYLIVRA Revenue, Net",TEGSEDI 和 WAYLIVRA 净收入,Rare Disease,6.478,USD,millions,reported,SEC 10-Q 0000874015-24-000142
 2023,Q1,2023-03-31,3,product,WainuaJointDevelopmentRevenue,WAINUA Joint Development Revenue,WAINUA 联合开发收入,Rare Disease,24.422,USD,millions,reported,SEC 10-Q 0000874015-24-000142
-2023,Q1,2023-03-31,3,product,WainusRoyalties,WAINUA Royalties,WAINUA 特许权使用费,Rare Disease,0,USD,millions,reported,SEC 10-Q 0000874015-24-000142
+2023,Q1,2023-03-31,3,product,WainuaRoyalties,WAINUA Royalties,WAINUA 特许权使用费,Rare Disease,0,USD,millions,reported,SEC 10-Q 0000874015-24-000142
 2023,Q2,2023-06-30,3,product,CollaborativeAgreementRevenue,Collaborative Agreement Revenue,合作协议收入,Other,91.013,USD,millions,reported,SEC 10-Q 0000874015-24-000187
 2023,Q2,2023-06-30,3,product,LicensingAndOtherRoyalties,Licensing and Other Royalties,许可及其他特许权使用费,Other,6.23,USD,millions,reported,SEC 10-Q 0000874015-24-000187
-2023,Q2,2023-06-30,3,product,Product,"TEGSEDI and WAYLIVRA Revenue, Net",TEGSEDI 和 WAYLIVRA 净收入,Rare Disease,10.655,USD,millions,reported,SEC 10-Q 0000874015-24-000187
 2023,Q2,2023-06-30,3,product,SpinrazaRoyalties,SPINRAZA Royalties,SPINRAZA 特许权使用费,Rare Disease,61.012,USD,millions,reported,SEC 10-Q 0000874015-24-000187
+2023,Q2,2023-06-30,3,product,TegsediAndWaylivra,"TEGSEDI and WAYLIVRA Revenue, Net",TEGSEDI 和 WAYLIVRA 净收入,Rare Disease,10.655,USD,millions,reported,SEC 10-Q 0000874015-24-000187
 2023,Q2,2023-06-30,3,product,WainuaJointDevelopmentRevenue,WAINUA Joint Development Revenue,WAINUA 联合开发收入,Rare Disease,19.501,USD,millions,reported,SEC 10-Q 0000874015-24-000187
-2023,Q2,2023-06-30,3,product,WainusRoyalties,WAINUA Royalties,WAINUA 特许权使用费,Rare Disease,0,USD,millions,reported,SEC 10-Q 0000874015-24-000187
+2023,Q2,2023-06-30,3,product,WainuaRoyalties,WAINUA Royalties,WAINUA 特许权使用费,Rare Disease,0,USD,millions,reported,SEC 10-Q 0000874015-24-000187
 2023,Q3,2023-09-30,3,product,CollaborativeAgreementRevenue,Collaborative Agreement Revenue,合作协议收入,Other,44.167,USD,millions,reported,SEC 10-Q 0000874015-24-000232
 2023,Q3,2023-09-30,3,product,LicensingAndOtherRoyalties,Licensing and Other Royalties,许可及其他特许权使用费,Other,8.542,USD,millions,reported,SEC 10-Q 0000874015-24-000232
-2023,Q3,2023-09-30,3,product,Product,"TEGSEDI and WAYLIVRA Revenue, Net",TEGSEDI 和 WAYLIVRA 净收入,Rare Disease,8.286,USD,millions,reported,SEC 10-Q 0000874015-24-000232
 2023,Q3,2023-09-30,3,product,SpinrazaRoyalties,SPINRAZA Royalties,SPINRAZA 特许权使用费,Rare Disease,67.253,USD,millions,reported,SEC 10-Q 0000874015-24-000232
+2023,Q3,2023-09-30,3,product,TegsediAndWaylivra,"TEGSEDI and WAYLIVRA Revenue, Net",TEGSEDI 和 WAYLIVRA 净收入,Rare Disease,8.286,USD,millions,reported,SEC 10-Q 0000874015-24-000232
 2023,Q3,2023-09-30,3,product,WainuaJointDevelopmentRevenue,WAINUA Joint Development Revenue,WAINUA 联合开发收入,Rare Disease,15.959,USD,millions,reported,SEC 10-Q 0000874015-24-000232
-2023,Q3,2023-09-30,3,product,WainusRoyalties,WAINUA Royalties,WAINUA 特许权使用费,Rare Disease,0,USD,millions,reported,SEC 10-Q 0000874015-24-000232
+2023,Q3,2023-09-30,3,product,WainuaRoyalties,WAINUA Royalties,WAINUA 特许权使用费,Rare Disease,0,USD,millions,reported,SEC 10-Q 0000874015-24-000232
 2023,Q4,2023-12-31,3,product,OtherNotItemized,Other (not itemized),其他（未单列）,,0,USD,millions,derived,SEC 10-K 0000874015-24-000116 − 10-Q 0000874015-24-000232
 2023,Q4,2023-12-31,3,product,CollaborativeAgreementRevenue,Collaborative Agreement Revenue,合作协议收入,Other,179.144,USD,millions,derived,SEC 10-K 0000874015-24-000116 − 10-Q 0000874015-24-000232
 2023,Q4,2023-12-31,3,product,LicensingAndOtherRoyalties,Licensing and Other Royalties,许可及其他特许权使用费,Other,7.484,USD,millions,derived,SEC 10-K 0000874015-24-000116 − 10-Q 0000874015-24-000232
-2023,Q4,2023-12-31,3,product,Product,"TEGSEDI and WAYLIVRA Revenue, Net",TEGSEDI 和 WAYLIVRA 净收入,Rare Disease,9.493,USD,millions,derived,SEC 10-K 0000874015-24-000116 − 10-Q 0000874015-24-000232
 2023,Q4,2023-12-31,3,product,SpinrazaRoyalties,SPINRAZA Royalties,SPINRAZA 特许权使用费,Rare Disease,61.868,USD,millions,derived,SEC 10-K 0000874015-24-000116 − 10-Q 0000874015-24-000232
+2023,Q4,2023-12-31,3,product,TegsediAndWaylivra,"TEGSEDI and WAYLIVRA Revenue, Net",TEGSEDI 和 WAYLIVRA 净收入,Rare Disease,9.493,USD,millions,derived,SEC 10-K 0000874015-24-000116 − 10-Q 0000874015-24-000232
 2023,Q4,2023-12-31,3,product,WainuaJointDevelopmentRevenue,WAINUA Joint Development Revenue,WAINUA 联合开发收入,Rare Disease,66.516,USD,millions,derived,SEC 10-K 0000874015-24-000116 − 10-Q 0000874015-24-000232
 2023,FY,2023-12-31,12,product,CollaborativeAgreementRevenue,Collaborative Agreement Revenue,合作协议收入,Other,352.657,USD,millions,reported,SEC 10-K 0000874015-24-000116
 2023,FY,2023-12-31,12,product,LicensingAndOtherRoyalties,Licensing and Other Royalties,许可及其他特许权使用费,Other,33.299,USD,millions,reported,SEC 10-K 0000874015-24-000116
-2023,FY,2023-12-31,12,product,Product,"TEGSEDI and WAYLIVRA Revenue, Net",TEGSEDI 和 WAYLIVRA 净收入,Rare Disease,34.913,USD,millions,reported,SEC 10-K 0000874015-24-000116
 2023,FY,2023-12-31,12,product,SpinrazaRoyalties,SPINRAZA Royalties,SPINRAZA 特许权使用费,Rare Disease,240.379,USD,millions,reported,SEC 10-K 0000874015-24-000116
+2023,FY,2023-12-31,12,product,TegsediAndWaylivra,"TEGSEDI and WAYLIVRA Revenue, Net",TEGSEDI 和 WAYLIVRA 净收入,Rare Disease,34.913,USD,millions,reported,SEC 10-K 0000874015-24-000116
 2023,FY,2023-12-31,12,product,WainuaJointDevelopmentRevenue,WAINUA Joint Development Revenue,WAINUA 联合开发收入,Rare Disease,126.399,USD,millions,reported,SEC 10-K 0000874015-24-000116
-2024,Q1,2024-03-31,3,product,Tryngolza,TRYNGOLZA,TRYNGOLZA 净销售额,Cardiometabolic Health,0,USD,millions,reported,SEC 10-Q 0000874015-25-000123
+2024,Q1,2024-03-31,3,product,TryngolzaSalesNet,"TRYNGOLZA Sales, Net",TRYNGOLZA 净销售额,Cardiometabolic Health,0,USD,millions,reported,SEC 10-Q 0000874015-25-000123
 2024,Q1,2024-03-31,3,product,CollaborativeAgreementRevenue,Collaborative Agreement Revenue,合作协议收入,Other,49.345,USD,millions,reported,SEC 10-Q 0000874015-25-000123
 2024,Q1,2024-03-31,3,product,Other,Other Revenue,其他收入,Other,1.58,USD,millions,reported,SEC 10-Q 0000874015-25-000123
 2024,Q1,2024-03-31,3,product,OtherRoyalties,Other Royalties,其他特许权使用费,Other,9.805,USD,millions,reported,SEC 10-Q 0000874015-25-000123
 2024,Q1,2024-03-31,3,product,SpinrazaRoyalties,SPINRAZA Royalties,SPINRAZA 特许权使用费,Rare Disease,38.455,USD,millions,reported,SEC 10-Q 0000874015-25-000123
 2024,Q1,2024-03-31,3,product,TegsediAndWaylivra,"TEGSEDI and WAYLIVRA Revenue, Net",TEGSEDI 和 WAYLIVRA 净收入,Rare Disease,8.628,USD,millions,reported,SEC 10-Q 0000874015-25-000123
 2024,Q1,2024-03-31,3,product,WainuaJointDevelopmentRevenue,WAINUA Joint Development Revenue,WAINUA 联合开发收入,Rare Disease,10.559,USD,millions,reported,SEC 10-Q 0000874015-25-000123
-2024,Q1,2024-03-31,3,product,WainusRoyalties,WAINUA Royalties,WAINUA 特许权使用费,Rare Disease,1.125,USD,millions,reported,SEC 10-Q 0000874015-25-000123
+2024,Q1,2024-03-31,3,product,WainuaRoyalties,WAINUA Royalties,WAINUA 特许权使用费,Rare Disease,1.125,USD,millions,reported,SEC 10-Q 0000874015-25-000123
 2024,Q2,2024-06-30,3,product,CollaborativeAgreementRevenue,Collaborative Agreement Revenue,合作协议收入,Other,141.524,USD,millions,reported,SEC 10-Q 0000874015-24-000187
 2024,Q2,2024-06-30,3,product,LicensingAndOtherRoyalties,Licensing and Other Royalties,许可及其他特许权使用费,Other,3.32,USD,millions,reported,SEC 10-Q 0000874015-24-000187
-2024,Q2,2024-06-30,3,product,Product,"TEGSEDI and WAYLIVRA Revenue, Net",TEGSEDI 和 WAYLIVRA 净收入,Rare Disease,8.192,USD,millions,reported,SEC 10-Q 0000874015-24-000187
 2024,Q2,2024-06-30,3,product,SpinrazaRoyalties,SPINRAZA Royalties,SPINRAZA 特许权使用费,Rare Disease,56.743,USD,millions,reported,SEC 10-Q 0000874015-24-000187
+2024,Q2,2024-06-30,3,product,TegsediAndWaylivra,"TEGSEDI and WAYLIVRA Revenue, Net",TEGSEDI 和 WAYLIVRA 净收入,Rare Disease,8.192,USD,millions,reported,SEC 10-Q 0000874015-24-000187
 2024,Q2,2024-06-30,3,product,WainuaJointDevelopmentRevenue,WAINUA Joint Development Revenue,WAINUA 联合开发收入,Rare Disease,11.69,USD,millions,reported,SEC 10-Q 0000874015-24-000187
-2024,Q2,2024-06-30,3,product,WainusRoyalties,WAINUA Royalties,WAINUA 特许权使用费,Rare Disease,3.781,USD,millions,reported,SEC 10-Q 0000874015-24-000187
-2024,Q3,2024-09-30,3,product,Tryngolza,"TRYNGOLZA Sales, Net",TRYNGOLZA 净销售额,Cardiometabolic Health,0,USD,millions,reported,SEC 10-Q 0000874015-25-000266
+2024,Q2,2024-06-30,3,product,WainuaRoyalties,WAINUA Royalties,WAINUA 特许权使用费,Rare Disease,3.781,USD,millions,reported,SEC 10-Q 0000874015-24-000187
+2024,Q3,2024-09-30,3,product,TryngolzaSalesNet,"TRYNGOLZA Sales, Net",TRYNGOLZA 净销售额,Cardiometabolic Health,0,USD,millions,reported,SEC 10-Q 0000874015-25-000266
 2024,Q3,2024-09-30,3,product,CollaborativeAgreementRevenue,Collaborative Agreement Revenue,合作协议收入,Other,44.883,USD,millions,reported,SEC 10-Q 0000874015-25-000266
 2024,Q3,2024-09-30,3,product,OtherCommercial,Other Commercial Revenue,其他商业收入,Other,8.924,USD,millions,reported,SEC 10-Q 0000874015-25-000266
 2024,Q3,2024-09-30,3,product,OtherRoyalties,Other Royalties,其他特许权使用费,Other,4.228,USD,millions,reported,SEC 10-Q 0000874015-25-000266
 2024,Q3,2024-09-30,3,product,SpinrazaRoyalties,SPINRAZA Royalties,SPINRAZA 特许权使用费,Rare Disease,57.208,USD,millions,reported,SEC 10-Q 0000874015-25-000266
 2024,Q3,2024-09-30,3,product,WainuaJointDevelopmentRevenue,WAINUA Joint Development Revenue,WAINUA 联合开发收入,Rare Disease,13.2,USD,millions,reported,SEC 10-Q 0000874015-25-000266
-2024,Q3,2024-09-30,3,product,WainusRoyalties,WAINUA Royalties,WAINUA 特许权使用费,Rare Disease,5.371,USD,millions,reported,SEC 10-Q 0000874015-25-000266
+2024,Q3,2024-09-30,3,product,WainuaRoyalties,WAINUA Royalties,WAINUA 特许权使用费,Rare Disease,5.371,USD,millions,reported,SEC 10-Q 0000874015-25-000266
 2024,Q4,2024-12-31,3,product,OtherNotItemized,Other (not itemized),其他（未单列）,,0,USD,millions,derived,SEC 10-K 0000874015-26-000115 − 10-Q 0000874015-25-000266
 2024,Q4,2024-12-31,3,product,CollaborativeAgreementRevenue,Collaborative Agreement Revenue,合作协议收入,Other,96.894,USD,millions,derived,SEC 10-K 0000874015-26-000115 − 10-Q 0000874015-25-000266
 2024,Q4,2024-12-31,3,product,OtherCommercial,Other Commercial Revenue,其他商业收入,Other,8.445,USD,millions,derived,SEC 10-K 0000874015-26-000115 − 10-Q 0000874015-25-000266
 2024,Q4,2024-12-31,3,product,OtherRoyalties,Other Royalties,其他特许权使用费,Other,3.658,USD,millions,derived,SEC 10-K 0000874015-26-000115 − 10-Q 0000874015-25-000266
 2024,Q4,2024-12-31,3,product,SpinrazaRoyalties,SPINRAZA Royalties,SPINRAZA 特许权使用费,Rare Disease,63.684,USD,millions,derived,SEC 10-K 0000874015-26-000115 − 10-Q 0000874015-25-000266
 2024,Q4,2024-12-31,3,product,WainuaJointDevelopmentRevenue,WAINUA Joint Development Revenue,WAINUA 联合开发收入,Rare Disease,43.966,USD,millions,derived,SEC 10-K 0000874015-26-000115 − 10-Q 0000874015-25-000266
-2024,Q4,2024-12-31,3,product,WainusRoyalties,WAINUA Royalties,WAINUA 特许权使用费,Rare Disease,9.929,USD,millions,derived,SEC 10-K 0000874015-26-000115 − 10-Q 0000874015-25-000266
+2024,Q4,2024-12-31,3,product,WainuaRoyalties,WAINUA Royalties,WAINUA 特许权使用费,Rare Disease,9.929,USD,millions,derived,SEC 10-K 0000874015-26-000115 − 10-Q 0000874015-25-000266
 2024,FY,2024-12-31,12,product,DAWNZERASales,DAWNZERA Sales,DAWNZERA 净销售额,Cardiometabolic Health,0,USD,millions,reported,SEC 10-K 0000874015-26-000115
 2024,FY,2024-12-31,12,product,TryngolzaSales,TRYNGOLZA Sales,TRYNGOLZA 销售收入,Cardiometabolic Health,0,USD,millions,reported,SEC 10-K 0000874015-26-000115
 2024,FY,2024-12-31,12,product,CollaborativeAgreementRevenue,Collaborative Agreement Revenue,合作协议收入,Other,332.647,USD,millions,reported,SEC 10-K 0000874015-26-000115
@@ -113,39 +113,39 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2024,FY,2024-12-31,12,product,OtherRoyalties,Other Royalties,其他特许权使用费,Other,21.01,USD,millions,reported,SEC 10-K 0000874015-26-000115
 2024,FY,2024-12-31,12,product,SpinrazaRoyalties,SPINRAZA Royalties,SPINRAZA 特许权使用费,Rare Disease,216.09,USD,millions,reported,SEC 10-K 0000874015-26-000115
 2024,FY,2024-12-31,12,product,WainuaJointDevelopmentRevenue,WAINUA Joint Development Revenue,WAINUA 联合开发收入,Rare Disease,79.415,USD,millions,reported,SEC 10-K 0000874015-26-000115
-2024,FY,2024-12-31,12,product,WainusRoyalties,WAINUA Royalties,WAINUA 特许权使用费,Rare Disease,20.207,USD,millions,reported,SEC 10-K 0000874015-26-000115
-2025,Q1,2025-03-31,3,product,Tryngolza,TRYNGOLZA,TRYNGOLZA 净销售额,Cardiometabolic Health,6.287,USD,millions,reported,SEC 10-Q 0000874015-25-000123
+2024,FY,2024-12-31,12,product,WainuaRoyalties,WAINUA Royalties,WAINUA 特许权使用费,Rare Disease,20.207,USD,millions,reported,SEC 10-K 0000874015-26-000115
+2025,Q1,2025-03-31,3,product,TryngolzaSalesNet,"TRYNGOLZA Sales, Net",TRYNGOLZA 净销售额,Cardiometabolic Health,6.287,USD,millions,reported,SEC 10-Q 0000874015-25-000123
 2025,Q1,2025-03-31,3,product,CollaborativeAgreementRevenue,Collaborative Agreement Revenue,合作协议收入,Other,45.031,USD,millions,reported,SEC 10-Q 0000874015-25-000123
 2025,Q1,2025-03-31,3,product,Other,Other Revenue,其他收入,Other,0,USD,millions,reported,SEC 10-Q 0000874015-25-000123
 2025,Q1,2025-03-31,3,product,OtherRoyalties,Other Royalties,其他特许权使用费,Other,6.784,USD,millions,reported,SEC 10-Q 0000874015-25-000123
 2025,Q1,2025-03-31,3,product,SpinrazaRoyalties,SPINRAZA Royalties,SPINRAZA 特许权使用费,Rare Disease,48.01,USD,millions,reported,SEC 10-Q 0000874015-25-000123
 2025,Q1,2025-03-31,3,product,TegsediAndWaylivra,"TEGSEDI and WAYLIVRA Revenue, Net",TEGSEDI 和 WAYLIVRA 净收入,Rare Disease,5.715,USD,millions,reported,SEC 10-Q 0000874015-25-000123
 2025,Q1,2025-03-31,3,product,WainuaJointDevelopmentRevenue,WAINUA Joint Development Revenue,WAINUA 联合开发收入,Rare Disease,10.413,USD,millions,reported,SEC 10-Q 0000874015-25-000123
-2025,Q1,2025-03-31,3,product,WainusRoyalties,WAINUA Royalties,WAINUA 特许权使用费,Rare Disease,9.372,USD,millions,reported,SEC 10-Q 0000874015-25-000123
+2025,Q1,2025-03-31,3,product,WainuaRoyalties,WAINUA Royalties,WAINUA 特许权使用费,Rare Disease,9.372,USD,millions,reported,SEC 10-Q 0000874015-25-000123
 2025,Q2,2025-06-30,3,product,DAWNZERASales,"DAWNZERA Sales, Net",DAWNZERA 净销售额,Cardiometabolic Health,0,USD,millions,reported,SEC 10-Q 0000874015-26-000251
-2025,Q2,2025-06-30,3,product,Tryngolza,"TRYNGOLZA Sales, Net",TRYNGOLZA 净销售额,Cardiometabolic Health,19.273,USD,millions,reported,SEC 10-Q 0000874015-26-000251
+2025,Q2,2025-06-30,3,product,TryngolzaSalesNet,"TRYNGOLZA Sales, Net",TRYNGOLZA 净销售额,Cardiometabolic Health,19.273,USD,millions,reported,SEC 10-Q 0000874015-26-000251
 2025,Q2,2025-06-30,3,product,CollaborativeAgreementRevenue,Collaborative Agreement Revenue,合作协议收入,Other,336.921,USD,millions,reported,SEC 10-Q 0000874015-26-000251
 2025,Q2,2025-06-30,3,product,OtherCommercial,Other Commercial Revenue,其他商业收入,Other,13.531,USD,millions,reported,SEC 10-Q 0000874015-26-000251
 2025,Q2,2025-06-30,3,product,OtherRoyalties,Other Royalties,其他特许权使用费,Other,5.2,USD,millions,reported,SEC 10-Q 0000874015-26-000251
 2025,Q2,2025-06-30,3,product,SpinrazaRoyalties,SPINRAZA Royalties,SPINRAZA 特许权使用费,Rare Disease,54.337,USD,millions,reported,SEC 10-Q 0000874015-26-000251
 2025,Q2,2025-06-30,3,product,WainuaJointDevelopmentRevenue,WAINUA Joint Development Revenue,WAINUA 联合开发收入,Rare Disease,12.372,USD,millions,reported,SEC 10-Q 0000874015-26-000251
-2025,Q2,2025-06-30,3,product,WainusRoyalties,WAINUA Royalties,WAINUA 特许权使用费,Rare Disease,10.415,USD,millions,reported,SEC 10-Q 0000874015-26-000251
+2025,Q2,2025-06-30,3,product,WainuaRoyalties,WAINUA Royalties,WAINUA 特许权使用费,Rare Disease,10.415,USD,millions,reported,SEC 10-Q 0000874015-26-000251
 2025,Q3,2025-09-30,3,product,DawnzeraSalesNet,"DAWNZERA Sales, Net",DAWNZERA 净销售额,Cardiometabolic Health,0.738,USD,millions,reported,SEC 10-Q 0000874015-26-000271
 2025,Q3,2025-09-30,3,product,TryngolzaSalesNet,"TRYNGOLZA Sales, Net",TRYNGOLZA 净销售额,Cardiometabolic Health,31.792,USD,millions,reported,SEC 10-Q 0000874015-26-000271
-2025,Q3,2025-09-30,3,product,WainuaRoyalties,WAINUA Royalties,WAINUA 特许权使用费,Cardiometabolic Health,13.32,USD,millions,reported,SEC 10-Q 0000874015-26-000271
 2025,Q3,2025-09-30,3,product,ZanvastroSalesNet,"ZANVASTRO Sales, Net",ZANVASTRO 净销售额,Oncology,0,USD,millions,reported,SEC 10-Q 0000874015-26-000271
 2025,Q3,2025-09-30,3,product,CollaborativeAgreementRevenue,Collaborative Agreement Revenue,合作协议收入,Other,31.436,USD,millions,reported,SEC 10-Q 0000874015-26-000271
 2025,Q3,2025-09-30,3,product,OtherCommercialRevenue,Other Commercial Revenue,其他商业收入,Other,7.374,USD,millions,reported,SEC 10-Q 0000874015-26-000271
 2025,Q3,2025-09-30,3,product,OtherRoyalties,Other Royalties,其他特许权使用费,Other,6.478,USD,millions,reported,SEC 10-Q 0000874015-26-000271
 2025,Q3,2025-09-30,3,product,SpinrazaRoyalties,SPINRAZA Royalties,SPINRAZA 特许权使用费,Rare Disease,55.896,USD,millions,reported,SEC 10-Q 0000874015-26-000271
 2025,Q3,2025-09-30,3,product,WainuaJointDevelopmentRevenue,WAINUA Joint Development Revenue,WAINUA 联合开发收入,Rare Disease,9.685,USD,millions,reported,SEC 10-Q 0000874015-26-000271
+2025,Q3,2025-09-30,3,product,WainuaRoyalties,WAINUA Royalties,WAINUA 特许权使用费,Rare Disease,13.32,USD,millions,reported,SEC 10-Q 0000874015-26-000271
 2025,Q4,2025-12-31,3,product,OtherNotItemized,Other (not itemized),其他（未单列）,,57.962,USD,millions,derived,SEC 10-K 0000874015-26-000115 − 10-Q 0000874015-25-000266
 2025,Q4,2025-12-31,3,product,CollaborativeAgreementRevenue,Collaborative Agreement Revenue,合作协议收入,Other,52.398,USD,millions,derived,SEC 10-K 0000874015-26-000115 − 10-Q 0000874015-25-000266
 2025,Q4,2025-12-31,3,product,OtherCommercial,Other Commercial Revenue,其他商业收入,Other,7.645,USD,millions,derived,SEC 10-K 0000874015-26-000115 − 10-Q 0000874015-25-000266
 2025,Q4,2025-12-31,3,product,OtherRoyalties,Other Royalties,其他特许权使用费,Other,5.698,USD,millions,derived,SEC 10-K 0000874015-26-000115 − 10-Q 0000874015-25-000266
 2025,Q4,2025-12-31,3,product,SpinrazaRoyalties,SPINRAZA Royalties,SPINRAZA 特许权使用费,Rare Disease,54.037,USD,millions,derived,SEC 10-K 0000874015-26-000115 − 10-Q 0000874015-25-000266
 2025,Q4,2025-12-31,3,product,WainuaJointDevelopmentRevenue,WAINUA Joint Development Revenue,WAINUA 联合开发收入,Rare Disease,9.607,USD,millions,derived,SEC 10-K 0000874015-26-000115 − 10-Q 0000874015-25-000266
-2025,Q4,2025-12-31,3,product,WainusRoyalties,WAINUA Royalties,WAINUA 特许权使用费,Rare Disease,15.983,USD,millions,derived,SEC 10-K 0000874015-26-000115 − 10-Q 0000874015-25-000266
+2025,Q4,2025-12-31,3,product,WainuaRoyalties,WAINUA Royalties,WAINUA 特许权使用费,Rare Disease,15.983,USD,millions,derived,SEC 10-K 0000874015-26-000115 − 10-Q 0000874015-25-000266
 2025,FY,2025-12-31,12,product,DAWNZERASales,DAWNZERA Sales,DAWNZERA 净销售额,Cardiometabolic Health,7.789,USD,millions,reported,SEC 10-K 0000874015-26-000115
 2025,FY,2025-12-31,12,product,TryngolzaSales,TRYNGOLZA Sales,TRYNGOLZA 销售收入,Cardiometabolic Health,107.526,USD,millions,reported,SEC 10-K 0000874015-26-000115
 2025,FY,2025-12-31,12,product,CollaborativeAgreementRevenue,Collaborative Agreement Revenue,合作协议收入,Other,465.785,USD,millions,reported,SEC 10-K 0000874015-26-000115
@@ -153,29 +153,29 @@ fiscal_year,fiscal_period,period_end,months,axis,member,name_en,name_zh,group,va
 2025,FY,2025-12-31,12,product,OtherRoyalties,Other Royalties,其他特许权使用费,Other,24.159,USD,millions,reported,SEC 10-K 0000874015-26-000115
 2025,FY,2025-12-31,12,product,SpinrazaRoyalties,SPINRAZA Royalties,SPINRAZA 特许权使用费,Rare Disease,212.28,USD,millions,reported,SEC 10-K 0000874015-26-000115
 2025,FY,2025-12-31,12,product,WainuaJointDevelopmentRevenue,WAINUA Joint Development Revenue,WAINUA 联合开发收入,Rare Disease,42.078,USD,millions,reported,SEC 10-K 0000874015-26-000115
-2025,FY,2025-12-31,12,product,WainusRoyalties,WAINUA Royalties,WAINUA 特许权使用费,Rare Disease,49.09,USD,millions,reported,SEC 10-K 0000874015-26-000115
+2025,FY,2025-12-31,12,product,WainuaRoyalties,WAINUA Royalties,WAINUA 特许权使用费,Rare Disease,49.09,USD,millions,reported,SEC 10-K 0000874015-26-000115
 2026,Q1,2026-03-31,3,product,DAWNZERASales,DAWNZERA Sales,DAWNZERA 净销售额,Cardiometabolic Health,15.855,USD,millions,reported,SEC 10-Q 0000874015-26-000177
-2026,Q1,2026-03-31,3,product,Tryngolza,TRYNGOLZA Sales,TRYNGOLZA 净销售额,Cardiometabolic Health,27.1,USD,millions,reported,SEC 10-Q 0000874015-26-000177
+2026,Q1,2026-03-31,3,product,TryngolzaSalesNet,"TRYNGOLZA Sales, Net",TRYNGOLZA 净销售额,Cardiometabolic Health,27.1,USD,millions,reported,SEC 10-Q 0000874015-26-000177
 2026,Q1,2026-03-31,3,product,CollaborativeAgreementRevenue,Collaborative Agreement Revenue,合作协议收入,Other,120.66,USD,millions,reported,SEC 10-Q 0000874015-26-000177
 2026,Q1,2026-03-31,3,product,OtherCommercial,Other Commercial Revenue,其他商业收入,Other,6.532,USD,millions,reported,SEC 10-Q 0000874015-26-000177
 2026,Q1,2026-03-31,3,product,OtherRoyalties,Other Royalties,其他特许权使用费,Other,3.904,USD,millions,reported,SEC 10-Q 0000874015-26-000177
 2026,Q1,2026-03-31,3,product,SpinrazaRoyalties,SPINRAZA Royalties,SPINRAZA 特许权使用费,Rare Disease,43.71,USD,millions,reported,SEC 10-Q 0000874015-26-000177
 2026,Q1,2026-03-31,3,product,WainuaJointDevelopmentRevenue,WAINUA Joint Development Revenue,WAINUA 联合开发收入,Rare Disease,17.621,USD,millions,reported,SEC 10-Q 0000874015-26-000177
-2026,Q1,2026-03-31,3,product,WainusRoyalties,WAINUA Royalties,WAINUA 特许权使用费,Rare Disease,10.709,USD,millions,reported,SEC 10-Q 0000874015-26-000177
+2026,Q1,2026-03-31,3,product,WainuaRoyalties,WAINUA Royalties,WAINUA 特许权使用费,Rare Disease,10.709,USD,millions,reported,SEC 10-Q 0000874015-26-000177
 2026,Q2,2026-06-30,3,product,DAWNZERASales,"DAWNZERA Sales, Net",DAWNZERA 净销售额,Cardiometabolic Health,26.565,USD,millions,reported,SEC 10-Q 0000874015-26-000251
-2026,Q2,2026-06-30,3,product,Tryngolza,"TRYNGOLZA Sales, Net",TRYNGOLZA 净销售额,Cardiometabolic Health,4.574,USD,millions,reported,SEC 10-Q 0000874015-26-000251
+2026,Q2,2026-06-30,3,product,TryngolzaSalesNet,"TRYNGOLZA Sales, Net",TRYNGOLZA 净销售额,Cardiometabolic Health,4.574,USD,millions,reported,SEC 10-Q 0000874015-26-000251
 2026,Q2,2026-06-30,3,product,CollaborativeAgreementRevenue,Collaborative Agreement Revenue,合作协议收入,Other,133.137,USD,millions,reported,SEC 10-Q 0000874015-26-000251
 2026,Q2,2026-06-30,3,product,OtherCommercial,Other Commercial Revenue,其他商业收入,Other,11.526,USD,millions,reported,SEC 10-Q 0000874015-26-000251
 2026,Q2,2026-06-30,3,product,OtherRoyalties,Other Royalties,其他特许权使用费,Other,6.036,USD,millions,reported,SEC 10-Q 0000874015-26-000251
 2026,Q2,2026-06-30,3,product,SpinrazaRoyalties,SPINRAZA Royalties,SPINRAZA 特许权使用费,Rare Disease,53.486,USD,millions,reported,SEC 10-Q 0000874015-26-000251
 2026,Q2,2026-06-30,3,product,WainuaJointDevelopmentRevenue,WAINUA Joint Development Revenue,WAINUA 联合开发收入,Rare Disease,16.189,USD,millions,reported,SEC 10-Q 0000874015-26-000251
-2026,Q2,2026-06-30,3,product,WainusRoyalties,WAINUA Royalties,WAINUA 特许权使用费,Rare Disease,16.436,USD,millions,reported,SEC 10-Q 0000874015-26-000251
+2026,Q2,2026-06-30,3,product,WainuaRoyalties,WAINUA Royalties,WAINUA 特许权使用费,Rare Disease,16.436,USD,millions,reported,SEC 10-Q 0000874015-26-000251
 2026,Q3,2026-09-30,3,product,DawnzeraSalesNet,"DAWNZERA Sales, Net",DAWNZERA 净销售额,Cardiometabolic Health,36.773,USD,millions,reported,SEC 10-Q 0000874015-26-000271
 2026,Q3,2026-09-30,3,product,TryngolzaSalesNet,"TRYNGOLZA Sales, Net",TRYNGOLZA 净销售额,Cardiometabolic Health,9.329,USD,millions,reported,SEC 10-Q 0000874015-26-000271
-2026,Q3,2026-09-30,3,product,WainuaRoyalties,WAINUA Royalties,WAINUA 特许权使用费,Cardiometabolic Health,6.847,USD,millions,reported,SEC 10-Q 0000874015-26-000271
 2026,Q3,2026-09-30,3,product,ZanvastroSalesNet,"ZANVASTRO Sales, Net",ZANVASTRO 净销售额,Oncology,2.194,USD,millions,reported,SEC 10-Q 0000874015-26-000271
 2026,Q3,2026-09-30,3,product,CollaborativeAgreementRevenue,Collaborative Agreement Revenue,合作协议收入,Other,102.77,USD,millions,reported,SEC 10-Q 0000874015-26-000271
 2026,Q3,2026-09-30,3,product,OtherCommercialRevenue,Other Commercial Revenue,其他商业收入,Other,7.317,USD,millions,reported,SEC 10-Q 0000874015-26-000271
 2026,Q3,2026-09-30,3,product,OtherRoyalties,Other Royalties,其他特许权使用费,Other,4.352,USD,millions,reported,SEC 10-Q 0000874015-26-000271
 2026,Q3,2026-09-30,3,product,SpinrazaRoyalties,SPINRAZA Royalties,SPINRAZA 特许权使用费,Rare Disease,69.393,USD,millions,reported,SEC 10-Q 0000874015-26-000271
 2026,Q3,2026-09-30,3,product,WainuaJointDevelopmentRevenue,WAINUA Joint Development Revenue,WAINUA 联合开发收入,Rare Disease,3.746,USD,millions,reported,SEC 10-Q 0000874015-26-000271
+2026,Q3,2026-09-30,3,product,WainuaRoyalties,WAINUA Royalties,WAINUA 特许权使用费,Rare Disease,6.847,USD,millions,reported,SEC 10-Q 0000874015-26-000271
