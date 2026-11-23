@@ -1,0 +1,461 @@
+{
+ "check_version": 2,
+ "doc": "2025-H1-ann",
+ "fiscal_year": 2025,
+ "gpt_answer": {
+  "balance": {
+   "cash": [
+    "Bank balances and cash"
+   ],
+   "inventories": [
+    "Inventories"
+   ],
+   "receivables": [
+    "Trade receivables"
+   ],
+   "short_term_investments": [
+    "Other financial assets"
+   ],
+   "total_assets": [
+    "[小计] Non-current assets",
+    "[小计] Current assets"
+   ],
+   "total_current_assets": [
+    "[小计] Current assets"
+   ],
+   "total_current_liabilities": [
+    "[小计] Current liabilities"
+   ],
+   "total_debt": [
+    "Borrowings",
+    "Borrowings"
+   ],
+   "total_equity": [
+    "Total equity"
+   ],
+   "total_liabilities": [
+    "[小计] Current liabilities",
+    "[小计] Non-current liabilities"
+   ]
+  },
+  "income": {
+   "cost_of_sales": [
+    "Cost of sales"
+   ],
+   "eps_diluted": [
+    "– Diluted (RMB Yuan)"
+   ],
+   "gross_profit": [
+    "Gross profit"
+   ],
+   "income_tax": [
+    "Income tax expense"
+   ],
+   "net_income": [
+    "Profit (loss) for the period"
+   ],
+   "pretax_income": [
+    "Profit (loss) before tax"
+   ],
+   "revenue": [
+    "Revenue from contracts with customers"
+   ],
+   "rnd": [
+    "Research and development expenses"
+   ],
+   "sga": [
+    "Administrative and other expenses",
+    "Selling and marketing expenses"
+   ]
+  }
+ },
+ "kind": "announcement",
+ "mapping_source": "GPT 对照",
+ "months": 6,
+ "parse_version": 1,
+ "period_end": "2025-06-30",
+ "problems": [
+  "GPT 的对照没通过核对（问了 2 次）：equity_parent 对到的行“Reserves”行名不符合"
+ ],
+ "processed": "2026-11-23",
+ "published": "2025-08-27",
+ "restatement_hint": "",
+ "signatures": {
+  "balance": "993adc6368696ccd",
+  "income": "910d1c57e468a970"
+ },
+ "statements": {
+  "balance": {
+   "bad": [],
+   "eps_cents": false,
+   "header": [
+    "At 30 June 2025",
+    "At At",
+    "30 June 31 December",
+    "NOTES 2025 2024",
+    "RMB'000 RMB'000",
+    "(unaudited) (audited)",
+    "Non-current assets"
+   ],
+   "lines": [
+    [
+     "Property, plant and equipment",
+     "Non-current assets",
+     "5,244,064",
+     "5,279,611"
+    ],
+    [
+     "Right-of-use assets",
+     "Non-current assets",
+     "357,701",
+     "367,631"
+    ],
+    [
+     "Intangible assets",
+     "Non-current assets",
+     "1,388,342",
+     "1,282,603"
+    ],
+    [
+     "Long-term investment",
+     "Non-current assets",
+     "835,429",
+     "858,991"
+    ],
+    [
+     "Prepayments for acquisition of long-term assets",
+     "Non-current assets",
+     "56,622",
+     "146,661"
+    ],
+    [
+     "Prepayments and other receivables",
+     "Non-current assets",
+     "322,626",
+     "352,363"
+    ],
+    [
+     "Other financial assets",
+     "Non-current assets",
+     "1,719,362",
+     "2,766,905"
+    ],
+    [
+     "Term deposits and other deposits",
+     "Non-current assets",
+     "577,252",
+     "275,000"
+    ],
+    [
+     "[小计] Non-current assets",
+     "Non-current assets",
+     "10,501,398",
+     "11,329,765"
+    ],
+    [
+     "Inventories",
+     "Current assets",
+     "1,128,113",
+     "822,167"
+    ],
+    [
+     "Trade receivables",
+     "Current assets",
+     "1,722,353",
+     "1,184,407"
+    ],
+    [
+     "Prepayments and other receivables",
+     "Current assets",
+     "702,269",
+     "382,523"
+    ],
+    [
+     "Other financial assets",
+     "Current assets",
+     "–",
+     "375,555"
+    ],
+    [
+     "Bank balances and cash",
+     "Current assets",
+     "9,540,139",
+     "7,508,185"
+    ],
+    [
+     "[小计] Current assets",
+     "Current assets",
+     "13,092,874",
+     "10,272,837"
+    ],
+    [
+     "Trade and bills payables",
+     "Current liabilities",
+     "432,292",
+     "357,677"
+    ],
+    [
+     "Other payables and accrued expenses",
+     "Current liabilities",
+     "3,176,721",
+     "3,340,852"
+    ],
+    [
+     "Tax payable",
+     "Current liabilities",
+     "61,896",
+     "–"
+    ],
+    [
+     "Contract liabilities",
+     "Current liabilities",
+     "226,966",
+     "256,411"
+    ],
+    [
+     "Borrowings",
+     "Current liabilities",
+     "1,108,500",
+     "405,100"
+    ],
+    [
+     "Lease liabilities",
+     "Current liabilities",
+     "6,091",
+     "8,829"
+    ],
+    [
+     "[小计] Current liabilities",
+     "Current liabilities",
+     "5,012,466",
+     "4,368,869"
+    ],
+    [
+     "Net current assets",
+     "Current liabilities",
+     "8,080,408",
+     "5,903,968"
+    ],
+    [
+     "Total assets less current liabilities",
+     "Current liabilities",
+     "18,581,806",
+     "17,233,733"
+    ],
+    [
+     "Contract liabilities",
+     "Non-current liabilities",
+     "513,496",
+     "567,780"
+    ],
+    [
+     "Borrowings",
+     "Non-current liabilities",
+     "2,263,120",
+     "2,412,354"
+    ],
+    [
+     "Lease liabilities",
+     "Non-current liabilities",
+     "1,605",
+     "4,760"
+    ],
+    [
+     "Subsidized grants",
+     "Non-current liabilities",
+     "718,637",
+     "647,292"
+    ],
+    [
+     "Other financial liabilities",
+     "Non-current liabilities",
+     "640,365",
+     "460,960"
+    ],
+    [
+     "Provisions for reinstatement cost",
+     "Non-current liabilities",
+     "22,763",
+     "22,858"
+    ],
+    [
+     "[小计] Non-current liabilities",
+     "Non-current liabilities",
+     "4,159,986",
+     "4,116,004"
+    ],
+    [
+     "Net assets",
+     "Non-current liabilities",
+     "14,421,820",
+     "13,117,729"
+    ],
+    [
+     "Share capital",
+     "Capital and reserves",
+     "114",
+     "113"
+    ],
+    [
+     "Reserves",
+     "Capital and reserves",
+     "14,421,706",
+     "13,117,616"
+    ],
+    [
+     "Total equity",
+     "Capital and reserves",
+     "14,421,820",
+     "13,117,729"
+    ]
+   ],
+   "pages": [
+    39,
+    40
+   ],
+   "unit_text": "At 30 June 2025\nAt At\n30 June 31 December\nNOTES 2025 2024\nRMB'000 RMB'000\n(unaudited) (audited)\nNon-current assets\nAt 30 June 2025\nAt At\n30 June 31 December\nNOTES 2025 2024\nRMB'000 RMB'000\n(unaudited) (audited)\nNon-current assets\nProperty, plant and equipment 5,244,064 5,279,611\nRight-of-use assets 357,701 367,631\nIntangible assets 1,388,342 1,282,603\nLong-term investment 835,429 858,991\nPrepayments for acquisition of long-term assets 56,622 146,661"
+  },
+  "income": {
+   "bad": [],
+   "eps_cents": false,
+   "header": [
+    "For the Six months ended 30 June 2025",
+    "Six months ended 30 June",
+    "NOTES 2025 2024",
+    "RMB'000 RMB'000",
+    "(unaudited) (unaudited)"
+   ],
+   "lines": [
+    [
+     "Revenue from contracts with customers",
+     "",
+     "5,953,094",
+     "3,952,291"
+    ],
+    [
+     "Cost of sales",
+     "",
+     "(833,452)",
+     "(677,551)"
+    ],
+    [
+     "Gross profit",
+     "",
+     "5,119,642",
+     "3,274,740"
+    ],
+    [
+     "Other income",
+     "",
+     "238,865",
+     "300,606"
+    ],
+    [
+     "Other gains and losses",
+     "",
+     "1,043",
+     "85,516"
+    ],
+    [
+     "Research and development expenses",
+     "",
+     "(1,008,799)",
+     "(1,399,432)"
+    ],
+    [
+     "Administrative and other expenses",
+     "",
+     "(442,111)",
+     "(319,801)"
+    ],
+    [
+     "Selling and marketing expenses",
+     "",
+     "(2,375,070)",
+     "(1,879,356)"
+    ],
+    [
+     "Royalties and other related payments",
+     "",
+     "(551,627)",
+     "(416,838)"
+    ],
+    [
+     "Share of results of an associate",
+     "",
+     "(23,562)",
+     "–"
+    ],
+    [
+     "Finance costs",
+     "",
+     "(61,264)",
+     "(38,020)"
+    ],
+    [
+     "Profit (loss) before tax",
+     "",
+     "897,117",
+     "(392,585)"
+    ],
+    [
+     "Income tax expense",
+     "",
+     "(62,796)",
+     "(35)"
+    ],
+    [
+     "Profit (loss) for the period",
+     "",
+     "834,321",
+     "(392,620)"
+    ],
+    [
+     "Fair value loss on investment in equity instruments ( \"FVTOCI \"), net of income tax",
+     "Item that will not be reclassified to profit or loss",
+     "–",
+     "(12,538)"
+    ],
+    [
+     "Exchange differences arising on translation of foreign operations",
+     "or loss",
+     "6,953",
+     "(6,296)"
+    ],
+    [
+     "Other comprehensive income (expense) for the period, net of income tax",
+     "or loss",
+     "6,953",
+     "(18,834)"
+    ],
+    [
+     "Total comprehensive income (expense) for the period",
+     "or loss",
+     "841,274",
+     "(411,454)"
+    ],
+    [
+     "Profit (loss) per share – Basic (RMB Yuan)",
+     "Profit (loss) per share",
+     "0.51",
+     "(0.24)"
+    ],
+    [
+     "– Diluted (RMB Yuan)",
+     "Profit (loss) per share",
+     "0.49",
+     "(0.24)"
+    ]
+   ],
+   "pages": [
+    38
+   ],
+   "unit_text": "For the Six months ended 30 June 2025\nSix months ended 30 June\nNOTES 2025 2024\nRMB'000 RMB'000\n(unaudited) (unaudited)\nFor the Six months ended 30 June 2025\nSix months ended 30 June\nNOTES 2025 2024\nRMB'000 RMB'000\n(unaudited) (unaudited)\nRevenue from contracts with customers 4 5,953,094 3,952,291\nCost of sales (833,452) (677,551)\nGross profit 5,119,642 3,274,740\nOther income 238,865 300,606\nOther gains and losses 1,043 85,516\nResearch and development expenses (1,008,799) (1,399,432)\nAdministrative and other expenses (442,111) (319,801)"
+  }
+ },
+ "status": "failed",
+ "style": "ifrs",
+ "title": "INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2025",
+ "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0827/2025082700860.pdf",
+ "warnings": []
+}

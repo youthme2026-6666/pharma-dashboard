@@ -1,0 +1,817 @@
+{
+ "check_version": 2,
+ "doc": "2023-FY-rep",
+ "fiscal_year": 2023,
+ "gpt_answer": {
+  "balance": {
+   "cash": [
+    "Bank balances and cash"
+   ],
+   "inventories": [
+    "Inventories"
+   ],
+   "receivables": [
+    "Trade receivables"
+   ],
+   "short_term_investments": [
+    "Other financial assets"
+   ],
+   "total_assets": [
+    "[小计] Non-current assets",
+    "[小计] Current assets"
+   ],
+   "total_current_assets": [
+    "[小计] Current assets"
+   ],
+   "total_current_liabilities": [
+    "[小计] Current liabilities"
+   ],
+   "total_debt": [
+    "Borrowings",
+    "Borrowings"
+   ],
+   "total_equity": [
+    "Total equity"
+   ],
+   "total_liabilities": [
+    "[小计] Current liabilities",
+    "[小计] Non-current liabilities"
+   ]
+  },
+  "cashflow": {
+   "capex": [
+    "Purchase of property, plant and equipment",
+    "Purchase of intangible assets"
+   ],
+   "cfo": [
+    "NET CASH FROM (USED IN) OPERATING ACTIVITIES"
+   ]
+  },
+  "income": {
+   "cost_of_sales": [
+    "Cost of sales"
+   ],
+   "eps_diluted": [
+    "– Diluted (RMB Yuan)"
+   ],
+   "gross_profit": [
+    "Gross profit"
+   ],
+   "income_tax": [
+    "Income tax credit (expense)"
+   ],
+   "net_income": [
+    "Loss for the year"
+   ],
+   "pretax_income": [
+    "Loss before tax"
+   ],
+   "revenue": [
+    "Revenue from contracts with customers"
+   ],
+   "rnd": [
+    "Research and development expenses"
+   ],
+   "sga": [
+    "Administrative and other expenses",
+    "Selling and marketing expenses"
+   ]
+  }
+ },
+ "kind": "report",
+ "mapping_source": "GPT 对照",
+ "months": 12,
+ "parse_version": 1,
+ "period_end": "2023-12-31",
+ "problems": [
+  "GPT 的对照没通过核对（问了 2 次）：equity_parent 对到的行“Reserves”行名不符合"
+ ],
+ "processed": "2026-11-23",
+ "published": "2024-04-29",
+ "restatement_hint": "June 2023, the Company adopted the fourteenth amended and restated memorandum and articles of association of the Company in s",
+ "signatures": {
+  "balance": "28f0eb77693cd119",
+  "cashflow": "68d5a2781ec87282",
+  "income": "74f27b22b2303204"
+ },
+ "statements": {
+  "balance": {
+   "bad": [],
+   "eps_cents": false,
+   "header": [
+    "At 31 December 2023",
+    "NOTES 2023 2022",
+    "RMB'000 RMB'000",
+    "Non-current assets"
+   ],
+   "lines": [
+    [
+     "Property, plant and equipment",
+     "Non-current assets",
+     "4,289,734",
+     "3,411,496"
+    ],
+    [
+     "Right-of-use assets",
+     "Non-current assets",
+     "366,650",
+     "414,650"
+    ],
+    [
+     "Intangible assets",
+     "Non-current assets",
+     "1,270,267",
+     "1,198,163"
+    ],
+    [
+     "Equity instruments at FVTOCI",
+     "Non-current assets",
+     "218,301",
+     "202,570"
+    ],
+    [
+     "Prepayments for acquisition of long-term assets",
+     "Non-current assets",
+     "195,519",
+     "234,573"
+    ],
+    [
+     "Prepayments and other receivables",
+     "Non-current assets",
+     "283,116",
+     "193,058"
+    ],
+    [
+     "Other financial assets",
+     "Non-current assets",
+     "575,788",
+     "427,627"
+    ],
+    [
+     "[小计] Non-current assets",
+     "Non-current assets",
+     "7,199,375",
+     "6,082,137"
+    ],
+    [
+     "Inventories",
+     "Current assets",
+     "968,088",
+     "1,428,882"
+    ],
+    [
+     "Trade receivables",
+     "Current assets",
+     "1,005,891",
+     "575,269"
+    ],
+    [
+     "Prepayments and other receivables",
+     "Current assets",
+     "484,377",
+     "336,521"
+    ],
+    [
+     "Other financial assets",
+     "Current assets",
+     "917,534",
+     "3,213"
+    ],
+    [
+     "Bank balances and cash",
+     "Current assets",
+     "10,052,095",
+     "9,162,823"
+    ],
+    [
+     "[小计] Current assets",
+     "Current assets",
+     "13,427,985",
+     "11,506,708"
+    ],
+    [
+     "Trade and bills payables",
+     "Current liabilities",
+     "372,549",
+     "325,622"
+    ],
+    [
+     "Other payables and accrued expenses",
+     "Current liabilities",
+     "2,467,771",
+     "1,820,977"
+    ],
+    [
+     "Contract liabilities",
+     "Current liabilities",
+     "416,166",
+     "434,911"
+    ],
+    [
+     "Borrowings",
+     "Current liabilities",
+     "1,195,155",
+     "888,000"
+    ],
+    [
+     "Lease liabilities",
+     "Current liabilities",
+     "25,175",
+     "26,392"
+    ],
+    [
+     "Tax payables",
+     "Current liabilities",
+     "–",
+     "3,296"
+    ],
+    [
+     "[小计] Current liabilities",
+     "Current liabilities",
+     "4,476,816",
+     "3,499,198"
+    ],
+    [
+     "Net current assets",
+     "Current liabilities",
+     "8,951,169",
+     "8,007,510"
+    ],
+    [
+     "Total assets less current liabilities",
+     "Current liabilities",
+     "16,150,544",
+     "14,089,647"
+    ],
+    [
+     "Contract liabilities",
+     "Non-current liabilities",
+     "450,312",
+     "569,096"
+    ],
+    [
+     "Borrowings",
+     "Non-current liabilities",
+     "2,326,777",
+     "2,215,433"
+    ],
+    [
+     "Lease liabilities",
+     "Non-current liabilities",
+     "73,422",
+     "98,683"
+    ],
+    [
+     "Government grants",
+     "Non-current liabilities",
+     "509,739",
+     "314,181"
+    ],
+    [
+     "Other financial liabilities",
+     "Non-current liabilities",
+     "262,713",
+     "162,305"
+    ],
+    [
+     "[小计] Non-current liabilities",
+     "Non-current liabilities",
+     "3,622,963",
+     "3,359,698"
+    ],
+    [
+     "Net assets",
+     "Non-current liabilities",
+     "12,527,581",
+     "10,729,949"
+    ],
+    [
+     "Share capital",
+     "Capital and reserves",
+     "112",
+     "105"
+    ],
+    [
+     "Reserves",
+     "Capital and reserves",
+     "12,527,469",
+     "10,729,844"
+    ],
+    [
+     "Total equity",
+     "Capital and reserves",
+     "12,527,581",
+     "10,729,949"
+    ]
+   ],
+   "pages": [
+    104,
+    105
+   ],
+   "unit_text": "At 31 December 2023\nNOTES 2023 2022\nRMB'000 RMB'000\nNon-current assets\nAt 31 December 2023\nNOTES 2023 2022\nRMB'000 RMB'000\nNon-current assets\nProperty, plant and equipment 14 4,289,734 3,411,496\nRight-of-use assets 15 366,650 414,650\nIntangible assets 16 1,270,267 1,198,163\nEquity instruments at FVTOCI 18 218,301 202,570\nPrepayments for acquisition of long-term assets 195,519 234,573\nPrepayments and other receivables 21 283,116 193,058\nOther financial assets 22 575,788 427,627\n7,199,375 6,082,137"
+  },
+  "cashflow": {
+   "bad": [],
+   "eps_cents": false,
+   "header": [
+    "For the year end 31 December 2023",
+    "2023 2022",
+    "RMB'000 RMB'000",
+    "OPERATING ACTIVITIES"
+   ],
+   "lines": [
+    [
+     "Loss before tax",
+     "OPERATING ACTIVITIES",
+     "(1,144,411)",
+     "(2,170,469)"
+    ],
+    [
+     "Loss (gain) on disposal of property, plant and equipment",
+     "Adjustments for:",
+     "952",
+     "(60)"
+    ],
+    [
+     "Depreciation of property, plant and equipment",
+     "Adjustments for:",
+     "275,595",
+     "245,088"
+    ],
+    [
+     "Amortisation of intangible assets",
+     "Adjustments for:",
+     "74,887",
+     "42,635"
+    ],
+    [
+     "Impairment of intangible assets",
+     "Adjustments for:",
+     "115,359",
+     "–"
+    ],
+    [
+     "Depreciation of right-of-use assets",
+     "Adjustments for:",
+     "34,621",
+     "31,699"
+    ],
+    [
+     "Net foreign exchange gains",
+     "Adjustments for:",
+     "(60,824)",
+     "(737,720)"
+    ],
+    [
+     "Gain from changes in fair value of other financial assets measured at fair value through profit or loss ( \"FVTPL\")",
+     "Adjustments for:",
+     "(30,807)",
+     "(2,430)"
+    ],
+    [
+     "Gain from disposal of other financial assets measured at FVTPL",
+     "Adjustments for:",
+     "–",
+     "(2,672)"
+    ],
+    [
+     "Share-based payment expenses",
+     "Adjustments for:",
+     "574,197",
+     "469,490"
+    ],
+    [
+     "Research and development expenses paid by partners of joint operations",
+     "Adjustments for:",
+     "42,826",
+     "53,885"
+    ],
+    [
+     "Government grants income related to asset",
+     "Adjustments for:",
+     "(9,540)",
+     "(11,456)"
+    ],
+    [
+     "Interest income",
+     "Adjustments for:",
+     "(452,837)",
+     "(189,537)"
+    ],
+    [
+     "Interest on bank borrowings",
+     "Adjustments for:",
+     "93,303",
+     "90,807"
+    ],
+    [
+     "Interest on lease liabilities",
+     "Adjustments for:",
+     "5,321",
+     "10,891"
+    ],
+    [
+     "Loss (gain) from changes in fair value of other financial liabilities measured at FVTPL",
+     "Adjustments for:",
+     "9,515",
+     "(16,510)"
+    ],
+    [
+     "Inventory impairment loss, net of reversal",
+     "Adjustments for:",
+     "101,849",
+     "23,746"
+    ],
+    [
+     "Operating cash flows before movements in working capital",
+     "Adjustments for:",
+     "(369,994)",
+     "(2,162,613)"
+    ],
+    [
+     "Decrease (increase) in inventories",
+     "Adjustments for:",
+     "358,945",
+     "(105,388)"
+    ],
+    [
+     "(Increase) decrease in trade receivables",
+     "Adjustments for:",
+     "(430,622)",
+     "393,136"
+    ],
+    [
+     "Increase in prepayments and other receivables",
+     "Adjustments for:",
+     "(108,989)",
+     "(106,382)"
+    ],
+    [
+     "Increase in trade and bills payables",
+     "Adjustments for:",
+     "46,927",
+     "130,572"
+    ],
+    [
+     "Increase (decrease) in other payables and accrued expenses",
+     "Adjustments for:",
+     "675,755",
+     "(207,071)"
+    ],
+    [
+     "(Decrease) increase in contract liabilities",
+     "Adjustments for:",
+     "(137,529)",
+     "189,994"
+    ],
+    [
+     "(Decrease) Increase in government grants",
+     "Adjustments for:",
+     "(1,098)",
+     "15,047"
+    ],
+    [
+     "Cash generated from (used in) operations",
+     "Adjustments for:",
+     "33,395",
+     "(1,852,705)"
+    ],
+    [
+     "Income tax refund",
+     "Adjustments for:",
+     "144,516",
+     "–"
+    ],
+    [
+     "Income tax paid",
+     "Adjustments for:",
+     "(30,101)",
+     "(66,099)"
+    ],
+    [
+     "NET CASH FROM (USED IN) OPERATING ACTIVITIES",
+     "Adjustments for:",
+     "147,810",
+     "(1,918,804)"
+    ],
+    [
+     "Interest received",
+     "INVESTING ACTIVITIES",
+     "306,302",
+     "107,259"
+    ],
+    [
+     "Placement of term deposits with maturity dates over three months",
+     "INVESTING ACTIVITIES",
+     "(8,413,504)",
+     "(10,111,103)"
+    ],
+    [
+     "Placement of pledged bank deposit",
+     "INVESTING ACTIVITIES",
+     "(747,000)",
+     "(306,442)"
+    ],
+    [
+     "Purchase of property, plant and equipment",
+     "INVESTING ACTIVITIES",
+     "(1,119,385)",
+     "(896,896)"
+    ],
+    [
+     "Purchase of financial assets at FVTPL",
+     "INVESTING ACTIVITIES",
+     "(164,141)",
+     "(214,601)"
+    ],
+    [
+     "Purchase of other financial assets at amortised cost",
+     "INVESTING ACTIVITIES",
+     "(836,822)",
+     "–"
+    ],
+    [
+     "Upfront payments for right-of-use assets/leasehold land",
+     "INVESTING ACTIVITIES",
+     "(1,725)",
+     "(16,230)"
+    ],
+    [
+     "Proceed from disposal of leasehold land",
+     "INVESTING ACTIVITIES",
+     "16,230",
+     "–"
+    ],
+    [
+     "Purchase of intangible assets",
+     "INVESTING ACTIVITIES",
+     "(262,350)",
+     "(468,604)"
+    ],
+    [
+     "Release of term deposits with maturity dates over three months",
+     "INVESTING ACTIVITIES",
+     "9,244,320",
+     "9,375,075"
+    ],
+    [
+     "Release of pledged bank deposits",
+     "INVESTING ACTIVITIES",
+     "807,444",
+     "514,455"
+    ],
+    [
+     "Proceeds on release of financial assets at FVTPL",
+     "INVESTING ACTIVITIES",
+     "–",
+     "644,770"
+    ],
+    [
+     "Proceeds from disposal of property plant and equipment",
+     "INVESTING ACTIVITIES",
+     "54",
+     "190"
+    ],
+    [
+     "Receipt of government grants related to property, plant and equipment",
+     "INVESTING ACTIVITIES",
+     "206,196",
+     "15,823"
+    ],
+    [
+     "Repayment to a partner of joint operations",
+     "INVESTING ACTIVITIES",
+     "(34,281)",
+     "(78,881)"
+    ],
+    [
+     "NET CASH USED IN INVESTING ACTIVITIES",
+     "INVESTING ACTIVITIES",
+     "(998,662)",
+     "(1,435,185)"
+    ],
+    [
+     "Interest paid",
+     "FINANCING ACTIVITIES",
+     "(127,613)",
+     "(104,884)"
+    ],
+    [
+     "New borrowings raised",
+     "FINANCING ACTIVITIES",
+     "1,335,549",
+     "1,080,172"
+    ],
+    [
+     "Repayment of borrowings",
+     "FINANCING ACTIVITIES",
+     "(917,050)",
+     "(365,000)"
+    ],
+    [
+     "Repayment of lease liabilities",
+     "FINANCING ACTIVITIES",
+     "(31,799)",
+     "(27,738)"
+    ],
+    [
+     "Payment of transaction costs attributable to issuance of new shares",
+     "FINANCING ACTIVITIES",
+     "(17,839)",
+     "–"
+    ],
+    [
+     "Proceeds from issue of ordinary shares",
+     "FINANCING ACTIVITIES",
+     "2,179,324",
+     "2,089,003"
+    ],
+    [
+     "Proceeds from exercise of share options",
+     "FINANCING ACTIVITIES",
+     "75,792",
+     "42,056"
+    ],
+    [
+     "Proceeds from other partners of investment funds consolidated",
+     "FINANCING ACTIVITIES",
+     "90,893",
+     "178,473"
+    ],
+    [
+     "NET CASH FROM FINANCING ACTIVITIES",
+     "FINANCING ACTIVITIES",
+     "2,587,257",
+     "2,892,082"
+    ],
+    [
+     "NET INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS",
+     "FINANCING ACTIVITIES",
+     "1,736,405",
+     "(461,907)"
+    ],
+    [
+     "CASH AND CASH EQUIVALENTS AT 1 JANUARY",
+     "FINANCING ACTIVITIES",
+     "1,016,165",
+     "1,359,408"
+    ],
+    [
+     "Effects of foreign exchange rate changes",
+     "FINANCING ACTIVITIES",
+     "(6,877)",
+     "118,664"
+    ],
+    [
+     "CASH AND CASH EQUIVALENTS AT 31 DECEMBER (note 23)",
+     "FINANCING ACTIVITIES",
+     "2,745,693",
+     "1,016,165"
+    ]
+   ],
+   "pages": [
+    107,
+    108,
+    109,
+    110,
+    111,
+    112
+   ],
+   "unit_text": "For the year end 31 December 2023\n2023 2022\nRMB'000 RMB'000\nOPERATING ACTIVITIES\nFor the year end 31 December 2023\n2023 2022\nRMB'000 RMB'000\nOPERATING ACTIVITIES\nLoss before tax (1,144,411) (2,170,469)\nAdjustments for:\nLoss (gain) on disposal of property, plant and equipment 952 (60)\nDepreciation of property, plant and equipment 275,595 245,088\nAmortisation of intangible assets 74,887 42,635\nImpairment of intangible assets 115,359 –\nDepreciation of right-of-use assets 34,621 31,699\nNet foreign exchange gains (60,824) (737,720)"
+  },
+  "income": {
+   "bad": [],
+   "eps_cents": false,
+   "header": [
+    "For the year end 31 December 2023",
+    "NOTES 2023 2022",
+    "RMB'000 RMB'000"
+   ],
+   "lines": [
+    [
+     "Revenue from contracts with customers",
+     "",
+     "6,206,070",
+     "4,556,380"
+    ],
+    [
+     "Cost of sales",
+     "",
+     "(1,136,266)",
+     "(930,990)"
+    ],
+    [
+     "Gross profit",
+     "",
+     "5,069,804",
+     "3,625,390"
+    ],
+    [
+     "Other income",
+     "",
+     "552,350",
+     "279,735"
+    ],
+    [
+     "Other gains and losses",
+     "",
+     "81,164",
+     "774,340"
+    ],
+    [
+     "Research and development expenses",
+     "",
+     "(2,227,556)",
+     "(2,871,220)"
+    ],
+    [
+     "Administrative and other expenses",
+     "",
+     "(750,278)",
+     "(835,488)"
+    ],
+    [
+     "Selling and marketing expenses",
+     "",
+     "(3,100,693)",
+     "(2,590,765)"
+    ],
+    [
+     "Royalties and other related payments",
+     "",
+     "(670,578)",
+     "(450,763)"
+    ],
+    [
+     "Finance costs",
+     "",
+     "(98,624)",
+     "(101,698)"
+    ],
+    [
+     "Loss before tax",
+     "",
+     "(1,144,411)",
+     "(2,170,469)"
+    ],
+    [
+     "Income tax credit (expense)",
+     "",
+     "116,498",
+     "(8,801)"
+    ],
+    [
+     "Loss for the year",
+     "",
+     "(1,027,913)",
+     "(2,179,270)"
+    ],
+    [
+     "Fair value gain (loss) on investment in equity instruments at fair value through other comprehensive income ( \"FVTOCI\")",
+     "Item that will not be reclassified to profit or loss",
+     "15,731",
+     "(876)"
+    ],
+    [
+     "Exchange differences arising on translation of foreign operations",
+     "Item that will not be reclassified to profit or loss",
+     "(1,660)",
+     "(20,446)"
+    ],
+    [
+     "Other comprehensive income (expense) for the year, net of income tax",
+     "Item that will not be reclassified to profit or loss",
+     "14,071",
+     "(21,322)"
+    ],
+    [
+     "Total comprehensive expense for the year",
+     "Item that will not be reclassified to profit or loss",
+     "(1,013,842)",
+     "(2,200,592)"
+    ],
+    [
+     "Loss per share – Basic (RMB Yuan)",
+     "Loss per share",
+     "(0.66)",
+     "(1.46)"
+    ],
+    [
+     "– Diluted (RMB Yuan)",
+     "Loss per share",
+     "(0.66)",
+     "(1.46)"
+    ]
+   ],
+   "pages": [
+    103
+   ],
+   "unit_text": "For the year end 31 December 2023\nNOTES 2023 2022\nRMB'000 RMB'000\nFor the year end 31 December 2023\nNOTES 2023 2022\nRMB'000 RMB'000\nRevenue from contracts with customers 5 6,206,070 4,556,380\nCost of sales (1,136,266) (930,990)\nGross profit 5,069,804 3,625,390\nOther income 6 552,350 279,735\nOther gains and losses 7 81,164 774,340\nResearch and development expenses (2,227,556) (2,871,220)\nAdministrative and other expenses (750,278) (835,488)\nSelling and marketing expenses (3,100,693) (2,590,765)\nRoyalties and other related payments (670,578) (450,763)"
+  }
+ },
+ "status": "failed",
+ "style": "ifrs",
+ "title": "2023 ANNUAL REPORT",
+ "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0429/2024042905755.pdf",
+ "warnings": []
+}

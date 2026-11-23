@@ -1,0 +1,435 @@
+{
+ "check_version": 2,
+ "doc": "2023-FY-ann",
+ "fiscal_year": 2023,
+ "gpt_answer": {
+  "balance": {
+   "cash": [
+    "Bank balances and cash"
+   ],
+   "inventories": [
+    "Inventories"
+   ],
+   "receivables": [
+    "Trade receivables"
+   ],
+   "total_assets": [
+    "[小计] Non-current assets",
+    "[小计] Current assets"
+   ],
+   "total_current_assets": [
+    "[小计] Current assets"
+   ],
+   "total_current_liabilities": [
+    "[小计] Current liabilities"
+   ],
+   "total_debt": [
+    "Borrowings",
+    "Borrowings"
+   ],
+   "total_equity": [
+    "Total equity"
+   ],
+   "total_liabilities": [
+    "[小计] Current liabilities",
+    "[小计] Non-current liabilities"
+   ]
+  },
+  "income": {
+   "cost_of_sales": [
+    "Cost of sales"
+   ],
+   "eps_diluted": [
+    "– Diluted (RMB Yuan)"
+   ],
+   "gross_profit": [
+    "Gross profit"
+   ],
+   "income_tax": [
+    "Income tax credit (expense)"
+   ],
+   "net_income": [
+    "Loss for the year"
+   ],
+   "pretax_income": [
+    "Loss before tax"
+   ],
+   "revenue": [
+    "Revenue from contracts with customers"
+   ],
+   "rnd": [
+    "Research and development expenses"
+   ],
+   "sga": [
+    "Administrative and other expenses",
+    "Selling and marketing expenses"
+   ]
+  }
+ },
+ "kind": "announcement",
+ "mapping_source": "GPT 对照",
+ "months": 12,
+ "parse_version": 1,
+ "period_end": "2023-12-31",
+ "problems": [
+  "GPT 的对照没通过核对（问了 2 次）：short_term_investments 只能对一行：[6, 11]；equity_parent 对到的行“Total equity”行名不符合"
+ ],
+ "processed": "2026-11-23",
+ "published": "2024-03-20",
+ "restatement_hint": "",
+ "signatures": {
+  "balance": "28f0eb77693cd119",
+  "income": "e6f390dda313c500"
+ },
+ "statements": {
+  "balance": {
+   "bad": [],
+   "eps_cents": false,
+   "header": [
+    "At At",
+    "31 December 31 December",
+    "NOTES 2023 2022",
+    "RMB'000 RMB'000",
+    "Non-current assets"
+   ],
+   "lines": [
+    [
+     "Property, plant and equipment",
+     "Non-current assets",
+     "4,289,734",
+     "3,411,496"
+    ],
+    [
+     "Right-of-use assets",
+     "Non-current assets",
+     "366,650",
+     "414,650"
+    ],
+    [
+     "Intangible assets",
+     "Non-current assets",
+     "1,270,267",
+     "1,198,163"
+    ],
+    [
+     "Equity instruments at FVTOCI",
+     "Non-current assets",
+     "218,301",
+     "202,570"
+    ],
+    [
+     "Prepayments for acquisition of long-term assets",
+     "Non-current assets",
+     "195,519",
+     "234,573"
+    ],
+    [
+     "Prepayments and other receivables",
+     "Non-current assets",
+     "283,116",
+     "193,058"
+    ],
+    [
+     "Other financial assets",
+     "Non-current assets",
+     "575,788",
+     "427,627"
+    ],
+    [
+     "[小计] Non-current assets",
+     "Non-current assets",
+     "7,199,375",
+     "6,082,137"
+    ],
+    [
+     "Inventories",
+     "Current assets",
+     "968,088",
+     "1,428,882"
+    ],
+    [
+     "Trade receivables",
+     "Current assets",
+     "1,005,891",
+     "575,269"
+    ],
+    [
+     "Prepayments and other receivables",
+     "Current assets",
+     "484,377",
+     "336,521"
+    ],
+    [
+     "Other financial assets",
+     "Current assets",
+     "917,534",
+     "3,213"
+    ],
+    [
+     "Bank balances and cash",
+     "Current assets",
+     "10,052,095",
+     "9,162,823"
+    ],
+    [
+     "[小计] Current assets",
+     "Current assets",
+     "13,427,985",
+     "11,506,708"
+    ],
+    [
+     "Trade and bills payables",
+     "Current liabilities",
+     "372,549",
+     "325,622"
+    ],
+    [
+     "Other payables and accrued expenses",
+     "Current liabilities",
+     "2,467,771",
+     "1,820,977"
+    ],
+    [
+     "Contract liabilities",
+     "Current liabilities",
+     "416,166",
+     "434,911"
+    ],
+    [
+     "Borrowings",
+     "Current liabilities",
+     "1,195,155",
+     "888,000"
+    ],
+    [
+     "Lease liabilities",
+     "Current liabilities",
+     "25,175",
+     "26,392"
+    ],
+    [
+     "Tax payables",
+     "Current liabilities",
+     "–",
+     "3,296"
+    ],
+    [
+     "[小计] Current liabilities",
+     "Current liabilities",
+     "4,476,816",
+     "3,499,198"
+    ],
+    [
+     "Net current assets",
+     "Current liabilities",
+     "8,951,169",
+     "8,007,510"
+    ],
+    [
+     "Total assets less current liabilities",
+     "Current liabilities",
+     "16,150,544",
+     "14,089,647"
+    ],
+    [
+     "Contract liabilities",
+     "Non-current liabilities",
+     "450,312",
+     "569,096"
+    ],
+    [
+     "Borrowings",
+     "Non-current liabilities",
+     "2,326,777",
+     "2,215,433"
+    ],
+    [
+     "Lease liabilities",
+     "Non-current liabilities",
+     "73,422",
+     "98,683"
+    ],
+    [
+     "Government grants",
+     "Non-current liabilities",
+     "509,739",
+     "314,181"
+    ],
+    [
+     "Other financial liabilities",
+     "Non-current liabilities",
+     "262,713",
+     "162,305"
+    ],
+    [
+     "[小计] Non-current liabilities",
+     "Non-current liabilities",
+     "3,622,963",
+     "3,359,698"
+    ],
+    [
+     "Net assets",
+     "Non-current liabilities",
+     "12,527,581",
+     "10,729,949"
+    ],
+    [
+     "Share capital",
+     "Capital and reserves",
+     "112",
+     "105"
+    ],
+    [
+     "Reserves",
+     "Capital and reserves",
+     "12,527,469",
+     "10,729,844"
+    ],
+    [
+     "Total equity",
+     "Capital and reserves",
+     "12,527,581",
+     "10,729,949"
+    ]
+   ],
+   "pages": [
+    48,
+    49
+   ],
+   "unit_text": "At At\n31 December 31 December\nNOTES 2023 2022\nRMB'000 RMB'000\nNon-current assets\nAt At\n31 December 31 December\nNOTES 2023 2022\nRMB'000 RMB'000\nNon-current assets\nProperty, plant and equipment 4,289,734 3,411,496\nRight-of-use assets 366,650 414,650\nIntangible assets 1,270,267 1,198,163\nEquity instruments at FVTOCI 218,301 202,570\nPrepayments for acquisition of long-term assets 195,519 234,573\nPrepayments and other receivables 283,116 193,058\nOther financial assets 575,788 427,627"
+  },
+  "income": {
+   "bad": [],
+   "eps_cents": false,
+   "header": [
+    "2023 2022",
+    "NOTES RMB'000 RMB'000"
+   ],
+   "lines": [
+    [
+     "Revenue from contracts with customers",
+     "",
+     "6,206,070",
+     "4,556,380"
+    ],
+    [
+     "Cost of sales",
+     "",
+     "(1,136,266)",
+     "(930,990)"
+    ],
+    [
+     "Gross profit",
+     "",
+     "5,069,804",
+     "3,625,390"
+    ],
+    [
+     "Other income",
+     "",
+     "552,350",
+     "279,735"
+    ],
+    [
+     "Other gains and losses",
+     "",
+     "81,164",
+     "774,340"
+    ],
+    [
+     "Research and development expenses",
+     "",
+     "(2,227,556)",
+     "(2,871,220)"
+    ],
+    [
+     "Administrative and other expenses",
+     "",
+     "(750,278)",
+     "(835,488)"
+    ],
+    [
+     "Selling and marketing expenses",
+     "",
+     "(3,100,693)",
+     "(2,590,765)"
+    ],
+    [
+     "Royalties and other related payments",
+     "",
+     "(670,578)",
+     "(450,763)"
+    ],
+    [
+     "Finance costs",
+     "",
+     "(98,624)",
+     "(101,698)"
+    ],
+    [
+     "Loss before tax",
+     "",
+     "(1,144,411)",
+     "(2,170,469)"
+    ],
+    [
+     "Income tax credit (expense)",
+     "",
+     "116,498",
+     "(8,801)"
+    ],
+    [
+     "Loss for the year",
+     "",
+     "(1,027,913)",
+     "(2,179,270)"
+    ],
+    [
+     "Fair value gain (loss) on investment in equity instruments income",
+     "Item that will not be reclassified to profit or loss",
+     "15,731",
+     "(876)"
+    ],
+    [
+     "Exchange differences arising on translation of foreign operations",
+     "profit or loss",
+     "(1,660)",
+     "(20,446)"
+    ],
+    [
+     "Other comprehensive income (expense) for the year, net of income tax",
+     "profit or loss",
+     "14,071",
+     "(21,322)"
+    ],
+    [
+     "Total comprehensive expense for the year",
+     "profit or loss",
+     "(1,013,842)",
+     "(2,200,592)"
+    ],
+    [
+     "Loss per share – Basic (RMB Yuan)",
+     "Loss per share",
+     "(0.66)",
+     "(1.46)"
+    ],
+    [
+     "– Diluted (RMB Yuan)",
+     "Loss per share",
+     "(0.66)",
+     "(1.46)"
+    ]
+   ],
+   "pages": [
+    47
+   ],
+   "unit_text": "2023 2022\nNOTES RMB'000 RMB'000\n2023 2022\nNOTES RMB'000 RMB'000\nRevenue from contracts with customers 4 6,206,070 4,556,380\nCost of sales (1,136,266) (930,990)\nGross profit 5,069,804 3,625,390\nOther income 552,350 279,735\nOther gains and losses 5 81,164 774,340\nResearch and development expenses (2,227,556) (2,871,220)\nAdministrative and other expenses (750,278) (835,488)\nSelling and marketing expenses (3,100,693) (2,590,765)\nRoyalties and other related payments (670,578) (450,763)\nFinance costs (98,624) (101,698)"
+  }
+ },
+ "status": "failed",
+ "style": "ifrs",
+ "title": "ANNUAL RESULTS ANNOUNCEMENT FOR THE YEAR ENDED 31 DECEMBER 2023",
+ "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0320/2024032000929.pdf",
+ "warnings": []
+}

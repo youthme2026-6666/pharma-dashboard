@@ -1,0 +1,853 @@
+{
+ "check_version": 2,
+ "doc": "2026-H1-rep",
+ "fiscal_year": 2026,
+ "gpt_answer": {
+  "balance": {
+   "cash": [
+    "Bank balances and cash"
+   ],
+   "inventories": [
+    "Inventories"
+   ],
+   "receivables": [
+    "Trade receivables"
+   ],
+   "total_assets": [
+    "[小计] Non-current assets",
+    "[小计] Current assets"
+   ],
+   "total_current_assets": [
+    "[小计] Current assets"
+   ],
+   "total_current_liabilities": [
+    "[小计] Current liabilities"
+   ],
+   "total_debt": [
+    "Borrowings",
+    "Borrowings"
+   ],
+   "total_equity": [
+    "Total equity"
+   ],
+   "total_liabilities": [
+    "[小计] Current liabilities",
+    "[小计] Non-current liabilities"
+   ]
+  },
+  "cashflow": {
+   "capex": [
+    "Purchase of property, plant and equipment",
+    "Purchase of intangible assets"
+   ],
+   "cfo": [
+    "NET CASH FROM OPERATING ACTIVITIES"
+   ]
+  },
+  "income": {
+   "cost_of_sales": [
+    "Cost of sales"
+   ],
+   "eps_diluted": [
+    "– Diluted (RMB Yuan)"
+   ],
+   "gross_profit": [
+    "Gross profit"
+   ],
+   "income_tax": [
+    "Income tax expense"
+   ],
+   "net_income": [
+    "Profit for the period"
+   ],
+   "pretax_income": [
+    "Profit before tax"
+   ],
+   "revenue": [
+    "Revenue from contracts with customers"
+   ],
+   "rnd": [
+    "Research and development expenses"
+   ],
+   "sga": [
+    "Administrative and other expenses",
+    "Selling and marketing expenses"
+   ]
+  }
+ },
+ "kind": "report",
+ "mapping_source": "GPT 对照",
+ "months": 6,
+ "parse_version": 1,
+ "period_end": "2026-06-30",
+ "problems": [
+  "GPT 的对照没通过核对（问了 2 次）：short_term_investments 的行号不存在：[9, 10, 16, 54, 55, 56]；equity_parent 对到的行“Total equity”行名不符合"
+ ],
+ "processed": "2026-11-23",
+ "published": "2026-09-29",
+ "restatement_hint": "ing from its pipeline assets. The accumulated achievements represented a pivotal progress as the Company strategically refines its",
+ "signatures": {
+  "balance": "80e8ea8fa224fb83",
+  "cashflow": "dd3b030b57daaa71",
+  "income": "5b048024c4c5fd43"
+ },
+ "statements": {
+  "balance": {
+   "bad": [],
+   "eps_cents": false,
+   "header": [
+    "At 30 June 2026",
+    "At At",
+    "30 June 31 December",
+    "NOTES 2026 2025",
+    "RMB'000 RMB'000",
+    "(unaudited) (audited)",
+    "Non-current assets"
+   ],
+   "lines": [
+    [
+     "Property, plant and equipment",
+     "Non-current assets",
+     "4,963,676",
+     "5,061,237"
+    ],
+    [
+     "Right-of-use assets",
+     "Non-current assets",
+     "365,308",
+     "380,262"
+    ],
+    [
+     "Investment properties",
+     "Non-current assets",
+     "27,483",
+     "27,799"
+    ],
+    [
+     "Intangible assets",
+     "Non-current assets",
+     "1,468,408",
+     "1,534,247"
+    ],
+    [
+     "Investment in an associate",
+     "Non-current assets",
+     "720,303",
+     "762,203"
+    ],
+    [
+     "Prepayments for acquisition of long-term assets",
+     "Non-current assets",
+     "45,233",
+     "22,782"
+    ],
+    [
+     "Prepayments and other receivables",
+     "Non-current assets",
+     "363,262",
+     "348,533"
+    ],
+    [
+     "Contract cost",
+     "Non-current assets",
+     "39,428",
+     "99,822"
+    ],
+    [
+     "Deferred tax assets",
+     "Non-current assets",
+     "472,068",
+     "–"
+    ],
+    [
+     "Other financial assets",
+     "Non-current assets",
+     "7,037,974",
+     "6,291,367"
+    ],
+    [
+     "Term deposits",
+     "Non-current assets",
+     "1,108,000",
+     "806,252"
+    ],
+    [
+     "[小计] Non-current assets",
+     "Non-current assets",
+     "16,611,143",
+     "15,334,504"
+    ],
+    [
+     "Inventories",
+     "Current assets",
+     "1,876,786",
+     "1,301,745"
+    ],
+    [
+     "Trade receivables",
+     "Current assets",
+     "1,903,161",
+     "1,713,832"
+    ],
+    [
+     "Prepayments and other receivables",
+     "Current assets",
+     "1,209,066",
+     "729,072"
+    ],
+    [
+     "Contract cost",
+     "Current assets",
+     "13,511",
+     "37,240"
+    ],
+    [
+     "Other financial assets",
+     "Current assets",
+     "2,622,589",
+     "886,741"
+    ],
+    [
+     "Bank balances and cash",
+     "Current assets",
+     "17,380,396",
+     "17,344,705"
+    ],
+    [
+     "[小计] Current assets",
+     "Current assets",
+     "25,005,509",
+     "22,013,335"
+    ],
+    [
+     "Trade and bills payables",
+     "Current liabilities",
+     "931,372",
+     "494,589"
+    ],
+    [
+     "Other payables and accrued expenses",
+     "Current liabilities",
+     "5,226,527",
+     "4,779,553"
+    ],
+    [
+     "Tax liabilities",
+     "Current liabilities",
+     "574,004",
+     "–"
+    ],
+    [
+     "Contract liabilities",
+     "Current liabilities",
+     "2,053,101",
+     "2,312,224"
+    ],
+    [
+     "Borrowings",
+     "Current liabilities",
+     "528,181",
+     "789,170"
+    ],
+    [
+     "Lease liabilities",
+     "Current liabilities",
+     "11,476",
+     "11,029"
+    ],
+    [
+     "[小计] Current liabilities",
+     "Current liabilities",
+     "9,324,661",
+     "8,386,565"
+    ],
+    [
+     "Net current assets",
+     "Current liabilities",
+     "15,680,848",
+     "13,626,770"
+    ],
+    [
+     "Total assets less current liabilities",
+     "Current liabilities",
+     "32,291,991",
+     "28,961,274"
+    ],
+    [
+     "Contract liabilities",
+     "Non-current liabilities",
+     "8,293,587",
+     "6,148,796"
+    ],
+    [
+     "Borrowings",
+     "Non-current liabilities",
+     "1,762,962",
+     "1,989,601"
+    ],
+    [
+     "Lease liabilities",
+     "Non-current liabilities",
+     "20,587",
+     "25,975"
+    ],
+    [
+     "Subsidized grants",
+     "Non-current liabilities",
+     "808,406",
+     "797,647"
+    ],
+    [
+     "Other financial liabilities",
+     "Non-current liabilities",
+     "638,952",
+     "620,662"
+    ],
+    [
+     "Provisions for reinstatement cost",
+     "Non-current liabilities",
+     "21,657",
+     "22,350"
+    ],
+    [
+     "[小计] Non-current liabilities",
+     "Non-current liabilities",
+     "11,546,151",
+     "9,605,031"
+    ],
+    [
+     "Net assets",
+     "Non-current liabilities",
+     "20,745,840",
+     "19,356,243"
+    ],
+    [
+     "Share capital",
+     "Capital and reserves",
+     "120",
+     "119"
+    ],
+    [
+     "Reserves",
+     "Capital and reserves",
+     "20,745,720",
+     "19,356,124"
+    ],
+    [
+     "Total equity",
+     "Capital and reserves",
+     "20,745,840",
+     "19,356,243"
+    ]
+   ],
+   "pages": [
+    67,
+    68
+   ],
+   "unit_text": "At 30 June 2026\nAt At\n30 June 31 December\nNOTES 2026 2025\nRMB'000 RMB'000\n(unaudited) (audited)\nNon-current assets\nAt 30 June 2026\nAt At\n30 June 31 December\nNOTES 2026 2025\nRMB'000 RMB'000\n(unaudited) (audited)\nNon-current assets\nProperty, plant and equipment 11 4,963,676 5,061,237\nRight-of-use assets 365,308 380,262\nInvestment properties 27,483 27,799\nIntangible assets 12 1,468,408 1,534,247\nInvestment in an associate 720,303 762,203"
+  },
+  "cashflow": {
+   "bad": [],
+   "eps_cents": false,
+   "header": [
+    "For the six months ended 30 June 2026",
+    "Six months ended 30 June",
+    "2026 2025",
+    "RMB'000 RMB'000",
+    "(unaudited) (unaudited)",
+    "OPERATING ACTIVITIES"
+   ],
+   "lines": [
+    [
+     "Profit before tax",
+     "OPERATING ACTIVITIES",
+     "1,611,663",
+     "897,117"
+    ],
+    [
+     "Loss on disposal of property, plant and equipment",
+     "Adjustments for:",
+     "2,723",
+     "711"
+    ],
+    [
+     "Depreciation of property, plant and equipment",
+     "Adjustments for:",
+     "239,637",
+     "196,639"
+    ],
+    [
+     "Amortisation of investment properties",
+     "Adjustments for:",
+     "316",
+     "–"
+    ],
+    [
+     "Amortisation of intangible assets",
+     "Adjustments for:",
+     "77,365",
+     "59,387"
+    ],
+    [
+     "Impairment of intangible assets",
+     "Adjustments for:",
+     "103,109",
+     "31,517"
+    ],
+    [
+     "Depreciation of right-of-use assets",
+     "Adjustments for:",
+     "14,354",
+     "9,964"
+    ],
+    [
+     "Net foreign exchange loss",
+     "Adjustments for:",
+     "109,950",
+     "38,761"
+    ],
+    [
+     "Gain from changes in fair value of other financial assets measured at fair value through profit or loss ( \"FVTPL\")",
+     "Adjustments for:",
+     "(241,348)",
+     "(59,710)"
+    ],
+    [
+     "Share of results of an associate",
+     "Adjustments for:",
+     "41,900",
+     "23,562"
+    ],
+    [
+     "(Gain) loss from changes in fair value of other financial liabilities measured at FVTPL",
+     "Adjustments for:",
+     "(6,015)",
+     "21,508"
+    ],
+    [
+     "Share-based payment expenses",
+     "Adjustments for:",
+     "384,837",
+     "342,383"
+    ],
+    [
+     "Subsidized grants income related to assets",
+     "Adjustments for:",
+     "(16,702)",
+     "(10,375)"
+    ],
+    [
+     "Interest income",
+     "Adjustments for:",
+     "(356,255)",
+     "(190,373)"
+    ],
+    [
+     "Interest on bank borrowings",
+     "Adjustments for:",
+     "40,311",
+     "61,011"
+    ],
+    [
+     "Interest on lease liabilities",
+     "Adjustments for:",
+     "610",
+     "253"
+    ],
+    [
+     "Reversal of inventories",
+     "Adjustments for:",
+     "(2,456)",
+     "(22,692)"
+    ],
+    [
+     "Equity investment in exchange for license fee income",
+     "Adjustments for:",
+     "(12,462)",
+     "–"
+    ],
+    [
+     "Operating cash flows before movements in working capital",
+     "Adjustments for:",
+     "1,991,537",
+     "1,399,663"
+    ],
+    [
+     "Increase in trade receivables",
+     "Adjustments for:",
+     "(189,329)",
+     "(537,946)"
+    ],
+    [
+     "Increase in inventories",
+     "Adjustments for:",
+     "(572,585)",
+     "(283,254)"
+    ],
+    [
+     "Increase in prepayments and other receivables",
+     "Adjustments for:",
+     "(404,226)",
+     "(144,260)"
+    ],
+    [
+     "Decrease in contract assets",
+     "Adjustments for:",
+     "84,123",
+     "–"
+    ],
+    [
+     "Increase in trade and bills payables",
+     "Adjustments for:",
+     "436,783",
+     "74,615"
+    ],
+    [
+     "Increase (decrease) in other payables and accrued expenses",
+     "Adjustments for:",
+     "371,520",
+     "(127,836)"
+    ],
+    [
+     "Increase (decrease) in contract liabilities",
+     "Adjustments for:",
+     "2,127,420",
+     "(83,729)"
+    ],
+    [
+     "Increase in subsidized grants",
+     "Adjustments for:",
+     "24,846",
+     "17,708"
+    ],
+    [
+     "Cash from operations",
+     "Adjustments for:",
+     "3,870,089",
+     "314,961"
+    ],
+    [
+     "Income tax paid",
+     "Adjustments for:",
+     "(281,745)",
+     "(1,196)"
+    ],
+    [
+     "NET CASH FROM OPERATING ACTIVITIES",
+     "Adjustments for:",
+     "3,588,344",
+     "313,765"
+    ],
+    [
+     "Interest received",
+     "INVESTING ACTIVITIES",
+     "193,460",
+     "155,132"
+    ],
+    [
+     "Placement of term deposits with maturity dates over three months",
+     "INVESTING ACTIVITIES",
+     "(11,909,100)",
+     "(3,481,318)"
+    ],
+    [
+     "Release of term deposits with maturity dates over three months",
+     "INVESTING ACTIVITIES",
+     "5,408,747",
+     "2,524,120"
+    ],
+    [
+     "Placement of restricted bank deposits",
+     "INVESTING ACTIVITIES",
+     "–",
+     "(140,382)"
+    ],
+    [
+     "Release of restricted bank deposits",
+     "INVESTING ACTIVITIES",
+     "15,044",
+     "241,015"
+    ],
+    [
+     "Purchase of property, plant and equipment",
+     "INVESTING ACTIVITIES",
+     "(172,079)",
+     "(102,576)"
+    ],
+    [
+     "Purchase of intangible assets",
+     "INVESTING ACTIVITIES",
+     "(12,471)",
+     "(196,643)"
+    ],
+    [
+     "Purchase of other financial assets at FVTPL",
+     "INVESTING ACTIVITIES",
+     "(3,473,258)",
+     "(84,848)"
+    ],
+    [
+     "Proceeds on release of other financial assets at FVTPL",
+     "INVESTING ACTIVITIES",
+     "1,710,328",
+     "1,566,278"
+    ],
+    [
+     "Purchase of other financial assets at amortised cost",
+     "INVESTING ACTIVITIES",
+     "(1,755,608)",
+     "(358,490)"
+    ],
+    [
+     "Proceeds on release of other financial assets at amortised cost",
+     "INVESTING ACTIVITIES",
+     "1,233,215",
+     "358,490"
+    ],
+    [
+     "Receipt of subsidized grants related to property, plant and equipment",
+     "INVESTING ACTIVITIES",
+     "2,615",
+     "64,012"
+    ],
+    [
+     "NET CASH (USED IN) FROM INVESTING ACTIVITIES",
+     "INVESTING ACTIVITIES",
+     "(8,759,107)",
+     "544,790"
+    ],
+    [
+     "Interest paid",
+     "FINANCING ACTIVITIES",
+     "(44,337)",
+     "(65,152)"
+    ],
+    [
+     "New borrowings raised",
+     "FINANCING ACTIVITIES",
+     "362,372",
+     "1,762,790"
+    ],
+    [
+     "Repayment of borrowings",
+     "FINANCING ACTIVITIES",
+     "(850,000)",
+     "(1,208,624)"
+    ],
+    [
+     "Repayment of lease liabilities",
+     "FINANCING ACTIVITIES",
+     "(5,563)",
+     "(6,185)"
+    ],
+    [
+     "Proceeds from exercise of share options",
+     "FINANCING ACTIVITIES",
+     "16,459",
+     "7,694"
+    ],
+    [
+     "Proceeds from other partners of investment fund consolidated",
+     "FINANCING ACTIVITIES",
+     "24,305",
+     "157,897"
+    ],
+    [
+     "NET CASH (USED IN) FROM FINANCING ACTIVITIES",
+     "FINANCING ACTIVITIES",
+     "(496,764)",
+     "648,420"
+    ],
+    [
+     "NET (DECREASE) INCREASE IN CASH AND CASH EQUIVALENTS",
+     "FINANCING ACTIVITIES",
+     "(5,667,527)",
+     "1,506,975"
+    ],
+    [
+     "CASH AND CASH EQUIVALENTS AT 1 JANUARY,",
+     "FINANCING ACTIVITIES",
+     "10,375,712",
+     "2,273,356"
+    ],
+    [
+     "Effects of foreign exchange rate changes",
+     "FINANCING ACTIVITIES",
+     "(184,244)",
+     "(10,018)"
+    ],
+    [
+     "CASH AND CASH EQUIVALENTS AT 30 JUNE,",
+     "FINANCING ACTIVITIES",
+     "4,523,941",
+     "3,770,313"
+    ],
+    [
+     "Bank balances and cash/term deposits",
+     "Represented by:",
+     "18,488,396",
+     "10,117,391"
+    ],
+    [
+     "Less: Term deposits with maturity date over three months",
+     "Represented by:",
+     "(13,932,203)",
+     "(6,314,826)"
+    ],
+    [
+     "Less: Restricted bank deposits",
+     "Represented by:",
+     "(32,252)",
+     "(32,252)"
+    ],
+    [
+     "[小计] Represented by:",
+     "Represented by:",
+     "4,523,941",
+     "3,770,313"
+    ]
+   ],
+   "pages": [
+    70,
+    71
+   ],
+   "unit_text": "For the six months ended 30 June 2026\nSix months ended 30 June\n2026 2025\nRMB'000 RMB'000\n(unaudited) (unaudited)\nOPERATING ACTIVITIES\nFor the six months ended 30 June 2026\nSix months ended 30 June\n2026 2025\nRMB'000 RMB'000\n(unaudited) (unaudited)\nOPERATING ACTIVITIES\nProfit before tax 1,611,663 897,117\nAdjustments for:\nLoss on disposal of property, plant and equipment 2,723 711\nDepreciation of property, plant and equipment 239,637 196,639\nAmortisation of investment properties 316 –\nAmortisation of intangible assets 77,365 59,387"
+  },
+  "income": {
+   "bad": [],
+   "eps_cents": false,
+   "header": [
+    "For the six months ended 30 June 2026",
+    "Six months ended 30 June",
+    "NOTES 2026 2025",
+    "RMB'000 RMB'000",
+    "(unaudited) (unaudited)"
+   ],
+   "lines": [
+    [
+     "Revenue from contracts with customers",
+     "",
+     "8,617,801",
+     "5,953,094"
+    ],
+    [
+     "Cost of sales",
+     "",
+     "(1,296,044)",
+     "(833,452)"
+    ],
+    [
+     "Gross profit",
+     "",
+     "7,321,757",
+     "5,119,642"
+    ],
+    [
+     "Other income",
+     "",
+     "413,359",
+     "238,865"
+    ],
+    [
+     "Other gains and losses",
+     "",
+     "178,709",
+     "1,043"
+    ],
+    [
+     "Research and development expenses",
+     "",
+     "(1,683,708)",
+     "(1,008,799)"
+    ],
+    [
+     "Administrative and other expenses",
+     "",
+     "(493,949)",
+     "(442,111)"
+    ],
+    [
+     "Selling and marketing expenses",
+     "",
+     "(3,235,920)",
+     "(2,375,070)"
+    ],
+    [
+     "Royalties and other related payments",
+     "",
+     "(805,764)",
+     "(551,627)"
+    ],
+    [
+     "Share of results of an associate",
+     "",
+     "(41,900)",
+     "(23,562)"
+    ],
+    [
+     "Finance costs",
+     "",
+     "(40,921)",
+     "(61,264)"
+    ],
+    [
+     "Profit before tax",
+     "",
+     "1,611,663",
+     "897,117"
+    ],
+    [
+     "Income tax expense",
+     "",
+     "(358,521)",
+     "(62,796)"
+    ],
+    [
+     "Profit for the period",
+     "",
+     "1,253,142",
+     "834,321"
+    ],
+    [
+     "Exchange differences arising on translation of foreign operations",
+     "Other comprehensive (expense) income",
+     "(275,514)",
+     "6,953"
+    ],
+    [
+     "Other comprehensive (expense) income for the period, net of income tax",
+     "Other comprehensive (expense) income",
+     "(275,514)",
+     "6,953"
+    ],
+    [
+     "Total comprehensive income for the period",
+     "Other comprehensive (expense) income",
+     "977,628",
+     "841,274"
+    ],
+    [
+     "Profit per share – Basic (RMB Yuan)",
+     "Profit per share",
+     "0.73",
+     "0.51"
+    ],
+    [
+     "– Diluted (RMB Yuan)",
+     "Profit per share",
+     "0.70",
+     "0.49"
+    ]
+   ],
+   "pages": [
+    66
+   ],
+   "unit_text": "For the six months ended 30 June 2026\nSix months ended 30 June\nNOTES 2026 2025\nRMB'000 RMB'000\n(unaudited) (unaudited)\nFor the six months ended 30 June 2026\nSix months ended 30 June\nNOTES 2026 2025\nRMB'000 RMB'000\n(unaudited) (unaudited)\nRevenue from contracts with customers 4 8,617,801 5,953,094\nCost of sales (1,296,044) (833,452)\nGross profit 7,321,757 5,119,642\nOther income 5 413,359 238,865\nOther gains and losses 6 178,709 1,043\nResearch and development expenses (1,683,708) (1,008,799)\nAdministrative and other expenses (493,949) (442,111)"
+  }
+ },
+ "status": "failed",
+ "style": "ifrs",
+ "title": "2026 INTERIM REPORT",
+ "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0929/2026092900476.pdf",
+ "warnings": []
+}

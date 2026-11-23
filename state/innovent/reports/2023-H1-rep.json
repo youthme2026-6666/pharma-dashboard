@@ -1,0 +1,665 @@
+{
+ "check_version": 2,
+ "doc": "2023-H1-rep",
+ "fiscal_year": 2023,
+ "kind": "report",
+ "mapping": {
+  "cashflow": {
+   "capex": [
+    32,
+    33
+   ],
+   "cfo": [
+    28
+   ]
+  },
+  "income": {
+   "cost_of_sales": [
+    1
+   ],
+   "eps_diluted": [
+    18
+   ],
+   "gross_profit": [
+    2
+   ],
+   "income_tax": [
+    11
+   ],
+   "net_income": [
+    12
+   ],
+   "pretax_income": [
+    10
+   ],
+   "revenue": [
+    0
+   ],
+   "rnd": [
+    5
+   ],
+   "sga": [
+    6,
+    7
+   ]
+  }
+ },
+ "mapping_labels": {
+  "cashflow": {
+   "capex": [
+    "Purchase of property, plant and equipment",
+    "Purchase of intangible assets"
+   ],
+   "cfo": [
+    "NET CASH USED IN OPERATING ACTIVITIES"
+   ]
+  },
+  "income": {
+   "cost_of_sales": [
+    "Cost of sales"
+   ],
+   "eps_diluted": [
+    "– Diluted (RMB Yuan)"
+   ],
+   "gross_profit": [
+    "Gross profit"
+   ],
+   "income_tax": [
+    "Income tax credit"
+   ],
+   "net_income": [
+    "Loss for the period"
+   ],
+   "pretax_income": [
+    "Loss before tax"
+   ],
+   "revenue": [
+    "Revenue from contracts with customers"
+   ],
+   "rnd": [
+    "Research and development expenses"
+   ],
+   "sga": [
+    "Administrative and other expenses",
+    "Selling and marketing expenses"
+   ]
+  }
+ },
+ "mapping_source": "GPT 对照",
+ "months": 6,
+ "parse_version": 1,
+ "period_end": "2023-06-30",
+ "problems": [],
+ "processed": "2026-11-23",
+ "published": "2023-09-27",
+ "restatement_hint": "00 RMB'000 RMB'000 RMB'000 RMB'000 (Note) At 1 January 2022 (restated) 101 22,493,658 (120,009) (313,652) 1,995 828,689 (12,560,38",
+ "signatures": {
+  "cashflow": "d43384603e5b55da",
+  "income": "0cf47f2fe4ca7fa7"
+ },
+ "statements": {
+  "cashflow": {
+   "bad": [],
+   "eps_cents": false,
+   "header": [
+    "Innovent Biologics, Inc.",
+    "Six months ended 30 June",
+    "2023 2022",
+    "RMB'000 RMB'000",
+    "(unaudited) (unaudited)",
+    "OPERATING ACTIVITIES"
+   ],
+   "lines": [
+    [
+     "Loss before tax",
+     "OPERATING ACTIVITIES",
+     "(256,109)",
+     "(998,912)"
+    ],
+    [
+     "Loss on disposal of property, plant and equipment",
+     "Adjustments for:",
+     "1,003",
+     "–"
+    ],
+    [
+     "Depreciation of property, plant and equipment",
+     "Adjustments for:",
+     "136,028",
+     "88,285"
+    ],
+    [
+     "Amortisation of intangible assets",
+     "Adjustments for:",
+     "36,223",
+     "16,913"
+    ],
+    [
+     "Depreciation of right-of-use assets",
+     "Adjustments for:",
+     "15,373",
+     "19,735"
+    ],
+    [
+     "Amortization of prepaid bonus",
+     "Adjustments for:",
+     "14,335",
+     "12,913"
+    ],
+    [
+     "Net foreign exchange gains",
+     "Adjustments for:",
+     "(256,545)",
+     "(367,902)"
+    ],
+    [
+     "(Gain) loss from changes in fair value of other financial assets measured at fair value through profit or loss ( \"FVTPL\")",
+     "Adjustments for:",
+     "(932)",
+     "11,049"
+    ],
+    [
+     "Gain from disposal of other financial assets measured at FVTPL",
+     "Adjustments for:",
+     "–",
+     "(2,672)"
+    ],
+    [
+     "Gain from changes in fair value change of other financial liabilities measured at FVTPL",
+     "Adjustments for:",
+     "(2,413)",
+     "(1,720)"
+    ],
+    [
+     "Share-based payment expenses",
+     "Adjustments for:",
+     "226,990",
+     "261,175"
+    ],
+    [
+     "Research and development expenses paid by partners of joint operations",
+     "Adjustments for:",
+     "9,318",
+     "25,878"
+    ],
+    [
+     "Government grants income related to asset",
+     "Adjustments for:",
+     "(3,910)",
+     "(4,259)"
+    ],
+    [
+     "Bank interest income",
+     "Adjustments for:",
+     "(190,015)",
+     "(89,833)"
+    ],
+    [
+     "Interest on other financial assets measured at amortised cost",
+     "Adjustments for:",
+     "(7,905)",
+     "–"
+    ],
+    [
+     "Interest on bank borrowings",
+     "Adjustments for:",
+     "47,489",
+     "44,566"
+    ],
+    [
+     "Interest on lease liabilities",
+     "Adjustments for:",
+     "2,803",
+     "2,011"
+    ],
+    [
+     "Inventory impairment loss, net of reversal",
+     "Adjustments for:",
+     "12,497",
+     "14,363"
+    ],
+    [
+     "Operating cash flows before movements in working capital",
+     "Adjustments for:",
+     "(215,770)",
+     "(968,410)"
+    ],
+    [
+     "Increase in trade receivables",
+     "Adjustments for:",
+     "(440,233)",
+     "(218,243)"
+    ],
+    [
+     "Decrease (increase) in inventories",
+     "Adjustments for:",
+     "116,358",
+     "(144,038)"
+    ],
+    [
+     "Increase in prepayments and other receivables",
+     "Adjustments for:",
+     "(103,910)",
+     "(35,831)"
+    ],
+    [
+     "(Decrease) increase in trade and bills payables",
+     "Adjustments for:",
+     "(109,209)",
+     "41,305"
+    ],
+    [
+     "Increase in other payables and accrued expenses",
+     "Adjustments for:",
+     "94,859",
+     "124,906"
+    ],
+    [
+     "Increase in contract liabilities",
+     "Adjustments for:",
+     "65,866",
+     "409,215"
+    ],
+    [
+     "Decrease in government grants related to income",
+     "Adjustments for:",
+     "–",
+     "(3,453)"
+    ],
+    [
+     "Cash used in operations",
+     "Adjustments for:",
+     "(592,039)",
+     "(794,549)"
+    ],
+    [
+     "Income tax paid",
+     "Adjustments for:",
+     "(30,852)",
+     "(12,150)"
+    ],
+    [
+     "NET CASH USED IN OPERATING ACTIVITIES",
+     "Adjustments for:",
+     "(622,891)",
+     "(806,699)"
+    ],
+    [
+     "Interest received",
+     "INVESTING ACTIVITIES",
+     "180,249",
+     "95,260"
+    ],
+    [
+     "Placement of term deposits with maturity dates over three months",
+     "INVESTING ACTIVITIES",
+     "(4,405,975)",
+     "(6,795,527)"
+    ],
+    [
+     "Placement of pledged term deposits",
+     "INVESTING ACTIVITIES",
+     "(620,482)",
+     "(1,066,018)"
+    ],
+    [
+     "Purchase of property, plant and equipment",
+     "INVESTING ACTIVITIES",
+     "(597,901)",
+     "(428,991)"
+    ],
+    [
+     "Purchase of intangible assets",
+     "INVESTING ACTIVITIES",
+     "(28,505)",
+     "(49,040)"
+    ],
+    [
+     "Purchase of other financial assets at FVTPL",
+     "INVESTING ACTIVITIES",
+     "(33,064)",
+     "(33,557)"
+    ],
+    [
+     "Purchase of other financial assets at amortised cost",
+     "INVESTING ACTIVITIES",
+     "(836,822)",
+     "–"
+    ],
+    [
+     "Payments for rental deposits",
+     "INVESTING ACTIVITIES",
+     "–",
+     "(439)"
+    ],
+    [
+     "Repayment to a partner of joint operations",
+     "INVESTING ACTIVITIES",
+     "(36,268)",
+     "(53,015)"
+    ],
+    [
+     "Release of term deposits with maturity dates over three months",
+     "INVESTING ACTIVITIES",
+     "6,424,634",
+     "7,211,907"
+    ],
+    [
+     "Release of pledged term deposits",
+     "INVESTING ACTIVITIES",
+     "663,403",
+     "852,966"
+    ],
+    [
+     "Proceeds from disposal of leasehold lands",
+     "INVESTING ACTIVITIES",
+     "15,771",
+     "–"
+    ],
+    [
+     "Proceeds on release of other financial assets at FVTPL",
+     "INVESTING ACTIVITIES",
+     "–",
+     "644,770"
+    ],
+    [
+     "Receipt of government grants related to property, plant and equipment",
+     "INVESTING ACTIVITIES",
+     "–",
+     "1,098"
+    ],
+    [
+     "NET CASH FROM INVESTING ACTIVITIES",
+     "INVESTING ACTIVITIES",
+     "725,040",
+     "379,414"
+    ],
+    [
+     "Interest paid",
+     "FINANCING ACTIVITIES",
+     "(62,816)",
+     "(53,088)"
+    ],
+    [
+     "New borrowings raised",
+     "FINANCING ACTIVITIES",
+     "978,133",
+     "530,851"
+    ],
+    [
+     "Repayment of borrowings",
+     "FINANCING ACTIVITIES",
+     "(743,000)",
+     "(253,126)"
+    ],
+    [
+     "Repayment of lease liabilities",
+     "FINANCING ACTIVITIES",
+     "(14,146)",
+     "(11,896)"
+    ],
+    [
+     "Proceeds from exercise of share options",
+     "FINANCING ACTIVITIES",
+     "14,879",
+     "3,812"
+    ],
+    [
+     "Proceeds from other partners of investment fund consolidated",
+     "FINANCING ACTIVITIES",
+     "71,636",
+     "7,172"
+    ],
+    [
+     "NET CASH FROM FINANCING ACTIVITIES",
+     "FINANCING ACTIVITIES",
+     "244,686",
+     "223,725"
+    ],
+    [
+     "NET INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS",
+     "FINANCING ACTIVITIES",
+     "346,835",
+     "(203,560)"
+    ],
+    [
+     "CASH AND CASH EQUIVALENTS AT 1 JANUARY,",
+     "FINANCING ACTIVITIES",
+     "1,016,165",
+     "1,359,408"
+    ],
+    [
+     "Effects of foreign exchange rate changes",
+     "FINANCING ACTIVITIES",
+     "(30,735)",
+     "196,195"
+    ],
+    [
+     "CASH AND CASH EQUIVALENTS AT 30 JUNE,",
+     "FINANCING ACTIVITIES",
+     "1,332,265",
+     "1,352,043"
+    ],
+    [
+     "Bank balances and cash",
+     "Represented by:",
+     "7,655,657",
+     "8,317,947"
+    ],
+    [
+     "Less: Term deposits with maturity date over three months",
+     "Represented by:",
+     "(5,447,910)",
+     "(5,678,437)"
+    ],
+    [
+     "Less: Pledged bank deposits",
+     "Represented by:",
+     "(875,482)",
+     "(1,287,467)"
+    ],
+    [
+     "[小计] Represented by:",
+     "Represented by:",
+     "1,332,265",
+     "1,352,043"
+    ]
+   ],
+   "pages": [
+    59,
+    60
+   ],
+   "unit_text": "Innovent Biologics, Inc.\nSix months ended 30 June\n2023 2022\nRMB'000 RMB'000\n(unaudited) (unaudited)\nOPERATING ACTIVITIES\n58\nInnovent Biologics, Inc.\nSix months ended 30 June\n2023 2022\nRMB'000 RMB'000\n(unaudited) (unaudited)\nOPERATING ACTIVITIES\nLoss before tax (256,109) (998,912)\nAdjustments for:\nLoss on disposal of property, plant and equipment 1,003 –\nDepreciation of property, plant and equipment 136,028 88,285\nAmortisation of intangible assets 36,223 16,913"
+  },
+  "income": {
+   "bad": [],
+   "eps_cents": false,
+   "header": [
+    "Innovent Biologics, Inc.",
+    "Six months ended 30 June",
+    "NOTES 2023 2022",
+    "RMB'000 RMB'000",
+    "(unaudited) (unaudited)"
+   ],
+   "lines": [
+    [
+     "Revenue from contracts with customers",
+     "Innovent Biologics, Inc.",
+     "2,701,532",
+     "2,239,599"
+    ],
+    [
+     "Cost of sales",
+     "Innovent Biologics, Inc.",
+     "(504,615)",
+     "(471,528)"
+    ],
+    [
+     "Gross profit",
+     "Innovent Biologics, Inc.",
+     "2,196,917",
+     "1,768,071"
+    ],
+    [
+     "Other income",
+     "Innovent Biologics, Inc.",
+     "232,421",
+     "104,959"
+    ],
+    [
+     "Other gains and losses",
+     "Innovent Biologics, Inc.",
+     "280,607",
+     "389,621"
+    ],
+    [
+     "Research and development expenses",
+     "Innovent Biologics, Inc.",
+     "(922,817)",
+     "(1,174,450)"
+    ],
+    [
+     "Administrative and other expenses",
+     "Innovent Biologics, Inc.",
+     "(368,388)",
+     "(407,795)"
+    ],
+    [
+     "Selling and marketing expenses",
+     "Innovent Biologics, Inc.",
+     "(1,347,414)",
+     "(1,397,902)"
+    ],
+    [
+     "Royalties and other related payments",
+     "Innovent Biologics, Inc.",
+     "(277,143)",
+     "(236,850)"
+    ],
+    [
+     "Finance costs",
+     "Innovent Biologics, Inc.",
+     "(50,292)",
+     "(44,566)"
+    ],
+    [
+     "Loss before tax",
+     "Innovent Biologics, Inc.",
+     "(256,109)",
+     "(998,912)"
+    ],
+    [
+     "Income tax credit",
+     "Innovent Biologics, Inc.",
+     "116,960",
+     "48,444"
+    ],
+    [
+     "Loss for the period",
+     "Innovent Biologics, Inc.",
+     "(139,149)",
+     "(950,468)"
+    ],
+    [
+     "Fair value loss on investment in equity instruments at fair value through other comprehensive income ( \"FVTOCI \")",
+     "Items that will not be reclassified to profit or loss",
+     "(30,913)",
+     "(42,715)"
+    ],
+    [
+     "Exchange differences arising on translation of foreign operations",
+     "Items that will not be reclassified to profit or loss",
+     "(18,539)",
+     "(11,111)"
+    ],
+    [
+     "Other comprehensive expense for the period, net of income tax",
+     "Items that will not be reclassified to profit or loss",
+     "(49,452)",
+     "(53,826)"
+    ],
+    [
+     "Total comprehensive expense for the period",
+     "Items that will not be reclassified to profit or loss",
+     "(188,601)",
+     "(1,004,294)"
+    ],
+    [
+     "Loss per share – Basic (RMB Yuan)",
+     "Loss per share",
+     "(0.09)",
+     "(0.65)"
+    ],
+    [
+     "– Diluted (RMB Yuan)",
+     "Loss per share",
+     "(0.09)",
+     "(0.65)"
+    ]
+   ],
+   "pages": [
+    55
+   ],
+   "unit_text": "Innovent Biologics, Inc.\nSix months ended 30 June\nNOTES 2023 2022\nRMB'000 RMB'000\n(unaudited) (unaudited)\n54\nInnovent Biologics, Inc.\nSix months ended 30 June\nNOTES 2023 2022\nRMB'000 RMB'000\n(unaudited) (unaudited)\nRevenue from contracts with customers 4 2,701,532 2,239,599\nCost of sales (504,615) (471,528)\nGross profit 2,196,917 1,768,071\nOther income 232,421 104,959\nOther gains and losses 5 280,607 389,621\nResearch and development expenses (922,817) (1,174,450)"
+  }
+ },
+ "status": "ok",
+ "step": {
+  "cashflow": 0.001,
+  "income": 1e-05
+ },
+ "style": "ifrs",
+ "title": "2023 INTERIM REPORT",
+ "unit": {
+  "currency": "CNY",
+  "eps_unit": "yuan",
+  "scale": 0.001,
+  "text": "RMB'000"
+ },
+ "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2023/0927/2023092700709.pdf",
+ "values": {
+  "cashflow": {
+   "cur": {
+    "buybacks": null,
+    "capex": 626.4060000000001,
+    "cfo": -622.891,
+    "dividends_paid": null
+   },
+   "prior": {
+    "buybacks": null,
+    "capex": 478.031,
+    "cfo": -806.6990000000001,
+    "dividends_paid": null
+   }
+  },
+  "income": {
+   "cur": {
+    "cost_of_sales": 504.615,
+    "eps_diluted": -0.09,
+    "gross_profit": 2196.917,
+    "income_tax": -116.96000000000001,
+    "net_income": -139.149,
+    "net_income_parent": null,
+    "operating_income": null,
+    "pretax_income": -256.109,
+    "revenue": 2701.532,
+    "rnd": 922.817,
+    "sga": 1715.8020000000001
+   },
+   "prior": {
+    "cost_of_sales": 471.528,
+    "eps_diluted": -0.65,
+    "gross_profit": 1768.0710000000001,
+    "income_tax": -48.444,
+    "net_income": -950.4680000000001,
+    "net_income_parent": null,
+    "operating_income": null,
+    "pretax_income": -998.912,
+    "revenue": 2239.599,
+    "rnd": 1174.45,
+    "sga": 1805.6970000000001
+   }
+  }
+ },
+ "warnings": []
+}

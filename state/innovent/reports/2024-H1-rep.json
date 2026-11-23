@@ -1,0 +1,809 @@
+{
+ "check_version": 2,
+ "doc": "2024-H1-rep",
+ "fiscal_year": 2024,
+ "gpt_answer": {
+  "balance": {
+   "cash": [
+    "Bank balances and cash"
+   ],
+   "inventories": [
+    "Inventories"
+   ],
+   "receivables": [
+    "Trade receivables"
+   ],
+   "total_assets": [
+    "[小计] Non-current assets",
+    "[小计] Current assets"
+   ],
+   "total_current_assets": [
+    "[小计] Current assets"
+   ],
+   "total_current_liabilities": [
+    "[小计] Current liabilities"
+   ],
+   "total_debt": [
+    "Borrowings",
+    "Borrowings"
+   ],
+   "total_equity": [
+    "Total equity"
+   ],
+   "total_liabilities": [
+    "[小计] Current liabilities",
+    "[小计] Non-current liabilities"
+   ]
+  },
+  "cashflow": {
+   "capex": [
+    "Purchase of property, plant and equipment",
+    "Purchase of intangible assets"
+   ],
+   "cfo": [
+    "NET CASH USED IN OPERATING ACTIVITIES"
+   ]
+  },
+  "income": {
+   "cost_of_sales": [
+    "Cost of sales"
+   ],
+   "eps_diluted": [
+    "– Diluted (RMB Yuan)"
+   ],
+   "gross_profit": [
+    "Gross profit"
+   ],
+   "income_tax": [
+    "Income tax (expense) credit"
+   ],
+   "net_income": [
+    "Loss for the period"
+   ],
+   "pretax_income": [
+    "Loss before tax"
+   ],
+   "revenue": [
+    "Revenue from contracts with customers"
+   ],
+   "rnd": [
+    "Research and development expenses"
+   ],
+   "sga": [
+    "Administrative and other expenses",
+    "Selling and marketing expenses"
+   ]
+  }
+ },
+ "kind": "report",
+ "mapping_source": "GPT 对照",
+ "months": 6,
+ "parse_version": 1,
+ "period_end": "2024-06-30",
+ "problems": [
+  "GPT 的对照没通过核对（问了 2 次）：short_term_investments 只能对一行：[6, 11]；equity_parent 对到的行“Reserves”行名不符合"
+ ],
+ "processed": "2026-11-23",
+ "published": "2024-09-27",
+ "restatement_hint": "SH AND CASH EQUIVALENTS AT 30 JUNE, 1,713,957 1,332,265 Represented by: Bank balances and cash 8,165,264 7,655,657 Less: Term",
+ "signatures": {
+  "balance": "d01c8c359e87af9d",
+  "cashflow": "bf553eaf1ce6494d",
+  "income": "05dfdfd8564144d4"
+ },
+ "statements": {
+  "balance": {
+   "bad": [],
+   "eps_cents": false,
+   "header": [
+    "At 30 June 2024",
+    "Interim Report 2024",
+    "At",
+    "30 June",
+    "At",
+    "31 December",
+    "NOTES 2024 2023",
+    "RMB'000 RMB'000",
+    "(unaudited) (audited)",
+    "Non-current assets"
+   ],
+   "lines": [
+    [
+     "Property, plant and equipment",
+     "Non-current assets",
+     "4,989,421",
+     "4,289,734"
+    ],
+    [
+     "Right-of-use assets",
+     "Non-current assets",
+     "431,444",
+     "366,650"
+    ],
+    [
+     "Intangible assets",
+     "Non-current assets",
+     "987,351",
+     "1,270,267"
+    ],
+    [
+     "Equity instruments at FVTOCI",
+     "Non-current assets",
+     "205,763",
+     "218,301"
+    ],
+    [
+     "Prepayments for acquisition of long-term assets",
+     "Non-current assets",
+     "174,220",
+     "195,519"
+    ],
+    [
+     "Prepayments and other receivables",
+     "Non-current assets",
+     "363,205",
+     "283,116"
+    ],
+    [
+     "Other financial assets",
+     "Non-current assets",
+     "2,095,634",
+     "575,788"
+    ],
+    [
+     "[小计] Non-current assets",
+     "Non-current assets",
+     "9,247,038",
+     "7,199,375"
+    ],
+    [
+     "Inventories",
+     "Current assets",
+     "690,411",
+     "968,088"
+    ],
+    [
+     "Trade receivables",
+     "Current assets",
+     "1,368,940",
+     "1,005,891"
+    ],
+    [
+     "Prepayments and other receivables",
+     "Current assets",
+     "360,552",
+     "484,377"
+    ],
+    [
+     "Other financial assets",
+     "Current assets",
+     "463,491",
+     "917,534"
+    ],
+    [
+     "Bank balances and cash",
+     "Current assets",
+     "8,165,264",
+     "10,052,095"
+    ],
+    [
+     "[小计] Current assets",
+     "Current assets",
+     "11,048,658",
+     "13,427,985"
+    ],
+    [
+     "Trade and bills payables",
+     "Current liabilities",
+     "220,621",
+     "372,549"
+    ],
+    [
+     "Other payables and accrued expenses",
+     "Current liabilities",
+     "2,611,692",
+     "2,467,771"
+    ],
+    [
+     "Contract liabilities",
+     "Current liabilities",
+     "283,546",
+     "416,166"
+    ],
+    [
+     "Borrowings",
+     "Current liabilities",
+     "934,649",
+     "1,195,155"
+    ],
+    [
+     "Lease liabilities",
+     "Current liabilities",
+     "77,062",
+     "25,175"
+    ],
+    [
+     "[小计] Current liabilities",
+     "Current liabilities",
+     "4,127,570",
+     "4,476,816"
+    ],
+    [
+     "Net current assets",
+     "Current liabilities",
+     "6,921,088",
+     "8,951,169"
+    ],
+    [
+     "Total assets less current liabilities",
+     "Current liabilities",
+     "16,168,126",
+     "16,150,544"
+    ],
+    [
+     "Contract liabilities",
+     "Non-current liabilities",
+     "487,066",
+     "450,312"
+    ],
+    [
+     "Borrowings",
+     "Non-current liabilities",
+     "2,270,761",
+     "2,326,777"
+    ],
+    [
+     "Lease liabilities",
+     "Non-current liabilities",
+     "66,256",
+     "73,422"
+    ],
+    [
+     "Government grants",
+     "Non-current liabilities",
+     "503,732",
+     "509,739"
+    ],
+    [
+     "Other financial liabilities",
+     "Non-current liabilities",
+     "391,276",
+     "262,713"
+    ],
+    [
+     "Provisions for reinstatement cost",
+     "Non-current liabilities",
+     "22,661",
+     "–"
+    ],
+    [
+     "[小计] Non-current liabilities",
+     "Non-current liabilities",
+     "3,741,752",
+     "3,622,963"
+    ],
+    [
+     "Net assets",
+     "Non-current liabilities",
+     "12,426,374",
+     "12,527,581"
+    ],
+    [
+     "Share capital",
+     "Capital and reserves",
+     "112",
+     "112"
+    ],
+    [
+     "Reserves",
+     "Capital and reserves",
+     "12,426,262",
+     "12,527,469"
+    ],
+    [
+     "Total equity",
+     "Capital and reserves",
+     "12,426,374",
+     "12,527,581"
+    ]
+   ],
+   "pages": [
+    60,
+    61
+   ],
+   "unit_text": "At 30 June 2024\nInterim Report 2024\nAt\n30 June\nAt\n31 December\nNOTES 2024 2023\nRMB'000 RMB'000\n(unaudited) (audited)\nNon-current assets\nAt 30 June 2024\n59\nInterim Report 2024\nAt\n30 June\nAt\n31 December\nNOTES 2024 2023\nRMB'000 RMB'000\n(unaudited) (audited)\nNon-current assets\nProperty, plant and equipment 10 4,989,421 4,289,734"
+  },
+  "cashflow": {
+   "bad": [],
+   "eps_cents": false,
+   "header": [
+    "For the six months ended 30 June 2024",
+    "Innovent Biologics, Inc.",
+    "Six months ended 30 June",
+    "2024 2023",
+    "RMB'000 RMB'000",
+    "(unaudited) (unaudited)",
+    "OPERATING ACTIVITIES"
+   ],
+   "lines": [
+    [
+     "Loss before tax",
+     "OPERATING ACTIVITIES",
+     "(392,585)",
+     "(256,109)"
+    ],
+    [
+     "Loss on disposal of property, plant and equipment",
+     "Adjustments for:",
+     "23,085",
+     "1,003"
+    ],
+    [
+     "Depreciation of property, plant and equipment",
+     "Adjustments for:",
+     "140,349",
+     "136,028"
+    ],
+    [
+     "Amortisation of intangible assets",
+     "Adjustments for:",
+     "43,106",
+     "36,223"
+    ],
+    [
+     "Impairment of intangible assets",
+     "Adjustments for:",
+     "308,368",
+     "–"
+    ],
+    [
+     "Depreciation of right-of-use assets",
+     "Adjustments for:",
+     "15,215",
+     "15,373"
+    ],
+    [
+     "Net foreign exchange gains",
+     "Adjustments for:",
+     "(43,948)",
+     "(256,545)"
+    ],
+    [
+     "Gain from changes in fair value of other financial assets measured at fair value through profit or loss ( \"FVTPL\")",
+     "Adjustments for:",
+     "(49,606)",
+     "(932)"
+    ],
+    [
+     "Loss (gain) from changes in fair value change of other financial liabilities measured at FVTPL",
+     "Adjustments for:",
+     "6,333",
+     "(2,413)"
+    ],
+    [
+     "Share-based payment expenses",
+     "Adjustments for:",
+     "297,722",
+     "226,990"
+    ],
+    [
+     "Research and development expenses paid by partners of joint operations",
+     "Adjustments for:",
+     "–",
+     "9,318"
+    ],
+    [
+     "Government grants income related to asset",
+     "Adjustments for:",
+     "(6,007)",
+     "(3,910)"
+    ],
+    [
+     "Interest income",
+     "Adjustments for:",
+     "(237,288)",
+     "(197,920)"
+    ],
+    [
+     "Interest on bank borrowings",
+     "Adjustments for:",
+     "36,663",
+     "47,489"
+    ],
+    [
+     "Interest on lease liabilities",
+     "Adjustments for:",
+     "1,357",
+     "2,803"
+    ],
+    [
+     "Inventory impairment loss, net of reversal",
+     "Adjustments for:",
+     "8,547",
+     "12,497"
+    ],
+    [
+     "Operating cash flows before movements in working capital",
+     "Adjustments for:",
+     "151,311",
+     "(230,105)"
+    ],
+    [
+     "Increase in trade receivables",
+     "Adjustments for:",
+     "(363,049)",
+     "(440,233)"
+    ],
+    [
+     "Decrease in inventories",
+     "Adjustments for:",
+     "269,130",
+     "116,358"
+    ],
+    [
+     "Increase in prepayments and other receivables",
+     "Adjustments for:",
+     "(52,097)",
+     "(89,575)"
+    ],
+    [
+     "Decrease in trade and bills payables",
+     "Adjustments for:",
+     "(151,928)",
+     "(109,209)"
+    ],
+    [
+     "Increase in other payables and accrued expenses",
+     "Adjustments for:",
+     "26,889",
+     "94,859"
+    ],
+    [
+     "(Decrease) increase in contract liabilities",
+     "Adjustments for:",
+     "(95,866)",
+     "65,866"
+    ],
+    [
+     "Cash used in operations",
+     "Adjustments for:",
+     "(215,610)",
+     "(592,039)"
+    ],
+    [
+     "Income tax paid",
+     "Adjustments for:",
+     "(24)",
+     "(30,852)"
+    ],
+    [
+     "NET CASH USED IN OPERATING ACTIVITIES",
+     "Adjustments for:",
+     "(215,634)",
+     "(622,891)"
+    ],
+    [
+     "Interest received",
+     "INVESTING ACTIVITIES",
+     "343,719",
+     "180,249"
+    ],
+    [
+     "Placement of term deposits with maturity dates over three months",
+     "INVESTING ACTIVITIES",
+     "(3,303,419)",
+     "(4,405,975)"
+    ],
+    [
+     "Release of term deposits with maturity dates over three months",
+     "INVESTING ACTIVITIES",
+     "3,534,422",
+     "6,424,634"
+    ],
+    [
+     "Placement of pledged bank deposits",
+     "INVESTING ACTIVITIES",
+     "(192,121)",
+     "(620,482)"
+    ],
+    [
+     "Release of pledged bank deposits",
+     "INVESTING ACTIVITIES",
+     "851,868",
+     "663,403"
+    ],
+    [
+     "Purchase of property, plant and equipment",
+     "INVESTING ACTIVITIES",
+     "(699,513)",
+     "(597,901)"
+    ],
+    [
+     "Proceeds from disposal of property, plant and equipment",
+     "INVESTING ACTIVITIES",
+     "270",
+     "–"
+    ],
+    [
+     "Purchase of intangible assets",
+     "INVESTING ACTIVITIES",
+     "(69,707)",
+     "(28,505)"
+    ],
+    [
+     "Proceeds from disposal of leasehold lands",
+     "INVESTING ACTIVITIES",
+     "–",
+     "15,771"
+    ],
+    [
+     "Purchase of other financial assets at FVTPL",
+     "INVESTING ACTIVITIES",
+     "(1,702,520)",
+     "(33,064)"
+    ],
+    [
+     "Proceeds on release of other financial assets at FVTPL",
+     "INVESTING ACTIVITIES",
+     "184,968",
+     "–"
+    ],
+    [
+     "Purchase of other financial assets at amortised cost",
+     "INVESTING ACTIVITIES",
+     "(355,350)",
+     "(836,822)"
+    ],
+    [
+     "Proceeds on release of other financial assets at amortised cost",
+     "INVESTING ACTIVITIES",
+     "853,694",
+     "–"
+    ],
+    [
+     "Repayment to a partner of joint operations",
+     "INVESTING ACTIVITIES",
+     "–",
+     "(36,268)"
+    ],
+    [
+     "NET CASH (USED IN) FROM INVESTING ACTIVITIES",
+     "INVESTING ACTIVITIES",
+     "(553,689)",
+     "725,040"
+    ],
+    [
+     "Interest paid",
+     "FINANCING ACTIVITIES",
+     "(65,436)",
+     "(62,816)"
+    ],
+    [
+     "New borrowings raised",
+     "FINANCING ACTIVITIES",
+     "358,527",
+     "978,133"
+    ],
+    [
+     "Repayment of borrowings",
+     "FINANCING ACTIVITIES",
+     "(675,049)",
+     "(743,000)"
+    ],
+    [
+     "Repayment of lease liabilities",
+     "FINANCING ACTIVITIES",
+     "(13,611)",
+     "(14,146)"
+    ],
+    [
+     "Proceeds from exercise of share options",
+     "FINANCING ACTIVITIES",
+     "12,525",
+     "14,879"
+    ],
+    [
+     "Proceeds from other partners of investment fund consolidated",
+     "FINANCING ACTIVITIES",
+     "122,230",
+     "71,636"
+    ],
+    [
+     "NET CASH (USED IN) FROM FINANCING ACTIVITIES",
+     "FINANCING ACTIVITIES",
+     "(260,814)",
+     "244,686"
+    ],
+    [
+     "NET (DECREASE) INCREASE IN CASH AND CASH EQUIVALENTS",
+     "FINANCING ACTIVITIES",
+     "(1,030,137)",
+     "346,835"
+    ],
+    [
+     "CASH AND CASH EQUIVALENTS AT 1 JANUARY,",
+     "FINANCING ACTIVITIES",
+     "2,745,693",
+     "1,016,165"
+    ],
+    [
+     "Effects of foreign exchange rate changes",
+     "FINANCING ACTIVITIES",
+     "(1,599)",
+     "(30,735)"
+    ],
+    [
+     "CASH AND CASH EQUIVALENTS AT 30 JUNE,",
+     "FINANCING ACTIVITIES",
+     "1,713,957",
+     "1,332,265"
+    ],
+    [
+     "Bank balances and cash",
+     "Represented by:",
+     "8,165,264",
+     "7,655,657"
+    ],
+    [
+     "Less: Term deposits with maturity date over three months",
+     "Represented by:",
+     "(6,259,012)",
+     "(5,447,910)"
+    ],
+    [
+     "Less: Pledged bank deposits",
+     "Represented by:",
+     "(192,295)",
+     "(875,482)"
+    ],
+    [
+     "[小计] Represented by:",
+     "Represented by:",
+     "1,713,957",
+     "1,332,265"
+    ]
+   ],
+   "pages": [
+    63,
+    64
+   ],
+   "unit_text": "For the six months ended 30 June 2024\nInnovent Biologics, Inc.\nSix months ended 30 June\n2024 2023\nRMB'000 RMB'000\n(unaudited) (unaudited)\nOPERATING ACTIVITIES\nFor the six months ended 30 June 2024\n62\nInnovent Biologics, Inc.\nSix months ended 30 June\n2024 2023\nRMB'000 RMB'000\n(unaudited) (unaudited)\nOPERATING ACTIVITIES\nLoss before tax (392,585) (256,109)\nAdjustments for:\nLoss on disposal of property, plant and equipment 23,085 1,003\nDepreciation of property, plant and equipment 140,349 136,028"
+  },
+  "income": {
+   "bad": [],
+   "eps_cents": false,
+   "header": [
+    "For the six months ended 30 June 2024",
+    "Six months ended 30 June",
+    "NOTES 2024 2023",
+    "RMB'000 RMB'000",
+    "(unaudited) (unaudited)"
+   ],
+   "lines": [
+    [
+     "Revenue from contracts with customers",
+     "",
+     "3,952,291",
+     "2,701,532"
+    ],
+    [
+     "Cost of sales",
+     "",
+     "(677,551)",
+     "(504,615)"
+    ],
+    [
+     "Gross profit",
+     "",
+     "3,274,740",
+     "2,196,917"
+    ],
+    [
+     "Other income",
+     "",
+     "300,606",
+     "232,421"
+    ],
+    [
+     "Other gains and losses",
+     "",
+     "85,516",
+     "280,607"
+    ],
+    [
+     "Research and development expenses",
+     "",
+     "(1,399,432)",
+     "(922,817)"
+    ],
+    [
+     "Administrative and other expenses",
+     "",
+     "(319,801)",
+     "(368,388)"
+    ],
+    [
+     "Selling and marketing expenses",
+     "",
+     "(1,879,356)",
+     "(1,347,414)"
+    ],
+    [
+     "Royalties and other related payments",
+     "",
+     "(416,838)",
+     "(277,143)"
+    ],
+    [
+     "Finance costs",
+     "",
+     "(38,020)",
+     "(50,292)"
+    ],
+    [
+     "Loss before tax",
+     "",
+     "(392,585)",
+     "(256,109)"
+    ],
+    [
+     "Income tax (expense) credit",
+     "",
+     "(35)",
+     "116,960"
+    ],
+    [
+     "Loss for the period",
+     "",
+     "(392,620)",
+     "(139,149)"
+    ],
+    [
+     "Fair value loss on investment in equity instruments at fair value through other comprehensive income ( \"FVTOCI \")",
+     "Item that will not be reclassified to profit or loss",
+     "(12,538)",
+     "(30,913)"
+    ],
+    [
+     "Exchange differences arising on translation of foreign operations",
+     "Item that will not be reclassified to profit or loss",
+     "(6,296)",
+     "(18,539)"
+    ],
+    [
+     "Other comprehensive expense for the period, net of income tax",
+     "Item that will not be reclassified to profit or loss",
+     "(18,834)",
+     "(49,452)"
+    ],
+    [
+     "Total comprehensive expense for the period",
+     "Item that will not be reclassified to profit or loss",
+     "(411,454)",
+     "(188,601)"
+    ],
+    [
+     "Loss per share – Basic (RMB Yuan)",
+     "Loss per share",
+     "(0.24)",
+     "(0.09)"
+    ],
+    [
+     "– Diluted (RMB Yuan)",
+     "Loss per share",
+     "(0.24)",
+     "(0.09)"
+    ]
+   ],
+   "pages": [
+    59
+   ],
+   "unit_text": "For the six months ended 30 June 2024\nSix months ended 30 June\nNOTES 2024 2023\nRMB'000 RMB'000\n(unaudited) (unaudited)\nFor the six months ended 30 June 2024\nSix months ended 30 June\nNOTES 2024 2023\nRMB'000 RMB'000\n(unaudited) (unaudited)\nRevenue from contracts with customers 4 3,952,291 2,701,532\nCost of sales (677,551) (504,615)\nGross profit 3,274,740 2,196,917\nOther income 300,606 232,421\nOther gains and losses 5 85,516 280,607\nResearch and development expenses (1,399,432) (922,817)\nAdministrative and other expenses (319,801) (368,388)"
+  }
+ },
+ "status": "failed",
+ "style": "ifrs",
+ "title": "2024 INTERIM REPORT",
+ "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0927/2024092700583.pdf",
+ "warnings": []
+}

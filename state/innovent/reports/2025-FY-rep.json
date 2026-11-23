@@ -1,0 +1,884 @@
+{
+ "check_version": 2,
+ "doc": "2025-FY-rep",
+ "fiscal_year": 2025,
+ "gpt_answer": {
+  "balance": {
+   "cash": [
+    "Bank balances and cash"
+   ],
+   "inventories": [
+    "Inventories"
+   ],
+   "receivables": [
+    "Trade receivables"
+   ],
+   "short_term_investments": [
+    "Other financial assets"
+   ],
+   "total_assets": [
+    "[小计] Non-current assets",
+    "[小计] Current assets"
+   ],
+   "total_current_assets": [
+    "[小计] Current assets"
+   ],
+   "total_current_liabilities": [
+    "[小计] Current liabilities"
+   ],
+   "total_debt": [
+    "Borrowings",
+    "Borrowings"
+   ],
+   "total_equity": [
+    "Total equity"
+   ],
+   "total_liabilities": [
+    "[小计] Current liabilities",
+    "[小计] Non-current liabilities"
+   ]
+  },
+  "cashflow": {
+   "capex": [
+    "Purchase of intangible assets",
+    "Purchase of property, plant and equipment"
+   ],
+   "cfo": [
+    "NET CASH FROM OPERATING ACTIVITIES"
+   ]
+  },
+  "income": {
+   "cost_of_sales": [
+    "Cost of sales"
+   ],
+   "eps_diluted": [
+    "– Diluted (RMB Yuan)"
+   ],
+   "gross_profit": [
+    "Gross profit"
+   ],
+   "income_tax": [
+    "Income tax expense"
+   ],
+   "net_income": [
+    "Profit (loss) for the year"
+   ],
+   "pretax_income": [
+    "Profit (loss) before tax"
+   ],
+   "revenue": [
+    "Revenue from contracts with customers"
+   ],
+   "rnd": [
+    "Research and development expenses"
+   ],
+   "sga": [
+    "Administrative and other expenses",
+    "Selling and marketing expenses"
+   ]
+  }
+ },
+ "kind": "report",
+ "mapping_source": "GPT 对照",
+ "months": 12,
+ "parse_version": 1,
+ "period_end": "2025-12-31",
+ "problems": [
+  "GPT 的对照没通过核对（问了 2 次）：equity_parent 对到的行“Reserves”行名不符合"
+ ],
+ "processed": "2026-11-23",
+ "published": "2026-04-28",
+ "restatement_hint": "ext- generation pipeline is focused on IO+ADC in oncology, represented by IBI363, IBI343, IBI3003, bispecific ADCs, and dual-payl",
+ "signatures": {
+  "balance": "e5ec20678d8695dd",
+  "cashflow": "163df1206f63378e",
+  "income": "d6746c3f2338ee5f"
+ },
+ "statements": {
+  "balance": {
+   "bad": [],
+   "eps_cents": false,
+   "header": [
+    "At 31 December 2025",
+    "113Annual Report 2025",
+    "NOTES 2025 2024",
+    "RMB'000 RMB'000",
+    "Non-current assets"
+   ],
+   "lines": [
+    [
+     "Property, plant and equipment",
+     "Non-current assets",
+     "5,061,237",
+     "5,279,611"
+    ],
+    [
+     "Right-of-use assets",
+     "Non-current assets",
+     "380,262",
+     "367,631"
+    ],
+    [
+     "Investment properties",
+     "Non-current assets",
+     "27,799",
+     "–"
+    ],
+    [
+     "Intangible assets",
+     "Non-current assets",
+     "1,534,247",
+     "1,282,603"
+    ],
+    [
+     "Investment in an associate",
+     "Non-current assets",
+     "762,203",
+     "858,991"
+    ],
+    [
+     "Prepayments for acquisition of long-term assets",
+     "Non-current assets",
+     "22,782",
+     "146,661"
+    ],
+    [
+     "Prepayments and other receivables",
+     "Non-current assets",
+     "348,533",
+     "352,363"
+    ],
+    [
+     "Contract cost",
+     "Non-current assets",
+     "99,822",
+     "–"
+    ],
+    [
+     "Other financial assets",
+     "Non-current assets",
+     "6,291,367",
+     "2,766,905"
+    ],
+    [
+     "Term deposits",
+     "Non-current assets",
+     "806,252",
+     "275,000"
+    ],
+    [
+     "[小计] Non-current assets",
+     "Non-current assets",
+     "15,334,504",
+     "11,329,765"
+    ],
+    [
+     "Inventories",
+     "Current assets",
+     "1,301,745",
+     "822,167"
+    ],
+    [
+     "Trade receivables",
+     "Current assets",
+     "1,713,832",
+     "1,184,407"
+    ],
+    [
+     "Prepayments and other receivables",
+     "Current assets",
+     "729,072",
+     "382,523"
+    ],
+    [
+     "Contract cost",
+     "Current assets",
+     "37,240",
+     "–"
+    ],
+    [
+     "Other financial assets",
+     "Current assets",
+     "886,741",
+     "375,555"
+    ],
+    [
+     "Bank balances and cash",
+     "Current assets",
+     "17,344,705",
+     "7,508,185"
+    ],
+    [
+     "[小计] Current assets",
+     "Current assets",
+     "22,013,335",
+     "10,272,837"
+    ],
+    [
+     "Trade and bills payables",
+     "Current liabilities",
+     "494,589",
+     "357,677"
+    ],
+    [
+     "Other payables and accrued expenses",
+     "Current liabilities",
+     "4,779,553",
+     "3,340,852"
+    ],
+    [
+     "Contract liabilities",
+     "Current liabilities",
+     "2,312,224",
+     "256,411"
+    ],
+    [
+     "Borrowings",
+     "Current liabilities",
+     "789,170",
+     "405,100"
+    ],
+    [
+     "Lease liabilities",
+     "Current liabilities",
+     "11,029",
+     "8,829"
+    ],
+    [
+     "[小计] Current liabilities",
+     "Current liabilities",
+     "8,386,565",
+     "4,368,869"
+    ],
+    [
+     "Net current assets",
+     "Current liabilities",
+     "13,626,770",
+     "5,903,968"
+    ],
+    [
+     "Total assets less current liabilities",
+     "Current liabilities",
+     "28,961,274",
+     "17,233,733"
+    ],
+    [
+     "Contract liabilities",
+     "Non-current liabilities",
+     "6,148,796",
+     "567,780"
+    ],
+    [
+     "Borrowings",
+     "Non-current liabilities",
+     "1,989,601",
+     "2,412,354"
+    ],
+    [
+     "Lease liabilities",
+     "Non-current liabilities",
+     "25,975",
+     "4,760"
+    ],
+    [
+     "Subsidized grants",
+     "Non-current liabilities",
+     "797,647",
+     "647,292"
+    ],
+    [
+     "Other financial liabilities",
+     "Non-current liabilities",
+     "620,662",
+     "460,960"
+    ],
+    [
+     "Provisions for reinstatement cost",
+     "Non-current liabilities",
+     "22,350",
+     "22,858"
+    ],
+    [
+     "[小计] Non-current liabilities",
+     "Non-current liabilities",
+     "9,605,031",
+     "4,116,004"
+    ],
+    [
+     "Net assets",
+     "Non-current liabilities",
+     "19,356,243",
+     "13,117,729"
+    ],
+    [
+     "Share capital",
+     "Capital and reserves",
+     "119",
+     "113"
+    ],
+    [
+     "Reserves",
+     "Capital and reserves",
+     "19,356,124",
+     "13,117,616"
+    ],
+    [
+     "Total equity",
+     "Capital and reserves",
+     "19,356,243",
+     "13,117,729"
+    ]
+   ],
+   "pages": [
+    114,
+    115
+   ],
+   "unit_text": "At 31 December 2025\n113Annual Report 2025\nNOTES 2025 2024\nRMB'000 RMB'000\nNon-current assets\nAt 31 December 2025\n113Annual Report 2025\nNOTES 2025 2024\nRMB'000 RMB'000\nNon-current assets\nProperty, plant and equipment 14 5,061,237 5,279,611\nRight-of-use assets 15 380,262 367,631\nInvestment properties 27,799 –\nIntangible assets 16 1,534,247 1,282,603\nInvestment in an associate 18 762,203 858,991\nPrepayments for acquisition of long-term assets 22,782 146,661\nPrepayments and other receivables 21 348,533 352,363"
+  },
+  "cashflow": {
+   "bad": [],
+   "eps_cents": false,
+   "header": [
+    "116 Innovent Biologics, Inc.",
+    "2025 2024",
+    "RMB'000 RMB'000",
+    "OPERATING ACTIVITIES"
+   ],
+   "lines": [
+    [
+     "Profit (loss) before tax",
+     "OPERATING ACTIVITIES",
+     "838,924",
+     "(78,621)"
+    ],
+    [
+     "Loss on disposal of property, plant and equipment",
+     "Adjustments for:",
+     "569",
+     "22,987"
+    ],
+    [
+     "Depreciation of property, plant and equipment",
+     "Adjustments for:",
+     "450,776",
+     "293,334"
+    ],
+    [
+     "Amortisation of intangible assets",
+     "Adjustments for:",
+     "130,233",
+     "94,837"
+    ],
+    [
+     "Impairment of intangible assets",
+     "Adjustments for:",
+     "31,517",
+     "632,574"
+    ],
+    [
+     "Depreciation of right-of-use assets",
+     "Adjustments for:",
+     "20,308",
+     "31,597"
+    ],
+    [
+     "Net foreign exchange losses (gains)",
+     "Adjustments for:",
+     "353,434",
+     "(134,569)"
+    ],
+    [
+     "Gain from changes in fair value of other financial assets measured at fair value through profit or loss ( \"FVTPL\")",
+     "Adjustments for:",
+     "(4,556)",
+     "(179,031)"
+    ],
+    [
+     "Share of results of an associate",
+     "Adjustments for:",
+     "96,788",
+     "41,009"
+    ],
+    [
+     "Share-based payment expenses",
+     "Adjustments for:",
+     "662,696",
+     "556,521"
+    ],
+    [
+     "Research and development expenses borne by partners of joint operations",
+     "Adjustments for:",
+     "–",
+     "(32,005)"
+    ],
+    [
+     "Subsidized grants income related to asset",
+     "Adjustments for:",
+     "(24,447)",
+     "(11,014)"
+    ],
+    [
+     "Interest income",
+     "Adjustments for:",
+     "(438,686)",
+     "(423,454)"
+    ],
+    [
+     "Interest on bank borrowings",
+     "Adjustments for:",
+     "78,872",
+     "64,253"
+    ],
+    [
+     "Interest on lease liabilities",
+     "Adjustments for:",
+     "726",
+     "3,394"
+    ],
+    [
+     "Loss from changes in fair value of other financial liabilities measured at FVTPL",
+     "Adjustments for:",
+     "4,006",
+     "36,323"
+    ],
+    [
+     "Reversal of inventory allowance",
+     "Adjustments for:",
+     "(28,118)",
+     "(34,709)"
+    ],
+    [
+     "Equity investment in exchange for license fee income",
+     "Adjustments for:",
+     "(115,931)",
+     "–"
+    ],
+    [
+     "Operating cash flows before movements in working capital",
+     "Adjustments for:",
+     "2,057,111",
+     "883,426"
+    ],
+    [
+     "(Increase) decrease in inventories",
+     "Adjustments for:",
+     "(451,460)",
+     "180,630"
+    ],
+    [
+     "Increase in trade receivables",
+     "Adjustments for:",
+     "(529,425)",
+     "(178,516)"
+    ],
+    [
+     "Increase in prepayments and other receivables",
+     "Adjustments for:",
+     "(298,492)",
+     "(212,351)"
+    ],
+    [
+     "Increase in contract cost",
+     "Adjustments for:",
+     "(137,062)",
+     "–"
+    ],
+    [
+     "Increase (decrease) in trade and bills payables",
+     "Adjustments for:",
+     "136,912",
+     "(14,872)"
+    ],
+    [
+     "Increase in other payables and accrued expenses",
+     "Adjustments for:",
+     "1,562,662",
+     "660,056"
+    ],
+    [
+     "Increase (decrease) in contract liabilities",
+     "Adjustments for:",
+     "7,636,829",
+     "(42,287)"
+    ],
+    [
+     "Increase in subsidized grants",
+     "Adjustments for:",
+     "24,578",
+     "11,095"
+    ],
+    [
+     "Cash generated from operations",
+     "Adjustments for:",
+     "10,001,653",
+     "1,287,181"
+    ],
+    [
+     "Income tax paid",
+     "Adjustments for:",
+     "(641)",
+     "(157)"
+    ],
+    [
+     "NET CASH FROM OPERATING ACTIVITIES",
+     "Adjustments for:",
+     "10,001,012",
+     "1,287,024"
+    ],
+    [
+     "Interest received",
+     "INVESTING ACTIVITIES",
+     "315,142",
+     "660,464"
+    ],
+    [
+     "Placement of term deposits with maturity dates over three months",
+     "INVESTING ACTIVITIES",
+     "(14,484,149)",
+     "(7,688,061)"
+    ],
+    [
+     "Release of term deposits with maturity dates over three months",
+     "INVESTING ACTIVITIES",
+     "12,003,967",
+     "8,842,722"
+    ],
+    [
+     "Placement of pledged bank deposit",
+     "INVESTING ACTIVITIES",
+     "(47,296)",
+     "(192,121)"
+    ],
+    [
+     "Release of restricted/pledged bank deposits",
+     "INVESTING ACTIVITIES",
+     "133,447",
+     "915,107"
+    ],
+    [
+     "Purchase of financial assets at FVTPL",
+     "INVESTING ACTIVITIES",
+     "(2,452,429)",
+     "(1,997,610)"
+    ],
+    [
+     "Proceeds on disposal of financial assets at FVTPL",
+     "INVESTING ACTIVITIES",
+     "1,834,759",
+     "484,968"
+    ],
+    [
+     "Purchase of other financial assets at amortised cost",
+     "INVESTING ACTIVITIES",
+     "(4,177,705)",
+     "(849,913)"
+    ],
+    [
+     "Proceeds on disposal of other financial assets at amortised cost",
+     "INVESTING ACTIVITIES",
+     "898,980",
+     "858,296"
+    ],
+    [
+     "Payments for leasehold land",
+     "INVESTING ACTIVITIES",
+     "–",
+     "(63,328)"
+    ],
+    [
+     "Payments for rental deposits",
+     "INVESTING ACTIVITIES",
+     "(5,522)",
+     "–"
+    ],
+    [
+     "Refund of rental deposits",
+     "INVESTING ACTIVITIES",
+     "2,315",
+     "–"
+    ],
+    [
+     "Purchase of intangible assets",
+     "INVESTING ACTIVITIES",
+     "(413,394)",
+     "(676,419)"
+    ],
+    [
+     "Purchase of property, plant and equipment",
+     "INVESTING ACTIVITIES",
+     "(269,880)",
+     "(965,665)"
+    ],
+    [
+     "Proceeds from disposal of property, plant and equipment",
+     "INVESTING ACTIVITIES",
+     "–",
+     "270"
+    ],
+    [
+     "Acquisition of investment in an associate",
+     "INVESTING ACTIVITIES",
+     "–",
+     "(900,000)"
+    ],
+    [
+     "Receipt of subsidized grants related to property, plant and equipment",
+     "INVESTING ACTIVITIES",
+     "150,225",
+     "137,472"
+    ],
+    [
+     "Proceeds from disposal of equity instruments at FVTOCI",
+     "INVESTING ACTIVITIES",
+     "–",
+     "279,286"
+    ],
+    [
+     "Repayment to a partner of joint operations",
+     "INVESTING ACTIVITIES",
+     "–",
+     "(10,879)"
+    ],
+    [
+     "NET CASH USED IN INVESTING ACTIVITIES",
+     "INVESTING ACTIVITIES",
+     "(6,511,540)",
+     "(1,165,411)"
+    ],
+    [
+     "Interest paid",
+     "FINANCING ACTIVITIES",
+     "(95,239)",
+     "(122,425)"
+    ],
+    [
+     "New borrowings raised",
+     "FINANCING ACTIVITIES",
+     "2,504,495",
+     "515,571"
+    ],
+    [
+     "Repayment of borrowings",
+     "FINANCING ACTIVITIES",
+     "(2,543,178)",
+     "(1,220,049)"
+    ],
+    [
+     "Repayment of lease liabilities",
+     "FINANCING ACTIVITIES",
+     "(12,059)",
+     "(25,965)"
+    ],
+    [
+     "Proceeds from issue of ordinary shares",
+     "FINANCING ACTIVITIES",
+     "586,866",
+     "–"
+    ],
+    [
+     "Placing of ordinary shares",
+     "FINANCING ACTIVITIES",
+     "3,889,840",
+     "–"
+    ],
+    [
+     "Proceeds from exercise of share options",
+     "FINANCING ACTIVITIES",
+     "242,049",
+     "84,312"
+    ],
+    [
+     "Proceeds from other partners of investment funds consolidated",
+     "FINANCING ACTIVITIES",
+     "155,696",
+     "161,924"
+    ],
+    [
+     "NET CASH FROM (USED IN) FINANCING ACTIVITIES",
+     "FINANCING ACTIVITIES",
+     "4,728,470",
+     "(606,632)"
+    ],
+    [
+     "NET INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS",
+     "FINANCING ACTIVITIES",
+     "8,217,942",
+     "(485,019)"
+    ],
+    [
+     "CASH AND CASH EQUIVALENTS AT 1 JANUARY",
+     "FINANCING ACTIVITIES",
+     "2,273,356",
+     "2,745,693"
+    ],
+    [
+     "Effects of foreign exchange rate changes",
+     "FINANCING ACTIVITIES",
+     "(115,586)",
+     "12,682"
+    ],
+    [
+     "CASH AND CASH EQUIVALENTS AT 31 DECEMBER (note 24)",
+     "FINANCING ACTIVITIES",
+     "10,375,712",
+     "2,273,356"
+    ],
+    [
+     "Standards – Volume",
+     "Amendments to IFRS Accounting Standards Annual Improvements to IFRS Accounting",
+     "11",
+     "2"
+    ]
+   ],
+   "pages": [
+    117,
+    118,
+    119,
+    120,
+    121,
+    122
+   ],
+   "unit_text": "116 Innovent Biologics, Inc.\n2025 2024\nRMB'000 RMB'000\nOPERATING ACTIVITIES\n116 Innovent Biologics, Inc.\n2025 2024\nRMB'000 RMB'000\nOPERATING ACTIVITIES\nProfit (loss) before tax 838,924 (78,621)\nAdjustments for:\nLoss on disposal of property, plant and equipment 569 22,987\nDepreciation of property, plant and equipment 450,776 293,334\nAmortisation of intangible assets 130,233 94,837\nImpairment of intangible assets 31,517 632,574\nDepreciation of right-of-use assets 20,308 31,597\nNet foreign exchange losses (gains) 353,434 (134,569)"
+  },
+  "income": {
+   "bad": [],
+   "eps_cents": false,
+   "header": [
+    "112 Innovent Biologics, Inc.",
+    "NOTES 2025 2024",
+    "RMB'000 RMB'000"
+   ],
+   "lines": [
+    [
+     "Revenue from contracts with customers",
+     "112 Innovent Biologics, Inc.",
+     "13,041,523",
+     "9,421,888"
+    ],
+    [
+     "Cost of sales",
+     "112 Innovent Biologics, Inc.",
+     "(1,756,019)",
+     "(1,510,210)"
+    ],
+    [
+     "Gross profit",
+     "112 Innovent Biologics, Inc.",
+     "11,285,504",
+     "7,911,678"
+    ],
+    [
+     "Other income",
+     "112 Innovent Biologics, Inc.",
+     "560,053",
+     "535,907"
+    ],
+    [
+     "Other gains and losses",
+     "112 Innovent Biologics, Inc.",
+     "(246,848)",
+     "250,000"
+    ],
+    [
+     "Research and development expenses",
+     "112 Innovent Biologics, Inc.",
+     "(2,624,214)",
+     "(2,681,074)"
+    ],
+    [
+     "Administrative and other expenses",
+     "112 Innovent Biologics, Inc.",
+     "(926,984)",
+     "(738,046)"
+    ],
+    [
+     "Selling and marketing expenses",
+     "112 Innovent Biologics, Inc.",
+     "(5,712,907)",
+     "(4,346,892)"
+    ],
+    [
+     "Royalties and other related payments",
+     "112 Innovent Biologics, Inc.",
+     "(1,319,294)",
+     "(901,538)"
+    ],
+    [
+     "Share of results of an associate",
+     "112 Innovent Biologics, Inc.",
+     "(96,788)",
+     "(41,009)"
+    ],
+    [
+     "Finance costs",
+     "112 Innovent Biologics, Inc.",
+     "(79,598)",
+     "(67,647)"
+    ],
+    [
+     "Profit (loss) before tax",
+     "112 Innovent Biologics, Inc.",
+     "838,924",
+     "(78,621)"
+    ],
+    [
+     "Income tax expense",
+     "112 Innovent Biologics, Inc.",
+     "(25,359)",
+     "(16,010)"
+    ],
+    [
+     "Profit (loss) for the year",
+     "112 Innovent Biologics, Inc.",
+     "813,565",
+     "(94,631)"
+    ],
+    [
+     "Fair value gain on investment in equity instruments at fair value through other comprehensive income ( \"FVTOCI\")",
+     "Item that will not be reclassified subsequently to profit or loss",
+     "–",
+     "60,985"
+    ],
+    [
+     "Exchange differences arising on translation of foreign operations",
+     "Item that will not be reclassified subsequently to profit or loss",
+     "43,498",
+     "(17,039)"
+    ],
+    [
+     "Other comprehensive income for the year, net of income tax",
+     "Item that will not be reclassified subsequently to profit or loss",
+     "43,498",
+     "43,946"
+    ],
+    [
+     "Total comprehensive income (expense) for the year",
+     "Item that will not be reclassified subsequently to profit or loss",
+     "857,063",
+     "(50,685)"
+    ],
+    [
+     "Earnings (loss) per share – Basic (RMB Yuan)",
+     "Earnings (loss) per share",
+     "0.48",
+     "(0.06)"
+    ],
+    [
+     "– Diluted (RMB Yuan)",
+     "Earnings (loss) per share",
+     "0.47",
+     "(0.06)"
+    ]
+   ],
+   "pages": [
+    113
+   ],
+   "unit_text": "112 Innovent Biologics, Inc.\nNOTES 2025 2024\nRMB'000 RMB'000\n112 Innovent Biologics, Inc.\nNOTES 2025 2024\nRMB'000 RMB'000\nRevenue from contracts with customers 5 13,041,523 9,421,888\nCost of sales (1,756,019) (1,510,210)\nGross profit 11,285,504 7,911,678\nOther income 6 560,053 535,907\nOther gains and losses 7 (246,848) 250,000\nResearch and development expenses (2,624,214) (2,681,074)\nAdministrative and other expenses (926,984) (738,046)\nSelling and marketing expenses (5,712,907) (4,346,892)\nRoyalties and other related payments (1,319,294) (901,538)"
+  }
+ },
+ "status": "failed",
+ "style": "ifrs",
+ "title": "2025 ANNUAL REPORT",
+ "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0428/2026042805171.pdf",
+ "warnings": []
+}
