@@ -55,6 +55,9 @@ jobs:
         env:
           DASH_QUIET: "1"
 
+      - name: 安装 pypdf（只有港股、A 股适配器用它读定期报告 PDF 的文字）
+        run: pip install pypdf==6.21.4
+
       - name: 运行维护流程
         id: run
         env:

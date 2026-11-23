@@ -87,7 +87,20 @@
 
     "segment": {"zh": "业务分部", "en": "Business segment"},
     "OtherNotItemized": {"zh": "其他（未单列）", "en": "Other (not itemized)"},
-    "OtherRevenue": {"zh": "其他收入", "en": "Other revenue"}
+    "OtherRevenue": {"zh": "其他收入", "en": "Other revenue"},
+
+    "H1": {"zh": "上半年", "en": "First half (H1)"},
+    "H2": {"zh": "下半年", "en": "Second half (H2)"},
+    "9M": {"zh": "前三季度", "en": "First nine months"},
+    "reported": {"zh": "原文", "en": "Reported"},
+    "derived": {"zh": "推算", "en": "Derived"},
+    "restated": {"zh": "重述", "en": "Restated"},
+    "hkex": {"zh": "港交所披露易", "en": "HKEXnews"},
+    "cninfo": {"zh": "巨潮资讯", "en": "CNINFO"},
+    "results_announcement": {"zh": "业绩公告", "en": "Results announcement"},
+    "interim_report": {"zh": "中期报告", "en": "Interim report"},
+    "annual_report": {"zh": "年度报告", "en": "Annual report"},
+    "quarterly_report": {"zh": "季度报告", "en": "Quarterly report"}
   },
   "areas": {
     "Cardiometabolic Health": {"zh": "心血管代谢", "en": "Cardiometabolic Health"},
