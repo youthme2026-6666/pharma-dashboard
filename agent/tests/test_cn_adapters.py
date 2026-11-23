@@ -190,6 +190,12 @@ class TestParsing(unittest.TestCase):
         self.assertFalse(P._joinable("客户存款和同业存放款项净增加额", "收到的税费返还"))   # 上一行是完整科目（深市空行）
         self.assertTrue(P._joinable("Exchange differences arising on translation", "of foreign operations"))
         self.assertFalse(P._joinable("Current assets", "Inventories"))
+        # 晶泰的中英对照年报：英文一行、中文一行、剩下的中文和数字一行
+        self.assertTrue(P._joinable("Financial assets at fair value through profit or loss", "按公允價值計入損益的"))
+        self.assertTrue(P._joinable("Financial assets at fair value through profit or loss 按公允價值計入損益的", "金融資產"))
+        self.assertIsNone(P.guard_problem("short_term_investments", {"label": "Financial assets at fair value through profit or loss 按公允價值計入損益的 金融資產",
+                                                                      "section": "Current assets 流動資產"}))
+        self.assertIsNone(P.guard_problem("inventories", {"label": "存貨", "section": ""}))
 
     def test_titles(self):
         T = P.title_kind

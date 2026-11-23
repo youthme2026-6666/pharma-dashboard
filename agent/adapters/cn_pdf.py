@@ -36,7 +36,8 @@ import urllib.request
 
 from .base import Result
 
-PARSE_VERSION = 1        # 文字 → 报表行 的规则版本：改了就重新下载、重新拆行
+TEXT_VERSION = 1         # PDF → 文字 的抽取方式（缓存在 agent/.cache 里的文字跟着它走）
+PARSE_VERSION = 2        # 文字 → 报表行 的规则版本：改了就重新下载、重新拆行（版式没变的表沿用原有对照，不重新问 GPT）
 CHECK_VERSION = 3        # 报表行 → 科目、核对 的规则版本：改了就用 state 里存的报表行重新核对（不用下载；已有对照的不重新问 GPT）
 FIRST_YEAR = 2023        # 从 2023 财年的报告开始补（报告里的上年同期数再补到 2022 年）
 MAX_DOCS_PER_RUN = 16    # 每家公司每次最多新处理几份报告（首次补数据可能分几次完成；真正的限制是下面的时间上限）
@@ -244,13 +245,13 @@ def extract_layout(data, numbers):
 def pdf_layout(http, url, numbers):
     lpath = os.path.join(http.cache_dir, "layout", _sha(url)[:24] + ".json") if http.cache_dir else None
     cached = (_read_json(lpath, {}) or {}) if lpath else {}
-    have = cached.get("pages", {}) if cached.get("v") == PARSE_VERSION else {}
+    have = cached.get("pages", {}) if cached.get("v") == TEXT_VERSION else {}
     need = [n for n in numbers if str(n) not in have]
     if need:
         body = http.get(url, suffix=".pdf")
         have.update({str(k): v for k, v in extract_layout(body, need).items()})
         if lpath:
-            _write_json(lpath, {"v": PARSE_VERSION, "url": url, "pages": have})
+            _write_json(lpath, {"v": TEXT_VERSION, "url": url, "pages": have})
     return {int(k): v for k, v in have.items() if int(k) in numbers}
 
 
@@ -259,14 +260,14 @@ def pdf_pages(http, url):
     tpath = os.path.join(http.cache_dir, "text", _sha(url)[:24] + ".json") if http.cache_dir else None
     if tpath and os.path.exists(tpath):
         cached = _read_json(tpath, {})
-        if cached.get("v") == PARSE_VERSION:
+        if cached.get("v") == TEXT_VERSION:
             return cached["pages"]
     body = http.get(url, suffix=".pdf")
     if not body.startswith(b"%PDF"):
         raise FetchError("下载的不是 PDF：%s" % url)
     pages = extract_pages(body)
     if tpath:
-        _write_json(tpath, {"v": PARSE_VERSION, "url": url, "pages": pages})
+        _write_json(tpath, {"v": TEXT_VERSION, "url": url, "pages": pages})
     return pages
 
 
@@ -473,6 +474,10 @@ def _joinable(prev, nxt):
     p, n = prev.strip(), nxt.strip()
     if not p or not n or _is_section(p) or _is_header(p):
         return False
+    if re.search(r"[A-Za-z]", p) and not _cjk(p) and _cjk(n) and not re.search(r"[A-Za-z]", n) and not _ENUM.match(n):
+        return True                      # 中英对照的报表：英文行名一行、中文译名（可能还没完）一行
+    if _cjk(p) and _cjk(n) and p.endswith("的"):
+        return True                      # “按公允價值計入損益的 / 金融資產”：以“的”结尾的不是完整行名
     if _cjk(p) and _cjk(n):
         if _cas_known(p) and not _cas_known(p + n):
             return False                 # 上一行本身是完整科目（深市报表里没数的科目也单独成行）
@@ -571,7 +576,10 @@ def parse_block(lines):
                     section = pending
                 base = "[小计] " + (section or (rows[-1]["label"] if rows else ""))
                 counts[base] = counts.get(base, 0) + 1
-                label = base if counts[base] == 1 else "%s #%d" % (base, counts[base])
+                if counts[base] == 1:
+                    label = base
+                else:                    # 同一小节第二个小计：说明它比上一个多加了哪一行（例如持有待售资产）
+                    label = "[小计 %d，含上一行“%s”] %s" % (counts[base], rows[-1]["label"][:50] if rows else "", base[5:])
             pending = ""
         elif pending:
             if _joinable(pending, label):
@@ -814,11 +822,11 @@ FIELD_HELP = {
     "short_term_investments": "流动资产里的短期投资：交易性金融资产、理财产品、三个月以上定期存款（Time / Bank / Term deposits）、以公允价值计量且变动计入损益的流动金融资产（几行都给；非流动资产里的不算）",
     "receivables": "应收账款 / Trade receivables（应收账款和应收票据合在一行的也算）；不含其他应收款、预付款",
     "inventories": "存货 / Inventories",
-    "total_current_assets": "流动资产合计 / Total current assets（港股常是没有名称的小计行）",
+    "total_current_assets": "流动资产合计 / Total current assets（港股常是没有名称的小计行；单列了持有待售资产时，取把它也加进去的那个小计）",
     "total_assets": "资产总计 / Total assets；报表没有这一行时，给非流动资产小计和流动资产小计两行（程序相加）",
-    "total_current_liabilities": "流动负债合计 / Total current liabilities（或没有名称的小计行）",
+    "total_current_liabilities": "流动负债合计 / Total current liabilities（或没有名称的小计行；单列了持有待售负债时，取把它也加进去的那个小计）",
     "total_debt": "有息借款：短期借款、长期借款、应付债券、可转换债券、Borrowings / Bank loans / Bonds / Notes（流动和非流动各行都给）；不含租赁负债、一年内到期的非流动负债",
-    "total_liabilities": "负债合计 / Total liabilities；没有这一行时，给流动负债小计和非流动负债小计两行（程序相加）",
+    "total_liabilities": "负债合计 / Total liabilities；没有这一行时，给流动负债小计（含持有待售负债的那个）和非流动负债小计两行（程序相加）",
     "total_equity": "所有者权益合计 / Total equity（含少数股东权益）",
     "equity_parent": "归属于母公司所有者权益合计 / Equity attributable to owners of the Company（可以是这一小节下没有名称的小计行）：只在报表单独列出时才填；报表没有少数股东权益（没有这一行）就给空数组，程序会用权益合计；不要对到 Reserves、Share capital",
     "cfo": "经营活动产生的现金流量净额 / Net cash from (used in) operating activities",
@@ -907,12 +915,16 @@ GUARD = {
 }
 
 
+_T2S = str.maketrans("資產負債貨應帳賬銷費發營業稅淨權歸屬總計現銀結餘備價損經動購買籌務證換匯兌開額純虧預庫續項據與長貸擔稱製廠設無獎勵攤際撥數東員職潤後綜實儲遞補約運轉處為這個們來對於從進間關係幣萬億優協議讓",
+                      "资产负债货应账账销费发营业税净权归属总计现银结余备价损经动购买筹务证换汇兑开额纯亏预库续项据与长贷担称制厂设无奖励摊际拨数东员职润后综实储递补约运转处为这个们来对于从进间关系币万亿优协议让")
+
+
 def guard_problem(field, line):
-    text = ("%s | %s" % (line["label"], line["section"])).lower()
+    text = ("%s | %s" % (line["label"], line["section"])).translate(_T2S).lower()
     need, ban = GUARD[field]
-    if not re.search(need, text) or (ban and re.search(ban, line["label"].lower())):
+    if not re.search(need, text) or (ban and re.search(ban, line["label"].translate(_T2S).lower())):
         return "%s 对到的行“%s”行名不符合（%s 应是：%s；报表没有这样的行就给空数组）" % (field, line["label"][:40], field, FIELD_HELP[field][:60])
-    sec = (line["section"] or "").lower()
+    sec = (line["section"] or "").translate(_T2S).lower()
     if field == "net_income_parent" and re.search(r"综合收益|comprehensive", sec) and re.search(r"归属|attributable", sec):
         return "%s 对到的是综合收益的归属行“%s”" % (field, line["label"][:40])
     return None
@@ -1342,7 +1354,8 @@ def evaluate(doc, stmts, mapping, unit, style):
 
 
 def has_nci(st):
-    return any(re.search(r"non-controlling|minority interest|少数股东|非控制性", (l["label"] + " " + l["section"]).lower()) for l in st["lines"])
+    return any(re.search(r"non-controlling|minority interest|少数股东|非控制性|非控股", (l["label"] + " " + l["section"]).translate(_T2S).lower())
+               for l in st["lines"])
 
 
 def mapping_labels(stmts, mapping):
@@ -1359,7 +1372,7 @@ def doc_period_end(doc, fye):
     return span_end(doc["fiscal_year"], doc["months"], fye)
 
 
-def process_doc(doc, company, ctx, http, records, style):
+def process_doc(doc, company, ctx, http, records, style, old=None):
     """处理一份报告：下载 → 抽文字 → 找报表 → 拆行 → 对照 → 核对。返回 (record, 提醒)。
     record["status"]：ok / failed（数字核对不过）/ no_statements（找不到报表）。网络或 GPT 失败时抛异常，下次再试。"""
     fye = company.get("fiscal_year_end_month", 12)
@@ -1373,6 +1386,8 @@ def process_doc(doc, company, ctx, http, records, style):
     if not stmts.get("income") and not stmts.get("balance"):
         rec.update(status="no_statements", problems=["没有找到合并利润表和资产负债表（%d 页）" % len(pages)])
         return rec
+    if old and old.get("status") == "ok" and old.get("url") == doc["url"]:
+        rec.update({k: old[k] for k in ("signatures", "mapping", "unit") if old.get(k)})    # 版式没变的表沿用原有对照
     rec["statements"] = {k: {"pages": st["pages"], "header": st["header"], "unit_text": st["unit_text"], "eps_cents": st["eps_cents"],
                              "bad": st["bad"], "lines": [[l["label"], l["section"], l["cur"], l["prior"]] for l in st["lines"]]}
                          for k, st in stmts.items()}
@@ -1719,7 +1734,7 @@ def run_update(company, ctx, source):
                 pending.append("还有 %d 份报告下次处理" % (len(todo) - len(done)))
                 break
             try:
-                rec = process_doc(d, company, ctx, http, records, source.STYLE)
+                rec = process_doc(d, company, ctx, http, records, source.STYLE, old=records.get(d["id"]))
             except NeedGPT as e:
                 pending.append("%s：%s" % (d["title"], e))
                 continue
