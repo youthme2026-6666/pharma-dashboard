@@ -1,8 +1,87 @@
 {
- "check_version": 2,
+ "check_version": 3,
  "doc": "2025-FY-rep",
  "fiscal_year": 2025,
- "gpt_answer": {
+ "kind": "report",
+ "mapping": {
+  "balance": {
+   "cash": [
+    16
+   ],
+   "inventories": [
+    11
+   ],
+   "receivables": [
+    12
+   ],
+   "short_term_investments": [
+    8,
+    9,
+    15
+   ],
+   "total_assets": [
+    10,
+    17
+   ],
+   "total_current_assets": [
+    17
+   ],
+   "total_current_liabilities": [
+    23
+   ],
+   "total_debt": [
+    21,
+    27
+   ],
+   "total_equity": [
+    36
+   ],
+   "total_liabilities": [
+    23,
+    32
+   ]
+  },
+  "cashflow": {
+   "capex": [
+    42,
+    43
+   ],
+   "cfo": [
+    29
+   ]
+  },
+  "income": {
+   "cost_of_sales": [
+    1
+   ],
+   "eps_diluted": [
+    19
+   ],
+   "gross_profit": [
+    2
+   ],
+   "income_tax": [
+    12
+   ],
+   "net_income": [
+    13
+   ],
+   "pretax_income": [
+    11
+   ],
+   "revenue": [
+    0
+   ],
+   "rnd": [
+    5
+   ],
+   "sga": [
+    6,
+    7
+   ]
+  }
+ },
+ "mapping_labels": {
   "balance": {
    "cash": [
     "Bank balances and cash"
@@ -14,6 +93,8 @@
     "Trade receivables"
    ],
    "short_term_investments": [
+    "Other financial assets",
+    "Term deposits",
     "Other financial assets"
    ],
    "total_assets": [
@@ -78,14 +159,11 @@
    ]
   }
  },
- "kind": "report",
  "mapping_source": "GPT 对照",
  "months": 12,
  "parse_version": 1,
  "period_end": "2025-12-31",
- "problems": [
-  "GPT 的对照没通过核对（问了 2 次）：equity_parent 对到的行“Reserves”行名不符合"
- ],
+ "problems": [],
  "processed": "2026-11-23",
  "published": "2026-04-28",
  "restatement_hint": "ext- generation pipeline is focused on IO+ADC in oncology, represented by IBI363, IBI343, IBI3003, bispecific ADCs, and dual-payl",
@@ -876,9 +954,92 @@
    "unit_text": "112 Innovent Biologics, Inc.\nNOTES 2025 2024\nRMB'000 RMB'000\n112 Innovent Biologics, Inc.\nNOTES 2025 2024\nRMB'000 RMB'000\nRevenue from contracts with customers 5 13,041,523 9,421,888\nCost of sales (1,756,019) (1,510,210)\nGross profit 11,285,504 7,911,678\nOther income 6 560,053 535,907\nOther gains and losses 7 (246,848) 250,000\nResearch and development expenses (2,624,214) (2,681,074)\nAdministrative and other expenses (926,984) (738,046)\nSelling and marketing expenses (5,712,907) (4,346,892)\nRoyalties and other related payments (1,319,294) (901,538)"
   }
  },
- "status": "failed",
+ "status": "ok",
+ "step": {
+  "balance": 0.001,
+  "cashflow": 0.001,
+  "income": 1e-05
+ },
  "style": "ifrs",
  "title": "2025 ANNUAL REPORT",
+ "unit": {
+  "currency": "CNY",
+  "eps_unit": "yuan",
+  "scale": 0.001,
+  "text": "RMB'000"
+ },
  "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0428/2026042805171.pdf",
+ "values": {
+  "balance": {
+   "cur": {
+    "cash": 17344.705,
+    "equity_parent": 19356.243000000002,
+    "inventories": 1301.7450000000001,
+    "receivables": 1713.832,
+    "short_term_investments": 7984.360000000001,
+    "total_assets": 37347.839,
+    "total_current_assets": 22013.335,
+    "total_current_liabilities": 8386.565,
+    "total_debt": 2778.771,
+    "total_equity": 19356.243000000002,
+    "total_liabilities": 17991.596
+   },
+   "prior": {
+    "cash": 7508.185,
+    "equity_parent": 13117.729000000001,
+    "inventories": 822.167,
+    "receivables": 1184.407,
+    "short_term_investments": 3417.46,
+    "total_assets": 21602.602,
+    "total_current_assets": 10272.837,
+    "total_current_liabilities": 4368.869,
+    "total_debt": 2817.454,
+    "total_equity": 13117.729000000001,
+    "total_liabilities": 8484.873
+   }
+  },
+  "cashflow": {
+   "cur": {
+    "buybacks": null,
+    "capex": 683.274,
+    "cfo": 10001.012,
+    "dividends_paid": null
+   },
+   "prior": {
+    "buybacks": null,
+    "capex": 1642.084,
+    "cfo": 1287.0240000000001,
+    "dividends_paid": null
+   }
+  },
+  "income": {
+   "cur": {
+    "cost_of_sales": 1756.019,
+    "eps_diluted": 0.47,
+    "gross_profit": 11285.504,
+    "income_tax": 25.359,
+    "net_income": 813.565,
+    "net_income_parent": 813.565,
+    "operating_income": null,
+    "pretax_income": 838.924,
+    "revenue": 13041.523000000001,
+    "rnd": 2624.214,
+    "sga": 6639.8910000000005
+   },
+   "prior": {
+    "cost_of_sales": 1510.21,
+    "eps_diluted": -0.06,
+    "gross_profit": 7911.678,
+    "income_tax": 16.01,
+    "net_income": -94.631,
+    "net_income_parent": -94.631,
+    "operating_income": null,
+    "pretax_income": -78.621,
+    "revenue": 9421.888,
+    "rnd": 2681.074,
+    "sga": 5084.938
+   }
+  }
+ },
  "warnings": []
 }

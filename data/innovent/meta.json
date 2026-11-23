@@ -1,0 +1,16 @@
+{
+  "currency": "CNY",
+  "events": 0,
+  "id": "innovent",
+  "latest_period": "2026 H1",
+  "latest_period_end": "2026-06-30",
+  "name_en": "Innovent Biologics",
+  "name_zh": "信达生物",
+  "rows": {
+    "balance": 8,
+    "cashflow": 13,
+    "income": 13,
+    "segments": 0
+  },
+  "source": "hkex"
+}

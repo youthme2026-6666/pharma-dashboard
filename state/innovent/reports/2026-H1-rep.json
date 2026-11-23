@@ -1,8 +1,87 @@
 {
- "check_version": 2,
+ "check_version": 3,
  "doc": "2026-H1-rep",
  "fiscal_year": 2026,
- "gpt_answer": {
+ "kind": "report",
+ "mapping": {
+  "balance": {
+   "cash": [
+    17
+   ],
+   "inventories": [
+    12
+   ],
+   "receivables": [
+    13
+   ],
+   "short_term_investments": [
+    9,
+    16,
+    10
+   ],
+   "total_assets": [
+    11,
+    18
+   ],
+   "total_current_assets": [
+    18
+   ],
+   "total_current_liabilities": [
+    25
+   ],
+   "total_debt": [
+    23,
+    29
+   ],
+   "total_equity": [
+    38
+   ],
+   "total_liabilities": [
+    25,
+    34
+   ]
+  },
+  "cashflow": {
+   "capex": [
+    35,
+    36
+   ],
+   "cfo": [
+    29
+   ]
+  },
+  "income": {
+   "cost_of_sales": [
+    1
+   ],
+   "eps_diluted": [
+    18
+   ],
+   "gross_profit": [
+    2
+   ],
+   "income_tax": [
+    12
+   ],
+   "net_income": [
+    13
+   ],
+   "pretax_income": [
+    11
+   ],
+   "revenue": [
+    0
+   ],
+   "rnd": [
+    5
+   ],
+   "sga": [
+    6,
+    7
+   ]
+  }
+ },
+ "mapping_labels": {
   "balance": {
    "cash": [
     "Bank balances and cash"
@@ -12,6 +91,11 @@
    ],
    "receivables": [
     "Trade receivables"
+   ],
+   "short_term_investments": [
+    "Other financial assets",
+    "Other financial assets",
+    "Term deposits"
    ],
    "total_assets": [
     "[小计] Non-current assets",
@@ -75,14 +159,11 @@
    ]
   }
  },
- "kind": "report",
- "mapping_source": "GPT 对照",
+ "mapping_source": "沿用 2026-H1-ann 的对照（版式相同）；GPT 对照",
  "months": 6,
  "parse_version": 1,
  "period_end": "2026-06-30",
- "problems": [
-  "GPT 的对照没通过核对（问了 2 次）：short_term_investments 的行号不存在：[9, 10, 16, 54, 55, 56]；equity_parent 对到的行“Total equity”行名不符合"
- ],
+ "problems": [],
  "processed": "2026-11-23",
  "published": "2026-09-29",
  "restatement_hint": "ing from its pipeline assets. The accumulated achievements represented a pivotal progress as the Company strategically refines its",
@@ -845,9 +926,92 @@
    "unit_text": "For the six months ended 30 June 2026\nSix months ended 30 June\nNOTES 2026 2025\nRMB'000 RMB'000\n(unaudited) (unaudited)\nFor the six months ended 30 June 2026\nSix months ended 30 June\nNOTES 2026 2025\nRMB'000 RMB'000\n(unaudited) (unaudited)\nRevenue from contracts with customers 4 8,617,801 5,953,094\nCost of sales (1,296,044) (833,452)\nGross profit 7,321,757 5,119,642\nOther income 5 413,359 238,865\nOther gains and losses 6 178,709 1,043\nResearch and development expenses (1,683,708) (1,008,799)\nAdministrative and other expenses (493,949) (442,111)"
   }
  },
- "status": "failed",
+ "status": "ok",
+ "step": {
+  "balance": 0.001,
+  "cashflow": 0.001,
+  "income": 1e-05
+ },
  "style": "ifrs",
  "title": "2026 INTERIM REPORT",
+ "unit": {
+  "currency": "CNY",
+  "eps_unit": "yuan",
+  "scale": 0.001,
+  "text": "RMB'000"
+ },
  "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0929/2026092900476.pdf",
+ "values": {
+  "balance": {
+   "cur": {
+    "cash": 17380.396,
+    "equity_parent": 20745.84,
+    "inventories": 1876.786,
+    "receivables": 1903.161,
+    "short_term_investments": 10768.563,
+    "total_assets": 41616.652,
+    "total_current_assets": 25005.509000000002,
+    "total_current_liabilities": 9324.661,
+    "total_debt": 2291.143,
+    "total_equity": 20745.84,
+    "total_liabilities": 20870.812
+   },
+   "prior": {
+    "cash": 17344.705,
+    "equity_parent": 19356.243000000002,
+    "inventories": 1301.7450000000001,
+    "receivables": 1713.832,
+    "short_term_investments": 7984.360000000001,
+    "total_assets": 37347.839,
+    "total_current_assets": 22013.335,
+    "total_current_liabilities": 8386.565,
+    "total_debt": 2778.771,
+    "total_equity": 19356.243000000002,
+    "total_liabilities": 17991.596
+   }
+  },
+  "cashflow": {
+   "cur": {
+    "buybacks": null,
+    "capex": 184.55,
+    "cfo": 3588.344,
+    "dividends_paid": null
+   },
+   "prior": {
+    "buybacks": null,
+    "capex": 299.219,
+    "cfo": 313.765,
+    "dividends_paid": null
+   }
+  },
+  "income": {
+   "cur": {
+    "cost_of_sales": 1296.044,
+    "eps_diluted": 0.7,
+    "gross_profit": 7321.7570000000005,
+    "income_tax": 358.521,
+    "net_income": 1253.142,
+    "net_income_parent": 1253.142,
+    "operating_income": null,
+    "pretax_income": 1611.663,
+    "revenue": 8617.801,
+    "rnd": 1683.708,
+    "sga": 3729.869
+   },
+   "prior": {
+    "cost_of_sales": 833.452,
+    "eps_diluted": 0.49,
+    "gross_profit": 5119.642,
+    "income_tax": 62.796,
+    "net_income": 834.321,
+    "net_income_parent": 834.321,
+    "operating_income": null,
+    "pretax_income": 897.1170000000001,
+    "revenue": 5953.094,
+    "rnd": 1008.799,
+    "sga": 2817.181
+   }
+  }
+ },
  "warnings": []
 }

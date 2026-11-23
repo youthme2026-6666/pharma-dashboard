@@ -1,8 +1,86 @@
 {
- "check_version": 2,
+ "check_version": 3,
  "doc": "2024-H1-rep",
  "fiscal_year": 2024,
- "gpt_answer": {
+ "kind": "report",
+ "mapping": {
+  "balance": {
+   "cash": [
+    12
+   ],
+   "inventories": [
+    8
+   ],
+   "receivables": [
+    9
+   ],
+   "short_term_investments": [
+    6,
+    11
+   ],
+   "total_assets": [
+    7,
+    13
+   ],
+   "total_current_assets": [
+    13
+   ],
+   "total_current_liabilities": [
+    19
+   ],
+   "total_debt": [
+    17,
+    23
+   ],
+   "total_equity": [
+    32
+   ],
+   "total_liabilities": [
+    19,
+    28
+   ]
+  },
+  "cashflow": {
+   "capex": [
+    31,
+    33
+   ],
+   "cfo": [
+    25
+   ]
+  },
+  "income": {
+   "cost_of_sales": [
+    1
+   ],
+   "eps_diluted": [
+    18
+   ],
+   "gross_profit": [
+    2
+   ],
+   "income_tax": [
+    11
+   ],
+   "net_income": [
+    12
+   ],
+   "pretax_income": [
+    10
+   ],
+   "revenue": [
+    0
+   ],
+   "rnd": [
+    5
+   ],
+   "sga": [
+    6,
+    7
+   ]
+  }
+ },
+ "mapping_labels": {
   "balance": {
    "cash": [
     "Bank balances and cash"
@@ -12,6 +90,10 @@
    ],
    "receivables": [
     "Trade receivables"
+   ],
+   "short_term_investments": [
+    "Other financial assets",
+    "Other financial assets"
    ],
    "total_assets": [
     "[小计] Non-current assets",
@@ -75,14 +157,11 @@
    ]
   }
  },
- "kind": "report",
- "mapping_source": "GPT 对照",
+ "mapping_source": "沿用 2024-H1-ann 的对照（版式相同）；GPT 对照",
  "months": 6,
  "parse_version": 1,
  "period_end": "2024-06-30",
- "problems": [
-  "GPT 的对照没通过核对（问了 2 次）：short_term_investments 只能对一行：[6, 11]；equity_parent 对到的行“Reserves”行名不符合"
- ],
+ "problems": [],
  "processed": "2026-11-23",
  "published": "2024-09-27",
  "restatement_hint": "SH AND CASH EQUIVALENTS AT 30 JUNE, 1,713,957 1,332,265 Represented by: Bank balances and cash 8,165,264 7,655,657 Less: Term",
@@ -801,9 +880,92 @@
    "unit_text": "For the six months ended 30 June 2024\nSix months ended 30 June\nNOTES 2024 2023\nRMB'000 RMB'000\n(unaudited) (unaudited)\nFor the six months ended 30 June 2024\nSix months ended 30 June\nNOTES 2024 2023\nRMB'000 RMB'000\n(unaudited) (unaudited)\nRevenue from contracts with customers 4 3,952,291 2,701,532\nCost of sales (677,551) (504,615)\nGross profit 3,274,740 2,196,917\nOther income 300,606 232,421\nOther gains and losses 5 85,516 280,607\nResearch and development expenses (1,399,432) (922,817)\nAdministrative and other expenses (319,801) (368,388)"
   }
  },
- "status": "failed",
+ "status": "ok",
+ "step": {
+  "balance": 0.001,
+  "cashflow": 0.001,
+  "income": 1e-05
+ },
  "style": "ifrs",
  "title": "2024 INTERIM REPORT",
+ "unit": {
+  "currency": "CNY",
+  "eps_unit": "yuan",
+  "scale": 0.001,
+  "text": "RMB'000"
+ },
  "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0927/2024092700583.pdf",
+ "values": {
+  "balance": {
+   "cur": {
+    "cash": 8165.264,
+    "equity_parent": 12426.374,
+    "inventories": 690.4110000000001,
+    "receivables": 1368.94,
+    "short_term_investments": 2559.125,
+    "total_assets": 20295.696,
+    "total_current_assets": 11048.658,
+    "total_current_liabilities": 4127.57,
+    "total_debt": 3205.41,
+    "total_equity": 12426.374,
+    "total_liabilities": 7869.322
+   },
+   "prior": {
+    "cash": 10052.095,
+    "equity_parent": 12527.581,
+    "inventories": 968.088,
+    "receivables": 1005.8910000000001,
+    "short_term_investments": 1493.3220000000001,
+    "total_assets": 20627.36,
+    "total_current_assets": 13427.985,
+    "total_current_liabilities": 4476.816,
+    "total_debt": 3521.9320000000002,
+    "total_equity": 12527.581,
+    "total_liabilities": 8099.779
+   }
+  },
+  "cashflow": {
+   "cur": {
+    "buybacks": null,
+    "capex": 769.22,
+    "cfo": -215.63400000000001,
+    "dividends_paid": null
+   },
+   "prior": {
+    "buybacks": null,
+    "capex": 626.4060000000001,
+    "cfo": -622.891,
+    "dividends_paid": null
+   }
+  },
+  "income": {
+   "cur": {
+    "cost_of_sales": 677.551,
+    "eps_diluted": -0.24,
+    "gross_profit": 3274.7400000000002,
+    "income_tax": 0.035,
+    "net_income": -392.62,
+    "net_income_parent": -392.62,
+    "operating_income": null,
+    "pretax_income": -392.58500000000004,
+    "revenue": 3952.291,
+    "rnd": 1399.432,
+    "sga": 2199.157
+   },
+   "prior": {
+    "cost_of_sales": 504.615,
+    "eps_diluted": -0.09,
+    "gross_profit": 2196.917,
+    "income_tax": -116.96000000000001,
+    "net_income": -139.149,
+    "net_income_parent": -139.149,
+    "operating_income": null,
+    "pretax_income": -256.109,
+    "revenue": 2701.532,
+    "rnd": 922.817,
+    "sga": 1715.8020000000001
+   }
+  }
+ },
  "warnings": []
 }

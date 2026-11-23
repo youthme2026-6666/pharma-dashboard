@@ -1,8 +1,76 @@
 {
- "check_version": 2,
+ "check_version": 3,
  "doc": "2023-H1-ann",
  "fiscal_year": 2023,
- "gpt_answer": {
+ "kind": "announcement",
+ "mapping": {
+  "balance": {
+   "cash": [
+    12
+   ],
+   "inventories": [
+    8
+   ],
+   "receivables": [
+    9
+   ],
+   "short_term_investments": [
+    11
+   ],
+   "total_assets": [
+    7,
+    13
+   ],
+   "total_current_assets": [
+    13
+   ],
+   "total_current_liabilities": [
+    20
+   ],
+   "total_debt": [
+    17,
+    24
+   ],
+   "total_equity": [
+    32
+   ],
+   "total_liabilities": [
+    20,
+    28
+   ]
+  },
+  "income": {
+   "cost_of_sales": [
+    1
+   ],
+   "eps_diluted": [
+    18
+   ],
+   "gross_profit": [
+    2
+   ],
+   "income_tax": [
+    11
+   ],
+   "net_income": [
+    12
+   ],
+   "pretax_income": [
+    10
+   ],
+   "revenue": [
+    0
+   ],
+   "rnd": [
+    5
+   ],
+   "sga": [
+    6,
+    7
+   ]
+  }
+ },
+ "mapping_labels": {
   "balance": {
    "cash": [
     "Bank balances and cash"
@@ -69,14 +137,11 @@
    ]
   }
  },
- "kind": "announcement",
  "mapping_source": "GPT 对照",
  "months": 6,
  "parse_version": 1,
  "period_end": "2023-06-30",
- "problems": [
-  "GPT 的对照没通过核对（问了 2 次）：equity_parent 对到的行“Reserves”行名不符合"
- ],
+ "problems": [],
  "processed": "2026-11-23",
  "published": "2023-08-23",
  "restatement_hint": "",
@@ -435,9 +500,77 @@
    "unit_text": "For the six months ended 30 June 2023\nSix months ended 30 June\nNOTES 2023 2022\nRMB'000 RMB'000\n(unaudited) (unaudited)\nFor the six months ended 30 June 2023\nSix months ended 30 June\nNOTES 2023 2022\nRMB'000 RMB'000\n(unaudited) (unaudited)\nRevenue from contracts with customers 4 2,701,532 2,239,599\nCost of sales (504,615) (471,528)\nGross profit 2,196,917 1,768,071\nOther income 232,421 104,959\nOther gains and losses 280,607 389,621\nResearch and development expenses (922,817) (1,174,450)\nAdministrative and other expenses (368,388) (407,795)"
   }
  },
- "status": "failed",
+ "status": "ok",
+ "step": {
+  "balance": 0.001,
+  "income": 1e-05
+ },
  "style": "ifrs",
  "title": "INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2023",
+ "unit": {
+  "currency": "CNY",
+  "eps_unit": "yuan",
+  "scale": 0.001,
+  "text": "RMB'000"
+ },
  "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2023/0823/2023082300418.pdf",
+ "values": {
+  "balance": {
+   "cur": {
+    "cash": 7655.657,
+    "equity_parent": 10783.217,
+    "inventories": 1300.027,
+    "receivables": 1015.5020000000001,
+    "short_term_investments": 870.837,
+    "total_assets": 17897.036,
+    "total_current_assets": 11385.307,
+    "total_current_liabilities": 2872.464,
+    "total_debt": 3338.5660000000003,
+    "total_equity": 10783.217,
+    "total_liabilities": 7113.819
+   },
+   "prior": {
+    "cash": 9162.823,
+    "equity_parent": 10729.949,
+    "inventories": 1428.882,
+    "receivables": 575.269,
+    "short_term_investments": 3.213,
+    "total_assets": 17588.845,
+    "total_current_assets": 11506.708,
+    "total_current_liabilities": 3499.198,
+    "total_debt": 3103.433,
+    "total_equity": 10729.949,
+    "total_liabilities": 6858.896
+   }
+  },
+  "income": {
+   "cur": {
+    "cost_of_sales": 504.615,
+    "eps_diluted": -0.09,
+    "gross_profit": 2196.917,
+    "income_tax": -116.96000000000001,
+    "net_income": -139.149,
+    "net_income_parent": -139.149,
+    "operating_income": null,
+    "pretax_income": -256.109,
+    "revenue": 2701.532,
+    "rnd": 922.817,
+    "sga": 1715.8020000000001
+   },
+   "prior": {
+    "cost_of_sales": 471.528,
+    "eps_diluted": -0.65,
+    "gross_profit": 1768.0710000000001,
+    "income_tax": -48.444,
+    "net_income": -950.4680000000001,
+    "net_income_parent": -950.4680000000001,
+    "operating_income": null,
+    "pretax_income": -998.912,
+    "revenue": 2239.599,
+    "rnd": 1174.45,
+    "sga": 1805.6970000000001
+   }
+  }
+ },
  "warnings": []
 }

@@ -1,8 +1,86 @@
 {
- "check_version": 2,
+ "check_version": 3,
  "doc": "2023-FY-rep",
  "fiscal_year": 2023,
- "gpt_answer": {
+ "kind": "report",
+ "mapping": {
+  "balance": {
+   "cash": [
+    12
+   ],
+   "inventories": [
+    8
+   ],
+   "receivables": [
+    9
+   ],
+   "short_term_investments": [
+    6,
+    11
+   ],
+   "total_assets": [
+    7,
+    13
+   ],
+   "total_current_assets": [
+    13
+   ],
+   "total_current_liabilities": [
+    20
+   ],
+   "total_debt": [
+    17,
+    24
+   ],
+   "total_equity": [
+    32
+   ],
+   "total_liabilities": [
+    20,
+    28
+   ]
+  },
+  "cashflow": {
+   "capex": [
+    32,
+    37
+   ],
+   "cfo": [
+    28
+   ]
+  },
+  "income": {
+   "cost_of_sales": [
+    1
+   ],
+   "eps_diluted": [
+    18
+   ],
+   "gross_profit": [
+    2
+   ],
+   "income_tax": [
+    11
+   ],
+   "net_income": [
+    12
+   ],
+   "pretax_income": [
+    10
+   ],
+   "revenue": [
+    0
+   ],
+   "rnd": [
+    5
+   ],
+   "sga": [
+    6,
+    7
+   ]
+  }
+ },
+ "mapping_labels": {
   "balance": {
    "cash": [
     "Bank balances and cash"
@@ -14,6 +92,7 @@
     "Trade receivables"
    ],
    "short_term_investments": [
+    "Other financial assets",
     "Other financial assets"
    ],
    "total_assets": [
@@ -78,14 +157,11 @@
    ]
   }
  },
- "kind": "report",
- "mapping_source": "GPT 对照",
+ "mapping_source": "沿用 2023-FY-ann 的对照（版式相同）；GPT 对照",
  "months": 12,
  "parse_version": 1,
  "period_end": "2023-12-31",
- "problems": [
-  "GPT 的对照没通过核对（问了 2 次）：equity_parent 对到的行“Reserves”行名不符合"
- ],
+ "problems": [],
  "processed": "2026-11-23",
  "published": "2024-04-29",
  "restatement_hint": "June 2023, the Company adopted the fourteenth amended and restated memorandum and articles of association of the Company in s",
@@ -809,9 +885,92 @@
    "unit_text": "For the year end 31 December 2023\nNOTES 2023 2022\nRMB'000 RMB'000\nFor the year end 31 December 2023\nNOTES 2023 2022\nRMB'000 RMB'000\nRevenue from contracts with customers 5 6,206,070 4,556,380\nCost of sales (1,136,266) (930,990)\nGross profit 5,069,804 3,625,390\nOther income 6 552,350 279,735\nOther gains and losses 7 81,164 774,340\nResearch and development expenses (2,227,556) (2,871,220)\nAdministrative and other expenses (750,278) (835,488)\nSelling and marketing expenses (3,100,693) (2,590,765)\nRoyalties and other related payments (670,578) (450,763)"
   }
  },
- "status": "failed",
+ "status": "ok",
+ "step": {
+  "balance": 0.001,
+  "cashflow": 0.001,
+  "income": 1e-05
+ },
  "style": "ifrs",
  "title": "2023 ANNUAL REPORT",
+ "unit": {
+  "currency": "CNY",
+  "eps_unit": "yuan",
+  "scale": 0.001,
+  "text": "RMB'000"
+ },
  "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0429/2024042905755.pdf",
+ "values": {
+  "balance": {
+   "cur": {
+    "cash": 10052.095,
+    "equity_parent": 12527.581,
+    "inventories": 968.088,
+    "receivables": 1005.8910000000001,
+    "short_term_investments": 1493.3220000000001,
+    "total_assets": 20627.36,
+    "total_current_assets": 13427.985,
+    "total_current_liabilities": 4476.816,
+    "total_debt": 3521.9320000000002,
+    "total_equity": 12527.581,
+    "total_liabilities": 8099.779
+   },
+   "prior": {
+    "cash": 9162.823,
+    "equity_parent": 10729.949,
+    "inventories": 1428.882,
+    "receivables": 575.269,
+    "short_term_investments": 430.84000000000003,
+    "total_assets": 17588.845,
+    "total_current_assets": 11506.708,
+    "total_current_liabilities": 3499.198,
+    "total_debt": 3103.433,
+    "total_equity": 10729.949,
+    "total_liabilities": 6858.896
+   }
+  },
+  "cashflow": {
+   "cur": {
+    "buybacks": null,
+    "capex": 1381.7350000000001,
+    "cfo": 147.81,
+    "dividends_paid": null
+   },
+   "prior": {
+    "buybacks": null,
+    "capex": 1365.5,
+    "cfo": -1918.804,
+    "dividends_paid": null
+   }
+  },
+  "income": {
+   "cur": {
+    "cost_of_sales": 1136.266,
+    "eps_diluted": -0.66,
+    "gross_profit": 5069.804,
+    "income_tax": -116.498,
+    "net_income": -1027.913,
+    "net_income_parent": -1027.913,
+    "operating_income": null,
+    "pretax_income": -1144.411,
+    "revenue": 6206.07,
+    "rnd": 2227.556,
+    "sga": 3850.971
+   },
+   "prior": {
+    "cost_of_sales": 930.99,
+    "eps_diluted": -1.46,
+    "gross_profit": 3625.39,
+    "income_tax": 8.801,
+    "net_income": -2179.27,
+    "net_income_parent": -2179.27,
+    "operating_income": null,
+    "pretax_income": -2170.469,
+    "revenue": 4556.38,
+    "rnd": 2871.2200000000003,
+    "sga": 3426.253
+   }
+  }
+ },
  "warnings": []
 }

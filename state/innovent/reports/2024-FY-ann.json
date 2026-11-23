@@ -1,8 +1,77 @@
 {
- "check_version": 2,
+ "check_version": 3,
  "doc": "2024-FY-ann",
  "fiscal_year": 2024,
- "gpt_answer": {
+ "kind": "announcement",
+ "mapping": {
+  "balance": {
+   "cash": [
+    14
+   ],
+   "inventories": [
+    10
+   ],
+   "receivables": [
+    11
+   ],
+   "short_term_investments": [
+    7,
+    13
+   ],
+   "total_assets": [
+    9,
+    15
+   ],
+   "total_current_assets": [
+    15
+   ],
+   "total_current_liabilities": [
+    21
+   ],
+   "total_debt": [
+    19,
+    25
+   ],
+   "total_equity": [
+    34
+   ],
+   "total_liabilities": [
+    21,
+    30
+   ]
+  },
+  "income": {
+   "cost_of_sales": [
+    1
+   ],
+   "eps_diluted": [
+    19
+   ],
+   "gross_profit": [
+    2
+   ],
+   "income_tax": [
+    12
+   ],
+   "net_income": [
+    13
+   ],
+   "pretax_income": [
+    11
+   ],
+   "revenue": [
+    0
+   ],
+   "rnd": [
+    5
+   ],
+   "sga": [
+    6,
+    7
+   ]
+  }
+ },
+ "mapping_labels": {
   "balance": {
    "cash": [
     "Bank balances and cash"
@@ -14,6 +83,7 @@
     "Trade receivables"
    ],
    "short_term_investments": [
+    "Other financial assets",
     "Other financial assets"
    ],
    "total_assets": [
@@ -69,14 +139,11 @@
    ]
   }
  },
- "kind": "announcement",
  "mapping_source": "GPT 对照",
  "months": 12,
  "parse_version": 1,
  "period_end": "2024-12-31",
- "problems": [
-  "GPT 的对照没通过核对（问了 2 次）：equity_parent 对到的行“Reserves”行名不符合"
- ],
+ "problems": [],
  "processed": "2026-11-23",
  "published": "2025-03-26",
  "restatement_hint": "",
@@ -448,9 +515,77 @@
    "unit_text": "2024 2023\nNOTES RMB'000 RMB'000\n2024 2023\nNOTES RMB'000 RMB'000\nRevenue from contracts with customers 4 9,421,888 6,206,070\nCost of sales (1,510,210) (1,136,266)\nGross profit 7,911,678 5,069,804\nOther income 535,907 552,350\nOther gains and losses 5 250,000 81,164\nResearch and development expenses (2,681,074) (2,227,556)\nAdministrative and other expenses (738,046) (750,278)\nSelling and marketing expenses (4,346,892) (3,100,693)\nRoyalties and other related payments (901,538) (670,578)\nShare of results of an associate (41,009) –"
   }
  },
- "status": "failed",
+ "status": "ok",
+ "step": {
+  "balance": 0.001,
+  "income": 1e-05
+ },
  "style": "ifrs",
  "title": "ANNUAL RESULTS ANNOUNCEMENT FOR THE YEAR ENDED 31 DECEMBER 2024",
+ "unit": {
+  "currency": "CNY",
+  "eps_unit": "yuan",
+  "scale": 0.001,
+  "text": "RMB'000"
+ },
  "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0326/2025032600777.pdf",
+ "values": {
+  "balance": {
+   "cur": {
+    "cash": 7508.185,
+    "equity_parent": 13117.729000000001,
+    "inventories": 822.167,
+    "receivables": 1184.407,
+    "short_term_investments": 3142.46,
+    "total_assets": 21602.602,
+    "total_current_assets": 10272.837,
+    "total_current_liabilities": 4368.869,
+    "total_debt": 2817.454,
+    "total_equity": 13117.729000000001,
+    "total_liabilities": 8484.873
+   },
+   "prior": {
+    "cash": 10052.095,
+    "equity_parent": 12527.581,
+    "inventories": 968.088,
+    "receivables": 1005.8910000000001,
+    "short_term_investments": 1493.3220000000001,
+    "total_assets": 20627.36,
+    "total_current_assets": 13427.985,
+    "total_current_liabilities": 4476.816,
+    "total_debt": 3521.9320000000002,
+    "total_equity": 12527.581,
+    "total_liabilities": 8099.779
+   }
+  },
+  "income": {
+   "cur": {
+    "cost_of_sales": 1510.21,
+    "eps_diluted": -0.06,
+    "gross_profit": 7911.678,
+    "income_tax": 16.01,
+    "net_income": -94.631,
+    "net_income_parent": -94.631,
+    "operating_income": null,
+    "pretax_income": -78.621,
+    "revenue": 9421.888,
+    "rnd": 2681.074,
+    "sga": 5084.938
+   },
+   "prior": {
+    "cost_of_sales": 1136.266,
+    "eps_diluted": -0.66,
+    "gross_profit": 5069.804,
+    "income_tax": -116.498,
+    "net_income": -1027.913,
+    "net_income_parent": -1027.913,
+    "operating_income": null,
+    "pretax_income": -1144.411,
+    "revenue": 6206.07,
+    "rnd": 2227.556,
+    "sga": 3850.971
+   }
+  }
+ },
  "warnings": []
 }

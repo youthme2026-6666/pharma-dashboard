@@ -1,5 +1,5 @@
 {
- "check_version": 2,
+ "check_version": 3,
  "doc": "2023-H1-rep",
  "fiscal_year": 2023,
  "kind": "report",
@@ -85,7 +85,7 @@
    ]
   }
  },
- "mapping_source": "GPT 对照",
+ "mapping_source": "沿用本报告原有的对照",
  "months": 6,
  "parse_version": 1,
  "period_end": "2023-06-30",
@@ -639,7 +639,7 @@
     "gross_profit": 2196.917,
     "income_tax": -116.96000000000001,
     "net_income": -139.149,
-    "net_income_parent": null,
+    "net_income_parent": -139.149,
     "operating_income": null,
     "pretax_income": -256.109,
     "revenue": 2701.532,
@@ -652,7 +652,7 @@
     "gross_profit": 1768.0710000000001,
     "income_tax": -48.444,
     "net_income": -950.4680000000001,
-    "net_income_parent": null,
+    "net_income_parent": -950.4680000000001,
     "operating_income": null,
     "pretax_income": -998.912,
     "revenue": 2239.599,

@@ -1,8 +1,77 @@
 {
- "check_version": 2,
+ "check_version": 3,
  "doc": "2025-H1-ann",
  "fiscal_year": 2025,
- "gpt_answer": {
+ "kind": "announcement",
+ "mapping": {
+  "balance": {
+   "cash": [
+    13
+   ],
+   "inventories": [
+    9
+   ],
+   "receivables": [
+    10
+   ],
+   "short_term_investments": [
+    6,
+    12
+   ],
+   "total_assets": [
+    8,
+    14
+   ],
+   "total_current_assets": [
+    14
+   ],
+   "total_current_liabilities": [
+    21
+   ],
+   "total_debt": [
+    19,
+    25
+   ],
+   "total_equity": [
+    34
+   ],
+   "total_liabilities": [
+    21,
+    30
+   ]
+  },
+  "income": {
+   "cost_of_sales": [
+    1
+   ],
+   "eps_diluted": [
+    19
+   ],
+   "gross_profit": [
+    2
+   ],
+   "income_tax": [
+    12
+   ],
+   "net_income": [
+    13
+   ],
+   "pretax_income": [
+    11
+   ],
+   "revenue": [
+    0
+   ],
+   "rnd": [
+    5
+   ],
+   "sga": [
+    6,
+    7
+   ]
+  }
+ },
+ "mapping_labels": {
   "balance": {
    "cash": [
     "Bank balances and cash"
@@ -14,6 +83,7 @@
     "Trade receivables"
    ],
    "short_term_investments": [
+    "Other financial assets",
     "Other financial assets"
    ],
    "total_assets": [
@@ -69,14 +139,11 @@
    ]
   }
  },
- "kind": "announcement",
  "mapping_source": "GPT 对照",
  "months": 6,
  "parse_version": 1,
  "period_end": "2025-06-30",
- "problems": [
-  "GPT 的对照没通过核对（问了 2 次）：equity_parent 对到的行“Reserves”行名不符合"
- ],
+ "problems": [],
  "processed": "2026-11-23",
  "published": "2025-08-27",
  "restatement_hint": "",
@@ -453,9 +520,77 @@
    "unit_text": "For the Six months ended 30 June 2025\nSix months ended 30 June\nNOTES 2025 2024\nRMB'000 RMB'000\n(unaudited) (unaudited)\nFor the Six months ended 30 June 2025\nSix months ended 30 June\nNOTES 2025 2024\nRMB'000 RMB'000\n(unaudited) (unaudited)\nRevenue from contracts with customers 4 5,953,094 3,952,291\nCost of sales (833,452) (677,551)\nGross profit 5,119,642 3,274,740\nOther income 238,865 300,606\nOther gains and losses 1,043 85,516\nResearch and development expenses (1,008,799) (1,399,432)\nAdministrative and other expenses (442,111) (319,801)"
   }
  },
- "status": "failed",
+ "status": "ok",
+ "step": {
+  "balance": 0.001,
+  "income": 1e-05
+ },
  "style": "ifrs",
  "title": "INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2025",
+ "unit": {
+  "currency": "CNY",
+  "eps_unit": "yuan",
+  "scale": 0.001,
+  "text": "RMB'000"
+ },
  "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0827/2025082700860.pdf",
+ "values": {
+  "balance": {
+   "cur": {
+    "cash": 9540.139000000001,
+    "equity_parent": 14421.82,
+    "inventories": 1128.113,
+    "receivables": 1722.353,
+    "short_term_investments": 1719.362,
+    "total_assets": 23594.272,
+    "total_current_assets": 13092.874,
+    "total_current_liabilities": 5012.466,
+    "total_debt": 3371.62,
+    "total_equity": 14421.82,
+    "total_liabilities": 9172.452
+   },
+   "prior": {
+    "cash": 7508.185,
+    "equity_parent": 13117.729000000001,
+    "inventories": 822.167,
+    "receivables": 1184.407,
+    "short_term_investments": 3142.46,
+    "total_assets": 21602.602,
+    "total_current_assets": 10272.837,
+    "total_current_liabilities": 4368.869,
+    "total_debt": 2817.454,
+    "total_equity": 13117.729000000001,
+    "total_liabilities": 8484.873
+   }
+  },
+  "income": {
+   "cur": {
+    "cost_of_sales": 833.452,
+    "eps_diluted": 0.49,
+    "gross_profit": 5119.642,
+    "income_tax": 62.796,
+    "net_income": 834.321,
+    "net_income_parent": 834.321,
+    "operating_income": null,
+    "pretax_income": 897.1170000000001,
+    "revenue": 5953.094,
+    "rnd": 1008.799,
+    "sga": 2817.181
+   },
+   "prior": {
+    "cost_of_sales": 677.551,
+    "eps_diluted": -0.24,
+    "gross_profit": 3274.7400000000002,
+    "income_tax": 0.035,
+    "net_income": -392.62,
+    "net_income_parent": -392.62,
+    "operating_income": null,
+    "pretax_income": -392.58500000000004,
+    "revenue": 3952.291,
+    "rnd": 1399.432,
+    "sga": 2199.157
+   }
+  }
+ },
  "warnings": []
 }
