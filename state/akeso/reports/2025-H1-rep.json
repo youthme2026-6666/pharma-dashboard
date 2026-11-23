@@ -1,0 +1,1055 @@
+{
+ "check_version": 3,
+ "doc": "2025-H1-rep",
+ "fiscal_year": 2025,
+ "kind": "report",
+ "mapping": {
+  "balance": {
+   "cash": [
+    12
+   ],
+   "equity_parent": [
+    32
+   ],
+   "inventories": [
+    8
+   ],
+   "receivables": [
+    9
+   ],
+   "short_term_investments": [
+    11
+   ],
+   "total_assets": [
+    7,
+    13
+   ],
+   "total_current_assets": [
+    13
+   ],
+   "total_current_liabilities": [
+    19
+   ],
+   "total_debt": [
+    16,
+    22
+   ],
+   "total_equity": [
+    34
+   ],
+   "total_liabilities": [
+    19,
+    27
+   ]
+  },
+  "cashflow": {
+   "capex": [
+    30,
+    31
+   ],
+   "cfo": [
+    28
+   ]
+  },
+  "income": {
+   "cost_of_sales": [
+    5
+   ],
+   "eps_diluted": [
+    30
+   ],
+   "gross_profit": [
+    6
+   ],
+   "income_tax": [
+    15
+   ],
+   "net_income": [
+    16
+   ],
+   "net_income_parent": [
+    23
+   ],
+   "pretax_income": [
+    14
+   ],
+   "revenue": [
+    4
+   ],
+   "rnd": [
+    8
+   ],
+   "sga": [
+    9,
+    10
+   ]
+  }
+ },
+ "mapping_labels": {
+  "balance": {
+   "cash": [
+    "Cash and bank balances"
+   ],
+   "equity_parent": [
+    "[小计] Equity attributable to owners of the parent"
+   ],
+   "inventories": [
+    "Inventories"
+   ],
+   "receivables": [
+    "Trade receivables"
+   ],
+   "short_term_investments": [
+    "Financial assets at fair value through profit or loss"
+   ],
+   "total_assets": [
+    "Total non-current assets",
+    "Total current assets"
+   ],
+   "total_current_assets": [
+    "Total current assets"
+   ],
+   "total_current_liabilities": [
+    "Total current liabilities"
+   ],
+   "total_debt": [
+    "Interest-bearing bank and other borrowings",
+    "Interest-bearing bank and other borrowings"
+   ],
+   "total_equity": [
+    "Total equity"
+   ],
+   "total_liabilities": [
+    "Total current liabilities",
+    "Total non-current liabilities"
+   ]
+  },
+  "cashflow": {
+   "capex": [
+    "Purchases of items of property, plant and equipment",
+    "Purchases of intangible assets"
+   ],
+   "cfo": [
+    "Net cash flows used in operating activities"
+   ]
+  },
+  "income": {
+   "cost_of_sales": [
+    "Cost of sales"
+   ],
+   "eps_diluted": [
+    "Diluted — For loss for the period"
+   ],
+   "gross_profit": [
+    "Gross profit"
+   ],
+   "income_tax": [
+    "Income tax expense"
+   ],
+   "net_income": [
+    "LOSS FOR THE PERIOD"
+   ],
+   "net_income_parent": [
+    "Owners of the parent"
+   ],
+   "pretax_income": [
+    "LOSS BEFORE TAX"
+   ],
+   "revenue": [
+    "REVENUE"
+   ],
+   "rnd": [
+    "Research and development expenses"
+   ],
+   "sga": [
+    "Selling and marketing expenses",
+    "Administrative expenses"
+   ]
+  }
+ },
+ "mapping_source": "沿用 2025-H1-ann 的对照（版式相同）；GPT 对照（第 2 次才通过核对）",
+ "months": 6,
+ "parse_version": 1,
+ "period_end": "2025-06-30",
+ "problems": [],
+ "processed": "2026-11-23",
+ "published": "2025-09-30",
+ "restatement_hint": "",
+ "signatures": {
+  "balance": "76c669f9eafab598",
+  "cashflow": "7453b6a59a035add",
+  "income": "4e7b700419a9b6ed"
+ },
+ "statements": {
+  "balance": {
+   "bad": [],
+   "eps_cents": false,
+   "header": [
+    "30 June 2025",
+    "30 June 31 December",
+    "2025 2024",
+    "Notes RMB'000 RMB'000",
+    "(Unaudited) (Audited)",
+    "NON-CURRENT ASSETS"
+   ],
+   "lines": [
+    [
+     "Property, plant and equipment",
+     "NON-CURRENT ASSETS",
+     "3,458,075",
+     "3,230,686"
+    ],
+    [
+     "Right-of-use assets",
+     "NON-CURRENT ASSETS",
+     "320,415",
+     "319,514"
+    ],
+    [
+     "Intangible assets",
+     "NON-CURRENT ASSETS",
+     "11,121",
+     "11,802"
+    ],
+    [
+     "Financial assets at fair value through profit or loss",
+     "NON-CURRENT ASSETS",
+     "20,139",
+     "16,314"
+    ],
+    [
+     "Equity investment designated at fair value through other comprehensive income",
+     "NON-CURRENT ASSETS",
+     "20,703",
+     "–"
+    ],
+    [
+     "Long-term equity investment — Summit Therapeutics Inc.",
+     "NON-CURRENT ASSETS",
+     "356,631",
+     "398,495"
+    ],
+    [
+     "Other non-current assets",
+     "NON-CURRENT ASSETS",
+     "161,854",
+     "86,569"
+    ],
+    [
+     "Total non-current assets",
+     "NON-CURRENT ASSETS",
+     "4,348,938",
+     "4,063,380"
+    ],
+    [
+     "Inventories",
+     "CURRENT ASSETS",
+     "847,455",
+     "706,533"
+    ],
+    [
+     "Trade receivables",
+     "CURRENT ASSETS",
+     "809,095",
+     "524,911"
+    ],
+    [
+     "Prepayments, other receivables and other assets",
+     "CURRENT ASSETS",
+     "143,889",
+     "116,291"
+    ],
+    [
+     "Financial assets at fair value through profit or loss",
+     "CURRENT ASSETS",
+     "545,393",
+     "425,785"
+    ],
+    [
+     "Cash and bank balances",
+     "CURRENT ASSETS",
+     "6,592,983",
+     "6,918,065"
+    ],
+    [
+     "Total current assets",
+     "CURRENT ASSETS",
+     "8,938,815",
+     "8,691,585"
+    ],
+    [
+     "Trade payables",
+     "CURRENT LIABILITIES",
+     "469,964",
+     "425,193"
+    ],
+    [
+     "Other payables and accruals",
+     "CURRENT LIABILITIES",
+     "1,026,564",
+     "715,143"
+    ],
+    [
+     "Interest-bearing bank and other borrowings",
+     "CURRENT LIABILITIES",
+     "514,447",
+     "535,460"
+    ],
+    [
+     "Lease liabilities",
+     "CURRENT LIABILITIES",
+     "4,279",
+     "9,665"
+    ],
+    [
+     "Tax payable",
+     "CURRENT LIABILITIES",
+     "1,164",
+     "1,169"
+    ],
+    [
+     "Total current liabilities",
+     "CURRENT LIABILITIES",
+     "2,016,418",
+     "1,686,630"
+    ],
+    [
+     "NET CURRENT ASSETS",
+     "CURRENT LIABILITIES",
+     "6,922,397",
+     "7,004,955"
+    ],
+    [
+     "TOTAL ASSETS LESS CURRENT LIABILITIES",
+     "CURRENT LIABILITIES",
+     "11,271,335",
+     "11,068,335"
+    ],
+    [
+     "Interest-bearing bank and other borrowings",
+     "NON-CURRENT LIABILITIES",
+     "4,013,567",
+     "3,406,128"
+    ],
+    [
+     "Contract liabilities",
+     "NON-CURRENT LIABILITIES",
+     "599,945",
+     "617,632"
+    ],
+    [
+     "Lease liabilities",
+     "NON-CURRENT LIABILITIES",
+     "9,615",
+     "674"
+    ],
+    [
+     "Deferred income",
+     "NON-CURRENT LIABILITIES",
+     "291,446",
+     "290,253"
+    ],
+    [
+     "Deferred tax liabilities",
+     "NON-CURRENT LIABILITIES",
+     "162",
+     "174"
+    ],
+    [
+     "Total non-current liabilities",
+     "NON-CURRENT LIABILITIES",
+     "4,914,735",
+     "4,314,861"
+    ],
+    [
+     "Net assets",
+     "NON-CURRENT LIABILITIES",
+     "6,356,600",
+     "6,753,474"
+    ],
+    [
+     "Share capital",
+     "Equity attributable to owners of the parent",
+     "63",
+     "63"
+    ],
+    [
+     "Shares held for restricted share unit schemes",
+     "Equity attributable to owners of the parent",
+     "(48,604)",
+     "(48,604)"
+    ],
+    [
+     "Reserves",
+     "Equity attributable to owners of the parent",
+     "6,483,817",
+     "6,862,494"
+    ],
+    [
+     "[小计] Equity attributable to owners of the parent",
+     "Equity attributable to owners of the parent",
+     "6,435,276",
+     "6,813,953"
+    ],
+    [
+     "Non-controlling interests",
+     "Equity attributable to owners of the parent",
+     "(78,676)",
+     "(60,479)"
+    ],
+    [
+     "Total equity",
+     "Equity attributable to owners of the parent",
+     "6,356,600",
+     "6,753,474"
+    ]
+   ],
+   "pages": [
+    70,
+    71
+   ],
+   "unit_text": "30 June 2025\n30 June 31 December\n2025 2024\nNotes RMB'000 RMB'000\n(Unaudited) (Audited)\nNON-CURRENT ASSETS\n30 June 2025\n30 June 31 December\n2025 2024\nNotes RMB'000 RMB'000\n(Unaudited) (Audited)\nNON-CURRENT ASSETS\nProperty, plant and equipment 10 3,458,075 3,230,686\nRight-of-use assets 11(a) 320,415 319,514\nIntangible assets 11,121 11,802\nFinancial assets at fair value through profit or loss 16 20,139 16,314\nEquity investment designated at fair value through\nother comprehensive income 12 20,703 –"
+  },
+  "cashflow": {
+   "bad": [],
+   "eps_cents": false,
+   "header": [
+    "Six months ended 30 June 2025",
+    "Six months ended 30 June",
+    "2025 2024",
+    "Notes RMB'000 RMB'000",
+    "(Unaudited) (Unaudited)",
+    "CASH FLOWS FROM OPERATING ACTIVITIES"
+   ],
+   "lines": [
+    [
+     "Loss before tax",
+     "CASH FLOWS FROM OPERATING ACTIVITIES",
+     "(587,893)",
+     "(249,348)"
+    ],
+    [
+     "Bank interest income",
+     "Adjustments for:",
+     "(126,011)",
+     "(92,092)"
+    ],
+    [
+     "Investment income from financial products",
+     "Adjustments for:",
+     "(4,343)",
+     "(10,151)"
+    ],
+    [
+     "Loss on disposal of items of property, plant and equipment",
+     "Adjustments for:",
+     "–",
+     "26"
+    ],
+    [
+     "Gain upon lease payment modification",
+     "Adjustments for:",
+     "(100)",
+     "–"
+    ],
+    [
+     "Depreciation of property, plant and equipment",
+     "Adjustments for:",
+     "112,768",
+     "77,918"
+    ],
+    [
+     "Depreciation of right-of-use assets",
+     "Adjustments for:",
+     "9,078",
+     "9,644"
+    ],
+    [
+     "Amortisation of intangible assets",
+     "Adjustments for:",
+     "1,210",
+     "1,270"
+    ],
+    [
+     "Write-down of inventories to net realisable value",
+     "Adjustments for:",
+     "15,718",
+     "5,577"
+    ],
+    [
+     "Net changes in fair value of financial assets",
+     "Adjustments for:",
+     "(7,432)",
+     "(7,869)"
+    ],
+    [
+     "Government grant released",
+     "Adjustments for:",
+     "(18,786)",
+     "(34,563)"
+    ],
+    [
+     "Share of loss of a long-term equity investment — Summit Therapeutics Inc.",
+     "Adjustments for:",
+     "191,697",
+     "32,617"
+    ],
+    [
+     "Foreign exchange differences, net",
+     "Adjustments for:",
+     "18,970",
+     "(27,130)"
+    ],
+    [
+     "Equity-settled share award expenses",
+     "Adjustments for:",
+     "11,463",
+     "9,539"
+    ],
+    [
+     "Equity-settled share option expenses",
+     "Adjustments for:",
+     "17,347",
+     "–"
+    ],
+    [
+     "Finance costs",
+     "Adjustments for:",
+     "63,360",
+     "46,164"
+    ],
+    [
+     "Impairment of trade receivables, net",
+     "Adjustments for:",
+     "741",
+     "1,073"
+    ],
+    [
+     "[小计] Adjustments for:",
+     "Adjustments for:",
+     "(302,213)",
+     "(237,325)"
+    ],
+    [
+     "Increase in inventories",
+     "Adjustments for:",
+     "(156,640)",
+     "(114,075)"
+    ],
+    [
+     "Increase in trade receivables",
+     "Adjustments for:",
+     "(284,925)",
+     "(168,887)"
+    ],
+    [
+     "(Increase)/decrease in prepayments, other receivables and other assets",
+     "Adjustments for:",
+     "(35,098)",
+     "2,811"
+    ],
+    [
+     "Increase in trade payables",
+     "Adjustments for:",
+     "44,771",
+     "44,143"
+    ],
+    [
+     "Increase in other payables and accruals",
+     "Adjustments for:",
+     "367,213",
+     "63,154"
+    ],
+    [
+     "Decrease in contract liabilities",
+     "Adjustments for:",
+     "(17,687)",
+     "(625)"
+    ],
+    [
+     "Increase in deferred income in respect of government grants related to income",
+     "Adjustments for:",
+     "12,381",
+     "26,246"
+    ],
+    [
+     "Cash generated used in operations",
+     "Adjustments for:",
+     "(372,198)",
+     "(384,558)"
+    ],
+    [
+     "Bank interest received",
+     "Adjustments for:",
+     "145,066",
+     "38,055"
+    ],
+    [
+     "Income tax paid",
+     "Adjustments for:",
+     "(373)",
+     "–"
+    ],
+    [
+     "Net cash flows used in operating activities",
+     "Adjustments for:",
+     "(227,505)",
+     "(346,503)"
+    ],
+    [
+     "Net cash flows used in operating activities",
+     "Adjustments for:",
+     "(227,505)",
+     "(346,503)"
+    ],
+    [
+     "Purchases of items of property, plant and equipment",
+     "CASH FLOWS FROM INVESTING ACTIVITIES",
+     "(447,164)",
+     "(244,791)"
+    ],
+    [
+     "Purchases of intangible assets",
+     "CASH FLOWS FROM INVESTING ACTIVITIES",
+     "(529)",
+     "(3,596)"
+    ],
+    [
+     "Proceeds from disposal of items of property, plant and equipment",
+     "CASH FLOWS FROM INVESTING ACTIVITIES",
+     "–",
+     "13"
+    ],
+    [
+     "Receipt of government grants related to assets",
+     "CASH FLOWS FROM INVESTING ACTIVITIES",
+     "7,598",
+     "12,600"
+    ],
+    [
+     "Purchases of financial assets at fair value through profit or loss",
+     "CASH FLOWS FROM INVESTING ACTIVITIES",
+     "(545,129)",
+     "(402,978)"
+    ],
+    [
+     "Proceeds from disposal of financial assets at fair value through profit or loss",
+     "CASH FLOWS FROM INVESTING ACTIVITIES",
+     "427,227",
+     "778,710"
+    ],
+    [
+     "Interest income from financial assets at fair value through profit or loss",
+     "CASH FLOWS FROM INVESTING ACTIVITIES",
+     "5,008",
+     "10,151"
+    ],
+    [
+     "Investment in a financial asset at fair value through other comprehensive income",
+     "CASH FLOWS FROM INVESTING ACTIVITIES",
+     "(9,273)",
+     "–"
+    ],
+    [
+     "(Placement)/withdrawal in time deposits with original maturity of more than three months",
+     "CASH FLOWS FROM INVESTING ACTIVITIES",
+     "(1,142,335)",
+     "77,119"
+    ],
+    [
+     "Increase in restricted deposits",
+     "CASH FLOWS FROM INVESTING ACTIVITIES",
+     "(36,324)",
+     "(8,709)"
+    ],
+    [
+     "Net cash flows (used in)/from investing activities",
+     "CASH FLOWS FROM INVESTING ACTIVITIES",
+     "(1,740,921)",
+     "218,519"
+    ],
+    [
+     "New bank and other borrowings",
+     "CASH FLOWS FROM FINANCING ACTIVITIES",
+     "924,386",
+     "679,417"
+    ],
+    [
+     "Repayment of bank and other borrowings",
+     "CASH FLOWS FROM FINANCING ACTIVITIES",
+     "(352,246)",
+     "(356,794)"
+    ],
+    [
+     "Proceeds from issue of shares",
+     "CASH FLOWS FROM FINANCING ACTIVITIES",
+     "–",
+     "1,071,379"
+    ],
+    [
+     "Share issue expenses",
+     "CASH FLOWS FROM FINANCING ACTIVITIES",
+     "–",
+     "(10,463)"
+    ],
+    [
+     "Acquisition of non-controlling interests",
+     "CASH FLOWS FROM FINANCING ACTIVITIES",
+     "–",
+     "(33,387)"
+    ],
+    [
+     "Increase in restricted deposits for acquisition of non-controlling interests",
+     "CASH FLOWS FROM FINANCING ACTIVITIES",
+     "–",
+     "(234,000)"
+    ],
+    [
+     "Proceeds from exercise of share option",
+     "CASH FLOWS FROM FINANCING ACTIVITIES",
+     "581",
+     "–"
+    ],
+    [
+     "Principal portion of lease payments",
+     "CASH FLOWS FROM FINANCING ACTIVITIES",
+     "(6,527)",
+     "(7,902)"
+    ],
+    [
+     "Interest paid",
+     "CASH FLOWS FROM FINANCING ACTIVITIES",
+     "(60,633)",
+     "(53,864)"
+    ],
+    [
+     "Net cash flows from financing activities",
+     "CASH FLOWS FROM FINANCING ACTIVITIES",
+     "505,561",
+     "1,054,386"
+    ],
+    [
+     "NET (DECREASE)/INCREASE IN CASH AND CASH EQUIVALENTS",
+     "CASH FLOWS FROM FINANCING ACTIVITIES",
+     "(1,462,865)",
+     "926,402"
+    ],
+    [
+     "Cash and cash equivalents at beginning of period",
+     "CASH FLOWS FROM FINANCING ACTIVITIES",
+     "2,915,742",
+     "1,542,313"
+    ],
+    [
+     "Effect of foreign exchange rate changes, net",
+     "CASH FLOWS FROM FINANCING ACTIVITIES",
+     "(21,824)",
+     "18,634"
+    ],
+    [
+     "CASH AND CASH EQUIVALENTS AT END OF PERIOD",
+     "CASH FLOWS FROM FINANCING ACTIVITIES",
+     "1,431,053",
+     "2,487,349"
+    ]
+   ],
+   "pages": [
+    74,
+    75
+   ],
+   "unit_text": "Six months ended 30 June 2025\nSix months ended 30 June\n2025 2024\nNotes RMB'000 RMB'000\n(Unaudited) (Unaudited)\nCASH FLOWS FROM OPERATING ACTIVITIES\nSix months ended 30 June 2025\nSix months ended 30 June\n2025 2024\nNotes RMB'000 RMB'000\n(Unaudited) (Unaudited)\nCASH FLOWS FROM OPERATING ACTIVITIES\nLoss before tax (587,893) (249,348)\nAdjustments for:\nBank interest income 4 (126,011) (92,092)\nInvestment income from financial products 4 (4,343) (10,151)\nLoss on disposal of items of property, plant and equipment 5 – 26\nGain upon lease payment modification 5 (100) –"
+  },
+  "income": {
+   "bad": [],
+   "eps_cents": false,
+   "header": [
+    "For the six months ended 30 June 2025",
+    "Six months ended 30 June",
+    "2025 2024",
+    "Notes RMB'000 RMB'000",
+    "(Unaudited) (Unaudited)"
+   ],
+   "lines": [
+    [
+     "Commercial sales",
+     "",
+     "1,401,622",
+     "970,676"
+    ],
+    [
+     "License income",
+     "",
+     "9,917",
+     "85,318"
+    ],
+    [
+     "Total income from commercial sales and licenses",
+     "",
+     "1,411,539",
+     "1,055,994"
+    ],
+    [
+     "Less: distribution cost",
+     "",
+     "–",
+     "(31,250)"
+    ],
+    [
+     "REVENUE",
+     "",
+     "1,411,539",
+     "1,024,744"
+    ],
+    [
+     "Cost of sales",
+     "",
+     "(290,863)",
+     "(81,572)"
+    ],
+    [
+     "Gross profit",
+     "",
+     "1,120,676",
+     "943,172"
+    ],
+    [
+     "Other income and gains, net",
+     "",
+     "156,837",
+     "211,811"
+    ],
+    [
+     "Research and development expenses",
+     "",
+     "(731,236)",
+     "(594,393)"
+    ],
+    [
+     "Selling and marketing expenses",
+     "",
+     "(669,939)",
+     "(515,981)"
+    ],
+    [
+     "Administrative expenses",
+     "",
+     "(133,966)",
+     "(99,653)"
+    ],
+    [
+     "Share of loss of a long-term equity investment — Summit Therapeutics Inc.",
+     "",
+     "(191,697)",
+     "(32,617)"
+    ],
+    [
+     "Other expenses, net",
+     "",
+     "(75,208)",
+     "(115,523)"
+    ],
+    [
+     "Finance costs",
+     "",
+     "(63,360)",
+     "(46,164)"
+    ],
+    [
+     "LOSS BEFORE TAX",
+     "",
+     "(587,893)",
+     "(249,348)"
+    ],
+    [
+     "Income tax expense",
+     "",
+     "(385)",
+     "–"
+    ],
+    [
+     "LOSS FOR THE PERIOD",
+     "",
+     "(588,278)",
+     "(249,348)"
+    ],
+    [
+     "Exchange differences on translation of foreign operations",
+     "OTHER COMPREHENSIVE INCOME/(LOSS) profit or loss in subsequent periods:",
+     "34,825",
+     "(39,784)"
+    ],
+    [
+     "Translation from functional currency to presentation currency",
+     "Other comprehensive (loss)/income that will not be reclassified to profit or loss in subsequent periods:",
+     "(36,146)",
+     "39,083"
+    ],
+    [
+     "Equity investment designated at fair value through other comprehensive income: Change in fair value",
+     "Other comprehensive (loss)/income that will not be reclassified to profit or loss in subsequent periods:",
+     "11,460",
+     "–"
+    ],
+    [
+     "[小计] Other comprehensive (loss)/income that will not be reclassified to profit or loss in subsequent periods:",
+     "Other comprehensive (loss)/income that will not be reclassified to profit or loss in subsequent periods:",
+     "(24,686)",
+     "39,083"
+    ],
+    [
+     "OTHER COMPREHENSIVE INCOME/(LOSS) FOR THE PERIOD, NET OF TAX",
+     "Other comprehensive (loss)/income that will not be reclassified to profit or loss in subsequent periods:",
+     "10,139",
+     "(701)"
+    ],
+    [
+     "TOTAL COMPREHENSIVE LOSS FOR THE PERIOD",
+     "Other comprehensive (loss)/income that will not be reclassified to profit or loss in subsequent periods:",
+     "(578,139)",
+     "(250,049)"
+    ],
+    [
+     "Owners of the parent",
+     "Loss attributable to:",
+     "(570,081)",
+     "(238,590)"
+    ],
+    [
+     "Non-controlling interests",
+     "Loss attributable to:",
+     "(18,197)",
+     "(10,758)"
+    ],
+    [
+     "[小计] Loss attributable to:",
+     "Loss attributable to:",
+     "(588,278)",
+     "(249,348)"
+    ],
+    [
+     "Owners of the parent",
+     "Total comprehensive loss attributable to:",
+     "(559,942)",
+     "(239,291)"
+    ],
+    [
+     "Non-controlling interests",
+     "Total comprehensive loss attributable to:",
+     "(18,197)",
+     "(10,758)"
+    ],
+    [
+     "[小计] Total comprehensive loss attributable to:",
+     "Total comprehensive loss attributable to:",
+     "(578,139)",
+     "(250,049)"
+    ],
+    [
+     "Basic — For loss for the period",
+     "LOSS PER SHARE ATTRIBUTABLE TO ORDINARY EQUITY HOLDERS OF THE PARENT",
+     "RMB(0.64)",
+     "RMB(0.28)"
+    ],
+    [
+     "Diluted — For loss for the period",
+     "LOSS PER SHARE ATTRIBUTABLE TO ORDINARY EQUITY HOLDERS OF THE PARENT",
+     "RMB(0.64)",
+     "RMB(0.28)"
+    ]
+   ],
+   "pages": [
+    68,
+    69
+   ],
+   "unit_text": "For the six months ended 30 June 2025\nSix months ended 30 June\n2025 2024\nNotes RMB'000 RMB'000\n(Unaudited) (Unaudited)\nFor the six months ended 30 June 2025\nSix months ended 30 June\n2025 2024\nNotes RMB'000 RMB'000\n(Unaudited) (Unaudited)\nCommercial sales 1,401,622 970,676\nLicense income 9,917 85,318\nTotal income from commercial sales and licenses 1,411,539 1,055,994\nLess: distribution cost – (31,250)\nREVENUE 3 1,411,539 1,024,744\nCost of sales (290,863) (81,572)\nGross profit 1,120,676 943,172"
+  }
+ },
+ "status": "ok",
+ "step": {
+  "balance": 0.001,
+  "cashflow": 0.001,
+  "income": 1e-05
+ },
+ "style": "ifrs",
+ "title": "2025 INTERIM REPORT",
+ "unit": {
+  "currency": "CNY",
+  "eps_unit": "yuan",
+  "scale": 0.001,
+  "text": "RMB'000"
+ },
+ "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0930/2025093000777.pdf",
+ "values": {
+  "balance": {
+   "cur": {
+    "cash": 6592.983,
+    "equity_parent": 6435.276,
+    "inventories": 847.455,
+    "receivables": 809.095,
+    "short_term_investments": 545.393,
+    "total_assets": 13287.753,
+    "total_current_assets": 8938.815,
+    "total_current_liabilities": 2016.4180000000001,
+    "total_debt": 4528.014,
+    "total_equity": 6356.6,
+    "total_liabilities": 6931.153
+   },
+   "prior": {
+    "cash": 6918.0650000000005,
+    "equity_parent": 6813.953,
+    "inventories": 706.533,
+    "receivables": 524.9110000000001,
+    "short_term_investments": 425.785,
+    "total_assets": 12754.965,
+    "total_current_assets": 8691.585000000001,
+    "total_current_liabilities": 1686.63,
+    "total_debt": 3941.588,
+    "total_equity": 6753.474,
+    "total_liabilities": 6001.491
+   }
+  },
+  "cashflow": {
+   "cur": {
+    "buybacks": null,
+    "capex": 447.693,
+    "cfo": -227.505,
+    "dividends_paid": null
+   },
+   "prior": {
+    "buybacks": null,
+    "capex": 248.387,
+    "cfo": -346.503,
+    "dividends_paid": null
+   }
+  },
+  "income": {
+   "cur": {
+    "cost_of_sales": 290.863,
+    "eps_diluted": -0.64,
+    "gross_profit": 1120.676,
+    "income_tax": 0.385,
+    "net_income": -588.278,
+    "net_income_parent": -570.081,
+    "operating_income": null,
+    "pretax_income": -587.893,
+    "revenue": 1411.539,
+    "rnd": 731.236,
+    "sga": 803.905
+   },
+   "prior": {
+    "cost_of_sales": 81.572,
+    "eps_diluted": -0.28,
+    "gross_profit": 943.172,
+    "income_tax": -0.0,
+    "net_income": -249.348,
+    "net_income_parent": -238.59,
+    "operating_income": null,
+    "pretax_income": -249.348,
+    "revenue": 1024.744,
+    "rnd": 594.393,
+    "sga": 615.634
+   }
+  }
+ },
+ "warnings": []
+}

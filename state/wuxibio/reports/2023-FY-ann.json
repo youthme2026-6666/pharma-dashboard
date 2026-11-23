@@ -1,0 +1,694 @@
+{
+ "check_version": 3,
+ "doc": "2023-FY-ann",
+ "fiscal_year": 2023,
+ "kind": "announcement",
+ "mapping": {
+  "balance": {
+   "cash": [
+    21
+   ],
+   "equity_parent": [
+    41
+   ],
+   "inventories": [
+    11
+   ],
+   "short_term_investments": [
+    18,
+    20
+   ],
+   "total_assets": [
+    10,
+    22
+   ],
+   "total_current_assets": [
+    22
+   ],
+   "total_current_liabilities": [
+    29
+   ],
+   "total_debt": [
+    24,
+    33
+   ],
+   "total_equity": [
+    43
+   ],
+   "total_liabilities": [
+    29,
+    37
+   ]
+  },
+  "income": {
+   "cost_of_sales": [
+    1
+   ],
+   "eps_diluted": [
+    26
+   ],
+   "gross_profit": [
+    2
+   ],
+   "income_tax": [
+    12
+   ],
+   "net_income": [
+    13
+   ],
+   "net_income_parent": [
+    19
+   ],
+   "pretax_income": [
+    11
+   ],
+   "revenue": [
+    0
+   ],
+   "rnd": [
+    8
+   ],
+   "sga": [
+    6,
+    7
+   ]
+  }
+ },
+ "mapping_labels": {
+  "balance": {
+   "cash": [
+    "Bank balances and cash"
+   ],
+   "equity_parent": [
+    "Equity attributable to owners of the Company"
+   ],
+   "inventories": [
+    "Inventories"
+   ],
+   "short_term_investments": [
+    "Financial assets at FVTPL",
+    "Time deposits"
+   ],
+   "total_assets": [
+    "[小计] Non-current Asset",
+    "[小计] Current Assets"
+   ],
+   "total_current_assets": [
+    "[小计] Current Assets"
+   ],
+   "total_current_liabilities": [
+    "[小计] Current Liabilities"
+   ],
+   "total_debt": [
+    "Borrowings",
+    "Borrowings"
+   ],
+   "total_equity": [
+    "Total Equity"
+   ],
+   "total_liabilities": [
+    "[小计] Current Liabilities",
+    "[小计] Non-current Liabilities"
+   ]
+  },
+  "income": {
+   "cost_of_sales": [
+    "Cost of sales"
+   ],
+   "eps_diluted": [
+    "— Diluted"
+   ],
+   "gross_profit": [
+    "Gross profit"
+   ],
+   "income_tax": [
+    "Income tax expense"
+   ],
+   "net_income": [
+    "Profit for the year"
+   ],
+   "net_income_parent": [
+    "Owners of the Company"
+   ],
+   "pretax_income": [
+    "Profit before tax"
+   ],
+   "revenue": [
+    "Revenue 4&5"
+   ],
+   "rnd": [
+    "Research and development expenses"
+   ],
+   "sga": [
+    "Selling and marketing expenses",
+    "Administrative expenses"
+   ]
+  }
+ },
+ "mapping_source": "GPT 对照",
+ "months": 12,
+ "parse_version": 1,
+ "period_end": "2023-12-31",
+ "problems": [],
+ "processed": "2026-11-23",
+ "published": "2024-03-26",
+ "restatement_hint": "",
+ "signatures": {
+  "balance": "27f1db178169fc62",
+  "income": "e077476a64b7b78c"
+ },
+ "statements": {
+  "balance": {
+   "bad": [],
+   "eps_cents": false,
+   "header": [
+    "AT DECEMBER 31, 2023",
+    "2023 2022",
+    "NOTES RMB'000 RMB'000",
+    "Non-current Asset"
+   ],
+   "lines": [
+    [
+     "Property, plant and equipment",
+     "Non-current Asset",
+     "27,377,643",
+     "24,170,739"
+    ],
+    [
+     "Right-of-use assets",
+     "Non-current Asset",
+     "2,561,828",
+     "1,745,259"
+    ],
+    [
+     "Goodwill",
+     "Non-current Asset",
+     "1,529,914",
+     "1,529,914"
+    ],
+    [
+     "Intangible assets",
+     "Non-current Asset",
+     "511,834",
+     "548,778"
+    ],
+    [
+     "Investment of an associate measured at fair value through profit or loss (\"FVTPL\")",
+     "Non-current Asset",
+     "1,393,531",
+     "1,581,565"
+    ],
+    [
+     "Equity instruments at FVTOCI",
+     "Non-current Asset",
+     "21,408",
+     "41,470"
+    ],
+    [
+     "Financial assets at FVTPL",
+     "Non-current Asset",
+     "1,519,347",
+     "1,086,176"
+    ],
+    [
+     "Finance lease receivables",
+     "Non-current Asset",
+     "165,503",
+     "109,171"
+    ],
+    [
+     "Deferred tax assets",
+     "Non-current Asset",
+     "235,783",
+     "222,568"
+    ],
+    [
+     "Other long-term deposits and prepayments",
+     "Non-current Asset",
+     "60,686",
+     "58,877"
+    ],
+    [
+     "[小计] Non-current Asset",
+     "Non-current Asset",
+     "35,377,477",
+     "31,094,517"
+    ],
+    [
+     "Inventories",
+     "Current Assets",
+     "1,765,751",
+     "2,280,911"
+    ],
+    [
+     "Finance lease receivables",
+     "Current Assets",
+     "21,575",
+     "14,166"
+    ],
+    [
+     "Trade and other receivables",
+     "Current Assets",
+     "6,292,682",
+     "5,610,363"
+    ],
+    [
+     "Contract assets",
+     "Current Assets",
+     "499,669",
+     "493,566"
+    ],
+    [
+     "Contract costs",
+     "Current Assets",
+     "1,223,701",
+     "1,096,480"
+    ],
+    [
+     "Tax recoverable",
+     "Current Assets",
+     "5,765",
+     "33,442"
+    ],
+    [
+     "Derivative financial assets",
+     "Current Assets",
+     "127,652",
+     "201,243"
+    ],
+    [
+     "Financial assets at FVTPL",
+     "Current Assets",
+     "1,233,598",
+     "2,014,632"
+    ],
+    [
+     "Pledged bank deposits",
+     "Current Assets",
+     "18,017",
+     "25,374"
+    ],
+    [
+     "Time deposits",
+     "Current Assets",
+     "340,000",
+     "304,469"
+    ],
+    [
+     "Bank balances and cash",
+     "Current Assets",
+     "9,669,839",
+     "6,395,222"
+    ],
+    [
+     "[小计] Current Assets",
+     "Current Assets",
+     "21,198,249",
+     "18,469,868"
+    ],
+    [
+     "Trade and other payables",
+     "Current Liabilities",
+     "2,755,774",
+     "3,269,182"
+    ],
+    [
+     "Borrowings",
+     "Current Liabilities",
+     "576,328",
+     "1,321,430"
+    ],
+    [
+     "Contract liabilities",
+     "Current Liabilities",
+     "3,089,762",
+     "3,379,372"
+    ],
+    [
+     "Income tax payable",
+     "Current Liabilities",
+     "618,883",
+     "773,825"
+    ],
+    [
+     "Lease liabilities",
+     "Current Liabilities",
+     "154,980",
+     "149,058"
+    ],
+    [
+     "Derivative financial liabilities",
+     "Current Liabilities",
+     "440,293",
+     "425,730"
+    ],
+    [
+     "[小计] Current Liabilities",
+     "Current Liabilities",
+     "7,636,020",
+     "9,318,597"
+    ],
+    [
+     "Net Current Assets",
+     "Current Liabilities",
+     "13,562,229",
+     "9,151,271"
+    ],
+    [
+     "Total Assets less Current Liabilities",
+     "Current Liabilities",
+     "48,939,706",
+     "40,245,788"
+    ],
+    [
+     "Deferred tax liabilities",
+     "Non-current Liabilities",
+     "122,540",
+     "132,076"
+    ],
+    [
+     "Borrowings",
+     "Non-current Liabilities",
+     "1,571,046",
+     "1,461,563"
+    ],
+    [
+     "Contract liabilities",
+     "Non-current Liabilities",
+     "711,216",
+     "711,541"
+    ],
+    [
+     "Lease liabilities",
+     "Non-current Liabilities",
+     "2,259,005",
+     "1,489,610"
+    ],
+    [
+     "Deferred income",
+     "Non-current Liabilities",
+     "258,017",
+     "237,921"
+    ],
+    [
+     "[小计] Non-current Liabilities",
+     "Non-current Liabilities",
+     "4,921,824",
+     "4,032,711"
+    ],
+    [
+     "Net Assets",
+     "Non-current Liabilities",
+     "44,017,882",
+     "36,213,077"
+    ],
+    [
+     "Share capital",
+     "Capital and Reserves",
+     "235",
+     "233"
+    ],
+    [
+     "Reserves",
+     "Capital and Reserves",
+     "40,331,362",
+     "35,047,174"
+    ],
+    [
+     "Equity attributable to owners of the Company",
+     "Capital and Reserves",
+     "40,331,597",
+     "35,047,407"
+    ],
+    [
+     "Non-controlling interests",
+     "Capital and Reserves",
+     "3,686,285",
+     "1,165,670"
+    ],
+    [
+     "Total Equity",
+     "Capital and Reserves",
+     "44,017,882",
+     "36,213,077"
+    ]
+   ],
+   "pages": [
+    35,
+    36
+   ],
+   "unit_text": "AT DECEMBER 31, 2023\n2023 2022\nNOTES RMB'000 RMB'000\nNon-current Asset\nAT DECEMBER 31, 2023\n2023 2022\nNOTES RMB'000 RMB'000\nNon-current Asset\nProperty, plant and equipment 27,377,643 24,170,739\nRight-of-use assets 2,561,828 1,745,259\nGoodwill 1,529,914 1,529,914\nIntangible assets 511,834 548,778\nInvestment of an associate measured at fair value\nthrough profit or loss (\"FVTPL\") 1,393,531 1,581,565\nEquity instruments at FVTOCI 21,408 41,470\nFinancial assets at FVTPL 1,519,347 1,086,176"
+  },
+  "income": {
+   "bad": [],
+   "eps_cents": false,
+   "header": [
+    "FOR THE YEAR ENDED DECEMBER 31, 2023",
+    "2023 2022",
+    "NOTES RMB'000 RMB'000"
+   ],
+   "lines": [
+    [
+     "Revenue 4&5",
+     "",
+     "17,034,255",
+     "15,268,660"
+    ],
+    [
+     "Cost of sales",
+     "",
+     "(10,206,354)",
+     "(8,544,646)"
+    ],
+    [
+     "Gross profit",
+     "",
+     "6,827,901",
+     "6,724,014"
+    ],
+    [
+     "Other income",
+     "",
+     "416,657",
+     "305,454"
+    ],
+    [
+     "Impairment losses under expected credit loss model, net of reversal",
+     "",
+     "(319,970)",
+     "(258,525)"
+    ],
+    [
+     "Other gains and losses",
+     "",
+     "36,464",
+     "766,533"
+    ],
+    [
+     "Selling and marketing expenses",
+     "",
+     "(294,009)",
+     "(162,913)"
+    ],
+    [
+     "Administrative expenses",
+     "",
+     "(1,495,352)",
+     "(1,269,592)"
+    ],
+    [
+     "Research and development expenses",
+     "",
+     "(785,822)",
+     "(682,818)"
+    ],
+    [
+     "Other expenses",
+     "",
+     "(53,578)",
+     "—"
+    ],
+    [
+     "Financing costs",
+     "",
+     "(158,488)",
+     "(64,382)"
+    ],
+    [
+     "Profit before tax",
+     "",
+     "4,173,803",
+     "5,357,771"
+    ],
+    [
+     "Income tax expense",
+     "",
+     "(603,179)",
+     "(807,865)"
+    ],
+    [
+     "Profit for the year",
+     "",
+     "3,570,624",
+     "4,549,906"
+    ],
+    [
+     "Fair value loss on investments in equity instruments (\"FVTOCI\")",
+     "Item that will not be reclassified to profit or loss:",
+     "(20,806)",
+     "(59,731)"
+    ],
+    [
+     "Exchange differences arising on translation of foreign operations",
+     "profit or loss:",
+     "116,555",
+     "143,151"
+    ],
+    [
+     "Fair value loss on hedging instruments designated in cash flow hedges, net foreign investment hedges and time value within fair value hedges, net of income tax",
+     "profit or loss:",
+     "(288,821)",
+     "(233,710)"
+    ],
+    [
+     "Other comprehensive expense for the year",
+     "profit or loss:",
+     "(193,072)",
+     "(150,290)"
+    ],
+    [
+     "Total comprehensive income for the year",
+     "profit or loss:",
+     "3,377,552",
+     "4,399,616"
+    ],
+    [
+     "Owners of the Company",
+     "Profit for the year attributable to:",
+     "3,399,729",
+     "4,420,286"
+    ],
+    [
+     "Non-controlling interests",
+     "Profit for the year attributable to:",
+     "170,895",
+     "129,620"
+    ],
+    [
+     "[小计] Profit for the year attributable to:",
+     "Profit for the year attributable to:",
+     "3,570,624",
+     "4,549,906"
+    ],
+    [
+     "Owners of the Company",
+     "Total comprehensive income for the year attributable to:",
+     "3,190,997",
+     "4,262,390"
+    ],
+    [
+     "Non-controlling interests",
+     "Total comprehensive income for the year attributable to:",
+     "186,555",
+     "137,226"
+    ],
+    [
+     "[小计] Total comprehensive income for the year attributable to:",
+     "Total comprehensive income for the year attributable to:",
+     "3,377,552",
+     "4,399,616"
+    ],
+    [
+     "Earnings per share — Basic",
+     "Total comprehensive income for the year attributable to:",
+     "0.82",
+     "1.06"
+    ],
+    [
+     "— Diluted",
+     "Total comprehensive income for the year attributable to:",
+     "0.77",
+     "1.01"
+    ]
+   ],
+   "pages": [
+    33,
+    34
+   ],
+   "unit_text": "FOR THE YEAR ENDED DECEMBER 31, 2023\n2023 2022\nNOTES RMB'000 RMB'000\nFOR THE YEAR ENDED DECEMBER 31, 2023\n2023 2022\nNOTES RMB'000 RMB'000\nRevenue 4&5 17,034,255 15,268,660\nCost of sales (10,206,354) (8,544,646)\nGross profit 6,827,901 6,724,014\nOther income 6 416,657 305,454\nImpairment losses under expected credit loss\nmodel, net of reversal 9 (319,970) (258,525)\nOther gains and losses 7 36,464 766,533\nSelling and marketing expenses (294,009) (162,913)\nAdministrative expenses (1,495,352) (1,269,592)"
+  }
+ },
+ "status": "ok",
+ "step": {
+  "balance": 0.001,
+  "income": 1e-05
+ },
+ "style": "ifrs",
+ "title": "ANNUAL RESULTS ANNOUNCEMENT FOR THE YEAR ENDED DECEMBER 31, 2023",
+ "unit": {
+  "currency": "CNY",
+  "eps_unit": "yuan",
+  "scale": 0.001,
+  "text": "RMB'000"
+ },
+ "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0326/2024032601537.pdf",
+ "values": {
+  "balance": {
+   "cur": {
+    "cash": 9669.839,
+    "equity_parent": 40331.597,
+    "inventories": 1765.751,
+    "receivables": null,
+    "short_term_investments": 1573.598,
+    "total_assets": 56575.726,
+    "total_current_assets": 21198.249,
+    "total_current_liabilities": 7636.02,
+    "total_debt": 2147.3740000000003,
+    "total_equity": 44017.882,
+    "total_liabilities": 12557.844000000001
+   },
+   "prior": {
+    "cash": 6395.222,
+    "equity_parent": 35047.407,
+    "inventories": 2280.911,
+    "receivables": null,
+    "short_term_investments": 2319.101,
+    "total_assets": 49564.385,
+    "total_current_assets": 18469.868,
+    "total_current_liabilities": 9318.597,
+    "total_debt": 2782.993,
+    "total_equity": 36213.077,
+    "total_liabilities": 13351.308
+   }
+  },
+  "income": {
+   "cur": {
+    "cost_of_sales": 10206.354,
+    "eps_diluted": 0.77,
+    "gross_profit": 6827.901,
+    "income_tax": 603.179,
+    "net_income": 3570.6240000000003,
+    "net_income_parent": 3399.7290000000003,
+    "operating_income": null,
+    "pretax_income": 4173.803,
+    "revenue": 17034.255,
+    "rnd": 785.822,
+    "sga": 1789.361
+   },
+   "prior": {
+    "cost_of_sales": 8544.646,
+    "eps_diluted": 1.01,
+    "gross_profit": 6724.014,
+    "income_tax": 807.865,
+    "net_income": 4549.906,
+    "net_income_parent": 4420.286,
+    "operating_income": null,
+    "pretax_income": 5357.771,
+    "revenue": 15268.66,
+    "rnd": 682.818,
+    "sga": 1432.505
+   }
+  }
+ },
+ "warnings": []
+}

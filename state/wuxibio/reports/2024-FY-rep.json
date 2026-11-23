@@ -1,0 +1,1159 @@
+{
+ "check_version": 3,
+ "doc": "2024-FY-rep",
+ "fiscal_year": 2024,
+ "kind": "report",
+ "mapping": {
+  "balance": {
+   "cash": [
+    21
+   ],
+   "equity_parent": [
+    43
+   ],
+   "inventories": [
+    11
+   ],
+   "short_term_investments": [
+    18,
+    20
+   ],
+   "total_assets": [
+    10,
+    24
+   ],
+   "total_current_assets": [
+    24
+   ],
+   "total_current_liabilities": [
+    31
+   ],
+   "total_debt": [
+    26,
+    35
+   ],
+   "total_equity": [
+    45
+   ],
+   "total_liabilities": [
+    31,
+    39
+   ]
+  },
+  "cashflow": {
+   "buybacks": [
+    58
+   ],
+   "capex": [
+    32,
+    33
+   ],
+   "cfo": [
+    30
+   ]
+  },
+  "income": {
+   "cost_of_sales": [
+    1
+   ],
+   "eps_diluted": [
+    26
+   ],
+   "gross_profit": [
+    2
+   ],
+   "income_tax": [
+    12
+   ],
+   "net_income": [
+    13
+   ],
+   "net_income_parent": [
+    19
+   ],
+   "pretax_income": [
+    11
+   ],
+   "revenue": [
+    0
+   ],
+   "rnd": [
+    8
+   ],
+   "sga": [
+    6,
+    7
+   ]
+  }
+ },
+ "mapping_labels": {
+  "balance": {
+   "cash": [
+    "Bank balances and cash"
+   ],
+   "equity_parent": [
+    "Equity attributable to owners of the Company"
+   ],
+   "inventories": [
+    "Inventories"
+   ],
+   "short_term_investments": [
+    "Financial assets at FVTPL",
+    "Time deposits"
+   ],
+   "total_assets": [
+    "[小计] Non-current Assets",
+    "[小计] Current Assets #2"
+   ],
+   "total_current_assets": [
+    "[小计] Current Assets #2"
+   ],
+   "total_current_liabilities": [
+    "[小计] Current Liabilities"
+   ],
+   "total_debt": [
+    "Borrowings",
+    "Borrowings"
+   ],
+   "total_equity": [
+    "Total Equity"
+   ],
+   "total_liabilities": [
+    "[小计] Current Liabilities",
+    "[小计] Non-current Liabilities"
+   ]
+  },
+  "cashflow": {
+   "buybacks": [
+    "Payment on repurchase of shares"
+   ],
+   "capex": [
+    "Purchases of property, plant and equipment",
+    "Purchases of intangible assets"
+   ],
+   "cfo": [
+    "NET CASH FROM OPERATING ACTIVITIES"
+   ]
+  },
+  "income": {
+   "cost_of_sales": [
+    "Cost of sales"
+   ],
+   "eps_diluted": [
+    "— Diluted"
+   ],
+   "gross_profit": [
+    "Gross profit"
+   ],
+   "income_tax": [
+    "Income tax expense"
+   ],
+   "net_income": [
+    "Profit for the year"
+   ],
+   "net_income_parent": [
+    "Owners of the Company"
+   ],
+   "pretax_income": [
+    "Profit before tax"
+   ],
+   "revenue": [
+    "Revenue"
+   ],
+   "rnd": [
+    "Research and development expenses"
+   ],
+   "sga": [
+    "Selling and marketing expenses",
+    "Administrative expenses"
+   ]
+  }
+ },
+ "mapping_source": "沿用 2023-FY-rep 的对照（版式相同）；GPT 对照",
+ "months": 12,
+ "parse_version": 1,
+ "period_end": "2024-12-31",
+ "problems": [],
+ "processed": "2026-11-23",
+ "published": "2025-04-29",
+ "restatement_hint": "",
+ "signatures": {
+  "balance": "9c5de57330e34cbe",
+  "cashflow": "236ae519d3859771",
+  "income": "7f132befd0f97788"
+ },
+ "statements": {
+  "balance": {
+   "bad": [],
+   "eps_cents": false,
+   "header": [
+    "At December 31, 2024",
+    "WuXi Biologics (Cayman) Inc.   Annual Report 2024",
+    "NOTES 2024 2023",
+    "RMB'000 RMB'000",
+    "Non-current Assets"
+   ],
+   "lines": [
+    [
+     "Property, plant and equipment",
+     "Non-current Assets",
+     "26,070,458",
+     "27,377,643"
+    ],
+    [
+     "Right-of-use assets",
+     "Non-current Assets",
+     "2,364,916",
+     "2,561,828"
+    ],
+    [
+     "Goodwill",
+     "Non-current Assets",
+     "1,529,914",
+     "1,529,914"
+    ],
+    [
+     "Intangible assets",
+     "Non-current Assets",
+     "442,369",
+     "511,834"
+    ],
+    [
+     "Investment of an associate measured at fair value through profit or loss (\"FVTPL\")",
+     "Non-current Assets",
+     "1,266,560",
+     "1,393,531"
+    ],
+    [
+     "Equity instruments at FVTOCI",
+     "Non-current Assets",
+     "—",
+     "21,408"
+    ],
+    [
+     "Financial assets at FVTPL",
+     "Non-current Assets",
+     "1,133,265",
+     "1,519,347"
+    ],
+    [
+     "Finance lease receivables",
+     "Non-current Assets",
+     "85,665",
+     "165,503"
+    ],
+    [
+     "Deferred tax assets",
+     "Non-current Assets",
+     "444,318",
+     "235,783"
+    ],
+    [
+     "Other long-term deposits and prepayments",
+     "Non-current Assets",
+     "66,779",
+     "60,686"
+    ],
+    [
+     "[小计] Non-current Assets",
+     "Non-current Assets",
+     "33,404,244",
+     "35,377,477"
+    ],
+    [
+     "Inventories",
+     "Current Assets",
+     "1,521,669",
+     "1,765,751"
+    ],
+    [
+     "Finance lease receivables",
+     "Current Assets",
+     "11,027",
+     "21,575"
+    ],
+    [
+     "Trade and other receivables",
+     "Current Assets",
+     "6,240,747",
+     "6,292,682"
+    ],
+    [
+     "Contract assets",
+     "Current Assets",
+     "191,927",
+     "499,669"
+    ],
+    [
+     "Contract costs",
+     "Current Assets",
+     "1,492,931",
+     "1,223,701"
+    ],
+    [
+     "Tax recoverable",
+     "Current Assets",
+     "14,105",
+     "5,765"
+    ],
+    [
+     "Derivative financial assets",
+     "Current Assets",
+     "—",
+     "127,652"
+    ],
+    [
+     "Financial assets at FVTPL",
+     "Current Assets",
+     "523,593",
+     "1,233,598"
+    ],
+    [
+     "Pledged bank deposits",
+     "Current Assets",
+     "13,854",
+     "18,017"
+    ],
+    [
+     "Time deposits",
+     "Current Assets",
+     "1,907,016",
+     "340,000"
+    ],
+    [
+     "Bank balances and cash",
+     "Current Assets",
+     "8,279,182",
+     "9,669,839"
+    ],
+    [
+     "[小计] Current Assets",
+     "Current Assets",
+     "20,196,051",
+     "21,198,249"
+    ],
+    [
+     "Assets classified as held for sale",
+     "Current Assets",
+     "3,377,140",
+     "—"
+    ],
+    [
+     "[小计] Current Assets #2",
+     "Current Assets",
+     "23,573,191",
+     "21,198,249"
+    ],
+    [
+     "Trade and other payables",
+     "Current Liabilities",
+     "2,778,195",
+     "2,755,774"
+    ],
+    [
+     "Borrowings",
+     "Current Liabilities",
+     "2,435,302",
+     "576,328"
+    ],
+    [
+     "Contract liabilities",
+     "Current Liabilities",
+     "2,355,772",
+     "3,089,762"
+    ],
+    [
+     "Income tax payable",
+     "Current Liabilities",
+     "647,658",
+     "618,883"
+    ],
+    [
+     "Lease liabilities",
+     "Current Liabilities",
+     "183,704",
+     "154,980"
+    ],
+    [
+     "Derivative financial liabilities",
+     "Current Liabilities",
+     "220,620",
+     "440,293"
+    ],
+    [
+     "[小计] Current Liabilities",
+     "Current Liabilities",
+     "8,621,251",
+     "7,636,020"
+    ],
+    [
+     "Net Current Assets",
+     "Current Liabilities",
+     "14,951,940",
+     "13,562,229"
+    ],
+    [
+     "Total Assets less Current Liabilities",
+     "Current Liabilities",
+     "48,356,184",
+     "48,939,706"
+    ],
+    [
+     "Deferred tax liabilities",
+     "Non-current Liabilities",
+     "97,306",
+     "122,540"
+    ],
+    [
+     "Borrowings",
+     "Non-current Liabilities",
+     "200,898",
+     "1,571,046"
+    ],
+    [
+     "Contract liabilities",
+     "Non-current Liabilities",
+     "142,770",
+     "711,216"
+    ],
+    [
+     "Lease liabilities",
+     "Non-current Liabilities",
+     "2,119,945",
+     "2,259,005"
+    ],
+    [
+     "Deferred income",
+     "Non-current Liabilities",
+     "317,696",
+     "258,017"
+    ],
+    [
+     "[小计] Non-current Liabilities",
+     "Non-current Liabilities",
+     "2,878,615",
+     "4,921,824"
+    ],
+    [
+     "Net Assets",
+     "Non-current Liabilities",
+     "45,477,569",
+     "44,017,882"
+    ],
+    [
+     "Share capital",
+     "Capital and Reserves",
+     "226",
+     "235"
+    ],
+    [
+     "Reserves",
+     "Capital and Reserves",
+     "41,818,983",
+     "40,331,362"
+    ],
+    [
+     "Equity attributable to owners of the Company",
+     "Capital and Reserves",
+     "41,819,209",
+     "40,331,597"
+    ],
+    [
+     "Non-controlling interests",
+     "Capital and Reserves",
+     "3,658,360",
+     "3,686,285"
+    ],
+    [
+     "Total Equity",
+     "Capital and Reserves",
+     "45,477,569",
+     "44,017,882"
+    ]
+   ],
+   "pages": [
+    109,
+    110
+   ],
+   "unit_text": "At December 31, 2024\nWuXi Biologics (Cayman) Inc.   Annual Report 2024\nNOTES 2024 2023\nRMB'000 RMB'000\nNon-current Assets\nAt December 31, 2024\n108\nWuXi Biologics (Cayman) Inc.   Annual Report 2024\nNOTES 2024 2023\nRMB'000 RMB'000\nNon-current Assets\nProperty, plant and equipment 15 26,070,458 27,377,643\nRight-of-use assets 16 2,364,916 2,561,828\nGoodwill 17 1,529,914 1,529,914\nIntangible assets 20 442,369 511,834\nInvestment of an associate measured at\nfair value through profit or loss (\"FVTPL\") 18 1,266,560 1,393,531"
+  },
+  "cashflow": {
+   "bad": [],
+   "eps_cents": false,
+   "header": [
+    "WuXi Biologics (Cayman) Inc.   Annual Report 2024",
+    "2024 2023",
+    "RMB'000 RMB'000",
+    "OPERATING ACTIVITIES"
+   ],
+   "lines": [
+    [
+     "Profit before tax",
+     "OPERATING ACTIVITIES",
+     "4,834,398",
+     "4,173,803"
+    ],
+    [
+     "Financing costs",
+     "Adjustments for:",
+     "157,587",
+     "158,488"
+    ],
+    [
+     "Interest income from banks and other financial assets at amortized cost",
+     "Adjustments for:",
+     "(350,366)",
+     "(219,178)"
+    ],
+    [
+     "Depreciation for property, plant and equipment",
+     "Adjustments for:",
+     "1,203,911",
+     "934,389"
+    ],
+    [
+     "Depreciation of right-of-use assets",
+     "Adjustments for:",
+     "173,720",
+     "173,920"
+    ],
+    [
+     "Amortization of intangible assets",
+     "Adjustments for:",
+     "59,423",
+     "61,067"
+    ],
+    [
+     "Impairment loss, net of reversal — trade and other receivables",
+     "Adjustments for:",
+     "139,968",
+     "318,983"
+    ],
+    [
+     "— contract assets",
+     "Adjustments for:",
+     "11,811",
+     "987"
+    ],
+    [
+     "Write-down of inventories, net of reversal",
+     "Adjustments for:",
+     "48,327",
+     "72,907"
+    ],
+    [
+     "Write-down (reversal) of contract costs",
+     "Adjustments for:",
+     "24,428",
+     "(73,877)"
+    ],
+    [
+     "Net foreign exchange gain",
+     "Adjustments for:",
+     "(525,439)",
+     "(537,472)"
+    ],
+    [
+     "Share-based compensation expense",
+     "Adjustments for:",
+     "1,215,587",
+     "1,274,051"
+    ],
+    [
+     "Income from research and other grants related to asset",
+     "Adjustments for:",
+     "(25,855)",
+     "(22,198)"
+    ],
+    [
+     "Gain on fair value changes of wealth management products",
+     "Adjustments for:",
+     "(47,782)",
+     "(71,626)"
+    ],
+    [
+     "Loss (gain) on fair value changes of equity investments at FVTPL",
+     "Adjustments for:",
+     "6,361",
+     "(139,122)"
+    ],
+    [
+     "Loss on fair value changes of investment of an associate measured at FVTPL",
+     "Adjustments for:",
+     "133,136",
+     "196,914"
+    ],
+    [
+     "Loss on derivative financial instruments",
+     "Adjustments for:",
+     "52,390",
+     "41,068"
+    ],
+    [
+     "Dividend income from an equity instrument at FVTPL",
+     "Adjustments for:",
+     "(1,170)",
+     "—"
+    ],
+    [
+     "(Gain) loss on disposal of property, plant and equipment",
+     "Adjustments for:",
+     "(456)",
+     "3,484"
+    ],
+    [
+     "Operating cash flows before movements in working capital",
+     "Adjustments for:",
+     "7,109,979",
+     "6,346,588"
+    ],
+    [
+     "Decrease in inventories",
+     "Adjustments for:",
+     "201,850",
+     "442,462"
+    ],
+    [
+     "(Increase) decrease in contract costs",
+     "Adjustments for:",
+     "(218,379)",
+     "173,337"
+    ],
+    [
+     "Increase in trade and other receivables",
+     "Adjustments for:",
+     "(134,873)",
+     "(1,030,511)"
+    ],
+    [
+     "Decrease (increase) in contract assets",
+     "Adjustments for:",
+     "296,805",
+     "(7,162)"
+    ],
+    [
+     "(Increase) decrease in other long-term deposits",
+     "Adjustments for:",
+     "(8,310)",
+     "5,073"
+    ],
+    [
+     "Decrease in contract liabilities",
+     "Adjustments for:",
+     "(1,312,998)",
+     "(312,542)"
+    ],
+    [
+     "Increase (decrease) in trade and other payables",
+     "Adjustments for:",
+     "375,383",
+     "(162,344)"
+    ],
+    [
+     "Increase (decrease) in deferred income",
+     "Adjustments for:",
+     "18",
+     "(4,658)"
+    ],
+    [
+     "Cash generated from operations",
+     "Adjustments for:",
+     "6,309,475",
+     "5,450,243"
+    ],
+    [
+     "Income taxes paid",
+     "Adjustments for:",
+     "(1,092,218)",
+     "(782,531)"
+    ],
+    [
+     "NET CASH FROM OPERATING ACTIVITIES",
+     "Adjustments for:",
+     "5,217,257",
+     "4,667,712"
+    ],
+    [
+     "Proceeds on disposal of property, plant and equipment",
+     "INVESTING ACTIVITIES",
+     "87,328",
+     "196,855"
+    ],
+    [
+     "Purchases of property, plant and equipment",
+     "INVESTING ACTIVITIES",
+     "(3,929,621)",
+     "(4,045,574)"
+    ],
+    [
+     "Purchases of intangible assets",
+     "INVESTING ACTIVITIES",
+     "—",
+     "(10,000)"
+    ],
+    [
+     "Payment for interest in subsidiaries held by a non-controlling shareholder",
+     "INVESTING ACTIVITIES",
+     "—",
+     "(9,000)"
+    ],
+    [
+     "Payments for right-of-use assets",
+     "INVESTING ACTIVITIES",
+     "—",
+     "(174,940)"
+    ],
+    [
+     "Payments for rental deposits",
+     "INVESTING ACTIVITIES",
+     "(800)",
+     "(9,915)"
+    ],
+    [
+     "Research and other grants received",
+     "INVESTING ACTIVITIES",
+     "88,498",
+     "43,680"
+    ],
+    [
+     "Withdrawal of pledged bank deposits",
+     "INVESTING ACTIVITIES",
+     "6,441",
+     "31,125"
+    ],
+    [
+     "Placement of pledged bank deposits",
+     "INVESTING ACTIVITIES",
+     "(2,073)",
+     "(23,449)"
+    ],
+    [
+     "Dividends received from an equity instrument at FVTPL",
+     "INVESTING ACTIVITIES",
+     "1,170",
+     "—"
+    ],
+    [
+     "Withdrawal of financial assets at FVTPL",
+     "INVESTING ACTIVITIES",
+     "10,632,906",
+     "15,085,405"
+    ],
+    [
+     "Placement of financial assets at FVTPL",
+     "INVESTING ACTIVITIES",
+     "(9,474,729)",
+     "(14,453,501)"
+    ],
+    [
+     "Receipt of interest from banks",
+     "INVESTING ACTIVITIES",
+     "343,716",
+     "217,633"
+    ],
+    [
+     "Withdrawal of time deposits",
+     "INVESTING ACTIVITIES",
+     "260,000",
+     "552,933"
+    ],
+    [
+     "Placement of time deposits",
+     "INVESTING ACTIVITIES",
+     "(1,806,145)",
+     "(588,450)"
+    ],
+    [
+     "Net settlement of derivative financial instruments",
+     "INVESTING ACTIVITIES",
+     "(148,397)",
+     "(41,068)"
+    ],
+    [
+     "NET CASH USED IN INVESTING ACTIVITIES",
+     "INVESTING ACTIVITIES",
+     "(3,941,706)",
+     "(3,228,266)"
+    ],
+    [
+     "Proceeds from bank borrowings",
+     "FINANCING ACTIVITIES",
+     "1,128,640",
+     "1,097,335"
+    ],
+    [
+     "Repayments of bank borrowings",
+     "FINANCING ACTIVITIES",
+     "(638,539)",
+     "(1,802,084)"
+    ],
+    [
+     "Interest paid",
+     "FINANCING ACTIVITIES",
+     "(200,611)",
+     "(217,284)"
+    ],
+    [
+     "Repayments of lease liabilities",
+     "FINANCING ACTIVITIES",
+     "(180,137)",
+     "(113,701)"
+    ],
+    [
+     "Proceeds from exercise of pre-IPO share options of the Company",
+     "FINANCING ACTIVITIES",
+     "15,755",
+     "26,158"
+    ],
+    [
+     "Proceeds from exercise of pre-IPO share options of a subsidiary",
+     "FINANCING ACTIVITIES",
+     "3,637",
+     "—"
+    ],
+    [
+     "Capital injection by non-controlling shareholders",
+     "FINANCING ACTIVITIES",
+     "—",
+     "289,298"
+    ],
+    [
+     "Net proceeds from issue of new shares of a subsidiary",
+     "FINANCING ACTIVITIES",
+     "—",
+     "3,603,962"
+    ],
+    [
+     "Acquisition of partial interest of subsidiaries",
+     "FINANCING ACTIVITIES",
+     "(1,110,884)",
+     "—"
+    ],
+    [
+     "Payment of transaction cost of issue of new shares of a subsidiary",
+     "FINANCING ACTIVITIES",
+     "(2,106)",
+     "(5,605)"
+    ],
+    [
+     "Payment on repurchase of shares",
+     "FINANCING ACTIVITIES",
+     "(1,765,946)",
+     "(916,916)"
+    ],
+    [
+     "NET CASH (USED IN) FROM FINANCING ACTIVITIES",
+     "FINANCING ACTIVITIES",
+     "(2,750,191)",
+     "1,961,163"
+    ],
+    [
+     "Effect of foreign exchange rate changes",
+     "FINANCING ACTIVITIES",
+     "83,983",
+     "(125,992)"
+    ],
+    [
+     "NET (DECREASE) INCREASE IN CASH AND CASH EQUIVALENTS",
+     "FINANCING ACTIVITIES",
+     "(1,390,657)",
+     "3,274,617"
+    ],
+    [
+     "CASH AND CASH EQUIVALENTS AT BEGINNING OF YEAR",
+     "FINANCING ACTIVITIES",
+     "9,669,839",
+     "6,395,222"
+    ],
+    [
+     "TOTAL CASH AND CASH EQUIVALENTS AT END OF YEAR, represented by bank balances and cash",
+     "FINANCING ACTIVITIES",
+     "8,279,182",
+     "9,669,839"
+    ],
+    [
+     "Standards — Volume",
+     "Annual Improvements to IFRS Accounting",
+     "11",
+     "3"
+    ]
+   ],
+   "pages": [
+    114,
+    115,
+    116,
+    117,
+    118,
+    119
+   ],
+   "unit_text": "WuXi Biologics (Cayman) Inc.   Annual Report 2024\n2024 2023\nRMB'000 RMB'000\nOPERATING ACTIVITIES\n113\nWuXi Biologics (Cayman) Inc.   Annual Report 2024\n2024 2023\nRMB'000 RMB'000\nOPERATING ACTIVITIES\nProfit before tax 4,834,398 4,173,803\nAdjustments for:\nFinancing costs 157,587 158,488\nInterest income from banks and other financial\nassets at amortized cost (350,366) (219,178)\nDepreciation for property, plant and equipment 1,203,911 934,389\nDepreciation of right-of-use assets 173,720 173,920"
+  },
+  "income": {
+   "bad": [],
+   "eps_cents": false,
+   "header": [
+    "For the year ended December 31, 2024",
+    "WuXi Biologics (Cayman) Inc.   Annual Report 2024",
+    "NOTES 2024 2023",
+    "RMB'000 RMB'000"
+   ],
+   "lines": [
+    [
+     "Revenue",
+     "",
+     "18,675,371",
+     "17,034,255"
+    ],
+    [
+     "Cost of sales",
+     "",
+     "(11,024,551)",
+     "(10,206,354)"
+    ],
+    [
+     "Gross profit",
+     "",
+     "7,650,820",
+     "6,827,901"
+    ],
+    [
+     "Other income",
+     "",
+     "588,078",
+     "416,657"
+    ],
+    [
+     "Impairment losses under expected credit loss model, net of reversal",
+     "",
+     "(151,779)",
+     "(319,970)"
+    ],
+    [
+     "Other gains and losses",
+     "",
+     "(181,576)",
+     "36,464"
+    ],
+    [
+     "Selling and marketing expenses",
+     "",
+     "(473,601)",
+     "(294,009)"
+    ],
+    [
+     "Administrative expenses",
+     "",
+     "(1,673,514)",
+     "(1,495,352)"
+    ],
+    [
+     "Research and development expenses",
+     "",
+     "(766,443)",
+     "(785,822)"
+    ],
+    [
+     "Other expenses",
+     "",
+     "—",
+     "(53,578)"
+    ],
+    [
+     "Financing costs",
+     "",
+     "(157,587)",
+     "(158,488)"
+    ],
+    [
+     "Profit before tax",
+     "",
+     "4,834,398",
+     "4,173,803"
+    ],
+    [
+     "Income tax expense",
+     "",
+     "(889,027)",
+     "(603,179)"
+    ],
+    [
+     "Profit for the year",
+     "",
+     "3,945,371",
+     "3,570,624"
+    ],
+    [
+     "Fair value loss on investments in equity instruments at fair value through other comprehensive income (\"FVTOCI\")",
+     "Item that will not be reclassified to profit or loss:",
+     "(21,486)",
+     "(20,806)"
+    ],
+    [
+     "Exchange differences arising on translation of foreign operations",
+     "to profit or loss:",
+     "(429,472)",
+     "116,555"
+    ],
+    [
+     "Fair value loss on hedging instruments designated in cash flow hedges, net foreign investment hedges and time value within fair value hedges, net of income tax",
+     "to profit or loss:",
+     "(377,762)",
+     "(288,821)"
+    ],
+    [
+     "Other comprehensive expense for the year",
+     "to profit or loss:",
+     "(828,720)",
+     "(193,072)"
+    ],
+    [
+     "Total comprehensive income for the year",
+     "to profit or loss:",
+     "3,116,651",
+     "3,377,552"
+    ],
+    [
+     "Owners of the Company",
+     "Profit for the year attributable to:",
+     "3,356,081",
+     "3,399,729"
+    ],
+    [
+     "Non-controlling interests",
+     "Profit for the year attributable to:",
+     "589,290",
+     "170,895"
+    ],
+    [
+     "[小计] Profit for the year attributable to:",
+     "Profit for the year attributable to:",
+     "3,945,371",
+     "3,570,624"
+    ],
+    [
+     "Owners of the Company",
+     "Total comprehensive income for the year attributable to:",
+     "2,524,660",
+     "3,190,997"
+    ],
+    [
+     "Non-controlling interests",
+     "Total comprehensive income for the year attributable to:",
+     "591,991",
+     "186,555"
+    ],
+    [
+     "[小计] Total comprehensive income for the year attributable to:",
+     "Total comprehensive income for the year attributable to:",
+     "3,116,651",
+     "3,377,552"
+    ],
+    [
+     "Earnings per share — Basic",
+     "Total comprehensive income for the year attributable to:",
+     "0.82",
+     "0.82"
+    ],
+    [
+     "— Diluted",
+     "Total comprehensive income for the year attributable to:",
+     "0.78",
+     "0.77"
+    ]
+   ],
+   "pages": [
+    107,
+    108
+   ],
+   "unit_text": "For the year ended December 31, 2024\nWuXi Biologics (Cayman) Inc.   Annual Report 2024\nNOTES 2024 2023\nRMB'000 RMB'000\nFor the year ended December 31, 2024\n106\nWuXi Biologics (Cayman) Inc.   Annual Report 2024\nNOTES 2024 2023\nRMB'000 RMB'000\nRevenue 5 18,675,371 17,034,255\nCost of sales (11,024,551) (10,206,354)\nGross profit 7,650,820 6,827,901\nOther income 7 588,078 416,657\nImpairment losses under expected credit\nloss model, net of reversal 10 (151,779) (319,970)\nOther gains and losses 8 (181,576) 36,464"
+  }
+ },
+ "status": "ok",
+ "step": {
+  "balance": 0.001,
+  "cashflow": 0.001,
+  "income": 1e-05
+ },
+ "style": "ifrs",
+ "title": "Annual Report 2024",
+ "unit": {
+  "currency": "CNY",
+  "eps_unit": "yuan",
+  "scale": 0.001,
+  "text": "RMB'000"
+ },
+ "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0429/2025042901768.pdf",
+ "values": {
+  "balance": {
+   "cur": {
+    "cash": 8279.182,
+    "equity_parent": 41819.209,
+    "inventories": 1521.669,
+    "receivables": null,
+    "short_term_investments": 2430.609,
+    "total_assets": 56977.435,
+    "total_current_assets": 23573.191,
+    "total_current_liabilities": 8621.251,
+    "total_debt": 2636.2000000000003,
+    "total_equity": 45477.569,
+    "total_liabilities": 11499.866
+   },
+   "prior": {
+    "cash": 9669.839,
+    "equity_parent": 40331.597,
+    "inventories": 1765.751,
+    "receivables": null,
+    "short_term_investments": 1573.598,
+    "total_assets": 56575.726,
+    "total_current_assets": 21198.249,
+    "total_current_liabilities": 7636.02,
+    "total_debt": 2147.3740000000003,
+    "total_equity": 44017.882,
+    "total_liabilities": 12557.844000000001
+   }
+  },
+  "cashflow": {
+   "cur": {
+    "buybacks": 1765.9460000000001,
+    "capex": 3929.621,
+    "cfo": 5217.2570000000005,
+    "dividends_paid": null
+   },
+   "prior": {
+    "buybacks": 916.916,
+    "capex": 4055.574,
+    "cfo": 4667.712,
+    "dividends_paid": null
+   }
+  },
+  "income": {
+   "cur": {
+    "cost_of_sales": 11024.551,
+    "eps_diluted": 0.78,
+    "gross_profit": 7650.82,
+    "income_tax": 889.027,
+    "net_income": 3945.371,
+    "net_income_parent": 3356.081,
+    "operating_income": null,
+    "pretax_income": 4834.398,
+    "revenue": 18675.371,
+    "rnd": 766.443,
+    "sga": 2147.1150000000002
+   },
+   "prior": {
+    "cost_of_sales": 10206.354,
+    "eps_diluted": 0.77,
+    "gross_profit": 6827.901,
+    "income_tax": 603.179,
+    "net_income": 3570.6240000000003,
+    "net_income_parent": 3399.7290000000003,
+    "operating_income": null,
+    "pretax_income": 4173.803,
+    "revenue": 17034.255,
+    "rnd": 785.822,
+    "sga": 1789.361
+   }
+  }
+ },
+ "warnings": []
+}

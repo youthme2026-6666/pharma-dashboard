@@ -1,0 +1,886 @@
+{
+ "check_version": 3,
+ "doc": "2025-FY-rep",
+ "fiscal_year": 2025,
+ "kind": "report",
+ "mapping": {
+  "balance": {
+   "cash": [
+    16
+   ],
+   "inventories": [
+    9
+   ],
+   "receivables": [
+    10
+   ],
+   "short_term_investments": [
+    15
+   ],
+   "total_assets": [
+    18
+   ],
+   "total_current_liabilities": [
+    37
+   ],
+   "total_debt": [
+    25,
+    32
+   ],
+   "total_equity": [
+    24
+   ],
+   "total_liabilities": [
+    38
+   ]
+  },
+  "cashflow": {
+   "capex": [
+    5
+   ],
+   "cfo": [
+    0
+   ]
+  },
+  "income": {
+   "cost_of_sales": [
+    1
+   ],
+   "eps_diluted": [
+    22
+   ],
+   "income_tax": [
+    16
+   ],
+   "net_income": [
+    17
+   ],
+   "net_income_parent": [
+    18
+   ],
+   "operating_income": [
+    8
+   ],
+   "pretax_income": [
+    15
+   ],
+   "revenue": [
+    0
+   ],
+   "rnd": [
+    3
+   ],
+   "sga": [
+    2,
+    4
+   ]
+  }
+ },
+ "mapping_labels": {
+  "balance": {
+   "cash": [
+    "Cash and cash equivalents ତږʿତږഃᄆي"
+   ],
+   "inventories": [
+    "Inventories π஬"
+   ],
+   "receivables": [
+    "Trade and note receivables ൱׸ᏐϗಛධʿᏐϗୃኽ"
+   ],
+   "short_term_investments": [
+    "Bank deposits ვБπಛ"
+   ],
+   "total_assets": [
+    "Total assets 資產總值"
+   ],
+   "total_current_liabilities": [
+    "[小计] Current liabilities 流動負債"
+   ],
+   "total_debt": [
+    "Long-term bank borrowings ڗಂვБ࠾ಛ",
+    "Short-term bank borrowings ೵ಂვБ࠾ಛ"
+   ],
+   "total_equity": [
+    "Total equity 權益總額"
+   ],
+   "total_liabilities": [
+    "Total liabilities 負債總額"
+   ]
+  },
+  "cashflow": {
+   "capex": [
+    "ᒅ൯ೌҖ༟ପٙ˹ಛ"
+   ],
+   "cfo": [
+    "Net cash used in operating activities ຾ᐄݺਗה͜ତږଋᕘ"
+   ]
+  },
+  "income": {
+   "cost_of_sales": [
+    "Cost of revenues ᐄุΎ͉"
+   ],
+   "eps_diluted": [
+    "Diluted earnings/(loss) per share ӊٰᛅᑛޮлŊ ᑦฦ"
+   ],
+   "income_tax": [
+    "Income tax expense ה੻೼ක˕"
+   ],
+   "net_income": [
+    "Profit/(loss) for the year 年內利潤╱ (虧損)"
+   ],
+   "net_income_parent": [
+    "Equity holders of the Company ͉ʮ̡ᛆूܵϞɛ"
+   ],
+   "operating_income": [
+    "Operating profit/(loss) 經營利潤╱ (虧損)"
+   ],
+   "pretax_income": [
+    "Profit/(loss) before income tax 除所得稅前利潤╱ (虧損)"
+   ],
+   "revenue": [
+    "Revenues ϗɝ"
+   ],
+   "rnd": [
+    "Research and development expenses ޼೯ක˕"
+   ],
+   "sga": [
+    "General and administrative expenses ɓছʿБ݁ක˕",
+    "Selling and marketing expenses ቖਯʿᐄቖක˕"
+   ]
+  }
+ },
+ "mapping_source": "GPT 对照（第 2 次才通过核对）",
+ "months": 12,
+ "parse_version": 1,
+ "period_end": "2025-12-31",
+ "problems": [],
+ "processed": "2026-11-23",
+ "published": "2026-04-17",
+ "restatement_hint": "",
+ "signatures": {
+  "balance": "d51c878f1e06ffc6",
+  "cashflow": "b835de6a970c3f55",
+  "income": "1c1fce19ce6411c4"
+ },
+ "statements": {
+  "balance": {
+   "bad": [],
+   "eps_cents": false,
+   "header": [
+    "As at 31 December",
+    "於12月31日",
+    "2025 2024",
+    "2025年 2024ϋ",
+    "Note RMB'000 RMB'000",
+    "ڝൗ 人民幣千元 ɛ͏࿆ɷʩ",
+    "Assets 資產",
+    "Non-current assets 非流動資產"
+   ],
+   "lines": [
+    [
+     "Property, plant and equipment يุeᅀגʿண௪",
+     "Non-current assets 非流動資產",
+     "269,452",
+     "320,397"
+    ],
+    [
+     "Right-of-use assets Դ͜ᛆ༟ପ",
+     "Non-current assets 非流動資產",
+     "95,170",
+     "90,920"
+    ],
+    [
+     "Intangible assets ೌҖ༟ପ",
+     "Non-current assets 非流動資產",
+     "233,390",
+     "7,743"
+    ],
+    [
+     "ܲᛆूجΐሪٙҳ༟",
+     "Investments accounted for using the equity method",
+     "42,855",
+     "25,836"
+    ],
+    [
+     "ږፄ༟ପ",
+     "ܲʮʪᄆࠇ࠽ɝฦूٙ",
+     "2,096,127",
+     "555,060"
+    ],
+    [
+     "Prepayments ཫ˹ಛධ",
+     "ܲʮʪᄆࠇ࠽ɝฦूٙ",
+     "6,922",
+     "18,251"
+    ],
+    [
+     "Trade receivables ൱׸Ꮠϗಛධ",
+     "ܲʮʪᄆࠇ࠽ɝฦूٙ",
+     "6,793",
+     "–"
+    ],
+    [
+     "Bank deposits ვБπಛ",
+     "ܲʮʪᄆࠇ࠽ɝฦूٙ",
+     "–",
+     "21,266"
+    ],
+    [
+     "[小计] ܲʮʪᄆࠇ࠽ɝฦूٙ",
+     "ܲʮʪᄆࠇ࠽ɝฦूٙ",
+     "2,750,709",
+     "1,039,473"
+    ],
+    [
+     "Inventories π஬",
+     "Current assets 流動資產",
+     "127,424",
+     "25,671"
+    ],
+    [
+     "Trade and note receivables ൱׸ᏐϗಛධʿᏐϗୃኽ",
+     "Current assets 流動資產",
+     "151,149",
+     "98,746"
+    ],
+    [
+     "Contract assets Υߒ༟ପ",
+     "Current assets 流動資產",
+     "3,586",
+     "3,586"
+    ],
+    [
+     "Ꮠϗಛධ",
+     "ཫ˹ಛධeږܲʿՉ˼",
+     "116,004",
+     "85,132"
+    ],
+    [
+     "ږፄ༟ପ",
+     "ܲʮʪᄆࠇ࠽ɝฦूٙ",
+     "2,566,406",
+     "1,786,049"
+    ],
+    [
+     "Restricted cash աࠢՓତږ",
+     "ܲʮʪᄆࠇ࠽ɝฦूٙ",
+     "17,990",
+     "797"
+    ],
+    [
+     "Bank deposits ვБπಛ",
+     "ܲʮʪᄆࠇ࠽ɝฦूٙ",
+     "1,911,128",
+     "149,138"
+    ],
+    [
+     "Cash and cash equivalents ତږʿତږഃᄆي",
+     "ܲʮʪᄆࠇ࠽ɝฦूٙ",
+     "2,573,066",
+     "1,166,148"
+    ],
+    [
+     "[小计] ܲʮʪᄆࠇ࠽ɝฦूٙ #2",
+     "ܲʮʪᄆࠇ࠽ɝฦूٙ",
+     "7,466,753",
+     "3,315,267"
+    ],
+    [
+     "Total assets 資產總值",
+     "ܲʮʪᄆࠇ࠽ɝฦूٙ",
+     "10,217,462",
+     "4,354,740"
+    ],
+    [
+     "Share capital ٰ͉",
+     "應佔權益",
+     "301",
+     "237"
+    ],
+    [
+     "Other reserves Չ˼Ꮇ௪",
+     "應佔權益",
+     "17,831,800",
+     "12,535,678"
+    ],
+    [
+     "Accumulated losses ଢ଼ࠇᑦฦ",
+     "應佔權益",
+     "(8,448,414)",
+     "(8,572,161)"
+    ],
+    [
+     "[小计] 應佔權益",
+     "應佔權益",
+     "9,383,687",
+     "3,963,754"
+    ],
+    [
+     "Non-controlling interests ڢછٰᛆू",
+     "應佔權益",
+     "47,165",
+     "28,553"
+    ],
+    [
+     "Total equity 權益總額",
+     "應佔權益",
+     "9,430,852",
+     "3,992,307"
+    ],
+    [
+     "Long-term bank borrowings ڗಂვБ࠾ಛ",
+     "Non-current liabilities 非流動負債",
+     "175,000",
+     "–"
+    ],
+    [
+     "Lease liabilities ॡ༣ࠋව",
+     "Non-current liabilities 非流動負債",
+     "70,596",
+     "64,905"
+    ],
+    [
+     "Deferred government grants ჈ִַ݁໾п",
+     "Non-current liabilities 非流動負債",
+     "28,004",
+     "17,804"
+    ],
+    [
+     "Deferred tax liabilities ჈ַ೼ධࠋව",
+     "Non-current liabilities 非流動負債",
+     "7,448",
+     "–"
+    ],
+    [
+     "[小计] Non-current liabilities 非流動負債",
+     "Non-current liabilities 非流動負債",
+     "281,048",
+     "82,709"
+    ],
+    [
+     "Trade and note payables ൱׸Ꮠ˹ಛධʿᏐ˹ୃኽ",
+     "Current liabilities 流動負債",
+     "62,282",
+     "16,143"
+    ],
+    [
+     "Other payables and accruals Չ˼Ꮠ˹ಛධʿᏐࠇ൬͜",
+     "Current liabilities 流動負債",
+     "185,509",
+     "157,051"
+    ],
+    [
+     "Short-term bank borrowings ೵ಂვБ࠾ಛ",
+     "Current liabilities 流動負債",
+     "170,800",
+     "51,900"
+    ],
+    [
+     "Derivative financial instruments ࠃ͛ږፄʈՈ",
+     "Current liabilities 流動負債",
+     "4,137",
+     "–"
+    ],
+    [
+     "Deferred government grants ჈ִַ݁໾п",
+     "Current liabilities 流動負債",
+     "2,733",
+     "5,754"
+    ],
+    [
+     "Contract liabilities Υࠋߒව",
+     "Current liabilities 流動負債",
+     "54,639",
+     "16,916"
+    ],
+    [
+     "Lease liabilities ॡ༣ࠋව",
+     "Current liabilities 流動負債",
+     "25,462",
+     "31,960"
+    ],
+    [
+     "[小计] Current liabilities 流動負債",
+     "Current liabilities 流動負債",
+     "505,562",
+     "279,724"
+    ],
+    [
+     "Total liabilities 負債總額",
+     "Current liabilities 流動負債",
+     "786,610",
+     "362,433"
+    ],
+    [
+     "Total equity and liabilities 權益及負債總額",
+     "Current liabilities 流動負債",
+     "10,217,462",
+     "4,354,740"
+    ]
+   ],
+   "pages": [
+    244,
+    245,
+    246
+   ],
+   "unit_text": "As at 31 December\n於12月31日\n2025 2024\n2025年 2024ϋ\nNote RMB'000 RMB'000\nڝൗ 人民幣千元 ɛ͏࿆ɷʩ\nAssets 資產\nNon-current assets 非流動資產\nAs at 31 December\n於12月31日\n2025 2024\n2025年 2024ϋ\nNote RMB'000 RMB'000\nڝൗ 人民幣千元 ɛ͏࿆ɷʩ\nAssets 資產\nNon-current assets 非流動資產\nProperty, plant and equipment يุeᅀגʿண௪ 15 269,452 320,397\nRight-of-use assets Դ͜ᛆ༟ପ 16 95,170 90,920\nIntangible assets ೌҖ༟ପ 17 233,390 7,743\nInvestments accounted for using"
+  },
+  "cashflow": {
+   "bad": [
+    "Ϋৰʊᒅ੻ٙତږ( 223,816) –",
+    "Interest paid for bank borrowings ʊ˹ვБ࠾ಛٙлࢹ( 6,223) (1,780)"
+   ],
+   "eps_cents": false,
+   "header": [
+    "Year ended 31 December",
+    "截至12月31日止年度",
+    "2025 2024",
+    "2025年 2024ϋ",
+    "Note RMB'000 RMB'000",
+    "ڝൗ 人民幣千元 ɛ͏࿆ɷʩ",
+    "Cash flows from operating activities 經營活動所得現金流量"
+   ],
+   "lines": [
+    [
+     "Net cash used in operating activities ຾ᐄݺਗה͜ତږଋᕘ",
+     "Cash flows from operating activities 經營活動所得現金流量",
+     "(165,411)",
+     "(478,681)"
+    ],
+    [
+     "Interest received from bank deposits ІვБπಛϗ՟ٙлࢹ",
+     "Cash flows from investing activities 投資活動所得現金流量",
+     "22,227",
+     "62,927"
+    ],
+    [
+     "Dividend received ʊϗࢹٰ",
+     "Cash flows from investing activities 投資活動所得現金流量",
+     "6,079",
+     "–"
+    ],
+    [
+     "˹ಛ",
+     "ᒅ൯يุeᅀגʿண௪ٙ",
+     "(67,648)",
+     "(58,108)"
+    ],
+    [
+     "ה੻ಛධ",
+     "̈ਯيุeᅀגʿண௪ٙ",
+     "28",
+     "2"
+    ],
+    [
+     "ᒅ൯ೌҖ༟ପٙ˹ಛ",
+     "Payments for purchase of intangible assets",
+     "(10,091)",
+     "(3,759)"
+    ],
+    [
+     "˹ಛ",
+     "՟੻ܲᛆूجΐሪٙҳ༟ٙ",
+     "(29,329)",
+     "(6,016)"
+    ],
+    [
+     "ږፄ༟ପٙҳ༟ٙ˹ಛ",
+     "՟੻ܲʮʪᄆࠇ࠽ɝฦूٙ",
+     "(3,726,019)",
+     "(2,438,563)"
+    ],
+    [
+     "ږፄ༟ପהٙ੻ಛධ",
+     "̈ਯܲʮʪᄆࠇ࠽ɝฦूٙ",
+     "1,837,743",
+     "1,430,742"
+    ],
+    [
+     "ࠃ͛ږፄʈՈՑಂה੻ಛධ",
+     "Proceeds from maturity of derivative financial instrument",
+     "4,056",
+     "–"
+    ],
+    [
+     "Payments for acquisition of assets ϗᒅ༟ପٙ˹ಛ",
+     "Proceeds from maturity of derivative financial instrument",
+     "(3,760)",
+     "–"
+    ],
+    [
+     "Ϋৰʊᒅ੻ٙତږ( 223,816)",
+     "Proceeds from maturity of derivative financial instrument",
+     "–",
+     ""
+    ],
+    [
+     "Placement of bank deposits πໄვБπಛ",
+     "Proceeds from maturity of derivative financial instrument",
+     "(2,913,832)",
+     "(419,604)"
+    ],
+    [
+     "Proceeds from maturity of bank deposits ვБπಛՑಂה੻ಛධ",
+     "Proceeds from maturity of derivative financial instrument",
+     "1,169,286",
+     "1,498,630"
+    ],
+    [
+     "Proceeds from disposal of an associate ̈ਯᑌᐄʮ̡ה੻ಛධ",
+     "Proceeds from maturity of derivative financial instrument",
+     "206",
+     "–"
+    ],
+    [
+     "Changes in restricted cash balances աࠢՓତږഐቱᜊਗ",
+     "Proceeds from maturity of derivative financial instrument",
+     "(17,193)",
+     "1,540"
+    ],
+    [
+     "Proceeds from government grants ִ݁໾пה੻ಛධ",
+     "Proceeds from maturity of derivative financial instrument",
+     "5,702",
+     "6,300"
+    ],
+    [
+     "現金淨額",
+     "投資活動 (所用) ╱所得",
+     "(3,946,361)",
+     "74,091"
+    ],
+    [
+     "Interest paid for bank borrowings ʊ˹ვБ࠾ಛٙлࢹ( 6,223)",
+     "ڝൗ 人民幣千元 ɛ͏࿆ɷʩ",
+     "(1,780)",
+     ""
+    ],
+    [
+     "Payments of lease liabilities ॡ༣ࠋව˹ಛ",
+     "ڝൗ 人民幣千元 ɛ͏࿆ɷʩ",
+     "(36,971)",
+     "(51,780)"
+    ],
+    [
+     "Ϋৰ̍ቖЩږ",
+     "೯Б౷ஷהٰ੻ಛධ",
+     "5,291,428",
+     "904,518"
+    ],
+    [
+     "Payments of listing expenses ɪ̹ක˕˹ಛ",
+     "೯Б౷ஷהٰ੻ಛධ",
+     "–",
+     "(2,856)"
+    ],
+    [
+     "Proceeds from exercise of share options БԴᒅٰᛆה੻ಛධ",
+     "೯Б౷ஷהٰ੻ಛධ",
+     "24,464",
+     "–"
+    ],
+    [
+     "೵ಂვБ࠾ಛה੻ಛධ",
+     "Proceeds from short-term bank borrowings",
+     "311,930",
+     "61,900"
+    ],
+    [
+     "ڗಂვБ࠾ಛה੻ಛධ",
+     "Proceeds from long-term bank borrowings",
+     "187,000",
+     "–"
+    ],
+    [
+     "Ꮅᒔ೵ಂვБ࠾ಛ",
+     "Repayments of short-term bank borrowings",
+     "(205,030)",
+     "(70,000)"
+    ],
+    [
+     "融資活動所得現金淨額",
+     "Net cash generated from financing activities",
+     "5,566,598",
+     "840,002"
+    ],
+    [
+     "現金及現金等價物增加淨額",
+     "Net increase in cash and cash equivalents",
+     "1,454,826",
+     "435,412"
+    ],
+    [
+     "Cash and cash equivalents at beginning of the year ϋڋତږʿତږഃᄆي",
+     "Net increase in cash and cash equivalents",
+     "1,166,148",
+     "710,761"
+    ],
+    [
+     "ତږഃᄆٙيᅂᚤ",
+     "ිଟᜊਗ࿁ତږʿ",
+     "(47,908)",
+     "19,975"
+    ],
+    [
+     "年末現金及現金等價物",
+     "Cash and cash equivalents at end of the year",
+     "2,573,066",
+     "1,166,148"
+    ]
+   ],
+   "pages": [
+    248,
+    249,
+    250
+   ],
+   "unit_text": "Year ended 31 December\n截至12月31日止年度\n2025 2024\n2025年 2024ϋ\nNote RMB'000 RMB'000\nڝൗ 人民幣千元 ɛ͏࿆ɷʩ\nCash flows from operating activities 經營活動所得現金流量\nYear ended 31 December\n截至12月31日止年度\n2025 2024\n2025年 2024ϋ\nNote RMB'000 RMB'000\nڝൗ 人民幣千元 ɛ͏࿆ɷʩ\nCash flows from operating activities 經營活動所得現金流量\nNet cash used in operating activities ຾ᐄݺਗה͜ତږଋᕘ 37(a) (165,411) (478,681)\nCash flows from investing activities 投資活動所得現金流量\nInterest received from bank deposits ІვБπಛϗ՟ٙлࢹ 22,227 62,927\nDividend received ʊϗࢹٰ 6,079 –\nPayments for purchase of property,"
+  },
+  "income": {
+   "bad": [],
+   "eps_cents": true,
+   "header": [
+    "Year ended 31 December",
+    "截至12月31日止年度",
+    "2025 2024",
+    "2025年 2024ϋ",
+    "Note RMB'000 RMB'000",
+    "ڝൗ 人民幣千元 ɛ͏࿆ɷʩ"
+   ],
+   "lines": [
+    [
+     "Revenues ϗɝ",
+     "ڝൗ 人民幣千元 ɛ͏࿆ɷʩ",
+     "802,623",
+     "266,433"
+    ],
+    [
+     "Cost of revenues ᐄุΎ͉",
+     "ڝൗ 人民幣千元 ɛ͏࿆ɷʩ",
+     "(243,445)",
+     "(143,007)"
+    ],
+    [
+     "General and administrative expenses ɓছʿБ݁ක˕",
+     "ڝൗ 人民幣千元 ɛ͏࿆ɷʩ",
+     "(409,894)",
+     "(417,883)"
+    ],
+    [
+     "Research and development expenses ޼೯ක˕",
+     "ڝൗ 人民幣千元 ɛ͏࿆ɷʩ",
+     "(569,185)",
+     "(418,238)"
+    ],
+    [
+     "Selling and marketing expenses ቖਯʿᐄቖක˕",
+     "ڝൗ 人民幣千元 ɛ͏࿆ɷʩ",
+     "(81,166)",
+     "(70,992)"
+    ],
+    [
+     "Impairment losses on financial assets ږፄ༟ପಯ࠽ᑦฦ",
+     "ڝൗ 人民幣千元 ɛ͏࿆ɷʩ",
+     "(8,627)",
+     "(1,228)"
+    ],
+    [
+     "Other income Չ˼ϗɝ",
+     "ڝൗ 人民幣千元 ɛ͏࿆ɷʩ",
+     "50,894",
+     "65,914"
+    ],
+    [
+     "Other gains, net Չ˼ϗूଋᕘ",
+     "ڝൗ 人民幣千元 ɛ͏࿆ɷʩ",
+     "514,036",
+     "34,794"
+    ],
+    [
+     "Operating profit/(loss) 經營利潤╱ (虧損)",
+     "ڝൗ 人民幣千元 ɛ͏࿆ɷʩ",
+     "55,236",
+     "(684,207)"
+    ],
+    [
+     "Finance income ৌਕϗɝ",
+     "ڝൗ 人民幣千元 ɛ͏࿆ɷʩ",
+     "111,647",
+     "55,642"
+    ],
+    [
+     "Finance expenses ৌਕක˕",
+     "ڝൗ 人民幣千元 ɛ͏࿆ɷʩ",
+     "(9,370)",
+     "(6,757)"
+    ],
+    [
+     "Finance income, net ৌਕϗɝଋᕘ",
+     "ڝൗ 人民幣千元 ɛ͏࿆ɷʩ",
+     "102,277",
+     "48,885"
+    ],
+    [
+     "̙ᔷ౬̙ᛙΫᎴ΋ٰٙ ʮʪᄆ࠽ᜊਗ",
+     "Changes in fair value of convertible redeemable preferred shares",
+     "–",
+     "(875,356)"
+    ],
+    [
+     "ᆽႩٙಯ࠽ᑦฦ",
+     "ఱܲᛆूجΐሪٙҳ༟",
+     "(7,276)",
+     "–"
+    ],
+    [
+     "ᏐЦܲᛆूجΐሪٙ ҳ༟ᑦฦଋᕘ",
+     "Share of net losses of investments accounted for using equity method",
+     "(14,879)",
+     "(4,191)"
+    ],
+    [
+     "Profit/(loss) before income tax 除所得稅前利潤╱ (虧損)",
+     "Share of net losses of investments accounted for using equity method",
+     "135,358",
+     "(1,514,869)"
+    ],
+    [
+     "Income tax expense ה੻೼ක˕",
+     "Share of net losses of investments accounted for using equity method",
+     "(779)",
+     "–"
+    ],
+    [
+     "Profit/(loss) for the year 年內利潤╱ (虧損)",
+     "Share of net losses of investments accounted for using equity method",
+     "134,579",
+     "(1,514,869)"
+    ],
+    [
+     "Equity holders of the Company ͉ʮ̡ᛆूܵϞɛ",
+     "應佔年內利潤╱ (虧損) :",
+     "123,747",
+     "(1,516,606)"
+    ],
+    [
+     "Non-controlling interests ڢછٰᛆू",
+     "應佔年內利潤╱ (虧損) :",
+     "10,832",
+     "1,737"
+    ],
+    [
+     "[小计] 應佔年內利潤╱ (虧損) :",
+     "應佔年內利潤╱ (虧損) :",
+     "134,579",
+     "(1,514,869)"
+    ],
+    [
+     "Basic earnings/(loss) per share ӊٰਿ͉ޮлŊ ᑦฦ",
+     "每股盈利╱ (虧損)",
+     "3",
+     "(79)"
+    ],
+    [
+     "Diluted earnings/(loss) per share ӊٰᛅᑛޮлŊ ᑦฦ",
+     "每股盈利╱ (虧損)",
+     "3",
+     "(79)"
+    ]
+   ],
+   "pages": [
+    242,
+    243
+   ],
+   "unit_text": "Year ended 31 December\n截至12月31日止年度\n2025 2024\n2025年 2024ϋ\nNote RMB'000 RMB'000\nڝൗ 人民幣千元 ɛ͏࿆ɷʩ\nYear ended 31 December\n截至12月31日止年度\n2025 2024\n2025年 2024ϋ\nNote RMB'000 RMB'000\nڝൗ 人民幣千元 ɛ͏࿆ɷʩ\nRevenues ϗɝ 5 802,623 266,433\nCost of revenues ᐄุΎ͉ 6 (243,445) (143,007)\nGeneral and administrative expenses ɓছʿБ݁ක˕ 6 (409,894) (417,883)\nResearch and development expenses ޼೯ක˕ 6 (569,185) (418,238)\nSelling and marketing expenses ቖਯʿᐄቖක˕ 6 (81,166) (70,992)\nImpairment losses on financial assets ږፄ༟ପಯ࠽ᑦฦ 3.1(b) (8,627) (1,228)"
+  }
+ },
+ "status": "ok",
+ "step": {
+  "balance": 0.001,
+  "cashflow": 0.001,
+  "income": 0.001
+ },
+ "style": "ifrs",
+ "title": "Annual Report 2025",
+ "unit": {
+  "currency": "CNY",
+  "eps_unit": "cents",
+  "scale": 0.001,
+  "text": "RMB'000"
+ },
+ "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0417/2026041701551.pdf",
+ "values": {
+  "balance": {
+   "cur": {
+    "cash": 2573.0660000000003,
+    "equity_parent": null,
+    "inventories": 127.424,
+    "receivables": 151.149,
+    "short_term_investments": 1911.128,
+    "total_assets": 10217.462,
+    "total_current_assets": null,
+    "total_current_liabilities": 505.562,
+    "total_debt": 345.8,
+    "total_equity": 9430.852,
+    "total_liabilities": 786.61
+   },
+   "prior": {
+    "cash": 1166.148,
+    "equity_parent": null,
+    "inventories": 25.671,
+    "receivables": 98.746,
+    "short_term_investments": 149.138,
+    "total_assets": 4354.74,
+    "total_current_assets": null,
+    "total_current_liabilities": 279.724,
+    "total_debt": 51.9,
+    "total_equity": 3992.3070000000002,
+    "total_liabilities": 362.433
+   }
+  },
+  "cashflow": {
+   "cur": {
+    "buybacks": null,
+    "capex": 10.091000000000001,
+    "cfo": -165.411,
+    "dividends_paid": null
+   },
+   "prior": {
+    "buybacks": null,
+    "capex": 3.759,
+    "cfo": -478.681,
+    "dividends_paid": null
+   }
+  },
+  "income": {
+   "cur": {
+    "cost_of_sales": 243.445,
+    "eps_diluted": 0.03,
+    "gross_profit": 559.1780000000001,
+    "income_tax": 0.779,
+    "net_income": 134.579,
+    "net_income_parent": 123.747,
+    "operating_income": 55.236000000000004,
+    "pretax_income": 135.358,
+    "revenue": 802.623,
+    "rnd": 569.1850000000001,
+    "sga": 491.06
+   },
+   "prior": {
+    "cost_of_sales": 143.007,
+    "eps_diluted": -0.79,
+    "gross_profit": 123.42599999999999,
+    "income_tax": -0.0,
+    "net_income": -1514.8690000000001,
+    "net_income_parent": -1516.606,
+    "operating_income": -684.207,
+    "pretax_income": -1514.8690000000001,
+    "revenue": 266.433,
+    "rnd": 418.238,
+    "sga": 488.875
+   }
+  }
+ },
+ "warnings": [
+  "现金流量表有 2 行读不出两列数（例如“Ϋৰʊᒅ੻ٙତږ( 223,816) –”）"
+ ]
+}
