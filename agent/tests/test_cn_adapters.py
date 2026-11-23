@@ -338,6 +338,10 @@ class TestInnovent(unittest.TestCase):
         self.assertIsNotNone(P.guard_problem("total_debt", {"label": "Lease liabilities", "section": "Current liabilities"}))
         self.assertIsNone(P.guard_problem("cash", {"label": "Bank balances and cash", "section": "Current assets"}))
         self.assertIsNotNone(P.guard_problem("cash", {"label": "Restricted cash", "section": "Current assets"}))
+        # 药明生物 2023 年报表的小标题是单数 “Non-current Asset”
+        self.assertIsNone(P.guard_problem("total_assets", {"label": "[小计] Non-current Asset", "section": "Non-current Asset"}))
+        self.assertIsNotNone(P.guard_problem("total_assets", {"label": "Total Assets less Current Liabilities", "section": ""}))
+        self.assertIsNone(P.guard_problem("total_liabilities", {"label": "[小计] Current Liabilities", "section": "Current Liabilities"}))
 
 
 # ---------------------------------------------------------------- 端到端：发现报告 → 处理 → 统一格式的行
@@ -441,6 +445,45 @@ class TestEndToEnd(unittest.TestCase):
         gpt2 = FakeGPT()
         P.run_update(co, self.ctx(gpt2), src)
         self.assertEqual(gpt2.calls, [])
+        # 核对规则改了（CHECK_VERSION）：用存下的报表行和原有的对照重新核对，不问 GPT，结果不变
+        saved = P.CHECK_VERSION
+        try:
+            P.CHECK_VERSION = saved + 1
+            gpt3 = FakeGPT()
+            res3 = P.run_update(co, self.ctx(gpt3), src)
+            self.assertEqual(gpt3.calls, [])
+            self.assertTrue(res3.ok, res3.errors)
+            self.assertEqual(res3.rows["income"], res.rows["income"])
+            self.assertTrue(all(r["check_version"] == saved + 1 for r in P.load_records(self.ctx(), "innovent").values()))
+        finally:
+            P.CHECK_VERSION = saved
+
+    def test_partial_reuse(self):
+        """版式和以前某份报告相同的表沿用对照，其余的表才交给 GPT；合并后沿用的对照不能被冲掉。"""
+        co = RG.get(self.reg, "innovent")
+        src = FakeSource(["innovent_2026h1_ann"], "ifrs", "HK")
+        P.run_update(co, self.ctx(FakeGPT()), src)
+        recs = P.load_records(self.ctx(), "innovent")
+        rec = copy.deepcopy(recs["2026-H1-ann"])
+        rec.update(doc="2026-H1-rep", kind="report", url=rec["url"] + "#report", published="2026-09-29")
+        for k in ("mapping", "mapping_labels", "signatures", "values", "status", "problems"):
+            rec.pop(k, None)                                   # 新拆出来的报告还没有对照
+        rec["statements"]["cashflow"] = {"pages": [70], "header": ["RMB'000 RMB'000"], "unit_text": "RMB'000 RMB'000", "eps_cents": False, "bad": [],
+                                         "lines": [["Net cash from operating activities", "", "3,588,341", "1,822,170"],
+                                                   ["Purchase of property, plant and equipment", "", "(184,553)", "(150,205)"],
+                                                   ["Net cash used in investing activities", "", "(1,000,000)", "(500,000)"],
+                                                   ["Net cash used in financing activities", "", "(100,000)", "(200,000)"],
+                                                   ["Net increase in cash and cash equivalents", "", "2,488,341", "1,122,170"],
+                                                   ["Cash and cash equivalents at end of the period", "", "9,999,999", "8,888,888"]]}
+        spec = dict(INNOVENT_MAP, cashflow={"cfo": [("Net cash from operating activities", None)],
+                                            "capex": [("Purchase of property, plant and equipment", None)]})
+        gpt = FakeGPT(spec=spec)
+        out = P.finish_record(rec, co, self.ctx(gpt), recs)
+        self.assertEqual(out["status"], "ok", out.get("problems"))
+        self.assertEqual(list(gpt.calls[0]["statements"]), ["cashflow"])
+        self.assertIn("沿用 2026-H1-ann", out["mapping_source"])
+        self.assertAlmostEqual(out["values"]["income"]["cur"]["revenue"], 8617.801, places=6)
+        self.assertAlmostEqual(out["values"]["cashflow"]["cur"]["capex"], 184.553, places=6)
 
     def test_gpt_retry_and_failure(self):
         co = RG.get(self.reg, "innovent")

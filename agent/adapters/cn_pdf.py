@@ -37,7 +37,7 @@ import urllib.request
 from .base import Result
 
 PARSE_VERSION = 1        # 文字 → 报表行 的规则版本：改了就重新下载、重新拆行
-CHECK_VERSION = 1        # 报表行 → 科目、核对 的规则版本：改了就用 state 里存的报表行重新核对（不用下载）
+CHECK_VERSION = 2        # 报表行 → 科目、核对 的规则版本：改了就用 state 里存的报表行重新核对（不用下载，也不重新问 GPT）
 FIRST_YEAR = 2023        # 从 2023 财年的报告开始补（报告里的上年同期数再补到 2022 年）
 MAX_DOCS_PER_RUN = 16    # 每家公司每次最多新处理几份报告（首次补数据可能分几次完成；真正的限制是下面的时间上限）
 TIME_BUDGET = 300        # 每家公司每次处理新报告的时间上限（秒）
@@ -512,7 +512,7 @@ def parse_block(lines):
     没有行名的数行是小计，行名记为“[小计] 小节名”。"""
     header, rows, bad = [], [], []
     pending, section, seen_value = "", "", False
-    counts = {}
+    counts, foreign = {}, 0
     for ri, (pno, raw) in enumerate(lines):
         label, vals = split_line(raw)
         if not label and len(vals) == 1 and re.match(r"^\d{1,3}$", vals[0][1]):
@@ -548,7 +548,12 @@ def parse_block(lines):
                 vals = vals[-2:]
             else:
                 bad.append(raw)
+                foreign += 1
+                if foreign >= 3 and len(rows) >= 6:
+                    del bad[-3:]         # 连着三行都是多列数：报表已经结束，后面是别的表（例如附注里的分部表）
+                    break
                 continue
+        foreign = 0
         label = _clean_label(label)
         if len(vals) < 2:
             bad.append(raw)
@@ -880,11 +885,11 @@ GUARD = {
                                r"short-term investment|financial assets|结构性存款|investments?", r"non-current|非流动"),
     "receivables": (r"应收账款|receivable", r"^其他应收|^other receivables|prepayment|预付|finance lease"),
     "inventories": (r"存货|inventor", None),
-    "total_current_assets": (r"流动资产合计|current assets", r"non-current|非流动|net current|less current"),
-    "total_assets": (r"资产总计|total assets|current assets", r"less current|net current|net assets"),
-    "total_current_liabilities": (r"流动负债合计|current liabilities", r"non-current|非流动|net current|less current"),
+    "total_current_assets": (r"流动资产合计|current assets?\b", r"non-current|非流动|net current|less current"),
+    "total_assets": (r"资产总计|total assets?\b|current assets?\b", r"less current|net current|net assets"),
+    "total_current_liabilities": (r"流动负债合计|current liabilit(?:y|ies)", r"non-current|非流动|net current|less current"),
     "total_debt": (r"借款|债券|borrowing|loan|bond|notes|debenture|convertible", r"lease|租赁|应付票据|bills payable|interest payable|应付利息|receivable|应收"),
-    "total_liabilities": (r"负债合计|total liabilities|current liabilities", r"assets|权益|equity|net current"),
+    "total_liabilities": (r"负债合计|total liabilit(?:y|ies)|current liabilit(?:y|ies)", r"assets?\b|权益|equity|net current"),
     "total_equity": (r"权益合计|total equity|net assets|权益总计", r"归属|attributable|owners of|holders of|liabilities and|负债和"),
     "equity_parent": (r"归属于母公司|owners of|equity holders of|attributable to (?:owners|equity holders|shareholders)", r"少数|non-controlling"),
     "cfo": (r"经营活动|operating activities", r"before|working capital"),
@@ -916,10 +921,10 @@ def verify_mapping(stmts, ans, header_text):
         return {}, None, ["GPT 没有给出对照"]
     for kind in KINDS:
         st = stmts.get(kind)
+        if not st:
+            continue                     # 只核对交给 GPT 的那几张表
         m = (ans.get(kind) or {}) if isinstance(ans.get(kind), dict) else {}
         mapping[kind] = {}
-        if not st:
-            continue
         used = {}
         for f in FIELDS[kind]:
             ids = m.get(f) or []
@@ -1377,6 +1382,17 @@ def finish_record(rec, company, ctx, records):
         if done:
             how.append("A 股统一格式对照表")
     sigs, reused = _reuse(records, stmts, rec)
+    own_sigs, own_map = rec.get("signatures") or {}, rec.get("mapping") or {}
+    for k in list(need):
+        if own_sigs.get(k) == sigs.get(k) and own_map.get(k):
+            mapping[k] = own_map[k]      # 重新核对（规则改了）时沿用这份报告自己的对照，不再问 GPT
+            need.remove(k)
+            if not unit["scale"] and rec.get("unit"):
+                unit.update(scale=rec["unit"].get("scale"), currency=rec["unit"].get("currency"))
+            unit["text"] = unit["text"] or (rec.get("unit") or {}).get("text", "")
+            unit["eps_unit"] = unit["eps_unit"] or (rec.get("unit") or {}).get("eps_unit")
+            if "沿用本报告原有的对照" not in how:
+                how.append("沿用本报告原有的对照")
     rec["signatures"] = sigs
     used = set()
     for k in list(need):
@@ -1413,8 +1429,8 @@ def finish_record(rec, company, ctx, records):
             rec.update(status="failed", problems=["GPT 的对照没通过核对（问了 2 次）：" + "；".join(probs[:8])],
                        mapping_source="；".join(how + ["GPT 对照"]), gpt_answer=mapping_labels(sub, got) if got else {})
             return rec
-        mapping.update(got)
-        unit.update(text=u2.get("text") or unit["text"], eps_unit=u2.get("eps_unit"))
+        mapping.update({k: v for k, v in got.items() if k in need})
+        unit.update(text=u2.get("text") or unit["text"], eps_unit=u2.get("eps_unit") if "income" in need else unit["eps_unit"])
         if not unit["scale"]:
             unit["scale"], unit["currency"] = u2.get("scale"), u2.get("currency")
         unit["currency"] = unit["currency"] or u2.get("currency")
