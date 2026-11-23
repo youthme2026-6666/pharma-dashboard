@@ -1268,12 +1268,28 @@ RESTATE = re.compile(r"因会计政策变更[^。]{0,40}追溯调整|重要会�
                      r"(?:restated|reclassified|re-presented)|certain comparative (?:figures|amounts)[^.]{0,80}reclassified", re.I)
 
 
-def restatement_hint(pages):
+_RESTATE_WIDE = re.compile(r"重述|追溯调整|调整前|会计政策变更|restat|re-present|reclassif", re.I)
+
+
+def restatement_texts(pages, limit=24):
+    """报告里提到重述、追溯调整的地方（前后各 80 字），存进记录；核对时再用 RESTATE 判断哪些算明确的重述说明
+    （这样以后改了判断规则，不用重新下载报告）。"""
+    out = []
     for p in pages:
         t = norm(p)
-        m = RESTATE.search(t)
+        for m in _RESTATE_WIDE.finditer(t):
+            out.append(re.sub(r"\s+", " ", t[max(0, m.start() - 80): m.end() + 80]).strip())
+            if len(out) >= limit:
+                return out
+    return out
+
+
+def restatement_hint(rec):
+    """这份报告里明确的重述说明（按现在的规则）；没有返回空字符串。"""
+    for t in rec.get("restatement_texts") or [rec.get("restatement_hint") or ""]:
+        m = RESTATE.search(t or "")
         if m:
-            return re.sub(r"\s+", " ", t[max(0, m.start() - 60): m.end() + 60]).strip()
+            return t
     return ""
 
 
@@ -1353,7 +1369,7 @@ def process_doc(doc, company, ctx, http, records, style):
     rec = {"doc": doc["id"], "title": doc["title"], "url": doc["url"], "published": doc["published"], "kind": doc["kind"],
            "fiscal_year": doc["fiscal_year"], "months": doc["months"], "period_end": pe.isoformat(),
            "parse_version": PARSE_VERSION, "check_version": CHECK_VERSION, "processed": ctx.today.isoformat(),
-           "style": style, "restatement_hint": restatement_hint(pages), "warnings": []}
+           "style": style, "restatement_texts": restatement_texts(pages), "warnings": []}
     if not stmts.get("income") and not stmts.get("balance"):
         rec.update(status="no_statements", problems=["没有找到合并利润表和资产负债表（%d 页）" % len(pages)])
         return rec
@@ -1534,10 +1550,11 @@ def consistency(records, fye, fresh=()):
                     continue
                 where = "%s %s %s" % (KIND_ZH[kind], key if isinstance(key, str) else "%d 年 %d 个月" % key, f)
                 msg = "%s：%s 写的是 %s，%s 写的是 %s" % (where, base["title"], _fmt(a), r["title"], _fmt(b))
-                if f in CORE[kind] and not r.get("restatement_hint"):
+                hint = restatement_hint(r)
+                if f in CORE[kind] and not hint:
                     probs.append(msg + "（报告里没有重述说明）")
                     continue
-                notes.append(msg + ("（报告提到：…%s…）" % r["restatement_hint"][:80] if r.get("restatement_hint") else "（非核心科目）"))
+                notes.append(msg + ("（报告提到：…%s…）" % hint[:100] if hint else "（非核心科目）"))
                 if r["doc"] in fresh:
                     warns.append(msg)
     return probs, notes, warns

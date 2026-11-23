@@ -529,12 +529,14 @@ class TestEndToEnd(unittest.TestCase):
         bad["2026-9M"]["values"]["balance"]["prior"]["total_assets"] += 5          # 上年末总资产和半年报写的不一样
         probs, notes, warns = P.consistency(bad, 12, fresh={"2026-9M"})
         self.assertTrue(probs and "没有重述说明" in probs[0], probs)
-        bad["2026-9M"]["restatement_hint"] = "因会计政策变更，追溯调整上年同期数"
+        bad["2026-9M"]["restatement_texts"] = ["公司是否需追溯调整或重述以前年度会计数据 □是 否"]   # 固定问句不算说明
+        self.assertTrue(P.consistency(bad, 12, fresh={"2026-9M"})[0])
+        bad["2026-9M"]["restatement_texts"] = ["注：因会计政策变更，追溯调整上年同期数"]
         probs, notes, warns = P.consistency(bad, 12, fresh={"2026-9M"})
         self.assertEqual(probs, [])
         self.assertTrue(notes and warns)
         bad["2026-9M"]["values"]["balance"]["prior"]["receivables"] = 1.0         # 非核心科目对不上只列出来
-        bad["2026-9M"]["restatement_hint"] = ""
+        bad["2026-9M"]["restatement_texts"] = []
         bad["2026-9M"]["values"]["balance"]["prior"]["total_assets"] -= 5
         probs, notes, warns = P.consistency(bad, 12)
         self.assertEqual(probs, [])
