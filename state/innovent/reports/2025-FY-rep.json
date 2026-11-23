@@ -159,14 +159,23 @@
    ]
   }
  },
- "mapping_source": "GPT 对照",
+ "mapping_source": "沿用本报告原有的对照",
  "months": 12,
- "parse_version": 1,
+ "parse_version": 2,
  "period_end": "2025-12-31",
  "problems": [],
  "processed": "2026-11-23",
  "published": "2026-04-28",
- "restatement_hint": "ext- generation pipeline is focused on IO+ADC in oncology, represented by IBI363, IBI343, IBI3003, bispecific ADCs, and dual-payl",
+ "restatement_texts": [
+  "the year 813,565 (94,631) Other comprehensive income Items that will not be reclassified to profit or loss Fair value gain on investment in equity instruments at FVT",
+  "in on investment in equity instruments at FVTOCI – 60,985 Items that may be reclassified subsequently to profit or loss Exchange differences arising on translation o",
+  "13,565 (94,631) Other comprehensive income (expense) Item that will not be reclassified subsequently to profit or loss Fair value gain on investment in equity instr",
+  "value through other comprehensive income ( \"FVTOCI\") – 60,985 Item that may be reclassified subsequently to profit or loss Exchange differences arising on translation o",
+  "st in an associate but the Group continues to use the equity method, the Group reclassifies to profit or loss the proportion of the gain or loss that had previously bee",
+  "relating to that reduction in ownership interest if that gain or loss would be reclassified to profit or loss on the disposal of the related assets or liabilities.",
+  "ber 2021 2022 2023 2024 2025 (RMB'000) (RMB'000) (RMB'000) (RMB'000) (RMB'000) (Restated) Revenue from contracts with customers 4,269,729 4,556,380 6,206,070 9",
+  "gen \"ANG-2\" angiopoietin-2 \"Articles of Association \" the fifteenth amended and restated articles of association of the Company adopted on 21 June 2024, as amended f"
+ ],
  "signatures": {
   "balance": "e5ec20678d8695dd",
   "cashflow": "163df1206f63378e",

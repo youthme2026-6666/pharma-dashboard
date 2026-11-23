@@ -145,14 +145,19 @@
    ]
   }
  },
- "mapping_source": "沿用 2023-FY-rep 的对照（版式相同）；GPT 对照",
+ "mapping_source": "沿用本报告原有的对照",
  "months": 6,
- "parse_version": 1,
+ "parse_version": 2,
  "period_end": "2024-06-30",
  "problems": [],
  "processed": "2026-11-23",
  "published": "2024-08-21",
- "restatement_hint": "",
+ "restatement_texts": [
+  "period 1,780,310 2,337,860 Other comprehensive expense: Item that will not be reclassified to profit or loss: Fair value loss on investments in equity instruments at",
+  "gh other comprehensive income (\"FVTOCI\") (21,486) (20,615) Items that may be reclassified subsequently to profit or loss: Exchange differences on translation of fore",
+  "lobal partner program adopted by the Company on June 16, 2021 and amended and restated on June 27, 2023 \"GMP\" Good Manufacturing Practice \"Group\" or \"we\" or \"our\"",
+  "share award scheme adopted by the Company on January 15, 2018 and amended and restated on June 27, 2023 \"Shareholder(s)\" holder(s) of Share(s) \"Share(s)\" ordinary"
+ ],
  "signatures": {
   "balance": "c1782740553ba3da",
   "income": "a9b36f65fcc9acce"

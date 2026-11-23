@@ -2,6 +2,73 @@
  "check_version": 3,
  "doc": "2025-FY-rep",
  "fiscal_year": 2025,
+ "gpt_answer": {
+  "balance": {
+   "cash": [
+    "Cash and cash equivalents ତږʿତږഃᄆي"
+   ],
+   "inventories": [
+    "Inventories π஬"
+   ],
+   "receivables": [
+    "Trade and note receivables ൱׸ᏐϗಛධʿᏐϗୃኽ"
+   ],
+   "total_assets": [
+    "Total assets 資產總值"
+   ],
+   "total_current_liabilities": [
+    "[小计] Current liabilities 流動負債"
+   ],
+   "total_debt": [
+    "Long-term bank borrowings ڗಂვБ࠾ಛ",
+    "Short-term bank borrowings ೵ಂვБ࠾ಛ"
+   ],
+   "total_equity": [
+    "Total equity 權益總額"
+   ],
+   "total_liabilities": [
+    "Total liabilities 負債總額"
+   ]
+  },
+  "cashflow": {
+   "cfo": [
+    "Net cash used in operating activities ຾ᐄݺਗה͜ତږଋᕘ"
+   ]
+  },
+  "income": {
+   "cost_of_sales": [
+    "Cost of revenues ᐄุΎ͉"
+   ],
+   "eps_diluted": [
+    "Diluted earnings/(loss) per share ӊٰᛅᑛޮлŊ ᑦฦ"
+   ],
+   "income_tax": [
+    "Income tax expense ה੻೼ක˕"
+   ],
+   "net_income": [
+    "Profit/(loss) for the year 年內利潤╱ (虧損)"
+   ],
+   "net_income_parent": [
+    "Equity holders of the Company ͉ʮ̡ᛆूܵϞɛ"
+   ],
+   "operating_income": [
+    "Operating profit/(loss) 經營利潤╱ (虧損)"
+   ],
+   "pretax_income": [
+    "Profit/(loss) before income tax 除所得稅前利潤╱ (虧損)"
+   ],
+   "revenue": [
+    "Revenues ϗɝ"
+   ],
+   "rnd": [
+    "Research and development expenses ޼೯ක˕"
+   ],
+   "sga": [
+    "General and administrative expenses ɓছʿБ݁ක˕",
+    "Selling and marketing expenses ቖਯʿᐄቖක˕"
+   ]
+  }
+ },
  "kind": "report",
  "mapping": {
   "balance": {
@@ -76,91 +143,32 @@
    ]
   }
  },
- "mapping_labels": {
-  "balance": {
-   "cash": [
-    "Cash and cash equivalents ତږʿତږഃᄆي"
-   ],
-   "inventories": [
-    "Inventories π஬"
-   ],
-   "receivables": [
-    "Trade and note receivables ൱׸ᏐϗಛධʿᏐϗୃኽ"
-   ],
-   "short_term_investments": [
-    "Bank deposits ვБπಛ"
-   ],
-   "total_assets": [
-    "Total assets 資產總值"
-   ],
-   "total_current_liabilities": [
-    "[小计] Current liabilities 流動負債"
-   ],
-   "total_debt": [
-    "Long-term bank borrowings ڗಂვБ࠾ಛ",
-    "Short-term bank borrowings ೵ಂვБ࠾ಛ"
-   ],
-   "total_equity": [
-    "Total equity 權益總額"
-   ],
-   "total_liabilities": [
-    "Total liabilities 負債總額"
-   ]
-  },
-  "cashflow": {
-   "capex": [
-    "ᒅ൯ೌҖ༟ପٙ˹ಛ"
-   ],
-   "cfo": [
-    "Net cash used in operating activities ຾ᐄݺਗה͜ତږଋᕘ"
-   ]
-  },
-  "income": {
-   "cost_of_sales": [
-    "Cost of revenues ᐄุΎ͉"
-   ],
-   "eps_diluted": [
-    "Diluted earnings/(loss) per share ӊٰᛅᑛޮлŊ ᑦฦ"
-   ],
-   "income_tax": [
-    "Income tax expense ה੻೼ක˕"
-   ],
-   "net_income": [
-    "Profit/(loss) for the year 年內利潤╱ (虧損)"
-   ],
-   "net_income_parent": [
-    "Equity holders of the Company ͉ʮ̡ᛆूܵϞɛ"
-   ],
-   "operating_income": [
-    "Operating profit/(loss) 經營利潤╱ (虧損)"
-   ],
-   "pretax_income": [
-    "Profit/(loss) before income tax 除所得稅前利潤╱ (虧損)"
-   ],
-   "revenue": [
-    "Revenues ϗɝ"
-   ],
-   "rnd": [
-    "Research and development expenses ޼೯ක˕"
-   ],
-   "sga": [
-    "General and administrative expenses ɓছʿБ݁ක˕",
-    "Selling and marketing expenses ቖਯʿᐄቖක˕"
-   ]
-  }
- },
- "mapping_source": "GPT 对照（第 2 次才通过核对）",
+ "mapping_source": "GPT 对照",
  "months": 12,
- "parse_version": 1,
+ "parse_version": 2,
  "period_end": "2025-12-31",
- "problems": [],
+ "problems": [
+  "GPT 的对照没通过核对（问了 2 次）：capex 对到的行“˹ಛ”行名不符合（capex 应是：购建固定资产、无形资产和其他长期资产支付的现金 / Purchase(s) of property, plant and；报表没有这样的行就给空数组）"
+ ],
  "processed": "2026-11-23",
  "published": "2026-04-17",
- "restatement_hint": "",
+ "restatement_texts": [
+  "69) Other comprehensive (loss)/income Չ˼Όࠦ ᑦฦ Ŋϗू Items that will not be reclassified to profit or loss ਗ਼ʔึࠠอɦᗳՑฦूٙ ධͦ – C hanges in fair value of convertible",
+  "nslation differences Ñ஬࿆౬ၑࢨᕘ (202,643) (25,553) Items that may be subsequently reclassified to profit or loss Չܝ̙ঐࠠอɦᗳՑฦूٙ ධͦ – Currency translation differences Ñ஬࿆౬ၑࢨᕘ",
+  "conciliation for each line item in the statement of profit or loss between the restated amounts presented by applying IFRS 18 and the amounts previously presented",
+  "may mean that amounts previously recognised in other comprehensive income are reclassified to profit or loss.",
+  "share of the amounts previously recognised in other comprehensive income are reclassified to profit or loss where appropriate. 2.2.2 Foreign currency translation (a)",
+  "art of the net investment are repaid, the associated exchange differences are reclassified to profit or loss, as part of the gain or loss on sale. 2.2.3 Property, pla",
+  "equity investment at fair value through other comprehensive income. The Group reclassifies debt investments when and only when its business model for managing those a",
+  "ve gain or loss previously recognised in other comprehensive income (\"OCI\") is reclassified from equity to profit or loss and recognised in \"other gains, net\". Interes",
+  "es on equity instruments in other comprehensive income, there is no subsequent reclassification of fair value gains and losses to profit or loss following the derecogn",
+  "ns, net\". During the year ended 31 December 2025, certain investments has been reclassified from \"A series of Unlisted equity securities shares\" to \"Other unlisted equ",
+  "nual Report 2025 釋義 Definitions \"Articles of Association\" the ninth amended and restated articles of association of the Company adopted by special resolution on 28 M"
+ ],
  "signatures": {
-  "balance": "d51c878f1e06ffc6",
-  "cashflow": "b835de6a970c3f55",
-  "income": "1c1fce19ce6411c4"
+  "balance": "436a70a82f330186",
+  "cashflow": "0ed9ca0dd4ae02d8",
+  "income": "a362d1c32a40eac0"
  },
  "statements": {
   "balance": {
@@ -280,7 +288,7 @@
      "1,166,148"
     ],
     [
-     "[小计] ܲʮʪᄆࠇ࠽ɝฦूٙ #2",
+     "[小计 2，含上一行“Cash and cash equivalents ତږʿତږഃᄆي”] ܲʮʪᄆࠇ࠽ɝฦूٙ",
      "ܲʮʪᄆࠇ࠽ɝฦूٙ",
      "7,466,753",
      "3,315,267"
@@ -545,7 +553,7 @@
     ],
     [
      "現金淨額",
-     "投資活動 (所用) ╱所得",
+     "Net cash (used in)/generated from investing activities 投資活動 (所用) ╱所得",
      "(3,946,361)",
      "74,091"
     ],
@@ -598,20 +606,20 @@
      "(70,000)"
     ],
     [
-     "融資活動所得現金淨額",
-     "Net cash generated from financing activities",
+     "Net cash generated from financing activities 融資活動所得現金淨額",
+     "Repayments of short-term bank borrowings",
      "5,566,598",
      "840,002"
     ],
     [
-     "現金及現金等價物增加淨額",
-     "Net increase in cash and cash equivalents",
+     "Net increase in cash and cash equivalents 現金及現金等價物增加淨額",
+     "Repayments of short-term bank borrowings",
      "1,454,826",
      "435,412"
     ],
     [
      "Cash and cash equivalents at beginning of the year ϋڋତږʿତږഃᄆي",
-     "Net increase in cash and cash equivalents",
+     "Repayments of short-term bank borrowings",
      "1,166,148",
      "710,761"
     ],
@@ -622,8 +630,8 @@
      "19,975"
     ],
     [
-     "年末現金及現金等價物",
-     "Cash and cash equivalents at end of the year",
+     "Cash and cash equivalents at end of the year 年末現金及現金等價物",
+     "ිଟᜊਗ࿁ତږʿ",
      "2,573,066",
      "1,166,148"
     ]
@@ -775,13 +783,13 @@
     ],
     [
      "Basic earnings/(loss) per share ӊٰਿ͉ޮлŊ ᑦฦ",
-     "每股盈利╱ (虧損)",
+     "利潤╱ (虧損) 的 每股盈利╱ (虧損)",
      "3",
      "(79)"
     ],
     [
      "Diluted earnings/(loss) per share ӊٰᛅᑛޮлŊ ᑦฦ",
-     "每股盈利╱ (虧損)",
+     "利潤╱ (虧損) 的 每股盈利╱ (虧損)",
      "3",
      "(79)"
     ]
@@ -793,12 +801,7 @@
    "unit_text": "Year ended 31 December\n截至12月31日止年度\n2025 2024\n2025年 2024ϋ\nNote RMB'000 RMB'000\nڝൗ 人民幣千元 ɛ͏࿆ɷʩ\nYear ended 31 December\n截至12月31日止年度\n2025 2024\n2025年 2024ϋ\nNote RMB'000 RMB'000\nڝൗ 人民幣千元 ɛ͏࿆ɷʩ\nRevenues ϗɝ 5 802,623 266,433\nCost of revenues ᐄุΎ͉ 6 (243,445) (143,007)\nGeneral and administrative expenses ɓছʿБ݁ක˕ 6 (409,894) (417,883)\nResearch and development expenses ޼೯ක˕ 6 (569,185) (418,238)\nSelling and marketing expenses ቖਯʿᐄቖක˕ 6 (81,166) (70,992)\nImpairment losses on financial assets ږፄ༟ପಯ࠽ᑦฦ 3.1(b) (8,627) (1,228)"
   }
  },
- "status": "ok",
- "step": {
-  "balance": 0.001,
-  "cashflow": 0.001,
-  "income": 0.001
- },
+ "status": "failed",
  "style": "ifrs",
  "title": "Annual Report 2025",
  "unit": {
@@ -808,79 +811,5 @@
   "text": "RMB'000"
  },
  "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0417/2026041701551.pdf",
- "values": {
-  "balance": {
-   "cur": {
-    "cash": 2573.0660000000003,
-    "equity_parent": null,
-    "inventories": 127.424,
-    "receivables": 151.149,
-    "short_term_investments": 1911.128,
-    "total_assets": 10217.462,
-    "total_current_assets": null,
-    "total_current_liabilities": 505.562,
-    "total_debt": 345.8,
-    "total_equity": 9430.852,
-    "total_liabilities": 786.61
-   },
-   "prior": {
-    "cash": 1166.148,
-    "equity_parent": null,
-    "inventories": 25.671,
-    "receivables": 98.746,
-    "short_term_investments": 149.138,
-    "total_assets": 4354.74,
-    "total_current_assets": null,
-    "total_current_liabilities": 279.724,
-    "total_debt": 51.9,
-    "total_equity": 3992.3070000000002,
-    "total_liabilities": 362.433
-   }
-  },
-  "cashflow": {
-   "cur": {
-    "buybacks": null,
-    "capex": 10.091000000000001,
-    "cfo": -165.411,
-    "dividends_paid": null
-   },
-   "prior": {
-    "buybacks": null,
-    "capex": 3.759,
-    "cfo": -478.681,
-    "dividends_paid": null
-   }
-  },
-  "income": {
-   "cur": {
-    "cost_of_sales": 243.445,
-    "eps_diluted": 0.03,
-    "gross_profit": 559.1780000000001,
-    "income_tax": 0.779,
-    "net_income": 134.579,
-    "net_income_parent": 123.747,
-    "operating_income": 55.236000000000004,
-    "pretax_income": 135.358,
-    "revenue": 802.623,
-    "rnd": 569.1850000000001,
-    "sga": 491.06
-   },
-   "prior": {
-    "cost_of_sales": 143.007,
-    "eps_diluted": -0.79,
-    "gross_profit": 123.42599999999999,
-    "income_tax": -0.0,
-    "net_income": -1514.8690000000001,
-    "net_income_parent": -1516.606,
-    "operating_income": -684.207,
-    "pretax_income": -1514.8690000000001,
-    "revenue": 266.433,
-    "rnd": 418.238,
-    "sga": 488.875
-   }
-  }
- },
- "warnings": [
-  "现金流量表有 2 行读不出两列数（例如“Ϋৰʊᒅ੻ٙତږ( 223,816) –”）"
- ]
+ "warnings": []
 }

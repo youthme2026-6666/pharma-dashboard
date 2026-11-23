@@ -169,14 +169,25 @@
    ]
   }
  },
- "mapping_source": "GPT 对照（第 2 次才通过核对）",
+ "mapping_source": "沿用本报告原有的对照",
  "months": 12,
- "parse_version": 1,
+ "parse_version": 2,
  "period_end": "2023-12-31",
  "problems": [],
  "processed": "2026-11-23",
  "published": "2024-04-29",
- "restatement_hint": "",
+ "restatement_texts": [
+  ",216) OTHER COMPREHENSIVE (LOSS)/INCOME Other comprehensive loss that may be reclassified to profit or loss in subsequent periods: Exchange differences on translati",
+  "gn operations (95,025) (294,663) Other comprehensive income that will not be reclassified to profit or loss in subsequent periods: Translation from functional curre",
+  "special resolution has been passed at an EGM held on May 19, 2023 to adopt the Restated Memorandum and Articles of Association of the Company (i) for the preparatio",
+  "protection standards as set out in the Listing Rules. A copy of the Amended and Restated Memorandum and Articles of Association has been posted on the website of the",
+  ",216) OTHER COMPREHENSIVE (LOSS)/INCOME Other comprehensive loss that may be reclassified to profit or loss in subsequent periods: Exchange differences on translati",
+  "gn operations (95,025) (294,663) Other comprehensive income that will not be reclassified to profit or loss in subsequent periods: Translation from functional curre",
+  "p's share of components previously recognised in other comprehensive income is reclassified to profit or loss or retained profits, as appropriate, on the same basis as",
+  "rlier application is permitted. When applying the amendments, an entity cannot restate comparative information. Any cumulative effect of initially applying the amen",
+  "ss is stated at cost less any impairment losses, and is not depreciated. It is reclassified to the appropriate category of property, plant and equipment when completed",
+  "at significantly modifies the cash flows that would otherwise be required or a reclassification of a financial asset out of the fair value through profit or loss categ"
+ ],
  "signatures": {
   "balance": "7eef6645cee5261e",
   "cashflow": "4cad65c249ef3469",

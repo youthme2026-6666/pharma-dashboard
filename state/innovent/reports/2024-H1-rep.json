@@ -157,14 +157,21 @@
    ]
   }
  },
- "mapping_source": "沿用 2024-H1-ann 的对照（版式相同）；GPT 对照",
+ "mapping_source": "沿用本报告原有的对照",
  "months": 6,
- "parse_version": 1,
+ "parse_version": 2,
  "period_end": "2024-06-30",
  "problems": [],
  "processed": "2026-11-23",
  "published": "2024-09-27",
- "restatement_hint": "SH AND CASH EQUIVALENTS AT 30 JUNE, 1,713,957 1,332,265 Represented by: Bank balances and cash 8,165,264 7,655,657 Less: Term",
+ "restatement_texts": [
+  "eriod (392,620) (139,149) Other comprehensive expense Item that will not be reclassified to profit or loss Fair value loss on investment in equity instruments at FVT",
+  "n investment in equity instruments at FVTOCI (12,538) (30,913) Item that may be reclassified subsequently to profit or loss Exchange differences arising on translation o",
+  "eriod (392,620) (139,149) Other comprehensive expense Item that will not be reclassified to profit or loss Fair value loss on investment in equity instruments at FVT",
+  "n investment in equity instruments at FVTOCI (12,538) (30,913) Item that may be reclassified subsequently to profit or loss Exchange differences arising on translation",
+  "od 7 (392,620) (139,149) Other comprehensive expense Item that will not be reclassified to profit or loss Fair value loss on investment in equity instruments at f",
+  "ough other comprehensive income ( \"FVTOCI \") (12,538) (30,913) Item that may be reclassified subsequently to profit or loss Exchange differences arising on translation o"
+ ],
  "signatures": {
   "balance": "d01c8c359e87af9d",
   "cashflow": "bf553eaf1ce6494d",

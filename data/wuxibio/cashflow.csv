@@ -1,0 +1,14 @@
+fiscal_year,fiscal_period,period_start,period_end,months,currency,unit,basis,source,cfo,capex,fcf,dividends_paid,buybacks
+2022,H1,2022-01-01,2022-06-30,6,CNY,millions,reported,https://www1.hkexnews.hk/listedco/listconews/sehk/2023/0921/2023092100788.pdf（上年同期比较数）,1457.918,2684.5,-1226.582,,691.056
+2022,H2,2022-07-01,2022-12-31,6,CNY,millions,derived,https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0429/2024042902400.pdf（上年同期比较数） − https://www1.hkexnews.hk/listedco/listconews/sehk/2023/0921/2023092100788.pdf（上年同期比较数）,4083.755,3183.89,899.865,,2113.398
+2022,FY,2022-01-01,2022-12-31,12,CNY,millions,reported,https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0429/2024042902400.pdf（上年同期比较数）,5541.673,5868.39,-326.717,,2804.454
+2023,H1,2023-01-01,2023-06-30,6,CNY,millions,reported,https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0920/2024092000515.pdf（上年同期比较数）,2750.086,2381.242,368.844,,0
+2023,H2,2023-07-01,2023-12-31,6,CNY,millions,derived,https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0429/2025042901768.pdf（上年同期比较数） − https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0920/2024092000515.pdf（上年同期比较数）,1917.626,1674.332,243.294,,916.916
+2023,FY,2023-01-01,2023-12-31,12,CNY,millions,reported,https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0429/2025042901768.pdf（上年同期比较数）,4667.712,4055.574,612.138,,916.916
+2024,H1,2024-01-01,2024-06-30,6,CNY,millions,reported,https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0922/2025092200734.pdf（上年同期比较数）,1302.119,1867.384,-565.265,,1234.39
+2024,H2,2024-07-01,2024-12-31,6,CNY,millions,derived,https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0429/2026042900764.pdf（上年同期比较数） − https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0922/2025092200734.pdf（上年同期比较数）,3915.138,2062.237,1852.901,,531.556
+2024,FY,2024-01-01,2024-12-31,12,CNY,millions,reported,https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0429/2026042900764.pdf（上年同期比较数）,5217.257,3929.621,1287.636,,1765.946
+2025,H1,2025-01-01,2025-06-30,6,CNY,millions,reported,https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0922/2025092200734.pdf,1806.754,1900.414,-93.66,,1031.664
+2025,H2,2025-07-01,2025-12-31,6,CNY,millions,derived,https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0429/2026042900764.pdf − https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0922/2025092200734.pdf,4534.168,1835.305,2698.863,,544.886
+2025,FY,2025-01-01,2025-12-31,12,CNY,millions,reported,https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0429/2026042900764.pdf,6340.922,3735.719,2605.203,,1576.55
+2026,H1,2026-01-01,2026-06-30,6,CNY,millions,reported,https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0922/2026092200478.pdf,4287.153,2757.194,1529.959,,1020.937

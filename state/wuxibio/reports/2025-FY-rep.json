@@ -103,10 +103,10 @@
    ],
    "total_assets": [
     "[小计] Non-current Assets",
-    "[小计] Current Assets #2"
+    "[小计 2，含上一行“Assets classified as held for sale”] Current Assets"
    ],
    "total_current_assets": [
-    "[小计] Current Assets #2"
+    "[小计 2，含上一行“Assets classified as held for sale”] Current Assets"
    ],
    "total_current_liabilities": [
     "[小计] Current Liabilities"
@@ -169,16 +169,32 @@
    ]
   }
  },
- "mapping_source": "沿用 2025-FY-ann 的对照（版式相同）；GPT 对照",
+ "mapping_source": "沿用本报告原有的对照；沿用 2025-FY-ann 的对照（版式相同）",
  "months": 12,
- "parse_version": 1,
+ "parse_version": 2,
  "period_end": "2025-12-31",
  "problems": [],
  "processed": "2026-11-23",
  "published": "2026-04-29",
- "restatement_hint": "",
+ "restatement_texts": [
+  "d the Restricted Share Award Scheme on January 15, 2018, which was amended and restated on June 27, 2023. The purposes of the Restricted Share Award Scheme are to (",
+  "he Global Partner Program Share Scheme on June 16, 2021, which was amended and restated on June 27, 2023. The purposes of the Global Partner Program Share Scheme ar",
+  ",733,227 3,945,371 Other comprehensive income (expense) Item that will not be reclassified to profit or loss: Fair value loss on investments in equity instruments a",
+  "e through other comprehensive income (\"FVTOCI\") — (21,486) Items that may be reclassified subsequently to profit or loss: Exchange differences arising on translation",
+  "viously recognized in other comprehensive income and accumulated in equity are reclassified to profit or loss in the periods when the hedged item affects profit or los",
+  "hedging reserve will not be recovered in the future that amount is immediately reclassified to profit or loss. Hedges of net investments in foreign operations Hedges of",
+  "the effective portion of the hedge accumulated in the translation reserve are reclassified to profit or loss on disposal of the foreign operation.",
+  "6,894 (6,851,376) — Disposals (23,630) (9,386) (32) (2,593) (41,458) — (77,099) Reclassified as held for sale (note 29) (22,705) (4,836) (320) (2,935,930) — (681,570) (",
+  "335 Transfer from CIP 947,378 134,938 958 60,835 1,284,043 (2,444,213) (16,061) Reclassified as held for sale and disposed (361,869) (88,819) — (285,639) (196,917) (304",
+  "7,401) — (1,337,882) Eliminated on disposals 19,887 8,330 12 58 41,458 — 69,745 Reclassified as held for sale (note 29) 7,532 2,418 159 263,723 — — 273,832 Exchange ali",
+  "43,319) (267,228) — (1,429,342) Transfer from CIP 14,476 257 — — 1,328 — 16,061 Reclassified as held for sale and disposed 110,971 18,524 — 86,434 56,862 — 272,791 Disp",
+  "me and accumulated in equity of RMB78,185,000 (2024: credit RMB25,685,000) are reclassified to revenue when the hedged item impacted profit or loss. 33. BORROWINGS",
+  "written off — (27,910) (27,910) — Impairment losses write-off — 4,314 4,314 — Reclassification from receivables for purchase of raw materials on behalf of customers",
+  "lobal partner program adopted by the Company on June 16, 2021 and amended and restated on June 27, 2023 \"GMP\" Good Manufacturing Practice",
+  "share award scheme adopted by the Company on January 15, 2018 and amended and restated on June 27, 2023 \"Scheme Mandate Limit\" 254,904,706 Shares, being the maximum"
+ ],
  "signatures": {
-  "balance": "6826185dbca57d2e",
+  "balance": "9937bb5111f138a0",
   "cashflow": "13dae6c808529881",
   "income": "6954f583400f8fd1"
  },
@@ -327,7 +343,7 @@
      "3,377,140"
     ],
     [
-     "[小计] Current Assets #2",
+     "[小计 2，含上一行“Assets classified as held for sale”] Current Assets",
      "Current Assets",
      "28,135,349",
      "23,573,191"

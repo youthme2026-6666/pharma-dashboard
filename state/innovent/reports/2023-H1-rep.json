@@ -87,12 +87,22 @@
  },
  "mapping_source": "沿用本报告原有的对照",
  "months": 6,
- "parse_version": 1,
+ "parse_version": 2,
  "period_end": "2023-06-30",
  "problems": [],
  "processed": "2026-11-23",
  "published": "2023-09-27",
- "restatement_hint": "00 RMB'000 RMB'000 RMB'000 RMB'000 (Note) At 1 January 2022 (restated) 101 22,493,658 (120,009) (313,652) 1,995 828,689 (12,560,38",
+ "restatement_texts": [
+  "(139,149) (950,468) Other comprehensive expense: Items that will not be reclassified to profit or loss Fair value loss on investment in equity instruments at FV",
+  "tment in equity instruments at FVTOCI (30,913) (42,715) Items that may be reclassified subsequently to profit or loss Exchange differences arising on translation",
+  "(139,149) (950,468) Other comprehensive expense: Items that will not be reclassified to profit or loss Fair value loss on investment in equity instruments at FV",
+  "tment in equity instruments at FVTOCI (30,913) (42,715) Items that may be reclassified subsequently to profit or loss Exchange differences arising on translation",
+  "d 7 (139,149) (950,468) Other comprehensive expense Items that will not be reclassified to profit or loss Fair value loss on investment in equity instruments at fa",
+  "ugh other comprehensive income ( \"FVTOCI \") (30,913) (42,715) Items that may be reclassified subsequently to profit or loss Exchange differences arising on translation o",
+  "B'000 RMB'000 RMB'000 RMB'000 RMB'000 RMB'000 RMB'000 (Note) At 1 January 2022 (restated) 101 22,493,658 (120,009) (313,652) 1,995 828,689 (12,560,385) 10,330,397 Los",
+  "hted average grant date fair value per share HK$ Unvested as at 1 January 2022 (Restated) 10,472,456 37.49 Vested (1,451,744) 26.23 Forfeited (394,660) 43.61 Unve",
+  "hted average grant date fair value per share HK$ Unvested as at 1 January 2022 (Restated) 9,635,760 64.69 Granted 18,470,549 30.60 Vested (5,535) 65.04 Forfeited (1,0"
+ ],
  "signatures": {
   "cashflow": "d43384603e5b55da",
   "income": "0cf47f2fe4ca7fa7"

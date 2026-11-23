@@ -167,14 +167,18 @@
    ]
   }
  },
- "mapping_source": "GPT 对照",
+ "mapping_source": "沿用本报告原有的对照",
  "months": 6,
- "parse_version": 1,
+ "parse_version": 2,
  "period_end": "2026-06-30",
  "problems": [],
  "processed": "2026-11-23",
  "published": "2026-08-19",
- "restatement_hint": "",
+ "restatement_texts": [
+  "iod (224,944) 75,609 Other comprehensive (loss)/income Items that will not be reclassified to profit or loss – Currency translation differences (414,690) (69,110) Item",
+  "rency translation differences (414,690) (69,110) Items that may be subsequently reclassified to profit or loss – Currency translation differences 153,082 26,619 Other",
+  "conciliation for each line item in the statement of profit or loss between the restated amounts presented by applying IFRS 18 and the amounts previously presented a"
+ ],
  "signatures": {
   "balance": "c7b24f76bc415397",
   "cashflow": "597a5734d167452b",

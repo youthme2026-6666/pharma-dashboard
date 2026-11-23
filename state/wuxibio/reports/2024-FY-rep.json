@@ -103,10 +103,10 @@
    ],
    "total_assets": [
     "[小计] Non-current Assets",
-    "[小计] Current Assets #2"
+    "[小计 2，含上一行“Assets classified as held for sale”] Current Assets"
    ],
    "total_current_assets": [
-    "[小计] Current Assets #2"
+    "[小计 2，含上一行“Assets classified as held for sale”] Current Assets"
    ],
    "total_current_liabilities": [
     "[小计] Current Liabilities"
@@ -169,16 +169,37 @@
    ]
   }
  },
- "mapping_source": "沿用 2023-FY-rep 的对照（版式相同）；GPT 对照",
+ "mapping_source": "沿用本报告原有的对照；GPT 对照",
  "months": 12,
- "parse_version": 1,
+ "parse_version": 2,
  "period_end": "2024-12-31",
  "problems": [],
  "processed": "2026-11-23",
  "published": "2025-04-29",
- "restatement_hint": "",
+ "restatement_texts": [
+  "o approximately RMB26,070.5 million as at December 31, 2024, mainly due to the reclassification of the assets related to the vaccines manufacturing facility in Ireland",
+  "ase refer to the announcement of the Company dated January 6, 2025. The assets reclassified as held for sales comprise all the property and assets related to Vaccines",
+  "pproximately RMB2,778.2 million as at December 31, 2024, mainly due to (i) the reclassification of the remaining balance of advance payment previously received from MS",
+  "to approximately RMB142.8 million as at December 31, 2024, mainly due to the reclassification of the remaining balance of advance payment received from MSD Internati",
+  "d the Restricted Share Award Scheme on January 15, 2018, which was amended and restated on June 27, 2023. The purposes of the Restricted Share Award Scheme are to (",
+  "he Global Partner Program Share Scheme on June 16, 2021, which was amended and restated on June 27, 2023. The purposes of the Global Partner Program Share Scheme ar",
+  ",945,371 3,570,624 Other comprehensive (expense) income Item that will not be reclassified to profit or loss: Fair value loss on investments in equity instruments",
+  "gh other comprehensive income (\"FVTOCI\") (21,486) (20,806) Items that may be reclassified subsequently to profit or loss: Exchange differences arising on translation",
+  "directly disposed of the related assets or liabilities of the subsidiary (i.e. reclassified to profit or loss or transferred to another category of equity as specified",
+  "not subject to impairment assessment. The cumulative gain or loss will not be reclassified to profit or loss on disposal of the equity instruments, and will be transf",
+  "e cumulative gain or loss previously accumulated in the FVTOCI reserve is not reclassified to profit or loss, but is transferred to retained earnings. Financial liabil",
+  "viously recognized in other comprehensive income and accumulated in equity are reclassified to profit or loss in the periods when the hedged item affects profit or los",
+  "hedging reserve will not be recovered in the future that amount is immediately reclassified to profit or loss. Hedges of net investments in foreign operations Hedges of",
+  "the effective portion of the hedge accumulated in the translation reserve are reclassified to profit or loss on disposal of the foreign operation. Discontinuation of",
+  "6,894 (6,851,376) — Disposals (23,630) (9,386) (32) (2,593) (41,458) — (77,099) Reclassified as held for sale (note 30) (22,705) (4,836) (320) (2,935,930) — (681,570) (",
+  "7,401) — (1,337,882) Eliminated on disposals 19,887 8,330 12 58 41,458 — 69,745 Reclassified as held for sale (note 30) 7,532 2,418 159 263,723 — — 273,832 Exchange ali",
+  "e and accumulated in equity of RMB25,685,000 (2023: credit RMB342,188,000) are reclassified to revenue when the hedged item impacted profit or loss.",
+  "y written off — (27,910) (27,910) — Impairment losses write-off 4,314 4,314 — Reclassification from receivables for purchase of raw materials on behalf of customers",
+  "lobal partner program adopted by the Company on June 16, 2021 and amended and restated on June 27, 2023 \"GMP\" Good Manufacturing Practice \"Group\" or \"we\" or \"our\"",
+  "share award scheme adopted by the Company on January 15, 2018 and amended and restated on June 27, 2023 \"Scheme Mandate Limit\" 254,904,706 Shares, being the maximum"
+ ],
  "signatures": {
-  "balance": "9c5de57330e34cbe",
+  "balance": "5cb5e9bd1c92b239",
   "cashflow": "236ae519d3859771",
   "income": "7f132befd0f97788"
  },
@@ -339,7 +360,7 @@
      "—"
     ],
     [
-     "[小计] Current Assets #2",
+     "[小计 2，含上一行“Assets classified as held for sale”] Current Assets",
      "Current Assets",
      "23,573,191",
      "21,198,249"

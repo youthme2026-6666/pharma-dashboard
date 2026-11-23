@@ -167,14 +167,17 @@
    ]
   }
  },
- "mapping_source": "GPT 对照",
+ "mapping_source": "沿用本报告原有的对照",
  "months": 6,
- "parse_version": 1,
+ "parse_version": 2,
  "period_end": "2025-06-30",
  "problems": [],
  "processed": "2026-11-23",
  "published": "2025-08-27",
- "restatement_hint": "",
+ "restatement_texts": [
+  "e period 75,609 (1,237,550) Other comprehensive income Items that will not be reclassified to profit or loss — Changes in fair value of convertible redeemable preferr",
+  "rrency translation differences (69,110) (10,924) Items that may be subsequently reclassified to profit or loss — Currency translation differences 26,619 (11,465) Othe"
+ ],
  "signatures": {
   "balance": "f9cfe30dffeb1def",
   "cashflow": "3d150dae51dedb90",

@@ -167,14 +167,22 @@
    ]
   }
  },
- "mapping_source": "GPT 对照",
+ "mapping_source": "沿用本报告原有的对照",
  "months": 6,
- "parse_version": 1,
+ "parse_version": 2,
  "period_end": "2023-06-30",
  "problems": [],
  "processed": "2026-11-23",
  "published": "2023-09-21",
- "restatement_hint": "",
+ "restatement_texts": [
+  "d the Restricted Share Award Scheme on January 15, 2018, which was amended and restated on June 27, 2023. The purposes of the Restricted Share Award Scheme are to (",
+  "he Global Partner Program Share Scheme on June 16, 2021, which was amended and restated on June 27, 2023. The purposes of the Global Partner Program Share Scheme ar",
+  "period 2,337,860 2,621,225 Other comprehensive expense: Item that will not be reclassified to profit or loss: Fair value loss on investments in equity instruments at",
+  "other comprehensive income (\" FVTOCI \") (20,615) (49,552) Items that may be reclassified subsequently to profit or loss: Exchange differences on translation of fore",
+  "of RMB173,242,000 (six months ended June 30, 2022: RMB68,327,000 gains) were reclassified to revenue when the hedged item affects profit or loss. 25. DEFERRED INCOME",
+  "lobal partner program adopted by the Company on June 16, 2021 and amended and restated on June 27, 2023 \"GMP\" Good Manufacturing Practice \"Group\" or \"we\" or \"our\"",
+  "share award scheme adopted by the Company on January 15, 2018 and amended and restated on June 27, 2023 \"RNA\" ribonucleic acid \"Scheme Mandate Limit\" 254,904,706 S"
+ ],
  "signatures": {
   "balance": "5e27029193bf612d",
   "cashflow": "91942b652cdc3cc8",

@@ -167,14 +167,24 @@
    ]
   }
  },
- "mapping_source": "沿用 2024-FY-ann 的对照（版式相同）；GPT 对照（第 2 次才通过核对）",
+ "mapping_source": "沿用本报告原有的对照",
  "months": 12,
- "parse_version": 1,
+ "parse_version": 2,
  "period_end": "2024-12-31",
  "problems": [],
  "processed": "2026-11-23",
  "published": "2025-04-29",
- "restatement_hint": "",
+ "restatement_texts": [
+  "d one of the Company's subsidiaries \"Articles of Association\" fifth amended and restated articles of association of the Company adopted by special resolution passed",
+  "2,351 OTHER COMPREHENSIVE INCOME/(LOSS) Other comprehensive loss that may be reclassified to profit or loss in subsequent periods: Exchange differences on translati",
+  "gn operations (106,809) (95,025) Other comprehensive income that will not be reclassified to profit or loss in subsequent periods: Translation from functional curre",
+  "p's share of components previously recognised in other comprehensive income is reclassified to profit or loss or retained profits, as appropriate, on the same basis as",
+  "f equity) at the initial application date. Prior periods are not required to be restated and can only be restated without the use of hindsight. Earlier application o",
+  "pplication date. Prior periods are not required to be restated and can only be restated without the use of hindsight. Earlier application of either all the amendment",
+  "rlier application is permitted. When applying the amendments, an entity cannot restate comparative information. Any cumulative effect of initially applying the amen",
+  "ss is stated at cost less any impairment losses, and is not depreciated. It is reclassified to the appropriate category of property, plant and equipment when completed",
+  "at significantly modifies the cash flows that would otherwise be required or a reclassification of a financial asset out of the fair value through profit or loss categ"
+ ],
  "signatures": {
   "balance": "390222538b4cdc2d",
   "cashflow": "d17094a4f06ea1e1",

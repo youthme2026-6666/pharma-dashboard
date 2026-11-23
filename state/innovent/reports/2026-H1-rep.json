@@ -159,14 +159,17 @@
    ]
   }
  },
- "mapping_source": "沿用 2026-H1-ann 的对照（版式相同）；GPT 对照",
+ "mapping_source": "沿用本报告原有的对照",
  "months": 6,
- "parse_version": 1,
+ "parse_version": 2,
  "period_end": "2026-06-30",
  "problems": [],
  "processed": "2026-11-23",
  "published": "2026-09-29",
- "restatement_hint": "ing from its pipeline assets. The accumulated achievements represented a pivotal progress as the Company strategically refines its",
+ "restatement_texts": [
+  "iod 1,253,142 834,321 Other comprehensive (expense) income Items that may be reclassified subsequently to profit or loss Exchange differences arising on translation",
+  "8 1,253,142 834,321 Other comprehensive (expense) income Item that may be reclassified subsequently to profit or loss Exchange differences arising on translation o"
+ ],
  "signatures": {
   "balance": "80e8ea8fa224fb83",
   "cashflow": "dd3b030b57daaa71",

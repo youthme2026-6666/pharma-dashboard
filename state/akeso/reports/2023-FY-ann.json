@@ -161,14 +161,19 @@
    ]
   }
  },
- "mapping_source": "GPT 对照",
+ "mapping_source": "沿用本报告原有的对照",
  "months": 12,
- "parse_version": 1,
+ "parse_version": 2,
  "period_end": "2023-12-31",
  "problems": [],
  "processed": "2026-11-23",
  "published": "2024-03-18",
- "restatement_hint": "",
+ "restatement_texts": [
+  ",216) OTHER COMPREHENSIVE (LOSS)/INCOME Other comprehensive loss that may be reclassified to profit or loss in subsequent periods: Exchange differences on translati",
+  "gn operations (95,025) (294,663) Other comprehensive income that will not be reclassified to profit or loss in subsequent periods: Translation from functional curre",
+  "000 OTHER COMPREHENSIVE (LOSS)/ INCOME Other comprehensive loss that may be reclassified to profit or loss in subsequent periods: Exchange differences on translati",
+  "n operations (95,025) (294,663) Other comprehensive income that will not be reclassified to profit or loss in subsequent periods: Translation from functional curr"
+ ],
  "signatures": {
   "balance": "75a92b4c1b20cdaa",
   "cashflow": "3b892f8a4468f3fe",

@@ -139,14 +139,22 @@
    ]
   }
  },
- "mapping_source": "GPT 对照",
+ "mapping_source": "沿用本报告原有的对照",
  "months": 12,
- "parse_version": 1,
+ "parse_version": 2,
  "period_end": "2023-12-31",
  "problems": [],
  "processed": "2026-11-23",
  "published": "2024-03-20",
- "restatement_hint": "",
+ "restatement_texts": [
+  "027,913) (2,179,270) Other comprehensive income (expense) Item that will not be reclassified to profit or loss Fair value gain (loss) on investment in equity instruments",
+  "e through other comprehensive income ( \"FVTOCI \") 15,731 (876) Item that may be reclassified subsequently to profit or loss Exchange differences arising on translation",
+  "027,913) (2,179,270) Other comprehensive income (expense) Item that will not be reclassified to profit or loss Fair value gain (loss) on investment in equity instruments",
+  ") on investment in equity instruments at FVTOCI 15,731 (876) Item that may be reclassified subsequently to profit or loss Exchange differences arising on translation o",
+  "027,913) (2,179,270) Other comprehensive income (expense) Item that will not be reclassified to profit or loss Fair value gain (loss) on investment in equity instruments",
+  "at fair value through other comprehensive income 15,731 (876) Item that may be reclassified subsequently to profit or loss Exchange differences arising on translatio",
+  "nt lenders, the application of the 2020 and 2022 Amendments will not result in reclassification of the Group 's liabilities."
+ ],
  "signatures": {
   "balance": "28f0eb77693cd119",
   "income": "e6f390dda313c500"

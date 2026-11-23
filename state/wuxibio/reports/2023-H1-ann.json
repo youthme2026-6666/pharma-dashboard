@@ -145,14 +145,19 @@
    ]
   }
  },
- "mapping_source": "GPT 对照",
+ "mapping_source": "沿用本报告原有的对照",
  "months": 6,
- "parse_version": 1,
+ "parse_version": 2,
  "period_end": "2023-06-30",
  "problems": [],
  "processed": "2026-11-23",
  "published": "2023-08-23",
- "restatement_hint": "",
+ "restatement_texts": [
+  "period 2,337,860 2,621,225 Other comprehensive expense: Item that will not be reclassified to profit or loss: Fair value loss on investments in equity instruments at",
+  "gh other comprehensive income (\"FVTOCI\") (20,615) (49,552) Items that may be reclassified subsequently to profit or loss: Exchange differences on translation of fore",
+  "global partner program adopted by the Company on June 16, 2021 and amended and restated on June 27, 2023 \"GMP\" Good Manufacturing Practice \"Group\" or \"we\" or \"our\"",
+  "share award scheme adopted by the Company on January 15, 2018 and amended and restated on June 27, 2023 \"RNA\" ribonucleic acid \"Shareholder(s)\" holder(s) of Share("
+ ],
  "signatures": {
   "balance": "c1782740553ba3da",
   "income": "579e5fb58e0ae613"

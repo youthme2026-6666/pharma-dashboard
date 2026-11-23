@@ -91,10 +91,10 @@
    ],
    "total_assets": [
     "[小计] Non-current Asset",
-    "[小计] Current Assets #2"
+    "[小计 2，含上一行“Assets classified as held for sale”] Current Assets"
    ],
    "total_current_assets": [
-    "[小计] Current Assets #2"
+    "[小计 2，含上一行“Assets classified as held for sale”] Current Assets"
    ],
    "total_current_liabilities": [
     "[小计] Current Liabilities"
@@ -145,16 +145,25 @@
    ]
   }
  },
- "mapping_source": "GPT 对照（第 2 次才通过核对）",
+ "mapping_source": "沿用本报告原有的对照；GPT 对照",
  "months": 12,
- "parse_version": 1,
+ "parse_version": 2,
  "period_end": "2024-12-31",
  "problems": [],
  "processed": "2026-11-23",
  "published": "2025-03-25",
- "restatement_hint": "",
+ "restatement_texts": [
+  "o approximately RMB26,070.5 million as at December 31, 2024, mainly due to the reclassification of the assets related to the vaccines manufacturing facility in Ireland",
+  "ase refer to the announcement of the Company dated January 6, 2025. The assets reclassified as held for sales comprise all the property and assets related to Vaccines",
+  "pproximately RMB2,778.2 million as at December 31, 2024, mainly due to (i) the reclassification of the remaining balance of advance payment previously received from MS",
+  "3 to approximately RMB142.8 million as at December 31, 2024, mainly due to the reclassification of the remaining balance of advance payment received from MSD Internati",
+  ",945,371 3,570,624 Other comprehensive (expense) income Item that will not be reclassified to profit or loss: Fair value loss on investments in equity instruments at",
+  "gh other comprehensive income (\"FVTOCI\") (21,486) (20,806) Items that may be reclassified subsequently to profit or loss: Exchange differences arising on translation",
+  "lobal partner program adopted by the Company on June 16, 2021 and amended and restated on June 27, 2023 \"GMP\" Good Manufacturing Practice \"Group\" or \"we\" or \"our\" o",
+  "share award scheme adopted by the Company on January 15, 2018 and amended and restated on June 27, 2023 \"Shareholder(s)\" holder(s) of Share(s) \"Share(s)\" ordinary"
+ ],
  "signatures": {
-  "balance": "a3ab044a4cb69bfb",
+  "balance": "79f47c3db8ad2924",
   "income": "62edf3f716c98847"
  },
  "statements": {
@@ -313,7 +322,7 @@
      "—"
     ],
     [
-     "[小计] Current Assets #2",
+     "[小计 2，含上一行“Assets classified as held for sale”] Current Assets",
      "Current Assets",
      "23,573,191",
      "21,198,249"

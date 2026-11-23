@@ -1,0 +1,16 @@
+{
+  "currency": "CNY",
+  "events": 0,
+  "id": "wuxibio",
+  "latest_period": "2026 H1",
+  "latest_period_end": "2026-06-30",
+  "name_en": "WuXi Biologics",
+  "name_zh": "药明生物",
+  "rows": {
+    "balance": 8,
+    "cashflow": 13,
+    "income": 13,
+    "segments": 0
+  },
+  "source": "hkex"
+}

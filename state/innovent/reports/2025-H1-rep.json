@@ -157,17 +157,22 @@
    ]
   }
  },
- "mapping_source": "沿用 2025-H1-ann 的对照（版式相同）；GPT 对照",
+ "mapping_source": "沿用本报告原有的对照；GPT 对照",
  "months": 6,
- "parse_version": 1,
+ "parse_version": 2,
  "period_end": "2025-06-30",
  "problems": [],
  "processed": "2026-11-23",
  "published": "2025-09-29",
- "restatement_hint": "SH AND CASH EQUIVALENTS AT 30 JUNE, 3,770,313 1,713,957 Represented by: Bank balances and cash 10,117,391 8,165,264 Less: Term",
+ "restatement_texts": [
+  "4,321 (392,620) Other comprehensive income (expense): Item that will not be reclassified to profit or loss Fair value loss on investment in equity instruments at FVT",
+  "n equity instruments at FVTOCI, net of income tax – (12,538) Item that may be reclassified subsequently to profit or loss Exchange differences arising on translation",
+  "4,321 (392,620) Other comprehensive (expense) income Item that will not be reclassified to profit or loss Fair value loss on investment in equity instruments at fa",
+  "mprehensive income ( \"FVTOCI\"), net of income tax – (12,538) Item that may be reclassified subsequently to profit or loss Exchange differences arising on translation o"
+ ],
  "signatures": {
   "balance": "993adc6368696ccd",
-  "cashflow": "143823d13a16b2d7",
+  "cashflow": "1ae47fdd805e979c",
   "income": "9d98c62487d5fecc"
  },
  "statements": {
@@ -786,7 +791,7 @@
      "140,885"
     ],
     [
-     "[小计] Overtime #2",
+     "[小计 2，含上一行“[小计] Overtime”] Overtime",
      "Overtime",
      "5,953,094",
      "3,952,291"

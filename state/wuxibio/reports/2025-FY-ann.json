@@ -91,10 +91,10 @@
    ],
    "total_assets": [
     "[小计] Non-current Assets",
-    "[小计] Current Assets #2"
+    "[小计 2，含上一行“Assets classified as held for sale”] Current Assets"
    ],
    "total_current_assets": [
-    "[小计] Current Assets #2"
+    "[小计 2，含上一行“Assets classified as held for sale”] Current Assets"
    ],
    "total_current_liabilities": [
     "[小计] Current Liabilities"
@@ -145,16 +145,21 @@
    ]
   }
  },
- "mapping_source": "GPT 对照",
+ "mapping_source": "沿用本报告原有的对照；GPT 对照",
  "months": 12,
- "parse_version": 1,
+ "parse_version": 2,
  "period_end": "2025-12-31",
  "problems": [],
  "processed": "2026-11-23",
  "published": "2026-03-24",
- "restatement_hint": "",
+ "restatement_texts": [
+  ",733,227 3,945,371 Other comprehensive income (expense) Item that will not be reclassified to profit or loss: Fair value loss on investments in equity instruments at",
+  "e through other comprehensive income (\"FVTOCI\") — (21,486) Items that may be reclassified subsequently to profit or loss: Exchange differences arising on translation",
+  "lobal partner program adopted by the Company on June 16, 2021 and amended and restated on June 27, 2023 \"GMP\" Good Manufacturing Practice \"Group\" or \"we\" or \"our\"",
+  "share award scheme adopted by the Company on January 15, 2018 and amended and restated on June 27, 2023 \"Shareholder(s)\" holder(s) of Share(s) \"Share(s)\" ordinary"
+ ],
  "signatures": {
-  "balance": "6826185dbca57d2e",
+  "balance": "9937bb5111f138a0",
   "income": "198fe1cd07b2f49a"
  },
  "statements": {
@@ -301,7 +306,7 @@
      "3,377,140"
     ],
     [
-     "[小计] Current Assets #2",
+     "[小计 2，含上一行“Assets classified as held for sale”] Current Assets",
      "Current Assets",
      "28,135,349",
      "23,573,191"

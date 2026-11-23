@@ -108,10 +108,10 @@
    ],
    "total_assets": [
     "[小计] Non-current Assets",
-    "[小计] Current Assets #2"
+    "[小计 2，含上一行“Assets classified as held for sale”] Current Assets"
    ],
    "total_current_assets": [
-    "[小计] Current Assets #2"
+    "[小计 2，含上一行“Assets classified as held for sale”] Current Assets"
    ],
    "total_current_liabilities": [
     "[小计] Current Liabilities"
@@ -173,16 +173,25 @@
    ]
   }
  },
- "mapping_source": "GPT 对照（第 2 次才通过核对）",
+ "mapping_source": "沿用本报告原有的对照；GPT 对照",
  "months": 6,
- "parse_version": 1,
+ "parse_version": 2,
  "period_end": "2025-06-30",
  "problems": [],
  "processed": "2026-11-23",
  "published": "2025-09-22",
- "restatement_hint": "",
+ "restatement_texts": [
+  "ated assets, comprised of property, plant and equipment, and inventories, were reclassified as held for sale with an amount of approximately RMB722.2 million. The tran",
+  "d the Restricted Share Award Scheme on January 15, 2018, which was amended and restated on June 27, 2023. The purposes of the Restricted Share Award Scheme are to (",
+  "he Global Partner Program Share Scheme on June 16, 2021, which was amended and restated on June 27, 2023. The purposes of the Global Partner Program Share Scheme ar",
+  "756,611 1,780,310 Other comprehensive income (expense): Item that will not be reclassified to profit or loss: Fair value loss on investments in equity instruments at",
+  "e through other comprehensive income (\"FVTOCI\") — (21,486) Items that may be reclassified subsequently to profit or loss: Exchange differences on translation of fore",
+  "ty of RMB17,129,000 (six months ended June 30, 2024: RMB3,671,000 gains) were reclassified to revenue when the hedged item affects profit or loss for the current peri",
+  "lobal partner program adopted by the Company on June 16, 2021 and amended and restated on June 27, 2023 \"GMP\" Good Manufacturing Practice \"Group\" or \"we\" or \"our\"",
+  "share award scheme adopted by the Company on January 15, 2018 and amended and restated on June 27, 2023"
+ ],
  "signatures": {
-  "balance": "8c66450ece2f4f24",
+  "balance": "04e9445091733271",
   "cashflow": "ab9ba8c08074ed4c",
   "income": "55ebb94c28e2e19b"
  },
@@ -339,7 +348,7 @@
      "3,377,140"
     ],
     [
-     "[小计] Current Assets #2",
+     "[小计 2，含上一行“Assets classified as held for sale”] Current Assets",
      "Current Assets",
      "24,446,633",
      "23,573,191"

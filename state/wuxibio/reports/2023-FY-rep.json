@@ -169,14 +169,28 @@
    ]
   }
  },
- "mapping_source": "沿用 2023-H1-ann 的对照（版式相同）；GPT 对照",
+ "mapping_source": "沿用本报告原有的对照",
  "months": 12,
- "parse_version": 1,
+ "parse_version": 2,
  "period_end": "2023-12-31",
  "problems": [],
  "processed": "2026-11-23",
  "published": "2024-04-29",
- "restatement_hint": "",
+ "restatement_texts": [
+  "d the Restricted Share Award Scheme on January 15, 2018, which was amended and restated on June 27, 2023. The purposes of the Restricted Share Award Scheme are to (",
+  "he Global Partner Program Share Scheme on June 16, 2021, which was amended and restated on June 27, 2023. The purposes of the Global Partner Program Share Scheme ar",
+  ",570,624 4,549,906 Other comprehensive (expense) income Item that will not be reclassified to profit or loss: Fair value loss on investments in equity instruments a",
+  "gh other comprehensive income (\"FVTOCI\") (20,806) (59,731) Items that may be reclassified subsequently to profit or loss: Exchange differences arising on translation",
+  "directly disposed of the related assets or liabilities of the subsidiary (i.e. reclassified to profit or loss or transferred to another category of equity as specified",
+  "not subject to impairment assessment. The cumulative gain or loss will not be reclassified to profit or loss on disposal of the equity instruments, and will be transf",
+  "e cumulative gain or loss previously accumulated in the FVTOCI reserve is not reclassified to profit or loss, but is transferred to retained earnings. A modification o",
+  "viously recognized in other comprehensive income and accumulated in equity are reclassified to profit or loss in the periods when the hedged item affects profit or los",
+  "hedging reserve will not be recovered in the future that amount is immediately reclassified to profit or loss.",
+  "the effective portion of the hedge accumulated in the translation reserve are reclassified to profit or loss on disposal of the foreign operation. Discontinuation of",
+  "and accumulated in equity of RMB342,188,000 (2022: credit RMB246,159,000) are reclassified to revenue when the hedged item affects profit or loss.",
+  "lobal partner program adopted by the Company on June 16, 2021 and amended and restated on June 27, 2023 \"GMP\" Good Manufacturing Practice \"Group\" or \"we\" or \"our\"",
+  "share award scheme adopted by the Company on January 15, 2018 and amended and restated on June 27, 2023"
+ ],
  "signatures": {
   "balance": "c1782740553ba3da",
   "cashflow": "19a073f568bb39d1",

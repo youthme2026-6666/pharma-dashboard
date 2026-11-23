@@ -2,7 +2,93 @@
  "check_version": 3,
  "doc": "2026-H1-rep",
  "fiscal_year": 2026,
- "gpt_answer": {
+ "kind": "report",
+ "mapping": {
+  "balance": {
+   "cash": [
+    22
+   ],
+   "equity_parent": [
+    48
+   ],
+   "inventories": [
+    11
+   ],
+   "receivables": [
+    13
+   ],
+   "short_term_investments": [
+    18,
+    21
+   ],
+   "total_assets": [
+    10,
+    25
+   ],
+   "total_current_assets": [
+    25
+   ],
+   "total_current_liabilities": [
+    36
+   ],
+   "total_debt": [
+    27,
+    40
+   ],
+   "total_equity": [
+    50
+   ],
+   "total_liabilities": [
+    36,
+    44
+   ]
+  },
+  "cashflow": {
+   "buybacks": [
+    23
+   ],
+   "capex": [
+    4
+   ],
+   "cfo": [
+    0
+   ]
+  },
+  "income": {
+   "cost_of_sales": [
+    1
+   ],
+   "eps_diluted": [
+    24
+   ],
+   "gross_profit": [
+    2
+   ],
+   "income_tax": [
+    11
+   ],
+   "net_income": [
+    12
+   ],
+   "net_income_parent": [
+    17
+   ],
+   "pretax_income": [
+    10
+   ],
+   "revenue": [
+    0
+   ],
+   "rnd": [
+    8
+   ],
+   "sga": [
+    6,
+    7
+   ]
+  }
+ },
+ "mapping_labels": {
   "balance": {
    "cash": [
     "Bank balances and cash"
@@ -22,13 +108,13 @@
    ],
    "total_assets": [
     "[小计] Non-current Assets",
-    "[小计] Current Assets #2"
+    "[小计 2，含上一行“Assets classified as held for sale”] Current Assets"
    ],
    "total_current_assets": [
-    "[小计] Current Assets #2"
+    "[小计 2，含上一行“Assets classified as held for sale”] Current Assets"
    ],
    "total_current_liabilities": [
-    "[小计] Current Liabilities"
+    "[小计 2，含上一行“Liabilities classified as held for sale”] Current Liabilities"
    ],
    "total_debt": [
     "Borrowings",
@@ -38,7 +124,7 @@
     "Total Equity"
    ],
    "total_liabilities": [
-    "[小计] Current Liabilities",
+    "[小计 2，含上一行“Liabilities classified as held for sale”] Current Liabilities",
     "[小计] Non-current Liabilities"
    ]
   },
@@ -87,20 +173,24 @@
    ]
   }
  },
- "kind": "report",
- "mapping_source": "GPT 对照",
+ "mapping_source": "GPT 对照（第 2 次才通过核对）",
  "months": 6,
- "parse_version": 1,
+ "parse_version": 2,
  "period_end": "2026-06-30",
- "problems": [
-  "GPT 的对照没通过核对（问了 2 次）：资产负债表：资产 ≠ 负债 + 权益（期末：65363.193 ≠ 10794.055 + 54520.755）；资产负债表：流动资产净值 ≠ 流动资产 − 流动负债（期末）；资产负债表：总资产减流动负债 ≠ 资产 − 流动负债（期末）"
- ],
+ "problems": [],
  "processed": "2026-11-23",
  "published": "2026-09-22",
- "restatement_hint": "",
+ "restatement_texts": [
+  "d the Restricted Share Award Scheme on January 15, 2018, which was amended and restated on June 27, 2023. The purposes of the Restricted Share Award Scheme are to (",
+  "he Global Partner Program Share Scheme on June 16, 2021, which was amended and restated on June 27, 2023. The purposes of the Global Partner Program Share Scheme ar",
+  "2,916,209 2,756,611 Other comprehensive (expense) income: Items that may be reclassified subsequently to profit or loss: Exchange differences on translation of for",
+  "RMB24,653,000 (six months ended June 30, 2025: losses of RMB17,129,000) were reclassified to revenue when the hedged item affects profit or loss for the current peri",
+  "lobal partner program adopted by the Company on June 16, 2021 and amended and restated on June 27, 2023 \"GMP\" Good Manufacturing Practice \"Group\" or \" we\" or \" our\"",
+  "share award scheme adopted by the Company on January 15, 2018 and amended and restated on June 27, 2023"
+ ],
  "signatures": {
-  "balance": "65bc9142b1a711c9",
-  "cashflow": "b284c288e04b3053",
+  "balance": "eb39b7eb87b2b322",
+  "cashflow": "4cd4787d098927fc",
   "income": "9286e98fe4210918"
  },
  "statements": {
@@ -268,7 +358,7 @@
      "—"
     ],
     [
-     "[小计] Current Assets #2",
+     "[小计 2，含上一行“Assets classified as held for sale”] Current Assets",
      "Current Assets",
      "27,197,310",
      "28,135,349"
@@ -334,7 +424,7 @@
      "—"
     ],
     [
-     "[小计] Current Liabilities #2",
+     "[小计 2，含上一行“Liabilities classified as held for sale”] Current Liabilities",
      "Current Liabilities",
      "8,190,154",
      "8,307,558"
@@ -654,7 +744,7 @@
      "—"
     ],
     [
-     "[小计] FINANCING ACTIVITIES #2",
+     "[小计 2，含上一行“Bank balances classified as held for sale”] FINANCING ACTIVITIES",
      "FINANCING ACTIVITIES",
      "8,950,045",
      "8,439,058"
@@ -882,9 +972,92 @@
    "unit_text": "For the six months ended June 30, 2026\nWuXi Biologics (Cayman) Inc.   Interim Report 2026\nSix months ended June 30,\n2026 2025\nNOTES RMB'000 RMB'000\n(Unaudited) (Unaudited)\nFor the six months ended June 30, 2026\n54\nWuXi Biologics (Cayman) Inc.   Interim Report 2026\nSix months ended June 30,\n2026 2025\nNOTES RMB'000 RMB'000\n(Unaudited) (Unaudited)\nRevenue 4 11,787,238 9,953,216\nCost of sales (6,338,919) (5,700,364)\nGross profit 5,448,319 4,252,852\nOther income 6 276,223 326,414\nOther gains and losses 7 (540,509) 360,977"
   }
  },
- "status": "failed",
+ "status": "ok",
+ "step": {
+  "balance": 0.001,
+  "cashflow": 0.001,
+  "income": 1e-05
+ },
  "style": "ifrs",
  "title": "Interim Report 2026",
+ "unit": {
+  "currency": "CNY",
+  "eps_unit": "yuan",
+  "scale": 0.001,
+  "text": "RMB'000"
+ },
  "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0922/2026092200478.pdf",
+ "values": {
+  "balance": {
+   "cur": {
+    "cash": 8904.44,
+    "equity_parent": 48070.443,
+    "inventories": 1758.1390000000001,
+    "receivables": 8347.073,
+    "short_term_investments": 4123.839,
+    "total_assets": 65363.193,
+    "total_current_assets": 27197.31,
+    "total_current_liabilities": 8190.154,
+    "total_debt": 675.773,
+    "total_equity": 54520.755000000005,
+    "total_liabilities": 10842.438
+   },
+   "prior": {
+    "cash": 9213.786,
+    "equity_parent": 47248.676,
+    "inventories": 1381.257,
+    "receivables": 8852.792,
+    "short_term_investments": 6518.976000000001,
+    "total_assets": 63696.738000000005,
+    "total_current_assets": 28135.349000000002,
+    "total_current_liabilities": 8307.558,
+    "total_debt": 1042.898,
+    "total_equity": 53039.344000000005,
+    "total_liabilities": 10657.394
+   }
+  },
+  "cashflow": {
+   "cur": {
+    "buybacks": 1020.937,
+    "capex": 2757.194,
+    "cfo": 4287.153,
+    "dividends_paid": null
+   },
+   "prior": {
+    "buybacks": 1031.664,
+    "capex": 1900.414,
+    "cfo": 1806.7540000000001,
+    "dividends_paid": null
+   }
+  },
+  "income": {
+   "cur": {
+    "cost_of_sales": 6338.919,
+    "eps_diluted": 0.58,
+    "gross_profit": 5448.319,
+    "income_tax": 503.083,
+    "net_income": 2916.2090000000003,
+    "net_income_parent": 2439.813,
+    "operating_income": null,
+    "pretax_income": 3419.292,
+    "revenue": 11787.238,
+    "rnd": 430.218,
+    "sga": 1183.226
+   },
+   "prior": {
+    "cost_of_sales": 5700.3640000000005,
+    "eps_diluted": 0.55,
+    "gross_profit": 4252.852,
+    "income_tax": 571.49,
+    "net_income": 2756.611,
+    "net_income_parent": 2339.266,
+    "operating_income": null,
+    "pretax_income": 3328.101,
+    "revenue": 9953.216,
+    "rnd": 343.512,
+    "sga": 1051.244
+   }
+  }
+ },
  "warnings": []
 }

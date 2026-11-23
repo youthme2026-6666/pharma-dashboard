@@ -141,14 +141,19 @@
    ]
   }
  },
- "mapping_source": "GPT 对照",
+ "mapping_source": "沿用本报告原有的对照",
  "months": 12,
- "parse_version": 1,
+ "parse_version": 2,
  "period_end": "2025-12-31",
  "problems": [],
  "processed": "2026-11-23",
  "published": "2026-03-26",
- "restatement_hint": "next-generation pipeline is focused on IO+ADC in oncology, represented by IBI363, IBI343, IBI3003, bispecific ADCs, and dual-payl",
+ "restatement_texts": [
+  "for the year 813,565 (94,631) Other comprehensive income Items that will not be reclassified to profit or loss Fair value gain on investment in equity instruments at fai",
+  "ue through other comprehensive income ( \"FVTOCI \") – 60,985 Items that may be reclassified subsequently to profit or loss Exchange differences arising on translation o",
+  "for the year 813,565 (94,631) Other comprehensive income Item that will not be reclassified to profit or loss Fair value gain on investment in equity instruments at f",
+  "lue through other comprehensive income ( \"FVTOCI \") – 60,985 Item that may be reclassified subsequently to profit or loss Exchange differences arising on translation"
+ ],
  "signatures": {
   "balance": "97dc8bed2b35baa3",
   "income": "00b29693f3589bc9"

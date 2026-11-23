@@ -157,14 +157,29 @@
    ]
   }
  },
- "mapping_source": "沿用 2023-FY-ann 的对照（版式相同）；GPT 对照",
+ "mapping_source": "沿用本报告原有的对照",
  "months": 12,
- "parse_version": 1,
+ "parse_version": 2,
  "period_end": "2023-12-31",
  "problems": [],
  "processed": "2026-11-23",
  "published": "2024-04-29",
- "restatement_hint": "June 2023, the Company adopted the fourteenth amended and restated memorandum and articles of association of the Company in s",
+ "restatement_texts": [
+  "913) (2,179,270) Other comprehensive income (expense) Item that will not be reclassified to profit or loss Fair value gain (loss) on investment in equity instruments",
+  "on investment in equity instruments at FVTOCI 15,731 (876) Item that may be reclassified subsequently to profit or loss Exchange differences arising on translation o",
+  "913) (2,179,270) Other comprehensive income (expense) Item that will not be reclassified to profit or loss Fair value gain (loss) on investment in equity instruments",
+  "on investment in equity instruments at FVTOCI 15,731 (876) Item that may be reclassified subsequently to profit or loss Exchange differences arising on translation o",
+  "onal Documents On 21 June 2023, the Company adopted the fourteenth amended and restated memorandum and articles of association of the Company in substitution for an",
+  "substitution for and to the exclusion of the previous thirteenth amended and restated memorandum and articles of association of the Company, to bring the articles",
+  "13) (2,179,270) Other comprehensive income (expense) Item that will not be reclassified to profit or loss Fair value gain (loss) on investment in equity instruments",
+  "ue through other comprehensive income ( \"FVTOCI\") 15,731 (876) Item that may be reclassified subsequently to profit or loss Exchange differences arising on translation o",
+  "nt lenders, the application of the 2020 and 2022 Amendments will not result in reclassification of the Group 's liabilities. 3. BASIS OF PREPARATION OF CONSOLIDATED FIN",
+  "not subject to impairment assessment. The cumulative gain or loss will not be reclassified to profit or loss on disposal of the equity investments, and will be transfe",
+  "he cumulative gain or loss previously accumulated in the FVTOCI reserve is not reclassified to profit or loss, but is transferred to accumulated losses. Classification",
+  "it risk that are recognised in other comprehensive income are not subsequently reclassified to profit or loss; instead, they are transferred to accumulated loss upon de",
+  "ber 2019 2020 2021 2022 2023 (RMB'000) (RMB'000) (RMB'000) (RMB'000) (RMB'000) (Restated) Revenue from contracts with customers 1,047,525 3,843,819 4,269,729 4,556,38",
+  "024 \"AGT\" angiotensinogen \"Articles of Association \" the fourteenth amended and restated memorandum and articles of association of the Company, adopted on June 21, 2"
+ ],
  "signatures": {
   "balance": "28f0eb77693cd119",
   "cashflow": "68d5a2781ec87282",

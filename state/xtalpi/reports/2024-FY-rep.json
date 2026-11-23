@@ -155,14 +155,28 @@
    ]
   }
  },
- "mapping_source": "沿用 2024-FY-ann 的对照（版式相同）；GPT 对照",
+ "mapping_source": "沿用本报告原有的对照",
  "months": 12,
- "parse_version": 1,
+ "parse_version": 2,
  "period_end": "2024-12-31",
  "problems": [],
  "processed": "2026-11-23",
  "published": "2025-04-07",
- "restatement_hint": "",
+ "restatement_texts": [
+  "re. CONSTITUTIONAL DOCUMENTS The Articles of Association have been amended and restated with effect from the Listing Date, and are available on the respective websi",
+  "514,869) (1,906,323) Other comprehensive (loss)/income Items that will not be reclassified to profit or loss — Changes in fair value of convertible redeemable prefe",
+  "rrency translation differences (25,553) (77,949) Items that may be subsequently reclassified to profit or loss — Currency translation differences 26,565 (15,492) Other",
+  "may mean that amounts previously recognised in other comprehensive income are reclassified to profit or loss. If the ownership interest in a joint venture or an associ",
+  "e share of the amounts previously recognised in other comprehensive income are reclassified to profit or loss where appropriate.",
+  "part of the net investment are repaid, the associated exchange differences are reclassified to profit or loss, as part of the gain or loss on sale.",
+  "e equity investment at fair value through other comprehensive income. The Group reclassifies debt investments when and only when its business model for managing those a",
+  "ve gain or loss previously recognised in other comprehensive income (\"OCI\") is reclassified from equity to profit or loss and recognised in \"other gains, net\". Interes",
+  "es on equity instruments in other comprehensive income, there is no subsequent reclassification of fair value gains and losses to profit or loss following the derecogn",
+  "ns, net\". During the year ended 31 December 2024, certain investments has been reclassified from \"A series of Unlisted preferred shares\" to \"Unlisted preferred shares",
+  "es dividends and distributions, (iii) reorganisations, mergers, consolidations, reclassifications, exchanges and substitutions, and (iv) dilutive insurance. (iv) Redemp",
+  "above conversion all Class A and Class B ordinary shares are re-designated and reclassified as ordinary shares with par value of US$0.00001 each. (ii) On 13 June 2024,",
+  "have the meaning set out below. \"Articles of Association\" the ninth amended and restated articles of association of the Company adopted by special resolution on 28 M"
+ ],
  "signatures": {
   "balance": "34a174dedd40041a",
   "cashflow": "b753319d5e1c7b82",

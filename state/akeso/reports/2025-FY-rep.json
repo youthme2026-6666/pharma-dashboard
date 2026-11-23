@@ -167,14 +167,26 @@
    ]
   }
  },
- "mapping_source": "沿用 2025-H1-rep 的对照（版式相同）；GPT 对照（第 2 次才通过核对）",
+ "mapping_source": "沿用本报告原有的对照",
  "months": 12,
- "parse_version": 1,
+ "parse_version": 2,
  "period_end": "2025-12-31",
  "problems": [],
  "processed": "2026-11-23",
  "published": "2026-04-29",
- "restatement_hint": "",
+ "restatement_texts": [
+  "d one of the Company's subsidiaries \"Articles of Association\" fifth amended and restated articles of association of the Company adopted by special resolution passed",
+  "OTHER COMPREHENSIVE INCOME/(LOSS) Other comprehensive income/(loss) that may be reclassified to profit or loss in subsequent periods: Exchange differences on translati",
+  "rations 127,766 (106,809) Other comprehensive (loss)/income that will not be reclassified to profit or loss in subsequent periods: Translation from functional curren",
+  "p's share of components previously recognised in other comprehensive income is reclassified to profit or loss or retained profits, as appropriate, on the same basis as",
+  "f equity) at the initial application date. Prior periods are not required to be restated and can only be restated without the use of hindsight. Earlier application o",
+  "pplication date. Prior periods are not required to be restated and can only be restated without the use of hindsight. Earlier application of either all the amendment",
+  "ception shall be applied retrospectively. Prior periods are not required to be restated and can only be restated without the use of hindsight. The amendments relatin",
+  "retrospectively. Prior periods are not required to be restated and can only be restated without the use of hindsight. The amendments relating to the hedge accountin",
+  "y and presentation currency are the currency of a hyperinflationary economy to restate the comparative amounts of a foreign operation whose functional currency is t",
+  "ss is stated at cost less any impairment losses, and is not depreciated. It is reclassified to the appropriate category of property, plant and equipment when completed",
+  "at significantly modifies the cash flows that would otherwise be required or a reclassification of a financial asset out of the fair value through profit or loss categ"
+ ],
  "signatures": {
   "balance": "76c669f9eafab598",
   "cashflow": "dcc55744c25717a1",

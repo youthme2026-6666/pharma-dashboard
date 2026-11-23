@@ -159,14 +159,17 @@
    ]
   }
  },
- "mapping_source": "GPT 对照",
+ "mapping_source": "沿用本报告原有的对照",
  "months": 6,
- "parse_version": 1,
+ "parse_version": 2,
  "period_end": "2025-06-30",
  "problems": [],
  "processed": "2026-11-23",
  "published": "2025-08-26",
- "restatement_hint": "",
+ "restatement_texts": [
+  "THER COMPREHENSIVE INCOME/(LOSS) Other comprehensive income/(loss) that may be reclassified to profit or loss in subsequent periods: Exchange differences on translati",
+  "00 (Unaudited) (Unaudited) Other comprehensive (loss)/income that will not be reclassified to profit or loss in subsequent periods: Translation from functional curren"
+ ],
  "signatures": {
   "balance": "76c669f9eafab598",
   "cashflow": "48a0598f9c89cea4",

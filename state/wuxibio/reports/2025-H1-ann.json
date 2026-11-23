@@ -14,10 +14,8 @@
    "inventories": [
     10
    ],
-   "receivables": [
-    12
-   ],
    "short_term_investments": [
+    5,
     17,
     19
    ],
@@ -88,19 +86,17 @@
    "inventories": [
     "Inventories"
    ],
-   "receivables": [
-    "Trade and other receivables"
-   ],
    "short_term_investments": [
+    "Financial assets at FVTPL",
     "Financial assets at FVTPL",
     "Time deposits"
    ],
    "total_assets": [
     "[小计] Non-current Assets",
-    "[小计] Current Assets #2"
+    "[小计 2，含上一行“Assets classified as held for sale”] Current Assets"
    ],
    "total_current_assets": [
-    "[小计] Current Assets #2"
+    "[小计 2，含上一行“Assets classified as held for sale”] Current Assets"
    ],
    "total_current_liabilities": [
     "[小计] Current Liabilities"
@@ -151,16 +147,22 @@
    ]
   }
  },
- "mapping_source": "GPT 对照（第 2 次才通过核对）",
+ "mapping_source": "沿用本报告原有的对照；GPT 对照",
  "months": 6,
- "parse_version": 1,
+ "parse_version": 2,
  "period_end": "2025-06-30",
  "problems": [],
  "processed": "2026-11-23",
  "published": "2025-08-19",
- "restatement_hint": "",
+ "restatement_texts": [
+  "ated assets, comprised of property, plant and equipment, and inventories, were reclassified as held for sale with an amount of approximately RMB722.2 million. The tran",
+  "756,611 1,780,310 Other comprehensive income (expense): Item that will not be reclassified to profit or loss: Fair value loss on investments in equity instruments at",
+  "e through other comprehensive income (\"FVTOCI\") — (21,486) Items that may be reclassified subsequently to profit or loss: Exchange differences on translation of fore",
+  "lobal partner program adopted by the Company on June 16, 2021 and amended and restated on June 27, 2023 \"GMP\" Good Manufacturing Practice \"Group\" or \"we\" or \"our\"",
+  "share award scheme adopted by the Company on January 15, 2018 and amended and restated on June 27, 2023 \"Shareholder(s)\" holder(s) of Share(s) \"Share(s)\" ordinary"
+ ],
  "signatures": {
-  "balance": "fed0d25106f2826e",
+  "balance": "693f5193ed480736",
   "income": "06c925050b9653ed"
  },
  "statements": {
@@ -317,7 +319,7 @@
      "3,377,140"
     ],
     [
-     "[小计] Current Assets #2",
+     "[小计 2，含上一行“Assets classified as held for sale”] Current Assets",
      "Current Assets",
      "24,446,633",
      "23,573,191"
@@ -656,8 +658,8 @@
     "cash": 8439.058,
     "equity_parent": 44952.434,
     "inventories": 1655.0420000000001,
-    "receivables": 7721.150000000001,
-    "short_term_investments": 4100.564,
+    "receivables": null,
+    "short_term_investments": 6053.488,
     "total_assets": 60437.387,
     "total_current_assets": 24446.633,
     "total_current_liabilities": 8487.345,
@@ -669,8 +671,8 @@
     "cash": 8279.182,
     "equity_parent": 41819.209,
     "inventories": 1521.669,
-    "receivables": 6240.747,
-    "short_term_investments": 2430.609,
+    "receivables": null,
+    "short_term_investments": 3563.8740000000003,
     "total_assets": 56977.435,
     "total_current_assets": 23573.191,
     "total_current_liabilities": 8621.251,

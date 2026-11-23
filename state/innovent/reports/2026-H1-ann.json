@@ -141,14 +141,17 @@
    ]
   }
  },
- "mapping_source": "GPT 对照",
+ "mapping_source": "沿用本报告原有的对照",
  "months": 6,
- "parse_version": 1,
+ "parse_version": 2,
  "period_end": "2026-06-30",
  "problems": [],
  "processed": "2026-11-23",
  "published": "2026-08-25",
- "restatement_hint": "ging from its pipeline assets. The accumulated achievements represented a pivotal progress as the Company strategically refines it",
+ "restatement_texts": [
+  "period 1,253,142 834,321 Other comprehensive (expense) income Items that may be reclassified subsequently to profit or loss Exchange differences arising on translation",
+  "period 1,253,142 834,321 Other comprehensive (expense) income Item that may be reclassified subsequently to profit or loss Exchange differences arising on translation"
+ ],
  "signatures": {
   "balance": "80e8ea8fa224fb83",
   "income": "d2019d275c545e6b"

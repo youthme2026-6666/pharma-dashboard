@@ -173,14 +173,17 @@
    ]
   }
  },
- "mapping_source": "沿用 2026-H1-ann 的对照（版式相同）；GPT 对照",
+ "mapping_source": "沿用本报告原有的对照",
  "months": 6,
- "parse_version": 1,
+ "parse_version": 2,
  "period_end": "2026-06-30",
  "problems": [],
  "processed": "2026-11-23",
  "published": "2026-09-30",
- "restatement_hint": "",
+ "restatement_texts": [
+  "OTHER COMPREHENSIVE (LOSS)/INCOME Other comprehensive income/(loss) that may be reclassified to profit or loss in subsequent periods: Exchange differences on translati",
+  "operations 171,697 34,825 Other comprehensive (loss)/income that will not be reclassified to profit or loss in subsequent periods: Translation from functional curre"
+ ],
  "signatures": {
   "balance": "ea275cf27e47c61e",
   "cashflow": "69d42be4e500a4d4",

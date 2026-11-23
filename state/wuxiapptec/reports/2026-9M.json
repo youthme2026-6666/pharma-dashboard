@@ -1,5 +1,5 @@
 {
- "check_version": 1,
+ "check_version": 3,
  "doc": "2026-9M",
  "fiscal_year": 2026,
  "kind": "report",
@@ -163,12 +163,14 @@
  },
  "mapping_source": "A 股统一格式对照表",
  "months": 9,
- "parse_version": 1,
+ "parse_version": 2,
  "period_end": "2026-09-30",
  "problems": [],
  "processed": "2026-11-23",
  "published": "2026-10-27",
- "restatement_hint": "",
+ "restatement_texts": [
+  "71.65 38.59 注 1:依据企业会计准则规定,公司将本报告期或可比期间已签署股权出售协议、已完成出售或处 于终止阶段的相关业务,划分为终止经营业务,相应重述了可比期间的数据。 注 2:上表中单项之和与合计不等为四舍五入造成。 2026 年前三季度公司实现营业收入人民币 455.4 亿元,同比增长 38.6%,持续经"
+ ],
  "signatures": {
   "balance": "ad0fff4d71841454",
   "cashflow": "d4ab2a126047d13f",

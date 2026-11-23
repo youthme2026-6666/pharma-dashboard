@@ -139,14 +139,21 @@
    ]
   }
  },
- "mapping_source": "GPT 对照",
+ "mapping_source": "沿用本报告原有的对照",
  "months": 6,
- "parse_version": 1,
+ "parse_version": 2,
  "period_end": "2024-06-30",
  "problems": [],
  "processed": "2026-11-23",
  "published": "2024-08-28",
- "restatement_hint": "",
+ "restatement_texts": [
+  "he period (392,620) (139,149) Other comprehensive expense Item that will not be reclassified to profit or loss Fair value loss on investment in equity instruments at fai",
+  "ough other comprehensive income ( \"FVTOCI \") (12,538) (30,913) Item that may be reclassified subsequently to profit or loss Exchange differences arising on translation",
+  "he period (392,620) (139,149) Other comprehensive expense Item that will not be reclassified to profit or loss Fair value loss on investment in equity instruments at FVT",
+  "n investment in equity instruments at FVTOCI (12,538) (30,913) Item that may be reclassified subsequently to profit or loss Exchange differences arising on translation",
+  "he period (392,620) (139,149) Other comprehensive expense Item that will not be reclassified to profit or loss Fair value loss on investment in equity instruments at F",
+  "investment in equity instruments at FVTOCI (12,538) (30,913) Item that may be reclassified subsequently to profit or loss Exchange differences arising on translation"
+ ],
  "signatures": {
   "balance": "d01c8c359e87af9d",
   "income": "d89472b5a167a706"

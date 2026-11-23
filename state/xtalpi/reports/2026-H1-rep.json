@@ -2,16 +2,104 @@
  "check_version": 3,
  "doc": "2026-H1-rep",
  "fiscal_year": 2026,
- "gpt_answer": {
+ "kind": "report",
+ "mapping": {
+  "balance": {
+   "cash": [
+    15
+   ],
+   "equity_parent": [
+    21
+   ],
+   "inventories": [
+    8
+   ],
+   "receivables": [
+    9
+   ],
+   "short_term_investments": [
+    4,
+    12,
+    14
+   ],
+   "total_assets": [
+    17
+   ],
+   "total_current_liabilities": [
+    36
+   ],
+   "total_debt": [
+    24,
+    31
+   ],
+   "total_equity": [
+    23
+   ],
+   "total_liabilities": [
+    37
+   ]
+  },
+  "cashflow": {
+   "capex": [
+    2,
+    4
+   ],
+   "cfo": [
+    0
+   ]
+  },
+  "income": {
+   "cost_of_sales": [
+    1
+   ],
+   "eps_diluted": [
+    21
+   ],
+   "income_tax": [
+    15
+   ],
+   "net_income": [
+    16
+   ],
+   "net_income_parent": [
+    17
+   ],
+   "operating_income": [
+    8
+   ],
+   "pretax_income": [
+    14
+   ],
+   "revenue": [
+    0
+   ],
+   "rnd": [
+    3
+   ],
+   "sga": [
+    2,
+    4
+   ]
+  }
+ },
+ "mapping_labels": {
   "balance": {
    "cash": [
     "Cash and cash equivalents 現金及現金等價物"
+   ],
+   "equity_parent": [
+    "[小计] Equity attributable to equity holders of the Company 本公司權益持有人應佔權益"
    ],
    "inventories": [
     "Inventories 存貨"
    ],
    "receivables": [
     "Trade and note receivables 貿易應收款項及應收票據"
+   ],
+   "short_term_investments": [
+    "Financial assets at fair value through profit or loss 按公允價值計入損益的 金融資產",
+    "Financial assets at fair value through profit or loss 按公允價值計入損益的 金融資產",
+    "Bank deposits 銀行存款"
    ],
    "total_assets": [
     "Total assets 資產總值"
@@ -31,6 +119,10 @@
    ]
   },
   "cashflow": {
+   "capex": [
+    "Payments for purchase of property, plant and equipment 購買物業、廠房及設備 的付款",
+    "Payments for purchase of intangible assets 購買無形資產的付款"
+   ],
    "cfo": [
     "Net cash used in operating activities 經營活動所用現金淨額"
    ]
@@ -69,21 +161,24 @@
    ]
   }
  },
- "kind": "report",
- "mapping_source": "GPT 对照",
+ "mapping_source": "GPT 对照（第 2 次才通过核对）",
  "months": 6,
- "parse_version": 1,
+ "parse_version": 2,
  "period_end": "2026-06-30",
- "problems": [
-  "GPT 的对照没通过核对（问了 2 次）：short_term_investments 对到的行“金融資產”行名不符合（short_term_investments 应是：流动资产里的短期投资：交易性金融资产、理财产品、三个月以上定期存款（Time / Bank / Term deposit；报表没有这样的行就给空数组）；capex 对到的行“的付款”行名不符合（capex 应是：购建固定资产、无形资产和其他长期资产支付的现金 / Purchase(s) of property, plant and；报表没有这样的行就给空数组）"
- ],
+ "problems": [],
  "processed": "2026-11-23",
  "published": "2026-09-09",
- "restatement_hint": "",
+ "restatement_texts": [
+  "609 Other comprehensive (loss)/income 其他全面 (虧損) ╱收益 Items that will not be reclassified to profit or loss 將不會重新分類到損益的 項目 – Currency translation differences -貨幣換算差",
+  "nslation differences -貨幣換算差額 (414,690) (69,110) Items that may be subsequently reclassified to profit or loss 其後可能重新分類到損益的 項目 – Currency translation differences -貨幣換算差額",
+  "conciliation for each line item in the statement of profit or loss between the restated amounts presented by applying IFRS 18 and the amounts previously presented",
+  "ains, net\". During the period ended 30 June 2026, certain investments has been reclassified from \"A series of Unlisted entities\" to \"Unlisted entities\" based on the di",
+  "折舊及減值 (276,827) (14,350) Net book amount 賬面淨值 292,558 230,862 Note: The reclassification of property, plant and equipment mainly arose from amendment of the ori"
+ ],
  "signatures": {
-  "balance": "9c7933349a9895fa",
-  "cashflow": "c28567aeb3dc459b",
-  "income": "afd5d1f620af85c1"
+  "balance": "507ebcc056387491",
+  "cashflow": "b479171baa0d5f9d",
+  "income": "96204f4130183110"
  },
  "statements": {
   "balance": {
@@ -127,32 +222,32 @@
      "233,390"
     ],
     [
-     "按權益法列賬的投資",
-     "Investments accounted for using the equity method",
+     "Investments accounted for using the equity method 按權益法列賬的投資",
+     "Non-current assets 非流動資產",
      "158,826",
      "42,855"
     ],
     [
-     "金融資產",
-     "按公允價值計入損益的",
+     "Financial assets at fair value through profit or loss 按公允價值計入損益的 金融資產",
+     "Non-current assets 非流動資產",
      "2,521,587",
      "2,096,127"
     ],
     [
      "Prepayments 預付款項",
-     "按公允價值計入損益的",
+     "Non-current assets 非流動資產",
      "25,331",
      "6,922"
     ],
     [
      "Trade receivables 貿易應收款項",
-     "按公允價值計入損益的",
+     "Non-current assets 非流動資產",
      "6,933",
      "6,793"
     ],
     [
-     "[小计] 按公允價值計入損益的",
-     "按公允價值計入損益的",
+     "[小计] Non-current assets 非流動資產",
+     "Non-current assets 非流動資產",
      "3,337,549",
      "2,750,709"
     ],
@@ -176,79 +271,79 @@
     ],
     [
      "應收款項",
-     "預付款項、按金及其他",
+     "Prepayments, deposits and other receivables 預付款項、按金及其他",
      "126,434",
      "116,004"
     ],
     [
-     "金融資產",
-     "按公允價值計入損益的",
+     "Financial assets at fair value through profit or loss 按公允價值計入損益的 金融資產",
+     "Prepayments, deposits and other receivables 預付款項、按金及其他",
      "2,197,960",
      "2,566,406"
     ],
     [
      "Restricted cash 受限制現金",
-     "按公允價值計入損益的",
+     "Prepayments, deposits and other receivables 預付款項、按金及其他",
      "5,022",
      "17,990"
     ],
     [
      "Bank deposits 銀行存款",
-     "按公允價值計入損益的",
+     "Prepayments, deposits and other receivables 預付款項、按金及其他",
      "3,845,317",
      "1,911,128"
     ],
     [
      "Cash and cash equivalents 現金及現金等價物",
-     "按公允價值計入損益的",
+     "Prepayments, deposits and other receivables 預付款項、按金及其他",
      "2,622,881",
      "2,573,066"
     ],
     [
-     "[小计] 按公允價值計入損益的 #2",
-     "按公允價值計入損益的",
+     "[小计] Prepayments, deposits and other receivables 預付款項、按金及其他",
+     "Prepayments, deposits and other receivables 預付款項、按金及其他",
      "9,285,874",
      "7,466,753"
     ],
     [
      "Total assets 資產總值",
-     "按公允價值計入損益的",
+     "Prepayments, deposits and other receivables 預付款項、按金及其他",
      "12,623,423",
      "10,217,462"
     ],
     [
      "Share capital 股本",
-     "本公司權益持有人應佔權益",
+     "Equity attributable to equity holders of the Company 本公司權益持有人應佔權益",
      "301",
      "301"
     ],
     [
      "Other reserves 其他儲備",
-     "本公司權益持有人應佔權益",
+     "Equity attributable to equity holders of the Company 本公司權益持有人應佔權益",
      "17,700,016",
      "17,831,800"
     ],
     [
      "Accumulated losses 累計虧損",
-     "本公司權益持有人應佔權益",
+     "Equity attributable to equity holders of the Company 本公司權益持有人應佔權益",
      "(8,700,315)",
      "(8,448,414)"
     ],
     [
-     "[小计] 本公司權益持有人應佔權益",
-     "本公司權益持有人應佔權益",
+     "[小计] Equity attributable to equity holders of the Company 本公司權益持有人應佔權益",
+     "Equity attributable to equity holders of the Company 本公司權益持有人應佔權益",
      "9,000,002",
      "9,383,687"
     ],
     [
      "Non-controlling interests 非控股權益",
-     "本公司權益持有人應佔權益",
+     "Equity attributable to equity holders of the Company 本公司權益持有人應佔權益",
      "72,256",
      "47,165"
     ],
     [
      "Total equity 權益總額",
-     "本公司權益持有人應佔權益",
+     "Equity attributable to equity holders of the Company 本公司權益持有人應佔權益",
      "9,072,258",
      "9,430,852"
     ],
@@ -384,92 +479,92 @@
      "1,150"
     ],
     [
-     "的付款",
-     "購買物業、廠房及設備",
+     "Payments for purchase of property, plant and equipment 購買物業、廠房及設備 的付款",
+     "Cash flows from investing activities 投資活動所得現金流量",
      "(49,787)",
      "(31,686)"
     ],
     [
-     "所得款項",
-     "出售物業、廠房及設備的",
+     "Proceeds from disposal of property, plant and equipment 出售物業、廠房及設備的 所得款項",
+     "Cash flows from investing activities 投資活動所得現金流量",
      "77",
      "25"
     ],
     [
-     "購買無形資產的付款",
-     "Payments for purchase of intangible assets",
+     "Payments for purchase of intangible assets 購買無形資產的付款",
+     "Cash flows from investing activities 投資活動所得現金流量",
      "(18,659)",
      "(5,162)"
     ],
     [
-     "的付款",
-     "添置按權益法列賬的投資",
+     "Payments for additions of investments accounted for using equity method 添置按權益法列賬的投資 的付款",
+     "Cash flows from investing activities 投資活動所得現金流量",
      "(91,200)",
      "(22,064)"
     ],
     [
-     "取得按公允價值計入損益的 金融資產的投資的付款",
-     "Payments for acquisition of investments in financial assets at fair value through profit or loss",
+     "Payments for acquisition of investments in financial assets at fair value through profit or loss 取得按公允價值計入損益的 金融資產的投資的付款",
+     "Cash flows from investing activities 投資活動所得現金流量",
      "(1,372,644)",
      "(1,514,344)"
     ],
     [
-     "出售按公允價值計入損益的 金融資產的所得款項",
-     "Proceeds from disposal of financial assets",
+     "Proceeds from disposal of financial assets 出售按公允價值計入損益的 金融資產的所得款項",
+     "Cash flows from investing activities 投資活動所得現金流量",
      "1,320,602",
      "933,600"
     ],
     [
-     "衍生金融工具結算",
-     "Settlement of derivative financial instruments",
+     "Settlement of derivative financial instruments 衍生金融工具結算",
+     "Cash flows from investing activities 投資活動所得現金流量",
      "(8,794)",
      "3,823"
     ],
     [
      "Payments for acquisition of assets 收購資產的付款",
-     "Settlement of derivative financial instruments",
+     "Cash flows from investing activities 投資活動所得現金流量",
      "–",
      "(3,760)"
     ],
     [
-     "收購附屬公司的付款, 扣除已購得的現金",
-     "Payment for acquisition of a subsidiary, net of cash acquired",
+     "Payment for acquisition of a subsidiary, net of cash acquired 收購附屬公司的付款, 扣除已購得的現金",
+     "Cash flows from investing activities 投資活動所得現金流量",
      "–",
      "(98,816)"
     ],
     [
      "Placement of bank deposits 存置銀行存款",
-     "Payment for acquisition of a subsidiary, net of cash acquired",
+     "Cash flows from investing activities 投資活動所得現金流量",
      "(3,425,082)",
      "(1,073,683)"
     ],
     [
-     "股權投資預付款項",
-     "Prepayment for an equity interest investment",
+     "Prepayment for an equity interest investment 股權投資預付款項",
+     "Cash flows from investing activities 投資活動所得現金流量",
      "–",
      "(6,085)"
     ],
     [
      "Proceeds from maturity of bank deposits 銀行存款到期所得款項",
-     "Prepayment for an equity interest investment",
+     "Cash flows from investing activities 投資活動所得現金流量",
      "1,421,320",
      "105,588"
     ],
     [
      "Changes in restricted cash balances 受限制現金結餘變動",
-     "Prepayment for an equity interest investment",
+     "Cash flows from investing activities 投資活動所得現金流量",
      "12,968",
      "(1,768)"
     ],
     [
      "Proceeds from government grants 政府補助所得款項",
-     "Prepayment for an equity interest investment",
+     "Cash flows from investing activities 投資活動所得現金流量",
      "894",
      "1,080"
     ],
     [
      "Net cash used in investing activities 投資活動所用現金淨額",
-     "Prepayment for an equity interest investment",
+     "Cash flows from investing activities 投資活動所得現金流量",
      "(2,180,887)",
      "(1,712,102)"
     ],
@@ -486,62 +581,62 @@
      "(14,259)"
     ],
     [
-     "發行普通股所得款項 (扣除包銷佣金)",
-     "Proceeds from issuance of ordinary shares, net of underwriting commissions",
+     "Proceeds from issuance of ordinary shares, net of underwriting commissions 發行普通股所得款項 (扣除包銷佣金)",
+     "Cash flows from financing activities 融資活動所得現金流量",
      "–",
      "2,901,350"
     ],
     [
-     "發行可轉換債券所得款項 (扣除交易成本)",
-     "Proceeds from issuance of convertible bonds, net of transaction cost",
+     "Proceeds from issuance of convertible bonds, net of transaction cost 發行可轉換債券所得款項 (扣除交易成本)",
+     "Cash flows from financing activities 融資活動所得現金流量",
      "2,512,330",
      "–"
     ],
     [
      "Proceeds from exercise of share options 行使購股權所得款項",
-     "Proceeds from issuance of convertible bonds, net of transaction cost",
+     "Cash flows from financing activities 融資活動所得現金流量",
      "2,338",
      "3,757"
     ],
     [
      "Proceeds from bank borrowings 銀行借款所得款項",
-     "Proceeds from issuance of convertible bonds, net of transaction cost",
+     "Cash flows from financing activities 融資活動所得現金流量",
      "338,900",
      "258,930"
     ],
     [
      "Repayments of bank borrowings 償還銀行借款",
-     "Proceeds from issuance of convertible bonds, net of transaction cost",
+     "Cash flows from financing activities 融資活動所得現金流量",
      "(154,600)",
      "(29,900)"
     ],
     [
-     "融資活動所得現金淨額",
-     "Net cash generated from financing activities",
+     "Net cash generated from financing activities 融資活動所得現金淨額",
+     "Cash flows from financing activities 融資活動所得現金流量",
      "2,676,811",
      "3,117,898"
     ],
     [
-     "現金及現金等價物增加淨額",
-     "Net increase in cash and cash equivalents",
+     "Net increase in cash and cash equivalents 現金及現金等價物增加淨額",
+     "Cash flows from financing activities 融資活動所得現金流量",
      "96,686",
      "1,167,317"
     ],
     [
-     "期初現金及現金等價物",
-     "Cash and cash equivalents at beginning of the period",
+     "Cash and cash equivalents at beginning of the period 期初現金及現金等價物",
+     "Cash flows from financing activities 融資活動所得現金流量",
      "2,573,066",
      "1,166,148"
     ],
     [
-     "匯率變動對現金及現金等價物 的影響",
-     "Effects of exchange rate changes on cash and cash equivalents",
+     "Effects of exchange rate changes on cash and cash equivalents 匯率變動對現金及現金等價物 的影響",
+     "Cash flows from financing activities 融資活動所得現金流量",
      "(46,871)",
      "(21,777)"
     ],
     [
-     "期末現金及現金等價物",
-     "Cash and cash equivalents at end of the period",
+     "Cash and cash equivalents at end of the period 期末現金及現金等價物",
+     "Cash flows from financing activities 融資活動所得現金流量",
      "2,622,881",
      "2,311,688"
     ]
@@ -643,32 +738,32 @@
      "48,220"
     ],
     [
-     "投資確認的減值虧損",
-     "就按權益法列賬的",
+     "Impairment loss on investments accounted for using equity method 就按權益法列賬的 投資確認的減值虧損",
+     "附註 人民幣千元 人民幣千元 (未經審計) (未經審計)",
      "–",
      "(2,348)"
     ],
     [
-     "投資虧損淨額",
-     "應佔按權益法列賬的",
+     "Share of net losses of investments accounted for using equity method 應佔按權益法列賬的 投資虧損淨額",
+     "附註 人民幣千元 人民幣千元 (未經審計) (未經審計)",
      "(1,179)",
      "(2,991)"
     ],
     [
      "(Loss)/profit before income tax 除所得稅前 (虧損) ╱利潤",
-     "應佔按權益法列賬的",
+     "附註 人民幣千元 人民幣千元 (未經審計) (未經審計)",
      "(224,314)",
      "75,609"
     ],
     [
      "Income tax expense 所得稅開支",
-     "應佔按權益法列賬的",
+     "附註 人民幣千元 人民幣千元 (未經審計) (未經審計)",
      "(630)",
      "–"
     ],
     [
      "(Loss)/profit for the period 期內 (虧損) ╱利潤",
-     "應佔按權益法列賬的",
+     "附註 人民幣千元 人民幣千元 (未經審計) (未經審計)",
      "(224,944)",
      "75,609"
     ],
@@ -692,13 +787,13 @@
     ],
     [
      "Basic (loss)/earnings per share 每股基本 (虧損) ╱盈利",
-     "每股 (虧損) ╱盈利",
+     "應佔 (虧損) ╱利潤的 每股 (虧損) ╱盈利",
      "(6)",
      "2"
     ],
     [
      "Diluted (loss)/earnings per share 每股攤薄 (虧損) ╱盈利",
-     "每股 (虧損) ╱盈利",
+     "應佔 (虧損) ╱利潤的 每股 (虧損) ╱盈利",
      "(6)",
      "2"
     ]
@@ -710,9 +805,94 @@
    "unit_text": "For the six months ended 30 June\n截至6月30日止六個月\n2026 2025\n2026年 2025年\nNote RMB'000 RMB'000\n附註 人民幣千元 人民幣千元\n(Unaudited) (Unaudited)\n(未經審計) (未經審計)\nFor the six months ended 30 June\n截至6月30日止六個月\n2026 2025\n2026年 2025年\nNote RMB'000 RMB'000\n附註 人民幣千元 人民幣千元\n(Unaudited) (Unaudited)\n(未經審計) (未經審計)\nRevenues 收入 4 393,627 517,076\nCost of revenues 營業成本 5 (167,834) (81,959)\nGeneral and administrative expenses 一般及行政開支 5 (212,142) (200,333)\nResearch and development expenses 研發開支 5 (367,838) (221,527)"
   }
  },
- "status": "failed",
+ "status": "ok",
+ "step": {
+  "balance": 0.001,
+  "cashflow": 0.001,
+  "income": 0.001
+ },
  "style": "ifrs",
  "title": "2026 INTERIM REPORT",
+ "unit": {
+  "currency": "CNY",
+  "eps_unit": "cents",
+  "scale": 0.001,
+  "text": "RMB'000"
+ },
  "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0909/2026090901145.pdf",
- "warnings": []
+ "values": {
+  "balance": {
+   "cur": {
+    "cash": 2622.881,
+    "equity_parent": 9000.002,
+    "inventories": 275.161,
+    "receivables": 209.513,
+    "short_term_investments": 8564.864,
+    "total_assets": 12623.423,
+    "total_current_assets": null,
+    "total_current_liabilities": 3158.8250000000003,
+    "total_debt": 2990.43,
+    "total_equity": 9072.258,
+    "total_liabilities": 3551.165
+   },
+   "prior": {
+    "cash": 2573.0660000000003,
+    "equity_parent": 9383.687,
+    "inventories": 127.424,
+    "receivables": 151.149,
+    "short_term_investments": 6573.661,
+    "total_assets": 10217.462,
+    "total_current_assets": null,
+    "total_current_liabilities": 505.562,
+    "total_debt": 345.8,
+    "total_equity": 9430.852,
+    "total_liabilities": 786.61
+   }
+  },
+  "cashflow": {
+   "cur": {
+    "buybacks": null,
+    "capex": 68.446,
+    "cfo": -399.238,
+    "dividends_paid": null
+   },
+   "prior": {
+    "buybacks": null,
+    "capex": 36.848,
+    "cfo": -238.479,
+    "dividends_paid": null
+   }
+  },
+  "income": {
+   "cur": {
+    "cost_of_sales": 167.834,
+    "eps_diluted": -0.06,
+    "gross_profit": 225.793,
+    "income_tax": 0.63,
+    "net_income": -224.94400000000002,
+    "net_income_parent": -251.901,
+    "operating_income": -254.24,
+    "pretax_income": -224.314,
+    "revenue": 393.627,
+    "rnd": 367.838,
+    "sga": 260.142
+   },
+   "prior": {
+    "cost_of_sales": 81.959,
+    "eps_diluted": 0.02,
+    "gross_profit": 435.117,
+    "income_tax": -0.0,
+    "net_income": 75.609,
+    "net_income_parent": 82.795,
+    "operating_income": 32.728,
+    "pretax_income": 75.609,
+    "revenue": 517.076,
+    "rnd": 221.52700000000002,
+    "sga": 240.687
+   }
+  }
+ },
+ "warnings": [
+  "资产负债表有 1 行读不出两列数（例如“The condensed consolidated financial sta”）"
+ ]
 }

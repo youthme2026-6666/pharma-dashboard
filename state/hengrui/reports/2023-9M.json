@@ -1,5 +1,5 @@
 {
- "check_version": 1,
+ "check_version": 3,
  "doc": "2023-9M",
  "fiscal_year": 2023,
  "kind": "report",
@@ -161,12 +161,12 @@
  },
  "mapping_source": "A 股统一格式对照表",
  "months": 9,
- "parse_version": 1,
+ "parse_version": 2,
  "period_end": "2023-09-30",
  "problems": [],
  "processed": "2026-11-23",
  "published": "2023-10-26",
- "restatement_hint": "",
+ "restatement_texts": [],
  "signatures": {
   "balance": "6c1c369e3821f5a7",
   "cashflow": "bc5e299df2fc7ec3",
