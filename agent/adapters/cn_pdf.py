@@ -37,7 +37,7 @@ import urllib.request
 from .base import Result
 
 PARSE_VERSION = 1        # 文字 → 报表行 的规则版本：改了就重新下载、重新拆行
-CHECK_VERSION = 2        # 报表行 → 科目、核对 的规则版本：改了就用 state 里存的报表行重新核对（不用下载，也不重新问 GPT）
+CHECK_VERSION = 3        # 报表行 → 科目、核对 的规则版本：改了就用 state 里存的报表行重新核对（不用下载；已有对照的不重新问 GPT）
 FIRST_YEAR = 2023        # 从 2023 财年的报告开始补（报告里的上年同期数再补到 2022 年）
 MAX_DOCS_PER_RUN = 16    # 每家公司每次最多新处理几份报告（首次补数据可能分几次完成；真正的限制是下面的时间上限）
 TIME_BUDGET = 300        # 每家公司每次处理新报告的时间上限（秒）
@@ -808,10 +808,10 @@ FIELD_HELP = {
     "pretax_income": "利润总额 / Profit (loss) before tax",
     "income_tax": "所得税费用 / Income tax expense (credit)",
     "net_income": "净利润 / Profit (loss) for the period/year（含少数股东）",
-    "net_income_parent": "归属于母公司股东的净利润 / Profit attributable to owners (equity holders) of the Company（只取利润的归属，不取综合收益的归属；没有归属拆分就空）",
+    "net_income_parent": "归属于母公司股东的净利润 / Profit attributable to owners (equity holders) of the Company：只在报表单独列出“利润归属于本公司所有者”的那一行时才填（不取综合收益的归属）；报表没有归属拆分（没有少数股东）就给空数组，程序会用净利润",
     "eps_diluted": "稀释每股收益 / Diluted earnings (loss) per share",
     "cash": "货币资金 / Cash and cash equivalents / Bank balances and cash（不含受限资金、定期存款单列的行）",
-    "short_term_investments": "流动资产里的短期投资：交易性金融资产、理财产品、三个月以上定期存款（Time / Bank / Term deposits）、以公允价值计量且变动计入损益的流动金融资产",
+    "short_term_investments": "流动资产里的短期投资：交易性金融资产、理财产品、三个月以上定期存款（Time / Bank / Term deposits）、以公允价值计量且变动计入损益的流动金融资产（几行都给；非流动资产里的不算）",
     "receivables": "应收账款 / Trade receivables（应收账款和应收票据合在一行的也算）；不含其他应收款、预付款",
     "inventories": "存货 / Inventories",
     "total_current_assets": "流动资产合计 / Total current assets（港股常是没有名称的小计行）",
@@ -820,7 +820,7 @@ FIELD_HELP = {
     "total_debt": "有息借款：短期借款、长期借款、应付债券、可转换债券、Borrowings / Bank loans / Bonds / Notes（流动和非流动各行都给）；不含租赁负债、一年内到期的非流动负债",
     "total_liabilities": "负债合计 / Total liabilities；没有这一行时，给流动负债小计和非流动负债小计两行（程序相加）",
     "total_equity": "所有者权益合计 / Total equity（含少数股东权益）",
-    "equity_parent": "归属于母公司所有者权益合计 / Equity attributable to owners of the Company（可以是没有名称的小计行；没有就空）",
+    "equity_parent": "归属于母公司所有者权益合计 / Equity attributable to owners of the Company（可以是这一小节下没有名称的小计行）：只在报表单独列出时才填；报表没有少数股东权益（没有这一行）就给空数组，程序会用权益合计；不要对到 Reserves、Share capital",
     "cfo": "经营活动产生的现金流量净额 / Net cash from (used in) operating activities",
     "capex": "购建固定资产、无形资产和其他长期资产支付的现金 / Purchase(s) of property, plant and equipment 以及无形资产等长期资产的购置款（几行都给）",
     "dividends_paid": "单独列出的支付股利 / Dividends paid（A 股“分配股利、利润或偿付利息支付的现金”混有利息，不要用）",
@@ -829,9 +829,10 @@ FIELD_HELP = {
 
 GPT_INSTRUCTIONS = (
     "你在帮一个全自动的财务数据流程读上市公司定期报告里的合并报表。程序已经从 PDF 文字里把每张表逐行抽了出来："
-    "每行是 [行号, 行名, 所在小节（和上一行相同时为空）, 本期数, 上期数]，数字是原文照抄（括号表示负数，“–/—”表示零）；"
+    "每行是 [行号, 行名, 所在小节（和上一行相同时为空）, 本期数, 上期数]，行号带表的前缀（利润表 I、资产负债表 B、现金流量表 C，例如 B12），"
+    "数字是原文照抄（括号表示负数，“–/—”表示零）；"
     "行名以“[小计]”开头的是原文里没有名称的小计行。"
-    "你的任务只有一个：判断统一格式的每个科目对应哪一行（或哪几行，程序会把它们相加），只给行号。"
+    "你的任务只有一个：判断统一格式的每个科目对应哪一行（或哪几行，程序会把它们相加），只给行号（每个科目只能用它所属那张表的行号）。"
     "规则：只能用给出的行号；报表上没有对应的行就给空数组，不要用相近的行凑；不要计算任何数字。"
     "unit 逐字抄写表头里的金额单位（例如 RMB'000、RMB million、US$'000、单位：元）；currency 是金额币种；"
     "eps_unit：每股收益以元计填 yuan，以分（cents）计填 cents。"
@@ -842,7 +843,7 @@ GPT_INSTRUCTIONS = (
 def _mapping_schema():
     def obj(fields):
         return {"type": "object", "additionalProperties": False, "required": list(fields),
-                "properties": {f: {"type": "array", "items": {"type": "integer"}} for f in fields}}
+                "properties": {f: {"type": "array", "items": {"type": "string"}} for f in fields}}
     return {"type": "object", "additionalProperties": False,
             "required": ["unit", "currency", "eps_unit", "income", "balance", "cashflow"],
             "properties": {"unit": {"type": "string"}, "currency": {"type": "string", "enum": ["CNY", "USD", "HKD", "EUR"]},
@@ -850,11 +851,16 @@ def _mapping_schema():
                            "income": obj(INCOME_FIELDS), "balance": obj(BALANCE_FIELDS), "cashflow": obj(CASHFLOW_FIELDS)}}
 
 
+PREFIX = {"income": "I", "balance": "B", "cashflow": "C"}
+MULTI = ("total_assets", "total_liabilities", "sga", "total_debt", "capex", "short_term_investments")   # 可以对几行（程序相加）
+
+
 def gpt_mapping(gpt, company, doc, stmts, previous=None, feedback=None):
     """请 GPT 给出对照（只给行号）。返回 GPT 的原始回答（dict），由 verify_mapping 核对。"""
     payload = {"company": "%s %s" % (company.get("name_zh", ""), company.get("name_en", "")), "document": doc.get("title"),
                "statements": {k: {"header": st["header"][:10],
-                                  "lines": [[i, l["label"], l["section"] if i == 0 or l["section"] != st["lines"][i - 1]["section"] else "",
+                                  "lines": [["%s%d" % (PREFIX[k], i), l["label"],
+                                             l["section"] if i == 0 or l["section"] != st["lines"][i - 1]["section"] else "",
                                              l["cur"], l["prior"]] for i, l in enumerate(st["lines"])]}
                               for k, st in stmts.items()}}
     if previous:
@@ -904,14 +910,24 @@ GUARD = {
 def guard_problem(field, line):
     text = ("%s | %s" % (line["label"], line["section"])).lower()
     need, ban = GUARD[field]
-    if not re.search(need, text):
-        return "%s 对到的行“%s”行名不符合" % (field, line["label"][:40])
-    if ban and re.search(ban, line["label"].lower()):
-        return "%s 对到的行“%s”行名不符合" % (field, line["label"][:40])
+    if not re.search(need, text) or (ban and re.search(ban, line["label"].lower())):
+        return "%s 对到的行“%s”行名不符合（%s 应是：%s；报表没有这样的行就给空数组）" % (field, line["label"][:40], field, FIELD_HELP[field][:60])
     sec = (line["section"] or "").lower()
     if field == "net_income_parent" and re.search(r"综合收益|comprehensive", sec) and re.search(r"归属|attributable", sec):
         return "%s 对到的是综合收益的归属行“%s”" % (field, line["label"][:40])
     return None
+
+
+def _line_id(x, kind):
+    """'B12' → 12（必须是这张表的前缀）；兼容纯数字。不对返回 None。"""
+    if isinstance(x, bool):
+        return None
+    if isinstance(x, int):
+        return x
+    m = re.match(r"^\s*([IBC]?)(\d+)\s*$", str(x))
+    if not m or (m.group(1) and m.group(1) != PREFIX[kind]):
+        return None
+    return int(m.group(2))
 
 
 def verify_mapping(stmts, ans, header_text):
@@ -927,24 +943,27 @@ def verify_mapping(stmts, ans, header_text):
         mapping[kind] = {}
         used = {}
         for f in FIELDS[kind]:
-            ids = m.get(f) or []
-            if not isinstance(ids, list) or not all(isinstance(i, int) and not isinstance(i, bool) for i in ids):
-                probs.append("%s 的行号格式不对" % f)
+            raw = m.get(f) or []
+            ids = [_line_id(x, kind) for x in raw] if isinstance(raw, list) else [None]
+            if any(i is None for i in ids):
+                probs.append("%s 的行号必须是%s开头的本表行号（%s 不对）" % (f, PREFIX[kind], raw))
                 continue
             if len(set(ids)) != len(ids) or any(i < 0 or i >= len(st["lines"]) for i in ids):
-                probs.append("%s 的行号不存在：%s" % (f, ids))
+                probs.append("%s 的行号不存在：%s" % (f, raw))
                 continue
-            if f not in ("total_assets", "total_liabilities", "sga", "total_debt", "capex") and len(ids) > 1:
-                probs.append("%s 只能对一行：%s" % (f, ids))
+            if f not in MULTI and len(ids) > 1:
+                probs.append("%s 只能对一行：%s" % (f, raw))
                 continue
             bad = [guard_problem(f, st["lines"][i]) for i in ids]
             bad = [b for b in bad if b]
+            if bad and f in ("equity_parent", "net_income_parent") and not has_nci(st):
+                continue                 # 没有少数股东时归属于母公司的就是合计数（程序补），GPT 对到合计行也不算错
             if bad:
                 probs += bad
                 continue
             for i in ids:
                 if i in used and not {f, used[i]} & {"total_assets", "total_liabilities", "total_current_assets", "total_current_liabilities"}:
-                    probs.append("第 %d 行同时对到了 %s 和 %s" % (i, used[i], f))
+                    probs.append("%s%d 行同时对到了 %s 和 %s" % (PREFIX[kind], i, used[i], f))
                 used.setdefault(i, f)
             if ids:
                 mapping[kind][f] = ids
@@ -1291,12 +1310,23 @@ def evaluate(doc, stmts, mapping, unit, style):
             if unit.get("eps_unit") == "cents" and eps_scale(st, m.get("eps_diluted")) != 0.01:
                 probs.append("GPT 说每股收益以分计，但原文没有写 cents")
         vals, p = compute_values(kind, st, m, scale, style, mult)
+        if not has_nci(st):
+            # 报表里没有少数股东（IAS 1、企业会计准则都要求有少数股东时单列归属）：归属于母公司的就是合计数
+            for col in ("cur", "prior"):
+                if kind == "income" and vals[col].get("net_income_parent") is None:
+                    vals[col]["net_income_parent"] = vals[col].get("net_income")
+                if kind == "balance" and vals[col].get("equity_parent") is None:
+                    vals[col]["equity_parent"] = vals[col].get("total_equity")
         probs += ["%s：%s" % (KIND_ZH[kind], x) for x in p]
         probs += ["%s：%s" % (KIND_ZH[kind], x) for x in CHECKS[kind](st, m, vals, scale, style)]
         values[kind] = vals
         if st.get("bad"):
             warns.append("%s有 %d 行读不出两列数（例如“%s”）" % (KIND_ZH[kind], len(st["bad"]), st["bad"][0][:40]))
     return values, probs, warns
+
+
+def has_nci(st):
+    return any(re.search(r"non-controlling|minority interest|少数股东|非控制性", (l["label"] + " " + l["section"]).lower()) for l in st["lines"])
 
 
 def mapping_labels(stmts, mapping):
@@ -1648,8 +1678,11 @@ def run_update(company, ctx, source):
     if _RUN["start"] is None:
         _RUN["start"] = t0
     # 规则改了（CHECK_VERSION）：用存下的报表行重新核对，不用下载
-    for rec in list(records.values()):
+    for rec in sorted(records.values(), key=lambda r: (r["published"], r["doc"])):
         if rec.get("statements") and rec.get("check_version") != CHECK_VERSION and rec.get("parse_version") == PARSE_VERSION:
+            if time.time() - t0 > TIME_BUDGET or time.time() - _RUN["start"] > RUN_BUDGET:
+                pending.append("还有报告等下次按新规则重新核对")
+                break
             try:
                 records[rec["doc"]] = finish_record(rec, company, ctx, {k: v for k, v in records.items() if k != rec["doc"]})
                 save_record(ctx, cid, records[rec["doc"]])

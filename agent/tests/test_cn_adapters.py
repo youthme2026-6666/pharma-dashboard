@@ -124,7 +124,8 @@ def answer_from(statements, spec, unit="RMB'000", eps_unit="yuan", tweak=None):
     ans = {"unit": unit, "currency": "CNY", "eps_unit": eps_unit}
     for kind in P.KINDS:
         lines = statements[kind]["lines"] if kind in statements else []
-        ans[kind] = {f: (ids_for(lines, spec.get(kind, {}).get(f, [])) if lines else []) for f in P.FIELDS[kind]}
+        ans[kind] = {f: ["%s%d" % (P.PREFIX[kind], i) for i in (ids_for(lines, spec.get(kind, {}).get(f, [])) if lines else [])]
+                     for f in P.FIELDS[kind]}
     if tweak:
         tweak(ans, statements)
     return ans
@@ -301,6 +302,9 @@ class TestInnovent(unittest.TestCase):
         self.assertEqual(probs, [])
         self.assertNotIn("cashflow", stmts)                   # 业绩公告没有现金流量表（在年报里）
         near(self, vals, INNOVENT_FY25, "innovent FY2025")
+        # 信达没有少数股东：归属于母公司的净利润、权益就是合计数
+        self.assertEqual(vals["income"]["cur"]["net_income_parent"], vals["income"]["cur"]["net_income"])
+        self.assertEqual(vals["balance"]["prior"]["equity_parent"], vals["balance"]["prior"]["total_equity"])
 
     def test_h1_2026(self):
         d, stmts, vals, probs = self.run_gpt("innovent_2026h1_ann", FakeGPT())
@@ -320,16 +324,27 @@ class TestInnovent(unittest.TestCase):
         def bad_unit(ans, sts):           # 单位不在表头原文里
             ans["unit"] = "RMB million"
 
+        def other_table(ans, sts):        # 用了别的表的行号
+            ans["balance"]["cash"] = ["C3"]
+
         def half_assets(ans, sts):        # 总资产只给了流动资产小计：资产 ≠ 负债 + 权益
             ans["balance"]["total_assets"] = ids_for(sts["balance"]["lines"], [("[小计] Current assets", None)])
 
         def wrong_cost(ans, sts):         # 营业成本对到了研发费用（行名不符合）
             ans["income"]["cost_of_sales"] = ids_for(sts["income"]["lines"], [("R&D expenses", None)])
 
-        for tweak, key in ((wrong_rnd, "rnd"), (wrong_revenue, "revenue"), (bad_ids, "不存在"), (bad_unit, "单位"),
+        for tweak, key in ((wrong_rnd, "rnd"), (wrong_revenue, "revenue"), (bad_ids, "不存在"), (bad_unit, "单位"), (other_table, "本表行号"),
                            (half_assets, "资产 ≠ 负债 + 权益"), (wrong_cost, "cost_of_sales")):
             d, stmts, vals, probs = self.run_gpt("innovent_2026h1_ann", FakeGPT(tweaks=[tweak]))
             self.assertTrue(probs and any(key in p for p in probs), (tweak.__name__, probs))
+
+    def test_no_minority_interests(self):
+        """信达没有少数股东：GPT 把“归属于母公司的权益”对到权益合计行也不算错（程序按合计数记），对到 Reserves 才算错。"""
+        def to_total(ans, sts):
+            ans["balance"]["equity_parent"] = ["B%d" % i for i in ids_for(sts["balance"]["lines"], [("Total equity", None)])]
+        d, stmts, vals, probs = self.run_gpt("innovent_2026h1_ann", FakeGPT(tweaks=[to_total]))
+        self.assertEqual(probs, [])
+        self.assertAlmostEqual(vals["balance"]["cur"]["equity_parent"], 20745.84, places=6)
 
     def test_guard_comprehensive_attribution(self):
         line = {"label": "Owners of the Company", "section": "Total comprehensive income for the period attributable to:"}
