@@ -1,0 +1,16 @@
+{
+  "currency": "CNY",
+  "events": 0,
+  "id": "wuxiapptec",
+  "latest_period": "2026 Q3",
+  "latest_period_end": "2026-09-30",
+  "name_en": "WuXi AppTec",
+  "name_zh": "药明康德",
+  "rows": {
+    "balance": 16,
+    "cashflow": 32,
+    "income": 32,
+    "segments": 0
+  },
+  "source": "cninfo"
+}

@@ -1,0 +1,16 @@
+{
+  "currency": "CNY",
+  "events": 0,
+  "id": "mindray",
+  "latest_period": "2026 Q3",
+  "latest_period_end": "2026-09-30",
+  "name_en": "Shenzhen Mindray Bio-Medical Electronics",
+  "name_zh": "迈瑞医疗",
+  "rows": {
+    "balance": 16,
+    "cashflow": 32,
+    "income": 32,
+    "segments": 0
+  },
+  "source": "cninfo"
+}
