@@ -546,6 +546,9 @@ class TestEndToEnd(unittest.TestCase):
         self.assertTrue(P.RESTATE.search("2025 (restated)"))
         self.assertFalse(P.RESTATE.search("公司是否需追溯调整或重述以前年度会计数据 □是 否"))
         self.assertFalse(P.RESTATE.search("本期发生同一控制下企业合并的，被合并方在合并前实现的净利润为：0 元"))
+        self.assertTrue(P.RESTATE.search("Certain comparative figures have been reclassified to conform to the current period presentation."))
+        self.assertFalse(P.RESTATE.search("the Company adopted the fourteenth amended and restated memorandum and articles"))
+        self.assertFalse(P.RESTATE.search("pipeline represented by IBI363"))
 
 
 class TestRegistry(unittest.TestCase):

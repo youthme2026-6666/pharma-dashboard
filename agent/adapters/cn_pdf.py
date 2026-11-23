@@ -1264,8 +1264,8 @@ CHECKS = {"income": check_income, "balance": check_balance, "cashflow": check_ca
 # 报告里说明了重述的写法（只认明确的说法；“公司是否需追溯调整或重述以前年度会计数据 □是 否”这类固定问句不算，除非勾的是“是”）
 RESTATE = re.compile(r"因会计政策变更[^。]{0,40}追溯调整|重要会计政策变更\s*√\s*适用|调整后\s*调整前|调整前\s*调整后|"
                      r"追溯调整或重述以前年度会计数据\s*(?:√\s*是|是\s*□\s*否)|同一控制下企业合并[^。]{0,20}(?:追溯调整|重述)|"
-                     r"\(restated\)|\brestated\b|\bre-?presented\b|comparative (?:figures|amounts|information) (?:have|has) been "
-                     r"(?:restated|reclassified|re-?presented)|certain comparative (?:figures|amounts)[^.]{0,80}reclassified", re.I)
+                     r"\(restated\)|\(re-presented\)|\bas restated\b|(?:figures|amounts|information|statements?) (?:have|has) been "
+                     r"(?:restated|reclassified|re-presented)|certain comparative (?:figures|amounts)[^.]{0,80}reclassified", re.I)
 
 
 def restatement_hint(pages):
